@@ -1,7 +1,11 @@
 # Asistente de Investigación con Memoria
 
 Este proyecto es un asistente de investigación ejecutado desde consola, especializado inicialmente en biología molecular, con enfoque en el estudio de operones. Implementa un sistema de RAG (Retrieval-Augmented Generation) para responder preguntas usando información contenida en artículos científicos, manteniendo el contexto de la conversación, actualizando su base de conocimiento y citando automáticamente las fuentes consultadas.
-
+## Requisitos:
+1. Implementar un sistema de RAG con actualización de conocimiento
+2. Desarrollar métodos para evitar la pérdida de contexto en conversaciones largas
+3. Crear mecanismos de citación automática
+4. Implementar búsqueda semántica
 ## Objetivos del proyecto
 
 1. **RAG con actualización de conocimiento**: Buscar respuestas en una base local de artículos y actualizarla si es necesario.
