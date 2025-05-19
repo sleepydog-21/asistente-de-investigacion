@@ -1,6 +1,6 @@
 # Asistente de Investigación con Memoria
 
-Este proyecto es un asistente de investigación ejecutado desde consola, especializado inicialmente en biología molecular. Implementa un sistema de RAG (Retrieval-Augmented Generation) para responder preguntas usando información contenida en artículos científicos, manteniendo el contexto de la conversación, actualizando su base de conocimiento y citando automáticamente las fuentes consultadas.
+Este proyecto es un asistente de investigación ejecutado desde consola, especializado inicialmente en biología molecular, con enfoque en el estudio de operones. Implementa un sistema de RAG (Retrieval-Augmented Generation) para responder preguntas usando información contenida en artículos científicos, manteniendo el contexto de la conversación, actualizando su base de conocimiento y citando automáticamente las fuentes consultadas.
 
 ## Objetivos del proyecto
 
@@ -129,4 +129,4 @@ python src/asistente_principal.py
 ---
 
 ## Licencia
-MIT
+Para ejecutar este asistente, es necesario contar con una api key de OPENAI, y remplazar OPENAI_API_KEY= en el archivo credentials/.env
