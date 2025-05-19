@@ -58,7 +58,6 @@ I --> J[Guardar en historial]
 ## Descripción de los programas
 
 ### `asistente_principal.py`
-
 Menú central desde el cual el usuario puede escoger una de las siguientes opciones:
 
 1. 📄 **Resumen de un artículo**: permite al usuario buscar por palabra clave, elegir entre múltiples coincidencias y recibir un resumen generado automáticamente con GPT-4-turbo. El usuario puede optar por guardar el resumen en `resumenes/`.
@@ -74,30 +73,27 @@ Menú central desde el cual el usuario puede escoger una de las siguientes opcio
 ## Scripts auxiliares
 
 ### `descargar_articulos_pubmed.py`
-
 Realiza búsquedas en EuropePMC. Descarga metadatos (ID, título, autores, año, abstract) y texto completo (cuando está disponible). Almacena la información en `papers_raw/` y `papers_fulltext/` y registra las descargas en `descarga_resumen.json`.
 
 ### `fragmentar_abstracts.py`
-
 Extrae los campos de abstract de los artículos en `papers_raw/` y los guarda como fragmentos estructurados en `fragments/fragments.json`. Cada fragmento tiene un identificador único, título, año, autores y el abstract.
 
 ### `generar_embeddings.py`
-
 Genera vectores de embeddings utilizando el modelo `text-embedding-3-small` de OpenAI. Los vectores se almacenan como índice FAISS (`index.faiss`) junto con metadatos para búsquedas rápidas por similitud semántica.
 
 ---
 
 ## Modelos utilizados
 
-* 🔤 **`text-embedding-3-small`** (OpenAI): usado para convertir cada abstract en un vector semántico de dimensión 1536, que se almacena en un índice FAISS para búsqueda rápida.
- **`gpt-4-turbo`** (OpenAI): utilizado para generar respuestas naturales a preguntas, producir resúmenes individuales, comparar artículos y responder en modo chat. Todas las interacciones generativas del asistente se basan en este modelo.
+- 🔤 **`text-embedding-3-small`** (OpenAI): usado para convertir cada abstract en un vector semántico de dimensión 1536, que se almacena en un índice FAISS para búsqueda rápida.
+- 🧠 **`gpt-4-turbo`** (OpenAI): utilizado para generar respuestas naturales a preguntas, producir resúmenes individuales, comparar artículos y responder en modo chat. Todas las interacciones generativas del asistente se basan en este modelo.
 
 ---
 
 ## Requisitos
 
-* Python 3.10 o superior
-* Paquetes necesarios:
+- Python 3.10 o superior
+- Paquetes necesarios:
 
 ```bash
 pip install openai faiss-cpu tqdm requests python-dotenv
@@ -121,17 +117,16 @@ python src/asistente_principal.py
 
 ## Estado actual
 
-* [x] Descarga de artículos científicos
-* [x] Fragmentación de abstracts
-* [x] Generación de embeddings semánticos
-* [x] RAG con búsqueda contextual y citación automática
-* [x] Chat interactivo con historial de sesión
-* [x] Resumen de artículos individuales
-* [x] Comparación crítica entre dos artículos
-* [x] Menú principal funcional
+- [x] Descarga de artículos científicos
+- [x] Fragmentación de abstracts
+- [x] Generación de embeddings semánticos
+- [x] RAG con búsqueda contextual y citación automática
+- [x] Chat interactivo con historial de sesión
+- [x] Resumen de artículos individuales
+- [x] Comparación crítica entre dos artículos
+- [x] Menú principal funcional
 
 ---
 
 ## Licencia
-
 MIT
