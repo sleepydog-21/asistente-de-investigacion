@@ -1,0 +1,11 @@
+{
+  "id": "39423186",
+  "title": "Long-term genomic surveillance reveals the circulation of clinically significant Salmonella in lymph nodes and beef trimmings from slaughter cattle from a Mexican feedlot.",
+  "doi": null,
+  "authors": "Delgado-Suárez EJ, García-Meneses AV, Ponce-Hernández EA, Ruíz-López FA, Hernández-Pérez CF, Ballesteros-Nova NE, Soberanis-Ramos O, Rubio-Lozano MS",
+  "journal": "PloS one",
+  "year": "2024",
+  "abstract": "This longitudinal study characterized Salmonella circulating in lymph nodes (LN, n = 800) and beef trimmings (n = 745) from slaughter cattle from a Mexican feedlot. During two years, LN and beef trimming samples were collected 72-96 h post-slaughter, and we obtained 77 isolates of the serovars Anatum (n = 23), Reading (n = 22), Typhimurium (n = 10), London (n = 9), Kentucky (n = 6), Fresno (n = 4), Give, Muenster, and monophasic 1,4,[5],12:i- (n = 1 each). These isolates were subjected to whole genome sequencing, single-nucleotide polymorphism (SNP)-based phylogenetic analysis, reconstruction of their ancestral isolation sources through evolutionary analysis, and virulence profiling. Although LN and beef trimmings were not mixed, evolutionary analysis estimated that the common ancestor of all study isolates was likely of LN origin. Moreover, isolates from both sources were highly clonal (0-21 SNP distance), highlighting the complexity of Salmonella transmission dynamics. The pathogen persisted across cattle cohorts, as shown by clonality between isolates collected in different years (1-20 SNP distance). Major virulence genes were highly conserved (97-100% identity to the reference sequences) and most isolates carried a conserved version of pathogenicity islands 1-5, 9, 11, and 12. Typhimurium strains carried the Salmonella plasmid virulence operon (spvRABCD), and a Muenster isolate carried the st313td gene, both of which are associated with invasive phenotypes. Most isolates (49/77) were genetically similar (1-43 SNPs) to strains involved in human salmonellosis, highlighting their public health significance. Further research is needed on Salmonella transmission dynamics in cattle and the mechanisms determining subclinical infection and persistence in farm environments.",
+  "source": "PubMed",
+  "pmcid": "PMC11488740"
+}

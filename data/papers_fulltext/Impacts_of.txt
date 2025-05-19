@@ -1,0 +1,63 @@
+PerR is an autoregulated transcriptional repressor and is a member of the ferric uptake repressor (Fur) family of proteins (
+
+In
+
+Despite these previous findings on the role of
+
+To determine the impact of a constitutively expressed PerR on
+
+To confirm wild type PerR function in 630Δ
+
+To evaluate the impacts of oxygen-responsive
+
+Despite differences in PerR activity between 630Δ
+
+To better understand genes involved in 630Δ
+
+Despite differences in expression of
+
+These data suggest that the increased viability of 630Δ
+
+During infection,
+
+There was no difference between the two strains in stool consistency scores nor
+
+630Δ
+
+Here, we restored a wild type copy of
+
+To better understand the genes repressed by PerR (which likely contribute to increased O
+
+Our RNA-seq data also show that large-scale changes to the
+
+Our data also indicate that there is no difference between 630Δ
+
+In summary, our work establishes that a constitutively de-repressed PerR regulon offers no fitness advantage at O
+
+For
+
+The
+
+Illumina whole genome sequencing on DNA extracted (
+
+Liquid cultures of 630, 630Δ
+
+RNA was extracted by centrifuging samples at 3,000 xg for 5 minutes at 4°C. Pellets were washed with 5 mL cold, nuclease free PBS, and centrifuged at 3,000 xg for 5 minutes at 4°C. The supernatant was removed, and remaining pellets were resuspended in 1 mL TRIzol and processed using a TRIzol Plus RNA Purification Kit (Thermo) with on-column DNase treatment. Purified RNA integrity was confirmed via 2100 Agilent BioAnalyzer and frozen at −80°C.
+
+RNA-seq was performed by Microbial Genome Sequencing Center (MiGS) on high-quality rRNA-depleted RNA extracts (12 million paired end reads per sample). Quality control and adapter trimming was performed with bcl2fastq (version 2.20.0.445)(
+
+The Principal Coordinate Analysis (PCA) plot was generated from the RNA-seq data in R using version 4.4.1. PCA was performed using
+
+To identify a timepoint for RNA-seq at which
+
+RT-qPCR was performed using GoTaq 1-Step RT-qPCR Master Mix (Promega) according to the manufacturer’s instructions with a concentration of 1 ng/μL RNA in a final volume of 10 μL. Each reaction was run with three technical replicates. The RT-qPCRs were performed on a QuantStudio 7 Flex (Applied Biosystems) and threshold cycle (Ct) was determined using QuantStudio Real-Time PCR Software v1.7.2. The cycle run involved a reverse transcriptase activation and inactivation step of 40°C for 15 minutes and 95°C for 10 minutes. The PCR cycle was 95°C for 10 sec, 60°C for 30 sec and 72°C for 30 sec for 40 cycles, with a melt curve performed afterwards. Relative fold change was determined by comparing the Ct values against the average Ct value at 0 minutes for each condition.
+
+To quantify
+
+All animal studies were done in strict accordance with the University of Wisconsin-Madison Institutional Animal Care and Use Committee (IACUC) guidelines (Protocol #M006305). CDI murine model was performed on age- and sex-matched, conventionally reared C57BL/6 in-house between 6 and 9 weeks of age. Mice were fed a fiber free (FF) diet (Inotiv TD.150689) one week before antibiotic exposure. Mice were given a single dose of clindamycin by oral gavage (1 mg/mouse; 200 μL of 5-mg/mL solution), and 24 hours later were given 200 μL 630Δ
+
+At 7 dpi, mice were switched from the FF diet to a fiber rich standard rodent chow (Inotiv Teklad
+
+Data on normalized transcript abundance and differential expression analysis are found in
+
+All statistical analyses, except for the PERMANOVA, were performed using GraphPad Prism 9.4.1. PERMANOVA was performed as described in “PCA Generation and RNA-seq Data Analysis” section. Details of specific statistical analyses indicated in figure legends. For all figures, *

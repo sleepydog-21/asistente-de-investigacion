@@ -1,0 +1,57 @@
+In recent years, the prevalence of
+
+The area of
+
+Antimicrobial resistance was observed depending on the antimicrobial resistance genes detected via PCR. However,
+
+All 80
+
+The number of reads obtained from the short- and long-read sequencing performed in this study is shown in
+
+Short-read sequencing was performed on two
+
+Although our previous study reported the presence of antimicrobial resistance genes [
+
+Long-read sequencing was performed on
+
+The sequences of four plasmids (pSal_238Inf, pSal_249Sch, pESI, and pN17S0349) were annotated using the DDBJ Fast Annotation and Submission Tool (DFAST), and the plasmid structures were drawn and compared using Easyfig (
+
+Next, the short-read sequences of
+
+Two plasmid sequences (pSal_238Inf and pSal_249Sch) and five tentative plasmid sequences (pSal_278, pSal_167, pSal_291, pSal_266, and pSal_256) contained the yersiniabactin biosynthetic, regulatory, and transport operons and the toxin–antitoxin system (
+
+Although the presence of
+
+All seven isolates for which the plasmid structures were determined or tentatively determined were tested for antimicrobial resistance transfer (
+
+Although one
+
+A cgMLST analysis was performed for five
+
+In 2018,
+
+By performing a genomic analysis of
+
+Over the last 10 years, multidrug-resistant
+
+The tentative plasmid sequences of four
+
+From the
+
+The minimum inhibitory concentrations (MICs) of nine antimicrobial agents [ampicillin (breakpoint, 32 μg/mL), cefazolin (8 μg/mL), gentamicin (16 μg/mL), kanamycin (64 μg/mL), tetracycline (16 μg/mL), chloramphenicol (32 μg/mL), nalidixic acid (32 μg/mL), ciprofloxacin (1 μg/mL), and trimethoprim–sulfamethoxazole (4/76 μg/mL)] on the 101 investigated isolates were determined with the broth microdilution method using Frozen Plate (Eiken Chemical Co., Ltd., Tokyo, Japan). In addition, the MICs for streptomycin (16 μg/mL) (FUJIFILM Wako Pure Chemical Co., Osaka, Japan) and trimethoprim (16 μg/mL) (FUJIFILM Wako Pure Chemical Co.) were determined using the agar dilution method in Mueller–Hinton agar (Thermo Fisher Scientific K. K., Osaka, Japan), according to the Clinical Laboratory Standards Institute guidelines [
+
+The major genes for resistance to streptomycin [
+
+To determine the inserted gene cassettes in the class 1 integron, the corresponding regions in each isolate were classified using RFLP analysis, as previously described [
+
+Next, conjugation experiments were performed using the broth mating method to determine the transfer of antimicrobial resistance genes. A rifampicin-resistant
+
+The agar dilution method was used to determine the MICs of ampicillin, cefazolin, streptomycin, kanamycin, tetracycline, and trimethoprim for the transconjugants. The antimicrobial resistance genes in the transconjugants were also detected via PCR, as described above.
+
+Short-read sequencing for five
+
+Trimming of raw short reads and long-read data was performed using FastP (v 0.23.3) [
+
+Core-genome multilocus sequence-type (cgMLST) analysis was performed using cgMLSTFinder [
+
+In this study, complete plasmid sequences were identified for

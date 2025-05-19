@@ -1,0 +1,276 @@
+
+
+
+
+There is no obvious association of
+
+Depending on the location or site where pathogenic
+
+Rasko et al. [
+
+To date, the largest study of
+
+The available literature about pangenome analyses [
+
+The pangenome construction critically depends on identifying clusters of homologous genes/proteins or gene/protein families (GF) among all the genomes in the study [
+
+The pangenome matrix can be utilized to find relationships between
+
+Putting all perspectives together, in this study, we aim at performing (1) the construction of the
+
+As described in the “
+
+Given the genome sequences, we performed in silico sequence typing, phylotyping, and serotyping for each genome as described in the “
+
+Additional file
+
+Our results show that the pairwise average nucleotide identity (ANI) across the genomes is not below 95%, which indicates that all genomes are from the same species [
+
+Additional file
+
+Several studies have distinguished the different pathotypes or subsets of
+
+Taken together, we think that the prediction of potential pathogenicity of
+
+Figure
+
+Steps in pangenome development. The complete genomes of
+
+Further, we focus on the virulence analysis among the more common sequence types in
+
+Despite the pangenome profiling of
+
+The distribution of virulence categories across the eight phylogroups of
+
+We observe a near plateau of the Jaccard similarity index for both SeqID and SeqLC at about 60% (see Fig.
+
+The SeqID effect (
+
+Even with the optimal choice of SeqID and SeqLC, manual analysis of selected GFs shows some clusters being split into two or more groups with the sequentially more distant members forming independent GFs. Therefore, we introduced a re-clustering phase to reduce the scale of this problem. We selected longest sequences from each cluster as representative leads and subjected them to re-clustering by CD-HIT with parameters SeqID=40% and SeqLC=50%; however, with the additional criterion that the merged clusters must share the same PFAM domains as illustrated in Fig.
+
+Pangenome profile in 1,324
+
+Table
+
+The concordance of the pangenome clusters between the two methods is at least 87%; i.e., there are at least 87% common clusters among them. We have ~25,000 GFs in the
+
+Pangenome plot of
+
+To quantify the growth trend, we approximated the curve with Heap’s law (see legend in Fig.
+
+The softcore genome (defined as set of GFs in at least 95% of all genomes) size is ~3050, which is consistent with the value from a previous study (~3000) using just 186 genomes [
+
+Nonetheless, similarity in size does not necessarily mean similar members of GFs. Therefore, it is important to evaluate if the stability in the softcore genome size reflects consistency of the softcore genome clusters as well, i.e., the same or similar members of gene families are identified independently of the number of genomes used to generate the pangenome. We calculated the softcore genome clusters 100 times for random selections of 5, 10, 15… 50, 100, 150, 200… 1300 genomes and determined the average (Fig.
+
+Further, if we compare the softcore genome cluster sets calculated with 100 genomes (for the 92% and 95% thresholds for softcore genome generation) with that obtained from the full set of 1324 genomes, the two softcore genomes have about 98% clusters in common.
+
+The stability and consistency of the softcore genome (i.e., the stable size and GF composition regardless of the number of genomes included) happen apparently not by chance. A previous study with 48
+
+The STs and phylogroups of all
+
+Figure
+
+Heatmap profiling of GFs for frequently observed sequence types. Heatmap profiles have been derived by unsupervised clustering of 674
+
+At the gene families’ level, several distinct GF clusters specific for certain groups of phylogroups or sequence types are clearly recognizable at the background of scattered minor differences (Fig.
+
+Cluster 1 (rare in ST11);
+
+Cluster 2 (common in B2);
+
+Cluster 3 (common in ST131);
+
+Cluster 4 (rare in ST131);
+
+Cluster 5 (B1-shiga); and
+
+Cluster 6 (common in ST11).
+
+The list of GFs for each group is provided in Supplementary file 4 (as part of zip package Additional file
+
+ST131
+
+The analysis of the distribution of COG functional categories [
+
+There are several important annotated genes in Cluster 3 that help understanding the nature of ST131. For example, the gene
+
+The gene
+
+Whereas the distribution of functional categories in Cluster 4 (Additional file
+
+The cluster of
+
+The cluster of
+
+The cluster of
+
+The cluster of
+
+The cluster of
+
+Briefly,
+
+In the previous section, we have discussed some well-annotated common and rare GFs of
+
+To investigate the specificity of the clusters, the DNA sequences of each cluster are searched with blastn against the ST131 and non-ST131 genomes, respectively. Additional file
+
+To find homologous sequences in other species, we use NCBI blastn to the non-redundant database excluding
+
+In contrast, s2-ST131 has 100% identity with and coverage by a bacteriophage sequence (Accession ID: BK034715.1). Both bacteriophages BK037528.1 and BK034715.1 were recently reported [
+
+Next, we investigated the protein sequences for each of the genes within the s1-ST131 and s2-ST131 synteny clusters as described in the “
+
+Interestingly, some of the s1-ST131 genes map only to a sub-structure of pyocin R2 in
+
+It is worth noting that there might be a potential annotation error in the synteny region s2-ST131 for the remaining 14th gene (late control gene: SY51_RS10535 of GCF_000931565.1) between the loci for GF_6212 and GF_13723 (Additional file
+
+For the next 19 genes, manual annotation suggests that the next 10 genes seem to code for the capsid head of bacteriophage and, finally, the rest of genes code for lysis-related proteins (Additional file
+
+The striking similarity of synteny regions s1-ST131 and s2-ST131 to a bacteriophage suggests integration into the
+
+
+
+All
+
+The Type IV secretion system (T4SS) is typically not found in
+
+There is sequence type and phylogroup variation with regard to T6SS among the
+
+We have also noticed a manganese catalase family protein (RefSeq ECs_1652, GeneID 913226, UniProtKB Q8XDQ1) that exists in almost all of the ST11 genomes. A novel effector
+
+Differences in iron acquisition system have also been detected by heatmap analysis (Fig.
+
+With the same approach as with the ST131
+
+Similarly, we investigated the DNA sequences of the two clusters according to their (i) specificity among
+
+Next, we use NCBI blastn to query these two synteny clusters against the non-redundant database excluding
+
+The second cluster s2-ST11 has more than 95% identity to a chromosomal segment of
+
+The synteny cluster s1-ST11 has been predicted to be involved in bacterial pathogenesis and lipoprotein metabolism. The presence of lipid metabolism genes in this cluster (subset of genes ECs_1284 to ECs_1289; actually part of a biosynthetic gene cluster—see below) suggests the ability of
+
+The s2-ST11 synteny cluster ranges from ECs_4324 to ECs_4341 and contains lipoprotein and fatty-acid biosynthesis systems. Both genomic regions called here s1-ST11 and s2-ST11 have been reported to be part of S-loop #71 and S-loop #225, respectively [
+
+Biosynthetic cluster analysis (with antiSMASH 6.0 [
+
+Based on the heatmap profile, we observe that
+
+In our large genome collection, we find that three further gene groups are characteristic for shiga B1 strains (Shiga toxin-producing
+
+The accessory genome matrix with 6244 GFs from 674 genomes (as described above) was used for coincidence analysis with CoinFinder [
+
+The comprehensive analysis of this GF coincidence data will be presented elsewhere. Here, we focus on the GFs associated to s2-ST131 and s1-ST11. As expected, we find the GFs in s2-ST131 being associated to those in s1-ST131 and vice versa. There are about 360 GFs associated to GFs in s2-ST131 and approximately 590 GFs associated to GFs in s1-ST11 as shown in Additional file
+
+Next, we investigated if there is any correlation between the virulence category (“likely nonpathogenic,” “likely virulent,” “highly virulent,” and “extremely virulent”) with the number of prophages contained in the genome as well as the likelihood of antibiotic resistance as defined by antibiogram. The antibiograms of 24 AMR targets for the 1324 genomes are provided in Supplementary file 6, whereas the virulence factor matrix is given in Supplementary file 7 (both in the zip package Additional file
+
+Figure
+
+Virulence as function of the antibiogram and of the number of prophages. The relationship of virulence category to
+
+First studied in 1844,
+
+Both significance of the
+
+Despite the limitations, several of those literature reports arrived at notable conclusions. An approximated,
+
+In this work, we have analyzed 1324
+
+We have built the
+
+Notably, the pangenome size is under environmental and phylogenetic constraints [
+
+The pangenome matrix provides an avenue for biomolecular characterization of different
+
+Coupled with the information regarding virulence factors, antibiotic resistance genes, and prophages, bacterial pathogenicity can be understood from two different angles: virulence and survival capability (including self-defense mechanisms). Observing a virulence factor in an
+
+Figure
+
+For example, we see two sub-lineages of
+
+On the other hand, the phylogroups B2, D, and E are enriched with genomes with generally higher number of virulence factors (Fig.
+
+From the survival point of view, the bacteria’s capability to acquire nutrition, to adapt to its living environment, and to respond to external stimuli or danger [
+
+In this investigation, we found that ST131
+
+Third, we have observed an enrichment of mobilome-related genes among the common genes in ST131 strains, which are missing in all other strains. These mobilome-related genes are not located in the plasmid sequence but in the chromosomes. These potentially critical genes for additional functions are most likely acquired through horizontal gene transfer [
+
+s2-ST131 has 100% identity to a region in BK037528.1, a recently reported bacteriophage partial genome [
+
+The presence of prophages in bacteria has long been known in bacterial biology including its relevance to evolution, infection, and bacterial fitness [
+
+Thus, the tailocin complex kills closely related bacterial strains with high specificity when the population of the producing strain is usually protected due to self-immunity [
+
+Next, we asked the question whether there is any gene family associated to the s2-ST131 and/or s1-ST11 clusters, which could allow a deepened biological interpretation of ST131 pathogenicity. The associated GFs are then investigated if they form an operon or a synteny cluster of GFs. We have observed that the s2-ST131 cluster is significantly associated with a syntenic group of flagellar genes (closely related to T3SS) and with a T6SS cluster. Similarly, s1-ST11 is jointly present with a T3SS syntenic group, a cluster of tellurium resistance genes as well as prophage clusters. All these clusters (T3SS [
+
+Finally, we investigated if the number of intact prophages has any relationship to the potential pathogenicity of the
+
+How could this competition in the human gut microbiome work? In a healthy individual, it is expected that the gut microbiome is largely colonized by commensal bacteria, which live in symbiotic relationship with the host. The symbiotic bacteria provide not only metabolic benefit, but also regulate the immune response, promote immune homeostasis, and prevent pathogen colonization in the host environment [
+
+Several studies have shown that, in critically ill patients, dysbiosis (disruption of the microbiota homeostasis due to an imbalance in the microflora) involves the loss of health benefits from disappearing commensal bacteria and the overgrowth by pathogenic strains [
+
+This study provides the first report of applying pangenome analysis to systematically interrogate the different subtypes of
+
+All methodical details and the datasets used are described in this section. In addition, a supplementary methods file with scripting support is available as Additional file
+
+The assembled genome sequences and NCBI Refseq annotations for prokaryotic data were searched for at the NCBI website (10 June 2021) [
+
+In order to streamline our analysis, we further evaluated the 1624 complete genomes of
+
+Given the complete genome sequences of
+
+For in silico serotyping, we used the stand-alone version of SerotypeFinder [
+
+
+
+We used ResFinder [
+
+We used virulencefinder v2.0.3 (21 May 2020) [
+
+Given the virulence factor PAM, the number of virulence factors presence (VF count) for each genome is calculated and the quantile distribution is determined. The VF count ranges from 0 to 37 with the 25%, 50%, and 75% quantile threshold as 6, 14, and 22. Regarding their pathogenicity,
+
+Two publicly available software suites are used to investigate clusters of homologous genes or gene families (GF): CD-HIT [
+
+Figure
+
+Proteins within a given genome are clustered at 98% SeqID with CD-HIT; the longest sequence is selected as representative (6,169,700 in total).
+
+Clustering the set of representative sequences from step (1) with iterative application of CD-HIT with decreasing SeqID from 100 to 98% in 0.5% steps (essentially, this is a computation of the 98% SeqID core genome) results in 188 GFs with 248,921 sequence members.
+
+The remaining 5,920,779 sequences from across all genomes are clustered with CD-HIT at 90% SeqID and 90% SeqLC. The longest sequences from each of the 52,798 clusters (including singletons) are extracted as cluster representatives.
+
+Then, this reduced sequence set is processed with either CD-HIT or ProteinOrtho with given SeqID [range 40 to 80%] and SeqLC [range 50 to 90%] thresholds.
+
+The resulting GFs from this step are then re-inflated with the protein sequences from clusters generated during sequence reduction steps (1) and (3), if they contain a sequence from the respective GF. The clusters from step (2) are added to set of clusters. Finally, if sequences of two resulting GFs contain the same PFAM domain, the two GFs are merged into one if their sequences can be clustered with CD-HIT or ProteinOrtho, respectively, using SeqID 40% and SeqLC 50%. This step leads to final set of gene families (GF) that will form the pangenome. The latter is represented as a presence/absence matrix (PAM) of size
+
+To evaluate whether the sequence types or phylogroups of the
+
+Among the clusters of GFs identified from the
+
+In order to avoid any potential bias in the analysis, we evaluated the ST131 or ST11 genomes according to the country, host species, and isolation source (collected from the NCBI Biosample annotation). We further evaluated the DNA length and GC content distribution. This is important to ensure that any observed conserved synteny cluster is not due to bias or contamination from the same source. We find that the genomes come from multiple sources with variable DNA length and GC content. This suggests that there is no confounding bias in the genomes analyzed.
+
+The DNA and protein sequences of the synteny clusters identified in specific
+
+The annotated protein sequences of the synteny clusters are investigated using (1) homology detection using HHPRED [
+
+We use PHASTER [
+
+CoinFinder v1.1 [
+
+The nucleotide sequences of the seven housekeeping genes for each of the 674 genomes were concatenated.
+
+The multiple sequence alignment (MSA) of the 674 concatenated sequences created with MUSCLE [
+
+We identified the SNPs from the MSA file using the program SNP sites [
+
+Finally, the phylogenetic tree was constructed with the help of raxML v8.2.11 [
+
+The pangenome matrix was reformatted to suit the input needs for CoinFinder. We used the default threshold for filtering of gene families and applied the ad hoc
+
+HMMER3 v3.1b2 [
+
+For COG domain occurrence analysis, we annotate the softcore genome clusters/GFs (≥95% of all the genomes in this study, totally 3056 GFs). For each of the clusters, we extracted the protein fasta sequences. Subsequently, we performed multiple sequence alignment (MSA) of each cluster using MUSCLE [
+
+There are 20 functional codes available in the COG database following the general categorization by Satti et al. [
+

@@ -1,0 +1,109 @@
+Antimicrobial resistance is limiting treatment choices for
+
+Microbial biofilms are surface-attached microbial colonies on a cell that contribute to bacterial persistence on different surfaces, protect the microbes from adverse environmental conditions, and result in infection, accordingly slowing wound healing and making it more difficult to treat infections (
+
+Biofilm formation can be inhibited by self-cleaning and drug-tethered surfaces (
+
+Gallic acid (GA) (3,4,5-trihydroxybenzoic acid) is a well-known vigorous natural antioxidant compound found abundantly in various herbs (
+
+Rhamnolipids (RHLs) are low-molecular-weight amphiphilic anionic glycolipid biosurfactants with one or two rhamnose moieties in the hydrophilic head and one or two fatty acid chains in the hydrophobic tail in monorhamnolipids (Rha-C
+
+RHLs are of special importance as green biological agents produced from bacteria, and they have biocompatibility and nontoxicity properties (
+
+In the era of nanotechnology, metals and metal oxide nanoparticles (NPs) (mainly Fe
+
+Several studies have proven that the attachment of antioxidants to nanoparticle surfaces increases antioxidant activity and bioavailability for long periods (
+
+In this study, as shown in
+
+(A) Schematic illustration of prepared RHL-Fe
+
+Here, the characteristic Fourier transform infrared spectroscopy (FTIR) absorption peaks at 574 to 610 cm
+
+Dynamic light scattering (DLS) was used to measure particle size (PS), polydispersity index (PDI), and zeta potential (ZP) of bare Fe
+
+Average particle size and size distribution of prepared samples. (A and D) Bare Fe
+
+The morphological surface was observed by transmission electron microscopy (TEM), as shown in
+
+SEM analysis of prepared NPs. (A to C) Bare Fe
+
+Here,
+
+Antibacterial activity of RHL-Fe
+
+RHL-Fe
+
+Sub-MICs, MICs, and MBCs of biosurfactant magnetic nanoparticles against
+
+Imipenem is the control for
+
+This efficacy was confirmed with MICs of RHL-Fe
+
+SEM images indicated that the presence of RHL-Fe
+
+SEM images of
+
+TEM was used to further investigate the targeting mechanism between RHL-Fe
+
+Mechanism of action between RHL-Fe
+
+To investigate whether the biosurfactant NPs hinder biofilm formation in
+
+RHL-Fe
+
+Transcriptional profile of biofilm-associated genes upon treatment with RHL-Fe
+
+Antibiotic-resistant microorganisms have become a serious threat to human health (
+
+An FTIR result showed confirmation of successfully loading GA and
+
+TEM results showed the presence of the protective organic coat formed of GA and
+
+A previous report stated that
+
+Synergistic antibacterial and antiadhesive properties of rhamnolipid-coated silver and iron oxide (Fe
+
+These results led us to investigate the mechanism of inhibition by SEM and TEM, which confirmed the synergistic effect of RHL-Fe
+
+Gallic acid is a phenolic acid present in numerous foods and is also an antimicrobial agent, affecting bacterial cell membranes and causing irreversible changes in permeability, rupture, and pore formation (
+
+Considering biofilm formation, the pathogenicity of
+
+The major constituents of staphylococcal biofilms are polysaccharides such as poly-
+
+Previous studies showed that GA exhibited the greatest inhibition activity on the growth (39.01%) and biofilm formation (60.23%) of 48-h cultures of
+
+In summary, the present study highlights the dual-target therapy of novel magnet biosurfactant NPs loaded with
+
+Proposed mechanistic illustration of multitarget activity of RHL-Fe
+
+The present study has some limitations, a few shortcomings that need to be explored further. These include, first, studying the
+
+FeCl
+
+Methicillin-susceptible
+
+For simplicity and efficiency, the coprecipitation process for preparing bare Fe
+
+The coating of PVA onto magnetic nanoparticles was achieved according to the emulsion-coacervation method (
+
+The purified PVA-coated colloidal magnetic nanoparticles were redisposed in DI H
+
+Ten milliliters of Fe
+
+FTIR spectra measurements were determined using a PerkinElmer 2000 spectrophotometer. Each sample was mixed with crystalline KBr in a 1:10 (sample/KBr) ratio and left for 6 min on the disk for dehydration. A spectrum was measured using wavenumbers in the 400 to 4,000 cm
+
+The means of PS and ZP for the formulations were measured by dynamic light scattering (DLS) using (Malvern Instruments, UK). Each sample was diluted in 3 mL of DI H
+
+The MICs of Fe
+
+A drop of the
+
+qRT-PCR was carried out with bacterial isolates grown in the presence of subinhibitory concentrations of either NPs or antibiotic control as described in an earlier section (crystal violet assay) with untreated negative control as reference, using triplicates for each condition. Then, RNA extraction was performed using QIAamp RNeasy minikit (Qiagen GmbH, Germany) according to the manufacturer’s instructions. Genomic DNA was removed from the samples by treatment with 1 U DNase I, RNase-free (Thermo Scientific) for 60 min at 37°C. Real-time PCR amplification reaction mixtures were prepared in a final volume of 25 μL containing 10 μL of 2× Hera SYBR Green RT-qPCR master mix (Willowfort, UK), 1 μL of RT enzyme mix (20×), 0.5 μL of each primer of 20 pmol concentration, 5 μL of RNase- and DNase-free water, and 3 μL of RNA template.
+
+The primer sequences used for the genes involved in biofilm formation for
+
+Primer sequences and target genes of
+
+Each experiment was carried out at least in triplicate, and all data were presented as mean ± standard deviation (SD). Analysis of statistical significance was performed by one-way analysis of variance (ANOVA) and the

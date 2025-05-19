@@ -1,0 +1,75 @@
+The World Health Organisation labels antibiotic resistance as a global health crisis that requires immediate multisectoral action to achieve sustainable healthcare
+
+The permeability barrier function of the bacterial cell wall is an intrinsic resistance mechanism in bacteria
+
+Disruption of the barrier function is induced by various extra cytoplasmic stresses, which leads to an increased susceptibility to antimicrobials
+
+Interestingly, an association between CpxAR and RpoE (σ
+
+Therefore, in this study, we explored the contribution of Cpx-signalling in membrane remodelling and antibiotic susceptibility using
+
+To investigate the contribution of Cpx-signalling in
+
+The observed differences in colistin susceptibility between the strains was not explained by deviations in their normal growth profiles since all strains grew comparatively (Supplementary Fig.
+
+Given that the CpxAR system maintains bacterial envelope integrity
+
+Representative transmission electron micrographs of
+
+To investigate the molecular and biochemical basis for this observation, we focused on the outer leaflet of the outer membrane, as this is the first component contributing to the impermeability of hydrophobic molecules such as colistin
+
+Representative mass spectra of Lipid-A from intact parent (WT) bacteria grown at 37 °C (
+
+Characterised Lipid-A species detected and their corresponding structural assignment
+
+In line with the CpxAR system coordinating several important processes in
+
+Quantitative RT-PCR was performed on mRNA isolated from
+
+To confirm these observations, we utilised a set of isogenic strains based on the Δ
+
+Having established that active phosphorylated CpxR~P stimulates the transcription of lpxP and lpxL involved in Lipid-A acylation and represses the transcription of
+
+EMSAs with the complete 5’ intergenic regulatory DNA regions of indicated Lipid-A remodelling gene targets were mixed with active CpxR~P to measure specific protein-nucleic acid interactions. Red asterisks (*) indicate the target promoter DNA-CpxR
+
+In this study, we established that the CpxA-CpxR TCST is important for outer membrane remodelling in
+
+Cellular location of the CpxAR two-component system is depicted with its functionality on the Lipid-A remodelling and colistin susceptibility. A zoomed in version of the outer membrane (OM) constituent, Lipopolysaccharide (LPS) is illustrated with individual components. CpxR~P effect on promoter of the LPS remodelling genes and/or operons is represented either with blue arrow (+ or positive regulation) or a red hammer headline (− or negative regulation).
+
+Multiple molecular mechanisms conferring colistin activity and resistance are well established
+
+Interestingly, we also identified CpxR-dependent transcriptional activation of the
+
+These data suggest that Cpx-signalling activation by exposure to extracytoplasmic stresses is a trade-off in
+
+Independent whole transcriptomic studies have revealed an extensive CpxR-regulon in several bacteria
+
+This study sought to identify the molecular mechanism for the effects of Cpx-signalling on Lipid-A modifications. Several molecular and biochemical experiments detailed in this study identified a direct effect of accumulated active CpxR~P isomer on the expression of Lipid-A modification operons. It is likely that this mechanism predominates under certain extracytoplasmic stresses. However, other players may contribute more under alternate conditions. Indeed, it is established in other bacterial model systems that signalling through the two component systems PmrA/PmrB, PhoP/PhoQ and possibly even ArcA/ArcB influence Lipid-A modification
+
+We report herein the susceptibility of
+
+As membrane permeability and drug susceptibility are interwoven, opportunities to remodel the outer membrane provides possibilities for novel antibiotic development and thereby reverse certain antibiotic resistance phenotypes
+
+Bacterial strains used in this study are listed in supplementary Table
+
+Colistin and polymyxin B susceptibility testing involved determination of the MICs by broth microdilution according to the guidelines of the CLSI/EUCAST and performed essentially, as described previously
+
+For the antibiotic time-kill assays, the plates were set essentially as described above but left for 1 h at 26 °C with the colistin or polymyxin B range of (4 μg/ml to 0.125 μg/ml) and antibiotic negative growth controls. Samples were then serially diluted in MHB in Falcon (351172) 96 well plates and 20 µl spotted onto LB plates and grown at 26°C for quantification of CFUs.
+
+To assay for the effect of colistin on the bacterial cell envelope, overnight cultures of the parental strain (WT) and Δ
+
+Overnight cultures were inoculated into 7 ml of fresh LB and incubated at 26 °C or 37 °C until the mid-exponential phase (equivalent to an OD
+
+Aliquots of 0.4 µl for each acid-treated sample were loaded onto a 384-well MALDI plate and immediately overlaid with 0.8 µl of a super-2, 5-dihydroxybenzoic acid matrix prepared at a final concentration of 10 mg/ml in chloroform/methanol (9:1, v/v). Bacterial samples and matrix were mixed by pipetting and left to air dry. MALDI-TOF MS analysis was performed on a 4800 Proteomics Analyzer (Applied Biosystems, Foster City, CA, USA) using the reflectron mode. A voltage of 20 kV in the negative ion mode was applied using an extraction delay time set at 20 ns and allowed analysis of Lipid-A species in each sample. All MS datasets were analysed using the Data Explorer software (Applied Biosystems, version 4.9).
+
+The detailed procedure is available elsewhere
+
+The electrophoretic mobility shift assay (EMSA) was used to test in vitro binding of the purified wild-type (active) CpxR
+
+Mass spectroscopy was previously used to pinpoint the phosphorylated amino acid in in vitro purified CpxR
+
+Statistical analysis was performed using GraphPad Prism version 10. Overnight OD
+
+
+
+Supplementary information

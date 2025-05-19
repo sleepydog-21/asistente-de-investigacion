@@ -1,0 +1,60 @@
+Bacteria can acquire new genes via mobile genetic elements (MGEs), conferring additional attributes, including resistance to antibiotics and heavy metals, toxin production, and the ability to metabolize a wide range of compounds [
+
+All strains and plasmids used in this study are listed in Additional file
+
+The DNA fragment was amplified by PCR using 2 × Phanta Max Master Mix (Vazyme, Nanjing, China). The PCR mixture, with a final volume of 50 μL, contained 25 μL of 2 × Phanta Max Master Mix, 1 μL of each 10 μM primer, 50 ng of genomic DNA, and ddH
+
+The gene loci of
+
+For transcriptome analysis, the WT and Δ
+
+To evaluate the expression of
+
+Approximately 0.5 μg of RNA per sample was converted to cDNA using the HiScript III 1st Strand cDNA Synthesis Kit (+ gDNA wiper) (Vazyme, Nanjing, China). Quantitative PCR was conducted using the Applied Biosystems QuantStudio 6 Flex system (Applied Biosystems, USA) with ChamQ Universal SYBR qPCR Master Mix (Vazyme, Nanjing, China). The primers used for RT-qPCR analysis are listed in Additional file
+
+For growth curve analysis,
+
+To express the CadX homodimer, a linker sequence (GGGGSGGGGSGGGGS) was inserted between two identical CadX protein sequences and then ligated into the pET28a vector to produce pET28a-CadX, following a previously established protocol [
+
+The promoter fragments of the target genes, as well as the 16S rRNA gene, were amplified by PCR with 2 × Rapid Taq Master Mix (Vazyme, Nanjing, China) from the GZ0565 genome and purified using FastPure Gel DNA Extraction Mini Kit (Vazyme, Nanjing, China). The DNA probes and CadX recombinant protein were incubated in a 20 µL reaction mixture (10 mM Tris, 50 mM KCl, 1 mM MgCl
+
+The promoter fragments were amplified from the GZ0565 genome and ligated into the pTCV-
+
+To identify the transcriptional start site (TSS) of
+
+To evaluate the role of
+
+The CadX and CadD protein sequences were aligned using BLASTp. The selected homologous sequences were further aligned using Clustal Omega [
+
+The virulence of
+
+For experiments with three groups or more than three groups, comparisons between groups were conducted via one-way ANOVA followed by Dunnett’s multiple comparisons test. For experiments with only two groups, such as the β-galactosidase activity assay and determination of
+
+To explore the involvement of
+
+The growth of the WT, Δ
+
+To elucidate the regulatory mechanism of
+
+In our recent study,
+
+To explore the influence of the
+
+Given the role of
+
+In the
+
+Genome analysis revealed the prevalence of the
+
+To investigate whether
+
+Cadmium, a prevalent environmental pollutant, is found worldwide, particularly in areas near water resources [
+
+Among gram-positive bacteria, two common cadmium resistance systems are
+
+In addition to its role in conferring cadmium resistance,
+
+Our investigations revealed that
+
+In summary, as shown in Figure
+

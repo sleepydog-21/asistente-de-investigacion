@@ -1,0 +1,77 @@
+Gram-negative bacteria possess multidrug efflux (MDR) pumps that are highly conserved within the species and between families (
+
+Less understood are the biological roles of MDR pumps beyond the efflux of antibiotics or toxic compounds such as bile salts (
+
+In
+
+Here, we have examined the role of AcrR in regulating swimming motility in
+
+Prior findings have shown that inactivation of the transcriptional repressor AcrR (Δ
+
+To further investigate the role of AcrR as a direct regulator of motility in
+
+We then computationally analyzed more in-depth the promoter regions of the four flagellum biosynthesis and motility genes identified as potential AcrR direct targets (
+
+Predicted AcrR-binding sites in the four flagellum biosynthesis and motility genes/operons identified as direct target candidates of the AcrR repressor. (
+
+AcrR directly binds to the
+
+We next used EMSAs to determine whether purified AcrR directly binds to the promoter regions of the four flagellum and motility genes/operons identified as potential direct targets of AcrR (
+
+The AcrR site in the
+
+Interestingly, when two different fragments of the
+
+After finding that AcrR directly binds to the
+
+AcrR regulates the expression of the
+
+AcrR represses swimming motility in
+
+We next studied whether AcrR regulates swimming motility in
+
+Finally, we tested whether AcrR played a role in the increased swimming motility previously found by Ruiz and Levy (
+
+Model of the role of AcrR in co-regulation of efflux and motility in
+
+Efflux and motility are major contributors to the ability of bacteria to grow, colonize, and survive toxic compounds or environmental changes (
+
+Interestingly, a later study by Kim et al. (
+
+First, we performed a genome-wide bioinformatics search of motility genes with promoters that contained predicted AcrR-binding sites using the known 24-bp AcrR-binding site in the
+
+To further investigate the role of AcrR in repressing motility by directly repressing
+
+To further test the hypothesis that AcrR directly represses the
+
+Finally, we examined the role of AcrR in the interplay between the AcrAB-TolC multidrug efflux pump and swimming motility in
+
+Overall, these and prior findings portray a broader and more complex role of AcrR beyond being the local repressor of
+
+The second premise is that AcrR senses the accumulation of antimicrobials and cellular metabolites that are AcrAB-TolC substrates, or their metabolic precursors or derivatives, because some of these compounds can function as ligands that bind to and inactivate AcrR (
+
+The third premise is that AcrR is a direct regulator that, once it has sensed the accumulation of AcrAB-TolC substrates such as ethidium bromide, or cellular metabolites that may disrupt normal metabolic flow or be toxic, directly coordinates a broad cell response that involves efflux, metabolic and motility changes to cope with the accumulation of these substrates and/or their precursors or derivatives (
+
+In conclusion, this manuscript combined bioinformatics, EMSA, gene expression, and motility assays to reveal that AcrR regulates motility in
+
+
+
+Bacterial strains and plasmids used in this study
+
+Plasmid pBAD18-Kan-
+
+The sequence of the known 24-bp AcrR-binding site in the
+
+AcrR protein expression and purification experiments were performed growing
+
+EMSAs were performed as described by Harmon and Ruiz (
+
+The expression of the
+
+RNAs were then diluted to a concentration of 50 µg/mL in RNase-free water before reverse transcribing 200 ng of each RNA using the Thermo Fisher Scientific RT Invitrogen SuperScript IV First-Strand Synthesis System Kit and random hexamers, with RNAse H treatment, according to the manufacturer’s specifications. RT minus reactions with water instead of reverse transcriptase were used as controls to confirm the lack of DNA contamination in the purified RNA samples.
+
+After reverse transcription,
+
+Swimming motility experiments were performed as previously described by Ruiz and Levy (
+
+For gene expression and swimming motility experiments, statistically significant differences between strains or treatments were determined by

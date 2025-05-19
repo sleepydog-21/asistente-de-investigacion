@@ -1,0 +1,115 @@
+Transcription by multi-subunit RNA polymerases (RNAPs) is interrupted by random and programmed pauses (
+
+NusG is a general pause-suppressing factor in
+
+Transcription elongation factors such as NusA, NusG, σ
+
+We assessed the genome-wide role of
+
+We previously developed combination of RNase footprinting of the transcripts with native elongating transcript sequencing (RNET-seq), an advanced version of NET-seq that enables mapping of paused RNAP molecules throughout bacterial genomes with single base pair resolution (
+
+Our bioinformatic approaches for analysis of RNET-seq data are described in
+
+Differential pause strength in WT and dNusG cells (log
+
+Representative NusG-suppressed pause sites from our RNET-seq data are shown in
+
+NusG-suppressed pause sites. Pause sites in the
+
+Genome-wide effect of NusG on pausing. (
+
+The NusG-suppressed pauses possessed a distinct sequence logo that was similar to the DNA logo of the previously reported
+
+Inhibition of pausing by NusG was confirmed by in vitro transcription of several NusG-suppressed pause sites identified in vivo. Most frequently, NusG decreased both the pause efficiency (fraction of RNAP that pauses) and pause half-life (duration of pause) (
+
+We could not reproduce stimulation of pausing by NusG observed in vivo at several representative pause sites that we tested in vitro. Instead, we observed suppression of pausing at these sites in vitro (
+
+RNET-seq allows determination of the RNAP translocation state in vivo from the length of RNase-protected RNA footprints, which depends on the translocation register of RNAP. The read length distribution at each pause might indicate the presence of multiple interconvertible translocation states adopted by RNAP at each pause. We arbitrarily considered the pauses enriched in the fraction of >18-nt reads with frequencies above 0.5 and below 0.2 as backtracked and nonbacktracked pauses, respectively. The fraction of the long >18-nt backtracked reads was higher among pauses in dNusG cells compared to pauses in WT cells (
+
+Backtracking in dNusG cells and processing of backtracked pauses by Gre factors in vivo. (
+
+A combination of RNET-seq and RNA-seq data indicated that NusG depletion affected expression of numerous protein coding genes in
+
+Nascent transcripts can form a secondary structure 10 to 13 nt upstream from the 3′ end of the RNA that dramatically stimulates pausing of bacterial RNAP both in vitro and in vivo (
+
+Several of the strongest pause sites characterized in vivo and in vitro, such as the
+
+To test a role of the hairpins in the inhibition of backtracking, we selected three groups of 50 NusG-suppressed pause sites from
+
+We used CLC Genomics Workbench 21.0.5 software to predict hairpins at 458 pause sequences that exhibit the strongest NusG-suppressed pausing (log
+
+Since the interaction of the NusG KOW domain with Rho contributes to a subset of Rho-dependent transcription termination events, it is likely that NusG depletion affects Rho activity (
+
+The natural in-frame stop codon in the
+
+In this work, we identified a crucial role of the transcription elongation factor NusG in the suppression of RNAP pausing in UTRs, ORFs, and during antisense transcription, with substantial enrichment of these pause sites in close proximity to translation start codons. We recently revealed the global pause-stimulating activity of
+
+Enrichment of pauses in UTRs of WT cells suggests that NusG could participate in regulating expression of target genes (
+
+NusG-suppressed pause sites share sequence similarity to the previously identified consensus pause sequence that is enriched in pyrimidine residues at the 3′ end of the paused transcript, followed by a guanine residue in the ntDNA strand at position +1 (−1Y +1G motif). Another hallmark of the consensus sequence is a −10G residue (
+
+Model of NusG-suppressed backtracked and nonbacktracked pausing. (
+
+The role of NusG in the suppression of backtracking has been shown in vitro, but this NusG function has never been confirmed for
+
+The massive increase in RNAP pausing in dNusG cells likely results in frequent collisions between paused RNAP and the replication fork as was previously suggested (
+
+NusG is a component of a transcription antitermination complex during transcription of rRNA operons, and disruption of this complex is likely responsible for the observed decrease in rRNA transcription in dNusG cells (
+
+NusG-affected genes include several transcription regulators, which likely exacerbates misregulation of gene expression in dNusG cells. Indeed, changes in the abundance of released RNA generally exceed changes in the abundance of nascent RNA in dNusG cells (
+
+RNAP pausing at and downstream from the translation start codon may provide time for association of a NusG-bound 30S ribosomal subunit with the paused RNAP, thereby facilitating initiation of translation. The ribosome-assisted recruitment of NusG would result in the formation of a coupled transcription-translation complex containing RNAP and a 30S ribosomal subunit that is bridged by NusG.
+
+We propose a model in which NusG-suppressed pauses promote establishment of the coupling of transcription and translation in
+
+This work identified
+
+We showed that NusG is a global inhibitor of RNAP pausing in
+
+Construction of the
+
+All strains were grown at 37 °C in LB medium supplemented with 25 µg/mL of kanamycin. Cells from a frozen stock culture were streaked on LB agar plates and incubated overnight. A single colony was used to inoculate 6 mL of LB, which was grown overnight in a rotary shaker. Two milliliters of an overnight culture of NB1246 (WT strain) were used to inoculate a 250-mL LB culture. Six milliliters of an overnight culture of NB1247 (NusG depletion strain) were used to inoculate a 250-mL LB culture supplemented with 25 µg/mL of kanamycin. NB1247 was grown at 37 °C for 1 h, and arabinose was added to a final concentration 0.4% to induce expression of
+
+Collection and lysis of cells, purification of native transcription elongation complexes using Ni
+
+DNA templates and proteins used for in vitro transcription are described in
+
+Appendix 01 (PDF)
+
+Click here for additional data file.
+
+Dataset S01 (XLSX)
+
+Click here for additional data file.
+
+Dataset S02 (XLSX)
+
+Click here for additional data file.
+
+Dataset S03 (XLSX)
+
+Click here for additional data file.
+
+Dataset S04 (XLSX)
+
+Click here for additional data file.
+
+Dataset S05 (XLSX)
+
+Click here for additional data file.
+
+Dataset S06 (XLSX)
+
+Click here for additional data file.
+
+Dataset S07 (XLSX)
+
+Click here for additional data file.
+
+Dataset S08 (XLSX)
+
+Click here for additional data file.
+
+Dataset S09 (XLSX)
+
+Click here for additional data file.

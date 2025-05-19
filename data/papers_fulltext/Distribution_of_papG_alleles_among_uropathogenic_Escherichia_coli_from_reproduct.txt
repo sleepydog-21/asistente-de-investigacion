@@ -1,0 +1,88 @@
+Urinary tract infections (UTI) are one of the commonest infections of humans, only second to respiratory tract infections in the rate of occurrence. The high morbidity of UTI, especially in reproductive age women, coupled with increased rates of antibiotic resistance among the commonly used UTI drugs, significantly contribute to increased healthcare costs for this condition [
+
+Uropathogenic
+
+The
+
+PapGII has been shown to be strongly associated with pyelonephritis in adult women and children [
+
+The
+
+Therefore, we studied urinary
+
+This prospective study included 11 regional hospitals and 23 outpatient centers, in the Central West region of New South Wales (NSW), Australia. It was conducted with the help of volunteer physicians in the participating centers. A guiding protocol for urine collection and a strict clinical diagnostic criteria for defining cystitis or pyelonephritis, was given to each participating physician. Based on the medical history and patient physical examination, physicians recorded the following information in each patient recruited into the study; de-identified patient information: age, clinical UTI syndrome, previous UTI history, and any known underlying host conditions.
+
+Consecutively collected
+
+A diagnosis of cystitis or pyelonephritis required specific manifestations, as recorded by the treating medical practitioner based on a standardized protocol, and a MSU culture yielding ≥ 10
+
+Fecal control isolates were collected from consenting volunteers, who lacked UTI-associated manifestations as per self-report. These controls were matched with UTI subjects by age and, as closely as possible, by place of residence within the region. Each volunteer provided a written informed consent and a rectal swab. Rectal swabs were processed within 15 h of collection, and one arbitrarily chosen
+
+The Sydney West Area Health Service (SWAHS) Human Ethics Research Committee and Charles Sturt University Ethics committee approved the study protocol. Guidelines for experimentation at the authors’ institutions were followed in the conduct of this clinical research. Since clinical information for patients with UTI was collected anonymously, patient consent was not obtained. However, written informed consent was obtained from each individual in the case of faecal specimens from healthy controls.
+
+Distribution of
+
+Each molecular testing was done in duplicate, and with independently prepared DNA lysates of the test isolates and with appropriate positive and negative controls.
+
+Comparisons of proportions was done by Chi-square or Fisher’s exact tests whilst VF scores were compared using the Mann–Whitney U-test. For comparisons of proportions for different characteristics in the same population, McNemar’s test was used. P values < 0.05 were considered significant.
+
+The majority of pyelonephritis (75%) and cystitis (62%) isolates harboured at least one
+
+As previously observed, an overwhelming majority of pyelonephritis (80%) and cystitis (70%) isolates belonged to phylogenetic group B2, and a much lower proportion to group D at about 10% each for both clinical syndromes. In contrast to the UTI isolates, a much lower proportion of fecal isolates belonged to group B2 (32%), and a higher proportion to groups A (22%) and B1 (20%). However, the proportion of fecal isolates belonging to group D was almost equal to that in both pyelonephritis and cystitis isolates at 13%. The remaining phylogenetic groups were distributed variously different amongst the three groups, ranging from 1 to 8%.
+
+On average, pyelonephritis isolates harboring
+
+Distribution of phylogenetic groups and virulence factor (VF) genes in relation to
+
+In terms of the relationship between
+
+Similar to pyelonephritis isolates, on average, cystitis
+
+Distribution of phylogenetic groups and virulence factor (VF) genes in relation to
+
+Similar to pyelonephritis isolates, the majority (75%) of cystitis isolates belonged to phylogenetic group B2, with a greater proportion of
+
+An overwhelming majority of pyelonephritis isolates harbouring only the
+
+Distribution of
+
+For cystitis isolates,
+
+Distribution of
+
+Our aim was to understand the role played by
+
+The predominance of the
+
+On average, pyelonephritis and cystitis isolates, irrespective of
+
+VF gene distribution by
+
+Interestingly, although
+
+Since we had a reasonable number of cystitis isolates that had a combination genotype of
+
+We further analysed the association between the different
+
+In the case of cystitis isolates, the majority (65%) of
+
+The majority of
+
+When compared by
+
+Although the above argument that
+
+Although our findings seem to suggest association of specific
+
+In 25% and 38% of pyelonephritis and cystitis isolates, respectively, both the major subunit gene (
+
+Although the
+
+The identification of a small proportion of cystitis isolates (3%) with the
+
+Strengths of this study include the large number of well-characterized cystitis, pyelonephritis, and fecal isolates, from the same geographical region and time period. This is important since human-associated
+
+Study limitations include the use of multiple comparisons, which can increase the chance of type 1 errors [
+
+Findings from this study suggest that the association of the
+

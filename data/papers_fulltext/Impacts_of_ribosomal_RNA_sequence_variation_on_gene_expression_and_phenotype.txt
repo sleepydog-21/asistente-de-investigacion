@@ -1,0 +1,77 @@
+Ribosomes were discovered by electron microscopy in the mid-1950s by virtue of their enormous size in comparison to other cellular components [
+
+Ribosomes are ubiquitous two-subunit, megadalton-scale RNA–protein complexes typically present at high concentrations to support the protein synthesis capacities necessary for cellular homeostasis and growth [
+
+Rapid and faithful protein synthesis is achieved through a highly orchestrated series of transient interactions between aa-tRNA and protein translation factors with the ribosome at each codon increment [
+
+The prevailing view that ribosomes are uniform, housekeeping assemblies that are only passively involved in regulating gene expression is grounded by observations that (i) ribosomes within a given organism are globally similar in composition, (ii) they have the capacity to translate highly diverse pools of mRNA [,
+
+Ribosome heterogeneities likely manifest as subtle changes to the ribosome’s energy landscape that alter the distribution of ribosome conformational states and the association and dissociation rates of transiently interacting cellular components [
+
+Cell size and division are tightly coupled to the production of fully assembled ribosomes, which represent approximately 50% of a cell’s dry mass [
+
+Most organisms meet ribosome production and protein synthesis demands by encoding multiple competent rDNA loci. For example, typical laboratory strains of
+
+Genomic organization of rDNA in
+
+The architecture of rDNA operons and the process of ribosome biogenesis are globally conserved across species. In all organisms, an RNA polymerase transcribes a single pre-rRNA molecule from each rDNA operon, which is then co-transcriptionally and post-transcriptionally processed into the distinct, fully modified rRNAs that associate with RPs [
+
+In bacteria, RNA polymerase, in association with the sigma 70 transcription factor (σ70), generates a single pre-rRNA transcript (30S) from each rDNA operon that contains the 16S, 23S and 5S rRNAs as well as one or more specific tRNAs (
+
+Next-generation sequencing technologies that enable whole genome assemblies have revealed that a majority of organisms harbour multiple genetically distinct rDNA operons [
+
+The earliest evidence that conserved variable regions in rRNA may confer fitness advantages came from studies of rRNA expression patterns in extremophiles [
+
+Efforts to probe the function of rDNA sequence variation in
+
+The first evidence that ribosome heterogeneity resulting from the expression of distinct rDNA alleles can exert programmatic physiological consequences was demonstrated by Kurylo
+
+Canonical nutrient limitation-induced stress response pathways are initiated by deacylated tRNA binding to the A site, which activates stress response proteins RelA and RelE and recruits them to the ribosome (
+
+Model of ribosome heterogeneity in
+
+Based on
+
+The
+
+Motivated by these observations, a comparative study was performed on Δ7prrn strains transformed with plasmids expressing either the full
+
+Notably, genetic interaction studies showed that RelA and RelE, as well as the metabolic enzyme and virulence-associated protein alcohol dehydrogenase (AdhE), functionally interact with the
+
+To gain a deeper understanding of how variant rRNA alleles facilitate the nutrient limitation-induced stress response, Kurylo
+
+Variant ribosomes exhibit altered drug sensitivity. (A,B) BIOLOG phenotypic screening comparing the growth of Δ7prrn-BBB (red) and Δ7prrn-HBB (cyan) in the presence of (A) tetracycline and (B) oxytetracycline. Panels A and B are modified from Kurylo
+
+To assess whether the observed differences in tetracycline-class antibiotic sensitivity were directly related to physical alterations in the ribosome, isolated BBB and HBB ribosomes were examined for protein composition and rRNA structure using comparative proteomics and dimethyl sulfate (DMS) mutational profiling with sequencing (DMS-MaPseq,) respectively. By these methods, BBB and HBB ribosomes were shown to be indistinguishable in terms of RP composition and global rRNA structure. However, ribosomes isolated from ∆7prrn-HBB were found to preferentially associate with AdhE, consistent with a direct interaction between AdhE and the rrsH variant SNPs and the notion that variation in rRNA sequence can result in altered interactions with cellular factors.
+
+To measure the comparative impact of tetracyclines directly, mRNA decoding by BBB and HBB ribosomes was measured
+
+To gain further insight, cryo-EM studies were performed on isolated BBB and HBB ribosomes (
+
+Variations in human rDNA operons, both in their genomic organization and specific sequences, have been observed in multiple eukaryotic species [
+
+Parks
+
+High-frequency rRNA variants detected in humans. (A) 80S human ribosome with modeled expansion segments labelled at high-frequency allelic variant positions (>20%). (B) 40S small subunit of human ribosome with high-frequency variant alleles. (C) 60S large subunit of human ribosome with variant high-frequency variant alleles. Key structural features of the ribosome are indicated. Key: rRNA, tan; RP, green; variant nucleotide, red; posttranscriptional modifications, purple. Model based on PDB: 8G5Y. Gray labels of expansion segments indicate their relative distance from the viewers perspective.
+
+Interestingly, a total of 61 identified variants localized to 59 of the 256 sites in rRNA reported to exhibit PTrMs [
+
+To further assess the potential relevance of these findings, Parks
+
+Parks
+
+Tissue-specific expression of rRNA variants. (A) Experimentally observed variance in rRNA across different mouse tissues. This panel is reprinted from a previous publication [
+
+While the study by Parks
+
+Disorders known as ribosomopathies underscore the importance of proper ribosomal function for human health [
+
+The molecular bases of most ribosomopathies have been attributed with perturbations in RPs that affect the cell’s capacity to make ribosomes in sufficient quantities for cellular homeostasis [
+
+The research findings presented here lead us to hypothesize that humans likely harbour tissue-specific rRNA variants and linked PTrM patterns that contribute meaningfully to human physiology (
+
+Programmatic changes in rRNA variant expression could be achieved through well-established epigenetic and genetic transcriptional control mechanisms to precisely regulate the differential expression of specific rRNA alleles in response to environmental stimuli. The regulation of post-transcriptional modifications may similarly arise via alterations in rRNA sequence variation coupled with distinctions in ribosome biogenesis. Both rRNA sequence variation and altered PTrM patterns could analogously impact RP association energies as well as the potentially vast number of protein and RNA components of the cell that transiently interact with assembled ribosomes [
+
+We note in this context that ribosome heterogeneity may also play a role in determining cell-type specific impacts of translation- and ribosome-targeting drugs [
+
+Quantifying rRNA sequence and PTrM variations in human health and disease is therefore of potentially significant importance. Robust quantifications will undoubtedly require continued efforts to establish appropriate sequencing (i.e., Illumina, Oxford Nanopore or Pacific Biosciences Hi-Fi) and bioinformatic (i.e., BWA [

@@ -1,0 +1,77 @@
+Astaxanthin is a red carotenoid and a highly valuable antioxidant used in the pharmaceutical, cosmetics, nutraceutical, and aquaculture industries [
+
+Most industrial biological production of astaxanthin uses the microalgae species
+
+Carotenoid production is highly conserved amongst diverse species until lycopene. Enzymes used to produce β-carotene, the precursor to xanthophylls, and the remaining steps to form astaxanthin can vary significantly between different phyla (
+
+In this work, we combine the astaxanthin biosynthesis pathway of
+
+A list of primers used in this work can be found in
+
+All media were prepared according to the descriptions below and autoclaved or filter-sterilized prior to use. Antibiotics and inducer stocks were made at 1000× concentration, filtered and stored at −20 °C. Final concentrations of antibiotics were Kn (50 μg/mL), Ap (50 μg/mL), and Sp (50 μg/mL). Strains were cultivated in either LB media (10 g/L tryptone, 5 g/L yeast extract, 10 g/L NaCl) or M9 media containing 3.2 g/L glucose, 5 g/L KH
+
+For carotenoid quantification, two methods were used, total carotenoid determination using spectrophotometry or liquid chromatography combined with a diode array detector. In order to determine the carotenoid content, two 1 mL samples were taken from each flask at the indicated time after induction. Samples were stored in amber microtubes to prevent photodegradation. The cell pellet was collected by 12,000×
+
+Carotenoids were extracted as described above and analyzed using high-performance liquid chromatography (1260 Infinity II, Agilent, CA, USA) equipped with a C30 column (YMC Carotenoid column, 250 mm, 5 μm pore size). Mobile phase A consisted of 15:81:4 Methyl tert-Butyl Ether (MTBE):methanol:water by volume, and mobile phase B consisted of 81:15:4MTBE: methanol:water by volume. Using a flow rate of 1.0 mL/min at 20 °C, a linear elution gradient from 100% A to 100% B over 15 min was followed by 12 min of 100% B before returning to mobile phase A over 3 min. HPLC standards (astaxanthin, lycopene, β-carotene, zeaxanthin, and canthaxanthin) were purchased from Santa Cruz Biotechnology for identification of carotenoid retention times. Zeaxanthin was used to identify isozeaxanthin as this compound cannot be purchased, and these isomers are known to co-elute using C18 chromatography [
+
+To compare the effects of different upstream pathways on the production of astaxanthin in an existing system, pAC-BETAipi and pCBFD1 plasmids were transformed into MG1655 (DE3), MG16655 (DE3) with trcMEP operon inserted into the chromosome and co-transformed with the pSEVA228-pro4IUP plasmid resulting in strains ASTA 1, ASTA 2, and ASTA 3, respectively. Each strain was grown in LB media as well as M9 media, and the results are presented in
+
+In complex media such as LB, the strains expressing an upregulated MEP pathway were the most productive for carotenoid production, resulting in a maximum carotenoid titre of 6.05 ± 0.95 mg/L at 36 h (
+
+The operon of the p5T7-Astaipi plasmid contains seven coding sequences. Due to the length, the translation of genes near the end of the operon may be less frequent than those at the front, as placement in an operon is known to affect translational efficiency [
+
+The results were expected to be similar to the previous single-operon system. The IUP strain has the same titre and carotenoid content as the previous plasmid system; they both peaked at 24 h with total carotenoid titres of 3.65 ± 0.39 mg/L (ASTA 9) and 3.42 ± 0.40 mg/L (ASTA 6), respectively (
+
+When comparing the productivity of all strains in M9 media over the 48 h cultivation period, the IUP strains outperformed the endogenous MEP and the strain with an over-expressed MEP (
+
+The astaxanthin β-carotene hydroxylase (CHY) and ketolase enzymes from
+
+The differences In carotenoid production between the ASTA 1–3 and ASTA 4–6 strains may be due to the different promoters used in each system. Minimal media supplemented with glucose activates catabolite repression, which can lead to lower transcription levels for certain promoters such as the trc promoter [
+
+Summary of the carotenoid content and titres reported in the literature and the genes used in previous studies.
+
+Performance of IUP better in minimal media
+
+Screened various β-carotene hydroxylases
+
+Screened various β-carotene ketolases
+
+Increase ROS
+
+Changing morphology
+
+Multiple promoters
+
+Fusion proteins
+
+Used adaptive laboratory evolution to create mutant strains
+
+Shuffled strain with CRISPRi and CRISPRa
+
+RBS optimization
+
+Used fusion tags to solubilize truncated BKT
+
+Mutant library of crtW was screened
+
+Fusion to membrane protein glpF
+
+Fed-batch fermentation
+
+RBS optimization
+
+Fed-batch fermentation with in situ product removal
+
+crtZ/W fusion proteins
+
+RBS optimization
+
+Expressed chaperones groES-groEL
+
+Fed-batch fermentation
+
+* Estimated using the cell dry weight correlation of 0.33 g/L/OD
+
+The accumulation of intermediate carotenoids in each strain also differed depending on the structure of the carotenoid operon(s). When
+
+The IUP pathway significantly increased carotenoid production in

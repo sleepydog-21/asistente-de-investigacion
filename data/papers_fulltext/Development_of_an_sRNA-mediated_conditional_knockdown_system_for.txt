@@ -1,0 +1,67 @@
+Like other obligate intracellular bacteria,
+
+The function of essential genes can be investigated with inducible knockdown methods that deplete protein levels of a targeted gene. For
+
+An alternative knockdown strategy is to inhibit translation rather than transcription because prokaryotic genes are commonly translated from their own ribosome binding site (RBS) and start codon (
+
+In this manuscript, we describe a conditional knockdown method that is new to
+
+In proof-of-principle studies, we tested if we could reprogram an sRNA to knockdown a well-studied, non-essential
+
+The overall experimental strategy for our knockdown studies is shown in
+
+Engineered sRNA-mediated knockdown (KD) of IncA in
+
+Induction of IncA KD sRNA expression with anhydrotetracycline (aTc) depleted IncA protein levels at 24 hours post infection (hpi) in a concentration-dependent manner (
+
+We complemented the IncA knockdown by expressing a Flag-tagged
+
+IncA knockdown can be rescued by complementation and is reversible. (
+
+To examine if IncA knockdown is reversible, we performed a washout experiment in which the inducing agent aTc was added at 1 hpi, followed by a medium exchange at 18 hpi to remove the inducer. IncA staining at the inclusion membrane was restored by 4 h after washout (
+
+We next tested if we could use our method to target a gene in an operon without causing polar effects on a neighboring gene. We separately knocked down the
+
+IncE knockdown does not cause polar effects on a downstream gene in the
+
+In a complementary set of experiments, we knocked down IncG and looked for effects on IncE. A KD sRNA expressing a targeting sequence for IncG (
+
+IncG knockdown does not cause polar effects on an upstream gene in the
+
+These IncE and IncG knockdown studies demonstrate that our sRNA method was able to reduce protein levels of a targeted gene within the
+
+Finally, we tested if we could deplete a protein that is likely to be essential. We designed a knockdown sRNA for the MOMP, which is present in all
+
+Knockdown of MOMP, which is encoded by the likely essential gene
+
+In this study, we developed and used an sRNA-based method to knockdown four
+
+An issue with any knockdown method is its specificity. We incorporated a bioinformatic step in our target sequence selection to minimize off-target effects (Table S3). Additional measures could include optimizing target sequence length and induction conditions, such as using the lowest aTc concentration for good protein depletion, since off-target effects may be more likely with higher KD sRNA expression. The timing of KD sRNA expression could also be adjusted to match the endogenous expression pattern of the target mRNA. It will be important to use complementation to verify the specificity of a knockdown phenotype, as we did when we rescued the IncA multiple inclusion phenotype (
+
+Our sRNA-based knockdown method has the potential to be widely used to study genes in
+
+Our sRNA-based knockdown approach adds to the growing repertoire of methods for gene disruption in
+
+Our sRNA-based knockdown approach and CRISPRi are complementary knockdown methods for
+
+This study points the way to wider use of this sRNA knockdown method in bacterial pathogens. Engineered sRNAs have been mainly used to deplete proteins in model bacteria such as
+
+In summary, our sRNA-based conditional knockdown method is a valuable addition to the
+
+Primary antibodies used in this study are as follows: anti-MOMP (mouse, 1:30,000, gift from Ellena Peterson, University of California, Irvine), anti-IncA (rabbit, 1:2,000, gift from Dagmar Heuer, Robert Koch Institute, Berlin) for Western blot, anti-IncA (rabbit, 1:2,000) for immunofluorescence and anti-IncG (rabbit, 1:250) both gifts from Guangming Zhong, University of Texas Health Science Center, anti-Flag M2 (mouse, 1:200, F3165, Sigma-Aldrich), anti-14-3-3β clone K-19 (rabbit, 1:200, sc-629, Santa Cruz Biotechnologies), anti-IncE (rabbit, 1:1,000, gift from Joanne Engel, University of California, San Francisco), anti-SNX6 clone D-5 (mouse, 1:300, sc-365965, Santa Cruz Biotechnologies), anti-Hsp60/GroEL (mouse, 1:1,000, gift from Rick Morrison, University of Arkansas Medical Center), and anti-α-tubulin (rabbit, 1:1,000, ab18251, Abcam). Secondary antibodies for immunofluorescence staining were donkey anti-rabbit IgG AF488, donkey anti-rabbit IgG AF555, donkey anti-mouse IgG AF488, donkey anti-mouse IgG AF555, and goat anti-mouse AF647 (all 1:1,000, Invitrogen). Secondary antibodies for Western blot were goat anti-rabbit IRDye 680RD and goat anti-mouse IRDye 800CW (both 1:15,000, Li-Cor).
+
+The 5′ untranslated region of the gene-of-interest within the
+
+All plasmids were generated using the NEBuilder HiFi DNA assembly mastermix (E2621, NEB) and subsequently transformed into
+
+HeLa (CCL-2, ATCC) and McCoy cells (CRL-1696, ATCC) were cultured at 37°C and 5% CO
+
+Near-confluent HeLa cell monolayers grown on coverslips in 24-well dishes for immunofluorescence and Western blot experiments or in six-well plates for RT-qPCR analysis were infected in SPG at an MOI of 3 by centrifugation at 700 ×
+
+For quantification, fluorescence intensity of the entire inclusion, including the inclusion membrane, was determined by manual tracing of the inclusion membrane using the "raw spine contour” function, followed by measuring the mean intensity per area in the Zen software (Zeiss). A minimum of 10 different field of views and ≥120 inclusions were measured per biological and technical replicate. The background fluorescence was measured outside of the cell, subtracted from the inclusion fluorescence value, and the mean fluorescence intensity was calculated over all inclusions for each condition and replicated. Multiple inclusion phenotypes were quantified by manual counting of the number of inclusions per infected host cell from ≥10 different field of views and over 80 cells per biological and technical replicate. At least three biological and technical replicates were performed for each experiment. Color channels, brightness, and contrast of representative images shown in figures were adjusted equally within each experiment using ImageJ and Affinity designer software.
+
+Progeny assays were performed as previously described (
+
+For IncA and MOMP, Cell lysates were prepared from infected cells from 1 well of a 24-well plate, washed with PBS followed by direct lysis in 2% SDS loading buffer with benzonase nuclease (Sigma), and heated at 95°C for 5 min. For IncE, infected cells from an entire six-well plate were washed with PBS and collected by scraping. Total cell lysates were prepared by lysing the cells in NP-40 lysis buffer (0.5% NP-40, 50 mM Tris-HCl [pH 7.4], 50 mM NaCl, 1 mM EDTA, and protease inhibitors) by light shaking for 20 min at 4°C, followed by centrifugation and addition of 2× SDS–loading buffer to the supernatant. Equal volumes of lysates were loaded and resolved by SDS-PAGE, followed by transfer onto nitrocellulose membrane (0.45 µm, Genesee Scientific). Membranes were blocked for 1 h in blocking buffer (5% bovine serum albumin [BSA] or 5% skim milk for IncE antibody, in 1× PBS containing 0.1% Tween 20), incubated with primary (18–24 h at 4°C) and secondary antibodies (1h at room temperature) in BSA blocking buffer, and imaged on an Odyssey CLx Imaging System (Li-Cor). MOMP band intensities were quantified using Image Studio Lite software (Li-Cor) and normalized to Hsp60 and then to the uninduced control.
+
+Microsoft Excel and Prism 9.4 software were used for data processing, plotting, and statistical analysis. Figures represent mean ± standard error of the mean (SEM) of at least three independent biological replicates, if not stated otherwise. Asterisks represent

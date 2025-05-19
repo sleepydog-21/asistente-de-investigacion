@@ -1,0 +1,127 @@
+Cellular life maintains itself and replicates through the entire set of biochemical reactions in genome-scale metabolic networks (GSMs) operating in a well-coordinated manner
+
+Besides local fast-acting flux adjustment, global metabolic homeostasis is achieved through transcriptional regulation
+
+In this work, we present a GSM model, Decrem, to quantitatively characterize the local topological cooperation regulation and the global transcriptional regulation. For this purpose, we integrate local flux coordination and transcriptional regulation of global growth state-mediated key metabolic reactions into Decrem to approximate flux distribution (Fig.
+
+Through comprehensive multi-omics data analysis, we find that the transcriptional data of metabolic genes have no significant correlation with the corresponding
+
+In the last step, we reconstruct a GSM model, Decrem, by merging the element reactions of each SLB into a linear basis reaction (LBR) with reallocated stoichiometric coefficients (see Methods). To explore the variable range of fluxes in Decrem against the original GSMs, flux variability analysis (FVA) is conducted in
+
+We first apply Decrem for metabolic flux prediction with an FBA strategy (see Methods), in comparison with three other methods which are carried on the canonical GSMs: FBA, pFBA (parsimonious FBA), and RELATCH
+
+We calculate the metabolic flux distribution in the canonical
+
+Decrem also outperforms the other three methods in flux prediction in
+
+We first evaluate Decrem in predicting fluxes in response to genetic perturbation (single-gene deletions) in two GSMs of
+
+We then apply Decrem and pDecrem (Decrem model with parsimonious FBA optimizer, see Methods) to estimate the growth rate in the 38 mutant strains of
+
+Cellular metabolism is rather dynamic but transcriptional regulation is insufficient to explain flux change
+
+For this purpose, we first investigate the correlation between potential regulator metabolites obtained in this study through an extensive literature and database survey
+
+We then develop a linear transcriptional regulation mechanism to explain the observed correlation (see Methods) and validate this mechanism by conducting a partial least squares regression (PLSR) to quantitatively fit the linear global regulation of the observed expression profiles of the 85 genes to the concentrations of the potential regulatory metabolites of either group (see Methods). By taking stringent combined thresholds (total regression correlation
+
+The identified 32 genes are primarily located in the PPP and pyruvate metabolism in KEGG pathways (Fig.
+
+We then construct a transcriptional regulation-enabled linear kinetic model, i.e., Decrem integrated with global regulation, using the identified global growth state-regulated metabolic reactions (genes) based only on the concentration of corresponding biomass composition (BG) and metabolites (see Methods; Supplementary Note
+
+Next, we model and evaluate the reformulated linear kinetics by optimizing the identified growth-associated key regulated fluxes in
+
+We apply Decrem constructed above to predict the growth rates of
+
+Next, we construct the global regulated linear kinetic fluxes of five identified reactions in central metabolism with predictions (based on metabolite concentrations) for each of 1030 mutants to approximate the mutant gene-specific metabolic state, e.g., the branch points of glycolysis and PPP, the flux allocation downstream of pyruvate metabolism, and the growth-associated secretion (see Methods; Fig.
+
+We then demonstrate the explanatory power of Decrem in interpreting the observed growth rates of mutants with corresponding (altered) flux distributions. For that, we calculate the distribution of pathway-specific fluxes across mutant strains, defined as the accumulated flux (AF)
+
+We further examine the flux variance distribution in each mutant for their changed growth rates. PCA of the fluxes predicted by Decrem across the 1030 mutants is shown in Fig.
+
+We reconstructed a GSM model, Decrem, by identifying and incorporating local topologically decoupled reactions using SLB decomposition and by incorporating metabolic global regulation by metabolites into GSMs, which approximates the kinetic fluxes of cell state-regulated key reactions to constrain the feasible region of optimal flux distribution. Decrem effectively reduces the requirements for multi-omics data for genome-scale metabolic kinetic models. Compared to existing methods, Decrem demonstrates superior performance in predicting metabolic fluxes in three model organisms and growth rates in genome-scale knockout strains of
+
+By applying SLB decomposition, the (coupled) element reactions within identified SLBs display high coexpression among multiple growth conditions, indicating coordinated activation of topologically highly coupled reactions. Interestingly, similar approaches have been applied in identifying the non-redundant local functional units of metabolism, i.e., the minimal metabolic pathway or flux tope
+
+To explore effective metabolic dynamic robustness or adaption to internal and external perturbations, metabolic kinetic models have attracted great attention by combining fluxomics, metabolomics, and transcriptomics into a unified framework
+
+Compared to other methods tested on three model microorganisms, Decrem is not only excellently performing in recovering the real flux distributions with high accuracy in a wide range of strains but also presents excellent predictions and explanations of the observed growth rate. This demonstrates the strong capability of Decrem to approximate the real intracellular state and to be used for designing high-yield mutant strains in bioengineering and synthetic biology. Decrem shows that there is a strong influence of metabolic network topology in the prediction of flux distributions; this phenomenon is found both in the reconstructed SBRs of Decrem and in the two versions of
+
+The main limitation of Decrem is that it requires a medium-scale set matched
+
+The original metabolic network consists of coupled coactivated reaction cycles (e.g., TCA cycle) and simple linear chain reactions (e.g., biosynthetic reaction chains). We developed a GSM model, Decrem, to capture the contribution of the coactivated and coupled reactions while preserving the consistency of the linear components. The detailed framework for our model is described below (Supplementary Fig.
+
+Step 1: Identifying reaction cycle-based coupled substructures. We first defined the bipartite graph representation of the metabolic network as
+
+The generalized weighted cut (
+
+Step 2: Reconstructing the decoupled representation of the identified substructure using the sparse linear basis. Inspired by the minimal metabolic pathways
+
+With the
+
+Step 3: Establishing prediction for the decoupled Decrem metabolic model.
+
+We reformulated FBA to adapt to the reconstructed decoupled metabolic network
+
+The function
+
+We developed a mechanistic basis model to link the kinetics of transcription to metabolite regulators based on the gene regulatory model
+
+Depending on the above transcription regulation mechanism, 45 candidate global and local regulatory metabolites of
+
+Finally, the significant metabolite profile and corresponding explicable gene-metabolite regulatory relationships are filtered by setting the proper correlation threshold. The statistical test is built based on random sampling (Supplementary Note
+
+Step 1: The metabolic kinetic model. In this section, we derived a complete reversible rate law for arbitrary reactant stoichiometries. When considering the constraint of thermodynamics and metabolite regulation
+
+We next applied the metabolic thermodynamics constraints given by the Haldane relationship to simplify the term for the backward rate:
+
+Step 2: The optimal strategy of the linearized kinetic model. In this section, we sought the simplified Eq. (
+
+This model can be solved by collecting the corresponding kinetic parameters, enzyme expression, and metabolite concentrations. However, those matched data are often unavailable in practice, and the metabolic regulators often need to be discovered. An alternative is to approximate the optimal parameters using to the machine learning method. Specifically, the global cell growth state-regulated enzyme expression can be represented as the linear combination of the concentrations of biomass composition and TF regulators, which can be marked as
+
+This result can be expanded to multi-substrate/multi-product reactions. When we neglect the infinitesimal of higher order, the identified regulators and optimal kinetic parameters in models (29) can be solved with linear regression. Subsequently, the optimal model is expanded to any other application.
+
+Step 3: The linearized kinetic optimization of Decrem. Finally, the parameterized kinetic model is utilized to describe the growth-associated key-regulated reactions in central metabolism. The genome-scale flux distribution is predicted by the kinetic regulated flux-constrained Decrem method, i.e.,
+
+Strain and culturing.
+
+For RNA-seq, total RNA was extracted using the Qiagen RNeasy Mini kit (Qiagen Inc, MD, USA) following the manufacturer’s instructions and sequenced on the Illumina Hi-seq 2500 platform. Raw reads were quality controlled using FASTQC and trimmed using Trimmomatic 0.39
+
+Frozen cells were broken on dry ice with the bead beater and kept in liquid nitrogen between homogenization and extraction
+
+Raw data files are preprocessed directly after data acquisition and stored as ChromaTOF-specific.peg files, as generic.txt result files and additionally as generic ANDI MS.cdf files. ChromaTOF vs. 2.32 is used for data preprocessing without smoothing, 3 s peak width, baseline subtraction just above the noise level, and automatic mass spectral deconvolution and peak detection at signal/noise levels of 5:1 throughout the chromatogram. Apex masses are reported for use in the BinBase algorithm. Result.txt files are exported to a data server with absolute spectra intensities and further processed by a filtering algorithm implemented in the metabolomics BinBase database. Raw results data need to be normalized to reduce the impact of between-series drifts of instrument sensitivity, caused by machine maintenance, aging and tuning parameters. There are many different types of normalizations in the scientific literature. We did a variant of a ‘vector normalization’ in which we calculated the sum of all peak heights for each sample’s identified metabolites (but not the unknowns!). We call such peak-sums “mTIC” in analogy to the term TIC used in mass spectrometry (for ‘total ion chromatogram’), but with the notification “mTIC” to indicate that we only use genuine metabolites (identified compounds) in order to avoid using potential non-biological artifacts for the biological normalizations, such as column bleed, plasticizers or other contaminants. Subsequently, we determined if the mTIC averages are significantly different between treatment groups or cohorts. If these averages are different by
+
+We compared the performance of our Decrem with other five methods that are utilized to flux prediction and analysis: FBA, pFBA, FVA, REPPS and RELATCH, The cobra 2.0.5 package is utilized to implement the FBA, pFBA and FVA analysis, REPPS package is download on the address:
+
+In the experiments, we used the complete samples from the datasets, without using any statistical methods to select or remove samples. Statistical significance was evaluated using Student’s
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Reporting Summary
+
+Description of Additional Supplementary Files
+
+Peer Review File
+
+Dataset 1
+
+Dataset 2
+
+Dataset 3
+
+Dataset 4
+
+Dataset 5
+
+Dataset 6
+
+Dataset 7
+
+Dataset 8
+
+
+
+Source Data

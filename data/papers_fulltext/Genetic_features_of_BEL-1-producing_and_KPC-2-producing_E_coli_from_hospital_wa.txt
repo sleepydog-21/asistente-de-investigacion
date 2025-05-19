@@ -1,0 +1,43 @@
+Hospital effluents could play a role in the generation and spread of antibiotic-resistant determinants (Korzeniewska and Harnisz
+
+BEL-1 (Belgium extended beta-lactamase) is a clavulanic acid-inhibited expanded-spectrum ß-lactamase (ESBL) detected in a
+
+Horizontal transmission of this determinant has not been described to date and the appearance of mobile elements that facilitate its propagation among carbapenemase producers is a worrying fact. Additionally, the possibility of plasmid BEL enzymes conferring cefiderocol resistance is unknown. Recently, BEL and KPC co-producing
+
+In a monitoring of wastewater from several hospitals in southern Spain (Romero-Oraá et al
+
+Plasmid analysis was carried out by two strategies. First, transconjugants containing of the BEL-1 plasmid from the 4 first isolates belonging to ST11685 clone were selected with
+
+Each
+
+Moreover, isolates 56 and 410, belonging each to one of the two clones identified, were sequenced using MinION MK1b device (Oxford Nanopore Technologies, Oxford, UK). Libraries were prepared using the rapid barcoding kit (SQK-RBK004) and were loaded onto a R9.4 flow cell (Oxford Nanopore Technologies). Collection of raw electronic signal data and live base-calling was performed using the MinKNOW v1.4.2 (filtering criteria: length, > 1000 bp; quality > 8). Unicycler v4.8 was used to generated an hybrid genome with the MinION long-reads and short-reads from Illumina (Wick et al.
+
+In silico analysis of MLST of the 7 isolates was implemented by MLST 2.0 available on the CGE website (identity = 100% and coverage = 100%). The Enterobase
+
+All 7 isolates were positive for
+
+Analyzing the hybrid genome obtained from both short-read and long-read sequencing methods, it was found that ST11685-56 harbored a circular sequence containing IncN-
+
+Comparison of the two IncN-
+
+Both in ST11685-56 and ST2795-410
+
+Comparison of
+
+When the Portuguese
+
+This is the first description of BEL-1 and KPC-2 co-produced in Enterobacterales and the first detection of this enzyme in
+
+The second notable feature is the type 3 integrase carrying
+
+Finally, the
+
+Parallel to the arguments supporting a human sewage origin, a feature that may indicate a human origin of
+
+Finally, it remains to comment that these isolates are susceptible to cefiderocol despite the production of BEL-1. The presence of this enzyme had been associated with a 1 dilution-increase in the MIC value of cefiderocol when this gene was cloned into pUCp24 (Poirel et al.
+
+In conclusion, we have found the presence of BEL-1 producing
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (XLSX 11 KB)

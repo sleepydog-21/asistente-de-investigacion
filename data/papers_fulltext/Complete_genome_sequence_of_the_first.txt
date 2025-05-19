@@ -1,0 +1,9 @@
+Strain
+
+Genomic DNA was isolated from fresh-grown KM3295_24 on supplemented FAA plates according to (
+
+Sequencing was done using both Oxford Nanopore Technology (ONT) and Illumina sequencing at Microsynth AG (Balgach, Switzerland). Libraries were prepared using the Rapid Barcoding Kit 96 (SQK-RBK114.96; ONT) and DNA Tagmentation using unique dual indexes according to the manufacturers’ instructions (Illumina), respectively. The ONT libraries were sequenced on a PromethION 2 on a FLO-PRO114M flow cell and the Illumina libraries on a NovaSeq6000 apparatus using an SP sequencing kit with 500 cycles in paired-end fashion.
+
+ONT sequencing revealed a coverage of 84× with a total number of raw reads of 27,676 (N
+
+The genome consists of 2,718,701 bp with a G + C content of 36%. It harbors 2,419 CDS, 3 rRNA operons, and 45 tRNAs.

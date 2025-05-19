@@ -1,0 +1,11 @@
+{
+  "id": "36786576",
+  "title": "A Retro-Aldol Reaction Prompted the Evolvability of a Phosphotransferase System for the Utilization of a Rare Sugar.",
+  "doi": null,
+  "authors": "Joo Y, Sung JY, Shin SM, Park SJ, Kim KS, Park KD, Kim SB, Lee DW",
+  "journal": "Microbiology spectrum",
+  "year": "2023",
+  "abstract": "The evolution of the bacterial phosphotransferase system (PTS) linked to glycolysis is dependent on the availability of naturally occurring sugars. Although bacteria exhibit sugar specificities based on carbon catabolite repression, the acquisition and evolvability of the cellular sugar preference under conditions that are suboptimal for growth (e.g., environments rich in a rare sugar) are poorly understood. Here, we generated Escherichia coli mutants via a retro-aldol reaction to obtain progeny that can utilize the rare sugar d-tagatose. We detected a minimal set of adaptive mutations in the d-fructose-specific PTS to render E. coli capable of d-tagatose utilization. These E. coli mutant strains lost the tight regulation of both the d-fructose and",
+  "source": "PubMed",
+  "pmcid": "PMC10101011"
+}

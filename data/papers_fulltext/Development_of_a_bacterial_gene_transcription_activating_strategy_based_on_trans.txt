@@ -1,0 +1,77 @@
+Artificial manipulation of gene expression plays fundamental roles in determining and optimizing functions of genes and pathways. As the first step of gene expression, transcription is determined by the coordinated action of promoters, RNA polymerases and regulatory proteins
+
+The most widely applied approach to improve gene transcription level is using strong promoters. A series of inducible promoters or constitutive promoters with different strengths has been characterized in bacteria with important research and industrial values, such as
+
+In addition to natural transcription activators, artificial synthetic activators have also been developed. In artificial synthetic activators, transcriptional activation domains are linked to DNA-binding domains by protein fusion with linkers, protein − protein interactions or RNA − protein interactions
+
+In bacteria, two-component system genes are often grouped into operons and their transcription are under control of two promoters: the constitutive promoter and the autoregulated promoter. Many two-component systems exert positive feedback on their own transcription through the upstream autoregulated promoter
+
+Gene transcription activation using NifA, UAS
+
+Oligonucleotides for constructing the UAS-P
+
+The
+
+The RNAprep pure Kit (Tiangen, cat. no. DP430) was used for extraction of the total RNA. The PrimeScript RT reagent Kit with gDNA Eraser (Takara, cat. no. RR047A) was used for DNA elimination and reverse transcription. The StepOnePlus Real-Time PCR System (Applied Biosystems) and TB Green Premix Ex Taq (Takara, cat. no. RR420A) were used for qRT-PCR. The glyceraldehyde phosphate dehydrogenase gene (
+
+The
+
+One millilitre of overnight culture of
+
+The genomic DNA of
+
+Colonies of
+
+Three millilitres of the seed culture
+
+Biological nitrogen fixation (nif) is the process of reducing N
+
+The transcription efficiency of the UAS-P
+
+Transcriptional level of the
+
+Four additional controls were constructed by deleting P
+
+Besides the
+
+The NifA gene transcription activation system using UASs and promoters upstream of different
+
+The
+
+Because the UAS-P
+
+Transcription activation of IAA biosynthetic genes using the UAS-P
+
+The
+
+We then tested effects of
+
+When we used the LB medium containing 1.0 g/L of L-tryptophan for fermentation, the IAA yield from UAS-P
+
+Success of the UAS-P
+
+Transcription activation of prodigiosin biosynthetic genes using the UAS-P
+
+We captured the intact 21-kb prodigiosin gene cluster and its promoter sequence from the chromosome of
+
+Many positive transcription regulatory proteins and their regulating DNA sequences have been identified in bacteria. If the gene transcription activating strategy developed above applies all or most of them, it will greatly facilitate construction of microbial cell factories. SlnR is the pathway-specific positive transcription regulatory protein for biosynthetic genes of the polyene antibiotic salinomycin in
+
+Gene transcription activating using the positive transcription regulator SlnR and its regulating DNA sequences in
+
+We further explored the gene transcription activating strategy using the transcriptional activator of the
+
+Gene transcription activating using the positive transcription regulator PspF and its regulating DNA sequences in
+
+Transcription initiation in bacteria is a highly regulated process which involves interactions between the RNA polymerase and promoters
+
+Although the strength of this gene transcription activating strategy varied with different combinations of activator proteins and their regulating DNA sequences, all UAS-P
+
+The gene transcription activating strategy developed in this study also has limitations: (1) It only works for σ
+
+Gene transcription manipulation plays an important role in design and construction of biological systems for chemical biosynthesis. Strong endogenous constitutive promoters can be identified using RNA-seq based transcriptional profiling
+
+Compliance with Ethics Requirement
+
+Not applicable.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

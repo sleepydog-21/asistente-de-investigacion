@@ -1,0 +1,189 @@
+Hemicellulose represents a group of complex polysaccharides that is the second largest category of plant cell wall polysaccharides in nature after cellulose. It has a heterogeneous chemical structure, composed of glucose, xylose, and other sugars in less proportion such as L-arabinose. Xylose derived from hemicellulose can account for 18–30% of the monosaccharides present in lignocellulose hydrolysates, and therefore, it is considered a relevant renewable resource [
+
+Microorganisms have evolved different metabolic pathways to assimilate xylose [
+
+
+
+Natural xylose metabolic pathway described in different microorganisms
+
+Xylose metabolism also requires xylose uptake and a regulatory systems [
+
+The isomerase metabolic pathway to assimilate xylose has been reconstructed in bacteria with industrial interest such as
+
+Among bacteria with industrial interest are the oleaginous species,
+
+Given that
+
+The aim of this work was to use ALE to confer the wild type
+
+To accumulate lipids, the strains were grown under nitrogen-limited conditions. For the preparation of inocula,
+
+To evolve
+
+The synthetic operon, named
+
+Competent
+
+The ALE-xyl strain was cultured in LB medium as a pre-inoculum. This culture was used to inoculate 100 mL flasks containing 20 mL of W minimal medium supplemented with glucose (20 g/L) or xylose (20 g/L). The culture was started with an OD
+
+The three biological replicates of RNA from ALE-xyl strain grown with glucose or xylose, were sequenced by the Macrogen NGS Service10 that uses an Illumina TruSeq RNA library, providing a 6 GB/sample of 151 bp paired-end reads. Raw reads were trimmed and cleaned with Trimmomatic 0.39 in order to remove Illumina adapters and low-quality bases [
+
+ALE-xyl strain was cultured in minimal medium W supplemented with 30 g/L of xylose at 30 °C and 200 rpm for 48 h. A culture sample of 10 mL was centrifuged at 16,000 ×
+
+Growth was determined by measuring the optical density of the cultures at 600 nm in a spectrophotometer (Shimadzu UV-260). The concentration of glucose, xylose, xylitol and arabinose were determined by HPLC (Agilent Technologies, 1100 series) using a Rezex RHM-Monosaccharide-H
+
+The biomass was centrifuged at 3,800 rpm (Eppendorf Centrifuge 5810R) for 5 min and the pellet was lyophilized, then 20–30 mg were treated with 2 mL of a mixture of methanol/hydrochloric acid/chloroform (10:1:1) in a test tube sealed and gently shacked. The tube was heated at 90 ºC for 60 min to convert lipids into fatty acid methyl esters (FAMEs). FAMEs were extracted using hexane GC analysis grade. Heneicosanoic acid was employed as internal standard (10–20 µL at 10 mg/mL). The chromatographic analysis was conducted in an Agilent 7890 A GC-MS system, equipped with an Agilent 122–5731 column (30 m x 250 μm x 0.1 μm), with hydrogen as carrier gas. An injection volume of 1 µL was utilized with a split ratio of 10:1. The oven temperature initiated at 115 °C, followed by a ramp-up to 210 °C at a rate of 3 °C/min (35 min), and ultimately maintained at 280 °C for an additional minute. Identification and quantification of fatty acids were performed by comparing them to standard mixture FAMEs (Sigma). The fatty acid content was expressed as the percentage of fatty acids to cell dry weight (% CDW).
+
+The lipid bodies in the cells were observed after dyeing by adding Bodipy
+
+Based on the assumption that enzyme promiscuity and phenotypic flexibility of microorganisms shape adaptation to novel growth substrates [
+
+When we cultured
+
+To determine the stability of the xylose phenotype of the ALE-xyl strain, the isolated clone was cultured in rich medium and then transferred again to minimal medium containing xylose as sole carbon source. Figure
+
+The growth on xylose of ALE-xyl strain was compared with that of the recombinant strain
+
+
+
+Time course of
+
+We observed that when cells are cultured in flasks on xylose the pH of the medium decreases as far as xylose is consumed and when pH drops below 5 the strains stop growing (Fig.
+
+Figure
+
+
+
+To determine if ALE-xyl strain could be able to consume at the same time glucose and xylose in a lignocellulosic-like hydrolysate (glucose + xylose + arabinose), the strain was cultured in minimal W medium containing a synthetic mixture of glucose, xylose and arabinose mimicking the proportion that can be found in a saccharified extract of a corn stove prepared in our laboratory (glucose (27 g/L), xylose (7 g/L) and arabinose (1.2 g/L). Figure
+
+
+
+Time course of
+
+Once we had demonstrated that the ALE-xyl strain was capable of growing efficiently and producing lipids using xylose as the sole source of carbon and energy, we set out to investigate which genes could be responsible for the phenotypic adaptation that occurred in this strain. To this aim, we performed a comparative transcriptomic analysis of the ALE-xyl strain cultured in minimal medium containing glucose or xylose as a sole carbon and energy source (see supplementary material). These analyses revealed that xylose growing cells highly overexpressed the putative operon
+
+
+
+Scheme of the
+
+
+
+Genes from the
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Although the
+
+Remarkably, the
+
+Remarkably, the
+
+
+
+Sugars transporters expressed in
+
+A FadR/GntR-like regulator, named as PenR, that is strongly expressed in the presence of xylose is located just upstream of the operon suggesting that the expression of the
+
+The in-silico analysis of the promoter region of the
+
+Although the genome of
+
+Figure
+
+
+
+Expression levels of the genes involved in the first steps of the metabolism of glucose and xylose in
+
+Figure
+
+The transcriptomic analysis also revealed that the Entner-Doudoroff pathway is also functional in ALE-xyl either in glucose or xylose (Table
+
+Considering all alternative pathways, several types of metabolic reactions can take place in RHA1:
+
+
+
+
+
+F6P → G3P and pyruvate (Entner-Doudoroff or Embden-Meyerhoff (glycolysis) pathways).
+
+Surprisingly, we have observed that in the presence of xylose many of the S30 and S50 ribosomal genes are overexpressed when compared with the expression levels observed in glucose, suggesting that the metabolism of xylose requires the synthesis of a larger number of ribosomes (see Table S2). In this sense, ribosome abundance has been correlated with growth rate in
+
+Finally, it is worth to mention that the
+
+To determine if the ALE-xyl cells growing in xylose express a xylose reductase, a crude extract of these cells was analysed to determine the presence of this activity. Figure S7 shows that xylose reductase activity is detectable in the crude extract, indicating that xylose can be converted into xylitol. Figure
+
+Interestingly, when the ALE-xyl crude extract was analysed by HPLC to detect the presence of xylitol we observed a pick in the chromatogram corresponding to a small amount xylitol (0.5 mg/mL of extract), which agrees with the expression of the xylitol reductase.
+
+Although recombinant organisms can be designed
+
+In this work we show that it is possible to evolve by ALE a relevant oleaginous microorganism, such as
+
+Although the heterologous
+
+Probably the most interesting result of this work, is the fact that the ALE-xyl strain was able to metabolize at the same time glucose and xylose with no catabolic repression by glucose, and therefore, we have not observed a biphasic growth curve that might hinder the lipid production fermentation strategy when using saccharified lignocellulosic media. In this sense, Millán et al. (2020) used ALE to improve the assimilation of xylose and glucose in
+
+Remarkably, we have determined that the production of lipids in the ALE-xyl strain using xylose as carbon source is at least comparable to, or even superior than the production of lipids with glucose, suggesting that xylose metabolism couples perfectly to lipid biosynthesis in this strain.
+
+Trying to understand how ALE-xyl strain has evolved to consume xylose we performed an in-silico analysis of
+
+The transcriptomic analysis revealed that the
+
+Interestingly, a similar finding that reinforces our hypothesis was observed by Sekar et al. (2016) when they evolved
+
+Although the analysis of the genes encoded by the
+
+In spite of the fact that we have detected the presence of xylitol in the ALE-xyl strain suggesting that xylose is consumed by a reductase pathway we cannot completely discard that PenJ (RipA), i.e., the second copy of a ribose 5-phosphate isomerase in RHA1, might transform xylose into xylulose, assuming a different role for this enzyme. In this sense, it has been demonstrated that ribose-5-phosphate isomerase (RipA) from
+
+This work shows that the oleaginous strain
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

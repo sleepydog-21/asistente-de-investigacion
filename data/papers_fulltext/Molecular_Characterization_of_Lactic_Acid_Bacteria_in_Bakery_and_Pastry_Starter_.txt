@@ -1,0 +1,143 @@
+Historically, cereal-based product consumption dates back 12,000 years [
+
+Besides starch, proteins, particularly gluten, make up the two main flour components that are affected by the dynamic process of bread making. These physicochemical, microbiological, and biochemical changes are mainly induced by yeasts and lactic acid bacteria (LAB). The nutritional quality of bread is affected by LAB and yeast metabolic enzymes. This enzymatic activity is responsible for carbohydrate metabolism as well as for protein and amino acid hydrolysis, yielding nitrogen, an essential element for microbial growth [
+
+Alongside their role as a fermentation agent, LAB are considered an important probiotic agent that improves biological functions in the host. Through their immunomodulatory effects, probiotics can help in the treatment and prevention of several diseases, such as inflammatory bowel disorders (IBD) like Crohn’s disease and Ulcerative colitis, two of the most severe emerging health problems in industrialized countries that are considered the most important colon cancer risk factors [
+
+Nevertheless, bread making has dramatically changed in the last decades, especially in terms of the processing and the materials applied. Commercial bakeries have adapted to these changes and shifted to newer strategies aiming to ensure better food safety and satisfy societal demands as well as improve their productivity [
+
+In this study, entitled “Molecular characterization of lactic acid bacteria in bakery and pastry starter ferments”, we aimed to characterize LAB and yeasts in three types of flour dough, namely, wheat flour, oat flour, and rice flour, using conventional biochemical identification methods as well as bio-molecular identification methods, in addition to assessing the antagonistic activity of these LAB.
+
+Three types of commercial flour were chosen (wheat, oat, and rice). Necessary ratios of flour to distilled water were mixed to form a dough. Doughs were then incubated for 72 h at 30 °C to allow flour microorganisms to grow. After incubation, 10 g of each prepared dough was measured and homogenized using a BagMixer Stomacher (Interscience, Paris, France) in 90 mL of sterile tryptone salt solution. Aliquots of the homogenized solution were prepared and used for further evaluation of dough’s properties and for microorganism characterization.
+
+The pH values of each of the aliquots were measured using a pH meter (edge pH, HANNA instruments, Padua, Italy).
+
+Total Titratable Acidity for each of the dough solutions was measured. In total, 10 mL of each dough solution was used. Titration using 0.1 N solution of Sodium Hydroxide (NaOH) from 10 mL of aliquot solution was carried out until a pH of 8.5 was reached in the initial solution. Result was expressed as follows: V NaOH mL/N/10/10 g dough.
+
+Enzymatic titration was performed using commercial D-Lactic Acid/L-Lactic acid titration kit (R-BIOPHARM, Darmstadt, Germany). A total of 1 mL of each dough solution was centrifuged for 5 min at 10,000 rpm. Supernatant was then extracted, and titration was performed according to manufacturer’s protocol. Absorbances of each lactic acid isomer, produced after enzymatic reaction, were measured using spectrophotometer (SHIMADZU UV-1800, Kyoto, Japan).
+
+Concentration of lactic acid isomer obtained could therefore be calculated according to the general equation for calculating the concentration:
+
+LAB characterization was performed using traditional phenotypic and biochemical assays, in addition to molecular characterization techniques.
+
+Six-fold serial dilutions were applied, using tryptone salt solution, to each type of initial homogenized dough aliquot to be used for further analysis. Modified De Man, Rogosa, and Sharpe (MRS) (Merck, Darmstadt, Germany) and SourDough Bacteria (SDB) culture media, both with cycloheximide added (Acros organics, Geel, Belgium) for fungi inhibition, were used for LAB studies [
+
+At this stage, 10
+
+Furthermore, tests of the ability of the bacterial population to grow under anaerobic and aerobic conditions were evaluated by inoculating 100 µL of the 10
+
+After enumeration of LAB, 30 well-isolated colonies corresponding to each flour type (wheat, oat, and rice) were picked from modified MRS agar cultures and replated using a streaking method on modified MRS agar for characterization. Colonies were incubated at 30 °C for 72 h to allow for proliferation.
+
+Gram characterization
+
+Gram reaction and Gram-staining techniques were used to identify the gram phenotypes of each colony. Gram-staining technique was performed using Gram kit (Fluka analytical, Buchs, Switzerland) according to the original Gram protocol [
+
+Gram reaction was performed by applying a 3% KOH solution to a glass slide. A well-isolated colony was then transferred using a sterile loop and mixed with the solution. If gelling was observed after approximately 60 s of colony application, the bacterial colony was considered Gram−; if no gelling was observed, the bacteria was then considered Gram+.
+
+Catalase test
+
+Production of catalase enzyme was tested using slide or drop tests. A drop of H
+
+Homo/Heterofermentative test
+
+Modified MRS broth was prepared and distributed into screw cap tubes containing inverted Durham tubes (Durham bells, Merck, Darmstadt, Germany). After autoclaving, the Durham bells were filled with media. Using an inoculation loop, a colony was picked and inserted into the tube, followed by incubation at 30 °C for 72 h to enable growth. Air bubbles inside the Durham tube signal heterofermentative bacteria, while the absence of air bubbles signifies the presence of homofermentative bacteria.
+
+Gram+, Catalase- bacteria, identified in the phenotypic and biochemical parts of the study, were then used in the molecular characterization methods. Colonies that fit the criteria were then picked and cultured in a modified MRS broth and incubated at 30 °C for 72 h.
+
+DNA extraction:
+
+DNA extraction was performed via mechanical extraction using bead beater technology. A total of 1 mL of each culture broth was transferred into sterile Eppendorf tubes. Then, 180 µm and 600 µm glass beads (Merck, Darmstadt, Germany) were added into each tube to allow for shearing of bacterial cell wall and membrane. Tubes were then transferred into BEAD Blaster 24 machine (Benchmark, Sayreville, NJ, USA). Cell lysis was then performed at 18 °C in a 4-cycles protocol, with each cycle consisting of 20 s at a speed of 4 m/s with a 10 s holding step between each cycle.
+
+DNA quantitation and dilution:
+
+Extracted DNA was then quantified using Nanodrop (BioSpec-nano, Kyoto, Japan). A total of 2 µL of each extracted DNA solution was used after vortexing and centrifugation for 3 min at max speed.
+
+Samples were then diluted using Biopure water (Merck, Darmstadt, Germany) in order to obtain a DNA concentration between 20 and 100 ng/µL of DNA per sample. This concentration is essential for optimal PCR conditions. Higher concentrations of DNA can cause PCR inhibition.
+
+Polymerase Chain Reaction (PCR):
+
+RedTaq
+
+The composition of the PCR master mix is as follows (
+
+Three primer sets were acquired from Merck products (
+
+16S/2-23S/10 primer set: This primer set consists of universal primers that serve to amplify the
+
+tRNA
+
+The PCR program starts with a 5 min initial denaturation step at 94 °C, followed by a 35-cycle amplification step consisting of the following sub-steps:
+
+Denaturation: 1 min at 94 °C.
+
+Primer annealing: 1 min at the optimal primer annealing temperature.
+
+Extension: 1 min at 72 °C.
+
+The program ends with a 5 min, 72 °C final extension step followed by holding the temperature at 10 °C.
+
+Restriction fragment length polymorphism (RFLP)
+
+Three types of restriction enzymes were used to create an RFLP profile for the amplified fragments using the tRNA
+
+Gel electrophoresis
+
+Amplified fragments were then separated using gel electrophoresis. Afterward, 1.5% agarose (Merck, Darmstadt, Germany) gel was prepared in a 1× TBE buffer stained with an ethidium bromide (EtBr) solution. Migration was then performed for 30 min at 100 V using MYGEL mini electrophoresis system (Accuris instruments, Edison, NJ, USA). For RFLP, a 2% gel was used instead of 1.5%, using the same conditions as before. A 100 bp ladder (Qiagen, Hilden, Germany) was used to determine fragments’ sizes. UV transilluminator (VILBER LOURMAT, Marne-la-Vallée, France) was used to detect fluorescence of DNA-EtBr complexes.
+
+Lactic acid bacteria’s propensity to inhibit the growth of some pathogenic bacteria and fungi was then evaluated using two methods.
+
+Agar well diffusion assay
+
+This method enabled us to evaluate the antimicrobial activity of LAB against 4 microorganisms:
+
+Mueller–Hinton (MH) agar media, the most used media type for this assay [
+
+Inoculation in medium containing liquid phase from LAB-containing media.
+
+MRS broth was prepared and inoculated with LAB using a sterile inoculating loop followed by incubation at 30 °C for 72 h. Cultures were then removed and centrifuged for three minutes at maximum speed to separate the cellular phase, containing bacterial cells, from the liquid phase, containing metabolites, proteins, and peptides produced by LAB. Supernatant was then collected and added using a sterile 0.22 µm filter syringe to MH agar media and then poured into petri dishes. With the use of a sterile inoculating loop, colonies from
+
+All experiments and tests were performed in triplicates; the reported numerical results are the mean values (±standard deviation) of the triplicate analysis.
+
+For LAB and yeast counts, F-test was used, with a
+
+The experimental values of pH and TTA of each dough type are summarized in
+
+The colony counts on MRS agar media showed a higher number of colonies than the colony count on SDB agar. This indicates the diversity of the bacterial population present. Inoculation on SGA medium also led to a high number of colonies, indicating the presence of high numbers of yeast species (
+
+All the isolated colonies showed a Gram + profile as determined using the Gram staining and Gram reaction techniques. In total, 17 out of the 30 species isolated from wheat flour dough showed a rod-shaped morphology, 12 out of the 30 oat-flour-isolated species were rod-shaped, and 22 out of the 30 rice-isolated species were bacilli. Out of the 30 isolated colonies, 1 wheat colony, 11 oat colonies, and all 30 isolated rice colonies yielded a positive result in the catalase test. These catalase + colonies do not fit the characteristics of LAB, making them non-LAB; they were therefore disregarded from our study and not used for further analysis. Testing for homo- and heterofermentative species using the Durham tube test was applied after the catalase test for the catalase-negative colonies only. In total, 12 out of the 29 isolated wheat colonies were heterofermentative (41%), while most of the oat colonies were homofermentative species, with only 3 out of 19 colonies producing CO
+
+Amplification using the 16S/2-23S/10 primer set yielded samples with one, two, and three bands. Most samples yielded two fragments with this set of primers (such as colony Wh6), while two colonies, Wh2 and W6, isolated from wheat flour dough showed a three-band profile. Finally, Sample W18, isolated from wheat flour, yielded only one fragment (
+
+Amplification using the tRNAala-23S/7 primer set yielded one fragment for all the samples due to the presence of one tRNAala sequence, except for the Carnobacterium samples, which yielded two fragments due to the presence of two tRNAala sequences.
+
+RFLP using the HindIII enzyme yielded the same profile for all the samples, consisting of two fragments between 300 and 400 bp. No species discrimination using the HindIII restriction enzyme could therefore be attained. In total, 14 samples, 11 from wheat flour isolations (samples W16-Wh5-W21-W12-Wh4-W3-W23-W10-W13-W11-W4) and 3 from oat (samples O20-O12-O17), produced a three-fragment restriction pattern profile with the HinfI restriction enzyme and a five-fragment profile with the TaqI enzyme (
+
+The propensity of LAB to inhibit other microorganisms’ growth was investigated using the well diffusion assay and by inoculating pathogenic microorganisms in media containing supernatant from LAB cultures.
+
+Well diffusion assay.
+
+The well diffusion assay showed an inhibition zone caused by an antagonistic effect of the LAB against the four microorganisms
+
+Inoculation in medium containing liquid phase from LAB-containing media.
+
+After preparing MH agar media containing supernatant from the LAB growth medium, inoculation and incubation of the four microorganisms,
+
+The TTA reflects the effect of organic acids, which are usually weak acids like lactic and acetic acids, on the acidity of food, which can, in turn, affect food’s organoleptic properties and shelf life [
+
+Differences in the overall quantities of lactic acid produced and the proportions of lactic acid isomers can be attributed to differences in microbial communities in each flour type. These communities are very much affected by the composition of the environment they live in and the available nutritive substances, in this case, the flour type [
+
+The presence of catalase + colonies proved the diversity of microorganisms present in the flour microbiota. Additionally, the results obtained with rice samples indicate that LAB are not the dominant bacterial species in this type of cereal. This fact can explain the results obtained with the titration of D/L lactic acid, which gave a higher concentration of the L (+) isomer, indicating that yeasts might be the dominant microorganism responsible for fermentation in rice. However, the presence of LAB in rice, even in small quantities, is signaled by the production of the lactic acid D (−) isomer in small quantities. The obtained results from the previous tests indicated the presence of a diversity of microorganisms in the flour microbiota. The next set of tests aimed to identify the LAB species using molecular biology tools.
+
+Most samples yielded two fragments with the 16S/2-23S/10 primer set, indicating their belonging to the Lactobacillus genus of LAB. Two colonies, Wh6 and W6, isolated from wheat flour dough showed a three-band profile, which indicates the presence of
+
+Enzymatic restriction using HinfI and TaqI of samples W16-Wh5-W21-W12-Wh4-W3-W23-W10-W13-W11-W4 isolated from wheat flour and samples O20-O12-O17 isolated from oat flour yielded profiles concordant with the profiles generated via the enzymatic restriction of
+
+The restriction profiles yielded by all the other samples, isolated from wheat (apart from samples W1 and W24) and oat flour after digestion with HinfI and TaqI enzymes, could belong to any of the following species, namely,
+
+Samples that generated an RFLP profile similar to the RFLP generated by
+
+Both tests, the agar well diffusion and the inoculation in medium containing the liquid phase from LAB cultures, showed inhibition of the growth of the four studied microorganisms. These two tests confirmed that LAB can have antagonistic effects on bacterial and fungal organisms. This inhibitory effect is mainly caused by metabolites and peptides produced by LAB and released into the surrounding environment, such as organic acids, mainly lactic acid, that can reduce pH, which can have a negative effect on microorganisms’ growth. Antimicrobial activity exerted by LAB can also be caused by the production of Bacteriocin and Bacteriocin-Like Inhibitory substances (BLIS), such as Nisin, Lactacin B, and Lactocin [
+
+The findings of this study shed light on the intricate microbial communities residing within wheat, oat, and rice flours, highlighting the co-existence of both bacterial and yeast populations. This co-habitation not only signifies the complex nature of these ecosystems but also underscores their significant influence on the properties of bread dough during fermentation. This study revealed that lactic acid bacteria (LAB), which are often associated with fermentation, are not the dominant bacterial population in rice flour. Instead, wheat flour exhibited a higher diversity of bacterial species, with
+
+This research underscores the importance of understanding the microbial populations present in various flour types and their intricate relationships. Such knowledge can facilitate the development of strategies to optimize bread dough fermentation, enhance food safety, and ultimately improve the quality of baked products.

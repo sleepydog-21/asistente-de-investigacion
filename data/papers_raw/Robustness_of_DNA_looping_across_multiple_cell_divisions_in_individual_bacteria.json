@@ -1,0 +1,11 @@
+{
+  "id": "35960846",
+  "title": "Robustness of DNA looping across multiple cell divisions in individual bacteria.",
+  "doi": null,
+  "authors": "Chang C, Garcia-Alcala M, Saiz L, Vilar JMG, Cluzel P",
+  "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+  "year": "2022",
+  "abstract": "DNA looping has emerged as a central paradigm of transcriptional regulation, as it is shared across many living systems. One core property of DNA looping-based regulation is its ability to greatly enhance repression or activation of genes with only a few copies of transcriptional regulators. However, this property based on a small number of proteins raises the question of the robustness of such a mechanism with respect to the large intracellular perturbations taking place during growth and division of the cell. Here we address the issue of sensitivity to variations of intracellular parameters of gene regulation by DNA looping. We use the",
+  "source": "PubMed",
+  "pmcid": "PMC9388096"
+}

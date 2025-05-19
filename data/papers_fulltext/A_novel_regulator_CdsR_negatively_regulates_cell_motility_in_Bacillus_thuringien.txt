@@ -1,0 +1,79 @@
+The bacteria flagellum is a protein complex responsible for bacterial locomotion under various environmental conditions
+
+There are several mechanisms by which the transcriptional regulation of bacterial motility and chemotaxis can occur. These mechanisms involve the control of gene expression through specific transcription factors, signaling pathways, and regulatory elements
+
+The ArsR (Arsenical Resistance Operon Repressor) family transcriptional regulators are known for its role in conferring resistance to arsenic acid. This family of transcriptional regulators are found across various prokaryotes and play a crucial role in maintaining intracellular metal ion homeostasis
+
+Previous research has revealed that the
+
+Cell motility of upregulated genes expressed in the Δ
+
+Comparison of cell motility of the
+
+To further investigate the impact of
+
+The
+
+Transcription of
+
+The bacteria flagellum is a rotary nanomachine comprised of more than 25 genes that encode various proteins. It comprises three main structural parts: the long helical filament, which acts as a propeller to produce thrust; the basal body, which is a membrane-embedded rotary motor; and the hook, which acts as a universal joint connecting the filament to the basal body
+
+To validate the transcription of the
+
+We then studied the transcription and regulation of
+
+Transcription of
+
+To determine whether CdsR binds to the promoter regions of
+
+To confirm whether CdsR regulates the
+
+Transcription of
+
+Furthermore, to investigate whether
+
+ArsR family transcription factor is a winged-helix-turn-helix transcriptional regulator that may function as a metal-sensing protein, modulating the expression of genes associated with metal homeostasis
+
+The metal Cu (II) ions inhibit CdsR binding to promoters. (
+
+Additionally, previous studies have shown that CdsR has a negative regulatory effect on the
+
+To further investigate the effect of the presence and absence of Cu(II) on cell motility in
+
+Comparison of cell motility of HD73 strains in the presence and absence of Cu(II). (
+
+Previous studies have found that CdsR is highly conserved in the
+
+The ArsR family transcriptional regulator is widely distributed among microorganisms and is involved in diverse cellular events
+
+The
+
+A previous study showed that CdsR is a negatively autoregulated transcriptional regulator. CdsR consists of 95 amino acids and belongs to the ArsR family of transcriptional regulators, which include a single helix-turn-helix (HTH) DNA-binding domain ranging from 15 to 90 amino acid residues. Furthermore, the genes upstream and downstream of
+
+Characterization of a CdsR conserved DNA sequence. The motif of the CdsR-binding DNA was predicted by MEME. The colored region corresponds to a 11-bp DNA sequence highly conserved in the 12 promoter regions. The height of each column indicates the sequence conservation at that position, while the height of symbols within the stack indicates the relative frequency of each nucleic acid at that position. Motif consensus of CdsR binding promoter regions is presented. W is A or T; K is G or T; Y is C or T.
+
+In this study, we focused on the transcriptional regulation of the
+
+Plasmid DNA was extracted from
+
+The total RNA was extracted from HD73 and ∆
+
+HD73 and ∆
+
+The
+
+The promoters’ sequence of the
+
+The β-galactosidase activities were measured as follows: the samples were collected from T
+
+The expression and purification of CdsR-His protein were performed as previously described
+
+The HD73 and Δ
+
+
+
+Supplementary Material 1: Table S1. Strains and plasmids used in this study. Table S2. Oligonucleotide primers used in this study. Table S3. The promoter of target genes from CdsR-binding DNA contain a conserved sequence.
+
+
+
+Supplementary Material 2.

@@ -1,0 +1,103 @@
+Benzene, toluene, ethylbenzene, and xylene (BTEX) are among the most frequently produced chemicals that represent widespread groundwater contaminants worldwide. BTEX compounds are well-known risks to public health; contamination has contributed to pregnancy complications, exposure has been linked to decreased immunity, and studies have determined them as carcinogens (
+
+Anaerobic oxidation of aromatic hydrocarbons presents a unique challenge, especially unsubstituted aromatics such as benzene, due to the high dissociation energy necessary for C-C bond cleavage (
+
+Anaerobic aromatic degradation pathways are regulated by proteins belonging to diverse families (
+
+Preliminary genome analysis of
+
+The aim of this study was to unravel the metabolic capacity of
+
+Total RNA was extracted from
+
+The primers used in this study are listed in Table S1 and were synthesized by Integrated DNA Technologies (IDT) (San Jose, CA). All primers were designed specifically for this study based on the full genome sequence of
+
+All cDNA syntheses were performed with gene-specific reverse primers, 0.5 µg total RNA, dNTP mix, RiboLock RNase inhibitor, and RevertAid RT reverse transcriptase (Thermo Fisher Scientific, Waltham, MA) incubated at 42°C for 60 minutes followed by enzyme inactivation at 70°C for 10 minutes. cDNA products were verified by PCR amplification via corresponding primer sets and visualized via gel electrophoresis.
+
+Dilution series of purified RT-PCR amplicons obtained with gene-specific primers were used as calibration standards as described previously (
+
+Benzene and toluene were measured by Beckman Gold High-Pressure Liquid Chromatograph (HPLC) (Beckman Coulter, Pasadena, CA) equipped with a Supelco LC-PAH column (Sigma-Aldrich, St. Louis, MO), 25 cm x 4.6 mm filled with 5-µm silica particles. The eluent was acetonitrile in water (60:40 [vol:vol]) (flow rate 0.5 mL/min). Acetate, benzoate, nitrate, and succinate were measured by a Dionex ICS-2000 Ion Chromatograph (IC) (Thermo Scientific, Canton, GA) equipped with a Dionex IonPac AS11-HC anionic resin column (Dionex, Sunnyvale, CA). The eluent was 1 M KOH (flow rate 1.5 mL/min).
+
+The genomes of
+
+To determine if benzene is enzymatically methylated to toluene, whole-cell lysates of
+
+To determine if intermediate metabolites are formed during degradation of various aromatic carbon sources, whole-cell lysates of
+
+Competent
+
+RNA extracted from
+
+This method was specifically designed in this study to sequence a total polycistronic mRNA molecule. cDNA was synthesized using
+
+The
+
+Lyophilized AbrB protein was dissolved in buffer A as previously described (
+
+Unpaired two-tailed Student
+
+Difficulty in cultivating pure cultures of anaerobic bacteria capable of metabolizing benzene has limited the studies of anaerobic benzene metabolism. Several studies have revealed microorganisms capable of degrading benzene anaerobically; an anaerobic, hypothermophilic, Fe(II)-oxidizing archaeon
+
+A well-studied anaerobic toluene degradation operon
+
+Transcript levels for
+
+Relative gene expression levels of
+
+The
+
+To determine whether the benzene and toluene degradation pathways converge into a single metabolic pathway, the total cellular protein profile was visualized via SDS-PAGE (Fig. S5).
+
+Relative expression of genes involved in anaerobic aromatic oxidation in
+
+Further analysis was conducted to determine if benzene degradation follows a canonical toluene degradation pathway after methylation to toluene. The
+
+Functional site analysis of Hbs via ExPASy’s ScanProsite (
+
+Proposed anaerobic benzene degradation pathway in
+
+Degradation of benzene in
+
+To determine whether benzene degradation is coupled to toluene accumulation
+
+Accumulation of intermediate metabolites in
+
+The detection of toluene, succinate, and acetate in both benzene- and toluene-degrading
+
+Anaerobic benzene oxidation via methylation has been proposed as an alternative activation mechanism to carboxylation and hydroxylation (
+
+Due to its thermodynamic stability, benzene degradation in the absence of oxygen necessitates the use of a radical for methylation (
+
+Directly upstream and in opposite orientation of
+
+The σ
+
+Interactions between
+
+To confirm the presence of the AbrB binding site, the inclusion of an AbrB pseudo-consensus sequence upstream of the
+
+The mechanism utilized by AbrB is not fully understood, but it has been well reported that its interaction causes targeted gene repression (
+
+Relative gene expression levels of
+
+Upregulation of
+
+The upregulation of
+
+The findings in this study suggested that the initial steps in anaerobic benzene and toluene oxidation were performed by Hbs and Bss, respectively, and that the encoding operons were promoted by the transcription factor σ
+
+The growth of transformed
+
+Growth characteristics of
+
+Relative expression of
+
+Relative gene expression of
+
+Our finding that
+
+A study by Tolibia
+
+This study investigated anaerobic microbial degradation pathways of the persistent groundwater contaminant benzene to predict natural attenuation and provide the basis for improved bioremediation strategies more accurately. Genomic analysis of
+
+This study has further demonstrated the transitional regulator AbrB in

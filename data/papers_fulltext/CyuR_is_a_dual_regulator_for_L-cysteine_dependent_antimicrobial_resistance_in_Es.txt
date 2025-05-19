@@ -1,0 +1,67 @@
+The emergence of antimicrobial-resistant (AMR) bacteria has been recognized as a serious threat to public health
+
+Recently, the production of hydrogen sulfide (H
+
+In
+
+In this study, we report the effects of Cys and the detailed regulatory roles of CyuR on antimicrobial resistance in
+
+We investigated the effect of Cys on antimicrobial resistance in
+
+To gain an understanding about the increased resistance in response to Cys, we investigated differences in the transcriptome with Cys supplementation in
+
+Inferred iModulon activity changes by 5 mM Cys supplementation. The names of stress-related iModulons are colored in red. The two inset pie charts show the number of functions for iModulons with changed activities. ‘Other’ iModulons were not shown in the bar graph. A full list of iModulons and activities are in Table
+
+From the changed iModulon activities, the effect of Cys supplementation could be inferred. Notably, many iModulons with decreased activities include stress-response related iModulons (e.g., “RpoS” for global stress, “GadXW” for acid stress, and “RpoH” for thermal stress). This observation showed that the Cys supplementation greatly protects bacteria against diverse stress imposed by antibiotics therefore increasing microbial tolerance. Additionally, decreased activities were observed for amino acid metabolism-related iModulons (e.g., “Cysteine-1”, “Arginine”, “Histidine” for their biosynthesis) and energy metabolism-related iModulons (e.g., “microaerobic”, “Fnr-1”). On the other hand, many iModulons with increased activities were related to amino acid metabolism (e.g., “gcvB”), extracellular components (e.g., “FlhDC-1”, “FlhDC-2”, and “FliA-1” for flagella, “Curli-1” for curli, “RcsAB” for colanic acid capsule, “EvgA” for the efflux pumps regulation), and carbon metabolism (e.g., “PlaR” for diketo-L-gulonate, “PaaX” for phenylacetate
+
+We investigated the role of CyuR, which is known to be the major regulator for H
+
+Notably, such improvements by Cys supplementation were lost after deleting
+
+Given its potential expanded regulatory roles in antimicrobial resistance, we further carried out a detailed characterization of CyuR. We first collected existing information about the expression of
+
+We then further explored the regulation by CyuR in
+
+Since there was no predicted transcriptional start site in the intergenic region of
+
+We determined the binding motif of CyuR by investigating a consensus sequence
+
+To confirm the CyuR-binding motif, we conducted a fluorescence polarization assay
+
+We hypothesized that MdlA or MdlB could function as an antibiotic resistance efflux pump because
+
+We investigated the role of MdlA and MdlB using phenotype microarray plates. To test whether MdlA or MdlB can export antibiotics, we took BW25113, BW25113 Δ
+
+Interestingly, when we complemented
+
+We further explored the possibility that CyuR regulates additional target genes by motif scanning of the genome of
+
+Potential regulation targets of CyuR, suggested by motif scanning
+
+In this study, we investigated the effects of Cys supplementation to AMR and its related regulatory network in
+
+Another key finding was the regulatory roles of CyuR for Cys metabolism. We showed that CyuR is required for Cys-dependent resistance for at least nine antibiotics as test cases: demeclocycline, L-aspartic-β-hydroxamate, lincomycin, nalidixic acid, novobiocin, sulfadiazine, sulfamethazine, sulfamethoxazole, and sulfathiazole (Fig.
+
+Currently, two opposite effects of Cys on microbial growth have been reported. Although bacteria can increase resistance to growth inhibitors by utilizing Cys, a high level of Cys can be toxic to bacteria
+
+A list of the strains used in this study is listed in Table
+
+For transcriptome sequencing, total RNA was isolated from
+
+The potential CyuR-binding site was identified by a comparative genomics approach using multiple sequence alignments. Orthologs of the
+
+Genome scanning for identifying additional candidate CyuR-binding sites was performed using the Genome Explorer software
+
+A single colony of the
+
+The interaction of the purified CyuR protein with its specific DNA-binding site was assessed using fluorescence polarization with fluorescently labeled 28-bp orthologous DNA fragment from
+
+
+
+Supplementary Information
+
+Description of Additional Supplementary File
+
+Supplementary Data 1
+
+reporting-summary

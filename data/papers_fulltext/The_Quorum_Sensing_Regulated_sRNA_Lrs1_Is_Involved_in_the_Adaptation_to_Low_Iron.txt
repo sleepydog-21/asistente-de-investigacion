@@ -1,0 +1,122 @@
+
+
+The QS systems can also respond to environmental signals at the post‐transcriptional level through the action of small non‐coding RNAs (sRNAs). These sRNAs can act by base pairing with target mRNAs, altering their translational rate or stability, and these interactions may be dependent on the RNA chaperone Hfq (Wagner and Romby
+
+In infection sites such as the CF lung, pathogens compete for access to iron (Hunter et al.
+
+The sRNA Lrs1 transcribed within the
+
+Lrs1 is an sRNA that lies upstream of the
+
+Lrs1 abundance is dependent on RNase E and the
+
+Often, sRNAs are transcribed as longer precursor transcripts before they are processed post‐transcriptionally by RNase E to adopt their shorter, mature forms. RNase E preferentially cuts RNAs in single‐stranded regions that are enriched with poly‐U, and in
+
+To explore this hypothesis, RNase E was depleted from the cells using a CRISPR interference approach (CRISPRi) previously developed for
+
+The gene
+
+The activity of the
+
+Considering the location of
+
+Previous work on Lrs1 found a positive regulatory link between Lrs1 and the Las QS system in PA14 (Wurtzel et al.
+
+To unravel the role of this sRNA in PAO1‐L, transcriptomic analysis was performed in the strain overexpressing
+
+The transcriptomic analysis revealed a strong connection between Lrs1 and iron acquisition genes (Figure
+
+Lrs1 participates in regulation of iron uptake through differential regulation of the siderophores pyochelin and pyoverdine. Volcano plots of the differentially regulated genes in PAO1‐L overexpressing
+
+Among the differentially regulated genes, eight out of the total 14 extracytoplasmic functioning sigma factors (ECFσ) participating in the iron stringency response were identified, displaying higher transcript levels when
+
+To corroborate the importance of Lrs1 in iron stringency, the promoter activity of
+
+The activity of the
+
+In both exponential and stationary phases,
+
+To investigate the involvement of Lrs1 in the regulation of the two siderophores, the levels of pyochelin and pyoverdine were measured in four different iron concentrations in M9 medium: 10, 5, 1.5 and 0.15 μΜ FeCl
+
+RNA‐seq uncovered a regulatory connection between Lrs1 and iron acquisition. Fur would have been a probable target of Lrs1; however, only a specific subset of the Fur regulome was affected by Lrs1, and the siderophore dysregulation did not agree with this hypothesis (Cornelis et al.
+
+To explore which RNAs may be directly targeted by Lrs1, GRIL‐seq (Global sRNA Target Identification by Ligation and Sequencing) was employed (Han et al.
+
+None of the pyochelin genes were identified as direct targets of Lrs1 (Tables
+
+In addition to the mRNAs, Lrs1 was also found to bind to three sRNAs, CrcZ, PhrS and ErsA. It has been previously shown that at least PhrS interacts with both CrcZ and ErsA, and that CrcZ interacts with PrrF1 in vivo (Han et al.
+
+Comparison of the potential targets identified with GRIL‐seq to the differentially regulated genes from the RNA‐seq resulted in
+
+sRNA‐mRNA interactions initiate at a short regions of perfect complementarity between the sRNA and the mRNA termed seed region (Wagner and Romby
+
+To further confirm the involvement of Lrs1 in the regulation of pyochelin production, RT‐qPCRs were conducted between the WT with the empty vector and WT overexpressing
+
+Lrs1 may participate in metabolic rewiring in low iron conditions. RT‐qPCR analysis of genes participating in (A) pyochelin biosynthesis, (B) Anthranilate synthesis, (C) Anthranilate degradation, (D) PQS biosynthesis, (E) pyocyanin production, (F) Carbon catabolism regulation in the WT and the
+
+Considering that Lrs1 was ligated to multiple genes participating in carbon catabolism in the GRIL‐seq experiments, among them the carbon catabolism regulator CrcZ, it is possible that a metabolic shift might reduce pyochelin precursors and hence production of the siderophore. The precursor of pyochelin is chorismate, which can also be used for the biosynthesis of pyocyanin, and in the biosynthesis of the aromatic amino acids phenylalanine, tyrosine and tryptophan, or its precursor, anthranilate. Anthranilate can be used for the biosynthesis of alkylquinolones, or directed to the TCA cycle. To investigate these possibilities, RT‐qPCR analysis was conducted on genes of these metabolic pathways, to see if they were affected by overexpressing
+
+Post‐transcriptional regulation plays a crucial role in microbial adaptation to environmental changes. A number of sRNAs have already been implicated in controlling the QS systems of
+
+Iron stringency in
+
+This is also evident by the conditional negative impact of Lrs1 on the Pqs QS system in low iron. PQS can act as an iron scavenger, enhancing the iron uptake response of
+
+Proposed model of Lrs1 involvement in balancing metabolic flow in low iron in
+
+Additionally, there is the negative effect of RhlR on the Pqs system through repression of
+
+In vivo interaction of Lrs1 with multiple mRNAs and sRNAs implicated in diverse metabolic pathways without a clear connection to iron, suggests a more versatile regulatory role for this sRNA. The dysregulation of these pathways was not apparent in the RNA‐seq carried out in the present study, which indicates that regulation may manifest in environmental conditions other than LB. That was the case of CrcZ upregulation, observed here in low iron conditions only. Another hypothesis is that Lrs1 may not act through altering transcript levels of these genes. In many of the targets identified in the GRIL‐seq experiment, Lrs1 was bound to their 3′ UTR, suggesting a distinct function. In a recent study, it was observed that sRNAs were bound to the 3′ UTR of mRNAs in
+
+This study highlights the importance of sRNAs for survival of
+
+The bacterial strains and plasmids used in this study are listed in Tables
+
+The plasmid pBS_1 was constructed by PCR amplification of a 972 bp region with primers LRS1RV and LRS1FW, which included 615 bp upstream of
+
+The plasmid pDP013 was constructed by PCR amplification of the upstream and downstream region of the
+
+The plasmid pKH6‐lrs1 was constructed by cloning
+
+For the transcriptional promoter fusions in pminiCTXlux, promoter regions were cloned between the HindIII and PstI sites in the MCS of pminiCTXlux. P
+
+The pBx‐rne1 plasmid was constructed with Golden Gate assembly. Briefly, the single stranded oligonucleotides sgRNA_1_RV and sgRNA_1_FW were dimerised by incubating equimolar concentrations of each oligonucleotide in annealing buffer (10 mM Tris, pH 8.0, 50 mM NaCl, 1 mM EDTA). The assay was heated to 95°C for 5 min and then the temperature slowly decreased to 25°C. The double stranded oligonucleotide was then incubated with the vector pBx‐Spas‐sgRNA‐Gm and BbsI restriction digestion enzyme in rCutsmart buffer (NEB) for 10 min at 37°C. Afterwards, T4 DNA ligase and 10 mM ATP were added to the assay. The reaction was incubated for 20 cycles of alternate steps, 3 min at 37°C and 3 min at 16°C.
+
+The plasmid pME6032‐
+
+The suicide plasmids pME3087‐rhlR, pME3087‐rhlI, pME3087‐lasR, pME3087‐lasI and pME3087‐pqsE for the construction of deletion mutants of the genes
+
+All plasmids were transferred to
+
+For deletion mutants, the corresponding suicide plasmids were transformed in
+
+The plasmid pUC18‐miniTN7‐Plac‐dCas9‐Gm was transferred to PAO1‐L by triparental conjugation with the helper vector pTNS1. Following insertion of the Tn7 construct into the chromosome, the gentamicin resistance cassette was excised by electroporating the flipase‐encoding plasmid pFLP2. Curation of pFLP2 was done by sucrose counterselection as described in Huang and Wilks (
+
+Promoter activity was determined using pminiCTXlux bioluminescent reporters integrated to the
+
+In 100 mL flasks, 10 mL iron‐free M9 minimal media with 20 mM glucose was inoculated with 0.05%V/V overnight cultures and incubated for 20 h at 37°C, 200 rpm. Following centrifugation to pellet the cells, the supernatants were filter‐sterilised. Pyoverdine was quantified by measuring the absorbance of the supernatant at 400 nm. Pyochelin was quantified according to Cunrath et al. (
+
+In 50 mL flasks, 10 mL LB was inoculated with 0.05% V/V overnight cultures and was incubated for 20 h at 37°C, 200 rpm. 1.5 mL of culture was centrifuged to pellet the cells, and the supernatant was filter sterilised. 100 μL of the supernatant was mixed with 900 μL ECR buffer (1.41 g/100 mL Tris, 19.47 mg/100 mL CaCl
+
+The comparative analysis of alkyl quinolones in supernatant samples was conducted by liquid chromatography—tandem mass spectrometry (LC–MS/MS) using an Excion LC system in tandem with a Sciex Qtrap 6500+ mass spectrometer. Analytical samples were prepared by mixing 10 μL of sterile filtered supernatants with 90 μL of an internal standard solution (500 nM solution of deuterated HHQ (d4‐HHQ) in MeOH). 5 μL of each sample was injected onto a Phenomenex Gemini C18 column (3.0 μm, 50 × 3.0 mm
+
+Total RNA was extracted from cell cultures using the RNeasy plus Universal mini kit (Qiagen) following the manufacturer's instructions. For the detection of Lrs1 by Northern Blot, the DIG (digoxygenin) Northern Starter kit (Roche) was used following the manufacturer's instructions with some modifications. The endogenous control was 5S rRNA. The probes for both Lrs1 and 5S were created with in vitro transcription of PCR templates for both genes. For Lrs1 detection, 10 μg RNA was loaded per sample and 200 ng for 5S rRNA. The samples were loaded in 10.5% V/V vertical denaturing polyacrylamide gels with 5 M urea and 1× TBE. The samples were mixed with an equal volume of denaturing RNA loading buffer. As a marker, the Century‐RNA marker templates (Invitrogen) were in vitro transcribed and incorporated DIG‐11‐UTP. The gels were electroblotted on positively charged nylon membranes (Amersham Hybond‐N RPN 203 N) followed by UV crosslinking and hybridised in DIG EasyHyb buffer (Roche) at 68°C with gentle agitation overnight. Following incubation with anti‐DIG antibody, the membranes were incubated with the substrate CDP‐star ready‐to‐use solution (Roche). The membranes were finally developed by exposing them to X‐ray film.
+
+Following RNA extraction, the samples were treated with Turbo DNA‐free kit to remove residual DNA. The RNA was reverse transcribed with the GoScript Reverse Transcriptase kit with random primers (Promega). The qPCR mix used here was the Power SYBR Green PCR Master Mix (Applied Biosystems, Cat: 4367659). The qPCRs were performed in a QiaQuant 5× multiplex system. The
+
+The RNAs were transcribed in vitro with the MegaScript T7 Transcription kit (Invitrogen) from PCR templates. The templates were made for each RNA with a forward primer containing the T7 promoter in the 5′ end. Subsequently, the RNAs were purified with the RNeasy cleanup kit (Qiagen). A non‐radioactive approach was followed for the visualisation of EMSA. The tagged RNA and Lrs1 was made with a reverse primer starting with the sequence 5′ TTTTTTTTCCCCCCCCC 3′. This sequence would add a 5′ GGGGGGGGGAAAAAAAA 3′ which was complementary to a probe (the Atto probe) covalently bound to the fluorophore Atto
+
+RNA samples for RNA‐sequencing were harvested as follows. In 50 mL flasks, 10 mL LB with 0.2% L‐arabinose was inoculated with 0.05% V/V overnight culture. The cultures were incubated at 37°C, 200 rpm. Exponential phase samples were taken when cultures reached an OD
+
+The RNA sequencing was conducted in the DeepSeq Facilities at the University of Nottingham. The library pool was sequenced on the Illumina NextSeq 500 using a NextSeq 500 high Output 150 cycle kit (Illumina) to generate over 10 million pairs of 75 bp paired‐end reads per sample.
+
+The sample collection and preparation for RNA‐Seq was performed as described in the analytical protocol in the supporting files of Han et al. (
+
+Data analysis was conducted on the online server Galaxy (usegalaxy.eu). The reads were locally aligned to the corresponding sRNA sequence only using Bowtie2 (v2.5.0, galaxy version 2.4.5 + galaxy1) (Langmead et al.
+
+The WT PAO1‐L and the
+
+
+
+The authors declare no conflicts of interest.
+

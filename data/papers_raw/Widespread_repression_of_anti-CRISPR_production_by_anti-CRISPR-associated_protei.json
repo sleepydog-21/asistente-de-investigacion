@@ -1,0 +1,11 @@
+{
+  "id": "35947749",
+  "title": "Widespread repression of anti-CRISPR production by anti-CRISPR-associated proteins.",
+  "doi": null,
+  "authors": "Shehreen S, Birkholz N, Fineran PC, Brown CM",
+  "journal": "Nucleic acids research",
+  "year": "2022",
+  "abstract": "Many bacteria use CRISPR-Cas systems to defend against invasive mobile genetic elements (MGEs). In response, MGEs have developed strategies to resist CRISPR-Cas, including the use of anti-CRISPR (Acr) proteins. Known acr genes may be followed in an operon by a putative regulatory Acr-associated gene (aca), suggesting the importance of regulation. Although ten families of helix-turn-helix (HTH) motif containing Aca proteins have been identified (Aca1-10), only three have been tested and shown to be transcriptional repressors of acr-aca expression. The AcrIIA1 protein (a Cas9 inhibitor) also contains a functionally similar HTH containing repressor domain. Here, we identified and analysed Aca and AcrIIA1 homologs across all bacterial genomes. Using HMM models we found aca-like genes are widely distributed in bacteria, both with and without known acr genes. The putative promoter regions of acr-aca operons were analysed and members of each family of bacterial Aca tested for regulatory function. For each Aca family, we predicted a conserved inverted repeat binding site within a core promoter. Promoters containing these sites directed reporter expression in E. coli and were repressed by the cognate Aca protein. These data demonstrate that acr repression by Aca proteins is widely conserved in nature.",
+  "source": "PubMed",
+  "pmcid": "PMC9410906"
+}

@@ -1,0 +1,113 @@
+Two critical symbiotic events define the cellular structure and mode of genetic inheritance of modern plants. The resulting organelles of these symbioses—plastids and mitochondria—marked an evolutionary revolution and established plants’ role as the primary suppliers of oxygen and organic matter on Earth. Over 1.4 billion years of evolution, the function and genetics of plastids and mitochondria have coevolved with the nucleus to perform autotrophic functions. Yet such long-term equilibrium can be broken during the evolution of parasitism. The most extreme case in eukaryotes involves the loss of mitochondrial genomes (mitogenomes) in unicellular parasites [
+
+How mitochondrial function and genome evolution respond to heterotrophy in plants is polarized. On one hand, mitochondria play a housekeeping role in programmed cell apoptosis, calcium signaling, and oxidative homeostasis, making them fundamental to the survival and functioning of eukaryotic organisms [
+
+Scrutinizing signs of relaxed selection has been a central focus of molecular evolution and can be conducted by examining nucleotide substitutions in protein coding genes. Compared to the streamlined plastid, mitochondrial genes harbor a greater breadth of eccentricities such as scrambled coding regions, nonstandard genetic codes, and posttranscriptional RNA editing [
+
+Investigation on mitogenome evolution in parasitic plants has largely focused on lineages with a single origin of parasitism and has been restricted to coding regions [
+
+We assembled and annotated mitogenomes and plastomes from 45 Orobanchaceae species representing 28 genera (
+
+Plastomes in Orobanchaceae ranged from 45.8 kb to 164.1 kb in size (
+
+Mitogenomes in Orobanchaceae ranged from 225.6 kb in
+
+The core set of 24 mitochondrial genes was intact in all species except for a pseudogenized
+
+Non-core mitochondrial genes in Orobanchaceae including ribosomal proteins and succinate dehydrogenase (
+
+Interspersed repeats on average accounted for 7.0% of the mitogenome in Orobanchaceae, and there was no significant difference between the two modes of parasitism (phylANOVA
+
+To further investigate mitochondrial structural dynamics, we conducted pairwise genome alignment with comparison to the free-living species
+
+An average of 385.3±9.0 cytidines to uridines (C-to-U) RNA editing sites per species were predicted bioinformatically for the 24 core mitochondrial genes (
+
+First, seven out of the ten events of retroprocessing-mediated loss of RNA editing sites were associated with holoparasitic lineages (
+
+Gene flow from plastids to mitochondria (MTPT) is one of the many mechanisms for mitochondria to uptake non-native DNA. These intracellular transfers accounted for a small proportion of mitogenome in Orobanchaceae (0.53–17.50%), with the lowest MTPT content found in holoparasites (
+
+To further investigate the patterns and mechanisms of MTPT purging in holoparasitic Orobanchaceae, we inferred the genetic background and genomic location for all 1,094 MTPTs using phylogenetic approaches. The results suggested that native plastomes on average accounted for 67.2% of the MTPT, while plastid transfers from outside Orobanchaceae contributed 17.4%. Such a proportion is sharply contrasted when partitioned by life history strategy—a minimum 6.0% of the MTPTs are from alien sources in hemiparasites, but this number rises to 28.8% in holoparasites (phylANOVA
+
+Mapping MTPTs to the plastome revealed a striking disparity in transferability across the genome (
+
+In addition to plastid sequences, most non-native mitochondrial sequences come from the mitogenome of other species. Our newly developed HGTScanner program (see
+
+We calculated the average synonymous (
+
+To more finely characterize clade-specific selection shifts, we applied the free-ratio model to estimate ω and the selection parameter
+
+To identify gene-specific selection shifts and evaluate their statistical significance, we partitioned mitochondrial genes into functional groups and compared models with alternative branch partitioning using likelihood ratio tests (LRT) in HYPHY (
+
+The correlation between mitochondrial nucleotide substitutions (
+
+Orobanchaceae presents a compelling opportunity to understand the connection between mitogenome evolution and various modes of parasitic lifestyle. Unlike previous studies that overlooked noncoding regions and claimed limited influence of parasitism on mitogenome evolution, we not only revealed distinct and predictable changes in genome shuffling, RNA editing, and IGT and HGT content during the transition to holoparasitism, but also demonstrated the underlying molecular mechanisms. Overall, relaxed selection does not play the dominant role in these processes, but a rather stronger link could be made with biases in DNA recombination and repair processes, especially those involving RNA-mediated retroprocessing.
+
+RNA editing is a mandatory post-transcriptional correction step to restore conserved amino acids during mitochondrial gene expression across plants [
+
+Holoparasites generally experienced more point mutations and retroprocessing that synergistically promoted loss of RNA editing sites compared to hemiparasites (
+
+Intracellular gene transfers from the plastid (i.e., MTPT) comprise between 1 to 10% of the mitogenome in seed plants [
+
+Elucidating the molecular mechanism for highly fortuitous events like gene transfer is exceptionally challenging in eukaryotes because they are too rare to be studied
+
+On the other hand, DNA-mediated MTPT likely still dominates in most species and the processes behind its drastic decline in holoparasites are more complex. One conceivable mechanism to explain this is the “limited transfer window” hypothesis—species with a single plastid per cell experience less gene transfer because lysis of this plastid is lethal to cell [
+
+This prompted our speculation of additional mechanisms altering plastid DNA accessibility for transfer, which we term the “resting DNA” hypothesis. This hypothesis postulates that the evolution of holoparasitism fundamentally shifts the molecular processes generating free plastid DNAs as the donor for MTPT. Replication, recombination, and lysis of the plastid all have the potential to introduce double strand breaks and free DNA fragments. While young photosynthetic leaves carry thousands of constantly replicating plastids per cell, the reproductive and meristematic cells in holoparasites contain fewer plastids that might be less active in replication [
+
+In summary, MTPT content in plant mitochondria is maintained by both RNA- and DNA-mediated processes. The RNA-mediated pathway may recruit native precursor RNA operons or alien mature RNAs. Transition to a heterotrophic lifestyle may greatly reduce MTPT content because the genetic donors for both the DNA-mediated pathway (free plastid DNA] and the RNA-mediated pathway (precursor plastid RNA) are reduced in heterotrophs, although horizontally acquired RNA from the host may slightly compensate this phenomenon in parasitic plants.
+
+Unlike recombination and retroprocessing events that profoundly shaped the mitogenome landscape in holoparasites (e.g., loss of RNA editing, MTPT, and HGT), we found limited evidence for universal lifestyle-linked relaxed selection. For mitochondrial genes, both hemi- and holoparasites have similar ω values (
+
+In addition to coding regions, integration of excessive non-coding DNA such as MTPTs and HGTs increases the mutational burden of the mitogenome [
+
+Instead, mitogenome size scales strongly with traits directly or indirectly associated with recombination and repair processes, including MTPT, HGT, repeats, GC content, and RNA editing (pp
+
+To summarize our results and provide an integrative framework for future studies, we propose a universal roadmap of plant mitogenome evolution in response to parasitism (
+
+Parasitism establishes direct vascular connections with other plant species, which increases the load of alien RNA and DNA molecules that facilitate gene transfer to the mitogenome. These transfers come from the plastid, mitochondrial, and even nuclear genomes of hosts and are of minimal influence in hemiparasites. Besides host-derived genetic materials, native sequences from the plastome frequently enter the mitogenome via RNA- and DNA-mediated pathways. In free-living and hemiparasitic species, integration of native MTPT often involves reverse transcription of precursor RNA operons and is strongly linked with transcript abundance. The loss of photosynthesis in holoparasites marks a major transition in the dynamics of gene transfers. The greatly diminished photosynthetic capacity decimates the transcription of most plastid genes as well as their entrance to the mitogenome via RNA-mediated retroprocessing. The only plastome region being actively transferred in holoparasites involves the rRNAs, whose function seems indispensable in all plants with a plastome [
+
+These excessive genome structural changes are deleterious because they can disrupt gene expression (e.g., pseudogenization of
+
+Despite these general trends, mitogenome evolution in heterotrophic species is subject to substantial contingency. This originates from their altered energy metabolism that may either increase (e.g., thermal genesis in
+
+Our taxon sampling included 45 representative species from 28 (28%) genera in Orobanchaceae (
+
+We trimmed adapters and filtered low-quality reads using TrimGalore v.0.5.0 under the default settings [
+
+As a result, we completed mitogenomes of 24 species with fully connected De Bruijn assembly graphs in networks (
+
+Annotation of organellar genomes was conducted using the annotation transfer function in Geneious Prime 2019.1.3 and manually inspected (Biomatters Ltd, Auckland, New Zealand,
+
+To explore the abundance of organellar genomes within a plant cell, we characterize the copy number of mitogenomes, plastomes, and nuclear genomes based on their read base coverage. One important caveat is that there is great variation in the number of genomes carried by each organelle ranging from dozens to hundreds depending on the species and cell type [
+
+We reconstructed mitochondrial and plastid phylogenies with genes and conserved introns. For the mitochondrial phylogeny, 31 protein-coding genes, 3 rRNAs, and their conserved introns (
+
+An ultrametric time tree was inferred for downstream comparative analyses (
+
+We used two methods to localize and quantify repeats in mitochondrial genomes. First, we used the BLAST-based tool ROUSFinder v2.0 [
+
+Secondly, we used a custom Python script (de_bruijn_graph_based_repeat_identification.py, see GitHub for details) to identify repeats bridging multiple assembly contigs. Here, repeats are identified as contigs with four or more connections with neighboring contigs and a higher kmer coverage that aligns with the number of connections (e.g., 4 connections = 2×coverage;
+
+Pairwise genome alignment was conducted in Mummer v4.0.0.0 [
+
+We used a neural network based software Deepred-Mt [
+
+To accurately identify MTPTs, we generated a comprehensive plastome database that included both highly divergent sequences from holoparasites and conserved sequences from representative free-living angiosperms from the host lineage (
+
+To calculate the proportion of MTPT, each mitogenome was searched against the plastome database with a stringent e-value threshold of 1e-70 in BLAST. All hits were consolidated using ‘bedtools merge’ to summarize their total length. Five additional non-photosynthetic angiosperm lineages were sampled for comparative purposes, including Balanophoraceae (Santalales), Hydnoraceae (Pipeales), Cynomoriaceae (Saxifragales),
+
+To further characterize the evolutionary history of MTPT, we reconstructed the phylogeny for all 1,094 MTPT fragments identified across Orobanchaceae species. To do this, a custom Python program HGTscanner_mtpt.py (available on GitHub) was generated to establish sequence homology, infer phylogeny, and identify intra- or inter-species gene donors. Briefly, the NCBI nucleotide (NT) database was queried (accessed 10 November 2023) for each MTPT to identify homologous plastid regions. A phylogeny was subsequently inferred using IQ-TREE v2.2.2.7 [
+
+To accurately identify mitochondrial HGTs, we developed a Python tool HGTscanner to precisely characterize the location, donor, and recipient of alien genetic fragments (
+
+To mitigate these challenges, HGTscanner first masked exons and MTPT in the query mitogenome assembly and then BLASTed it against the entire Viridiplantae mitochondrial sequence database from NCBI GenBank (70,706 records; accessed 10 November 2023). We found such masking to be essential for avoiding the large number of BLAST hits in conserved coding regions and MTPTs. These BLAST hits were then ordered based on location and consolidated into longer synteny blocks for downstream phylogenetic analyses. Each synteny block was further divided if more than 50% of the BLAST hits consisted of multiple genomic regions (
+
+HGT was evaluated based on stringent criteria using BLAST and phylogenetic evidence. Briefly, a genetic locus was classified as “high-confidence HGT” if (1) Sequences with high identity (BLAST e-value < 1e-20) are found in Orobanchaceae and one non-Lamiales family (BLAST-based evidence); (2) Sequences with high identity (BLAST e-value < 1e-20) are found in only one Orobanchaceae species and other land plant families (BLAST-based evidence); (3) the target Orobanchaceae parasite is nested well within a non-Lamiales family with >85 UFBP support (phylogeny-based evidence). The other scenarios are variously classified as ‘VGT’ (vertical gene transfer), ‘putative HGT’, or ‘inconclusive’ (
+
+We used various models to investigate mitochondrial selection at the species and gene levels. To prepare the input sequences, coding sequences from mitochondrial genes were aligned with the codon-aware aligner MASCE v2.01b [
+
+The overall non-synonymous (d
+
+Most tests of lifestyle related shifts of genetic traits were conducted using phylogenetic ANOVA (phylANOVA) or phylogenetic generalized least squares (PGLS). The ultrametric species tree inferred from the concatenated Orobanchaceae mitochondrial genes was used as the reference phylogeny. Species were classified based on their photosynthetic capacity as “holoparasites” or “photosynthetic” (including cryptic hemiparasites, hemiparasites and free-living species). For phylANOVA analyses, the PhylANOVA function from the R package phytools was used to perform hypothesis testing using 1000 simulations, posthoc tests to compare the mean among groups, and the “holm” method to adjust
+
+Correlation of genomic traits (size, repeats, synteny, RNA editing, MTPT, HGT) and nucleotide substitution (

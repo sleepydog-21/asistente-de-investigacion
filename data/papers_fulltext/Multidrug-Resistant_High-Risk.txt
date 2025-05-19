@@ -1,0 +1,57 @@
+Antibiotics such as the β-lactams revolutionized medicine, as infections that had previously been fatal became easily treatable. Nevertheless, nearly 100 years after the discovery of penicillin, reports of severe infections caused by multidrug-resistant (MDR) bacteria have accumulated [
+
+Previous studies suggested that a limited number of clonal lineages, such as
+
+Here, we investigated the occurrence of ESBL-producing
+
+Sampling in both gull colonies took place during the breeding season (May–June 2021) on the islands of Böhmke and Riether Werder in Western Pomerania [
+
+We isolated 12 ESBL-producing strains from a total of 339 samples (3.5% (95% confidence interval (CI): 2.0–6.1%; 12 of 339)), consisting of 11
+
+WGS revealed eight different STs (
+
+WGS analysis using the AMRFinderPlus database [
+
+In addition, all strains carried a BlaEC family class C β-lactamase (
+
+A growing number of studies have suggested that ESBL-producing
+
+To determine whether the genotype matched the phenotype, we then performed phenotypic antimicrobial susceptibility testing (AST) against ciprofloxacin (quinolones), gentamicin (aminoglycosides), tetracycline (tetracyclines), and colistin (polymyxins). In summary, the results of the phenotypic AST were mostly consistent with the genotype (
+
+As the combination of MDR and high levels of bacterial virulence seems to be a prominent feature of international high-risk clonal lineages [
+
+All 12 ESBL-producing strains carried different virulence-associated genes (VAGs), which were mainly associated with adherence, biofilm formation, iron uptake, bacterial motility, and toxin production, which suggests their pathogenic potential. For example, the P fimbriae adhesin cluster (
+
+Although PBIO3541 and PBIO3687 belong to the well-known ExPEC lineages ST38 and ST131, they carried enterotoxins typically found in obligately pathogenic
+
+Finally, to elucidate the phylogenetic relationships from a global perspective and to investigate the zoonotic potential of two of our most resistant and virulent strains, we constructed a phylogeny of 30 closely related, publicly available ST38 genomes in comparison with PBIO3541 and PBIO3584 (
+
+The phylogeny showed two major clades with several subclades, including the two ST38 strains and publicly available genomes originating from humans, domestic and wild animals, food, and the environment. PBIO3541 was most closely related to a strain from a sewage treatment plant in Japan (DRR199218). In addition, we found related genomes from humans (SRR19561363, SRR9924593). Interestingly, SRR19561363 originated from a bloodstream infection of an Australian patient, pointing towards its clinical significance.
+
+PBIO3584, as part of the second major clade, showed a close phylogenetic relationship to a strain derived from a fecal sample from a healthy cow (DRR102958 [
+
+Here, we isolated 12 ESBL-producing
+
+ESBL-producing
+
+The occurrence of five clinically relevant representatives belonging to international high-risk clonal lineages among only 12 ESBL-producing strains is remarkable. ST131 has not only been reported as the major
+
+A major contributor to the global dissemination of bacterial pathogens is sewage water, which originates from private and public facilities, including hospitals, and which is insufficiently treated before entering surface waters such as rivers and seas [
+
+Another interesting finding in our study was the chromosomal location of the ESBL genes in the four strains. It is well known that mostly plasmids drive the emergence of cephalosporine resistance in
+
+Finally, our genomic analysis revealed that the ESBL-producing strains carried multiple virulence factors, likely providing an advantage in addition to antimicrobial resistance. For example, the ability to adhere to surfaces and form biofilms is important to help bacteria resist external stressors such as antibiotic treatment, UV radiation, and low temperatures [
+
+In summary, here, the occurrence of multiple high-risk clonal lineages in wild birds demonstrates the importance of One Health as a paradigm approach that recognizes the interdependence of human, animal, and environmental health. Both humans and animals depend on sustainable ecosystems, where small changes impact the health of all, which is also true in a global context.
+
+During the 2021 breeding season (May–June), we collected 339 different samples from two black-headed gull colonies on Riether Werder and Böhmke Islands, both located in Western Pomerania, Germany (
+
+We performed phenotypic antimicrobial susceptibility testing to investigate the occurrence of additional clinically relevant resistance phenotypes. Briefly, a single colony was picked and streaked on chromogenic agar plates containing antibiotics at their clinical breakpoint concentrations according to the published breakpoints of the Clinical and Laboratory Standards Institute [
+
+Total DNA was extracted using the MasterPure DNA Purification Kit for Blood, Version 2 (Lucigen, Middelton, WI, USA), according to the manufacturer’s instructions. The isolated DNA was quantified fluorometrically using the Qubit 4 fluorometer and the corresponding dsDNA HS Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA). DNA was shipped to the SeqCenter (Pittsburgh, PA, USA) and, following library preparation using the Illumina DNA Prep Kit and IDT 10 bp UDI indices (Illumina, San Diego, CA, USA), whole-genome sequencing was carried out on an Illumina NextSeq 2000, producing 2 × 151 bp reads. Demultiplexing, quality control, and adapter trimming were performed using bcl-convert Version 3.9.3 [
+
+Short-read data were processed using BBDuk from BBTools Version 38.95 (
+
+To determine whether the
+
+For the creation of a core single nucleotide polymorphism (SNP)-based phylogeny of closely related isolates, Enterobase [

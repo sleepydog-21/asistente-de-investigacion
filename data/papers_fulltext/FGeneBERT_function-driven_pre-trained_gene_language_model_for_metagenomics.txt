@@ -1,0 +1,129 @@
+Metagenomics, the study of mixed genomes of microbial communities in the environment (e.g. gut microbiomes or soil ecosystems) [
+
+Unlike traditional genomics focused on single species, metagenomics involves genetic material directly from environmental samples, posing significant challenges due to sample diversity and species abundance [
+
+Motivaion. Two types of complex relationships between gene sequences and functions in metagenomics.
+
+Recently, various computational methods have emerged for genomic and metagenomic data analysis. Traditional alignment-based methods like MetaPhlAn5 [
+
+Despite these advancements, current approaches exhibit three critical limitations when analyzing metagenomic data. Firstly, the Semantic Tokenizer problem. Most machine learning-based methods [
+
+To address these challenges, we propose FGeneBERT (Function-Driven Pre-trained Gene Language Model for Metagenomics), a novel metagenomic pre-trained model designed to encode contextually aware and functionally relevant representations of metagenomic sequences. First, to solve the problem of encoding gene sequences with biological meaning, we propose a protein-based gene representation as a context-aware tokenizer, allowing for a flexible token vocabulary for longer metagenomic sequences. This strategy leverages the inherent protein functional and structural information encoded in metagenomic data [
+
+In this work, we identify three key challenges in metagenomic analysis. To address these issues, we propose FGeneBERT. To the best of our knowledge, this is the first metagenomic pre-trained model encoding context-aware and function-relevant representations of metagenomic sequences. To summarize: (i) We introduce a new idea of protein-based gene representations to learn biologically meaningful tokenization of long sequences. (ii) We propose MGM to model inter-gene relationships and TMC to learn complex relationships between gene sequences and functions. (iii) We conduct extensive experiments across various downstream tasks, spanning gene, functional, bacterial, and environmental levels with input sizes from 1 to 213 k sequences. FGeneBERT achieves the state-of-the-art performance.
+
+In this section, we provide a detailed description of the proposed pre-training model FGeneBERT, which contains the MGM and TMC components as depicted in
+
+Overview of FGeneBERT. A metagenomic sequence
+
+We pre-train and evaluate FGeneBERT on distinct datasets ranging from thousands to hundreds of thousands of sequences. For pre-training, we utilize the MGnify database [updated February 2023 (
+
+Microbial species and genome numbers in each environment in the MGnify dataset. Columns denote environmental catalogs, microbial species, and assembled genomes, respectively
+
+Description of experimental datasets. #Seq. and #Class means the number of sequences and categories in each dataset
+
+Given a dataset of metagenomic long sequences
+
+To develop a biologically meaningful tokenization of long sequences, we design a context-aware tokenizer utilizing the protein language model (PLM), such as ESM-2 [
+
+Framework of Context-Aware Tokenizer. Gene sequences
+
+Secondly, these DNA sequences
+
+We propose the MGM to enhance the model’s understanding of the relationships between genes within metagenomic sequences and their function regulations across diverse genomic environments (OTM problem). During pre-training, each gene token is masked with a 15% probability and predicted based on its unmasked genome context
+
+where
+
+In addition, considering genetic polymorphism [
+
+where
+
+The MGM component enhances the model’s ability to learn contextual relationships between genes, helping to alleviate the OTM problem present in metagenomic data. However, when faced with the MTO problem, the model’s ability to describe the relationships between sequences with the same function remains weak. For instance, when annotating Enzyme Commission (EC) numbers for partial metagenomic sequences, we observe that sequences sharing the same EC number cluster closely in feature space, while those with distinct EC numbers are more separated [
+
+where
+
+The strategy for sampling triplets is crucial to learning a well-organized embedding space. For each gene group
+
+Previous work [
+
+For all negative samples in
+
+where
+
+Finally, MGM and TMC constitute a unified pre-training framework with a total loss:
+
+where
+
+Level 1 Task A: Gene structure analysis
+
+Results analysis. The attention heatmap in
+
+Visualization of attention. The attention value is from the first head of the last (19th) attention layer. Darker shading indicates higher attention weight.
+
+Classification results on CARD-R
+
+Level 2 Task B: Functional gene prediction
+
+Results analysis. FGeneBERT’s performance on CARD-A is significant, as shown in
+
+Macro F1 (
+
+Level 2 Task C: Functional gene prediction
+
+Level 2 Task D: Functional gene prediction
+
+Level 3 Task E: Pathogenicity potential assessment
+
+Level 4 Task F: Nitrogen cycle prediction
+
+We perform the ablation study to investigate the effectiveness of our proposed components.
+
+Ablation study of M.F1 on CARD-D.
+
+Bold values highlight the best (maximum) results in each column. Negative values indicate how much lower the corresponding result is compared to the best result.
+
+Ablation studies of our proposed modules on four downstream tasks.
+
+We conduct a visualization experiment to validate the effectiveness of MGM in the OTM scenario. ATP synthases can exhibit different functions in different organisms to adapt to their respective environmental conditions, even though the basic functions are the same [
+
+We collect 1177 ATP synthase sequences from UniProt [
+
+T-SNE visualization of different embeddings for ATP synthases. Each dot denotes a sequence and is grouped according to different functions.
+
+We further explore the impact of integrating TMC into our model on gene operon prediction in the Many-to-One (MTO) scenario. Initially, we evaluate FGeneBERT without the TMC module. Afterward, we add the TMC module, and K-means are performed using the embeddings from the network’s intermediate layers. We compute the normalized mutual information (NMI), adjusted Rand index (ARI), and Silhouette coefficient index to measure the clustering quality. The results in
+
+Clustering results of TMC for many-to-one problem
+
+Bold values indicate the best performance in each column.
+
+We replace the FGeneBERT’s tokenizer with ESM2 and BPE representations and assessed performance across downstream tasks.
+
+The ablation study using protein-based gene representation as a context-aware tokenizer
+
+Bold values indicate the best performance, and underlined values indicate the second-best performance.
+
+We analyze the time complexity and memory efficiency of our tokenizer compared to four genomic pre-trained methods on six datasets in
+
+Comparative analysis on tokenization efficiency: time(s) vs. memory (MB). Each point denotes a specific dataset, with the size indicating its scale.
+
+To further explore model scalability, we train three FGBERT variants—FGBERT-T, FGBERT-S, and FGBERT-B—differing in layers, hidden dimensions, and attention heads. Each variant is trained on 50 million, 100 million, and 150 million sequences to assess the impact on time and memory during pre-training, as shown in
+
+Time complexity and memory efficiency of pre-training and scalability of FGBERT
+
+
+
+Our sensitivity analysis indicates that FGeneBERT can be optimized effectively using small batch size
+
+Sensitivity w.r.t. hyper-parameters
+
+All our experiments are performed on four NVIDIA V100 GPUs and the PyTorch framework. The encoder of FGeneBERT is initialized with Roberta [
+
+In this paper, we propose a new idea of protein-based gene representation, preserving essential biological characteristics within each gene sequence. With the new context-aware tokenizer, we propose MGM, a gene group-level pre-training task designed to learn the interactions between genes. Additionally, we develop TMC, a contrastive learning module to generate multiple positive and negative samples to distinguish the gene sequences. MGM and TMC constitute a joint pre-training model, FGeneBERT for metagenomic data. Our experiments and visualizations demonstrate the superior performance of our model. For the future, it remains to be explored how to incorporate multi-omics data, such as metabolomics, into our metagenomic pre-trained model.
+
+Metagenomic analysis faces three key challenges: the lack of context-aware representations, limited capture of inter-gene relationships, and inefficient modeling of gene-function associations in long sequences.
+
+We introduce FGeneBERT, the first metagenomic pre-trained model that encodes biologically meaningful, context-aware, and function-relevant representations of metagenomic data.
+
+FGeneBERT employs protein-based gene representations for efficient tokenization of long sequences and uses MGM and TMC modules to model inter-gene relationships and gene-function associations, respectively.
+
+Comprehensive experiments show that FGeneBERT consistently achieves SOTA performance in metagenomic analysis.

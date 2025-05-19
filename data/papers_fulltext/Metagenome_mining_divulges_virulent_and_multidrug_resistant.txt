@@ -1,0 +1,71 @@
+Bacterial meningitis represents one of the central nervous system (CNS) infections accounting for major causes of infant morbidity and mortality accounting for global rates of more than 10 % [
+
+On the other hand, members of the
+
+An 8-month-old male infant was admitted to the ICU for advanced respiratory support and other device supports including urinary catheter, nasogastric tube, central line, peripheral line and tracheal tubes. Presenting with neck rigidity, not feeding for three days, the patient was awake, had high grade fever, lethargy and was excessively crying. Diagnosed with sepsis and meningitis, the patient had no prior ICU history or any antibiotic regimen. The patient was thereby treated with an intravenous (IV) injection of ceftriaxone (1g).
+
+Blood sample was collected from the patient median cubital vein with a sterile syringe and processed as described in our recent work [
+
+Antibiotic susceptibly testing (AST) was performed using a panel of 14 antibiotics (
+
+Antibiotic susceptibility results from the co-culture plate containing
+
+We then used a Zymo Research miniprep kit to extract DNA, adhering to the manufacturer’s guidelines. Then a metagenomic DNA library was constructed using a NextEra DNA XT prep kit by random fragmentation of the DNA sample, followed by 5′ and 3′ adapter ligation. These adapter-ligated fragments were then PCR-amplified using random primers and gel-purified, followed by quality check on a chip of the Agilent Technologies 2100 Bioanalyzer using a DNA 1000. The library was then subjected to shotgun whole metagenome sequencing using the Illumina Novaseq 6000 platform, which generates an average of 151 bp read sequence length.
+
+Adapters and low-quality reads were filtered with FastQC (v0.11.9) and trimmed with Trimmomatic (v0.39) based on minimum sequence quality score of 10 and minimum read sequence length of 50 [
+
+Following recovery of each MAG, we performed comprehensive genome analysis using the BV-BRC to gain an insight into relative species, specialty genes including virulence and antimicrobial resistance genes from various reference databases including virulence factor database (VFDB), comprehensive antibiotic resistance database (CARD), Victors, NDARO and Transporters, among others [
+
+We salvaged the antibiotics and secondary metabolite analysis shell’ (antiSMASH, v7.0) [
+
+From AST (
+
+The Illumina Novaseq 6000 platform generated 20,169,956 paired-end raw reads, which after quality control, were decreased to 20,145,504. While our expectation was that the colonies contain a pure culture of
+
+While both bins were found to be of high quality (each consisting of 68 contigs), the first bin (
+
+Phylogrouping from TYGS tree inferred with FastME 2.1.6.1 [
+
+On the other hand, MLST of bin 2 involved seven housekeeping genes glyceraldehyde-3-phosphate dehydrogenase A (
+
+Multilocus sequence typing results
+
+PathogenFinder revealed that RSM9152B-1 is a human pathogen (p = 0.755). The top five match protein sequences include the two-component sensor
+
+From CARD, the AMR profile RSM9152B-1 was found to be abundantly characterized with efflux pumps (21 genes), accounting for a notable intrinsic MDR mechanism [
+
+Specialty genes representing AMR mechanisms and corresponding genes/genotypes annotated from CARD, retrieved from BV-BRC comprehensive annotation of each MAG/strain.
+
+Comparative multidrug resistance genotypes revealed from ResFinder. A) MDR profile of
+
+From PathogenFinder analysis,
+
+Mutations associated with cephalosporin and carbapenem resistance of
+
+The inflammatory mechanisms underlying meningitis are primarily mediated by the CNS-resident macrophages, the microglia [
+
+Biosynthetic gene clusters (BGCs) divulged using PRISM-genome mining. A) NRPs (1, 2, 3, 3) encoded by the first MAG,
+
+On the other hand, antiSMASH predicted three BGCs from
+
+While the causal association of NRP/PKs in the pathogenesis of meningitis are largely still under scrutiny, a recent study using an avian pathogenic
+
+Molecular docking results showing binding pockets and affinities for selected tight junction targets for NRPs; (A) compound 1 interaction with claudin-5, (B) binding pocket for compound 2 into pIgR, (C) compound 2 interaction with pIgR, (D) compound 3 interaction with PECAM-1, (E) compound 4 interaction with occludin.
+
+Nosocomial infections account for the most prevalent cause of mortality among immunocompromised and pediatric populations in hospital settings globally. Common bacteria associated with meningitis include
+
+Mechanistic studies on bacterial meningitis are increasingly associated with the destruction of the tight junctions constituting the BBB [
+
+While the virulence factors of the
+
+From AMR analysis, our findings have clearly shown that both pathogens possess a high rate of multidrug resistance, with ESBLs accounting for the outstanding AMR phenotypes. One of the notorious features of
+
+From metagenomic assembly, our study suggests coinfection, a pathogenic crosstalk and synergistic multidrug resistance between
+
+Our project was approved by the Higher Degree and Graduate Research Ethics Committee (HDREC) of Makerere University College of Health Sciences (MakCHS): Approval number SBS-2021-47. The permission of study was obtained from Mulago National Referral Hospital Management, Mulago ICU leadership and Department of Medical Microbiology. Laboratory numbers but not names were used for identification of samples and consent from the parents by proxy were obtained before sample collection. Collected samples were coded and secured with restricted access.
+
+Both metagenome-assembled genomes were deposited into the National Center for Bioinformatics and Biotechnology Information (NCBI) Assembly database (accession nos. GCA_037202035.1, and GCA_037202025.1) and can be accessed under the BioProject link
+
+This study was partially funded by
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

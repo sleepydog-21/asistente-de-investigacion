@@ -1,0 +1,168 @@
+Chemical modification of RNA
+occurs naturally in all phyla of life that includes over 140 different
+structures.
+
+Direct sequencing of RNA with nanopore
+technology has the potential
+to locate and quantify more than one modification in the strand.
+
+Modifications to RNA resulting in base calling differences
+have
+enabled sequencing for pseudouridine (Ψ),
+
+In this work, we focused
+our sequencing efforts on
+
+(A) Structures and (B) locations of the
+established RNA modifications
+found in the 16S and 23S rRNA strands from
+
+The
+
+Sequencing
+RNA with the commercial nanopore system occurs from the 3′
+to 5′ ends impacting the data in a few ways (
+
+Direct
+RNA nanopore sequencing for chemical modifications to
+
+The base call data, ionic current, and dwell time
+data impacts
+observed at 36
+
+Nineteen of the modifications were clustered with another
+modification
+within 5 or fewer nucleotides in the sequence, and their individual
+signatures, particularly in the ionic current and helicase dwell time
+data, could not easily be determined (16S: m
+
+The approach outlined enabled us to systematically determine the
+signatures for all modifications with a few exceptions (
+
+The knowledge of nanopore signatures
+for the rRNA modifications was used to detect and measure their occupancy
+in the strands under normal growth conditions and after exposure to
+metabolic or cold-shock stress. Prior reports have used mass spectrometry
+or gel analysis to quantify each of the
+
+Stress-dependent changes in
+
+Nanopore derived signatures were
+initially inspected
+(
+
+Metabolic stress to the
+
+The rRNA
+modification levels found to change with metabolic or
+cold-shock stress can be grouped. The first group is m
+
+The hypermodified RNA
+m
+
+Helicase sensor allows identification of the methyl group lost
+from the
+
+The Nanocompore tool was used
+to identify statistically
+significant
+differences (Kolmogorov–Smirnov (KS) test) in the helicase
+sensor dwell times between the
+
+To gain a better biophysical understanding of how the
+m
+
+In
+the final inspection of the data, the rRNA sequencing reads were aligned
+against the
+
+Operon-specific rRNA
+changes in Ψ levels in
+
+First, the expression levels of rRNA from each
+operon were determined
+under normal and metabolic stress conditions. A prior report normalized
+the data to the expression of
+
+The Nanopore-Psu analysis for Ψ in each of the rRNAs from
+the seven operons is the first experiment of this type and provides
+deeper insight into the changes found in
+
+Under metabolic
+stress, operon-specific Ψ levels were similar
+at eight sites, with three noteworthy differences. The first is 23S
+Ψ 2604, in which the installation increased the most on all
+operons except
+
+In the present
+work,
+
+Seventeen of the 36 modifications are located in the primary
+sequence distant from other rRNA modifications, and they were easily
+evaluated to determine their ionic current, dwell time, and base calling
+signatures (
+
+Nineteen of the 36
+RNA modifications in the
+
+Nanopore direct RNA sequencing occurs from the 3′
+to 5′
+ends, resulting in higher depth reads on the 3′ end of the
+sequences (
+
+Another noteworthy
+limitation is in regards to using base calling as a means of RNA modification
+detection and quantification. The seven
+
+There are two exceptions to this observation;
+under metabolic stress, 23S Ψ2604 was found to increase in its
+occupancy, and mixed results were found for 23S Ψ746 (current
+and ELIGOS2 predict a decrease, and Nanopore-Psu predicts an increase;
+
+In the 16S
+rRNA sequence at position 1402, there is a hypermodified C nucleotide
+m
+
+The helicase sensor
+was found to provide the data to answer this question. The hypermodification
+m
+
+In principle, a histogram for a population
+of dwell times that
+differ between the modified and unmodified states can be integrated
+to quantify the presence of modification. The histogram shown in
+
+Two remaining
+questions regarding the helicase activity on m
+
+The implications of rRNA modification changes in
+
+A second noteworthy
+rRNA modification that decreased under cold-shock stress is 23S ho
+
+The changes in Ψ observed with
+stress are not easily understood
+from a structural perspective. Loss of any Ψ modification in
+
+In contrast, lower levels of 23S m
+
+Complete
+experimental details and an approach
+for data analysis
+are provided in the
+
+The
+
+The duplex DNA utilized
+for the synthesis of the 16S and 23S sequences found in the
+
+The purified
+RNAs were first 3′-poly-A tailed with a commercial kit (Life
+Sciences) to allow the first step of library preparation to occur,
+which ligates on a poly-T adaptor. The SQK-RNA002 kit provided by
+ONT was used without modification to the protocol. The prepared RNA
+libraries were loaded on either a MinION flow cell (∼10 ng)
+or a Flongle flow cell (∼5 ng) and sequenced using the standard
+settings in the MinKnow software. The ionic current vs time trace
+data were stored in fast5 file formats that used the standard pass
+cutoff (

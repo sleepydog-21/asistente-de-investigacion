@@ -1,0 +1,69 @@
+The genes required for the production of some thermophilins have been characterized, including thermophilin 13, a two-component bacteriocin (
+
+Strains LMD-9 and ST106 required the addition of a synthetic BlpC30 to the growth medium to induce bacteriocin production (
+
+Previous work from our laboratory described the natural production of an anti-pediococcal bacteriocin, thermophilin 110, by
+
+The purpose of this study was to determine which genes within the
+
+Bacteriocin activity was measured using an agar diffusion method (
+
+Sequencing of the
+
+Real time PCR primers pairs.
+
+An integrative vector for knocking out
+
+The nucleic acid sequence (162 base pairs) corresponding to the mature BlpU peptide (excluding the 23 amino acid leader peptide) was amplified from
+
+The plasmid was transformed into
+
+The mature BlpU peptide (53 aa: GCSWGGFAKQGVATGVGNGLRLGIKTRTWQGA-VAGAAGGAIVGGVGYGATCWW) was synthesized and purified by high-performance liquid chromatography (Lifetein LLC, South Plainfield, NJ) to a purity of 85.9%. The peptide was dissolved in dimethyl sulfoxide (DMSO) at a stock concentration of 4.6 mg/mL. Further dilution to a working stock of 100 μg/mL was carried out in ddH
+
+Chromosome walking was used to sequence the
+
+Map of the
+
+In strain B59671, the region between the
+
+The nucleic acid sequences upstream of the
+
+Previously it was reported that thermophilin 110 was naturally produced by
+
+Real-time PCR analysis of
+
+Thermophilin 110 was previously reported to induce cell lysis of
+
+Lysis of
+
+Additionally, the activity spectrum of thermopilin 110 was confirmed using a selection of previously reported susceptible bacteria (
+
+Antimicrobial activity of bacteriocins produced by
+
+To determine which genes encoded active bacteriocins within the B59671
+
+Antimicrobial activity of
+
+Since the creation of a
+
+Expression of recombinant mature BlpU peptide in
+
+To further establish that BlpU is an active bacteriocin in the absence of other components encoded within the
+
+Antimicrobial activity of the chemically synthesized mature BlpU peptide against selected bacterial targets:
+
+Natural production of
+
+The
+
+In strain LMG18311, a truncation in BlpB explains why the
+
+Homologs of
+
+Characterization of the antimicrobial activity associated with
+
+Results from this study have shown for the first time that
+
+The genome sequence for S. thermophilus B59671, which includes the blp gene cluster shown, is deposited in GenBank with the accession number CP022547.
+
+JR: Conceptualization, Data curation, Formal analysis, Investigation, Methodology, Project administration, Supervision, Writing – original draft, Writing – review & editing. GS: Conceptualization, Formal analysis, Methodology, Project administration, Supervision, Writing – original draft, Writing – review & editing. PQ: Methodology, Formal analysis, Writing –review & editing. DS: Data curation, Formal analysis, Writing – original draft, Writing – review & editing. MM: Formal analysis, Methodology, Writing – review & editing. AM: Formal analysis, Methodology, Writing – review & editing. GG: Writing – review & editing. AO: Data curation, Formal analysis, Methodology, Writing – review & editing.

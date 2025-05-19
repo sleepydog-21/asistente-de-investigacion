@@ -1,0 +1,69 @@
+The threat posed by hv
+
+However, there have been no systematic studies exploring the molecular genetic signatures of Hv-MDR plasmid acquisition or elucidating the types, characteristics, and multiple antimicrobial resistance gene carriages of plasmids that co-harbor virulence genes, resistance genes, and conjugative transfer genes. In this study, we aimed to reveal the global emergence and dissemination of junction virulence plasmids carrying hypervirulence and multiple drug resistance genes by collecting complete plasmid sequences containing virulence determinants from the NCBI database and performing comparative analyses. Our results provide crucial insights for a more effective response to the risks associated with the evolution of Hv-MDR-bearing plasmids and for more precise prevention and control of the spread of these plasmids and bacterial resistance, which have significant public health implications.
+
+Six- to eight-week-old animals of both sexes were used in this study. WT C57BL/6 mice were bred in-house or purchased from Cyagen. All mice were housed and bred under specific pathogen-free conditions. All experiments were performed using sex- and age-matched controls.
+
+The antimicrobial susceptibility of strain 16HN200 and the related transconjugant strains was determined by the microdilution method according to the guidelines recommended by the Clinical and Laboratory Standards Institute (CLSI) (
+
+Phenotypic characteristics of carbapenem-resistant
+
+IMP, imipenem; ETP, ertapenem; MRP, meropenem; CTX, cefotaxime; CAZ, ceftazidime; AMK, amikacin; CIP, ciprofloxacin; TIG, tigecycline; PB, polymyxin B; TE, tellurite.
+
+Genomic DNA was extracted using the PureLink Genomic DNA Mini Kit (Invitrogen, United States) according to the manufacturer’s instructions and subjected to whole genome sequencing using Illumina HiSeq (San Diego, CA, USA) and ONT MinION platform (Oxford, UK). Both short and long reads were
+
+For testing whether the virulence plasmid could undergo conjugation, rifampin-resistant
+
+The mucoviscosity of the
+
+Uronic acid was extracted and quantified as described previously (
+
+A serum bactericidal assay was performed to test the ability of bacterial strains to resist serum killing. Bacterial strains were cultured in LB broth at 37°C and harvested in the early logarithmic phase (OD
+
+RAW 264.7 cells were grown in Dulbecco's modified Eagle medium (DMEM) supplemented with 10% heat-inactivated fetal bovine serum (FBS) and 1% nonessential amino acids (Gibco). The adherence assays and invasion assays of
+
+To perform invasion assays,
+
+We used the plasmid (MW911669.1) in the PLSDB set as the references for BLASTN and used a length of 2,000 bp, coverage of 80%, identity of 80%, and overall plasmid coverage of 60% as the thresholds to define a plasmid hit for genomes collected from the NCBI Pathogen database (
+
+Statistical analysis of data obtained in this work was performed by means of using GraphPad Prism 6.0 (GraphPad Software, La Jolla, CA, USA,
+
+In this study, we identified a 292,353 bp, non-pLVPK-like IncFIB/IncHI1B plasmid (p16HN200-Vir) from a clinical carbapenem-resistant
+
+Transferability and virulence of p16HN200-Vir. (a) Alignment of p16HN200-Vir with plasmids of similar structures using EasyFig. (b) Transconjugant EC600-TC is a transconjugant obtained by conjugation using strain 16HN200 as the donor and
+
+We performed a conjugation experiment to confirm if the
+
+To determine if the acquisition of p16HN200-Vir could confer phenotypic hypervirulence in
+
+As the emergence of the large non-pLVPK-like virulence plasmid containing both MDR genes and conjugative transfer genes has been reported recently, we were curious about whether these plasmids shared features for the prevalence of this kind of plasmid. We conducted a comprehensive analysis of complete conjugative plasmids in the NCBI GenBank database and isolates from our own collection to confirm the prediction. A total of 94 complete p16HN200-Vir-like plasmid sequences were collected from 16 countries between 2005 and 2023 (
+
+Temporal, geographic distribution, and isolation source of pVir-MDRs. (a) Heatmap of the pVir-MDRs detected in different countries in corresponding years. (b) Temporal distribution of pVir-MDRs. “NA” indicated that the relative information was not provided. (c) Isolation source of the pVir-MDRs.
+
+In total, these plasmids were harbored by 19 ST types of
+
+To better understand the structure of pVir-MDRs, pan-genome analysis was performed. We considered the presence at >99% as core genes and presence between 95% and 99% as soft core genes. Among these 329 genes, 39 genes were identified as core genes, and 114 genes were identified as soft core genes (
+
+Phylogenetic analysis. (a) Graph of the percentage of gene presence within 94 pVir-MDRs. The presence of these genes more than 99% was considered as core genes, and presence between 95% and 99% was considered as soft core genes. The core genes and soft core genes were marked in light red and light blue, respectively. CDS: coding sequence. (b) The gene structure of six core gene clusters in pVir-MDRs as indicated in (a). The core genes and soft core genes were marked in light red and light blue, respectively. (c) Maximum-likelihood core genome phylogeny of 94 pVir-MDR plasmids. The isolation sources, collection years, and antimicrobial resistance genes are shown. Different classes of resistance genes were divided into different colored squares.
+
+To elucidate the genetic relationship of pVir-MDRs, phylogenetic analyses were constructed using the core genes of 94 plasmids. The 94 plasmids could be classified in six lineages according to the topology of the phylogenetic tree (
+
+Next, we analyzed the antimicrobial resistance gene (ARG) carried by the pVir-MDRs, revealing that eight types of ARGs were harbored by these plasmids (
+
+Detailed information of the β-lactamase types on pVir-MDRs
+
+Previous studies demonstrated that the presence of
+
+Virulence plasmid biomarker distribution. An UpSet graph for the 94 pVir-MDRs was generated to facilitate the visualization of the presence or absence of the biomarkers
+
+To further confirm this categorization, we compare the provided virulence potential of these pVir-MDRs. Strain SZS128 (
+
+The UMAP projection offers a comprehensive visualization of genetic distances between strains containing pVir-MDR plasmids according to the alignment results (
+
+A UMAP projection of distances (measured by gene presence/absence) between the pVir-MDR plasmid. These are colored to show the variability explained by clustering (a), continent (b), ST type (c), and KL type (d).
+
+We observed that all the pVir-MDRs contain
+
+Hv
+
+In a previous study, the first conjugative virulence plasmid, p15WZ-82 Vir, was identified in

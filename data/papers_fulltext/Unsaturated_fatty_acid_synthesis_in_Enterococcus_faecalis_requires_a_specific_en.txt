@@ -1,0 +1,101 @@
+Bacterial fatty acid biosynthesis is carried out by a series of enzymatic steps, each catalyzed by a discrete enzyme encoded by a given gene, which together is called type II fatty acid synthase (Yao & Rock,
+
+The unsaturated fatty acid synthesis also differs among the three bacteria. In
+
+We report that overexpression of either FabI or FabK results in increased SFA synthesis at the cost of UFA synthesis with FabK having a much stronger SFA overproduction phenotype than FabI. Indeed, overproduction of FabK is lethal in the absence of UFA supplementation and almost completely blocks UFA synthesis whereas overexpression of FabI has the much milder effect of slow growth. The effects of enoyl ACP reductase overproduction seemed likely to be due to competition with the enzymes of
+
+Enoyl ACP reductase catalyzes the last step of the elongation cycle of the type II fatty acid synthesis pathway (Massengo‐Tiassé & Cronan,
+
+The enoyl‐ACP reductase reaction and the effects of overproduction of FabI or FabK on growth and its reversal by oleate supplementation. The top plate is FabI overproduction (note the faint growth) whereas the bottom plate is FabK overproduction. The enoyl‐ACP reductase reaction shown is that of FabI. The FabK reaction uses a bound flavin (FMN) for the reduction which is recycled using NADH.
+
+We first expressed
+
+Effects of FabI or FabK overproduction on [
+
+To obtain a more nuanced comparison between FabK and FabI we used a regulated promoter expressing the proteins in both low and high copy number plasmids. Linares and workers (Linares et al.,
+
+The low copy pTRK L2 plasmid carrying either
+
+Growth of
+
+Effects of agmatine regulated expression of FabI (left panel) or FabK (right panel) in the
+
+The branch points of fatty acid synthesis in
+
+A plausible hypothesis to explain these data is that FabI and FabK toxicity is due to inhibition of UFA synthesis by competition for substrates required for UFA synthesis The hypothesis is based on the properties of the
+
+A caveat to this scenario is that the FabO mechanism has not been directly determined nor has it been coupled to FabN. The FabN and FabO functions in UFA synthesis are based on complementation in
+
+Hexahistidine‐tagged versions of both proteins were expressed in
+
+The FabO structure seems similar to that of
+
+Growth and [
+
+We determined the enzymatic activities of FabN by running reactions in parallel with the paradigm dehydratase/isomerase,
+
+In vitro comparisons of FabN with FabA and of FabO with FabB. Lanes 1 and 2 are standards, lanes 3 and 4 compare the dehydration/isomerization activities of FabA (lane 3) and FabN (lane 4). In lanes 5 to 8, a reconstituted one‐cycle UFA synthesis system composed mainly of purified
+
+In our work, the activity of FabO was assayed by running reactions in parallel with the paradigm 3‐ketoacyl‐ACP synthase I,
+
+Nonpolar deletions of both genes were constructed. The
+
+These data argued that the other long‐chain 3‐ketoacyl‐ACP synthase, FabF, encoded in the large fatty acid synthesis operon, also had the ability to elongate
+
+Purified FabF was directly shown to elongate
+
+Deletion of
+
+Fatty acid compositions of wild type,
+
+
+
+The above data argue that there is a formal competition between the isomerization reaction of FabN and the two enoyl‐ACP reductases. If isomerization wins, an unsaturated acyl chain is made. If an enoyl‐ACP reductase wins, a saturated acyl chain is produced (Figure
+
+In order to test the competition hypothesis, we constructed a plasmid expressing both FabK and FabO (each gene had its own P32 promoter). This plasmid was expressed in parallel with an analogous plasmid carrying only FabK in both wild‐type and
+
+Effect of coexpression of FabO on FabK inhibition of growth. The left panel is the wild‐type strain. The upper plate contained 100 μM oleate. The right panel is the
+
+Labeling with [
+
+The toxicity of the
+
+Hence, there is competition between the isomerization reaction of FabN and the two enoyl‐ACP reductases. If isomerization wins, an unsaturated acyl chain is produced. If an enoyl‐ACP reductase wins, a saturated acyl chain results (Figure
+
+A possible scenario for the two
+
+Why do FabK and FabI differ in their abilities to inhibit fatty acid synthesis? As shown for FabA (see above) (Guerra & Browse,
+
+Finally, the question arises why
+
+Malonyl‐CoA, NADPH, fatty acids, antibiotics, M17 medium, and agmatine sulfate salt were purchased from Sigma‐Aldrich. DNA polymerases, Gibson assembly kit, restriction endonucleases and T4 ligase were from NEB. Sodium [1‐
+
+The bacterial strains and plasmids used in this study are listed in Table
+
+The
+
+The
+
+To test bacterial de novo fatty acid biosynthesis,
+
+Monounsaturated methyl esters separate from saturated esters because the double bonds interact with the silver nitrate in the plate (
+
+
+
+The
+
+Fatty acid synthesis was reconstituted in vitro to assay FabN, FabO, and FabF activity using the purified enzymes that catalyze the fatty acid biosynthesis essentially. 3‐hydroxydecanoyl‐ACP was synthesized in a preincubation reaction using
+
+
+
+The authors declare that they have no conflicts of interest.
+
+This research did not use human subjects or animals. The recombinant DNA work was done according to the NIH Guidelines for Research Involving Recombinant or Synthetic Nucleic Acid Molecules.
+
+Supinfo
+
+Click here for additional data file.
+
+FigureS2‐S5
+
+Click here for additional data file.

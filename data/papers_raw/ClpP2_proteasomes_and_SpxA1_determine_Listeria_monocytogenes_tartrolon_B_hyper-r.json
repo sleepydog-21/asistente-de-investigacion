@@ -1,0 +1,11 @@
+{
+  "id": "40184427",
+  "title": "ClpP2 proteasomes and SpxA1 determine Listeria monocytogenes tartrolon B hyper-resistance.",
+  "doi": null,
+  "authors": "Engelgeh T, Wamp S, Rothe P, Herrmann J, Fischer MA, Müller R, Halbedel S",
+  "journal": "PLoS genetics",
+  "year": "2025",
+  "abstract": "The foodborne bacterium Listeria monocytogenes is transmitted to humans from various environmental sources through consumption of contaminated plant and animal-based food. L. monocytogenes uses ATP-binding cassette (ABC)-type drug transporters to resist antimicrobial compounds produced by competitors co-residing in its environmental reservoirs. We have shown previously that the TimAB transporter confers resistance of L. monocytogenes to tartrolon B, a boron containing macrodiolide produced by myxo- and proteobacterial species. Tartrolon B acts as a potassium ionophore and is sensed by TimR, the transcriptional repressor of timABR operon. We here have isolated tartrolon B resistant suppressor mutations outside the timABR locus. These mutations inactivated the clpP2 gene, which encodes the main proteolytic component of house-keeping Clp proteases. Deletion of clpP2 impaired growth and virulence but caused tartrolon B hyper-resistance. This phenotype was timAB-dependent, but neither production nor degradation of TimAB was affected upon clpP2 inactivation. Combinatorial deletions of the genes encoding the three Clp ATPases showed that ClpCP2 and ClpXP2 proteasomes jointly promote tartrolon B hyper-resistance. Genetic follow-up experiments identified the ClpP2 substrate and transcription factor SpxA1 and its protease adaptor YjbH as further tartrolon B resistance determinants. SpxA1 activates transcription of the cydABCD operon encoding cytochrome oxidase and in accordance with this transposon mutants with impaired cytochrome oxidase function were depleted from a transposon mutant library during tartrolon B exposure. Our work demonstrates novel roles of Clp proteasomes, SpxA1 and cytochrome oxidase CydAB in the resistance against compounds dissipating transmembrane ion gradients and helps to better understand the genetic and chemical basis of the manifold ecological interactions of an important human pathogen in its natural ecologic niches.",
+  "source": "PubMed",
+  "pmcid": "PMC11970672"
+}

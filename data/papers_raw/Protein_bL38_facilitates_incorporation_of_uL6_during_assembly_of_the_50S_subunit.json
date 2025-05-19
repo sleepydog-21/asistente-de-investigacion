@@ -1,0 +1,11 @@
+{
+  "id": "39997215",
+  "title": "Protein bL38 facilitates incorporation of uL6 during assembly of the 50S subunit in Flavobacterium johnsoniae.",
+  "doi": null,
+  "authors": "Alom MS, Arpin D, Zhu H, Hay BN, Foster LJ, Ortega J, Fredrick K",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "Previous studies of the 70S ribosome from Flavobacterium johnsoniae revealed a novel ribosomal protein, bL38, which interacts with uL6 on the 50S subunit. This 5.6 kDa protein is conserved across the Bacteroidia and encoded downstream of bL28 and bL33 in a three-gene operon. Here, we show that bL38 is critical for the growth of F. johnsoniae, and depletion of bL38 leads to accumulation of immature 50S particles, which lack uL6 and retain precursor rRNA sequences. Cryo-EM analysis of these particles reveals several putative assembly intermediates, all showing an absence of electron density for uL6 and the entire uL12 stalk region and additional densities corresponding to the unprocessed ends of the pre-23S rRNA. Extra copies of the uL6 gene can rescue the phenotypes caused by bL38 depletion, suggesting that bL38 facilitates uL6 incorporation during 50S subunit biogenesis. Cryo-EM analysis of 50S particles from this rescued strain reveals nearly twice as many intermediates, suggesting a broader and more robust assembly landscape. Differential scanning fluorimetry shows that uL6 of F. johnsoniae is intrinsically unstable, and bL38 increases the melting temperature of uL6 by 12°C. Collectively, these data suggest that bL38 binds and stabilizes uL6, thereby promoting 50S biogenesis in the Bacteroidia.",
+  "source": "PubMed",
+  "pmcid": "PMC11851116"
+}

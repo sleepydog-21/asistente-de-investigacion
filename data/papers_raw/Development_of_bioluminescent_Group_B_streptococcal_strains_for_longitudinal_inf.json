@@ -1,0 +1,11 @@
+{
+  "id": "39424869",
+  "title": "Development of bioluminescent Group B streptococcal strains for longitudinal infection studies.",
+  "doi": null,
+  "authors": "Lorga I, Geraldo R, Soares J, Oliveira L, Firon A, Bonifácio Andrade E",
+  "journal": "Scientific reports",
+  "year": "2024",
+  "abstract": "Group B Streptococcus (GBS) remains the leading bacterial cause of invasive neonatal disease, resulting in substantial morbidity and mortality. New therapeutic approaches beyond antibacterial treatment to prevent neonatal disease outcomes are urgent. One significant limitation in studying GBS disease and progression is the lack of non-invasive technologies for longitudinal studies. Here, we develop and compare three bioluminescent GBS strains for in vivo pathogenic analysis. Bioluminescence is based on the luxABCDE operon on a replicative vector (luxGBS-CC17), and the red-shifted firefly luciferase on a replicative vector (fflucGBS-CC17) or integrated in the genome (glucGBS-CC17). We show that luxGBS-CC17 is suitable for in vitro analysis but does not produce a significant bioluminescent signal in infected pups. In contrast, the fflucGBS-CC17 results in a strong bioluminescent signal proportional to the organ colonisation level. However, the stability of the replicative vector depends on the route of infection, especially when pups acquire the bacteria from infected vaginal mucosa. Stable chromosomal integration of luciferase in glucGBS-CC17 leads to significant bioluminescence in both haematological and vertical infection models associated with high systemic colonisation. These strains will allow the preclinical evaluation of treatment efficacy against GBS invasive disease using whole-mouse bioluminescence imaging.",
+  "source": "PubMed",
+  "pmcid": "PMC11489706"
+}

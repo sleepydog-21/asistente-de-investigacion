@@ -1,0 +1,68 @@
+Spatiotemporal control of engineered
+microbes enables patterning and localization of microbial activity
+in applications ranging from in vivo therapeutics to engineered living
+materials. Temperature can be applied globally or with spatial specificity
+as a deeply penetrant, noninvasive input signal.
+
+One of the most promising classes of thermal bioswitch
+repressors
+are mutants of CI857
+
+In this technical note, we examine the ability of tunable
+TcI proteins
+to serve as cold-on transcriptional activators of specific genes of
+interest. We demonstrate temperature-responsive activation by two
+TcI variants with transition set points at 35.5 and 38.5 °C in
+
+Different applications of
+thermal control may require different
+temperature thresholds for gene activation. Thus, we characterized
+the ability to activate transcription of two previously developed
+mutants, TcI38 and TcI39, with bioswitch activation midpoints of 38
+and 39 °C, respectively.
+
+In our cold-on circuit, transcription
+from the PRM promoter is
+activated by either TcI38 or TcI39, which is in turn expressed both
+from PRM readthrough and a weak constitutive LacI promoter (
+
+TcI mutants
+act as tunable, temperature-sensitive transactivators.
+(a,b,c) Circuit diagrams of gene activation constructs. TcI
+
+We quantified the gene expression level controlled by TcI38 or
+TcI39 via GFP fluorescence measured by flow cytometry in comparison
+with the level driven by wildtype CI or without an activator (
+
+After establishing the basic capabilities of tunable
+TcI activators,
+we endeavored to combine them with TcI repression. We assembled a
+construct wherein expression of GFP from the PRM promoter is activated
+by TcI39 and expression of mRFP1 (RFP) from the PR–PL tandem
+promoter is repressed by TcI39 (
+
+TcI39 simultaneously activates and represses,
+serving as a temperature-controlled
+state switch. (a,b) Circuit diagram of TcI39 switch construct with
+state of regulation arcs indicated at low (a) and high (b) temperature.
+TcI39 activates expression of mWasabi (GFP) from the PRM promoter
+and represses expression of mRFP1 (RFP) from the PR–PL tandem
+promoter. (c) Thermal profile of GFP and RFP co-expression. Central
+plot: bivariate kernel density estimation for RFP channel and GFP
+channel. Marginal plots: summed frequency histograms for RFP channel
+(right) and GFP channel (top). NF indicates nonfluorescent control
+measured in each channel (not shown in central plot for visual clarity;
+overlaps with 32.0, 33.3, 35.1 °C histograms in RFP channel).
+(d) Thermal profile of mean population fluorescence of GFP and RFP
+expressed in
+
+Our results establish the use
+of temperature-sensitive CI mutants
+as heat-inactivated transcriptional activators with tunable set points.
+In addition, due to the dual nature of these transcription factors,
+they can be used to control the expression of two genes in one circuit
+complementarily, with one expressed below the thermal set point, and
+the other above. The two TcI variants tested in this study operate
+at distinct set points within a range convenient for bacterial synthetic
+biology applications. The range of available set points could be further
+widened through directed evolution of TcI.

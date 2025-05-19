@@ -1,0 +1,162 @@
+The CRISPR-Cas system,
+which was first discovered as an adaptive
+immune system in prokaryotes,
+
+CRISPRi can simultaneously regulate the
+expression of several specific
+genes by introducing multiple sgRNAs and reversibly controlling the
+degree of gene expression and repression.
+
+First, the pooled CRISPR screen identifies target genes by sequencing
+sgRNAs extracted from cells showing specific phenotypic changes by
+introducing a mixture of sgRNA libraries into the cells.
+
+Second, the arrayed
+CRISPR screening method introduces an sgRNA
+that targets one gene per well in a multiwell plate and observes the
+phenotype occurring in each cell.
+
+In most CRISPRi screening studies, large
+numbers of oligonucleotides
+are individually synthesized using microarrays when preparing sgRNA
+libraries. However, building sgRNA libraries using array-synthesized
+oligonucleotides is expensive, and the use of constructed libraries
+is limited to cells. In this study, we found that the short target
+recognition sequence (TRS) lengths of sgRNAs can effectively repress
+gene expression. We confirmed that genes related to a specific phenotype
+could be identified using the shortened random sgRNA library method
+with
+
+We investigated
+the length of the TRS in sgRNAs required for CRISPRi in the
+
+Minimum target
+recognition sequence (TRS) length of sgRNA. (A)
+CRISPRi system with
+
+Based on the above results showing that
+markedly shortened sgRNAs
+can control gene expression and change cellular phenotypes in CRISPRi,
+we explored whether target genes could be screened using random shortened
+TRS libraries. Primers with shortened and random TRS were designed,
+and sgRNA plasmid libraries with various lengths of TRS (N
+
+Use of sgRNA libraries with random and shortened
+TRS for CRISPRi
+screening of target genes responsible for Xyl
+
+We then obtained random sgRNA libraries in
+
+Twenty-two different sgRNA plasmids
+were obtained from 1, 2, 8,
+and 11 white colony-forming transformant cells. Since the target recognition
+of dCas9-NG was determined by the TRS and PAM sequences, the TRS and
+5′-NG PAM were searched in the xylose operon in the
+
+We visualized the location
+of the TRS in the xylose operon. TRS
+can be located in regulatory or structural gene regions (
+
+To expand the 5′-shortened and random TRS library method
+to screen for new target genes in the genome, we used a violacein
+biosynthetic phenotype as a model. We prepared an
+
+Screening of novel target genes for violacein production. (A) Genomic
+integration of violacein biosynthetic genes (
+
+The following criteria were used for the selection of target
+genes
+responsible for enhanced violacein production: (1) target genes that
+were repeatedly found in the same library and (2) target genes that
+were repeatedly found in different libraries. For the N
+
+We tested whether violacein
+production increased with the repression
+of the target gene expression. Seventeen cells with a single deletion
+of each target gene were grown in culture medium to compare the level
+of violacein production with that of wild-type SH148. All single-gene-deleted
+strains formed dark purple colonies compared to the wild-type SH148
+strain on LB agar supplemented with
+
+Enhanced violacein production
+in target-gene knockout strains.
+(A) Purple violacein accumulation in target-gene single-knockout strains
+on LB agar containing
+
+The regulation of gene expression or deletion
+of a gene from the
+genome can help to understand the function of a specific gene in a
+cell. Among the various tools for functional genomics, widely used
+transposon mutagenesis
+
+Generally, the size of a library is as important as
+its quality
+in screening methods. In the case of CRISPR-Cas9, the lengths of the
+TRS of sgRNAs were 20 nt, and the sizes of random TRS with all possible
+nucleotide sequences were 4
+
+Recent pooled or
+arrayed CRISPRi screening methods have had small
+library sizes (10
+
+In order to evaluate the library quality, we selected 10 different
+colonies and confirmed different TRSs by Sanger sequencing (
+
+To determine whether the sgRNA library
+method can identify genes
+related to the phenotype, we screened genes related to the production
+of violacein in the recombinant strain. Since violacein has various
+physiologically active functions, such as anticancer, antifungal,
+and antibacterial activities, much attention has been paid to its
+production.
+
+Target genes were selected by analyzing the redundancy of the targets
+found in different TRS and subsequently excluding two essential genes
+(
+
+Metabolic pathways
+of target genes for violacein production selected
+by CRISPRi screening. Gray oval: targets reported in the production
+of
+
+In summary, we identified
+genes associated with phenotypic changes
+in ∼10
+
+The bacterial
+strains used in this study are listed in
+
+All the constructs used in this
+study are listed in
+
+Random sgRNA libraries (N
+
+Violacein is
+a water-insoluble
+purple pigment found in various Gram-negative bacteria.
+
+The P1
+
+Six random sgRNA libraries (N
+
+The six random sgRNA libraries (N
+
+The expression levels of
+
+For violacein extraction, cells
+were harvested by centrifugation (12,000 rpm, 4 °C, 10 min),
+and the supernatant was discarded. Methanol (100%; the same volume
+as the culture broth) was added to the collected cell pellet, mixed
+vigorously by vortex, and incubated at 25 °C for 20 min. After
+extracting the methanol, the cell pellets were harvested and discarded
+after centrifugation (12,000 rpm, 4 °C, 10 min). The concentration
+of violacein in the supernatant was measured by high-performance liquid
+chromatography (HPLC) on an Agilent 1100 Series HPLC system using
+a C18 column (100 Å, 5 μm, 4.6 × 250 mm; Waters Corp.,
+WAT05427). Ten microliters of the reaction sample was injected for
+the HPLC analysis. The ternary mobile phase was composed of methanol,
+acetonitrile, and distilled water (1:1:2, v/v). The pH was adjusted
+to 3.6 with acetic acid. Isocratic elution was performed at 30 °C
+with a flow rate of 0.5 mL/min, and violacein was detected using ultraviolet
+light at 575 nm. Violacein standards were purchased from Sigma-Aldrich
+(V9389).

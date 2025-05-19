@@ -1,0 +1,11 @@
+{
+  "id": "39494532",
+  "title": "iModulonDB 2.0: dynamic tools to facilitate knowledge-mining and user-enabled analyses of curated transcriptomic datasets.",
+  "doi": null,
+  "authors": "Catoiu EA, Krishnan J, Li G, Lou XA, Rychel K, Yuan Y, Bajpe H, Patel A, Choe D, Shin J, Burrows J, Phaneuf PV, Zielinski DC, Palsson BO",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "iModulons-sets of co-expressed genes identified through independent component analysis (ICA) of high-quality transcriptomic datasets-provide an unbiased, modular view of an organism's transcriptional regulatory network. Established in 2020, iModulonDB (iModulonDB.org) serves as a centralized repository of curated iModulon sets, enabling users to explore iModulons and download the associated transcriptomic data. This update reflects a significant expansion of the database-19 new ICA decompositions (+633%) spanning 8 925 expression profiles (+1370%), 503 studies (+2290%) and 12 additional organisms (+400%)-and introduces new features to help scientists decipher the mechanisms governing prokaryotic transcriptional regulation. To facilitate comprehension of the underlying expression profiles, the updated user-interface displays essential information about each data-generating study (e.g. the experimental conditions and publication abstract). Dashboards now include condition-specific coloring and highlight data generated from genetically perturbed strains, enabling users to rapidly interpret disruptions in transcriptional regulation. New interactive graphs rapidly convey omics-derived indicators (e.g. the explained variance of ICA decompositions, genetic overlap between iModulons and regulons). Direct links to operon diagrams (BioCyc) and protein-protein interaction networks (STRING) provide users with seamless access to external resources for further assessment of iModulons. Lastly, a new suite of search-driven and species-wide analysis tools promotes user-engagement with iModulons, reinforcing iModulonDB's role as a dynamic, interactive knowledgebase of prokaryotic transcriptional regulation.",
+  "source": "PubMed",
+  "pmcid": "PMC11701608"
+}

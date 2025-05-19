@@ -1,0 +1,11 @@
+{
+  "id": "31851607",
+  "title": "Cost effective, experimentally robust differential-expression analysis for human/mammalian, pathogen and dual-species transcriptomics.",
+  "doi": null,
+  "authors": "Shetty AC, Mattick J, Chung M, McCracken C, Mahurkar A, Filler SG, Fraser CM, Rasko DA, Bruno VM, Dunning Hotopp JC",
+  "journal": "Microbial genomics",
+  "year": "2020",
+  "abstract": "As sequencing read length has increased, researchers have quickly adopted longer reads for their experiments. Here, we examine 14 pathogen or host-pathogen differential gene expression data sets to assess whether using longer reads is warranted. A variety of data sets was used to assess what genomic attributes might affect the outcome of differential gene expression analysis including: gene density, operons, gene length, number of introns/exons and intron length. No genome attribute was found to influence the data in principal components analysis, hierarchical clustering with bootstrap support, or regression analyses of pairwise comparisons that were undertaken on the same reads, looking at all combinations of paired and unpaired reads trimmed to 36, 54, 72 and 101 bp. Read pairing had the greatest effect when there was little variation in the samples from different conditions or in their replicates (e.g. little differential gene expression). But overall, 54 and 72 bp reads were typically most similar. Given differences in costs and mapping percentages, we recommend 54 bp reads for organisms with no or few introns and 72 bp reads for all others. In a third of the data sets, read pairing had absolutely no effect, despite paired reads having twice as much data. Therefore, single-end reads seem robust for differential-expression analyses, but in eukaryotes paired-end reads are likely desired to analyse splice variants and should be preferred for data sets that are acquired with the intent to be community resources that might be used in secondary data analyses.",
+  "source": "PubMed",
+  "pmcid": "PMC7067034"
+}

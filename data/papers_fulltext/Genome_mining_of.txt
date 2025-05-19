@@ -1,0 +1,125 @@
+Tuberculosis (TB) is the second leading infectious killer next to COVID-19 worldwide and claimed 1.3 million deaths in 2022 according to Global tuberculosis report, 2023 by World Health Organization (
+
+In the current investigation, an essential pathway identified through a subtractive genomics approach was the SUF system, specifically the Fe–S cluster assembly pathway. Fe–S clusters are the most primitive, ubiquitous, versatile protein cofactors of a multitude of enzymes involved in crucial cellular processes (
+
+In bacteria, the three highly conserved systems identified to date for Fe–S cluster assembly are the iron sulfur cluster (ISC), sulfur formation (SUF), and nitrogen fixation (NIF) system (
+
+All the genes of the
+
+Previous research has demonstrated SufD’s pivotal role in iron acquisition in
+
+To assess the potential of SufD as a drug target, investigations involved both sequence and structure based studies. Structure based drug design was proven to be more efficient in drug discovery. The use of computational methods allow delivery of new drug candidates quickly and cost-efficiently thus expediting this step in drug discovery pipeline. Prediction of 3D structure for SufD enabled the detection of binding pockets and facilitated screening for inhibitors. Simultaneously, the gene was cloned, and rSufD was successfully expressed and purified in
+
+We employed the Database of Essential Genes (DEG) to identify the genes that are essential and annotated as Hypothetical Proteins (HPs) within
+
+The distinctive hypothetical proteins exclusive to
+
+Schematic of subtractive genomic analysis for screening of potential novel druggable targets from
+
+We used the online BLAST tool to assess the conservation of proteins homologous to SufD. BLASTp was executed with UniProtKB as the target database, using default settings. The homologous sequences were then subjected to multiple sequence alignment (MSA) using the Multalin tool to compare the conservation of the SufD protein across various species (
+
+The subcellular location of SufD protein was determined using two tools: PSORTb v3.0 and CELLO2GO (
+
+The SufD protein sequence was used as an input for modelling through the I-TASSER server. The modelling process begins with identifying structural templates from the Protein Data Bank (PDB) using the LOMETS threading approach (
+
+To evaluate the SufD model’s structure, secondary structure analysis was done using PSIPRED, while PROCHECK was used for tertiary structure stereochemistry analysis (
+
+The generated model of the SufD structure was uploaded to the ProFunc server for a comprehensive evaluation of the structure and the predicted function of the protein (
+
+The Computed Atlas of Surface Topography of Proteins (CASTp) server was used to identify the binding pockets of the protein. The protein structure file was uploaded in pdb format (
+
+A search was conducted in the Chemical Database at European Molecular Biology Laboratory (ChEMBL) database for bioactive molecules that are likely to bind with Rv1462 (SufD). A total of 147 molecules were found by searching the term “Rv1462.” Among 147 molecules, the compounds with highest binding affinity to SufD were considered for further studies while rest of them may bind with other proteins and enzymes. The LigPrep module of the Schrödinger suite, 2013 was used to optimize all the ligands through the OPLS 2005 force field algorithm (
+
+Molecular docking program- Molegro Virtual Docker (MVD 2012.5.5) integrated with MolDock scoring function was used to dock the compounds in the predicted active site of Rv1462 (
+
+To study the interactions between SufD and a potential ligand, we conducted an analysis using BIOVIA Discovery Studio 2020 Client. We imported the chosen ligand and the protein pose obtained during the docking process into Discovery Studio. This helped us visualize the molecular interactions, including hydrogen bonding, hydrophobic interactions, and other relevant interactions (
+
+We used the admetSAR tool to analyze the chemical descriptors and druggability of the top-docked compounds (
+
+A gene encoding
+
+Our results revealed the recombinant protein expression in inclusion bodies and was confirmed by western blot. We addressed this challenge by subcloning the
+
+For overexpression of SufD, 10 ml starter culture was prepared, inoculated into 1 L LB-broth (50 mg/ml kanamycin), incubated till log-phase (OD
+
+Affinity-purified fractions were pooled and injected into the FPLC system after equilibration of size exclusion column with 2 column volume (CV) wash of exchange buffer (20 mM Tris–HCl pH-8, 100 mM NaCl). The fractions were collected at a flow rate of 0.5 mL per minute followed by 2 CVs of wash with the exchange buffer.
+
+Quality SEC peak fractions that appeared on SDS-PAGE were pooled and mixed with SUMO-specific protease (His-tagged Ulp1) at ratios of 25:1, 50:1, and 100:1 (substrate: protease) into 100 μl proteolytic reaction mixture. Samples were incubated at 4°C for 12 h for digestion of the N-terminal 6xHis-SUMO region, followed by SDS-PAGE analysis to determine the extent of cleavage. Properly digested samples were subjected to a second affinity purification using Ni-NTA Sepharose. 6xHis-SUMO and His-Ulp1 were captured by binding, while untagged SufD washed out into the exchange buffer. The cleaved tag and Ulp1 bound to the resin were eluted into buffer C (20 mM Tris–HCl pH-8, 100 mM NaCl, 300 mM imidazole). The approximate molecular mass and purity of the untagged SufD was determined by SDS-PAGE.
+
+XtalPred, a web server specialized in forecasting protein crystallizability, was employed to predict the crystallization likelihood of the SufD protein. This prediction process involves comparing various protein features, amalgamating the outcomes to derive an overall probability of crystallization. XtalPred offers: (1) a thorough comparison of the protein’s characteristics against TargetDB distributions; (2) a concise summary of protein features and potential issues that might arise during crystallization attempts; (3) forecasts regarding potential ligands; and (4) optionally, listings of closely related homologs from complete microbial genomes, aiding in identifying proteins more inclined toward successful crystallization. The SufD sequence was submitted in fasta format to predict crystallizability.
+
+A computational subtractive genomics analysis was employed to identify essential, hypothetical, and non-homologous proteins. In the DEG database, 614 genes were identified as essential in the
+
+The investigation of 152 non-homologous proteins using Shiny GO revealed their involvement in 34 pathways. Since these pathways contain vital genes, they are being suggested as indispensable pathways for
+
+Enrichment pathway analysis for essential hypothetical proteins unique to
+
+Pipeline for Target Identification. The funnel depicts the sequential analysis of the complete
+
+A conservancy analysis was conducted on the SufD protein sequence. The BLASTp search for SufD produced local alignments with homologous proteins, including P77689 (
+
+Identification of conserved residues and motifs.
+
+Understanding the sub-cellular localization of a drug target is crucial for optimizing the drug’s mode of action against specific target. Numerous examples in the literature highlight cytoplasmic proteins as effective therapeutic targets due to their accessibility to drugs. The prediction of the sub-cellular localization of SufD was accomplished using computational tools, specifically PSORTb and CELLO. The results indicate that the protein is localized in the cytoplasm.
+
+I-TASSER server utilized the TM-align structural alignment program to identify optimal templates in the PDB library. Tertiary structure of SufD was predicted by I-TASSER and reported five models. The confidence of each model was quantitatively assessed using the C-score. The most suitable model for SufD exhibited a C-score of −3.51, falling within the acceptable range of [−5, 2] and was depicted in
+
+Structure prediction.
+
+The ProFunc tool was used to validate the functional aspects of the protein through structural analysis. The predicted protein structure revealed the presence of a functional domain in the Pfam database, identified by the Pfam domain ID PF01458. This particular domain holds significance in the SUF system, playing a vital role in the assembly of Fe–S clusters.
+
+To facilitate the exploration of ligand binding within the modeled protein structure, the CastP tool was utilized to identify interactive binding cavities. According to CASTp’s characterization of binding sites, the foremost predicted pocket exhibited a surface area of 686.2 Å
+
+The compounds ranking within the top 12, each possessing binding scores surpassing −100 kcal/mol, have been recognized as potential binders and are outlined in
+
+Binding energies of ChEMBL compounds with SufD.
+
+*Control.
+
+Drug likeliness prediction.
+
+*Control.
+
+ADMET Predicted Profile for CHEMBL4109740.
+
+Analyzing the interactions with crucial amino acid residues is essential to validate if the ligand is docked in a favorable conformation. These interactions are pivotal in energetically stabilizing the ligand at the macromolecule structure’s juncture. The proximity of a lead molecule to the binding site of the target frequently suggests increased biological efficacy compared to a molecule situated farther away.
+
+Docking of CHEMBL4109740 compound with SufD.
+
+Amplification of
+
+Restriction digestion of SUMO-
+
+We systematically screened conditions, such as inducer concentration, post-induction incubation temperature, and duration of enhanced protein expression and solubility. In the inducer concentration optimization, we observed the highest expression with a concentration of 0.5 mM IPTG. Subsequent optimization of post-induction temperature and expression duration revealed high protein expression at a temperature of 18°C and incubation time of 16 h. Despite our optimization efforts, pET28a-SufD was consistently found in inclusion bodies in all the experiments and confirmed by western blot as depicted in
+
+Combining all the optimal conditions, we expressed SUMO-SufD by inducing it at 18°C with 0.5 mM IPTG for 16 h. Expression was checked by loading an equal amount of uninduced and induced supernatants of crude extract on 12% SDS-PAGE. Under these conditions a significant proportion of SufD was successfully expressed in the soluble fraction which is indicated by a strong band of target protein.
+
+SufD was purified using Nickel-NTA column affinity chromatography and analysis of all the fractions through SDS-PAGE confirmed the presence of SufD at the expected size of 56.3 kDa as shown in
+
+Purification of SufD.
+
+XtalPred categorizes proteins into five “crystallization classes” through a statistical examination of the physicochemical attributes of a protein. Parameters such as an EP value of 2 and an RF value of 6 for SufD are indicative of favorable conditions for crystallization. Additionally, it was predicted to have an isoelectric point of 5.5, a disorder region of 12 residues, and a stability index of 28.24 suggests protein was stable. Moreover, the absence of transmembrane helices, and signal peptides is a positive indicator for the potential success of crystallization. All these parameters were illustrated in
+
+Prediction of crystallizability with Xtalpred server.
+
+The recrudescence of tuberculosis and the emergence of antibiotic resistance have compelled the identification of potential targets and rapid development of new antituberculosis drugs across the globe. Complete eradication of dormant
+
+In the quest to pinpoint distinctive and promising druggable targets within
+
+The other important objective of this study was the
+
+The SufD protein structures were searched using BLASTp against the PDB database. As the 3D structure was unavailable in the PDB, we used the I-TASSER tool for its homology modelling. Assessment of modeled structure via the Ramachandran plot revealed that most residues were present in the acceptable or favored areas, with a few residues in additional allowed regions and none in the disallowed regions. The structural characteristics of proteins determine a myriad of functions, ranging from conferring binding specificity and mechanical stability to catalyzing biochemical reactions, facilitating transport, and transmitting signals. Therefore, structure-based function prediction significantly enhances functional annotation (
+
+Molecular docking was employed for inhibitor screening, evaluating 147 docked compounds. Among them, 12 displayed superior dock scores compared to the control compound (ChEMBL1539876). In the prior study by Choby et al., control compound was denoted as the ‘882 molecule. The study elucidated that ‘882 disrupts the assembly of Fe–S clusters in apo-proteins, a pivotal process in
+
+SufD was predicted to be a potential drug target through an
+
+Subsequent purification of rSufD by Ni-NTA affinity chromatography and SDS-PAGE analysis of all corresponding fractions revealed the SufD at an expected size of 56.3 kDa. Protein was immediately subjected to size exclusion chromatography to remove salts and aggregates before fusion tag removal. Proteolytic cleavage of the tag is usually necessary as it interferes with the structural or functional properties of the recombinant protein. Ulp1 digested the protein successfully and verified by SDS-PAGE, revealing a 42.6 kDa band corresponding to the target protein and a 13.7 kDa band corresponding to the 6xHis-SUMO tag. The SufD was subjected to a second purification step by affinity column chromatography utilizing Ni-NTA resin. Subsequently, this purification was validated through SDS-PAGE, revealing the presence of a singular, distinct band of purified de-tagged SufD. Our findings suggest that the SUMO fusion system is a promising strategy for other challenging proteins of
+
+The present study comprehensively addressed key and impactful pharmacological targets in
+
+This study addresses the desperate need for novel targets and antituberculosis drugs in response to the rise of antibiotic resistance. Our research navigated through a subtractive genomics method, highlighting 177 essential genes among hypothetical proteins, ultimately narrowing down to SufD as a potential drug target. The study also focused on the characterization of SufD, involving protein annotation from sequence-based analysis to homology modelling and structural validation confirming the presence of functional domain. Subsequent exploration of the protein’s binding pocket and inhibitor screening through molecular docking identified promising compounds with favorable drug-like properties. The best compound showed no adverse effects on absorption, cytotoxicity, hepatotoxicity, or mutagenicity. The study did not solely rely on computational methods. We ventured into the practical realm by successfully cloning, expressing, and purifying SufD in a soluble form using the SUMO fusion system, overcoming challenges associated with heterologous protein expression in
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/
+
+NG: Conceptualization, Investigation, Methodology, Software, Visualization, Data curation, Formal analysis, Validation, Writing – original draft, Writing – review & editing. AB: Methodology, Data curation, Formal analysis, Validation, Writing – review & editing. SS: Conceptualization, Funding acquisition, Project administration, Supervision, Resources, Investigation, Methodology, Data curation, Formal analysis, Validation, Writing – original draft, Writing – review & editing.

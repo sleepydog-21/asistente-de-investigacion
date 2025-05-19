@@ -1,0 +1,123 @@
+Much work over the past decade has focused on how pathogens evolve in the context of colonization and infection in human hosts
+
+In addition to genomic mutations, epigenetic changes may globally modify transcription, in particular changes in DNA methylation patterns
+
+In this work, we explore intra-host transcriptional and epigenetic evolution in
+
+The clinical case on which this work is based involved persistent
+
+To study genome-wide changes in gene expression that occurred during the course of host adaptation, we performed comprehensive transcriptome analysis and find evidence of remarkable transcriptional diversification in lineages with both intact and disrupted DNA proofreading, as well as apparent niche specific adaptations to the intravascular and gastrointestinal compartments. We also find evidence of a potential evolutionary tradeoff involving the down regulation of the flagellar operon and striking alteration of global genome methylation in one compound hypermutator lineage. This work demonstrates that the study of pathogen transcriptomes can supplement genomic analysis and shine light on the fundamental underlying biology of host adaptation.
+
+To characterize the structure of the
+
+Given the variable growth rates (Figures
+
+To investigate the extent of transcriptional diversity among the isolates, we employed relative Euclidean distance calculations based on rlog normalized counts of GP-independent genes at both 4-hour and 10-hour time points (Fig.
+
+We next compared
+
+Gene enrichment analysis of the 268 differentially expressed genes using topGO identified 9 biological processes that were significantly enriched in either blood or GI isolates (
+
+Biochemical pathway analysis of individual metabolic genes that were differentially expressed revealed insight into detailed metabolic reprogramming that occurred during niche adaptation (Fig.
+
+A total of 268 differentially expressed genes were identified between isolates harvested from blood and the GI tract, of which 25 corresponded to metabolic genes in the KEGG database. The figure indicates the enzyme, intermediates, and products for each inferred reaction, and enzymes are numbered as defined below. Arrow color defined in key indicates the log
+
+Comparison of niche-specific differential expression further revealed that genes involved in flagellar biosynthesis exhibited substantial transcriptional changes. Of the 204 genes that were downregulated in the GI lineages relative to the blood lineages, 19.6% were associated with flagellar biosynthesis
+
+It was also observed that isolates with downregulated flagellar genes exhibited increased expression of genes involved in capsule biosynthesis (Fig.
+
+To correlate changes in flagellar gene expression with flagellar production, we experimentally quantified flagellar loss in a subset of isolates using transmission electron microscopy (TEM) negative staining (Figs.
+
+The findings of downregulation of flagellar synthesis in different lineages argues for selection and suggests the possibility that an evolutionary trade-off between motility, conferred by flagella, and the antigenic liability posed by these large and exposed structures may have occurred during the course of infection.
+
+Given the role of DNA methylation in shaping bacterial gene expression
+
+Analysis using DNA Methylase Finder
+
+Isolates 1B1a and 1B1b are notable for being compound hypermutators, containing both the DnaQ E9G substitution disabling DNA mismatch repair and a second substitution in the MutM protein of the base excision repair pathway. As a result, these isolates accumulated a substantial number of mutations during the infection (
+
+We next sought a global analysis of the entire set of clinical transcriptomes sampled throughout the infection to identify overall patterns of potential functional adaptation. We compared the DEGs in each isolate relative to the reference isolate 2B3, chosen because it represents the isolate closest to the inferred common ancestor with an intact genome, and hence its transcriptome may be expected to be among the most representative of the original infecting lineage, with changes relative to this transcriptome representing modifications that occurred during the course of intra-host evolution (Supplementary Data
+
+To visualize the relationships revealed by GO analysis, we constructed a bipartite network linking isolates and ontologies. In this analysis, isolates were segregated according to their compartment of origin and day of culture, and the ontologies were grouped based on whether they were restricted to isolates derived from one source or were shared among isolates derived from both sources (Fig.
+
+Bipartite network representing the relationships between isolates (ellipses) and enriched functional categories (rectangles) as determined by Gene Ontology classification of differentially expressed gene groups. The isolates are ordered by day of culture (left) and compartment (Blood, GI). Enriched functional categories uniquely present in the GI isolates are shown on the left, those that are uniquely present in blood isolates are show on the right, and those shared by isolates cultured from both blood and GI compartments are shown at the center. Three enriched functional categories shared by all isolates relative to 2B3 are not shown.
+
+GO categories that were shared by isolates from both compartments included cellulose, glutamine, glutamate, and UDP-glucose metabolism, as well as amino acid, organic phosphate, and xenobiotic transport. A minority of the shared enrichments demonstrated an apparent temporal sequence among the blood isolates which was largely absent from the GI isolates. Overall, however, the network graph does not reveal global evidence of temporally sequential accumulation of functional category enrichments, largely consistent with the bundle-like phylogenetic structure of the isolates, indicating independent evolution of most lineages.
+
+Bacterial pathogens are known to undergo remarkable genomic and phenotypic adaptive change in the context of host infection
+
+While much has been learned from detailed analysis of genomic mutations in these cases, the parallel study of global transcriptional changes has been relatively neglected. Characterization of how gene expression networks explore functional space during host adaptation can potentially reveal information about selection forces and responses that may not otherwise be apparent from genomic analysis alone. Our previously characterized case of an unusually prolonged infection with
+
+The isolates included a subset with hypermutation due to a substitution in the ε-proofreading subunit of DNA polymerase III (E9G in DnaQ) and lineages with additional secondary mismatch repair deficiencies due to substitutions in MutM and MutY. Comparison of these otherwise clonal lineages permitted evaluation of how hypermutation generates transcriptome diversity. Surprisingly, we found that genomic distance measured by pairwise substitutions was largely uncorrelated with transcriptome similarity measured by relative Euclidean distance. These observations suggest that small numbers of mutations, likely located within important regulatory regions, may lead to global changes in transcription, and conversely, the transcriptome can remain remarkably stable even with large numbers of mutations, perhaps due to selection against mutations in important regulatory regions.
+
+Comparison of blood and GI lineages revealed that multiple potential niche-specific adaptations occurred. Processes related to hydrogen peroxide and ectoine metabolism, pilus organization, peptide transport, and chaperone-mediated protein folding were upregulated in GI isolates and those related to glutamate biosynthesis, flagellar assembly, and protein secretion were downregulated. The superoxide dismutase system, which functions to mitigate damage due to oxygen radicals
+
+The finding of downregulation of flagellar synthesis in different lineages argues for selection and points to an evolutionary trade-off between motility, conferred by flagella, and the antigenic liability posed by these large and exposed structures
+
+We also observed a strong inverse relationship between flagellar biosynthesis and capsule production, with capsule biosynthesis strongly activated in the lineages that lost flagellar expression, as has been described previously in Enterobacterales in association with Rcs phosphorelay signaling
+
+The identification of changes in the genomic methylation profiles within a subset of isolates during host adaptation represents a significant and novel finding in this study. While genome methylation has been studied in eukaryotes for decades, only relatively recently have methods become available allowing large scale characterization of bacterial genome methylation, and these methods have not been widely applied to examine changes during host adaption
+
+The examined clinical lineages demonstrated unique evolutionary trajectories with both shared and distinct functional adaptations. Many individual enrichments in gene expression functional categories were present only in single isolates. Glutathione, phenylacetate, and 3-phenylpropionate metabolism, iron cluster assembly, and coupled electron transport were enriched in blood isolates, and gluconeogenesis and de novo pyrimidine synthesis were enriched in GI isolates. The findings will require deeper experimental study, but they suggest that a variety of global metabolic changes occurred during host adaptation.
+
+An important caveat of this work is that transcriptomes were examined in standardized LB culture media. It is likely that there are transcriptional processes that are dynamically regulated by the native host environment that may have undergone specific selection and adaptation that were not appreciated in this study. Future work aiming at transcriptome characterization in native contexts, including the intracellular environment of phagocytes will be necessary to answer these questions.
+
+In conclusion, our findings reveal surprising plasticity in how pathogen transcriptomes explore functional space as they evolve during the course of host infection. These underlying changes involved a variety of processes ranging from reprogramming of core metabolism, to responses to oxidative and osmotic stresses, to cell wall structure and host cell adherence. Evidence of an evolutionary trade-off between flagella and immune escape was present, and global changes in genome methylation occurred during the course of the infection. We believe these findings demonstrate that the study of intra-host evolution of pathogen transcriptomes and methylomes may uncover important phenotypic adaptations not otherwise obvious from genomic analysis alone, potentially revealing unappreciated dimensions of host-pathogen interactions and the associated selection forces that drive pathogen evolution.
+
+The research presented complies with all relevant ethical regulations. Informed written consent was obtained from the patient under National Institutes of Health (NIH) Institutional Review Board (IRB) protocol 93-I-0119 upon admission to the NIH Clinical Center. This protocol was approved by the NIH IRB committee. Diagnostic clinical cultures were performed as part of routine standard-of-care management under this consented protocol, and only de-identified sub-cultured bacterial isolates were used in the work presented in this manuscript. The results of the work in this manuscript were not used for patient care. The work presented in this manuscript was thereby excluded from further NIH IRB review, on the basis of the fact that it was a study of a single case, involving only sequencing and analysis of de-identified bacterial isolates.
+
+The work in this study is based on 22 clinical isolates collected over the course of 45 months from the blood and stool specimens of a single patient at the NIH Clinical Center. These isolates were previously characterized, sequenced, and annotated in Launay et al.
+
+To obtain growth curves, isolates were grown in LB medium at 37 °C overnight, followed by sub-culture in fresh LB medium at OD600 = 0.01. Growth was then monitored in a plate reader for 36 hrs. For each isolate, an early exponential phase interval was identified, and a linear function was fit to the log
+
+Isolates were recovered from frozen stocks onto blood agar plates so that initial colonies could be visualized and confirmed prior to starting cultures for sequencing. Verified bacterial colonies from each plate were inoculated into 5 ml LB broth (Cat # 244620, Becton Dickinson) and incubated at 37  °C with 220 rpm shaking overnight. Following growth, cultures were adjusted to OD600 of 0.01 in 10 ml LB broth and incubated at 37  °C with 220 rpm shaking. At either 4 hr or 10 hr time points during incubation, individual cultures were treated with RNAprotect (Cat # 76506, Qiagen) following manufacturer’s instructions. Total RNA was extracted using MagMAX Viral/Pathogen Nucleic Acid Isolation kit (Cat # A42352, ThermoFisher Scientific) implemented on a KingFisher Flex purification system (Cat # 5400610, ThermoFisher Scientific). Genomic DNA was removed with DNase treatment (Cat # AM2238, ThermoFisher Scientific). Following depletion of ribosomal RNA using the NEBNext rRNA Depletion kit (Cat # E7850, New England Biolabs), RNA-seq libraries were built using the NEBNext Ultra II Directional RNA Library Prep kit (Cat # E7760, New England Biolabs) and sequenced with an Illumina NextSeq 550 in either 150 bp paired-end mode or 75 bp single-end mode.
+
+DNA was extracted from the three ATCC isolates (ATCC 51730, ATCC 51783, and ATCC 51784) with the Maxwell HT 96 gDNA Blood Isolation kit (Cat # A2670, Promega) following the manufacturer’s protocol. Extracted DNA was quantified and quality controlled using the methods described in the Methylation Motif Discovery section described below. Nanopore libraries were prepared using the rapid PCR barcoding kit (Cat # SQK-RPB004, Oxford Nanopore Technologies) using 7.5 ng genomic DNA as input and following manufacturer’s instructions. Libraries were sequenced for 48 hours using a GridION instrument running MinKNOW 21.05.8. DNA sequences were base-called on the instrument itself using Guppy 5.0.11
+
+For genome assembly, long reads were first assembled using flye 2.9.1
+
+For samples that were sequenced in 150 bp paired-end mode, cutadapt v2.10
+
+To identify growth phase independent genes (see explanation in Results section), genes that were differentially expressed, defined as log
+
+To perform functional annotation, the entire set of PGAP-annotated 2B3 protein sequences was compared to the NCBI nr database using BLAST v2.10.0
+
+Nanopore sequencing signals of native and corresponding PCR amplified DNA were compared using nanodisco1.0.3_dev (Tourancheau, A., et al., Nature Methods, 2021). Genomic DNA was extracted from 22 clinical isolates with the Maxwell HT 96 gDNA Blood Isolation kit (Cat # A2670, Promega) following the manufacturer’s protocol. Extracted DNA was quantified using Qubit dsDNA BR Assay kit (Cat # Q32850, Thermo Fisher Scientific) and analyzed for fragment integrity using a 4200 TapeStation System (Cat # G2991BA, Agilent) with DNA Reagents (Cat # 5067-5366, Agilent) and DNA ScreenTape (Cat # 5067-5365, Agilent). Native (methylated) DNA nanopore libraries were prepared for the 22 clinical isolates using the Rapid Sequencing Kit (Cat # SQK-RAD004, Oxford Nanopore Technologies) according to the manufacturer’s protocol. Libraries for the PCR-amplified (non-methylated) genomic DNA were generated for 2B3 with the rapid PCR barcoding kit (Cat # SQK-RPB004, Oxford Nanopore Technologies) using 7.5 ng of genomic DNA as input and the PCR extension time set to 7 minutes 30 seconds. Libraries were sequenced for 48 hours on a GridION instrument (Oxford Nanopore Technologies) running MinKNOW 21.05.8. DNA sequences were basecalled on the instrument itself using Guppy 5.0.11
+
+FAST5 files were gzip compressed before beginning the pipeline using compress_fast5 4.0.0 from the ont_fast5_api run with default parameters. Reads were preprocessed using the 2B3 genome as the reference for all the clinical isolates using the nanodisco
+
+Bacterial cultures grown overnight at 37  °C were harvested by centrifugation at 420 g for 10 min to obtain ~5 billion cells. Samples were washed twice in 1X PBS, followed by fixation in 4% paraformaldehyde. 5 μl droplets of concentrated fixed bacteria in suspension were allowed to settle for 30 s onto freshly glow-discharged carbon coated 200 mesh copper grids. Excess was wicked away with filter paper. 5 μl droplets of dH2O were applied for 30 s, excess removed by wicking with filter paper, then stained for 30 s with NanoVan (Ted Pella, Inc.) and an additional 30 s dH2O wash prior to final wicking. The grids were allowed to dry prior to examination at 80 kV on a Hitachi H-7800 (Hitachi High Technologies Corporation) with digital images acquired with an AMT XR81 camera (Advanced Microscopy Techniques, Woburn, MA) or 80 kV on a FEI BT Tecnai transmission electron microscope (Thermo Fisher/FEI, Hillsboro, OR) and digital images were acquired with a Gatan Rio9 camera (Gatan, Pleasanton, CA). For each sample, flagella were manually quantified in 25-30 images by a single unblinded operator.
+
+The genomes of all clinical isolates, ATCC 51730, ATCC 51783, and ATCC 51784 were annotated using Prokka 1.14.6
+
+Growth phase independent genes identified as differentially expressed in each isolate as compared to 2B3 were selected, and enrichment analysis of these DEGs was performed using topGO v2.40.0
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Supplementary Data 3
+
+Supplementary Data 4
+
+Supplementary Data 5
+
+Supplementary Data 6
+
+Supplementary Data 7
+
+Supplementary Data 9
+
+Supplementary Data 10
+
+Reporting Summary
+
+Transparent Peer Review file

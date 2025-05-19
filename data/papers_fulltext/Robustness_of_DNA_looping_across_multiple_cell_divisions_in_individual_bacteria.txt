@@ -1,0 +1,43 @@
+Some genetic regulatory systems in bacteria are known to use only a few repressors to maintain low levels of expression, such as
+
+In light of these outstanding questions, we aimed at quantitatively characterizing how robust the repression of DNA looping is with respect to intracellular perturbations in individual growing bacteria. We combine several techniques to record and analyze the spontaneous leakiness of the
+
+Monitoring multigenerational leakiness of the endogenous
+
+Due to the very low leaking rate, we monitor the promoter activity from single cells and across many division cycles using a microfluidics device, called the “mother machine” (
+
+Cells were cultured overnight in M9 medium with 0.4% glycerol as a carbon source. The native
+
+Overnight, cells were loaded in the mother machine and cultured at exponential growth by steadily flushing them with fresh media (
+
+The regulatory regions of the
+
+Statistics of promoter activity with and without DNA looping in single cells. (
+
+We characterized the dynamics of the promoter activity using two quantities: the duration of OFF intervals and the transcriptional bursts size (
+
+Next, we test one key prediction of the Vilar and coworkers model (
+
+However, that OFF intervals across many divisions in the Loops strains follow exponential distributions is unexpected, because it is the signature of a memoryless one-step process associated with a single rate. We hypothesize that this one-step process that controls the statistics of OFF intervals in the Loops strains is largely dominated by the unbinding of repressors from the operator O
+
+To check this hypothesis, we genetically removed one additional operator (O
+
+Robustness of repression from distinct configurations of DNA loops and cell cycle dependence of promoter activity. (
+
+To evaluate the impact of cell division on the OFF intervals, we performed stochastic simulations of gene expression using the Vilar and coworkers model (
+
+Most observations in our experiments can be qualitatively understood with a three-state model extended from the Vilar and coworkers model (
+
+An OFF interval consists of one or multiple rounds of
+
+On the other hand, the burst size of a pulse is proportional to the number of
+
+As described by the Cooper–Helmstetter relation (
+
+The extension of Vilar and coworkers model and stochastic simulations without considering DNA replication and cell division is able to reproduce several key observations from our experiments, including memoryless distributions of the OFF intervals and extremely long OFF intervals with DNA looping, as well as its robustness to variations of repressor concentration. Given that bound repressors will unbind DNA during replication (
+
+In the No-loop strain, the ab initio search time for LacI to bind free O
+
+In summary, we report the robustness of DNA looping to intracellular perturbations across multiple cell cycles. While a small copy number of repressors is present in the cell, we find that repression with DNA looping is robust to variations of intracellular environment, such as repressor concentration, cell divisions, and detailed configurations of DNA loops. We speculate that similar robustness plays a crucial rule in other genetic regulatory systems beyond the
+
+All

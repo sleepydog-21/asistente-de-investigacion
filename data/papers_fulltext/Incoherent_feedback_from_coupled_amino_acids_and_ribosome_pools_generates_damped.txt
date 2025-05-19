@@ -1,0 +1,133 @@
+The regulation of growth is critical for all living cells
+
+On the other hand, the current frameworks miss an explicit description of the regulatory circuits that coordinate the cellular response to perturbations by reading the environmental signals. In bacteria, the circuit that implements this control is based on the small signaling molecule (p)ppGpp (guanosine tetraphosphate or pentaphosphate)
+
+Being able to predict how cells will respond to new perturbations is crucial, and to this end, a mechanistic understanding of growth control is essential. It is important to note that the response to a change is specific to the environment or perturbation under investigation
+
+In this study, we propose an intermediate approach between a top-down framework and a specific model of the circuits by introducing a comprehensive model that incorporates (I) an explicit description of amino acid sensing, (II) a detailed account of the mechanistic regulation of transcription via ppGpp, and (III) a framework for growth laws and global resource allocation. Notably, our model manifests an emergent property whereby the system’s response to external perturbations exhibits oscillatory behavior, which arises due to the incoherent mutual feedback loop that emerges between amino acid pools and ribosome levels. The key ingredient for this property to arise is the joint description of the amino acids and ribosomes pool in a dynamical framework, which is not addressed in previous frameworks
+
+To describe the out-of-steady-state dynamics of cell growth, we designed a model framework that, starting from the framework defined in ref.
+
+Global scheme of the regulatory model. The out-of-steady-state dynamics is governed by four main ingredients:
+
+In the model, ribosomes are responsible for the synthesis of all proteins, divided into “sectors” representing groups of co-regulated proteins (which usually have similar functions)
+
+In the absence of post-transcriptional control
+
+The ribosomal mRNA pool composition is regulated by the alarmone ppGpp, which controls the partitioning of the RNA polymerase (RNAP)
+
+As found in ref.
+
+A key aspect of our model is the explicit representation of the amino acid pool (which represents a significant departure from ref.
+
+Let us further explain the relationship between the translation elongation rate
+
+Lastly, in order to connect ppGpp levels to the amino acid pool, we use the model proposed by Wu and coworkers
+
+It is important to note that so far
+
+Two aspects of our model are noteworthy. Firstly, the ability to reproduce the known steady-state relationships between measured quantities is a crucial requirement, and our model satisfies this criterion. Our model, with respect to the original FCR framework from which is derived, incorporates additional observables, such as ppGpp and amino acid levels. ppGpp levels have been measured and they have been incorporated in our model. Furthermore, the model’s ability to predict the amino acid pool levels is an outcome that can be tested by new experiments, making it a testable prediction.
+
+Figure
+
+In order to avoid unnecessary complications, we restricted this analysis to a “fast-growth” regime, which we defined by the condition
+
+Finally, a well-defined steady-state behavior requires the fixed point to be stable, which we investigated by analyzing the eigenvalues of the linearized dynamics. Specifically, we have studied in detail two versions of the fast-growth model, with instantaneous transcription and with a transcriptional time scale set by the mRNA degradation rate (see Supplementary Figs.
+
+We next investigated the model behavior during a nutritional upshift. To realize such an upshift, we varied suddenly (in a stepwise fashion) the nutrient quality
+
+Figure
+
+The figure presents simulation predictions of the post-upshift dynamics of various state variables.
+
+Following this observation, we asked whether the presence of oscillations stemmed from the fact that in our model, the regulatory functions
+
+Simulations were performed with two different models: with instantaneous transcription (
+
+However, the important point to realize is that overshoots are expected also for
+
+The analysis of the eigenvalues of the two systems confirms this behavior. Indeed in both cases, the eigenvalues are complex with a negative real part in all biologically accessible growth regimes, a property linked to the oscillating relaxation to the new state. This theoretical analysis was carried out spanning all growth regimes, from slow to very fast growth, and is presented in detail in Supplementary Note
+
+In our model, the oscillatory behavior arises because of the effective negative feedback loop between the amino acid pool and the ribosomes. This mutual connection is sketched in panel E of Fig.
+
+To interpret the different relaxation time scales involved in a nutrient shift within our model, Fig.
+
+To better understand the behavior of our model upon nutrient shifts, we compared it with two existing models (see also the Supplementary Note
+
+Even considering the extended FCR model, a key difference between it and our framework lies in the treatment of the amino acid pool. The FCR model focuses on catabolic and biosynthesis fluxes to control shift dynamics, without explicitly describing the amino acid pool
+
+In contrast, the FPM model
+
+Figure
+
+So far, we have shown that the oscillatory relaxation behavior arises naturally from a theoretical framework that incorporates biological knowledge on nutrient sensing and regulatory response. It is natural to ask whether this predicted behavior has an experimental counterpart.
+
+Considering published data, we observed clear oscillations in data from our reanalysis of nutritional upshift experiments performed in a microfluidic device, as reported in ref.
+
+The figure shows relaxation to the new steady state for various experiments, both for the growth rate and the ribosomal sector size. In all panels, continuous red lines represent the results of a simulation of the model.
+
+To test the robustness of this result, and given the lack of coherence on this point looking at other shifts performed in the literature, we also performed new shift experiments in different settings (batch and microfluidics) to investigate the existence of overshoots and damped oscillations during nutrient upshifts.
+
+The new microfluidics experiments were conducted in a similar microfluidic “mother machine” device as in ref.
+
+For both the reanalyzed and the new microfluidics data, overshoots (and damped oscillations) compatible with the model predictions are apparent in both the growth rate
+
+Additionally, the damped oscillatory behavior observed in mother machine devices is consistent across biological replicates and strains (Fig.
+
+The results from experiments in batch culture are more ambiguous, as we found clearly visible overshoots in eight (roughly half) of the experimental replicates (Fig.
+
+Despite of the variability across replicates, the overshoots that are visible in these experiments occur consistently across replicates around two hours from the shift, as predicted by the model. Additionally, the batch experiments were also performed with wild-type strains, confirming the idea that growth-rate overshoots upon nutrient upshifts are not due to the presence of fluorescent reporters. Finally, the quantitatively small overshoots predicted by the model and the inferior quality of the batch data also explain why the phenomenon was not widely reported by previous literature. Besides the inferior resolution of these experiments, a possible interpretation of the difficulties encountered in batch-culture experiments could be that in batch population growth can be driven primarily by fast-growing cells, whereas in a mother-machine microfluidic device, a fixed distribution of mother cells is maintained.
+
+To conclude, while we have provided new evidence supporting our model’s predictions, given the limitations of the presented data, our main claims remain limited to the statement that a realistic architecture (based on our current knowledge) linking nutrient sensing to ribosome allocation would generally give rise to oscillations. Biologically, it is also possible that unaccounted elements in the architecture, which are not described by our model, could alter the prediction. Further systematic experiments may clarify the situation.
+
+This work presents a dynamical modeling framework that describes the out-of-steady-state growth of
+
+Importantly, we have shown that damped oscillations of growth rate, ribosome allocation and ribosome proteome fraction have been observed across studies of experimental nutrient shifts in
+
+Our model builds upon and integrates previous findings in the literature
+
+We recognize that several other models have tackled related questions from various perspectives (e.g. refs.
+
+While our primary focus is the cellular response to nutrient shifts, other studies provide complementary insights into bacterial growth physiology. For example, ref.
+
+Although it is now well-established that ppGpp effectively senses and responds to the translational elongation speed
+
+In our model, the oscillations arise because the system works as a thermostat, with a built-in feedback system involving a sensor and an effector. The origin of oscillations in our system could be attributed to architectural constraints, evolution, or a combination of both. In order to clarify this point, it will be crucial to study this system from a control-theory perspective, and to discover the optimization goals that it follows over evolution. A previous study
+
+A growth regulation system can be seen as a decision-making process that detects the environment. As nutrients in a natural environment tend to fluctuate over different time scales, we can expect that the nutrient quality can vary by fluctuations and net trends. Our model shows that sensing as a low-pass filter in response to time-varying input, preventing the system from reacting to environmental nutrient quality changes above a certain frequency, but also carries a characteristic oscillatory frequency that varies with the parameters. We speculate that these features could facilitate growth control, allowing a cell to spare energy and resources by avoiding reactions to changes that are too short-lived, but also “resonate” with specific frequencies. In our framework, the model variant without delay represents the fastest-reacting version of the network. Biologically, this fast-reacting architecture may be embodied by ribosome sequestration
+
+We report here the equations needed for the definition and simulation of our mechanistic model. In these notes, we will distinguish the state variables from the parameters by expliciting the time dependence of the first ones. We start with the differential equations that define the dynamical system:
+
+Next, we show the other definitions needed to close the system. We need to define the translation elongation rate, which depends on the amount of charged tRNAs, and therefore on the amino acids level. Eq. (
+
+The RNAP allocation on ribosomal genes was assumed to follow the following relationship
+
+The growth rate in our model corresponds to the biosynthesis rate:
+
+Lastly, the constitutive sector is defined as the remaining part of the proteome, which does not belong to the ribosomal nor to the housekeeping one,
+
+The strain used in this experiment is the wild-type
+
+We conducted experiments using a microfluidic “mother machine” device, which consists of 1-μm-wide channels positioned between two larger feeding channels
+
+Imaging was performed using a Nikon Inverted Microscope ECLIPSE Ti-E equipped with a 100× oil immersion objective lens (numerical aperture 1.4) and a Nikon Perfect Focus System to correct for focus drift. An xy motion plate was employed to cycle through predefined regions of interest at specified time intervals. Images were captured using a 16-bit camera at a resolution of 512 × 512 pixels, with each pixel corresponding to 0.1067
+
+Original data for this experiment were published in ref.
+
+The
+
+The strains were first plated from a −80 °C glycerol stock to LB-Agar plates. Then, a preculture was made, where a single colony was inoculated in LB medium. After reached an OD of 0.3, the cells were washed of the LB medium by centrifugation (3 minutes at 8000 g-force) and resuspended in the medium used for the growth experiment (M9+glu). The overnight was prepared by diluting the cells of the preculture such that growth was still in the exponential phase at the start of the experiment. The growth experiment was performed in the ChiBio chemostat
+
+Growth shifts were performed by adding a 20% solution of Casamino acids to the reactor, such that the medium had 1% cAA concentration. To retain constant growth conditions and to keep OD out of the saturation range (
+
+The ChiBio outputs data files containing the precise OD every minute and the associated time stamps. To synchronize this data with the shift dynamics, the shift time was set as
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Reporting Summary
+
+Transparent Peer Review file

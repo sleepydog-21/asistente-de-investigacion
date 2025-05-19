@@ -1,0 +1,75 @@
+Ever since the initial discovery of Archaea by Woese and Fox [
+
+Amongst the three domains, there are approximately 102 recognized ribosomal protein (r-protein) families [
+
+In Bacteria, approximately 32 r-proteins from both subunits and two translation-related proteins are grouped into seven well-studied clusters. They are, viz.,
+
+The universality of r-protein gene clusters is often linked with a long history of their association. They also represent ancient/regulatory relationships, with implications for early gene clusters in mini chromosomes. Eukaryotic transcription usually involves a single transcript. Thus, eukaryotic operons/clusters of genes are restricted to few organisms [
+
+Earlier studies of non-Asgard Archaea showed that the universal r-protein genes are in clusters similar or identical to those found in Bacteria [
+
+It has been clear since their initial discovery that archaeal ribosomes more closely resemble those of Eukarya than Bacteria as has been documented in detail [
+
+Genes that are translated together frequently share similar origins, physical interactions, functions, or regulatory mechanism(s) [
+
+In order to gain further insight into the r-protein gene clusters in Asgard Archaea, the genome order of r-protein coding genes was analyzed and compared with non-Asgard archaeal and bacterial genomes.
+
+The data used herein are based on the availability of sequences as of July 2023. The feature table and GenBank/RefSeq sequences of the genomes of Asgard Achaea were obtained from the public databases of the National Center for Biotechnology Information (NCBI) [
+
+The feature table of each genome was first checked for the presence/absence of genes in any given cluster. The closest available homologs of those genes that appeared to be missing in a given Asgard genome were used to ascertain the presence/absence of the same using stand-alone blast [
+
+A total of ~552
+
+The remaining Asgard genomes each consist of at least twenty contigs and frequently many more. Given the incompleteness of these genomes, the r-protein coding genes in a given cluster were often found in multiple contigs. Some of them, as illustrated in Supplementary Figures
+
+A core of 14 cooccurring genes (
+
+In Lokiarchaeote sp. B-35, six genes of this cluster (
+
+In the Thorarchaeotes bin8, bin27, FW25, and BC and the Odinarchaeote LCB, a gene for a heat shock protein occurs as an addition to this cluster (Figures
+
+In the Heimdallarchaeote bin6, the cluster is split into three segments found on different parts of the complete genome. Ten of these genes (
+
+A second smaller cluster comprising the homologs of the most conserved genes of the bacterial
+
+In the bacterial genomes,
+
+The core of this cluster is comprised of nine contiguous genes, which is observed to cooccur with the
+
+This cluster is an operon (
+
+In the Asgard genomes, the
+
+The second section is comprised of
+
+This cluster has a core of eight genes (
+
+Based on how it is found in the rest of the archaeal genomes, the
+
+A new cluster
+
+The genes for the Archaea unique r-proteins, namely, L39e, L31e, S19e, and LXa, have been described to be part of a cluster that includes the conserved segment of 4 genes, viz.,
+
+In the Asgard genomes examined in this study, except four Asgard genomes, all the other genomes show a conserved 5-gene core cluster,
+
+In the Asgard Lokiarchaeotes MKD1 and FW102, part of the large segment,
+
+Additionally, an annotation error was observed in the Asgard Thorarchaeote BC genome. A hypothetical protein coding gene (GenBank accession number: TXT56565.1) is downstream of
+
+Classical operons are found to occur in both Bacteria and Archaea [
+
+It has been suggested that the Heimdallarchaeota group is the most likely sister group of Eukarya [
+
+The dispersion of gene clusters in eukaryotes has been suggested to be directly correlated with higher rates of chromosomal/genome evolution [
+
+Genome organization seldom remains in stasis with the phenomenon of lateral gene transfer constantly changing the dynamics of the same. It has been hypothesized that the Asgard proteome, particularly the eukaryotic signature protein coding genes, evolved through extensive horizontal gene transfer [
+
+It should be noted that the arrangement of the r-protein coding gene clusters in the Asgard could be in some cases an artifact of poor genome completion. The occurrence of several partial genes, a universal gene annotated as a pseudogene, and several universal gene segments missing in the Asgard genomes in this study (Figures
+
+However, we did observe one interesting feature in a non-Asgard archaeal MAG. Of the three non-Asgard archaeal genomes assembled from metagenomes that are available in the NCBI database [
+
+The second non-Asgard MAG, that of DPANN
+
+It is not clear if the cooccurrence of four r-protein clusters in the MAG of DPANN archaeon GW2011_AR10 is a result of the accuracy of the assembly and annotation/curation of the genome. If it is indeed an accurate assemble, then the assembly of other genomes in the database may need to be revisited for improving better quality which may help in an improved understanding of arrangement of these clusters. Thus, in the absence of good quality genomes, ascertaining the order of highly conserved genes of r-proteins can be challenging, and thus, well-curated genomes are vital towards understanding genome organization. The importance of a more robust curation of MAGS as well publicly available Asgard genomes [
+
+The discovery of the Asgard Archaea has redefined our understanding of the phylogenetic positions of the various groups that comprise the Archaea. The genomic arrangement of the r-protein coding genes in the Asgard superphylum within the domain Archaea suggests that the order may follow the phylogeny. The closer an Asgard is to eukaryotes, the more dispersed is the arrangement of the r-protein gene clusters. This feature suggests a possible ancient gain or loss of the operon strategy of gene regulation in the early history of life. Given that very few Asgard genomes are currently complete, new data and better means of genome assembly will facilitate a better understanding of genome order in the Asgard Archaea in the future.

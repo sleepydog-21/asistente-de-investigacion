@@ -1,0 +1,511 @@
+Auxin is a vital phytohormone in plants, affecting almost all the aspects of plant’s life. In the meristems, auxin functions as a regulator of cell division, elongation, and differentiation, determining the growth and architectures of shoots and roots [
+
+Plants are associated with millions of microorganisms. The plant–microbiota interaction serves as an important layer of auxin gradient regulation, tuning plant development, phenotypes, and fitness [
+
+More recently, a new auxin degradation operon has been reported for strains of
+
+In this study, we have focused on 10 genes around an overlapped region of 2 genomic fragments of
+
+To understand the molecular mechanism of IAA turnover by
+
+(
+
+SBPs are classified into 7 clusters (A-F) based on the structural similarities [
+
+(
+
+As co-crystallization or crystal soaking with IAA failed after extensive attempts, we therefore performed the docking and molecular dynamics (MD) simulation analysis to understand the interaction between IAA and IadK2 (
+
+IadK3 shares approximately 70% sequence identity with IadK2. To elucidate why IadK3 fails to bind IAA, we predicted the structure using AlphaFold2 [
+
+Apart from IadK2, IadD could also directly bind with IAA, whereas other proteins encoded by the
+
+(
+
+To further understand the structural features of the IadD/E complex, we determined the crystal structure at a resolution of 1.8 Å (
+
+IadD features a Rieske domain (residues 44–160) and a catalytic domain (residues 1–43 and 161–437) (
+
+To understand the binding of IAA with IadD, we then determined a 2.6 Å cryo-EM structure of IadD/E complexed with IAA (
+
+The Rieske dioxygenases usually work in combination with a reductase or both reductase and ferredoxin components, forming a two- or three-component dioxygenase system, to oxidize substrates [
+
+(
+
+Next, we determined the crystallographic structure of IadC at a resolution of 1.68 Å (
+
+Mutagenesis studies were then performed to further confirm the functional role of IadC in IAA transformation. FMN is thought to mediate electron transfer from the NADH electron donor to the [2Fe-2S] electron acceptor, which further delivers the electrons to the dioxygenase for the catalysis reaction [
+
+In addition to IAA, other auxin analogs also play essential roles in plant growth and development. We therefore further examined whether the IadD/E-IadC system could transform IAA analogs. While 4-Cl-IAA was transformed with reduced efficiency, IadD/E-IadC could not catalyze the turnover of IAA analogs such as IBA and IPA (
+
+Next, we set out to identify the product of IAA transformed by this new dioxygenase system. To this end, we performed the high-performance liquid chromatography (HPLC) and the high-resolution mass spectrometry (HRMS) analyses. IAA was treated in vitro with the IadD/E-IadC enzymes till complete consumption of IAA. The reacted mixture was first denatured and analyzed using HPLC. A new peak with a retention time of 5.4 min was observed accompanied with the disappearance of the IAA peak (
+
+(
+
+Domains of IadD/E and IadC would reconstitute the electron transport chain of Rieske dioxygenase, where electrons from NADH in NAD are passed to the [2Fe-2S] cluster by FMN bound to FAD of IadC followed by transporting to the active site of IadD through the [2Fe-2S] clusters of IadD/E, catalyzing the incorporation of oxygen atoms of O
+
+We next explored the possibility of engineering non-IAA-degrading bacterial strains for IAA transformation. Vectors containing different combinations of genes for
+
+(
+
+Bacterial degradation of plant hormone plays an important role in regulating plant hormone levels [
+
+In addition to the IadD/E-IadC proteins, we also found IadK2 may also contribute to the IAA-degradation pathway of
+
+IadD and IadE form a heterohexameric non-heme Rieske dioxygenase. IadC is an FMN-type reductase, which transfers electrons from the donor NADH to the active site of IadD to catalyze the incorporation of oxygen atoms into IAA for the production of oxIAA. This may represent the first step in the bacterial degradation of IAA by the
+
+DNA sequences for genes in
+
+ITC experiments were performed using a MicroCal PEAQ-ITC system (Malvern). All the experiments were performed at 25°P in a buffer containing 25 mM Tris-HCl (pH 7.5) and 150 mM NaCl (unless otherwise stated). A typical titration experiment involved 18 injections of IAA solution (500 to 2,000 μM) into the cell containing protein of interest (30 to 100 μM) with a time spacing of 120 s. Data was analyzed using the MicroCal PEAQ-ITC analysis software. All the measurements were repeated at least 2 times.
+
+TSA was performed to examine the binding of Iad proteins with IAA and analogs. Ligands concentrations were tested at 2- to 100-fold excess (10 to 1,000 μM) relative to the proteins (5 μM). The fluorescence dye SYPRO Orange at a final of 200-fold dilution was used to monitor the unfolding of proteins. The protein and ligand were incubated for 10 min at room temperature before the addition of SYPRO Orange dye. The QuantStudio 1 Plus real-time PCR system (Thermo Fisher) was used to control the temperature increasing from 25°1 to 99°t with an increment of 0.5°n and to monitor the fluorescence (excitation: 520 ± 10 nm and emission: 558 ± 10 nm). Each tested group was run in triplicate and repeated. Data was imported to the Protein Thermal Shift software for analysis and plotting.
+
+The gel-filtration assay for the IadD/IadE complex was carried out using the HiLoad 200 column (Cytiva). IadD/E purified by the cation exchange chromatography was concentrated to 20 mg/ml and loaded into the column pre-equilibrated with the running buffer containing 25 mM Tris-HCl (pH 7.5), 150 mM NaCl, and 2 mM DTT. The peak fractions were collected and analyzed with SDS-PAGE.
+
+The purified IadD/E complex sample was diluted to 0.5 mg/ml using the sample buffer containing 25 mM Tris-HCl (pH 7.5) and 150 mM NaCl and subjected to the sedimentation velocity measurements using an Optima XL-I analytical ultracentrifuge (Beckman-Coulter). Data was analyzed with the SEDFIT and SEDPHAT programs [
+
+The IadK2-IAA complex was concentrated to 20 mg/ml in a buffer containing 25 mM Tris-HCl (pH 7.5), 280 mM NaCl, and 2 mM DTT. SAXS data was collected on beamline BL19U2 at Shanghai Synchrotron Radiation Facility (SSRF) with a Pilatus detector. One-dimensional intensity curves were obtained by the ATSAS package [
+
+In vitro assay was performed to test the capability of IadC/D/E enzymes encoded by the
+
+The reacted mixture with almost all the IAA substrate consumed from the in vitro IAA transformation assay was denatured by heat and the supernatant was collected for HPLC analysis on a Shimadzu LC-40 HPLC machine equipped with an InertSustain 5 μM C18 HPLC column (4.6 × 250 mm). The UV detection was carried out at 260 nm, following separation using water (solvent A) and methanol (solvent B) as mobile phase with a linear gradient elution at a flow rate of 0.8 ml/min as follows: 0 to 5 min, 5% B; 5 to 15 min, 10% B; 15 to 20 min, 50% B; 20 to 22 min, 50% B; 22 to 25 min, 95% B; 25 to 33 min, 95% B. The peak fraction with a retention time of about 5.4 min was collected and re-dissolved in water containing 10% methanol after removing the solvent under vacuum. HRMS was performed with an LTQ-Orbitrap mass spectrometer (Thermo Fisher). Pure IAA, NADH, NAD
+
+Purified adK2, IadD/E complex, and IadC were concentrated to 15 to 20 mg/ml. Protein crystallization was performed by mixing 1 μl of protein solution with 1 μl of the crystallization buffer using the sitting drop method. Crystals of IadK2 protein were grown in a reservoir solution containing 27% w/v polyethylene glycol 3,350, 0.1 M Tris (pH 8.60); 1 M cobalt (II) chloride hexahydrate. IadD/E crystals were obtained at 18°E in a reservoir solution containing 28% (v/v) 2-methyl-2,4-pentanediol, 0.05 M sodium cacodylate trihydrate (pH 6.0), 0.05 M magnesium acetate tetrahydrate, 40% (v/v) 1,3-propanediol. Crystals of IadC protein were grown at 18°p in a reservoir solution containing 0.1 M Bis-tris propane (pH 7.1), 1.2 M sodium malonate (pH 7.0), 0.1 M calcium chloride dihydrate. Crystals were cryo-protected in the mother liquor supplemented with 20% glycerol before flash-frozen in liquid nitrogen for data collection.
+
+X-ray diffraction datasets were collected at beamline BL19U1 of Shanghai Synchrotron Radiation Facility (SSRF). Structure determination was performed by CCP4I2 package [
+
+Docking and MD simulation analysis were performed to define the binding site of IAA in IadK2. The initial binding pocket was selected by referring to the homologous structure (PDB ID: 4FB4). Molecular docking of IAA anion to the potential binding site was performed using AutoDock Vina [
+
+Purified IadD/E complex was incubated with 20-fold molar excess IAA. Aliquots of 4 μL samples were applied to glow-discharged holey carbon girds (Cu, R1.2/1.3, 300 mesh, Quantifoil). The grids were blotted with force 2 for 3 s and plunged into liquid ethane using a Vitrobot (FEI Thermo Fisher). Cryo-EM data were collected with a Titan Krios microscope (FEI) operated at 300 kV and images were collected using EPU at a nominal magnification of 105,000× (resulting in a calibrated physical pixel size of 0.85 Å/pixel) with a defocus range from −1.2 μM to −2.2 μM. The images were recorded on a K3 summit electron direct detector (Gatan). A dose rate of 15 electrons per pixel per second and an exposure time of 2.5 s were used, generating 40 movie frames with a total dose of approximately 54 electrons per Å2. A total of 2,122 movie stacks were collected (
+
+The movie frames were imported to RELION-3 [
+
+The map was sharpened using Phenix Autosharpen tool [
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+(
+
+(TIF)
+
+Click here for additional data file.
+
+The reacted mixture (RM) was analyzed with HPLC. Analyses for NADH, NAD, IAA, and oxIAA were also performed to assign the peaks.
+
+(TIF)
+
+Click here for additional data file.
+
+The in vitro IAA degradation reaction with IadC-IadD/E was carried out in the solution containing 95% H
+
+(TIF)
+
+Click here for additional data file.
+
+Effects of Iad proteins mutants in the in vivo IAA transformation by
+
+(TIF)
+
+Click here for additional data file.
+
+(DOCX)
+
+Click here for additional data file.
+
+(DOCX)
+
+Click here for additional data file.
+
+(XLSX)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+
+
+Dear Dr Yu,
+
+Thank you for submitting your manuscript entitled "Molecular Mechanism for Bacterial Degradation of Plant Hormone Auxin" for consideration as a Research Article by PLOS Biology.
+
+Your manuscript has now been evaluated by the PLOS Biology editorial staff, as well as by an academic editor with relevant expertise, and I am writing to let you know that we would like to send your submission out for external peer review.
+
+However, before we can send your manuscript to reviewers, we need you to complete your submission by providing the metadata that is required for full assessment. To this end, please login to Editorial Manager where you will find the paper in the 'Submissions Needing Revisions' folder on your homepage. Please click 'Revise Submission' from the Action Links and complete all additional questions in the submission questionnaire.
+
+Once your full submission is complete, your paper will undergo a series of checks in preparation for peer review. After your manuscript has passed the checks it will be sent out for review. To provide the metadata for your submission, please Login to Editorial Manager (
+
+If your manuscript has been previously peer-reviewed at another journal, PLOS Biology is willing to work with those reviews in order to avoid re-starting the process. Submission of the previous reviews is entirely optional and our ability to use them effectively will depend on the willingness of the previous journal to confirm the content of the reports and share the reviewer identities. Please note that we reserve the right to invite additional reviewers if we consider that additional/independent reviewers are needed, although we aim to avoid this as far as possible. In our experience, working with previous reviews does save time.
+
+If you would like us to consider previous reviewer reports, please edit your cover letter to let us know and include the name of the journal where the work was previously considered and the manuscript ID it was given. In addition, please upload a response to the reviews as a 'Prior Peer Review' file type, which should include the reports in full and a point-by-point reply detailing how you have or plan to address the reviewers' concerns.
+
+During the process of completing your manuscript submission, you will be invited to opt-in to posting your pre-review manuscript as a bioRxiv preprint. Visit
+
+Feel free to email us at
+
+Kind regards,
+
+Richard
+
+Richard Hodge, PhD
+
+Associate Editor, PLOS Biology
+
+
+
+PLOS
+
+Empowering researchers to transform science
+
+Carlyle House, Carlyle Road, Cambridge, CB4 3DN, United Kingdom
+
+ORCiD I
+
+California (U.S.) corporation #C2354500, based in San Francisco
+
+
+
+Dear Dr Yu,
+
+Thank you for your patience while your manuscript "Molecular Mechanism for Bacterial Degradation of Plant Hormone Auxin" was peer-reviewed at PLOS Biology. Please accept my apologies for the delays that you have experienced during the peer review process. Your manuscript has now been evaluated by the PLOS Biology editors, an Academic Editor with relevant expertise, and by three independent reviewers.
+
+In light of the reviews, which you will find at the end of this email, we would like to invite you to revise the work to thoroughly address the reviewers' reports.
+
+As you will see, the reviewers think the study is interesting and well done, but raise concerns about the lack of comparison with a previous study in Nature Microbiology that recently characterized an iac/iad auxin degradation locus (Conway et al, 2022, PMID 36266335), as well as noting that different nomenclature appears to be used to define the operon (adg vs iac). I have provided some specific comments from the Academic Editor on this point below the reviewer reports, and we ask that you please clarify whether your study is focusing on the same operon where a different reaction and degradation product are described, or whether the paper focuses on a distinct operon. In addition, the reviewers also ask for several additional control experiments, including a mutational validation in AdgA to provide further support for the IAA binding model and using PAA in the ITC assays to strengthen the conclusions regarding substrate specificity.
+
+Given the extent of revision needed, we cannot make a decision about publication until we have seen the revised manuscript and your response to the reviewers' comments. Your revised manuscript is likely to be sent for further evaluation by all or a subset of the reviewers.
+
+We expect to receive your revised manuscript within 3 months. Please email us (
+
+At this stage, your manuscript remains formally under active consideration at our journal; please notify us by email if you do not intend to submit a revision so that we may withdraw it.
+
+**IMPORTANT - SUBMITTING YOUR REVISION**
+
+Your revisions should address the specific points made by each reviewer. Please submit the following files along with your revised manuscript:
+
+1. A 'Response to Reviewers' file - this should detail your responses to the editorial requests, present a point-by-point response to all of the reviewers' comments, and indicate the changes made to the manuscript.
+
+*NOTE: In your point-by-point response to the reviewers, please provide the full context of each review. Do not selectively quote paragraphs or sentences to reply to. The entire set of reviewer comments should be present in full and each specific point should be responded to individually, point by point.
+
+You should also cite any additional relevant literature that has been published since the original submission and mention any additional citations in your response.
+
+2. In addition to a clean copy of the manuscript, please also upload a 'track-changes' version of your manuscript that specifies the edits made. This should be uploaded as a "Revised Article with Changes Highlighted" file type.
+
+*Re-submission Checklist*
+
+When you are ready to resubmit your revised manuscript, please refer to this re-submission checklist:
+
+To submit a revised version of your manuscript, please go to
+
+Please make sure to read the following important policies and guidelines while preparing your revision:
+
+*Published Peer Review*
+
+Please note while forming your response, if your article is accepted, you may have the opportunity to make the peer review history publicly available. The record will include editor decision letters (with reviews) and your responses to reviewer comments. If eligible, we will contact you to opt in or out. Please see here for more details:
+
+
+
+*PLOS Data Policy*
+
+Please note that as a condition of publication PLOS' data policy (
+
+*Blot and Gel Data Policy*
+
+We require the original, uncropped and minimally adjusted images supporting all blot and gel results reported in an article's figures or Supporting Information files. We will require these files before a manuscript can be accepted so please prepare them now, if you have not already uploaded them. Please carefully read our guidelines for how to prepare and upload this data:
+
+*Protocols deposition*
+
+To enhance the reproducibility of your results, we recommend that if applicable you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at
+
+Thank you again for your submission to our journal. We hope that our editorial process has been constructive thus far, and we welcome your feedback at any time. Please don't hesitate to contact us if you have any questions or comments.
+
+Sincerely,
+
+Richard
+
+Richard Hodge, PhD
+
+Associate Editor, PLOS Biology
+
+
+
+------------------------------------
+
+REVIEWS:
+
+Reviewer #1: The manuscript by Ma, et al. describes the ligand binding, structure and activity of proteins from the Variovorax auxin-degradation operon responsible for IAA binding and degradation. The authors performed crystallization studies and enzymatic assays to demonstrate IAA binding and enzymatic activity by AdgB, I, J and H. The degradation product of IAA catalysed by AdI/H/J was further characterized by mass spectrometry. The genes responsible for IAA degradation were then tested in E. coli and IAA degradation tested. Understanding the enzymes involved in IAA degradation and the crosstalk between plants and bacteria is of broad interest to the plant biology community.
+
+Certain points need to be addressed to better clarify the results of the manuscript and to put it into a broader context of what is known about IAA degrading bacteria-
+
+The results need to be discussed in context of recent literature, in particular Conway, et al. 2022
+
+I am unclear as to the applications the authors envision for this operon in engineering the rhizosphere microbiome. This would be making transgenic soil bacteria to alter RGI?
+
+ITC measurements need s.d. or s.e.m. How many times were these measurements performed? For thermal shift assays in Fig. 1 the error bars are very faint and hard to see.
+
+Given that AdgB is not in complex with IAA, docking studies were done. SAXS could be used to determine if AdgB adopts closed conformation upon IAA binding as co-crystallisation and soaking did not work.
+
+Mutations of AdgA to bind IAA based on the structural and modelling studies of AdgB would be interesting to further support the model for IAA specific binding.
+
+The structures in Fig.3 examine both X-ray and EM structures with the X-ray structure of AdgH/I in the apo form and the EM structure in the IAA bound form. A larger portion of the EM map should be shown around the active site and more detailed comparison of the conformation of the side chains in the apo and ligand bound form described. How well-positioned are the side chains in the EM model vs. the X-ray structure?
+
+Fig. 4 -The schematic illustration is too small and uninterpretable. It is unclear where the electron is coming from and where it is going and how the reaction is catalysed.
+
+For the crystal tables, please provide CC1/2, Ramachandran statistics should be included. The clash scores and R factors are quite high for 7YLT. Is this structure fully refined? Also there seem to be a lot of RSTZ outliers for all structures.
+
+Supp Fig. 3 The SAXS experimental curve and theoretical model are very different. The fit looks extremely poor, especially at high q range, can the authors address this?
+
+Reviewer #2: This manuscript is very straightforward, and summarizes an impressive amount of work, including the biochemical characterization of three different enzymes involved in IAA transport and metabolism. Overall, the claims are well supported. The findings are important, as they increase our understanding of how microbes can alter the concentration of the plant hormone IAA, an auxin, in plant roots and the rhizosphere.
+
+The manuscript is succinctly written, and in some places additional key information and details need to be provided so assist the readers in understanding the experiments and to strengthen the rationale for the work. Additionally, I believe use of the term "degradation" is often inappropriately used, and thus confusing to the reader.
+
+Scientific comments and concerns
+
+1. An IAA degradation locus referred to as iad has been recently described (Conway et al, 2022 Nature Microbiology). Is the adg locus discussed here distinct from that locus?
+
+2. The naturally occurring auxin phenyl acetic acid (PAA) should be included in the ITC experiments investigating substrate specificity. This is important to examine before the authors can claim that the protein has specificity for bicyclic compounds.
+
+3. I was confused by the use of the term degradation, when the authors actually mean transformation (or conversion) of IAA into oxIAA, which is presumably inactive, but still present in the cell.
+
+4. It seems the authors believe that the SBP proteins are required for entry of IAA into the cell. However, at acidic pH (e.g. pH 5.8) much of the IAA is protonated, and thus may be able to diffuse across the membrane without the aid of transporters (at least this is what plant biologists who study IAA assume). It would be very interesting to test this idea in a Varivorax adgB mutant. This question may be beyond the scope of this manuscript, but could be addressed in future studies.
+
+5. The question about pH and entry of IAA into bacteria cells arose when I was considering the experiment shown in Fig. 6 (ecotpic expression of adg genes in E. coli). Presumably these experiments were done in pH7 media, but it would be helpful to confirm that the LB used in the IAA degradation assays was at pH 7 .
+
+6. A control is missing for the experiment shown in Fig. 4 B. How can we ensure that the colormetric change does not occur spontaneously given enough time? A "no enzyme added" negative control is needed. Also, what is the time frame shown for the panel on the right, compared to the graph on the left?
+
+7. More information regarding what is shown on the y axes in fig. 4 would be helpful.
+
+Editorial comments
+
+Introduction:
+
+1. I believe the PAA, a natural and active form of auxin, is more abundant than IAA in many plants.
+
+2. Is reference 9 the appropriate citation for the general statement that "most rhizobacteria are found capable of producing IAA"? Referencing a review article would be more suitable.
+
+8. An IAA degradation locus referred to as iad has been recently described (Conway et al, 2022 Nature Microbiology). Are the adg genes here distinct from that locus?
+
+9. Is it appropriate to refer to conversion of IAA to oxIAA as degradation? I believe the term "inactivation" might be more appropriately used throughout the manuscript, until the discussion section, when a larger picture is provided.
+
+10. Figure 5 legend:
+
+a. panel A- it would be helpful to indicate the color of the traces for before and after the transformation
+
+b. Panel c: what concentration of compounds are used in the experiment shown?
+
+Results
+
+11. Page 4, line the term "predicted" should be used when referring to products of genes that have not been characterized yet. The adg operon IS PREDICTED to encode….
+
+Methods:
+
+12. The Genbank accession numbers should be provided so that readers can analyze the genes/proteins
+
+Reviewer #3: This study builds on an earlier report by Finkel et al., 2020, which defined an auxin (IAA) degradation locus in the bacterium Variovorax paradoxus. Here the authors define (1) the structure and auxin binding mechanism for the ABC transporter solute binding protein AdgB and (2) a structure of an AdgH/AdgI non-heme Rieske dioxygenase complex. The authors further demonstrate that AdgH/I/J can catalyze IAA degradation to oxIAA. Overall, this is a well designed/executed study that combines quantitative biochemistry, structural biology and enzymology to characterize a novel bacterial IAA degradation pathway. The crystal and cryoEM structure show good sterochemistry and refinement statistics. As a non-expert in this field, I had however some difficulties to compare this work to earlier studies. In addition, there are some minor technical issues worth considering. I will summarize my points below:
+
+1. MAJOR: A recent study by Conway et al, 2022 (
+
+2. MAJOR: I understand that iadB/adgB is the bacterial ABC transporter enabling IAA uptake into the cytoplasm of Variovorax. Assuming that all other degradation enzymes are present in the cytoplasm, does that mean that adgB is essential for both the iadC/D/E and the adgH/I/J pathways? Has this been experimentally tested, for example by genetic epistasis analysis?
+
+3. MINOR: As anticipated, AdgB could engage IAA with nanomolar affinity, whereas no obvious binding was detected for AdgA and IAA. Why was it anticipated that AdgA would not bind IAA? This could be discussed later in the text, when the authors compare the degree of conservation of the putative IAA binding pocket in both proteins.
+
+4. MAJOR: Fig. 1C, can the authors rationalize the bimodal binding behavior for recombinant AdgB in the ITC assay? The structure seems to indicate a single IAA binding site?
+
+5. MAJOR: Conway et al, 2022 et al reported iad/C/D/E to form an IAA degradation complex. Have these proteins been tested in the ITC assays shown in Supplementary Fig. 1, and if so, why was no binding detected? It seems that MarR domains, that show high affinity IAA binding (Kd ~0.3 uM) (Conway et al. 2022) were excluded from the analysis in Fig. S1? This should be mentioned in the figure legend.
+
+6. MAJOR: In the Figure 5, the authors nicely demonstrate that AdgH/I/J can catalyze IAA oxidation. Can these data be integrated with the metabolic analysis by Conway et al, 2022, Fig. 4? Could this imply that iadCDE and adgHIJ are part of one degradation pathway, and that adgHIJ may use 2-hydroxy-indole-3-acetic acid or dioxindole-3-acetic acid (DOAA) as substrates in vivo? Please clarify.
+
+7. MINOR: Figure 5a/Figure S7. Could the HPLC buffer system or column be optimized to obtain a sharper peak for IAA?
+
+8. MAJOR: Fig. 5. I would recommend to determine rate constants for the different substrates.
+
+9. MINOR: Fig. 6D may need to be revised depending on the outcome of the analysis on point 6 (see above)
+
+10. MINOR: Introduction: "Elucidating the underlying mechanism of bacterial IAA degradation would help to maximize the beneficial effects of auxin degradation for ecological agriculture." How would that be achieved?
+
+11. MINOR: Introduction: "Dissecting and defining the functional mechanism of the adg operon is therefore of significant importance for the applications in ecological and stress agricultures." What type of application exist that make use of bacterial IAA degradation, please specify.
+
+*COMMENTS FROM THE ACADEMIC EDITOR*
+
+I agree with the reviewers that the lack of comparison the Conway is a major weakness and it isn’t clear where the “adg” nomenclature/operon (instead “iac” in the Finkle 2020 paper and iac/iad in the Conway 2022 paper) came from. Similarly, the operon structures in Conway seems a bit different than in this paper so I’m wondering if these are distinct operons. However, if that’s the case, then the authors of this paper should clearly state how they decided to study the adg operon and it’s demonstrated role in auxin degradation (and if it is different from or the same as iac or iad).
+
+Futhermore, the IAA degradation reactions described are different. The Conway paper describes that the iac operon breaks down IAA through DOAA to catechol while the iad locus converts IAA to anthranilic acid. In this paper, they describe oxIAA as the next step in degradation by the adg degrading operon. Either Ma et al. are describing the same operon but found a different reaction and degradation product or they’re describing a distinct operon suggesting 3 Variovorax degrading pathways. Importantly, I couldn’t find the species or strain listed anywhere in the materials and methods so it’s not clear if this is the same strain. This definitely needs to be clarified and either outcome (two mechanisms, or inconsistency with previous papers) should be clarified.
+
+
+
+Submitted filename:
+
+Click here for additional data file.
+
+
+
+Dear Dr Yu,
+
+Thank you for your patience while we considered your revised manuscript "Molecular Mechanism for Bacterial Degradation of Plant Hormone Auxin" for publication as a Research Article at PLOS Biology. This revised version of your manuscript has been evaluated by the PLOS Biology editors and the Academic Editor.
+
+Based on our Academic Editor's assessment of your revision, I am pleased to say that we are likely to accept this manuscript for publication, provided you satisfactorily address the following data and other policy-related requests that I have provided below (A-F):
+
+(A) We would like to suggest the following modification to the title:
+
+“Structural and biochemical characterization of the key components of an auxin-degradation operon from the rhizosphere bacterium Variovorax”
+
+(B) You may be aware of the PLOS Data Policy, which requires that all data be made available without restriction:
+
+Note that we do not require all raw data. Rather, we ask that all individual quantitative observations that underlie the data summarized in the figures and results of your paper be made available in one of the following forms:
+
+- Supplementary files (e.g., excel). Please ensure that all data files are uploaded as 'Supporting Information' and are invariably referred to (in the manuscript, figure legends, and the Description field when uploading your files) using the following format verbatim: S1 Data, S2 Data, etc. Multiple panels of a single or even several figures can be included as multiple sheets in one excel file that is saved using exactly the following convention: S1_Data.xlsx (using an underscore).
+
+- Deposition in a publicly available repository. Please also provide the accession code or a reviewer link so that we may view your data before publication.
+
+Regardless of the method selected, please ensure that you provide the individual numerical values that underlie the summary data displayed in the following figure panels as they are essential for readers to assess your analysis and to reproduce it:
+
+Figure 1C-E, 2D-E, 3A, 3F, 4A-B, 4D, 4F, 5A-B, 6B-C, S1B-E, S2A-B, S3D, S4A, S8B, S11
+
+NOTE: the numerical data provided should include all replicates AND the way in which the plotted mean and errors were derived (it should not present only the mean/average values).
+
+(C) Thank you for depositing the structural data in the PDB (7YLT, 7YLS, 7YLR, 8H2T) and EMDB databases (EMD-34443). However, I note that the data is currently on hold. We ask that you please make this data publicly available before publication.
+
+(D) Please also ensure that each of the relevant figure legends in your manuscript include information on *WHERE THE UNDERLYING DATA CAN BE FOUND*, and ensure your supplemental data file/s has a legend.
+
+(E) We require the original, uncropped and minimally adjusted images supporting all blot and gel results reported in the following Figures:
+
+Figure S4B
+
+We will require these files before a manuscript can be accepted so please prepare and upload them now. Please carefully read our guidelines for how to prepare and upload this data:
+
+(F) Please ensure that your Data Statement in the submission system accurately describes where your data can be found and is in final format, as it will be published as written there. This includes referencing where the underlying data can be found in the Supplementary Information.
+
+-----------------------------------------
+
+As you address these items, please take this last chance to review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the cover letter that accompanies your revised manuscript.
+
+We expect to receive your revised manuscript within two weeks.
+
+To submit your revision, please go to
+
+- a cover letter that should detail your responses to any editorial requests, if applicable, and whether changes have been made to the reference list
+
+- a Response to Reviewers file that provides a detailed response to the reviewers' comments (if applicable)
+
+- a track-changes file indicating any changes that you have made to the manuscript.
+
+NOTE: If Supporting Information files are included with your article, note that these are not copyedited and will be published as they are submitted. Please ensure that these files are legible and of high quality (at least 300 dpi) in an easily accessible file format. For this reason, please be aware that any references listed in an SI file will not be indexed. For more information, see our Supporting Information guidelines:
+
+*Published Peer Review History*
+
+Please note that you may have the opportunity to make the peer review history publicly available. The record will include editor decision letters (with reviews) and your responses to reviewer comments. If eligible, we will contact you to opt in or out. Please see here for more details:
+
+
+
+*Press*
+
+Should you, your institution's press office or the journal office choose to press release your paper, please ensure you have opted out of Early Article Posting on the submission form. We ask that you notify us as soon as possible if you or your institution is planning to press release the article.
+
+*Protocols deposition*
+
+To enhance the reproducibility of your results, we recommend that if applicable you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option for publishing peer-reviewed Lab Protocol articles, which describe protocols hosted on protocols.io. Read more information on sharing protocols at
+
+Please do not hesitate to contact me should you have any questions.
+
+Kind regards,
+
+Richard
+
+Richard Hodge, PhD
+
+Associate Editor, PLOS Biology
+
+
+
+PLOS
+
+Empowering researchers to transform science
+
+Carlyle House, Carlyle Road, Cambridge, CB4 3DN, United Kingdom
+
+ORCiD I
+
+California (U.S.) corporation #C2354500, based in San Francisco
+
+
+
+Submitted filename:
+
+Click here for additional data file.
+
+
+
+Dear Dr Yu,
+
+On behalf of my colleagues and the Academic Editor, Cara Haney, I am pleased to say that we can accept your manuscript for publication, provided you address any remaining formatting and reporting issues. These will be detailed in an email you should receive within 2-3 business days from our colleagues in the journal operations team; no action is required from you until then. Please note that we will not be able to formally accept your manuscript and schedule it for publication until you have completed any requested changes.
+
+Please take a minute to log into Editorial Manager at
+
+PRESS
+
+We frequently collaborate with press offices. If your institution or institutions have a press office, please notify them about your upcoming paper at this point, to enable them to help maximise its impact. If the press office is planning to promote your findings, we would be grateful if they could coordinate with
+
+We also ask that you take this opportunity to read our Embargo Policy regarding the discussion, promotion and media coverage of work that is yet to be published by PLOS. As your manuscript is not yet published, it is bound by the conditions of our Embargo Policy. Please be aware that this policy is in place both to ensure that any press coverage of your article is fully substantiated and to provide a direct link between such coverage and the published work. For full details of our Embargo Policy, please visit
+
+Thank you again for choosing PLOS Biology for publication and supporting Open Access publishing. We look forward to publishing your study.
+
+Kind regards,
+
+Richard
+
+Richard Hodge, PhD
+
+Senior Editor, PLOS Biology
+
+
+
+PLOS
+
+Empowering researchers to transform science
+
+Carlyle House, Carlyle Road, Cambridge, CB4 3DN, United Kingdom
+
+ORCiD I
+
+California (U.S.) corporation #C2354500, based in San Francisco

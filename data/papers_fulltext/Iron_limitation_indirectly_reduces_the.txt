@@ -1,0 +1,89 @@
+Respiration is central to the metabolism of many microorganisms. However, there are many ecological niches in which the oxygen tension is low or oxygen is entirely absent. In the absence of oxygen, microbial life flourishes due to the ability of some microbes to grow by fermentation or by respiration via alternative electron acceptors. For example, trimethylamine-
+
+The
+
+The synthesis of Moco and bis-MGD is a well-understood process, which is divided into four main steps in prokaryotes (
+
+Many alternative respiratory molybdoenzyme systems employ the bis-MGD cofactor as the active site of substrate reduction, including nitrate reductases, DMSO reductases, and formate dehydrogenases (
+
+Model for the regulation of TMAO reductase in
+
+In the presence of oxygen,
+
+IscR is a [2Fe-2S] cluster containing transcription regulator that was shown to predominantly regulate the expression of the
+
+FNR activates the transcription of the
+
+In this report, we reinvestigated the regulation of
+
+Previously, the presence of 150 µM dipyridyl (2,2-DIP) in the medium was shown to downregulate the expression of almost all operons coding for molybdoenzymes, based on an inactive FNR under these conditions (
+
+Iron-dependent production of TorA and TorC. (A and B) Absolute quantification of TorC and TorA proteins by proteomics (
+
+Since the reduced abundance of TorC and TorA in the absence of iron parallels all other molybdoenzyme operon expressions that are regulated by FNR (
+
+Potential binding sites of FNR, ArcA-P, and TorR-P in the
+
+Another factor that is influenced by the absence of iron is heme. Heme is essential for the activity of TorC. In the absence of heme, apo-TorC negatively influences the phosphorylation of TorR and subsequently impedes the transcription of the
+
+Therefore, we analyzed the porphyrin content in strains Δ
+
+The production of
+
+Expression of a
+
+We reported previously that the abundance of ArcA is lowered in the presence of 150 µM 2,2-DIP (
+
+The influence of overexpression of
+
+The results above imply that the
+
+Moco-dependent expression of the
+
+Additionally, we investigated the activity of TorA (
+
+To determine whether the lack of Moco affecting the expression of the
+
+Since the bis-MGD-dependent expression seems to be specific for the
+
+Effect of promoter deletions on the expression of
+
+Herein, we identified a novel regulation of the
+
+While TorA functions as an alternative electron acceptor under anaerobic conditions, it has been assumed so far that
+
+In this report, we confirm that the regulation of the
+
+In this study, we investigated the regulation of the
+
+Herein, the novel regulation mode observed for
+
+Under anaerobic conditions, we identified an indirect effect on
+
+Unexpectedly, we identified a regulation of
+
+One explanation for the reduced expression of the
+
+BW25113 (referred to as parental strain) and the isogenic mutant strains Δ
+
+Bacteria were grown anaerobically in LB medium until the mid-log phase. After washing in 50 mM Tris-HCl, pH 8.0, cells were pelleted, resuspended in the previously mentioned buffer, and sonicated. A total of 100 µg of cell extract was mixed with 8 M Urea in 10 mM Tris-HCl, pH 8.0 and loaded on filter columns (Microcon-30 kDa Centrifugal Filter Unit with Ultracel-30 membrane). Columns were washed with 8 M urea in 10 mM Tris-HCl, pH 8.0, reduced using 10 mM DTT in 8 M Urea, and alkylated using 27 mM iodoacetamide in 10 mM Tris-HCl, pH 8.0. Afterward, columns were mixed at 600 rpm in a thermomixer for 1 min and incubated without mixing for further 5 min. A total of 8 M urea in 10 mM Tris-HCl, pH 8.0 was added to each column and centrifuged. After this step, 14-h digestion with trypsin was performed. Reactions were stopped by the addition of 10% trifluoro acetic acid (TFA). Peptides were purified on C18 SepPack columns (Teknokroma) and eluted with 800 µL of 60% acetonitrile (ACN) and 0.1% TFA, dried in the speed vacuum concentrator, and stored at −80°C prior to mass spectrometry analysis. Purified peptides were labeled with TMT10plex Isobaric Label Reagent Set (Thermo Fisher Scientific, USA) according to the manufacturer’s protocol with some modifications. Twenty-five micrograms of peptide mixture extracted from each sample was labeled with different isobaric tags. For labeling, 41 µL of different TMT Isobaric Label Reagents was added to 90 µL of each sample containing the purified peptides. Reaction mixtures were incubated for an hour followed by the addition of 9 µL of 1 M Tris-HCl, pH 8.0 to quench the labeling reaction and incubated for 15 min at RT. Thirty microliters of 10% TFA was added to the samples to acidify the solution. The labeled peptides were purified on C18 SepPack columns (Teknokroma) and eluted with 800 µL of 60% ACN and 0.1% TFA, dried in a speed vacuum concentrator, and stored at −80°C prior to mass spectrometry. Mass-spectrometry measurements were performed on a Q Exactive HF coupled to the ACQUITY UPLC M-Class System (Waters). A total of 5 µL of the samples was loaded onto an ACQUITY UPLC M-Class Peptide CSH column [75 µm inner diameter, 25 cm length, and 1.7 µm bead size (Waters)] at a flow rate of 0.4 µL min
+
+The promoter fragment of
+
+To study the regulation of the
+
+Cells were grown anaerobically in the presence of 20 mM TMAO or 20 mM KNO
+
+Fifty milliliters of bacterial cells was grown anaerobically in the presence of 20 mM TMAO and 0.1% glycerol. When cells reached the mid-log phase (4 h), cells were pelleted and resuspended in 15 mL of 100 mM phosphate buffer, pH 6.5 (100 mM K
+
+Bacteria were grown anaerobically at 37°C with 20 mM TMAO and 0.1% glycerol until the cultures reached the mid-log phase, followed by centrifugation, and sonicated in 100 mM Tris-HCl, pH 7.2. Moco was quantified by adding 50 µL of solution A (1,063 µL of KI solution and 100 µL of 37% HCl; KI solution was prepared by dissolving 1 g of I
+
+For overexpression of the ArcA, 1 L LB medium containing
+
+For overexpression of the TorR, 100 mL of LB medium containing
+
+For the overexpression of FNR protein, 2 L of LB-tryptone media containing
+
+The porphyrin quantification method was adapted as previously described with some modifications (
+
+proFIRE system facilitates the purification of pure homogenous protein-DNA conjugates, using an equilibration buffer (50 mM Na

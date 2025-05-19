@@ -1,0 +1,11 @@
+{
+  "id": "39380487",
+  "title": "Visualization of Type IV-A1 CRISPR-mediated repression of gene expression and plasmid replication.",
+  "doi": null,
+  "authors": "Sanchez-Londono M, Rust S, Hernández-Tamayo R, Gomes-Filho JV, Thanbichler M, Randau L",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Type IV CRISPR-Cas (clustered regularly interspaced short palindromic repeats and CRISPR-associated proteins) effector complexes are often encoded on plasmids and are proposed to prevent the replication of competing plasmids. The Type IV-A1 CRISPR-Cas system of Pseudomonas oleovorans additionally harbors a CRISPR RNA (crRNA) that tightly regulates the transcript levels of a chromosomal target and represents a natural CRISPR interference (CRISPRi) tool. This study investigates CRISPRi effects of this system using synthetic crRNAs against genome and plasmid sequences. Targeting of reporter genes revealed extended interference in P. oleovorans and Escherichia coli cells producing recombinant CRISPR ribonucleoprotein (crRNP) complexes. RNA sequencing (RNA-seq) analyses of Type IV-A1 CRISPRi-induced transcriptome alterations demonstrated highly effective long-range downregulation of histidine operon expression, whereas CRISPRi effects of dCas9 remained limited to the vicinity of its binding site. Single-molecule microscopy uncovered the localization dynamics of crRNP complexes. The tracks of fluorescently labeled crRNPs co-localized with regions of increased plasmid replication, supporting efficient plasmid targeting. These results identify mechanistic principles that facilitate the application of Type IV-A1 CRISPRi for the regulation of gene expression and plasmid replication.",
+  "source": "PubMed",
+  "pmcid": "PMC11551745"
+}

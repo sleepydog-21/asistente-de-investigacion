@@ -1,0 +1,11 @@
+{
+  "id": "37351576",
+  "title": "RNA polymerase redistribution supports growth in E. coli strains with a minimal number of rRNA operons.",
+  "doi": null,
+  "authors": "Fan J, El Sayyed H, Pambos OJ, Stracy M, Kyropoulos J, Kapanidis AN",
+  "journal": "Nucleic acids research",
+  "year": "2023",
+  "abstract": "Bacterial transcription by RNA polymerase (RNAP) is spatially organized. RNAPs transcribing highly expressed genes locate in the nucleoid periphery, and form clusters in rich medium, with several studies linking RNAP clustering and transcription of rRNA (rrn). However, the nature of RNAP clusters and their association with rrn transcription remains unclear. Here we address these questions by using single-molecule tracking to monitor the subcellular distribution of mobile and immobile RNAP in strains with a heavily reduced number of chromosomal rrn operons (Δrrn strains). Strikingly, we find that the fraction of chromosome-associated RNAP (which is mainly engaged in transcription) is robust to deleting five or six of the seven chromosomal rrn operons. Spatial analysis in Δrrn strains showed substantial RNAP redistribution during moderate growth, with clustering increasing at cell endcaps, where the remaining rrn operons reside. These results support a model where RNAPs in Δrrn strains relocate to copies of the remaining rrn operons. In rich medium, Δrrn strains redistribute RNAP to minimize growth defects due to rrn deletions, with very high RNAP densities on rrn genes leading to genomic instability. Our study links RNAP clusters and rrn transcription, and offers insight into how bacteria maintain growth in the presence of only 1-2 rrn operons.",
+  "source": "PubMed",
+  "pmcid": "PMC10450203"
+}

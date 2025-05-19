@@ -1,0 +1,73 @@
+The human gut comprises a complex interplay of microorganisms, metabolites and enzymes, where dysbiosis (disruption in the healthy state of the microbiota) is linked to a multitude of health problems [
+
+Bacterial microcompartments (BMCs) encapsulate enzymatic pathways in self-assembling protein shells, and can be found across 23 bacterial phyla, expanding their metabolic potential [
+
+For example, in
+
+This study focuses on the
+
+While the
+
+This study demonstrates the utilisation of EA as a sole energy source in the human gut commensal EcN through the expression and utilisation of the
+
+The capacity of EcN to catabolise EA as the sole carbon source to support cell growth was explored through growth assays under either glucose or EA and vitamin B
+
+Increased growth in EcN when supplemented with both EA and vitamin B
+
+Growth tests supplementing the minimal media with EA, vitamin B
+
+The Gompertz model (
+
+Next, we explored whether BMC structures could be observed directly using transmission electron microscopy (TEM). BMC structures were observed in EcN when supplemented with EA and vitamin B
+
+To further verify the structures observed in the TEM micrographs, qPCR with 3 key
+
+Interestingly, the effect of the prophage insertion in the
+
+Flux balance analysis (FBA) can be a powerful tool for the exploration and understanding of flux dynamics occurring within a cell given a set of constraints (
+
+For FBA in EcN we used a modified version of the iHM1533 model [
+
+Within this study we used FBA models to search for metabolites that would be secreted only if the
+
+When tested experimentally, it was found that EcN does indeed secrete more net ammonium when utilising the
+
+In order to explore the potential applications of BMCs within microbial engineering, the expression of the operon needs to be controllable to optimise the formation of the microcompartment and the utilisation of the alternative metabolic pathway it contains. In
+
+Here we demonstrate that EcN shows increased growth when grown in minimal media supplemented with both EA and vitamin B
+
+In context of
+
+The FBA was used to compare genome-scale models to predict metabolite uptake and secretion to identify any potential cross-feeding or interaction dynamics that could be exploited for synthetic community design. When the models were updated based on the experimental findings of this study, the FBA was utilised to generate hypotheses regarding metabolite secretion into culture media which were then tested experimentally. Through this method, it was found that EcN secretes increased levels of
+
+As FBA does not capture biological dynamics, such as nutrient sensing mechanisms or promoter induction, the results need to be contextualised given literature and experimental findings to interpret them correctly. Additionally, the directive of FBA is to optimise the flux given a set objective function, where this may not accurately capture the true biological mechanisms. For example, the direction of flux through the
+
+This study extends the previous work of this field in characterising the role of BMC-mediated EA utilisation as a carbon source in the absence of glucose in a common gut commensal,
+
+All strains used within this study are listed in
+
+Overnight cultures of BW25113 and EcN were grown at 37°C with shaking (200 rpm) from single colonies picked from LB agar plates, in 5 mL of supplemented M9 minimal media (1X M9 Salts (Difco, UK), 0.2% casamino acids (v/v), 2 mM MgSO
+
+The ability of the strains to grow with EA as a sole carbon source was tested on minimal media supplemented with 150 nmol 100% cyanocobalamin as vitamin B
+
+The overnight cultures were diluted to OD
+
+Additional growth assays were completed using spectrophotometer (Thermo Scientific Multiskan GO) measurements of the absorbance at 700 nm every 2 hours for 6 hours. The overnight cultures were diluted to OD
+
+Gompertz model [
+
+After growth (as described above) of 10 mL of each culture was pelleted by centrifugation. The pellet was fixed in 2 mL of 2.5% glutaraldehyde diluted in 100 mM sodium cacodylate, pH 7.2 for 2 hrs with gentle rotation. The bacteria were washed twice with 100 mM sodium cacodylate for 10 mins each. The bacteria were then stained for 2 hrs in 1 mL 1% (w/v) osmium tetroxide diluted in 100 mM sodium cacodylate. The pellets were washed four times with 100 mM sodium cacodylate for 5 mins each. The pellets were dehydrated through an ethanol (EtOH) gradient as follows: 50% (v/v) EtOH for 15 min, 70% EtOH overnight, 90% EtOH for 15 min, and 100% EtOH for 15 min four times. The pellets were then washed twice in propylene oxide for 15 min. The pellets were embedded in 1 mL propylene oxide-low-viscosity (LV) resin (1:1) for 30 min, followed by incubation in fresh LV resin twice for 90 min each. The pellets were resuspended in 1 mL LV resin and transferred too a conical-bottom tube, and then following centrifugation were left to polymerise at 60°C overnight.
+
+Samples were ultra-thin sectioned on an RMC MT-XL ultra-microtome with a diamond knife (diatome 45°) sections (60-70 nm) were collected on un-coated 300 mesh copper grids. Grids were stained by incubation in 4.5% uranyl acetate in 1% acetic acid solution for 45 minutes followed by washing in a stream of dH
+
+Electron microscopy was performed using a JEOL-1230 transmission electron microscope equipped with a Gatan multiscan digital camera operated at an accelerating voltage of 80 kV.
+
+The overnight cultures including either EA (+ B
+
+Total RNA from 16 hour growth cultures (as described above) was extracted using the Qiagen RNeasy Plus kit (Qiagen, Chatsworth, CA). RNA was treated with DNaseI (amplification grade; Invitrogen) to remove any remaining trace amounts of DNA. cDNA was generated with 450 ng of RNA by use of the Qiagen Whole Transcriptome Amplification Kit as described by the manufacturer. Primers for qPCR can be found in
+
+Flux balance analysis was completed on a MacBook Pro A2338 in both MATLAB using the COBRA Toolbox [
+
+FBA code repository can be found at
+
+Where appropriate, statistical analysis was completed in R to determine the significance of observed differences using a two-tailed unpaired T-tests with a significance level of 0.05.

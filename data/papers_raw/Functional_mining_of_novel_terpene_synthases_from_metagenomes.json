@@ -1,0 +1,11 @@
+{
+  "id": "36209178",
+  "title": "Functional mining of novel terpene synthases from metagenomes.",
+  "doi": null,
+  "authors": "Kwak S, Crook N, Yoneda A, Ahn N, Ning J, Cheng J, Dantas G",
+  "journal": "Biotechnology for biofuels and bioproducts",
+  "year": "2022",
+  "abstract": "Terpenes are one of the most diverse and abundant classes of natural biomolecules, collectively enabling a variety of therapeutic, energy, and cosmetic applications. Recent genomics investigations have predicted a large untapped reservoir of bacterial terpene synthases residing in the genomes of uncultivated organisms living in the soil, indicating a vast array of putative terpenoids waiting to be discovered. We aimed to develop a high-throughput functional metagenomic screening system for identifying novel terpene synthases from bacterial metagenomes by relieving the toxicity of terpene biosynthesis precursors to the Escherichia coli host. The precursor toxicity was achieved using an inducible operon encoding the prenyl pyrophosphate synthetic pathway and supplementation of the mevalonate precursor. Host strain and screening procedures were finely optimized to minimize false positives arising from spontaneous mutations, which avoid the precursor toxicity. Our functional metagenomic screening of human fecal metagenomes yielded a novel β-farnesene synthase, which does not show amino acid sequence similarity to known β-farnesene synthases. Engineered S. cerevisiae expressing the screened β-farnesene synthase produced 120 mg/L β-farnesene from glucose (2.86 mg/g glucose) with a productivity of 0.721 g/L∙h. A unique functional metagenomic screening procedure was established for screening terpene synthases from metagenomic libraries. This research proves the potential of functional metagenomics as a sequence-independent avenue for isolating targeted enzymes from uncultivated organisms in various environmental habitats.",
+  "source": "PubMed",
+  "pmcid": "PMC9548185"
+}

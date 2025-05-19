@@ -1,0 +1,49 @@
+The ubiquitous transcription elongation factors GreA and GreB, henceforth jointly named Gre factors, small cytoplasmic proteins of <20 kDa, have been extensively studied in
+
+In
+
+The putative widespread role of Gre factors on transcription elongation and its previously described key role in fundamental regulatory pathways for both
+
+The
+
+Chromosomal
+
+Mutant alleles were transduced into a novel strain background by phage P22 HT/int4 [
+
+The 5′UTR of
+
+For biofilm on glass, qualitative assays were performed as described [
+
+Cultures were grown on LB
+
+Qualitative assessment of bacterial cellulose production was determined on LB
+
+The rdar morphotype was judged visually on Congo red agar plates (LB
+
+Immunodetection of CsgD was performed as described [
+
+RNA was isolated from cultures grown on LB
+
+Differences between average values were tested for significance by performing an unpaired two-sided Student’s test. The levels of significance of the resulting
+
+The production of the two extracellular appendages, curli and cellulose, which are promoting cell–cell, cell–interface and cell–surface interactions in
+
+Notably, the Gre-mediated control of curli and cellulose expression was further confirmed by successful restoration of the rdar morphotype in a ∆
+
+In
+
+In order to determine if the Gre factors are required for
+
+These results also clearly indicate that the 5′-UTR is required for Gre-mediated stimulation of
+
+These data indicate that the 5′-UTR of the
+
+Gre factors promote transcription elongation by resolving backtracking of paused transcription complexes [
+
+Rdar and alternative modes of biofilm formation are delicately regulated. The switch between planktonic and sessile (biofilm) cells denotes not only a radical change in the single cell versus population behavior, but also in the physiology and metabolism of the organism. In
+
+In this report, we describe the Gre factors as new players in the array of regulators affecting
+
+In a previous report, we described in
+
+Long 5′UTR are regulatory motifs often involved in post-transcriptional regulation by very diverse mechanisms and targets for regulation at the level of transcription elongation [

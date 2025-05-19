@@ -1,0 +1,127 @@
+A phylogenetic analysis of ribosomal DNA (rDNA) revealed three domains of life, Bacteria, Archaea, and Eucarya (
+
+The RNA world theory has been repeatedly denied, mainly due to the second law of thermodynamics [
+
+Based on the foundation of the original AHV theory [
+
+Previously, we proposed a hypothesis to explain the origin of the genetic code and translation system (
+
+In this study, we theoretically examined crystallization processes from the LUCA to extant cells. We hypothesize that crystallization was mainly driven by two physical laws (the second law of thermodynamics [
+
+Crystallization of bacteria and archaea. (
+
+Briefly, the possible crystallization process in the origin of bacteria, archaea, viruses, and mobile elements is mainly divided into the following seven stages: (stage 1) from the progenote to the LUCA; (stage 2) the end of the LUCA; (stage 3) enlargement of the DNA genome associated with the “DNA replication divide” and overcoming Eigen’s error catastrophe; (stage 4) formation of coacervate, leading to proto-cells with permeable membranes; (stage 5) evolution of membrane proteins on permeable membranes and the beginning of “Omnis cellula a cellula”; (stage 6) the end of proto-cells with permeable membranes and the beginning of non-free-living cells with non-permeable membranes; and (stage 7) crystallization (emergence of free-living cells with cell walls and co-emergence of viruses and mobile elements).
+
+Based on referenced materials, the current article was developed by outlining the logical sequence in which various biochemical pathways present in existing cells would have emerged as the earliest cells on Earth.
+
+The progenote might have consisted of RNA (
+
+We have previously predicted that a pool of hundreds of single operons associated with both the translation system and extant standard genetic code existed before cells (
+
+We predict that primitive RT can efficiently utilize NTPs as well as dNTPs. Primitive reverse transcriptase, a derivative of RNA-dependent RNA polymerase, could polymerize the DNA/RNA-mixed antisense molecule (
+
+Among mixtures of dNTP and NTP, both template and substrate specificities could increase gradually in primitive RT (B) and primitive DdRP (C) by the driving force (D). Furthermore, an unknown mechanism could selectively supply corresponding substrates for primitive RT and primitive DdRP (
+
+RNA digestion of RNA/DNA duplexes by RNase H, an essential component of the retrovirus life cycle [
+
+Purified
+
+Since sense and antisense ssDNAs in duplex DNA share the same physical properties, specific RNA synthesis on antisense DNA, as a template, required promoter sequences. Indeed, extant T7 RNA polymerase (PolB) and bacterial/archaeal RNA polymerase (PolD) cannot discriminate sense or antisense strands of duplex DNA without promoters (
+
+TFIIB may have been the primary promoter recognition protein in the ancient world (
+
+The LUCA—garden of Baltimore. (
+
+Duplex DNA (up to 30 kbp) could be replicated as follows (
+
+Nucleic acids (1)–(7) in
+
+The existence of the Ediacaran biome prior to the Cambrian explosion is indicated by fossils found on Earth. It is presumed that the Ediacaran biome fed on mats composed of microorganisms and is therefore called the garden of Ediacaran due to the lack of predators. We propose that a world consisting of a single population of operons (with the genome configuration defined by Baltimore) before the onset of genome gigantism be compared to the garden of Ediacaran and called the garden of Baltimore. The garden of Baltimore is considered identical to the LUCA.
+
+Crystallization starts from a seed crystal, which is a small piece of a single crystal. If each single operon-type DNA genome in the LUCA (stage 1) corresponds to a seed crystal, enlargement of crystals will require multiple fusions of single-operon-type DNA genomes. Homologous recombination is a key invention to end the LUCA era. Crossing over-mediated homologous recombination helps two operons to fuse. This means that homologous recombination can quickly create larger and more complex genomic structures, leading to the beginning of genetic linkage (
+
+The balance among single operons encoding various products (
+
+In addition to its repair function, extant HR accelerates a variety of genomic rearrangements, including duplications (
+
+Although the
+
+Since each operon represents a different biochemistry (different phenotype), different phenotypes are in linkage due to the linear arrangement of operons, as in the fly chromosome (
+
+Genes associated with different phenotypes could be genetically linked (
+
+The integration of DNA fragments into the genome by HGT under different transcription initiation systems and subsequent mutations in promoter regions was an important process. As shown in
+
+Unlike crystallization of materials, enlargement of DNA genomes corresponding to enlargement of crystals should occur under the physical law of Eigen’s error catastrophe theory [
+
+The replication of large DNA molecules took more time than that required for the replication of small DNA. Accordingly, Mullis-type DNA replication (i.e., the simultaneous replication of both strands) emerged (
+
+Resolving topological issues enabled independent origins of dnaB helicase and MCM helicase in each genome (
+
+High-speed replication fork opening and leading-strand synthesis provided space for lagging-strand synthesis, triggering a two-fold increase in the total replication speed. Under the same driving force, dnaG primase in the σ genome and PriS/PriL primase in the TBP genome could have arisen independently (
+
+The coordination of leading- and lagging-strand synthesis (
+
+According to Eigen’s error catastrophe theory (
+
+Although
+
+Cytosine often changes into uracil via deamination, leading to mutations during subsequent DNA replication [
+
+Hanawalt’s group first proposed transcription-coupled repair [
+
+After the evolution of DNA replication (
+
+Enlarged DNA genomes could become new seed crystals (
+
+Giant viruses with a 1259 kb genome are not free-living yet are highly active within host cells (
+
+The reconstructed metabolism of the LUCA is quite similar to that of extant cells [
+
+The lipid divide between Bacteria (σ genome) and Archaea (TBP genome) [
+
+Simultaneously and independently, a phase transition could happen in both σ and TBP incomplete genomes, leading to the development of a permeable membrane (
+
+Membrane proteins, which help to support biochemistry inside compartments, could emerge under the second law of thermodynamics and Darwinian selection (
+
+The coevolution of the membrane and membrane-bound proteins was proposed [
+
+Protons and electrons are supplied to the chambers of extant alkaline vents (
+
+In research of prebiotic proto-cells, a vesicle self-reproduction process has been proposed [
+
+Coordination among DNA replication/segregation, membrane growth, anchoring DNA to the membrane, and cytokinesis could establish primitive proto-cell division (
+
+Although large crystals made from materials can be cracked into two pieces, two large crystals never fuse. Unlike crystals made from materials, proto-cells (intermediate crystal [stage 5] compared with the first seed crystal [stage 2]) could fuse and split due to the physical nature of DNA and lipids and the biological requirement (Darwinian selection) (
+
+Gould proposed the concept of punctuated equilibrium based on fossil data [
+
+Considering that free-living cells derived from giant viruses did not arise for 2 billion years (
+
+Primitive living cells could develop active transporters using ATP created by ATPase (
+
+The final crystallization processes could simultaneously produce bacteria, archaea, viruses, and mobile elements in the original AHV (
+
+To prevent the entry of enveloped viruses into primitive cells (
+
+Crystallization of systems in bacteria, archaea, viruses, and mobile elements. (
+
+By contrast, primitive cells (
+
+Genes encoding the postulated ESCRT-mediated membrane–vesicle transport system (
+
+Free-living bacteria and archaea at the original vent would lead to the mass extinction of intermediates (
+
+Plasmids encoding RCRE (PolB) or AEP (PolB) and mobile elements encoding RT (PolB) (
+
+When bacteria and archaea with their viruses migrated from the original vent to the ocean, cells with viruses occupied all alkaline vents on the planet. Although intermediates described in
+
+According to Darwin’s statement, “At the present day such matter (Events in
+
+Although viruses are believed to be parasites of host cells (
+
+Key innovations for evolution from the progenote to free-living cells with viruses (
+
+Some evolutionary steps described in
+
+Finally, although the progenote (

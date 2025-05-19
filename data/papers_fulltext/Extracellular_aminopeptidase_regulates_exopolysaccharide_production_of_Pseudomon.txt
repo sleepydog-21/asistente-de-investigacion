@@ -1,0 +1,77 @@
+In natural environments, bacteria predominantly exist within biofilms, wherein bacterial cells are encased in a self-secreted extracellular matrix. The biofilm matrix typically comprises extracellular proteins, exopolysaccharides, and extracellular DNA (eDNA), which collectively maintain the structural integrity of the biofilm and facilitate bacterial survival under harsh environmental conditions [
+
+Aminopeptidase is classified as an exopeptidase that catalyzes the hydrolysis of the peptide or protein substrates from the N-terminus and releases free amino acids [
+
+PaAP expression is regulated by the stress response sigma factor RpoS and the quorum-sensing (QS) system [
+
+PaAP has been reported to limit the early biofilm formation of
+
+Psl is critical for the initial attachment of
+
+In this study, we have demonstrated how PaAP regulates the attachment and the production of the exopolysaccharide Psl in
+
+Bacterial strains and plasmids used in this work were listed in
+
+Strains and plasmids used in this study.
+
+Rapid attachment assays were performed as previously described with modifications [
+
+The PaAP catalytic activity was determined as previously described [
+
+
+
+β-Galactosidase activity was determined as previously described [
+
+Bacteria were grown approximately to an OD
+
+Exopolysaccharide Psl extracts were collected from 10 OD
+
+To detect PaAP in EPS, the WFPA801 and WFPA800 strains were cultured on cellophane covered LBNS agar plates with 1% arabinose for 24 h, and then the EPS of WFPA801 and WFPA800 were obtained through treatment with DNase I and RNase as previously described [
+
+To detect FLAG-tagged AlgC, approximately 10 OD bacteria were dissolved in SDS-PAGE loading buffer and detected using anti-FLAG antibody (1:5000) (Abmart, Shanghai, China).
+
+Plasmid pCdrA::
+
+The overnight culture of the Δ
+
+To investigate whether Psl also interacts with extracellular proteins present in the biofilm matrix of
+
+PaAP is associated with the Psl exopolysaccharide, and loss of PaAP enhanced initial attachment by increasing Psl production in
+
+The Δ
+
+To further investigate whether the aminopeptidase catalytic activity of PaAP is necessary for modulating Psl production, we assessed the ability of the PaAP
+
+An active extracellular PaAP is required to inhibit Psl production. (A) The Psl production of Δ
+
+To investigate how PaAP affects the production of Psl, we examined the transcription of the
+
+Deletion of PaAP induces the transcription of the
+
+We then examined the transcription levels of four known Psl regulators, RpoS, AmrZ, RsmA, and LasR in the Δ
+
+As we observed a significant difference in Psl production between the Δ
+
+PaAP limits Psl production by inhibiting transcription of
+
+Expressing LasI in PAO1 also increased Psl production, similar to that observed in the Δ
+
+We then investigated how extracellular PaAP can regulate the transcription of the
+
+Short peptides rich in leucine and isoleucine in the supernatant and their corresponding coding gene loci.
+
+PaAP inhibits the transcription of
+
+Previous studies have reported that PaAP is secreted out of the bacterial cells as an inactive form, and cleavage at its C-terminus can activate its peptidase activity [
+
+Taken together, the data in this study indicate that the LasI-activated extracellular aminopeptidase PaAP has the ability to feedback regulate its own expression by inhibiting
+
+PaAP regulates the production of Psl exopolysaccharides through a feedback regulation on QS system. PaAP associates with Psl exopolysaccharides extracellularly to make sure that PaAP functions as a nutrient recycler in a zone close to Psl-producing cells. PaAP regulates the production of Psl in a QS-dependent manner during biofilm development. At the early stage of biofilm development where cell density is low, PaAP is expressed at a low level. Bacteria are able to produce Psl and attach to surfaces or to each other to start a biofilm. As biofilm matures, cell density is high and QS signaling molecules are accumulated. Both PaAP and Psl are highly expressed. However, PaAP limits QS signaling via short peptides cleaved from pro-PaAP and subsequently repressed
+
+Both extracellular proteins and exopolysaccharides are major components of the bacterial biofilm matrix. However, little is known about whether and how these components interact. PaAP is one of the most abundant proteins in the matrix of
+
+We previously reported that Psl is anchored to the bacterial surface and also forms a fiber-like matrix that enmeshes bacteria within a biofilm [
+
+As a key component of biofilm scaffolding, Psl plays a crucial role in determining the biofilm formation ability of
+
+We have further demonstrated that the control of Psl exopolysaccharides by PaAP is mediated through QS signaling molecule, LasI. The expression of PaAP is known to be induced by LasI/LasR system. Here, we discover that extracellular PaAP exhibits feedback regulation on the transcription of

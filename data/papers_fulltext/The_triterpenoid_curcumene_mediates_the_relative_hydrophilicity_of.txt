@@ -1,0 +1,87 @@
+The resistance at conditions that would be lethal for vegetative cells is mainly due to the peculiar structure of the spore. The spore cytoplasm (core) is characterized by a low water content and is surrounded by various protective layers, a peptidoglycan-like cortex, a multilayered coat, and the outermost crust (
+
+Previous studies have shown that mutant strains lacking the
+
+In this context, we show that when the carbohydrates synthesized by the SpsA-L enzymes are not produced, hydrophobic molecules are exposed on the surface of the mutant spore, which, as a consequence, become hydrophobic and form aggregates in aqueous environments. The triterpenoid curcumene (
+
+A previous report showed that mutant spores lacking the SpsA-L proteins are strongly impaired in their germination efficiency (
+
+Evaluation of
+
+It has been previously reported that
+
+The hydrophobicity of
+
+The effect of MeOH on wild-type and
+
+A possible explanation of the results of
+
+Effect of ultrasonication treatment on
+
+The conclusion that hydrophobic molecules were released from the spore following sonication was further confirmed by staining
+
+Fluorescence detection before and after ultrasonication treatment. Fluorescence microscopy analysis of mutant spores
+
+Taken together, the results of
+
+To identify the hydrophobic molecule responsible for the hydrophobic interactions between
+
+Detection of molecules responsible for the hydrophobicity of
+
+Tetraprenyl curcumene is responsible for
+
+Aggregation tendency of wild-type and mutant spores
+
+"+" and "–" indicate that clumps were or were not formed, respectively.
+
+Wild-type and mutant spores were stained with bodipy (
+
+Fluorescence detection. (A) Fluorescence microscopy analysis of wild-type and mutant spores. Spores (1.5 ± 0.1 × 10
+
+Tetraprenyl curcumene, present in wild-type spores (
+
+To evaluate the role of tetraprenyl curcumene in mediating the hydrophobicity of mutant spores lacking the crust proteins CotVWXYZ or CgeA, null mutations in genes coding for the tetraprenyl curcumene biosynthetic enzyme YtpB and the cyclase SqhC (
+
+Tetraprenyl curcumene is responsible for
+
+Results of
+
+At least four sporulation gene clusters,
+
+Tetraprenyl curcumene is synthesized by YtpB, a tetraprenyl curcumene synthase, whose structural gene is part of the
+
+It has been previously shown that spores of mutant strains lacking the
+
+Working model. Schematic representation of the spore surface organization of wild-type and mutant spores. The crust is indicated in yellow, the outer coat in light blue, the inner coat in light gray, the
+
+Bacterial strains used in this study are listed in Table S1. To obtain null mutations in the
+
+Chromosomal DNA of
+
+Sporulation was induced in the Difco sporulation (DS) medium by the exhaustion method (
+
+Spore resistance was tested as previously reported by (
+
+For heat resistance, heat-treated (80°C for 10 min) and untreated spores were serially diluted in PBS 1× buffer and plated on TY agar. For ultraviolet (UV) light resistance, spores were suspended in a sterile glass 10 cm diameter petri dish and irradiated with a UV lamp (700 erg/mm
+
+Mutant spores (1.5 ± 0.1 × 10
+
+In the clumping assay, spores (1.5 ± 0.1 × 10
+
+For the BATH assay (
+
+Also, in this case, after treatment with MeOH and ultrasonication, the spores were suspended in water, and the assay was performed as reported above. Three independent experiments replicated trice, which were performed with spores prepared independently.
+
+Lipid extraction from spores for GC-MS analysis was performed following the Folch method with some modifications (
+
+The composition and content of bound and free fatty acids in the samples (200 µL lipid extract evaporated into dryness) were determined after transesterification with 500 µL of 0.5 N sodium methoxide (Sigma-Aldrich) and boiling at 45°C for 5 min (
+
+Free polar groups, like hydroxyl and carboxyl groups, were trimethylsilylated to improve their volatility and stability (
+
+Fatty acid methyl esters, obtained after HCl-MeOH or NaOMe derivatization, were analyzed by GC-MS (
+
+Water-purified spores (1.5 ± 0.1 × 10
+
+Fluorescein isothiocyanate (FITC) (U-MNIB2) filters were used to detect the green fluorescence signals (
+
+The statistical analyses were performed using GraphPad Prism 8 software (

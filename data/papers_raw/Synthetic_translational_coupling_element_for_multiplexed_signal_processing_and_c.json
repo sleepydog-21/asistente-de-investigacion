@@ -1,0 +1,11 @@
+{
+  "id": "39526390",
+  "title": "Synthetic translational coupling element for multiplexed signal processing and cellular control.",
+  "doi": null,
+  "authors": "Goh H, Choi S, Kim J",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Repurposing natural systems to develop customized functions in biological systems is one of the main thrusts of synthetic biology. Translational coupling is a common phenomenon in diverse polycistronic operons for efficient allocation of limited genetic space and cellular resources. These beneficial features of translation coupling can provide exciting opportunities for creating novel synthetic biological devices. Here, we introduce a modular synthetic translational coupling element (synTCE) and integrate this design with de novo designed riboregulators, toehold switches. A systematic exploration of sequence domain variants for synTCEs led to the identification of critical design considerations for improving the system performance. Next, this design approach was seamlessly integrated into logic computations and applied to construct multi-output transcripts with well-defined stoichiometric control. This module was further applied to signaling cascades for combined signal transduction and multi-input/multi-output synthetic devices. Further, the synTCEs can precisely manipulate the N-terminal ends of output proteins, facilitating effective protein localization and cellular population control. Therefore, the synTCEs could enhance computational capability and applicability of riboregulators for reprogramming biological systems, leading to future applications in synthetic biology, metabolic engineering and biotechnology.",
+  "source": "PubMed",
+  "pmcid": "PMC11602170"
+}

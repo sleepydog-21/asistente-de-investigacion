@@ -1,0 +1,85 @@
+Incorporating hands-on, active learning teaching methods at the secondary and undergraduate school levels increases student retention and performance across science, technology, engineering, and mathematics (STEM) disciplines [
+
+Educational laboratory modules for synthetic biology, the fundamental science and engineering research that engineers biology to tackle global challenges (e.g., access to medicines, sustainable manufacturing), [
+
+Rapid growth of organizations like the International Genetically Engineered Machines (iGEM) [
+
+Recently, cell-free gene expression (CFE) [
+
+Cell-free expression systems are particularly suitable for decentralized distribution in low-resource settings, including classrooms, because the reactions are stable in a lyophilized format for months at room temperature [
+
+Early successes with cell-free education kits nevertheless left several gaps to be addressed. First, because students performed most of the published experiments in well-equipped university labs rather than a high school classroom, widespread access was not guaranteed [
+
+Here, we set out to develop freeze-dried, cell-free educational modules that could address these gaps to facilitate both inquiry-based learning and at home usage for expanded access and impact. As a model, we focused on biosensing. Three experimental modules allowed students to interrogate the mechanism of the regulation of the lactose-inducible operon from
+
+We set out to create cell-free biosensing education modules that could enable students to build their own cell-free biosensors and be carried out in a distributed, at home setting. To start, we designed three simple experiments to explore the design of a cell-free biosensor. We chose the
+
+For the Module 1 experiment (mechanism), we prepared three reaction conditions, each comprising 20 µL cell-free sensors with all requisite CFE reagents, freeze-dried with the extract and reporter plasmid. The first pair of 20 µL reactions included 40 nM of the pLac-mRFP plasmid, but no pre-enriched LacI beyond the genomic copy in our BL21 Star (DE3)
+
+Following these experimental controls, Module 2 (dose response) was then designed with the aim of teaching students about the concentration dependence of biosensors (simplified, to omit the effects of catabolite repression and cooperativity [
+
+Finally, in Module 3 (reporter), we explored the choice of output for a putative point-of-use biosensor. In addition to mRFP, we cloned superfolder green fluorescent protein (sfGFP) [
+
+Next, we adapted Modules 1–3 for a classroom setting. We developed a roughly one-week-long curriculum that guided students through the three experiments and developed curricula intended for an advanced secondary school (AP Biology) classroom (all curricula included in
+
+For Modules 1 and 2, the rehydrated reactions were incubated at room temperature for 48 hours in the classroom and then transported back to our laboratory for image analysis and quantification by plate reader. For Module 3, which was time sensitive, we instead captured images of the rehydrated tubes in white and blue light initially, after 1 hour, and after 24 hours, on-site in the classroom. The resulting experimental data and representative photographs are plotted in
+
+The students’ data generated in the classroom matched the laboratory data very well. Dispensing either water or IPTG solution from micropipettes, the students generally achieved the expected qualitative results in Modules 1 and 3; somewhat greater variability was observed Module 2, possibly due to errors in serial dilution (the students performed their own dilutions from a 100 µM IPTG stock). Of the 22 students who performed Module 1, 16 had a “perfect” response of ON, ON, ON, ON, OFF, ON, OFF, ON for tubes 1–8, and over 90% of the individual tubes matched the expected behavior. The experiment only failed for one student. Thirteen of the nineteen students who performed Module 2 also observed the expected smooth, monotonic increase in mRFP production between tubes 1–6 as IPTG dose increased.
+
+To quantify success rates in Module 3, since we could not take plate reader measurements at intermediate timepoints in the classroom, we instead assigned qualitative brightness scores of 0, 1, or 2 to each reporter, with and without the inducer, at each timepoint, based on the students’ photographs in white and blue light. After one hour, most students observed the sfGFP and Mango reporters to be ON in blue light, and the XylE reporter was ON in white light. Increases in both signal and leak were observed for all reporters after 24 hours. In many cases, the XylE signal was stronger in the OFF state than the ON state after 24 hours because the product of the chemical reaction degrades.
+
+To assess whether the biosensing kits were effective in inspiring and teaching the students who did the activities in the small-scale implementation, we measured how well the program goals were met through pre- and post- module surveys (
+
+Overall, survey questions were designed to assess two outcomes of the experimental activities: (1) changes in perspective of science and engineering and (2) changes in comprehension of biological and engineering concepts. Generally, participation in the three-activity series increased survey scores across both categories (
+
+We developed the initial three experimental modules to teach regulation by the
+
+Previous efforts to engage students in the synthetic biology design-build-test-learn framework have struggled with the build phase due to challenges in DNA assembly and transformation(roadblocks that hold back many iGEM teams as well [
+
+We developed cascaded cell-free sensors for fluoride (using the
+
+Armed with these designs, we asked nine groups of high school students who had already performed the LacI experiments to design and test their own biosensors. We specifically requested that they formulate hypotheses and devise positive and negative controls while allowing them to manipulate variables not tested in Modules 1–3. We provided each group the necessary reagents based on their experimental designs (e.g., reporter plasmids and inducers, freeze-dried sensor reactions containing the requested enriched aTFs/sensor plasmids) and simply requested photographs of the sensors at regular intervals after hydration to evaluate performance. The list of all the student-designed experiments is below in
+
+Student success in Module 4 was varied, and many groups reported explicit sources of experimental error in their lab reports (
+
+To the best of our knowledge, all previous cell-free educational studies reported the results from hands-on experiments in professionally equipped laboratories. Our experiments in
+
+To test this possibility, we assembled the largest-scale distributed cell-free expression experiment to our knowledge. This consisted of 120 packaged Module 1 strip-tubes (720 total 20-µL CFE reactions, plus controls), which were individually packaged along with single-use, constant-volume pipettes, IPTG and water solution, and a desiccant card (
+
+The results (
+
+Overall, by scoring each tube’s brightness level as “OFF”, “FAINT”, or “ON”, we assessed around a 60% global success rate for the module, which we considered acceptably comparable to standard biology and chemistry classroom labs. We could not easily ascertain the origin for the failure mode at scale. However, when the remaining reactions were rehydrated by experienced biology teachers using micropipettes, the constitutive reactions activated well, and the fixed-volume pipettes also worked, although they were less accurate (
+
+Considering the scale and purpose of the experiment, we did not repeat it. We instead emphasize that further work should be done to investigate the reproducibility of cell-free reactions at scale. This could include optimization of large-scale extract preparation, reaction assembly, and lyophilization prior to shipment as well as analyzing the impact of environmental fluctuations (e.g., temperature, humidity,
+
+The cell-free biosensor modules developed here represent easy-to-use, low-cost, and distributable biology education labs that achieve learning outcomes through a 1-week curriculum with minimal equipment. After our research team designed and validated experiments based on the canonical
+
+Teaching principles of genetic regulation, biological sensing mechanisms, and field applications of synthetic biology in a hands-on fashion has the potential for significant impact. In total, we reached over 130 students across 3 high schools in 2 states with experiments implemented in classrooms or at home, not in well-equipped laboratories. We anticipate that further expansion of cell-free education modules like the ones described here will facilitate advances in hands-on STEM education by improving access to stimulate greater and earlier interest in biotechnology careers.
+
+DNA was assembled using a mixture of commercial synthesis, PCR and blunt-end ligation, or isothermal (Gibson) assembly. pJBL7080 and pJBL7084 were synthesized by Twist Biosciences. pJBL7083 was synthesized by Gibson assembly using previously reported pJBL7010 and pJBL7072. pJBL7079 and pJBL7082 were synthesized by Gibson assembly using pJBL7080 and the constitutive expression cassettes as templates. pJBL7081 was assembled using overhang PCR and blunt-end ligation. The Module 4 plasmids were assembled using inverse PCR-blunt end ligation (all reporters: pJBL7056, pJBL7085, pJBL7086, pJBL7087) and Gibson assembly (all aTF expression cassettes and sensor plasmids, pJBL7093, pJBL7061, pJBL7062, pJBL7044, pJBL7045), with the exception of pJBL7063, which we could not successfully clone and was synthesized by Twist Biosciences. A list of strains, including descriptions and Addgene accession IDs, are presented below in
+
+Cell extract was prepared to maximize expression from endogenous transcriptional machinery, as previously described [
+
+For the enriched extracts (LacI, CueR, PbrR), a similar protocol was used. Chemically competent BL21 Star (DE3) cells were transformed with plasmids pJBL7084, pJBL7045, or pJBL7044 respectively, which encode the transcription factors under a T7 promoter. Overnight saturated cultures of these strains in LB were used to inoculate 1 L of 2X YT + P media and grown shaking, as before. Between optical density 0.4–0.5, 0.5 mM IPTG was added to induce protein synthesis. The strains were grown for 4–5 hours after induction and harvested as before. Extract was prepared identically, with the exception that no dialysis was performed on the enriched extracts. Instead, after the runoff reaction, the extracts were centrifuged, then directly aliquoted and flash frozen.
+
+Cell-free gene expression was carried out as previously described
+
+Prior to lyophilization, PCR strip tube flat caps (Axygen PCR-02-FCP-C) were punctured with a pin to create a hole, and PCR tube strips (Axygen PCR-02C) were placed into pre-chilled aluminum blocks on ice. Lyophilization was then performed by assembling the components of cell-free reactions as described above and placing them into pre-chilled PCR tube strips. Reaction tubes were then closed with the perforated PCR tube caps, submerged in liquid nitrogen, and transferred to a FreeZone 2.5 L Bench Top Freeze Dry System (Labconco). The reactions were then lyophilized for overnight with a condenser temperature of –85° C and 0.04 millibar pressure.
+
+Unless rehydrated immediately, freeze-dried reactions were packaged as follows. About 2 – 5 strips of reactions (16 – 40 tubes total) were placed in a light-protective bag (Mylar open-ended food bags, Uline #S-11661) with a desiccant (Dri-Card Desiccants, Uline #S-19582). The reactions were then heat-sealed (Metronic 8-inch Impulse Bag Sealer, Amazon #8541949845) and stored in a cool, shaded area until usage.
+
+mRFP1 purification was performed using a pET28c(+) expression plasmid pKJJ0062 (pT7–6XHis-TEV-mRFP). The sequence-verified plasmid was transformed into chemically competent Rosetta 2 (DE3) pLysS
+
+Photographic student data was collected by imaging the reactions using a smartphone camera after approximately 24 hours incubation at room temperature. Photos were taken both in white light and in blue light using the miniPCR bio™ P51™ Molecular Fluorescence Viewer and were paired with (anonymized) tube identification numbers. We attempted but failed to quantitatively estimate RFP concentration relative to the 15 µM control tube from each photo, due to the poor image quality and unreliable lighting. Instead, we manually and qualitatively assigned each tube a value of “OFF”, “LOW”, and “ON”. Each tube in each photograph was ranked by at least two researchers to avoid bias. Examples of tubes ranked in each category are in
+
+Pre- and post-survey responses were paired for individuals according to their sample ID numbers, keeping student responses anonymous. Raw data sets were scrubbed to include only include paired, complete surveys, resulting in smaller sample sizes than the number of students who participated in the activities. For the binary questions, the asymptotic McNemar test with no continuity correction was used to assess statistical significance. For the categorical questions, the non-parametric Wilcoxon signed-rank paired test was used. This research was reviewed by the Northwestern Institutional Review Board Office and was determined to not be human research.
+
+Supplemental Figure 1. LacI-enriched extract titration.
+
+Supplemental Figure 2. Reporter plasmid titrations.
+
+Supplemental Figure 3. True/false survey questions.
+
+Supplemental Figure 4. All cascade data pairs.
+
+Supplemental Figure 5. Troubleshooting large-scale Module 1 distribution.

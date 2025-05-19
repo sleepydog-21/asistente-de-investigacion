@@ -1,0 +1,97 @@
+Antimicrobial resistance (AMR) is a major health crisis with a growing number of bacteria and fungi becoming resistant to current antibiotics (
+
+Many of the antimicrobial compounds used in medicine today are produced by non-ribosomal peptide synthetase (NRPS) and polyketide synthase (PKS) genes (
+
+Bacterial species of the genus
+
+Antibiotics are a type of secondary metabolite typically produced by bacteria in planktonic culture during the stationary phase (
+
+The QS system generally operates on three fundamental principles. First, members of the bacterial community produce signaling molecule known as autoinducers (AIs). AIs, at low cell densities, diffuse away, resulting in concentrations too low to be detected. However, at high cell densities, the cumulative production of AIs creates a localized high concentration, allowing detection and triggering a response (
+
+The antimicrobial compounds secreted by
+
+The following strains were used in this study:
+
+Five μL culture of
+
+Placed 30 μL of a diluted
+
+Two primers (forward primer with a Kpn1 site and reverse primer with a Bamh1 site) were used to amplify the upstream ~500 bases of our gene of interest (
+
+Primers used in this study.
+
+The S17 cells containing the plasmid pKNOCK-yfg was mixed with wild type
+
+The
+
+Four single colonies of the bacterium
+
+RNA quality, determined using a NanoDrop 1,000 spectrophotometer (Thermo Fisher Scientific), Bioanalyzer 2,100 (Agilent), and Qubit fluorometer (Thermo Fisher Scientific), were: 260/280 ratio 2.0–2.1, 260/230 ratio 2.0–2.3, and RIN > 9. Sequencing libraries were prepared from 1 μg of total RNA from each sample using Illumina Stranded Total RNA Prep with Ribo-Zero Plus or Ribo-Zero Plus Microbiome (M-GL-02148 v1.0) and IDT for Illumina DNA/RNA UD INdexes (Illumina, 20,026,121). Prepared libraries were then sequenced using an Illumina MiSeq, with paired end reads of 150 bp.
+
+The raw sequencing data were pre-processed using the FASTP program (NCBI GEO Submission = GSE289227) (
+
+The
+
+NRPSs are modular enzymes of three core domains consisting of an adenylation (A) domain (~500 amino acids), a peptidyl carrier protein transfer (PCP or T) domain (~70–90 amino acids) and a condensation (C) domain (~350 amino acids) (
+
+Inactivation of
+
+To identify genes encoding protein harboring the PCP domain sequence, the NCBI BLAST search tool was used on the genome of
+
+Based on the sequence homology, five operons (
+
+Both PKS/NRPS Analysis website
+
+Comparison of predicted A-domain substrates from 17 operons.
+
+The sign “<>” indicates separation of amino acid encoded by different genes within an operon. The “?” signs indicate unknown amino acids.
+
+The A-domain of NRPS modules plays a crucial role in NRP biosynthesis by selecting and activating a specific substrate (typically an amino acid). We utilized two online platforms to predict A-domain substrates (
+
+To assess the antimicrobial effects against antimicrobial resistant organisms recognized as “serious threats” by the CDC, the methicillin-resistant
+
+To further determine if
+
+To determine the specific growth stage of antibiotic production by
+
+To test the above possibilities, we collected CFSs containing an equal number of cells from both log and stationary phases, considering the lower cell density at the log phase (OD
+
+In
+
+Analysis of transcripts expressed during log and stationary phases.
+
+The draft genome sequence featuring 3,810 genes of
+
+Upregulation of quorum sensing activities during the stationary phase.
+
+The top 10 upregulated genes during the stationary phase (
+
+To confirm that the
+
+Consistent with the previous studies (
+
+Upregulation of operons ste2, ste9, ste10, ste14A and ste17A during the stationary phase.
+
+Our analysis showed that there were significant variations in the FPKM counts for
+
+To validate the RNA-seq data, we performed reverse-transcript (RT)-PCR analysis targeting the operons
+
+In this study, to further investigate the role of
+
+We focused our research on
+
+The
+
+The products and functions of the rest of the operons are currently unknown. Some operons encode only one modular domain of the NRPS enzyme, indicating that these operons alone may not be capable of independently producing functional NRPs, but instead collaborate with other operon (s) to synthesize complete and functional NRPs. Additionally, some operons lack a terminal TE domain, indicating that they may work in conjunction with other genes that contains a TE domain to produce an NRP. It remains to be determined whether the five compounds reported in
+
+It appears that there are five stand-alone operons for NRPSs in
+
+Taken together, the
+
+Another key finding in our research is that antibiotic secretion in
+
+The
+
+Our data indicate that the QS-regulators LsrF and LsrG may have a distinct function in regulating the antibiotics produced by
+
+AMR is a major health crisis with growing numbers of bacteria and fungi becoming resistant to existing antibiotics (

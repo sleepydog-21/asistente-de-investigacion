@@ -1,0 +1,79 @@
+The physiology of growing microorganisms has been quantitatively characterized based on stable and reproducible culture systems since the 1940s
+
+Microorganisms usually retain viability (i.e., the ability to regrow after the nutrients are supplied) during long-term periods of starvation
+
+An important finding from these studies on carbon-starved
+
+Given that survival in long-term stationary phase relies on nutrients released from dead cells to the culture
+
+The experimental design for investigating gene expression profiles in three different conditions is shown in Fig.
+
+Experimental design for the transcriptome analysis. (
+
+Then, we extracted RNA from the collected samples and performed a DNA microarray analysis to explore gene expression profiles. We first performed hierarchical clustering for all analyzed samples across all genes to compare the similarity in global transcriptional profiles among three conditions. We found that LL showed different gene expression profiles from the other two conditions (Fig.
+
+Comprehensive analysis of gene expression data. (
+
+We characterized functional gene sets that were differentially expressed in LTSsn and STS compared to LL. We performed a hypergeometric test and statistically screened functional gene sets that highly contribute to PC1. We used GO terms for categorizing genes by their functions
+
+The “PC1 top” gene sets were mostly associated with transport activity (i.e., child classes or) parts of the “transporter activity (GO:0005215)” or “transport (GO:0006810)”), whereas the “PC1 bottom” were occupied by biosynthetic gene sets (i.e., child classes or parts of the “biosynthetic process (GO:0009058)”) (Fig.
+
+To understand cellular responses specific to long-term, but not short-term, stationary phase environment, we screened the functional gene sets (GO terms) differentially expressed between LTSsn and STS by GSEA
+
+Differentially expressed gene categories in LTSsn compared to STS. (
+
+To understand the regulatory mechanism of those transcriptional changes, we focused on gene sets grouped by their gene regulatory network (Regulon DB database)
+
+We next explored whether the genes that were highly expressed in LTSsn such as “phage shock (GO:0009271)” and “carbohydrate transport (GO:0008643)” play a role in
+
+The effect of the deletions of highly expressed genes in LTSsn on survival and growth in the long-term stationary phase supernatant. (
+
+In contrast to higher expression levels and physiological significance in phage shock protein family, genes in “translation (GO:0006412),”, “aerobic respiration (GO:0009060)” and “tricarboxylic acid (TCA) cycle (GO:0006099),” were lower in LTSsn than in STS (Fig.
+
+Stress-response weighed expression in LTSsn. log10 scaled ratio between the average mRNA signals of all members in “macromolecule biosynthetic process (GO:0009059),” designated as “AVR
+
+Our transcriptome analysis revealed a common transcriptional response in short-term stationary phase and stationary phase mimicking long-term stationary phase. Compared to cells in the exponentially growing phase (LL), one of the common major transcriptional changes in STS and LTSsn was a decrease of gene expression for the biosynthesis of fatty acids, lipopolysaccharides, proteins, and vitamins (i.e., menaquinone and pyridoxine) (Fig.
+
+Especially, the gene sets involved in protein biosynthesis (i.e., translation) screened as a lower expressed functional category in short-term stationary phase compared to exponential phase in the other
+
+Although LTSsn has similar transcriptional characteristics to STS, several functional gene sets were differentially expressed between them, and we identified possible transcriptional regulators responsible for those transcriptional changes (Fig.
+
+LTSsn also exhibited higher gene expressions involved in substrate uptake such as carbohydrate transport genes than STS (Fig.
+
+In conclusion, our study using DNA microarray characterized the genome-wide response of cells in the environment of long-term stationary phase and screened potentially important cellular processes for long-term survival. Although a detailed gene regulatory network for the long-term stationary phase environment is still unclear, our results propose candidates for such important gene members and pave the way to understand molecular mechanisms for surviving prolonged starvation.
+
+We used the
+
+Bacterial strains used in this study.
+
+The <
+
+Oligonucleotides and templates used for the construction of mutant strains.
+
+The
+
+The cDNA synthesis from the purified RNA, fragmentation, labeling, and hybridization of cDNA were performed in accordance with the manufacturer's protocol of Affymetrix (Santa Clara, CA, USA). A high-density DNA microarray that covers the whole genome of
+
+Clustering of genes and arrays according to 3766 transcriptional profiles was performed by Cluster 3.0
+
+A GO term annotation was used for the functional classification of genes in all transcriptome analyses, and the annotation list of
+
+In Fig., the growth and death rate
+
+Here,
+
+The MDS42 and its mutant strains were first cultured in fresh M63
+
+We grew
+
+
+
+Supplementary Information 1.
+
+Supplementary Information 2.
+
+Supplementary Information 3.
+
+Supplementary Information 4.
+
+Supplementary Figures.

@@ -1,0 +1,59 @@
+2-Keto-
+
+The genes directly related to 2KGA metabolism in
+
+PtxS is a LacI-family transcription factor ubiquitous in
+
+Based on the above studies, we made a prediction that the
+
+The strains and plasmids used are shown in
+
+The knockout of
+
+Using the JUIM01 genome as the template and K1/K2 as the primers (
+
+The primers used are shown in
+
+The recombinants JUIM01/pME6522, JUIM01/pME6522-
+
+The activated
+
+The activated cells were inoculated into the 50 mL of seed media (20.0 g/L glucose, 5.0 g/L corn syrup powder, 2.0 g/L urea, 2.0 g/L KH
+
+The total RNA of
+
+The DNA probe JUIM01-
+
+The 400 ng JUIM01-
+
+The exponential-phase cells of
+
+Three replicates were set for data analysis. The results were presented as mean ± standard deviation. Statistical comparisons were performed using one-way analysis of variance and Duncan’s multiple comparison test. The results were considered significant at
+
+A DNA fragment containing
+
+We have found a promoter in the upstream of
+
+We further constructed four knockout strains (named JUIM01Δ
+
+According to existing studies, 2KGA is synthesized in the periplasmic space and then secreted into the extracellular space or enters the cytoplasm for metabolism in
+
+During 2KGA fermentation, when the substrate glucose is completely consumed, the produced 2KGA is then utilized by
+
+In industrial production, the reuse of 2KGA by production strains is a problem that is detrimental to the final yield. In the 2KGA utilization experiments, the utilization of 2KGA by JUIM01Δ
+
+The transcription start site of the
+
+In
+
+In
+
+DNaseI footprint analysis further revealed the binding site of PtxS in the
+
+To explore the transcriptional regulation mechanism of PtxS on the
+
+The negative regulation of PtxS was further verified by
+
+In natural edatope, 2KGA is one of the most commonly secreted organic acids by various rhizosphere bacteria including
+
+In this study, the structural genes of the

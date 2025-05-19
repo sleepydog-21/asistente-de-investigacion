@@ -1,0 +1,11 @@
+{
+  "id": "40157904",
+  "title": "Incoherent feedback from coupled amino acids and ribosome pools generates damped oscillations in growing E. coli.",
+  "doi": null,
+  "authors": "Droghetti R, Fuchs P, Iuliani I, Firmano V, Tallarico G, Calabrese L, Grilli J, Sclavi B, Ciandrini L, Cosentino Lagomarsino M",
+  "journal": "Nature communications",
+  "year": "2025",
+  "abstract": "Current theories of bacterial growth physiology demonstrate impressive predictive power but are often phenomenological, lacking mechanistic detail. Incorporating such details would significantly enhance our ability to predict and control bacterial growth under varying environmental conditions. The \"Flux Controlled Regulation\" (FCR) model serves as a reference framework, linking ribosome allocation to translation efficiency through a steady-state assumption. However, it neglects ppGpp-mediated nutrient sensing and transcriptional regulation of ribosomal operons. Here, we propose a mechanistic model that extends the FCR framework by incorporating three key components: (i) the amino acid pool, (ii) ppGpp sensing of translation elongation rate, and (iii) transcriptional regulation of protein allocation by ppGpp-sensitive promoters. Our model aligns with observed steady-state growth laws and makes testable predictions for unobserved quantities. We show that during environmental changes, the incoherent feedback between sensing and regulation generates oscillatory relaxation dynamics, a behavior that we support by new and existing experimental data.",
+  "source": "PubMed",
+  "pmcid": "PMC11954927"
+}

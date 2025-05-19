@@ -1,0 +1,67 @@
+Heavy metals are naturally occurring elements found in various environments. These metals are typically present in trace amounts on Earth, but human activities such as mining, research, and industrial processes can introduce higher levels of heavy metals. Antarctica is not exempt from heavy metal contamination
+
+Over the decades, although the cold adaptation mechanisms of psychrophilic bacteria in Antarctica have been studied intensively, little attention has been given to the effects or mechanisms of heavy metal resistance or adaption in these bacteria
+
+Studying gene sequences, flanking regions, and associated operons from microbial genome projects provides valuable insights into gene evolution. In this study, we applied this approach to investigate the mercuric reductase (MerA), the key enzyme within the mercury-resistant (
+
+MerAs are part of the disulfide oxidoreductase (DSOR) family
+
+Therefore, in this study, genomic analysis of the psychrophilic bacterium
+
+To investigate the biological role of
+
+Bioinformatics analysis. (
+
+Moreover, multiple sequence alignments with homologs showed that
+
+Multiple sequence alignment with other homologs, corresponding phylogenetic tree. Homologs of
+
+To understand the reductase activity and characteristics,
+
+Previous studies on MerAs indicated that metal reductases catalyze the reduction of a wide range of substrates
+
+Specific activity
+
+The activity was measured by checking the amount of oxidized NADPH. The reaction was initiated by 100 µM NADPH and the rate of oxidation was measured for 3 min. As high concentrations of HgCl
+
+Biochemical properties of
+
+Furthermore, the pH for
+
+We performed X-ray crystallography and structural characterization to gain mechanistic insights into
+
+As seen in the structures of thioredoxin reductase (high Mr), trypanothione reductase, glutathione reductase, glutathione amide reductase, and dihydrolipoamide dehydrogenase, the overall structure of
+
+Crystal structure of
+
+Structural homologs of
+
+Although the structural fold and FAD- and NADPH-binding modes of
+
+To investigate the role of Tyr437 in
+
+Structural comparison of GbsMerA with homologs. (
+
+The
+
+Microorganisms utilize mercuric reductase to reduce toxic ionic Hg (Hg
+
+Determination of the minimum inhibitory concentration (MIC) for HgCl
+
+In this study, we identified and characterized mercuric reductase (
+
+Based on the analysis of the phylogenetic tree and a search for structural homologues,
+
+T4 DNA ligase, DNA polymerase, and dNTPs were procured from Takara Bio (Shiga, Japan). Hydrogen peroxide (H
+
+Protein concentration was measured using the Bradford method by using bovine serum albumin as the standard
+
+Orthologs of
+
+Mutagenesis was performed using the EZchange™ site-directed mutagenesis kit from enzynomics, with some modifications. PCR mixture contained 5 μL of 10 × reaction buffer, 10 pmol/μL of forward and reverse primers (1.25 μL each), 4 μL of dNTP mixture (2 mM), 50 ng (1.25 μL) of the template pET32a containing
+
+The survival rates of the strain with an empty vector (pET32/BL21 [DE3]) and the
+
+
+
+Supplementary Information.

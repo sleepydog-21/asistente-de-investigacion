@@ -1,0 +1,69 @@
+Population-level bacterial dynamics often emerge from the heterogeneous behaviors of single cells. Notable examples include entry into and exit from antibiotic persistent states (
+
+Missing from these studies is the natural spatial context in which many behaviors occur. Yet, spatial organization, across a range of length scales, is an essential modulator of bacterial dynamics. On the tens-of-micron-scale, spatial gradients in small molecule concentrations tune bacterial responses, define niches for commensal growth, or shape interactions in multi-species communities (
+
+By contrast, image-based approaches to single-cell transcriptomics provide this spatial context by directly imaging and identifying RNAs within fixed cells in their native spatial environment (
+
+Here we overcome this RNA density challenge and introduce a transcriptome-scale, image-based approach for bacterial, single-cell transcriptomics. This approach combines a bacterially optimized expansion microscopy toolbox with multiplexed error-robust fluorescent
+
+MERFISH enables the identification of thousands of different mRNA molecules by using combinatorial, error-robust, fluorescent optical barcodes built from repetitive rounds of single-molecule FISH (smFISH) (
+
+Density reduction is a natural avenue to address this challenge. Indeed, image-based approaches to single-cell transcriptomics have achieved modest degrees of RNA density reduction by spreading the barcode signal over more imaging rounds (
+
+To overcome bacterial mRNA density, we leveraged recent advances in expansion microscopy (
+
+Expansion increased the width of
+
+To further explore the multiplexing possible with the 50X protocol, we stained 50X-expanded
+
+Inspired by the ability to expand
+
+Notably, during the early development of bacterial-MERFISH, we observed a low correlation between the abundance determined via bacterial-MERFISH and that of bulk RNA-sequencing for lowly expressed operons, suggesting a higher false-positive rate than that measured by our internal false-positive controls (
+
+To benchmark the performance of bacterial-MERFISH, we performed two replicate measurements of 97, 1,057, or 1,930 operons in combination with 50X or 1000X expansion in log-phase
+
+These measurements also revealed that the detection efficiency—the fraction of targeted molecules actually detected—of bacterial-MERFISH is comparable to or greater than the capture efficiencies reported for scRNA-seq (
+
+One promise of single-cell bacterial transcriptomics is the ability to identify heterogeneous bacterial behaviors and to computationally resynchronize the desynchronized response of individual cells to environmental stimuli, unmasking dynamics obscured by population averages. One illustrative dynamic response is the diauxic shift caused by a switch in carbon source. Bacteria often consume different carbon sources in a preferential order regulated, in part, by carbon-catabolite repression (CCR) (
+
+Thus, we revisited the classic diauxic shift with bacterial-MERFISH. We grew
+
+Supporting these measurements, we found that the average RNA expression determined via MERFISH was strongly correlated between biological replicates and with bulk RNA-sequencing at different growth stages (
+
+To explore the heterogeneity in cellular response to this carbon shift, we integrated the measurements from two biological replicates, visualized single-cell heterogeneity with Uniform Manifold Approximation and Projection (UMAP), and performed Leiden clustering to distinguish sub-populations (
+
+During log-phase growth, we identified a diversity of sub-populations (
+
+We also observed a similar degree of heterogeneity during the diauxic shift (
+
+We also noted an apparent temporal order in which specific carbon sources were explored. To investigate this ordering, we computationally resynchronized cells using a pseudotime analysis from glucose-log-phase growth through the diauxic shift (
+
+Together these results reveal that the homeostatic levels of required pathways can be maintained by transient, coherent bursts of expression within entire regulons, and that, when faced with carbon starvation,
+
+Another advantage of image-based, single-cell transcriptomic methods is the ability to measure the intracellular transcriptome organization. Specific bacterial mRNAs are localized to the cytoplasm (
+
+To explore the spatial organization of the
+
+To further categorize this spatial diversity, we leveraged a measure of pattern similarity to visualize and cluster spatial patterns (
+
+To investigate possible patterning mechanisms, we explored the correlation between clusters and mRNA features. Covariation with spatial distribution was modest for transcript length, GC content, abundance, and half-life (
+
+In parallel, the genomic locus from which the mRNA was transcribed also correlated strongly with spatial patterning. mRNAs within the Midcell-cytosolic or Midcell-membrane clusters were preferentially encoded from genomic loci near the terminus of replication (
+
+Our measurements now unify two previous models suggested for bacterial transcriptome organization—that either genomic (
+
+Image-based approaches to single-cell transcriptomics also promise the ability to explore gene expression within complex, spatially structured environments. To explore this capability of bacterial-MERFISH, we leveraged germ-free mice monocolonized with the human gut commensal
+
+We then resected the colon from a monocolonized mouse, and the sample was methacarn-fixed, paraffin-embedded, and sectioned (
+
+To quantify this spatial variation, we performed these measurements in six slices sampled from the colon of two mice. Each colon was fixed with one of two different methods to control for potential fixation-dependent artifacts (
+
+To determine the operons that underlie the mucus-proximal adaptation of
+
+We next examined the known substrates for the PUL enriched in each compartment. Of the mucus-associated PUL with known substrates, 10 target host-mucus polysaccharides while only 1 targets dietary polysaccharides (
+
+In total, these measurements reveal that bacteria fine tune gene expression to adapt to micron-scale niches in the gut. Excitingly, with bacterial-MERFISH it should now be possible to profile such micron-scale adaptation to a wide variety of complex environments.
+
+Here we introduced bacterial-MERFISH, an image-based approach to single-cell transcriptomics that overcomes the massive mRNA density within bacterial cells by combining an optimized expansion microscopy toolbox with MERFISH. Bacterial-MERFISH offers complementary benefits to the growing suite of bacterial scRNA-seq methods (
+
+However, we anticipate that one of the most substantial advantages of bacterial-MERFISH will be the ability to profile bacterial behaviors

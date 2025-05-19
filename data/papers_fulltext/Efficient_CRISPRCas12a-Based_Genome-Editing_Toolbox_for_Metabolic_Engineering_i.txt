@@ -1,0 +1,73 @@
+Methanogenic
+archaea are biotechnologically employed in a variety
+of uses, e.g., for methane production in anaerobic digestors,
+
+The CRISPR/Cas9 system has already been successfully
+used for genome
+editing in a variety of organisms
+
+For this study, we utilized the
+host strain
+
+General features of the CRISPR/LbCas12a genome
+editing. (a) Genetic
+map of the CRISPR/LbCas12a pMM002P plasmid. The
+
+For CRISPR/LbCas12a genome
+editing, a gRNA was expressed on pMM002P (p002-218) that targets the
+
+Effect on transformation and genome-editing
+(positive rates) efficiencies
+when the length and position of the RF are modified. Transformation
+efficiency and positive rate in relation to the length and position
+of the RF. Shown are the transformation efficiencies [cfu (2 μg
+DNA)
+
+To help speed up the construction of different
+genome-edited mutants in parallel, we modified our CRISPR/LbCas12a
+toolbox by providing the RF separately as a suicide plasmid. For this
+alternative procedure, the CRISPR/LbCas12a cleavage plasmid was cotransformed
+with a suicide plasmid containing a promoter–
+
+As an application of our
+CRISPR/LbCas12a method, we demonstrated its use as a tool for heterologous
+gene integration. We removed the entire ∼8.9 kbp flagellum
+operon (
+
+CRISPR/LbCas12a genome-edited replacement of the
+
+To be ready for a second round of genome editing in the future,
+the CRISPR plasmid was removed after genome editing by being counter-selected
+on a plate containing 6-azauracil. The absence of the plasmid was
+confirmed by the inability of the cells to grow on the medium containing
+puromycin, and the removal rate was 9/10.
+
+To expand the gRNA repertoire in our
+CRISPR/Cas toolbox, we also
+constructed a Cas9-based genome-editing plasmid that uses the
+
+CRISPR/SpCas9
+genome-edited replacement of the
+
+Fifteen
+different
+promoters delivered as a promoter–
+
+Quantification of promoter strengths for
+the two different growth
+conditions formate or H
+
+While
+
+All plasmids and strains used
+in this study are listed in
+
+Lysogeny
+broth medium (10
+g L
+
+The natural
+transformation of
+
+4-Nitrophenyl
+β-

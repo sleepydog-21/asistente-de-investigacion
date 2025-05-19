@@ -1,0 +1,11 @@
+{
+  "id": "39365049",
+  "title": "rRNA operon improves species-level classification of bacteria and microbial community analysis compared to 16S rRNA.",
+  "doi": null,
+  "authors": "Won S, Cho S, Kim H",
+  "journal": "Microbiology spectrum",
+  "year": "2024",
+  "abstract": "Precise identification of species is fundamental in microbial genomics and is crucial for understanding the microbial communities. While the 16S rRNA gene, particularly its V3-V4 regions, has been extensively employed for microbial identification, however has limitations in achieving species-level resolution. Advancements in long-read sequencing technologies have highlighted the rRNA operon as a more accurate marker for microbial classification and analysis than the 16S rRNA gene. This study aims to compare the accuracy of species classification and microbial community analysis using the rRNA operon versus the 16S rRNA gene. We evaluated the species classification accuracy of the rRNA operon,16S rRNA gene, and 16S rRNA V3-V4 regions using a BLAST-based method and a k-mer matching-based method with public data available from NCBI. We further performed simulations to model microbial community analysis. We accessed the performance using each marker in community composition estimation and differential abundance analysis. Our findings demonstrate that the rRNA operon offers an advantage over the 16S rRNA gene and its V3-V4 regions for species-level classification within the genus. When applied to microbial community analysis, the rRNA operon enables a more accurate determination of composition. Using the rRNA operon yielded more reliable results in differential abundance analysis as well. We quantitatively demonstrated that the rRNA operon outperformed the 16S rRNA and its V3-V4 regions in accuracy for both individual species identification and species-level microbial community analysis. Our findings can provide guidelines for selecting appropriate markers in the field of microbial research.",
+  "source": "PubMed",
+  "pmcid": "PMC11537084"
+}

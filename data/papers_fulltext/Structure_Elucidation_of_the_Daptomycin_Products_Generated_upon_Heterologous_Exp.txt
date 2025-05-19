@@ -1,0 +1,172 @@
+Antibiotic-resistant bacteria
+are of great concern, especially when they are resistant to multiple
+or last resort antibiotics. The 2016 published O’Neill report
+warns that antimicrobial resistance (AMR)-related deaths will exceed
+those caused by cancer until 2050, unless this trend is slowed decisively.
+
+In 2017, the high-level DAP-resistant
+
+High-resolution mass spectrometry (HRMS), e.g.,
+by means of a qTOF
+instrument, has gained great importance for the qualification of unknown
+molecules in complex matrices. By providing high mass resolution and
+accuracy (<5 ppm), HRMS acquisition schemes such as the information-dependent
+acquisition (IDA) offer the possibility of structural elucidation.
+
+In this study, we aimed at elucidating the molecular fate
+of DAP
+upon incubation with
+
+In order to
+study the impact of the DAP-inactivating proteins DrcA
+and DrcB, DAP was incubated in MH medium with
+
+For the sake of comparison
+of the
+
+All features with
+a minimum ratio
+of ten (test/reference) and daptomycin are displayed.
+
+Incubation
+of
+
+Sum formulas for the precursor ions
+(non-fragmented) of features 1 and 2 were developed. The sum formula
+of C
+
+Subsequently, sum formulas were derived
+for all fragments of the features 1, 2, and DAP, with a relative intensity
+of ≥10% in the respective fragment spectrum (
+
+Fragment spectra (MS/HRMS)
+comparison of daptomycin (a) to the
+mirrored spectra of features 1 (b) and 2 (c). The underlined fragments
+were found characteristic markers for daptomycin derivatives. Exact
+masses can be found in
+
+Neutral molecular formula of daptomycin (DAP)
+showing
+its chain
+(light gray), core (dark gray), and the kynurenine (KYN, blue) section.
+Threonine acts as a linker for the DAP chain and the circular DAP
+core. The adducts with
+
+In feature 1, the DAP fragments
+with
+
+When comparing the
+sum formulas of features 1 and 2, it becomes clear that feature 2
+formally contains an additional water molecule. Since none of the
+fragments in the pattern of feature 2 exhibit a corresponding shift,
+this may be explained by a hydrolysis of the lactone moiety of the
+core. The fragment pathway of feature 1 (
+
+The DrcAB-mediated reaction
+postulated requires the presence of
+the KYN anilino function, which appears to act as a nucleophile. In
+addition, another reaction partner is necessary to generate the product
+that was found. DAP′s mode of action can be regarded as a kind
+of oligomerization, and the site of action is located in phosphatidylglycerol
+(PG) and bactoprenyl-coupled lipid-intermediate-rich regions in the
+bacterial membrane.
+
+Postulated daptomycin (DAP) inactivation was mediated
+in two steps
+by DrcAB. (a) First, dehydroalanine (DHA) or its tautomer 2-iminopropanoic
+acid (2-IPA) is transferred to the anilino function of the kynurenine
+(KYN) moiety of DAP. (b) This reaction is followed by a hydrolytic
+cleavage of the lactone bond between KYN and threonine (Thr). Trp:
+tryptophane, Asn: asparagine, Asp: aspartic acid, Gly: glycine, Orn:
+ornithine, Ala: alanine, Ser: serine, mGlu: methyl glutamic acid.
+
+The α,β-unsaturated carbonyl group
+of DHA is a potent
+Michael-acceptor and, thus, prone to react with nucleophiles (Michael-donors),
+such as thiols, amines, or alcohols.
+
+With growing molecular weights, the number of
+possible sum formulas and their corresponding constitutional isomers
+increases. Hence, with regard to structural elucidation using LC-MS/HRMS
+approaches, the probable results are becoming increasingly blurred,
+particularly for multiple charged ions. Thus, structures proposed
+in this process must undergo (several) confirmation stages.
+
+The most reliable confirmation is a targeted approach, in which the
+fragment pattern of an authentic reference substance is used for verification.
+
+The occurrence of the DHA moiety as an artifact, which emerges
+from amino acids, such as alanine, cysteine, or serine during the
+MS-ionization process, is theoretically possible. However, this scenario
+is unlikely to occur since ESI is a soft ionization technique.
+
+Recent structure–activity relationship models
+of DAP attribute
+KYN a crucial role in the interaction with the lipid bilayer, in the
+binding of calcium, and therefore in the antibacterial activity. In
+particular, Taylor and Palmer demonstrated a 47-fold loss of activity
+after replacing KYN with tyrosine, whereas Chow et al. demonstrated
+an increase in activity after KYN
+
+Apart from that,
+the question of the origin of DHA or its derivatives
+arises. Grein et al. postulated the interruption and delocalization
+of the cell wall biosynthesis machinery (transpeptidase and transglycosylase)
+as the main mode of action of DAP. They were able to demonstrate the
+formation of a tripartite complex of Ca
+
+The generation of
+
+DAP (Cayman Chemical, Ann Arbor/Michigan, USA), daptomycin-d5 (DAP-d5)
+as trifluoroacetic salt (Alsachim, Illkirch-Graffenstaden, France),
+ATC (Sigma-Aldrich Chemie GmbH, Darmstadt, Germany), anhydrous MH
+medium, 70% v/v ethanol, and phosphate-buffered saline (PBS) (all
+Carl Roth GmbH + Co. KG, Karlsruhe, Germany), calcium chloride (CaCl
+
+The
+incubation of the bacteria was carried out in an SM-30 shaker, covered
+by a TH-30 incubator hood (both Edmund Brühler, Bodelshausen,
+Germany). The optical density at 600 nm (OD
+
+MH medium was obtained from 21 g of
+anhydrous MH medium, which was dissolved in 1 L of deionized water
+and sterilized at 118–121 °C and 0.1 MPa overpressure
+for 15 min. Stock solutions of DAP in water (5 mg/mL), CaCl
+
+The chromatographic system was operated
+under gradient conditions,
+employing the mobile phase solvent A consisting of water, ACN, and
+FA (100:2:0.1, v/v/v) and mobile phase solvent B consisting of ACN,
+water, and FA (100:2:0.1, v/v/v). The gradient started with 10% B
+which was held for 2 min, raised to 60% B within 8 min, held for 0.5
+min, and in the following 29.5 min, raised to 90% B. Eventually, a
+reconditioning step was carried out by decreasing the gradient to
+the initial conditions within 1 min, which was held for 4 min. The
+injection volume was 10 μL, the flow rate was 0.35 mL/min, and
+the temperatures of the autosampler and the column compartment were
+8 and 35 °C, respectively.
+
+IDA runs were performed in ESI-positive
+polarity ionization mode, applying ion source parameters as follows:
+temperature of 300 °C, gas 1 (N
+
+Targeted HRMS
+scans were then conducted based on the results of
+the data processing described next, using the
+
+For the GUCS approach employing a non-targeted workflow, data obtained
+from measurements of the test and the reference sample were used.
+An automated process, comprising a peak finding algorithm with subsequent
+comparison of the test and reference samples, revealed all unique
+features that were found in both samples. To avoid including peaks
+within the noise level, only those features with a minimum area ratio
+of ten (test/reference) were selected for further analysis of their
+structural composition.
+
+Based on the targeted HRMS scans, sum
+and structural formulas were developed by means of the software integrated
+formula finder and in silico fragmentation tool, the exact mass (mass
+error <5 ppm), the isotopic distribution ratio, chemical restrictions,
+and the known fragments of DAP. When all aforementioned conditions
+were not in conflict for a proposed molecular structure, it was considered
+probable.

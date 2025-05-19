@@ -1,0 +1,63 @@
+Enterotoxigenic
+
+The colonization by ETEC of its host is mediated by fimbrial and nonfimbrial adhesins, which show antigenic differences. Colonization Factors (CFs) contribute to the capacity of bacteria to efficiently colonize gut enterocytes via specific cell receptors [
+
+The CS21 pilus of ETEC is mainly composed of hundreds of repeats of the LngA protein, and the interactions among these proteins favor the assembly of homopolymeric structures with a diameter of 7 nm and a length greater than 20 μm [
+
+We recently demonstrated that the LngA, LngB, LngC, LngD, LngH, and LngP proteins are essential for CS21 assembly as well as for bacterial aggregation and adherence to HT-29 intestinal cells [
+
+A collection of 12 ETEC clinical strains previously characterized as weakly, moderately, and strongly adherent were included in this study for
+
+The
+
+DNA of the clinical ETEC strains was obtained from 200 µL of a bacterial suspension grown in LB broth to an OD
+
+The 14-kb plasmid harboring the
+
+In this study, the LngA sequence obtained from the ETEC FMU073332 strain was selected for site-directed mutagenesis. In a previous study, ETEC E9034A, FMU073332, and strains with isogenic mutations in the
+
+Point substitutions of the amino acid residues in the sequence of the
+
+The genomic DNA of the ECBLΔ
+
+Total RNA was extracted after all strains (wild type, recombinant ECBL strains with
+
+The bacterial strains were resuspended in 1× Laemmli buffer, boiled for 5 min, and subjected to 16% sodium dodecyl sulfate–polyacrylamide gel electrophoresis (SDS–PAGE) [
+
+HT-29 intestinal cells (ATCC HTB-38) were seeded into 24-well plates (Corning
+
+The data generated from the quantitative analysis of the adherence assays were analyzed using unpaired Student’s
+
+The
+
+The amino acid sequences of the LngA protein from clinical ETEC strains (E9034A, 48342, 62123, 63880, 64760, 44166, 45162, 49247, FMU073332, 63280, 63283, and 45163) showed 17 variable regions at positions 15, 78, 88, 94, 97, 100, 108 to 109, 147, 178, 180, 182, 191 to 193, 202 to 204, 208, 211 to 212, 215, and 220 to 238 (
+
+According to these data, six clinical ETEC strains (E9034A, FMU073332, 44166, 45162, 48342, 63280) showing variability in their amino acid sequences and different adherence profiles (weakly, moderately, and strongly adherent) were selected for further assays (
+
+The ECBL strain carrying a plasmid that harbored the
+
+Site-specific mutations in the
+
+Clinical ETEC strains and recombinant ECBL strains with
+
+CS21 pili are oligomers composed of thousands of copies of the LngA protein; we hypothesized that specific amino acids play an important role in the levels of adherence of ETEC strains to HT-29 intestinal cells. Specific substitution of the amino acid residues in the C-terminus of the LngA protein of the FMU073332 strain to amino acid residues in the LngA protein from the E9034A strain was performed to determine their effects on adherence to HT-29 intestinal cells. A decrease in adherence was observed only in four strains with site-specific mutations. This decrease was more evident in the ECBLΔ
+
+ECBLΔ
+
+The CS21 pilus from ETEC has been described as an adhesin that mediates the interaction among ETEC strains and intestinal cells and induces the formation of bacterial aggregates that protect them from antimicrobial compounds [
+
+In this study, the different adherence levels of clinical ETEC strains to HT-29 intestinal cells, as previously characterized, could be attributed to a repertoire of several CFs, including the CS21 pilus [
+
+This variability maintains a correlation with the pilin of the other type IV pili [
+
+The presence of specific amino acid variations in the LngA protein could modify the stability or affinity of the CS21 pilus based on different levels of ETEC adherence to HT-29 cells. However, only two recombinant ECBL strains with
+
+In
+
+Antigenic variations were observed at the predicted LngA surface accessible to B-cell epitopes, and the number of B-cell epitopes was sufficiently high to allow antigen recognition among different LngA variants [
+
+Our data indicate that the arrangement of amino acid residues such as T, K, G, and N could directly modify the interaction with possible ligands of their host, i.e., HT29 intestinal cells. In
+
+The presence of amino acid residues with high variability at the C-terminus could be an essential strategy during the structural organization of the LngA protein that efficiently contributes to the correct assembly of the CS21 pilus; however, additional studies are needed.
+
+The variability in the LngA proteins of clinical ETEC strains confers different attributes to the bacteria to promote colonization of intestinal cells and could confer different features to the bacteria to favor interaction with specific receptors located on the surface of HT-29 intestinal cells. These data indicate that CS21 has the potential to be considered a therapeutic target in the production of a potential vaccine. In conclusion, the LngA protein of clinical ETEC strains gives ECBL the ability to adhere to HT-29 intestinal cells, and the variability and point mutations in this protein modified their adhesion ability. These findings confirm the role of the CS21 pilus in the bacterial adherence process.

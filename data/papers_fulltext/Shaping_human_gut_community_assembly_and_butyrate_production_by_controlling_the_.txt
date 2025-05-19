@@ -1,0 +1,95 @@
+The human gut microbiome substantially expands our genome’s capabilities by encoding numerous metabolic pathways
+
+Specialized metabolic pathways can have a major effect on the interactions between constituent members of gut microbiota. For example,
+
+The arginine dihydrolase pathway (encoded by the
+
+Computational modeling of microbiomes can reveal the quantitative relationships between different species and their impact on community-level functions
+
+By combining bottom-up design of synthetic communities, computational modeling, and synthetic biology, we investigated the role of the
+
+We hypothesized that the
+
+To determine the prevalence of the
+
+The probiotic strain
+
+To quantify the effect of the
+
+A previous study demonstrated that the
+
+Since the
+
+Since the pTet-arc (+) and Δarc conditions represent the two extremes of
+
+The presence of the
+
+To assess the effect of the
+
+To investigate the role of environmental pH on community assembly, we used a dynamic computational model that captures pH-dependent inter-species interactions and community dynamics
+
+The inferred parameters indicates that some species prefer lower pH (BL, BT, BV, CC) while others prefer higher pH (AC, BA) (
+
+The model informed by monoculture data was then used to predict assembly of communities cocultures with individual EC strains to provide insights into the extent of pH-mediated interactions in the presence/absence of the
+
+Across predictions for different cocultures of community only, community with Δarc, and community with pTet-arc(+), we observed lower predictive performance at higher initial pH (
+
+With the pH-mediated interactions predicted in the
+
+The relative abundance of WT and Δarc strains calucated from 16S sequencing initially increased at the same rate and saturated in abundance at day 4 after introduction (
+
+While we observed difference in select species colonization between mice colonized with WT and Δarc, the fecal and cecal pH was not significantly different between groups (
+
+Our results demonstrated the possibility of tuning expression of a specialized metabolic pathway as the control knob for community dynamics and functions. Through a combination of synthetic biology and bottom-up community construction, we showed that expression of the
+
+Robustness of microbial communities is the persistence of community structures across perturbations
+
+Increased butyrate production by human gut microbiome is associated with protection from a wide range of diseases
+
+While defined microbial communities have been extensively characterized to decipher specific interactions that determine system behaviors
+
+One important non-pH-mediated effect of
+
+A major goal for microbiome engineering is to discover and exploit molecular control knobs to steer microbiomes to desired states. Specialized metabolic pathways, which can provide key resources for specific gut bacteria or shape global environmental parameters, could be exploited to shape human gut community functions. By integrating mechanistic computational modeling with measurements of communities constructed from the bottom-up, we revealed the extent to which a single mechanism influenced community assembly. Bottom-up assembly enables a deeper understanding of the contributions of monoculture growth and inter-species interactions in response to environmental factors. While we focused on a single metabolic pathway, higher-throughput genetic approaches could also be used to discover and rank the influence of diverse molecular pathways on target community functions
+
+All aerobic culturing was carried out in 37°C incubator with shaking. All anaerobic culturing was carried out in an anaerobic chamber with an atmosphere of 2 ± 0.5% H2, 15 ± 1% CO2 and balance N2. All prepared media and materials for anaerobic experiments were placed in the chamber at least overnight before use to equilibrate with the chamber atmosphere. The permanent stocks of each strain used in this paper were stored in 25% glycerol at −80 °C. Batches of single-use glycerol stocks were produced for each strain by first growing a culture from the permanent stock in ABB media (Supplementary Data 2) to stationary phase, mixing the culture in an equal volume of 50% glycerol, and aliquoting 400 μL into Matrix Tubes (ThermoFisher) for storage at −80 °C. Quality control for each batch of single-use glycerol stocks included Illumina sequencing of 16S rDNA isolated from pellets of the aliquoted mixture to verify the identity of the organism. For each experiment, precultures of each species were prepared by thawing a single-use glycerol stock (SUGS) and adding 100 μL of SUGS to 5 mL fresh YBHI media (Supplementary Data 2) for stationary incubation at 37 °C for 16 hours (Supplementary Data 1). All experiments were performed in a chemically defined medium named DM38
+
+PCR amplifications were performed using Phusion High-Fidelity DNA polymerase (New England Biolabs) and oligonucleotides for cloning were obtained from Integrated DNA Technologies. Standard cloning methods were used to construct plasmids. Small scale electroporation was used for plasmid transformation into
+
+The native
+
+For inducible expression of the
+
+Each species’ preculture was diluted to an OD600 of 0.01 (ThermoFisher Nanodrop, 1 mL in cuvette) in DM38 and aliquoted into three or four replicates of 1.5 mL each in a 96 Deep Well (96DW) plate and covered with a semi-permeable membrane (Diversified Biotech) and incubated at 37 °C without shaking. At each time point, samples were mixed and OD600 and pH were measured by the plate reader. Cell pellet was saved at each timepoint for species abundance quantification at −80°C. For pH measurement, phenol red solution was diluted to 0.005% weight per volume in MilliQ water. Bacterial supernatant (20 μL) was added to 180 μL of phenol red solution, and absorbance was measured at 560 nm (Tecan Spark Plate Reader). A standard curve was produced by fitting the Henderson–Hasselbach equation to fresh media with a pH ranging between 3 and 11 measured using a standard electro-chemical pH probe (Mettler-Toledo). We used the following equation to map the pH values to the absorbance measurements.
+
+The parameters a and b were determined using a linear regression between pH and the log term for the standards in the linear range of absorbance with A representing the absorbance of each condition.
+
+Genomic DNA was extracted from cell pellets using a modified version of the Qiagen DNeasy Blood and Tissue Kit protocol. First, pellets in 96DW plates were removed from −80 °C and thawed in a room temperature water bath. Each pellet was resuspended in 180 μL of enzymatic lysis buffer (20 mM Tris–HCl (Invitrogen), 2 mM sodium EDTA (Sigma-Aldrich), 1.2% Triton X-100 (Sigma-Aldrich), 20 mg/mL lysozyme from chicken egg white (Sigma-Aldrich)). Plates were then covered with a foil seal and incubated at 37 °C for 30 min with orbital shaking at 600 RPM. Then, 25 μL of 20 mg mL−1 Proteinase K (VWR) and 200 μL of Buffer AL (QIAGEN) were added to each sample before mixing with a pipette. Plates were then covered by a foil seal and incubated at 56 °C for 30 min with orbital shaking at 600 RPM. Next, 200 μL of 100% ethanol (Koptec) was added to each sample before mixing and samples were transferred to a nucleic acid binding (NAB) plate (Pall) on a vacuum manifold with a 96DW collection plate. Each well in the NAB plate was then washed once with 500 μL buffer AW1 (QIAGEN) and once with 500 μL of buffer AW2 (QIAGEN). A vacuum was applied to the Pall NAB plate for an additional 10 min to remove any excess ethanol. Samples were then eluted into a clean 96DW plate from each well using 110 μL of buffer AE (QIAGEN) preheated to 56 °C. Genomic DNA samples were stored at −20 °C until further processing.
+
+Genomic DNA concentrations were measured using a SYBR Green fluorescence assay and then normalized to a concentration of 1 ng μL−1 by diluting in molecular grade water using a Tecan Evo Liquid Handling Robot. First, genomic DNA samples were removed from −20 °C and thawed in a room temperature water bath. Then, 1 μL of each sample was combined with 95 μL of SYBR Green (Invitrogen) diluted by a factor of 100 in TE buffer (Integrated DNA Technologies) in a black 384-well microplate. This process was repeated with two replicates of each DNA standard with concentrations of 0, 0.5, 1, 2, 4, and 6 ng μL−1. Each sample was then measured for fluorescence with an excitation/emission of 485/535 nm using a Tecan Spark plate reader. Concentrations of each sample were calculated using the standard curve and a custom Python script was used to compute the dilution factors and write a worklist for the Tecan Evo Liquid Handling Robot to normalize each sample to 1 ng μL−1 in molecular grade water. Samples with DNA concentration <1 ng μL−1 were not diluted. Diluted genomic DNA samples were stored at −20 °C until further processing.
+
+Amplicon libraries were generated from diluted genomic DNA samples by PCR amplification of the V3–V4 of the 16S rRNA gene using custom dual-indexed primers (Supplementary Data 3) for multiplexed next-generation amplicon sequencing on Illumina platforms (Method adapted from Venturelli et al. Mol. Syst. Biol., 2018). Primers were arrayed in skirted 96-well PCR plates (VWR) using an acoustic liquid handling robot (Labcyte Echo 550) such that each well received a different combination of one forward and one reverse primer (0.1 μL of each). After liquid evaporated, dry primers were stored at −20 °C. Primers were resuspended in 15 μL PCR master mix (0.2 μL Phusion High Fidelity DNA Polymerase (Thermo Scientific), 0.4 μL 10 mM dNTP solution (New England Biolabs), 4 μL 5× phusion HF buffer (Thermo Scientific), 4 μL 5 M Betaine (Sigma-Aldrich), 6.4 μL Water) and 5 μL of normalized genomic DNA to give a final concentration of 0.05 μM of each primer. Primer plates were sealed with Microplate B seals (Bio-Rad) and PCR was performed using a Bio-Rad C1000 Thermal Cycler with the following program: initial denaturation at 98 °C (30 s); 25 cycles of denaturation at 98 °C (10 s), annealing at 60 °C (30 s), extension at 72 °C (60 s); and final extension at 72 °C (10 min). 2 μL of PCR products from each well were pooled and purified using the DNA Clean & Concentrator (Zymo) and eluted in water. The resulting libraries were sequenced on an Illumina MiSeq using a MiSeq Reagent Kit v3 (600-cycle) to generate 2 × 300 paired-end reads.
+
+Sequencing data were demultiplexed using Basespace Sequencing Hub’s FastQ Generation program. Custom python scripts were used for further data processing (method adapted from Venturelli et al. Mol. Syst. Biol., 2018)16. Paired end reads were merged using PEAR (v0.9.10)83 after which reads without forward and reverse annealing regions were filtered out. A reference database of the V3–V5 16S rRNA gene sequences was created using consensus sequences from next-generation sequencing data or Sanger sequencing data of monospecies cultures. Sequences were mapped to the reference database using the mothur (v1.40.5)84 command classify.seqs (Wang method with a bootstrap cutoff value of 60). Relative abundance was calculated as the read count mapped to each species divided by the total number of reads for each condition. Absolute abundance of each species was calculated by multiplying the relative abundance by the OD600 measurement for each sample. Samples were excluded from further analysis if >1% of the reads were assigned to a species not expected to be in the community (indicating contamination) or if they had <1000 total reads and OD600 > 0.1 (indicating that there were insufficient reads for analysis and this was not due to lack of community growth).
+
+Supernatant samples were thawed in a room temperature water bath before addition of 2 μL of H
+
+All germ-free mouse experiments were performed following protocols approved by the University of Wisconsin-Madison Animal Care and Use Committee. Two diets were used in this experiment: regular diet with lower arginine concentration (Chow diet, Purina, LabDiet 5021) and high arginine diet (Envigo, TD.210715). All strains were grown at 37 °C anaerobically in YBHI media (Acumedia, Bacto, and Sigma-Aldrich) to stationary phase. All strains for a oral gavage were mixed in equal proportions based on OD600 and transferred on ice prior to oral gavage. We used 8-week old C57BL/6 gnotobiotic male mice (wild-type) fed the specific diets 3 days prior to oral gavage (
+
+The DNA extraction for fecal and cecal samples was performed as described previously with some modifications
+
+Organic acids were quantified using headspace gas chromatography (HS-GC). Frozen cecal samples (15 ~ 40 mg) were prepared for by adding the weighed samples to chilled 20 mL glass vials (Restek, Bellefonte, PA) with 2.0 g of sodium hydrogen sulfate for acidification, distilled water (300 μL – mg of cecal content), and 1.0 mL of 500 μM 2-butanol as an internal standard. Glass vials were immediately sealed with aluminum crimp caps with rubber septa (Restek, Bellefonte, PA), vigorously mixed by hand to mix contents, and left at room temperature overnight. Prepared samples were loaded on a HS-20 headspace sampler (Shimadzu, Columbia, OH) connected to a Shimadzu GC-2010 Plus GC with a flame ionization detector. The column used was an SH-Stabilwax (30 m, 0.25 mm internal diameter, 0.10 μM film thickness). The GC protocol used is described in Hutchison et al. (2023)
+
+The RNA extraction of the contents of each cecum was performed as described previously with some modifications
+
+We performed cDNA synthesis with 0.5–1 μg of total purified RNA using the iScript Select cDNA Synthesis Kit (Bio-Rad Laboratories). We performed quantitative reverse transcription PCR (qRT-PCR) on the Bio-Rad CFX connect Real-Time PCR instrument with SYBR
+
+The previous human microbiome metagenome-assembled genome (MAG) dataset containing 154,723 MAGs from 9,428 human gut microbiomes from diverse geographic location, body sites, diseases, and lifestyles was used as the reference database
+
+The pH model shown was adapted from the growth model with pH mediation developed by the Gore lab
+
+Bacterial species density
+
+Monoculture timeseries growth data and supernatant pH measurements at various initial pH were fit with the pH model for each species of interest (
+
+The pH model fitted on monoculture growth was used to predict community dynamics. Parameters optimized for monoculture of each species of interest were used to simulate community growth curve and pH changes using Python ODE solver scipy.integrate.solve_ivp. Differences between model prediction and experimental result were evaluated by mean squared error of all species relative abundances. Shannon diversity index was calculated following

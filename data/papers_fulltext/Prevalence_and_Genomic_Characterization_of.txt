@@ -1,0 +1,51 @@
+Canine brucellosis is an illness caused mainly by
+
+Since its discovery in 1966 in the USA [
+
+Added to the above, all
+
+Considering that
+
+Dogs were sampled with prior institutional (permit code 18131-VET-UCH) and signed owner consent in the Metropolitan region in the capital region of Chile. A total of 771 samples were obtained through cephalic or jugular venipuncture, where 143 blood samples were collected from household dogs, 178 were collected from dogs from seven breeding kennels, and 450 were collected from dogs from eleven shelters during the 2018–2019 period. Sample size was calculated considering that, in the Metropolitan region, Chile, there is an estimated dog population of 1,188,468 individuals, with 394,716 registered owned dogs and a population of 274,580 of dogs that roam free [
+
+All blood samples collected in serum tubes were centrifuged at 5000×
+
+All blood samples collected in tubes with anticoagulant were analyzed in a class 2A biosafety cabinet (Heal Force Safe 1200, Shanghai, China) with prior institutional biosecurity permission (permit code 114-VET-UCH) by means of microbiological culturing according to Alton et al. [
+
+All presumptive
+
+The purified DNA was used to perform the qPCR analysis using forward (5′-ACGAACACAAGGGCCAATAC-3′) and reverse primers (5′-GGACGGCTACAAGATCGAAG-3′), previously described for
+
+A total of 1 ng of DNA was used to perform sequencing libraries using the Nextera XT DNA Library Prep kit (Illumina
+
+The quality of the reads was assessed using the FastQC software (Babraham Institute, Babraham, Cambridge, UK). Subsequently, raw reads were trimmed with the Fastx tool kit (Cold Spring Harbor Laboratory, Cold Spring Harbor, NY, USA) to remove low-quality reads, remaining adapters, and short-length sequences (<50 bp).
+
+With the sequencing reads of the
+
+Prevalence obtained by serology and/or blood culture was treated as a binary trait and analyzed using logistic regression in order to estimate the probabilities of risk given sex and origin (household dogs, kennel dogs, and stray dogs). The probabilities conditional on significant effects were obtained using the following model: px = 11 + e − (bo + b1x), where p(x) is the probability of success given the effect (sex and origin), bo is the intercept, b1 is the regression coefficient for each effect considered, and x is the level of the effect. All these analyses were performed using R software v3.5.0 (
+
+From the 771 samples analyzed, the infection was detected by culture and/or serology in 7.0% (n = 54) of the animals, isolating the pathogen in 1.3% (n = 10) of them, with a seropositivity of 6.6% (n = 51). Of the 10 bacteriologically positive dogs, six corresponded to household dogs and four to stray dogs.
+
+The infected animals corresponded to 31 females and 23 males, with ages varying from 1 year to 13 years. Most animals did not show clinical signs, but in those who did the most frequently presented were discospondylitis and lumbar pain.
+
+The results of the qPCR from blood of bacteriologically positive dogs showed amplification across all the samples (
+
+Seven strains were subjected to WGS (9, 45, 119-1, 119-2, 124, 128, and 301), and a total of 19,627,877 reads were obtained, with an average of 2,803,982 high-quality reads per genome for the
+
+A high similarity in the sequenced genomes compared with the SCL strain was detected. The complete
+
+Several studies have addressed the seroprevalence of
+
+Here, the low isolation rate of
+
+It is well known that
+
+Regarding the detection of
+
+Stray dogs harbored in public or private shelters currently appear as a new significant risk factor for public health due to the growing trend of adopting pets whose sanitary status prior to adoption is unknown. In these animals, the seroprevalence detected (5%) is lower than that reported in different countries such as Argentina, Colombia, Jordan, Mexico, Turkey, and the USA, with values ranging from 6.8% to 37.8% [
+
+To date, few studies have been carried out on characterizing the complete genome of the circulating strains of
+
+Regarding other virulence factors of
+
+This is the first study that characterized

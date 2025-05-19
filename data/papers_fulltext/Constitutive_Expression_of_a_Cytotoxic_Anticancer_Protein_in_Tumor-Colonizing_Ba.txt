@@ -1,0 +1,39 @@
+Bacterial cancer therapy relies on the inherent traits of certain facultative anaerobic bacteria that are capable of intratumoral penetration and localization in hypoxic areas presumably because of chemotaxis toward molecules produced by tumors and the immune-privileged environment of tumors [
+
+Tumor-colonizing bacteria can be used as a delivery system for therapeutic molecules that promote tumor elimination. However, this type of application is problematic for pathogenic
+
+In this study, we determined the fate of the
+
+Bacterial strains and plasmids are listed in
+
+Female BALB/c mice (6–8 weeks, 18–20 g) were obtained from Orient Bio (South Korea). CT26 colon cancer cells and 4T1 murine mammary carcinoma cells were purchased from ATCC Korea and cultured in high-glucose DMEM supplemented with 10% fetal bovine serum and 1% penicillin-streptomycin. Cells (1 × 10
+
+For in vivo experiments, excised tissues were stored at −80 °C in 1 mL tubes containing RNA protection reagent (Qiagen, Hilden, Germany). For RNA isolation, 50–100 mg tissue was homogenized in 1 mL Trizol (Gene All, Seoul, Republic of Korea, RiboEx, cat. no. 301–001). RNA extraction procedures were performed according to the manufacturer’s recommendations. RNA samples were treated with
+
+The qPCR mixtures (20 µL) consisted of the template cDNA (30 ng), a primer set (0.25 µM, each), and qPCR 2× PreMix (10 µL) (Enzynomics, TOPreal
+
+At 1 and 3 days after
+
+Flamma
+
+For in vivo analysis, the NHS-conjugated bacteria were injected into CT26-grafted mice through the tail vein (
+
+NHS-conjugated
+
+In vivo analysis of tumor targeting bacteria was performed using the isolated organs from tumor-bearing mice treated with each bacterial strain. The organs from the mice were fixed with 3.9% formaldehyde overnight at room temperature and embedded in 20% sucrose (Sigma-Aldrich) to remove formaldehyde. Tissues were then frozen in OCT compound (Optimal Cutting Temperature, Tissue-Tek, Torrance, CA, USA) and sliced into 7 µm-thick sections using a microtome (Thermo Scientific, Cryostat Microm HM525). To remove the OCT compound, the slices were dried for 15 min at room temperature, washed three times with 1× PBS, and fixed with absolute acetone. The slides were incubated in 1× PBS containing rabbit anti-
+
+To examine the expression of the TP protein in vitro, overnight cultures of ΔppGpp
+
+Data were analyzed using GraphPad Prism v.8.0.2 software. The differences between the mean values of the two groups were analyzed using the unpaired two-tailed Student’s
+
+The fate of bacteria injected into tumor-bearing mice through the tail vein was examined using a common laboratory strain of
+
+For bacteria-mediated cancer therapy,
+
+To determine whether the rrnB P1 promoter could drive the expression of cytotoxic anticancer proteins, the rrnB P1 promoter sequence was cloned in place of the
+
+The expression and secretion of TP from tumor targeted ΔppGpp
+
+In this study, we determined the fate of attenuated noninvasive ΔppGpp
+
+This study demonstrated that bacteria that reside in tumor tissues actively proliferate, whereas those in the RES die off after injection into tumor-bearing mice. A cytotoxic anticancer protein gene fused to a constitutive promoter was expressed only in the bacteria residing in the tumor tissue, resulting in tumor suppression.

@@ -1,0 +1,59 @@
+Although antibiotics have been effective at controlling diverse bacterial pathogens, the selective pressure on bacterial growth resulted in the emergence and spread of antibiotic-resistant pathogens [
+
+Enterohemorrhagic
+
+EHEC colonizes the large intestine and forms attaching and effacing (A/E) lesions by destroying microvilli and rearranging the actin cytoskeletons of enterocytes to form pedestal-like structures, to which the pathogen adheres [
+
+The
+
+To date, several inhibitor molecules for the transcriptional regulator Ler, such as yomogin and diosmin, have been identified [
+
+The bacterial strains and plasmids used in this study are listed in
+
+The primers used in this study are listed in
+
+First, a custom single guide RNA (sgRNA)-expressing plasmid, pTargetF_
+
+Next, a repair template consisting of the gene to be inserted (
+
+Finally, the repair template and pTargetF_
+
+To construct the HTS system, reporter strains carrying the GrlA-expressing plasmid and reporter plasmid were created. The
+
+The HTS was performed as described previously with a slight modification [
+
+
+
+HeLa cells (ATCC CCL-2) were kindly provided by Dr. S.H. Choi at Seoul National University and cultured at 37°C with 5% CO
+
+The preparation process for total RNA extraction from the HeLa cell-attached EDL933 was described elsewhere [
+
+For qRT-PCR analysis, complementary DNA (cDNA) was synthesized using the iScript Reverse Transcription Supermix (Bio-Rad Laboratories, USA). For each well, 10 μl of 2X iQ SYBR supermix (Bio-Rad), 0.5 μl of forward primer, 0.5 μl of reverse primer, 7 μl of Nuclease-free water, and 2 μl of cDNA template were added, and amplification was performed using QuantStudio Real-Time PCR System (Applied Biosystems, USA). The genes that were closest to the promoter of each LEE operon were examined. The relative expression levels of the transcripts were calculated using the expression level of the
+
+The data from at least three independent experiments were expressed as the mean ± standard deviation (SD). Statistical analyses were performed using GraphPad Prism software version 7.0. The Student’s
+
+When grown in LB medium, the
+
+To screen the chemical libraries for GrlA inhibitors, an HTS system was constructed, as described in the Materials and Methods section. Since the
+
+To identify the anti-virulence molecule that prevents EHEC adherence to host cells via GrlA inhibition, a total of 8,201 compounds from the Korea Chemical Bank were screened at a concentration of 20 μM using the heterologous host reporter strain SY2102. After the initial screening, 80 compounds with a 50 or higher %inhibition were classified as “possible hits” and examined further in triplicate. It should be noted that the compounds that showed reproducible results in the triplicate experiments were selected as “initial hits.” The compounds that showed growth inhibition were excluded from the hits because the purpose of this HTS was to identify the molecules that would not result in selective pressure on
+
+The molecules were further validated using the homologous host reporter strain SY2110, and 6 of 16 compounds were chosen at this step (
+
+GrlA is a membrane-bound, mechano-sensing transcriptional regulator, the mechanism of which is liberation from the bacterial inner membrane [
+
+All the above results were obtained from artificial reporter systems. Therefore, two compounds were examined again to assess whether they reduced the expression of the
+
+Next, the effects of Grlactin on the expression of the LEE operons were examined. For each operon, the
+
+One of the known LEE operon-mediated pathological phenotypes in EHEC is host cell adhesion [
+
+Based on the molecular version of Koch’s postulation, an anti-virulence strategy has been proposed and explored for various virulence factors in diverse pathogens [
+
+Although the crystal structure of the full-length GrlA has not yet been solved, the structure of a truncated GrlA, with its carboxyl 31 residues omitted (GrlAΔ, 1-106 amino acids), is available in the form of the GrlR-GrlAΔ complex [
+
+The selected inhibitor, Grlactin, significantly downregulated the expression levels of the examined LEE genes (except for
+
+Lastly, the consequence of Grlactin treatment on EHEC adhesion was examined using HeLa cells. As expected, the number of bacteria attached to the HeLa cells was significantly reduced (by approximately 1.6-fold) after treatment with Grlactin (20 μM;
+
+Overall, this study demonstrates the small molecule Grlactin as an antibiotic alternative that downregulates LEE gene expression and the initial adhesion of EHEC onto host cells by affecting GrlA function. Grlactin is a synthetic compound, and information on this molecule is limited. It has the potential to be developed as a novel anti-adhesion agent for EHEC; however, future research should include a safety assessment and mechanistic studies, such as the effects of Grlactin on the binding of GrlA to its target promoter DNA.

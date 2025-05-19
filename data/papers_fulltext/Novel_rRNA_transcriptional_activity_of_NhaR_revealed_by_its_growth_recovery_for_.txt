@@ -1,0 +1,115 @@
+Bacterial cells undergo several physiological and physical changes to adapt and survive under unfavorable conditions, when exposed to stressful environments, including extreme temperatures, pH shifts, limited nutrients, oxidative stress, osmotic stress, and antimicrobial agents. These changes include the regulation of growth rate, protein synthesis, cell morphology, and membrane synthesis. To support these protective mechanisms, expressions of numerous stress-responsive genes are up- and downregulated at the transcription, translation, or post-translational levels.
+
+Ribosomes are the machineries for protein synthesis and play a significant role in determining the overall gene expression profile of the cell. Therefore, cells must regulate the appropriate intracellular level of ribosomes and translation rate under stressful conditions. Numerous protein factors are associated with ribosomes, which regulate ribosome assembly and protein synthesis in response to environmental stresses (
+
+Among the stress-responsive ribosome-associated factors, BipA is highly conserved in bacteria, is also found in chloroplasts (
+
+Upon exposure to ultraviolet (UV) radiation, desiccation, antibiotics, antimicrobial peptides, extreme pH, temperature, salt, or pressure, bacterial cells produce capsular polysaccharides or biofilms as a physical barrier to protect cells and assist survival under hostile conditions (
+
+In our recent reports, genomic library screening was carried out to identify a suppressor that restores the cold sensitivity of the
+
+In this study, we investigated another positive suppressor of
+
+Our efforts to elucidate the role of NhaR in suppression revealed that in addition to
+
+The
+
+Bacterial strains and plasmids used in this study.
+
+
+
+A genomic library construction of the
+
+To construct truncated clones from pBIS07, DNA fragments were amplified by PCR from pBIS07 using the primer pairs listed in
+
+The overnight cultures grown in LB medium at 37°C were diluted to OD
+
+The overnight cultures grown in LB medium at 37°C were diluted to the OD
+
+Overnight cultures were diluted 10
+
+From cells growing exponentially at 37°C, 1 mL of cultures per 0.5 of OD
+
+The cells were cultivated at 37°C or 20°C until OD
+
+Total RNA was extracted as previously described (
+
+Total RNA was treated with RNase-free DNase I (TaKaRa) at 37°C for 30 min to remove contaminating genomic DNA. DNase was inactivated and removed by phenol extraction. cDNA was synthesized using 1 μg of DNase-treated RNA, 20 pmol of 3′ primer (
+
+The pRS414 derivatives were introduced into ESC69 transformants harboring pACYC184, pACYC184BipA, or pBIS07-1. The cells were incubated at 37°C or 20°C in the early exponential phase and harvested by centrifugation. The pellets were resuspended in 400 µL of Buffer Z (60 mM Na
+
+BL21 (DE3) cells harboring pET28NhaR or pET28NhaR
+
+DNA fragments were amplified by PCR using the primers listed in
+
+The results are presented as mean ± S.D. of three independent experiments. The data were analyzed using an unpaired two-tailed
+
+In our previous studies, to understand the function of BipA and to identify its functionally associated partner(s), we performed genomic library screening and isolated clones recovering the growth defect of the
+
+Identification of a suppressor that recovered growth defects of the ESC19 at 20°C.
+
+As mentioned above, NhaR consists of two domains, an N-terminal DNA-binding domain with an HTH motif and a C-terminal co-inducer (Na
+
+As mentioned above, two suppressors, L20 and YebC, have discrete suppression mechanisms that recover ribosome biogenesis and surface polysaccharides, respectively (
+
+Suppressive effect of NhaR on capsule and biofilm.
+
+These morphological changes were further visualized by presenting the three-dimensional structures of the macrocolonies (lower panel in
+
+As mentioned above, the deletion of
+
+Therefore, we investigated whether NhaR partially suppresses capsule overproduction, leading to changes in biofilm formation. ESC19 transformants harboring pACYC184, pACYC184BipA, pBIS05-2, and pBIS07-1 were grown in LB medium at 37°C or 20°C with shaking. The biofilm formed on the inner surface of the glass tubes was quantified using crystal violet staining. As shown in
+
+In ESC19 at 20°C, the impaired LPS synthesis accumulating the LPS core precursor transmits the signals of the Rcs pathway, leading to the overproduction of capsular polysaccharides (
+
+Bile salts sensitivity of the suppressed cells.
+
+As mentioned above, the deletion of
+
+Effect of NhaR on swimming motility.
+
+This possibility was further verified by analyzing transcript levels of flagella-related genes (
+
+A comparison of the growth recovery by the three suppressors L20, YebC, and NhaR revealed that similar to L20, NhaR resulted in a faster growth restoration than did YebC, implying a ribosome recovery in the NhaR-suppressed cells (
+
+As observed in our previous studies (
+
+Restoration of ribosome assembly defects by overexpression of
+
+Subsequently, these abnormalities in the 50S ribosomal subunit were analyzed at a lower sucrose gradient concentration. In the transformants grown at 37°C, both the 50S and 30S ribosomal subunits were well separated without a noticeable aberrant peak. However, ESC19 cells harboring pACYC184 and pBIS05-2 grown at 20°C showed two additional peaks at aberrant positions between the 50S and 30S ribosomal subunits (red and blue arrowheads in
+
+During rRNA maturation, a series of endo- and exo-ribonucleases, and modification enzymes are required to produce mature and functional rRNA. Ribosome assembly defects are generally accompanied by rRNA processing abnormalities (
+
+At 20°C, the ESC19 cells with pACYC184 accumulated 23S rRNA precursors at a high level (P23S-U, 0.99), which was significantly reduced in the ESC19 cells with pACYC184BipA, pBIS02-2, or pBIS07-1 (pACYC184 BipA, 0.21; pBIS02-2, 0.47; pBIS07-1, 0.19) (
+
+Reduction in the levels of rRNA precursors by overexpression of
+
+Similar to 23S rRNA, 16S rRNA was typically processed in all transformants at 37°C, leaving a trace amount of precursors. On the contrary, at low temperature, unprocessed 16S rRNA precursors were highly accumulated in ESC19 with pACYC184 (P16S-U, 0.17; P16S-D, 0.16), which was reduced by overexpression of
+
+Ribosome biogenesis is a complex and energy-consuming process governed by the levels of rRNA and r-proteins and their relative ratios. The expression of rRNA is fine-tuned by transcriptional regulators such as Fis, H-NS, and Lrp (
+
+Thus, we investigated the effect of
+
+Effect of NhaR on rRNA expression.
+
+Next, we tested whether NhaR directly binds to the promoter of
+
+So far, the possible roles of NhaR in suppressing
+
+Effects of
+
+In this study, we investigated the possible suppression mechanism of NhaR on
+
+The various impairments in the ESC19 cells and their suppression by NhaR could be postulated by a global regulatory system, “Rcs (
+
+Assuming that LPS damaged by
+
+Despite the deterioration of LPS defects by NhaR, the NhaR-suppressed cells seemed to produce slightly less capsule and marginally reduced motility compared to the ESC19 cells harboring pACYC184 at low temperature (
+
+For biofilm formation, the minute reduction in colanic acid overproduction by NhaR can contribute to the recovery of biofilm-forming ability because it inhibits bacterial adhesion to solid surfaces at the early stage of biofilm development (
+
+There is a clear difference between YebC- and NhaR-mediated suppression, as the former alleviated the accumulation of defective LPS core, reduced capsule production, and increased biofilm formation. However, the latter did not relieve the impairment of LPS synthesis. Based on these findings, suppressors can be categorized into surface polysaccharide and ribosome suppressors. Most importantly, the suppressive NhaR modulated rRNA transcription in ESC19 at low temperature, promoting ribosome assembly, even though the strain ESC61 did not show evident ribosome defects (
+
+Moreover, the
+
+In summary, the functional study of NhaR in ESC19 revealed that the novel role of NhaR may be implicated in LPS synthesis and motility, possibly acting as a negative regulator. Moreover, we found that cold-inducible NhaR might be involved in the regulation of rRNA transcription at low temperature.

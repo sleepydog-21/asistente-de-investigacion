@@ -1,0 +1,85 @@
+Toxin-antitoxin (TA) systems are small genetic elements widespread in bacterial chromosomes and plasmids, which typically encode for a noxious protein and for an antitoxin protein or a non-coding RNA capable of neutralizing toxin activity (Yamaguchi et al.
+
+The DinJ-YafQ TA system has been first identified and functionally characterized in
+
+Recently, we identified DinJ-YafQ TA systems in different
+
+The strains 4366 and 2333 of
+
+Recombinant cells were grown in Luria-Bertani (LB) medium (10 g/L tryptone, 10 g/L NaCl, and 5 g/L yeast extract), supplemented with 50 μg/mL kanamycin for pET28b or 100 μg/mL ampicillin for pET11b, until OD
+
+DinJ and the DinJ-YafQ complexes were purified by affinity chromatography on a HisTrap FF crude column connected to an ÄKTA Pure FPLC System (GE Healthcare). After loading supernatant, the column was washed with 2 M NaCl to remove nucleic acid contaminants. Protein fractions were eluted with elution buffer (50 mM Tris-HCl, pH 7.5, 250 mM KCl, 5 mM MgCl
+
+RNase activity was measured by disappearance of ribosomal RNA bands in 1% agarose gel electrophoresis stained with Midori green (NIPPON Genetics). The 10-μL reaction mixes containing 170 ng of RNA in 10 mM Tris-HCl, pH 7.5, and increasing concentrations of YafQ or DinJ-YafQ complex were prepared at room temperature and incubated at 37 °C for 15 min. The reactions were quenched by adding 2 μL of loading dye (10 mM Tris-HCl pH 7.6, 0.03% bromophenol blue, 0.03% xylene cyanol, 60% glycerol, 60 mM EDTA). After electrophoresis, the gel image was recorded using a ChemiDoc MP imager (Bio-Rad).
+
+A 194-bp DNA fragment harboring the promoter region of the
+
+Protein-DNA complexes were assembled using 20 nM DNA and 100 nM DinJ-YafQ in buffer 4 mM HEPES pH 7.4, 50 mM KCl, and 2 mM MgCl
+
+The position of DinJ-YafQ bound on the DNA template was determined by measuring the contour length of the two DNA arms as described in Doniselli et al. (
+
+The volume/MW calibration curve used to infer the stoichiometry of DinJ-YafQ/DNA complexes was obtained using four globular proteins of known molecular mass (Fig.
+
+For the competition with RNA polymerase, the fluorescently labeled 194 bp DNA fragment employed for the EMSA assays was used. The 10-μL reaction contained 2 nM DNA, 128 ng of salmon sperm DNA, and increasing concentrations of DinJ-YafQ in 20 mM Tris-HCl, pH 7.9, 50 mM KCl, 5 mM MgCl
+
+The promoter region of the
+
+DinJ-YafQ homologs that exhibit sequence conservation in promoter regions were identified by BlastX search using MK544944.1 as query. The nucleotide sequences of the regions upstream of the corresponding genes were aligned using ClustalO at default settings at the EMBL-EBI webportal (
+
+DinJ and YafQ model structures were obtained by homology modeling using SWISS-MODEL (
+
+Recombinant DinJ, YafQ, and DinJ-YafQ complex from
+
+Oligomeric state characterization of purified DinJ and DinJ-YafQ complex.
+
+The ribonuclease activity of YafQ_pa4366 and YafQ_pa2333 was investigated by evaluating the degradation of total RNA isolated from the corresponding strains as described in Levante et al. (
+
+YafQ RNase activity and inhibition by DinJ. Agarose gel electrophoresis showing ribosomal RNA (16S and 23S) cleavage assays at increasing protein concentrations.
+
+Several studies have reported that type II antitoxins and TA complexes act as transcriptional regulators of the TA operon (Fraikin et al.
+
+DNA-binding activity of DinJ-YafQ complex and DinJ antitoxin.
+
+To address a possible regulatory role of the identified inverted repeat, we have employed gel mobility shift assays (EMSA) to investigate the binding of DinJ and DinJ-YafQ complex to the promoter region. A 194-bp long fluorescently labeled DNA fragment, with the inverted repeat positioned in the center, was incubated with either DinJ or DinJ-YafQ complex and analyzed by a 6% native polyacrylamide gel electrophoresis. As shown in Fig.
+
+To investigate the interaction between DinJ-YafQ and the TA promoter, we have employed atomic force microscopy (AFM) imaging. DinJ-YafQ/DNA complexes were assembled in solution, cross-linked with glutaraldehyde, and deposited onto freshly-cleaved mica as described in “Material and methods.” The glutaraldehyde cross-linking was necessary to prevent complex dissociation upon adhesion to the hydrophilic mica surface. A linear DNA fragment of 1051 bp containing the TA promoter with the operator site positioned at 404 bp from one end was used as a template. As shown in Fig.
+
+AFM analysis of DinJ-YafQ/DNA complexes.
+
+To validate the hypothesis that DinJ-YafQ binds its own promoter and represses transcription, we performed RNAP competition binding assays using EMSA. Due to the unavailability of purified
+
+RNA polymerase promoter binding competition by DinJ-YafQ. Agarose gel electrophoresis showing the band-shift of a 194 bp fluorescently labeled DNA fragment harboring the
+
+From the sequence and structure alignment of
+
+Effect of the DinJ R13A substitution on DNA binding.
+
+Next, we performed a set of in vivo experiments aimed to validate the hypothesized repression of the
+
+In vivo transcriptional repression by DinJ and DinJ-YafQ.
+
+The unexpected high expression-related toxicity of GFP, that adds up to the intrinsic YafQ toxicity, complicates the interpretation of the
+
+Type II TA systems, such as DinJ-YafQ, are widely distributed among different bacterial species and represent stress-response mechanisms acting by blocking or slowing down essential cell processes to overcome adverse growth conditions. Although TA systems are extensively studied in pathogenic bacteria, little has been reported for lactic acid bacteria in spite of their extensive application in food, nutraceutical, and pharmaceutical industries.
+
+In this study, we investigated the functional role of recombinant DinJ and YafQ from strains 4366 and 2333 of
+
+As reported for other type II TA systems in general, and for
+
+Our DNA binding assays show that the DinJ-YafQ complex of both 4366 and 2333 strains binds the operator site cooperatively and with an affinity in the nanomolar range. Cooperative DNA binding has been previously suggested for the RelBE system (Bøggild et al.
+
+Model of DinJ-YafQ binding to DNA inverted repeat.
+
+As shown for other DinJ-YafQ TA systems (Liang et al.
+
+In support of the proposed RHH motif involvement in the DNA binding of DinJ is the observation that the R13A mutation of
+
+Last, we present in vitro and in vivo experiments aimed to evaluate
+
+Interpretation of experiments aimed to validate transcriptional repression by DinJ-YafQ in vivo was problematic due to an unexpected toxicity of the reporter GFP when expressed at high concentrations. In a previous study, a construct with a
+
+Overall, the data demonstrate that DinJ-YafQ TA systems from different
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PDF 652 KB)

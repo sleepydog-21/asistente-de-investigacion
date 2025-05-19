@@ -1,0 +1,51 @@
+The gut microbiome plays a key role in bile acid (BA) metabolism, where a diversity of metabolic products contributes to human health and disease (
+
+SBAs and downstream SBA metabolites exert anti-inflammatory activities relevant to IBD, as indicated by
+
+Transformation of PBAs into SBAs has been studied biochemically and
+
+Here, we analyzed hundreds of stool samples with paired metagenomic and metabolomic data and found that the host’s SBA:PBA ratio was, indeed, explained, to a large extent, by the abundance of bai genes in the gut community. Investigating the sequence diversity of bai genes in these metagenomes revealed that three bai-carrying taxa are much more prevalent and abundant than the rest, which suggests low redundancy of this biological function in the human gut, a finding consistent with the depletion of SBAs in dysbiotic IBD patients. We also found that the BA-transforming bacteria most abundant in IBD patients differed from those most abundant in non-IBD controls, with the single most abundant cluster of control-associated bacteria unrepresented in isolate collections. These unisolated BA-transforming bacteria hold potential for drug development, as we observed them engrafting in IBD patients who had undergone fecal microbiota transplantation and experienced a clinical response.
+
+We performed an exhaustive literature search for data sets with high-quality stool metagenomic sequencing and metabolomic measurements of IBD patients and controls. Two studies met our criteria for sequencing depth (more than 10 million reads per sample) and bile acid measurements (at least one estimate per pair: CA/CDCA and DCA/LCA). We obtained metabolomic measurements of fecal samples from the supplementary materials of Franzosa et al. (
+
+We based our reference set of bai gene amino acid sequences on the MAG search performed by Vital et al. (
+
+Raw metagenomic sequencing reads from the Franzosa et al. and Lloyd-Price et al. human gut samples were downloaded from NCBI’s sequencing read archive. We quality-filtered and trimmed the reads with trimmomatic (v0.38, parameters MINLEN:75 TRAILING:20 SLIDINGWINDOW:4:20) and removed any reads that mapped to the hg19 human genome reference with bowtie2 (v2.3.5, default parameters). To estimate the relative abundance of bai genes in each sample, we mapped the trimmed and filtered reads to our reference set of bai gene amino acid sequences. Reads were mapped with diamond (v0.9.14) and using a threshold of a minimum 90% identity over at least 25 amino acids, with the best single match assigned.
+
+In each gut metagenome sample, we counted the number of reads mapping to each of the eight bai operon genes, ignoring which particular genome provided the reference sequence. Dividing these counts by the number of quality-filtered reads in the sample’s data set provided a depth-normalized estimate of the relative abundance of each bai gene in each sample. To estimate the relative abundance of the bai operon overall, we took the geometric mean of the abundance across all eight genes. Genes with no reads mapped in a given sample were assigned a pseudocount of 10
+
+Next, we investigated the diversity, abundance, and prevalence of the bacterial taxa that contained bai genes in the Franzosa et al. samples. We first calculated the amino acid sequence identities between all pairs of genes within each bai family in our bai gene reference database with blastp (v2.7.1). We then averaged the percentage identity across the eight bai gene families (sum of matching amino acids divided by sum of alignment lengths) for all genome pairs, excluding those for which less than 80% of the total bai gene sequence length aligned. The reference genomes were subsequently clustered at a threshold of 90% amino acid identity across the bai operon. Using these cluster assignments for each bai reference genome, we determined the best-hit bai cluster for each mapped read from the metagenomes above and assessed the prevalence and abundance of each distinct cluster of bai-carrying bacteria. Prevalence was defined as the proportion of samples in which at least four bai genes from each cluster recruited at least one read. We also calculated correlations between the abundance of each pair of clusters with the Spearman rank-order correlation test (scipy.stats.spearmanr, v1.10.0).
+
+To assess the phylogenetic relationships between the bacterial clusters, we identified one high-completeness (according to checkM) representative MAG from each species-level genome bin (95% whole-genome sequence identity cluster) identified in the Vital bai reference data set and the MIDAS bai-containing genomes. For each species-level representative, we identified 32 core single-copy genes from each genome using the MarkerScanner.pl software and hidden markov models provided by amphora2 (
+
+Finally, we assessed whether the abundance of bai genes can be influenced by fecal microbiota transplantation (FMT). We focused on a single FMT study (
+
+We discovered that in a subset of IBD patients, the fecal BA pool showed a deficiency in SBAs and that the gut microbiome’s bai operon abundance largely explained that deficiency. Analyzing two independent multi-omics cohorts, we found that the abundance ratio of DCA to CA was bimodal, where in the majority of IBD samples that ratio was greater than 1, but in a large minority (30% of CD patients and 16% of UC patients), it was smaller than 1, a state we termed SBA-deficient (
+
+The abundance of bai operon genes was strongly predictive of the abundance of SBAs in stool. Here, we show scatterplots of secondary:primary bile acid ratio against the relative abundance of the bai operon as estimated from metagenomic read mapping for samples from Franzosa et al. (
+
+Despite observing a similar positive relationship between the bai operon abundance and the BA balance in our two IBD case-control data sets, we also observed divergent patterns between these data sets in the samples with very low bai operon abundance (geometric mean relative abundance less than 10
+
+Exploring the diversity of bai operon gene sequences, we found that three sequence clusters dominate our human gut samples, yet the most prevalent and abundant clusters differ between IBD patients and non-IBD controls. We clustered the reference bai operon sequences at 90% overall amino acid identity and obtained 17 clusters (see Materials and Methods). Of these clusters, only two were prevalent in non-IBD samples: cluster 2 (89% prevalence) and cluster 7 (72% prevalence;
+
+Prevalence (
+
+Correlations between the three most prevalent bai operon clusters in the Franzosa et al. metagenomes, with lines representing the Theil-Sen median of all pairwise slopes and intercepts. (
+
+Using a phylogenetic analysis, we found that bai operon clusters corresponded to mostly monophyletic clades of MAGs encompassing a small number of species-level genome bins (
+
+Core-gene phylogeny of species-level genome bins from the Pasolli et al. (
+
+Motivated by the opportunity to mitigate the depletion of SBAs and SBA-producing clades in IBD patients using therapeutic intervention, we sought evidence that supplementation of IBD patients with bai-carrying bacteria was possible by examining the abundance dynamics of these genes in a data set of microbiome samples from donors and patients undergoing FMT. In the Vaughn et al. (
+
+(
+
+Abundance dynamics in Vaughn et al. (
+
+Our results, building on previous work by Vital et al. (
+
+This low redundancy means that whenever the host gut environment does not support the growth of these specific microbes, their metabolic function is likely to be completely lost. It seems plausible that severe inflammation or other gut perturbations associated with IBD directly drive the few bai-carrying bacterial strains in many patients’ guts to low abundance, thereby eliminating their metabolic function. However, it is difficult to establish causal direction in these situations, as the gut microbiome both affects and is affected by metabolite concentrations (
+
+Our results highlight that BA transformation is predominantly performed by bacteria that have not been isolated. Of all bai-containing bacteria, the clade we annotated as cluster 7 is the most abundant and prevalent in healthy individuals and is rarely present in IBD patients. Moreover, in clinical FMT in IBD, cluster 7 is the only clade whose engraftment correlates with clinical improvement. Yet, these bacteria have not been studied functionally and representative isolates from this clade are not available (
+
+One of the observations in this work we find most intriguing is that cluster 10 (

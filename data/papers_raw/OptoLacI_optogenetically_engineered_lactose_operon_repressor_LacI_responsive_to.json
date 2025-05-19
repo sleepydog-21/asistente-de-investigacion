@@ -1,0 +1,11 @@
+{
+  "id": "38860425",
+  "title": "OptoLacI: optogenetically engineered lactose operon repressor LacI responsive to light instead of IPTG.",
+  "doi": null,
+  "authors": "Liu M, Li Z, Huang J, Yan J, Zhao G, Zhang Y",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Optogenetics' advancement has made light induction attractive for controlling biological processes due to its advantages of fine-tunability, reversibility, and low toxicity. The lactose operon induction system, commonly used in Escherichia coli, relies on the binding of lactose or isopropyl β-d-1-thiogalactopyranoside (IPTG) to the lactose repressor protein LacI, playing a pivotal role in controlling the lactose operon. Here, we harnessed the light-responsive light-oxygen-voltage 2 (LOV2) domain from Avena sativa phototropin 1 as a tool for light control and engineered LacI into two light-responsive variants, OptoLacIL and OptoLacID. These variants exhibit direct responsiveness to light and darkness, respectively, eliminating the need for IPTG. Building upon OptoLacI, we constructed two light-controlled E. coli gene expression systems, OptoE.coliLight system and OptoE.coliDark system. These systems enable bifunctional gene expression regulation in E. coli through light manipulation and show superior controllability compared to IPTG-induced systems. We applied the OptoE.coliDark system to protein production and metabolic flux control. Protein production levels are comparable to those induced by IPTG. Notably, the titers of dark-induced production of 1,3-propanediol (1,3-PDO) and ergothioneine exceeded 110% and 60% of those induced by IPTG, respectively. The development of OptoLacI will contribute to the advancement of the field of optogenetic protein engineering, holding substantial potential applications across various fields.",
+  "source": "PubMed",
+  "pmcid": "PMC11260447"
+}

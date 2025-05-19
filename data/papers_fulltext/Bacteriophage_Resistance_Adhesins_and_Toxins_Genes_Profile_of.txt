@@ -1,0 +1,49 @@
+The capacity of
+
+Biofilm formation is another important virulence factor based on the attachment, proliferation and maturation of bacteria embedded in a matrix of extracellular polymeric substances. Biofilms play an important role in the pathogenesis of chronic infection, developing and spreading drug resistance through antibiotic impermeability due to the polymer matrix, facilitating gene transfer through conjugation and increasing genetic mutations due to bacterial interactions and the development of isolates with new characteristics. In staphylococci, biofilm formation is associated with the presence of the
+
+Bacteriophages are present in nearly every environment and they play an important role in the control of bacterial population. Numerous reports focus on their in vitro application as whole bacteriophages or phage-derived endolysins to treat bacterial infections. Phages with strictly lytic life cycles are preferred for therapeutic implementation, resulting in killing their host since they have been found to diminish the chances of subsequent phage resistance [
+
+The aim of this study was the molecular characterization of antimicrobial resistance and virulence factors in
+
+This study included all
+
+The isolates were first identified using conventional methods, including colony morphology, Gram staining, standard biochemical tests and finally by Maldi-Tof MS (Bruker, Billerica, MA, USA). Briefly, bacteria were cultured on Mueller–Hinton agar supplemented with 5% sheep blood at 37 °C for 24 h. Pure colonies were applied as a thin film onto a steel plate and allowed to dry at room temperature. Subsequently, 1 μL of matrix (a saturated solution of α-cyano-4-hydroxycinnamic acid in 50% acetonitrile and 2.5% trifluoroacetic acid) was applied onto the colony and allowed to dry before testing. The identification was confirmed by PCR for the species-specific
+
+Biofilm formation was tested using a qualitative (glass tube assay) and a quantitative microtiter plate assay, as previously described [
+
+Susceptibility to Bacteriophage K was determined using a spot assay. The test was performed for each isolate in duplicate, using a phage suspension of 10
+
+DNA extraction from studied strains was performed using the QIAamp DNA Mini kit (Qiagen, Düsseldorf, Germany).
+
+For categorical variables, chi-square or two-tailed Fisher’s exact tests were conducted to calculate
+
+During the three-year period (2020–2023), 80 non-duplicated
+
+Thirteen (16.3%) isolates were phenotypically identified as MRSA and 41 (51.3%) were classified as multi-resistant. Of the 80
+
+Biofilm formation was an uncommon finding in our collection of
+
+The majority of
+
+The most frequent adhesin was FnbPA. In particular, 66/80 (82.5%) isolates carried
+
+The spot assay with Bacteriophage K demonstrated that twenty-five
+
+In the past, Greece has been described as a country with a heavy burden of MRSA infections. Various studies in the last two decades have reported a high incidence of community-acquired MRSA infections in children, largely associated with the spread of PVL positive clones [
+
+Biofilm formation is an important virulence factor for many bacteria, including
+
+Toxin production is another important factor in the pathogenesis of staphylococcal infections. The majority of
+
+To become a pathogen, staphylococci must gain access to the human host usually by adhering to biotic surfaces, such as components of the extracellular matrix or host tissue, or to abiotic surfaces, such as medical devices. Upon adherence, bacteria colonize and proliferate on the respective biotic or abiotic surfaces [
+
+Carriage of
+
+Bacteriophage-based therapies are promising tools in the era of antimicrobial resistance. Antibiotics were first introduced in the 1940s, leading to the belief that bacterial illnesses would be eradicated and the abandonment of traditional practices. However, bacteria, such as
+
+Several in vitro and in vivo studies have reported the potential of phages and their lysins to eradicate MRSA infections [
+
+The strength of this prospective study was the analysis of
+
+Although mainly methicillin-sensitive,

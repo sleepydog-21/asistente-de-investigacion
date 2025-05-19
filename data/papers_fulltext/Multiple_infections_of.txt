@@ -1,0 +1,31 @@
+Characterizations of
+
+Only few reports on
+
+The study was performed in accordance with the Institutional Animal Care and Use Committee guidelines of Southwestern University, Cebu and the Animal Welfare Act of the Philippines (RA8485), and with the approval of the attending veterinarians and proprietor of the veterinary establishment.
+
+DNA samples were obtained from blood of 25 dogs that were presented at the GPY Veterinare Animale Group of Veterinary Clinics, Cebu, Philippines. These dogs were thrombocytopenic and exhibited clinical signs suggestive of canine anaplasmosis [
+
+For the 16S rRNA PCR, DNA samples were tested using a previously described method [
+
+DNA samples which were found positive during the screening PCR were further analyzed using a
+
+Final amplicons were purified using a Gel Extraction Kit (QIAGEN, Valencia, CA, USA) and were cloned using a TA cloning kit (Invitrogen, USA). DNA sequencing was performed as described previously [
+
+All sequences were manually trimmed to include only the sequence of interest. Percent identities were computed, and multiple sequence alignments were performed as previously described [
+
+The screening PCR revealed 10 positive dogs. Obtained sequences (KP006398-KP006406) after alignment (1467 bp) were 99.6-100% identical to each other and 99.6-99.7% identical to the closest registered
+
+From the positive dogs, four were found coinfected with 2-3
+
+Regardless of the phylogenetic methods used, analyses based on the 16S rRNA gene showed that the obtained sequences formed a different
+
+Phylogenetic analysis of
+
+Based on the
+
+Phylogenetic analysis of
+
+Identities of the newly obtained sequences to registered
+
+APY and RHDY conceptualized the study and analyzed and wrote the manuscript. RRV contributed in the data analysis. NY and HI gave valuable insights and support in the conduct of the study.

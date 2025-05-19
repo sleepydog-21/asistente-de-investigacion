@@ -1,0 +1,11 @@
+{
+  "id": "36798213",
+  "title": "RNA polymerase sliding on DNA can couple the transcription of nearby bacterial operons.",
+  "doi": null,
+  "authors": "Tenenbaum D, Inlow K, Friedman L, Cai A, Gelles J, Kondev J",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "abstract": "DNA transcription initiates after an RNA polymerase (RNAP) molecule binds to the promoter of a gene. In bacteria, the canonical picture is that RNAP comes from the cytoplasmic pool of freely diffusing RNAP molecules. Recent experiments suggest the possible existence of a separate pool of polymerases, competent for initiation, which freely slide on the DNA after having terminated one round of transcription. Promoter-dependent transcription reinitiation from this pool of post-termination RNAP may lead to coupled initiation at nearby operons, but it is unclear whether this can occur over the distance- and time-scales needed for it to function widely on a bacterial genome in vivo. Here, we mathematically model the hypothesized reinitiation mechanism as a diffusion-to-capture process and compute the distances over which significant inter-operon coupling can occur and the time required. These quantities depend on previously uncharacterized molecular association and dissociation rate constants between DNA, RNAP and the transcription initiation factor After transcribing an operon, a bacterial RNA polymerase can stay bound to DNA, slide along it, and reini-tiate transcription of the same or a different operon. Quantitative single-molecule biophysics experiments combined with mathematical theory demonstrate that this reinitiation process can be quick and efficient over gene spacings typical of a bacterial genome. Reinitiation may provide a mechanism to orchestrate the transcriptional activities of groups of nearby operons.",
+  "source": "PubMed",
+  "pmcid": "PMC9934669"
+}

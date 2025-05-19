@@ -1,0 +1,77 @@
+The study of biological diversity has historically relied on direct observations and morphological studies to identify and classify organisms. This approach has not only proved to be labor-intensive but also limited in terms of accuracy and scope, particularly when dealing with highly similar species. The development of DNA sequencing transformed these methodologies, beginning with the first-generation sequencing techniques introduced with Sanger sequencing (
+
+Subsequently, second-generation sequencing technologies such as Roche 454 GS FLX and Illumina MiSeq and HiSeq systems brought significant advancements. These platforms enabled high-throughput sequencing (HTS), dramatically increasing data output and reducing costs. Despite their advantages, these technologies typically produced short reads, which presented challenges in terms of achieving high taxonomic resolution (
+
+The introduction of third-generation sequencing technologies marked a further evolution in the field. Platforms like Pacific BioSciences (PacBio) (
+
+Nevertheless, the challenges of analyzing such data underscore the inadequacies of existing bioinformatics pipelines, which are predominantly tailored for short-read sequences (
+
+Our new bioinformatics tool, PRONAME (PROcessing NAnopore MEtabarcoding data), was designed to address these needs. This open-source, user-friendly pipeline optimizes the processing of raw Nanopore sequencing data and is adaptable to a range of biological taxa, from bacteria to fungi, plants and animals for instance, depending on the user’s focus. It includes two formatted full-16S databases and two
+
+The PRONAME pipeline has been written in Bash (
+
+Schematic representation of the PRONAME pipeline. The pipeline comprises four scripts allowing importing and visualizing sequencing data (proname_import), quality-filtering data and keeping only duplex and/or simplex reads (proname_filter), significantly improving the accuracy by generating error-corrected consensus sequences and removing chimera (proname_refine), and performing the taxonomic analysis (proname_taxonomy). *Optional steps, the choice is left to the user whether or not to include them in the workflow.
+
+The first script of the PRONAME pipeline allows the import and initial processing of Nanopore metabarcoding data. The sequencing adapters are first trimmed off with Guppy (Guppy basecaller, v6.5.7) and primers are removed with Cutadapt (v4.9) (
+
+With this script, the user can take advantage of V14 sequencing chemistry introduced by ONT, which produces high-quality duplex reads exhibiting Q20+ quality (i.e., at least 99% average accuracy) and up to Q30 quality (99.9% average accuracy). This significant improvement in accuracy compared to simplex reads explains why the proname_filter script allows discarding simplex reads to work only with duplex data. Alternatively, it is also possible to execute the analysis with both simplex and duplex reads, or only with simplex reads (e.g., if a previous sequencing chemistry was used). NanoFilt (v2.8.0) (
+
+The proname_refine script generates high-accuracy consensus sequences in a multi-step process inspired by
+
+In this script, the user can employ one of the databases available with PRONAME (located in /opt/db/ in the Docker container) or provide a custom one, ideally formatted following the recommendations of
+
+After analysis, the results can be reimported into QIIME2 to generate a taxa barplot. The user can take advantage of this to directly proceed to further processing within QIIME2, such as alpha-/beta-diversity analyses or differential abundance testing among others (see the tutorial in our GitHub repository). It is also possible to generate a phyloseq object (
+
+The Silva 138 SSURef NR99 (
+
+Some reference databases dedicated to the ribosomal RNA operon sequences do already exist, but they did not fit our purposes for several reasons, such as the region covered being too short, the number of sequences/represented species, their not up-to-date status, or how/whether they were curated. A new reference database was therefore developed and named the
+
+Seventeen Gram- and Gram + bacterial species were selected to assemble a mock community (
+
+The raw-signal POD5 reads were basecalled using Dorado (v0.3.4) (
+
+The assembly metrics for the sequenced genomes of bacteria included in the mock community are reported in
+
+Assembly metrics for the genomes of the 17 bacterial species sequenced in this work.
+
+For each assembly, the number of chromosomes (C) and plasmids (P) is reported in brackets.
+
+The total genome length and the number of
+
+To illustrate the efficiency of the PRONAME pipeline and quantify the accuracy of consensus sequences it produces, six metabarcoding assays “RRN1” to “RRN6” were set up (
+
+PCR primers used in the six metabarcoding assays.
+
+The average amplicon length was computed by performing
+
+The sequence length distribution of the Silva138 and Greengenes databases developed/formatted in this work showed a clear peak around 1,500 bp (
+
+Sequence length distribution of the databases included in PRONAME. Silva138 and Greengenes2 are existing databases dedicated to the 16S rRNA gene that were formatted to fit within the PRONAME framework. rEGEN-B is a new curated database developed in this work and dedicated to bacterial
+
+As illustrated in
+
+Databases included in PRONAME and comparison with other existing ones.
+
+Two commonly used reference databases dedicated to the full 16S rRNA gene have been formatted and included in the PRONAME environment package (Silva138 and Greengenes2). For
+
+The metabarcoding sequencing data generated in this work were deposited on the NCBI under BioProject number PRJNA1139700. Details about the simplex/duplex read distribution among each sample, and length vs. quality plots can be found in
+
+Read mean accuracy reached at different steps of the PRONAME workflow. Accuracy was computed for reads before their import into PRONAME (Raw reads), reads generated by proname_import (Trimmed reads) and proname_filter (HQ reads) and error-corrected sequences generated by proname_refine (Consensus sequences). The libraries were sequenced either with new V14 chemistry (R10.4.1 flowcells, producing both simplex and duplex reads) or with the older chemistry (R9.4.1 flowcells, generating only simplex reads). Each point in the graph represents the average of the values obtained in the four (R10.4.1) or the two (R9.4.1) relevant trials. The experimental design presented in
+
+The results obtained with the older sequencing chemistry (R9.4.1 flowcells) were also interesting, given that similar accuracy to that of simplex V14 data (R10.4.1 flowcells) could be achieved. However, it was noticed that the quality of raw R9.4.1 data was poorer: the average read quality curve was centered around Q13 with almost no read above Q18, whereas V14 chemistry led to quality curves centered around Q15 and many reads between Q20 and Q30. Consequently, since the same quality/length parameters were applied for both R9.4.1 and R10.4.1 assays, this quality filtering resulted in much fewer HQ reads for R9.4.1 chemistry, which might not be ideal when aiming to detect low-frequency taxa.
+
+One of the key parameters in the PRONAME pipeline is the identity threshold selected to carry out the read clustering, as it affects the accuracy of consensus sequences, the number of identified species in the mock community, and computation time (
+
+Influence of clustering identity threshold on accuracy, number of identified mock species and computation time. Accuracy refers to the mean identity percentage between consensus sequences generated by PRONAME and reference sequences extracted from the genomes of the species used in the mock community. Seventeen bacterial species were included in the mock community. Five of them belonged to the
+
+The PRONAME pipeline has shown to significantly increase the accuracy of Nanopore metabarcoding data thanks to several key characteristics such as read quality filtering, clustering and polishing, as well as the possibility of capitalizing on higher-quality duplex reads. With a duplex rate of at least 20% in our datasets, this provided more than enough duplex reads to cover the entire sequenced diversity. If, however, the user observes too few duplex reads in its data, working only with them may not be the most appropriate way to proceed, since the lower number of working reads could lead to an increased proportion of singletons after clustering. Given that singletons are removed at the end of clustering, this could represent a partial loss of useful information. If such a situation is faced, it is recommended to use both simplex and duplex reads. It must also be noted that our sequencing runs yielded on average 24,901±9,499 duplex reads and 229,214±22,164 simplex reads per assay. This number of duplex reads was sufficient to study the composition of the 17-species mock sample, but it may not be adequate for real-life samples, which probably contain many more species. In such cases, using both duplex and simplex reads might also be the most appropriate option. Admittedly, it will decrease the sequence accuracy of ∼1% (see
+
+It is also important to understand how the clustering (and subsequent polishing) works to set relevant parameters according to the study context and research question. As highlighted in
+
+Different pipelines enabling the processing of Nanopore metabarcoding data have already been published. However, most of them do not incorporate an error-correction step with a Nanopore-dedicated tool. For instance, the MeTaPONT pipeline (
+
+The performance of PRONAME has also been directly compared to that of other pipelines. On the one hand, HTS raw data originating from assays RRN1 to RRN4 were processed using the Natrix2 and MeTaPONT pipelines to assess the sequence accuracy they could achieve. Compared to PRONAME, both pipelines displayed lower accuracy levels with 96.5% for Natrix2 and 94.7% for MeTaPONT (
+
+In addition, PRONAME displays other unique features. Firstly, in contrast to other pipelines, it does not require any installation or database download. Instead, it has been packaged in a Docker image that simply needs to be pulled from Docker Hub to run a container and proceed with sequence processing. All dependencies and up-to-date databases are precompiled in this Docker image. Secondly, PRONAME is the only pipeline aware of the new structure of V14 sequencing data, allowing taking advantage of duplex reads and their higher quality. Thirdly, whereas some pipelines do not perform clustering, this step is included in others but the way the assignment of reads to each cluster is done does not always seem clear or appropriate. In the Natrix2 pipeline for instance, raw reads are aligned against the consensus sequences to identify the read numbers per consensus, which represents more of an estimation than a precise count. In PRONAME, the exact number and sample origin of the reads constituting each cluster are recorded from the beginning of the clustering process. This generates an OTU-like table, gathering in one file the precise count of consensus sequences in every sample. In its structure, this table is identical to the OTU-/ASV-tables generated when using an Illumina metabarcoding approach, and therefore has the advantage of being useable for alpha-/beta-diversity metric calculation and differential abundance analysis among others. Lastly, the PRONAME pipeline has been designed to be used even without extensive bioinformatics skills. The commands are simple, documented, and the pipeline offers the possibility of importing the generated files into QIIME2, a user-friendly and probably the most widely used bioinformatics platform in the metabarcoding field.
+
+The PRONAME pipeline has been developed to process Nanopore metabarcoding data and to significantly increase its accuracy and usability. Thanks to an innovative approach combining different quality filtering steps, read clustering, error-correction with a tool specifically dedicated to Nanopore data and the valorization of duplex reads, the results have demonstrated that the generated consensus sequences displayed at least 99.5% accuracy with default settings, and could reach 99.7%. The structure of the data produced by the pipeline allows direct advancement to further analyses such as inferring microbial diversity metrics between sample groups, or taxa differential abundance testing, for example,. Overall, this work represents a significant step forward in the field of DNA metabarcoding as the PRONAME pipeline very closely matches the accuracy of Illumina sequencing while taking advantage of Nanopore sequencing assets.

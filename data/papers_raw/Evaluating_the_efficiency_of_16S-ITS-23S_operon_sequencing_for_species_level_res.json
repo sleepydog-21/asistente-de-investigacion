@@ -1,0 +1,11 @@
+{
+  "id": "39843557",
+  "title": "Evaluating the efficiency of 16S-ITS-23S operon sequencing for species level resolution in microbial communities.",
+  "doi": null,
+  "authors": "Srinivas M, Walsh CJ, Crispie F, O'Sullivan O, Cotter PD, van Sinderen D, Kenny JG",
+  "journal": "Scientific reports",
+  "year": "2025",
+  "abstract": "Rapid advancements in long-read sequencing have facilitated species-level microbial profiling through full-length 16S rRNA sequencing (~ 1500 bp), and more notably, by the newer 16S-ITS-23S ribosomal RNA operon (RRN) sequencing (~ 4500 bp). RRN sequencing is emerging as a superior method for species resolution, exceeding the capabilities of short-read and full-length 16S rRNA sequencing. However, being in its early stages of development, RRN sequencing has several underexplored or understudied elements, highlighting the need for a critical and thorough examination of its methodologies. Key areas that require detailed analysis include understanding how primer pairs, sequencing platforms, and classifiers and databases affect the accuracy of species resolution achieved through RRN sequencing. Our study addresses these gaps by evaluating the effect of primer pairs using four RRN primer combinations, and that of sequencing platforms by employing PacBio and Oxford Nanopore Technologies (ONT) systems. Furthermore, two classification methods (Minimap2 and OTU clustering), in combination with four RRN reference databases (MIrROR, rrnDB, and two versions of GROND) were compared to identify consistent and accurate classification methods with RRN sequencing. Here we demonstrate that RRN primer pair choice and sequencing platform do not substantially bias taxonomic profiles for most of the tested mock communities, while classification methods significantly impact the accuracy of species-level assignments. Of the classification methods tested, Minimap2 classifier in combination with the GROND database most consistently provided accurate species-level classification across the communities tested, irrespective of sequencing platform.",
+  "source": "PubMed",
+  "pmcid": "PMC11754871"
+}

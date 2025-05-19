@@ -1,0 +1,11 @@
+{
+  "id": "39591453",
+  "title": "Systematic characterization of plant-associated bacteria that can degrade indole-3-acetic acid.",
+  "doi": null,
+  "authors": "Wang L, Liu Y, Ni H, Zuo W, Shi H, Liao W, Liu H, Chen J, Bai Y, Yue H, Huang A, Friedman J, Si T, Liu Y, Chen M, Dai L",
+  "journal": "PLoS biology",
+  "year": "2024",
+  "abstract": "Plant-associated microbiota affect pant growth and development by regulating plant hormones homeostasis. Indole-3-acetic acid (IAA), a well-known plant hormone, can be produced by various plant-associated bacteria. However, the prevalence of bacteria with the capacity to degrade IAA in the rhizosphere has not been systematically studied. In this study, we analyzed the IAA degradation capabilities of bacterial isolates from the roots of Arabidopsis and rice. Using genomics analysis and in vitro assays, we found that 21 out of 183 taxonomically diverse bacterial isolates possess the ability to degrade IAA. Through comparative genomics and transcriptomic assays, we identified iac-like or iad-like operon in the genomes of these IAA degraders. Additionally, the putative regulator of the operon was found to be highly conserved among these strains through protein structure similarity analysis. Some of the IAA degraders could utilize IAA as their carbon and energy source. In planta, most of the IAA degrading strains mitigated Arabidopsis and rice seedling root growth inhibition (RGI) triggered by exogenous IAA. Moreover, RGI caused by complex synthetic bacterial community can be alleviated by introducing IAA degraders. Importantly, we observed increased colonization preference of IAA degraders from soil to root according to the frequency of the biomarker genes in metagenome-assembled genomes (MAGs) collected from different habitats, suggesting that there is a close association between IAA degraders and IAA producers. In summary, our findings further the understanding of the functional diversity and potential biological roles of plant-associated bacteria in host plant root morphogenesis.",
+  "source": "PubMed",
+  "pmcid": "PMC11630574"
+}

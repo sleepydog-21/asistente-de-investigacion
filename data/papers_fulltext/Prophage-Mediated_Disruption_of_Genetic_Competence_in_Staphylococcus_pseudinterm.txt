@@ -1,0 +1,87 @@
+Studies utilizing multilocus sequence typing (MLST) and whole-genome sequencing (WGS) have demonstrated that the
+
+Here, we report a comprehensive analysis of 371
+
+Phenotypic susceptibility testing of 50 clinical isolates against 22 antibiotics belonging to 7 different classes revealed a high prevalence of resistance in
+
+Antibiotic resistance profile and whole-genome ML phylogeny of US isolates. (A) Phenotypic susceptibility profile of 50
+
+Of the 371 genomes analyzed, 50 were sequenced as part of this study, whereas the remaining 321 were from publicly available genomes (see
+
+Whole-genome ML phylogeny of global
+
+Details of the 371
+
+Sequence type, antibiotic resistance genes,
+
+The genomes were screened for the presence of acquired resistance genes using BLAST against the ARG-ANNOT (1,749 genes), ResFinder (3,077 genes), and NCBI (4,810 genes) databases (
+
+Analysis of antibiotic resistance and
+
+The accessory gene regulator (
+
+On average, each
+
+Pangenome analysis of
+
+Accessory gene content analysis. Violin plots showing the accessory gene content in
+
+Prophages are known to carry genes that contribute to bacterial fitness, virulence, resistance, and host adaptation (
+
+Prophage content analysis. Violin plots showing the number of prophages identified in
+
+Details of pVOGs and prophages identified in each
+
+We focused our analysis on the four intact prophages that were identified in ST71 and ST68 clones (
+
+Distribution of ST71- and ST68-specific prophages. Circular maps showing the genomic coordinates (in Mb) of the intact prophages. (A) SpST71A and SpST71B in a representative ST71 genome. (B) SpST68A and SpST68B in a representative ST68 genome. (C) A heat map showing the distribution of four intact prophages across 371 genomes. The rows in the heat map correspond to isolates, and columns correspond to all the ORFs (genes) within the prophages. The color in the heat map is based on the BSR value (range 0 to 1) obtained by the LS-BSR analysis, with a darker color corresponding to prophage gene presence, and a lighter color corresponding to prophage gene absence. As shown, the SpST71A and SpST71B prophages are predominantly present in the ST71 lineage, whereas SpST68A and SpST68B are predominantly present in the ST68, ST150, ST155, and ST1049 lineages. The SpST71B and SpST68B are closely related prophages with ∼93% nucleotide sequence identity, which is also reflected in this gene presence/absence matrix.
+
+The process of natural DNA uptake in many bacteria relies on competence (Com) machinery, which is a complex system of proteins encoded by the late competence operons
+
+Genomic organization and PCR validation of SpST71A. (A) Chromosomal region of an ST71 genome (NCBI accession
+
+Functional annotation of SpST71A, SpST71B, SpST68A, and SpST68B prophages. Download
+
+Subsequently, we confirmed the
+
+The ∼45.5-kb SpST68A prophage was inserted between a tRNA locus (
+
+Genomic organization and PCR validation of SpST68A. (A) Chromosomal region of an ST68 genome (NCBI GenBank accession
+
+Genomic organization of SpST68B and SpST71B. The two nearly identical (∼93% nucleotide sequence identity) prophages SpST68B and SpST71B are inserted at the same genetic loci in their respective genomes. However, they have a few unique ORFs, both at the 5′ and 3′ ends, as indicated in this linear comparison figure. The functional annotation of all prophage ORFs is provided in
+
+Functional annotation of the intact prophages was performed using eggNOG to gain insight into their role in virulence and resistance (
+
+Bacteria have evolved various types of genetic barriers to HGT (
+
+Four major types of RM systems (types I, II, III, and IV) have been described in bacteria, based on their molecular composition, sequence recognition, and overall functionality (
+
+Genetic barriers to HGT in
+
+Recombination parameters estimated using ClonalFrameML. Download
+
+Unlike RM systems, the CRISPR/Cas system is not common in staphylococci; therefore, its role as a possible genetic barrier to HGT has not been studied closely in this genus. CRISPR/Cas system was detected in only 7% (29 of 430) of
+
+Furthermore, to determine if the presence of genetic barriers correlates with genome-wide nucleotide diversity and recombination, we estimated the average number of nucleotide differences per site (P) and parameters of recombination within each lineage (
+
+The frequent carriage of prophages in
+
+In conclusion, we show that (i) the prevalence of genes associated with antibiotic resistance, virulence, prophages, and genetic barriers to HGT differs significantly among
+
+The 50
+
+Genomic DNA was isolated from 1 ml of overnight culture, grown in tryptic soy broth (TSB) at 37°C with shaking at 200 rpm using the MasterPure Gram Positive DNA purification kit (Lucigen Corp., Middleton WI). Paired-end sequencing libraries were prepared with 1 to 2 μg of DNA by using the Nextera DNA Flex Library Preparation kit according to the standard Illumina chemistry and protocols. The libraries were quantitated by quantitative PCR (qPCR) and sequenced on one lane for 151 cycles from each end of the fragments (2 × 150-bp reads) on an Illumina HiSeq 4000 platform (Illumina Inc., San Diego, CA). The sequenced reads were assembled using the SHOVILL pipeline, which has TRIMMOMATIC for sequence reads cleaning and SPAdes v2.5.0 at its core for genome assembly (
+
+The MLST of the isolates was determined from their genome assemblies using MLST-CHECK (
+
+The GFF3 files generated by PROKKA were used as input files for pangenome analysis using ROARY v.3.6.8, run with options -cd 99% (BLASTp percentage identity cutoff) -e and -mafft (
+
+The putative prophage sequences in the
+
+The integration of prophage SpST71A and SpST68A was first examined manually in the finished ST71 (NCBI GenBank accession
+
+The genes homologous to RM systems were identified using the Restriction-ModificationFinder tool in combination with REBASE, a curated database of type I to IV restriction endonucleases, methyltransferases, and specificity units (
+
+The core genome alignment generated by ROARY, as described above, was used for estimating genome-wide average nucleotide diversity (mean number of nucleotide differences) across each lineage, using MEGA version 6 (
+
+The raw sequence reads of the 50 isolates sequence in this study have been submitted to the NCBI’s Sequence Read Archive (SRA) database under the BioProject identifier (ID)

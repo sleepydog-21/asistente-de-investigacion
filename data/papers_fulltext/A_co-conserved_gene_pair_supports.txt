@@ -1,0 +1,113 @@
+Microbes are central to the productivity of aquatic and terrestrial ecosystems (
+
+We focused specifically on a functional analysis of two genes that are directly regulated by Fur, are co-conserved and syntenic across Proteobacteria, and strongly support
+
+In this study, we demonstrate that EDTA treatment results in decreased intracellular iron levels in
+
+To identify
+
+Phenotypic effects of mutations in several zinc uptake regulator (Zur)-regulated genes have previously been reported in
+
+Given the strong and specific fitness defects seen for mutants of the two genes encoding a TBDT (CCNA_00028) and dioxygenase (CCNA_00027) in complex medium containing EDTA, we chose these genes for further study. There was no obvious functional relationship between these two gene families: TBDTs transport a diverse array of molecules across the outer membrane, while 2OG/Fe
+
+RB-TnSeq data (
+
+We assessed the prevalence and conservation of
+
+Having identified
+
+We tested strain growth in liquid M2X defined medium containing 10 μM Fe•EDTA as an iron source. The growth of the Δ
+
+To test the hypothesis that intracellular iron homeostasis is perturbed in Δ
+
+Additionally, we tested whether increased levels of
+
+To further assess the consequences of
+
+The transcriptomic (
+
+Deletion of
+
+To more rigorously define the contributions of the four Fur-regulated TBDTs to
+
+CciO is commonly encoded from a chromosomal locus adjacent to
+
+CciT and CciO are EDTA resistance factors that function together as a major
+
+EDTA treatment was reported to lower the level of cellular iron, manganese, and zinc in
+
+A phylogenetic analysis of
+
+We tested other known catecholate siderophores as possible CciT substrate(s), including 2,3¢-dihydroxybenzoic acid (2,3-DHBA) (
+
+The cefiderocol resistance and Fe
+
+The
+
+The populations of
+
+We further considered how differences in the chemistry of laboratory media and lake water samples may contribute to the differential growth and EDTA sensitivity of
+
+EDTA is a broad-spectrum metal chelator that associates with many different cations. Thus, the particular cation profile of a medium will influence the effect of EDTA on bacterial growth. We examined whether supplementing select cations could counteract the detrimental effects of 300 μM EDTA on
+
+A forward genetic screen for
+
+Deletion of either gene in the
+
+Notably, several uncharacterized genes that were modestly but significantly upregulated in Δ
+
+In an effort to understand the variable sensitivity of
+
+Experiments assessing the interactions between
+
+The outer membrane transporter CciT and the cytoplasmic dioxygenase CciO coordinately support robust growth of
+
+The growth (
+
+Cells were also grown in environmental water samples from Lake Lansing and Northern Lake Huron (Hammond Bay). These samples were collected in high-density polyethylene analysis bottles provided by the Michigan Department of Environment, Great Lakes, and Energy (EGLE). Bottles were pre-rinsed with lake water from the sample site before sampling. Lake Huron waters were collected on November 10, 2023, in Presque Isle County, Michigan, USA, at 45°31’01.9”N 84°07’09.8”W. Lake Lansing waters were collected on February 14, 2024, from Ingham County, Michigan, USA, at 42°45’19.2”N 84°24’17.2”W. A quantitative elemental profile of these environmental samples was determined as described below.
+
+Standard molecular biology techniques were used to construct all plasmids. Detailed information on strains, plasmids, and primers can be found in
+
+All plasmids were individually introduced into the
+
+An aliquot of a
+
+Barcode abundances were determined following the method developed by Wetmore et al (
+
+The genomes of 69
+
+The sequence of the CciO (encoded by gene locus CCNA_00027) protein was analyzed using the PSI-BLAST tool, set to default parameters, against the NCBI RefSeq database while excluding sequences from uncultured/environmental samples. Proteins that had greater than 95% query coverage and more than 65% identity were selected. The accession IDs of these proteins were submitted to the WebFLaGs server for neighborhood analysis, available at
+
+Overnight cultures grown in M2X medium with 10 μM FeSO
+
+A single colony from a strain grown on a PYE plate was inoculated into 2 mL of liquid PYE medium and grown overnight. The next day, the cultures were diluted to an OD
+
+Primary cultures in liquid M2X medium were inoculated from cells freshly grown on solid plates to an initial OD
+
+Wild-type and mutant
+
+The WT strain CB15 and the Δ
+
+Strains harboring fluorescent transcriptional reporter plasmids to monitor the activity of the
+
+To evaluate the susceptibility of
+
+Strains were grown overnight in 2 mL of PYE at 30°C. The next day, these cultures were used to inoculate into 50 mL of PYE in the evening at an OD
+
+Total protein concentration of 1.5 mg/mL was boiled in SDS sample buffer with 3% β-mercaptoethanol for 5 minutes. The samples were electrophoresed at room temperature in a 7.5% polyacrylamide gel. The gels were stained with Coomassie blue. Gels were destained with acetic acid solution and the bands containing the CciO protein were excised.
+
+Gel bands were digested in-gel according to (
+
+Eluted peptides were sprayed into a ThermoFisher Q-Exactive HF-X mass spectrometer (
+
+A mixture of the iron and catecholate solutions was prepared in a 1:10 molar ratio such that the catecholate was 10-fold more abundant than FeCl
+
+To evaluate the effects of cation supplementation on growth in liquid PYE medium containing 300 μM EDTA, the reagents were mixed in the following manner. First, appropriate volumes of EDTA and cation stock solutions were deposited on the opposite sides of a 50-mL tube. Then, liquid PYE medium was added to the tube and shaken. The mixture was dispensed in 2-mL aliquots into glass culture tubes and inoculated as described above for 16-h growth experiments.
+
+A colony from the WT, Δ
+
+Lake Lansing and Lake Huron water samples were submitted to EGLE for content analysis of total organic carbon (TOC), nitrogen, sulfate, chloride, conductivity, and alkalinity. TOC content was measured following the persulfate oxidation method 5310C (ASTM Standards). Nitrogen content was measured following the Total Kjeldahl Nitrogen by Semi-Automated Colorimetry approach (EPA method 351.2). Sulfate ion content was measured following the standard test method for sulfate ion in water (ASTM method D516–16). Additional lake analytical methods are provided in
+
+All blanks, calibration standards, and ICP-MS samples were prepared using trace-metal-grade nitric acid (70% [w/v], Fisher Chemical, Cat. No. A509P212), ultrapure water (18.2 MΩ·cm at 25°C, Millipore Sigma Milli-Q
+
+The isotopes selected for analysis of media samples were

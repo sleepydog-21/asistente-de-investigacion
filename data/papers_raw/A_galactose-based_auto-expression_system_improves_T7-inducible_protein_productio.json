@@ -1,0 +1,11 @@
+{
+  "id": "40089537",
+  "title": "A galactose-based auto-expression system improves T7-inducible protein production in Escherichia coli.",
+  "doi": null,
+  "authors": "Bosco J, Gagliano E, Boshae KL, Statz JP, Wheeler TB, Cuello D, Sliter A, Newby C, Lin B, Demeler A, Pierpont CL, Yates-Hansen C, Sydor MJ, Ferrini ME, Kuch KC, Cooper BS, Piggott BJ, Certel SJ, Hansen KB, Sprang SR, Bowler B, McClelland L, Berkmen M, Voronina E",
+  "journal": "Scientific reports",
+  "year": "2025",
+  "abstract": "Protein production using Escherichia coli is a cornerstone of modern biotechnology. In this study, we developed a novel auto-expression medium to maximize protein production. Each E. coli strain tested was capable of auto-expression in response to galactose, including strains in which the endogenous lacZ had been disrupted. This provides key evidence that galactose can regulate the lac operon independent of known lac operon-regulated metabolism. The enhanced capabilities of the novel auto-expression medium were documented across protein production systems including (1) increased yields for routinely expressed proteins (e.g. eGFP), (2) improved expression of human cytochrome c within a dual expression system, (3) robust auto-expression in lacZ-deficient strains producing proteins with challenging disulfide bonds, and (4) reproducible 8-fold increase in SpCas9 yields, at ≥ 95% purity. This novel medium can streamline production and improve yields for routine as well as challenging proteins, accelerating recombinant protein production and creating new opportunities in biotechnology and structural biology.",
+  "source": "PubMed",
+  "pmcid": "PMC11910606"
+}

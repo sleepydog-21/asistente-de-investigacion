@@ -1,0 +1,11 @@
+{
+  "id": "38465735",
+  "title": "Biocontrol of Escherichia coli O157:H7 by Enterobacter asburiae AEB30 on intact cantaloupe melons.",
+  "doi": null,
+  "authors": "Tran TD, Lee SI, Hnasko R, McGarvey JA",
+  "journal": "Microbial biotechnology",
+  "year": "2024",
+  "abstract": "Escherichia coli O157:H7 causes >73,000 foodborne illnesses in the United States annually, many of which have been associated with fresh ready-to-eat produce including cantaloupe melons. In this study, we created a produce-associated bacterial (PAB) library containing >7500 isolates and screened them for the ability to inhibit the growth of E. coli O157:H7 using an in vitro fluorescence-based growth assay. One isolate, identified by 16S and whole-genome sequence analysis as Enterobacter asburiae, was able to inhibit the growth of E. coli by ~30-fold in vitro and produced zones of inhibition between 13 and 21 mm against 12 E. coli outbreak strains in an agar spot assay. We demonstrated that E. asburiae AEB30 was able to grow, persist and inhibit the growth of E. coli on cantaloupe melons under simulated pre- and post-harvest conditions. Analysis of the E. asburiae AEB30 genome revealed an operon encoding a contact-dependent growth inhibition (CDI) system that when mutated resulted in the loss of E. coli growth inhibition. These data suggest that E. asburiae AEB30 is a potential biocontrol agent to prevent E. coli contamination of cantaloupe melons in both pre- and post-harvest environments and that its mode of action is via a CDI system.",
+  "source": "PubMed",
+  "pmcid": "PMC10926056"
+}

@@ -1,0 +1,41 @@
+Human activities have unconsciously released CO
+
+From this point of view, we introduced the CBB genes of the photosynthetic bacterium
+
+This study aims to assess the influence of culture temperature on IB formation, providing insights into enhancing CO
+
+
+
+Results evaluated in this study. Control strain (MOCK) and CBB strain containing the CBB genes were used. The results were compared according to the culture temperature. **
+
+Low culture temperature for recombinant protein expression in
+
+Based on the growth results, we analyzed the levels of glyceraldehyde-3-phosphate (G3P) and pyruvate in both the MOCK and CBB strains under different culture temperatures, as shown in
+
+On the other hand, the CBB strain exhibited higher levels of G3P and pyruvate compared to the MOCK strain at both temperature conditions. Overall, the introduction of the CBB pathway increased the synthesis of organic acids such as pyruvate, which provides reducing power and ATP for carbon fixation (
+
+Generally, the CBB pathway requires redox cofactors such as NAD(P)H and ATP to facilitate CO
+
+Next, we compared the electron consumption of the bacteria using bioelectrochemical techniques (
+
+The CBB strain contains the
+
+Predicted solubility of proteins expressed from CBB genes. The red line represents the baseline according to the control value of the Protein–Sol web server.
+
+We conducted this study to investigate the impact of culture temperature on CO
+
+The bacteria were grown in 40 mL of M9 minimal medium (3 g L
+
+The amount of CO
+
+The methods from primary fixation to ethanol dehydration were performed according to a previously published protocol (
+
+According to a previously published protocol, LC/MS/MS analysis was performed (
+
+NADH and NAD
+
+The method of bioelectrochemical analysis was based on previously published protocols with some modifications (
+
+The solubility of proteins was predicted using the Protein–Sol web server. Amino acid sequences for solubility prediction were obtained through National Center for Biotechnology Information (NCBI)’s database (RSP_1285, cbbF1; RSP_1284, prkA; RSP_1283, cfxA; RSP_1282, cbbL; RSP_1281, cbbS; RSP_3266, fbpB; RSP_3267, prkB; RSP_3268, tklB; RSP_3269, gapB; RSP_3270, cfxB; RSP_3271, rbpL).
+
+All experiments were performed independently in triplicate for error analysis. The results are shown along with the correlation and standard deviation for the experimental conditions. The experimental data were analyzed using Sigma Plot (Systat Software Inc., San Jose, CA, USA).

@@ -1,0 +1,11 @@
+{
+  "id": "39353939",
+  "title": "Integrative structural analysis of Pseudomonas phage DEV reveals a genome ejection motor.",
+  "doi": null,
+  "authors": "Lokareddy RK, Hou CD, Forti F, Iglesias SM, Li F, Pavlenok M, Horner DS, Niederweis M, Briani F, Cingolani G",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "DEV is an obligatory lytic Pseudomonas phage of the N4-like genus, recently reclassified as Schitoviridae. The DEV genome encodes 91 ORFs, including a 3398 amino acid virion-associated RNA polymerase (vRNAP). Here, we describe the complete architecture of DEV, determined using a combination of cryo-electron microscopy localized reconstruction, biochemical methods, and genetic knockouts. We built de novo structures of all capsid factors and tail components involved in host attachment. We demonstrate that DEV long tail fibers are essential for infection of Pseudomonas aeruginosa but dispensable for infecting mutants with a truncated lipopolysaccharide devoid of the O-antigen. We determine that DEV vRNAP is part of a three-gene operon conserved in 191 Schitoviridae genomes. We propose these three proteins are ejected into the host to form a genome ejection motor spanning the cell envelope. We posit that the design principles of the DEV ejection apparatus are conserved in all Schitoviridae.",
+  "source": "PubMed",
+  "pmcid": "PMC11445570"
+}

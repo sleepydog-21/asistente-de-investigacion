@@ -1,0 +1,11 @@
+{
+  "id": "39831564",
+  "title": "Exploring Environmental Microfungal Diversity Through Serial Single Cell Screening.",
+  "doi": null,
+  "authors": "Mariz J, Nawaz A, Bösch Y, Wurzbacher C",
+  "journal": "Molecular ecology resources",
+  "year": "2025",
+  "abstract": "Known for its remarkable diversity and ecological importance, the fungal kingdom remains largely unexplored. In fact, the number of unknown and undescribed fungi is predicted to exceed the number of known fungal species by far. Despite efforts to uncover these dark fungal taxa, we still face inherent sampling biases and methodological limitations. Here, we present a framework that combines taxonomic knowledge, molecular biology and data processing to explore the fungal biodiversity of enigmatic aquatic fungal lineages. Our work is based on serial screening of environmental fungal cells to approach unknown fungal taxa. Microscopic documentation is followed by DNA analysis of laser micro-dissected cells, coupled with a ribosomal operon barcoding step realised by long-read sequencing, followed by an optional whole genome sequencing step. We tested this approach on a range of aquatic fungal cells mostly belonging to the ecological group of aquatic hyphomycetes derived from environmental samples. From this initial screening, we were able to identify 60 potentially new fungal taxa in the target dataset. By extending this methodology to other fungal lineages associated with different habitats, we expect to increasingly characterise the molecular barcodes of dark fungal taxa in diverse environmental samples. This work offers a promising solution to the challenges posed by unknown and unculturable fungi and holds the potential to be applied to the diverse lineages of undescribed microeukaryotes.",
+  "source": "PubMed",
+  "pmcid": "PMC11887600"
+}

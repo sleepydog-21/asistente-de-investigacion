@@ -1,0 +1,133 @@
+Oxygen (O
+
+To colonize a host, pathogens need to detoxify exogenous or endogenous ROS. Several ROS detoxification enzymes exist in bacteria. O
+
+In this work, we studied the oxidative stress defense of
+
+The
+
+To characterize the role of Rbr and Sor proteins in ROS detoxification and the possible role of CD0828 as an electron transfer partner of these ROS reductases, we produced the proteins in
+
+We then estimated the iron load of these purified proteins. For Rbr, the iron/protein monomer ratio was 1.6/1 instead of the expected 3/1 ratio (1 Fe atom in the Rd center and 2 Fe atoms in the diiron center), indicating a partially loaded enzyme, as observed for other proteins of this family (
+
+For the Rbr protein, the reduction potential of the Rd center could not be obtained by standard redox titrations monitored by visible spectroscopy in an anaerobic chamber at pH 7.5, as this center was already fully reduced after equilibration with the mediator’s mixture. Similar behavior was observed for the Sor Center II. However, we were able to determine the reduction potential of Center I. We obtained a value of ∼−120 ± 5 mV (
+
+Having established the presence of iron cofactors and determined the redox properties of Sor, we addressed the catalytic activities of the protein. Since the
+
+O
+
+Enzymatic activities of the Sor and Rbr
+
+As low O
+
+The Rbr proteins are H
+
+H
+
+To evaluate the possibility that CD0828 can act as a reductase for both Rbr and Sor, its own ability to receive electrons directly from NAD(P)H was first investigated. Successive additions of sub-stoichiometric amounts of NADH or NADPH were performed under anaerobic conditions, and the reduction of CD0828 was followed by UV-visible spectroscopy. These assays showed that purified CD0828 can be completely reduced by NADH but not NADPH (
+
+CD0828 reduction with NADH or NADPH in the presence or absence of FMN, Sor, and Rbr. CD0828 reduction by NAD(P)H was evaluated anaerobically, inside an anaerobic chamber. (
+
+The capacity of CD0828 to reduce Sor was monitored by UV-visible spectroscopy at 513 nm, following the reduction of center I. Sor was incubated with CD0828 in the presence of NADH and FMN (
+
+Sor and Rbr have, respectively, O
+
+Role of genes of the
+
+In
+
+Finally, we have previously shown that FdpF and the two revRbrs have an H
+
+To address the possible role not only of the O
+
+Although
+
+Phenotype of mutants of genes encoding ROS detoxification enzymes and H
+
+To confirm endogenous ROS production upon air exposure, we used a colorimetric kit to detect H
+
+We also evaluated the involvement of both the
+
+Phenotype of mutants of genes encoding ROS detoxification enzymes and H
+
+We then wanted to determine if the genes encoding the enzymes involved in ROS detoxification are similarly regulated. The
+
+Expression of the genes encoding ROS-detoxification enzymes upon exposure to H
+
+To avoid the effects of the mutation in the
+
+We recently identified an O
+
+Regulation of the genes encoding ROS-detoxification under H
+
+As the induction of
+
+We have previously shown that the expression of the
+
+Regulation of
+
+The anaerobic bacterium
+
+We showed that Rbr has also some O
+
+SOR and SOD are O
+
+The Sor and Rbr enzymatic activities were carried out using the NROR and the Rd-D of Fdp from
+
+Our phenotype analysis was done in
+
+OseR represses the expression of the
+
+In conclusion, the regulation of the genes encoding the ROS-reductases of
+
+Model of control of genes encoding ROS-detoxification enzymes. Model of the transcriptional regulation of the genes encoding the ROS-reductases. The genes
+
+The
+
+We deleted the
+
+We also obtained a pMSR ACE
+
+Plasmids derived from the pMTL84121 vector were constructed for complementation. We amplified
+
+The coding regions of
+
+The quaternary structures of the proteins were determined by size exclusion chromatography. Proteins were loaded onto a 25 mL Superdex S200 10/300 Gl column (GE Healthcare) previously equilibrated with buffer A containing 150 mM NaCl (for the Sor, the buffer did not contain glycerol). A mixture containing tyroglobulin (669 kDa), apoferritin (443 kDa), β-amylase (200 kDa), alcohol dehydrogenase (150 kDa), albumin (66 kDa), carbonic anhydrase (29 kDa), and dextran blue (2,000 kDa) as a void volume marker was used as the standard (
+
+Purified protein samples were quantified using a BCA kit (Thermo) and bovine serum albumin as the standard. The iron content was determined by the phenanthroline colorimetric method. Protein samples were incubated for 15 min with 8 M HCl and for a further 30 min with 8% trichloroacetic acid at room temperature, centrifuged at 8,000 ×
+
+UV-visible spectra were obtained in a Perkin-Elmer Lambda 35 spectrophotometer. A fully oxidized Sor sample was prepared aerobically by incubation with an excess of potassium hexachloroiridate.
+
+The reduction potential of the center I of Sor was determined by an anaerobic redox titration monitored by visible absorption spectroscopy in a Shimadzu UV-1603 spectrophotometer. Protein samples at a 30 µM final concentration in buffer C (50 mM Tris-HCl [pH 7.5] and 18% glycerol) were titrated inside an anaerobic chamber (Coy Lab Products) by the stepwise addition of a buffered sodium dithionite solution in the presence of a mixture of redox mediators (0.5 µM each):
+
+where
+
+Therefore,
+
+Where
+
+where
+
+The theoretical model and curve adjustment were performed using Scilab 6.0.2. The
+
+Because the physiological electron donor to the
+
+The O
+
+The O
+
+becomes
+
+The O
+
+To evaluate the ability of CD0828 to act as an electron donor for the Rbr and Sor, its optimal electron donor was determined. CD0828 reduction by NADH and NAD(P)H was first evaluated, anaerobically, by the stepwise addition of 0.25 eq. (up to two eq.) of these reagents, to a reaction mixture containing 40 µM of CD0828 in 100 mM MOPS (pH 7.5) and 150 mM NaCl. These assays were monitored by UV-visible spectroscopy (UV-1800 Shimadzu). Then, the CD0828 reduction rates with either NADH or NADPH were measured by UV-visible spectroscopy at 450 nm over time under anaerobic conditions, in 100 mM MOPS (pH 7.5) and 150 mM NaCl. In brief, to a reaction mixture containing 20 µM of CD0828, we added 200 µM of NADH in the presence or absence of 40 µM of FMN. Similar assays were performed using NADPH as an electron donor. After determining the optimal electron donor for CD0828, Sor’s reduction using this protein was measured anaerobically by UV-visible spectroscopy at 513 nm. The assays were performed in 100 mM MOPS, pH 7.5, and 150 mM NaCl. A mixture of 10 µM CD0828, 30 µM Sor, and 20 µM FMN was used. Reaction was initiated by the the addition of 200 µM NADH. The Rbr’s reduction using CD0828 was performed in the same conditions as the ones described for Sor but using 40 µM of Rbr.
+
+To assess the impact of menadione on the growth of
+
+The Pierce Quantitative Peroxide Assay Kit (Thermo Scientific, Germany) was used according to the manufacturer’s instructions.
+
+Samples resuspended in glycylglycine buffer were exposed for 30 min to H
+
+To construct a transcriptional fusion of
+
+For survival assays after stress, ordinary one-way ANOVA was performed followed by Dunett’s multiple comparison tests with the 630∆

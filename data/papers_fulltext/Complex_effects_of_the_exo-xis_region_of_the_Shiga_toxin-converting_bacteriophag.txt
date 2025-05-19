@@ -1,0 +1,325 @@
+Bacteriophage λ, a virus infecting
+
+While most
+
+The main virulence factors of STEC are Shiga toxins (Stx), encoded by genes
+
+When the lysogenic pathway is chosen, phage DNA is incorporated into
+
+During the lytic development, there are many round of phage DNA replication, and the genes encoding head, tail, and lysis proteins are expressed. This leads to the assembly of many (100–200, on average, under optimal conditions) new phage particles within the cell. The development ends with disruption of the host cell and liberation of progeny virions.
+
+When
+
+For many years, functions of the region located between
+
+A simplified circular map of bacteriophage Φ24
+
+Despite the evidence that the
+
+The
+
+In the subsequent work, effects of expression of genes from the
+
+Intriguingly, in hydrogen peroxide-treated
+
+The studies described briefly above indicated intriguing regulatory effects of the
+
+
+
+Bacterial strains, bacteriophages, and plasmids used in in  vivo experiments
+
+The deletion mutant of Φ24
+
+Bacteria were routinely cultured in the Luria-Bertani (LB) medium (BioShop, Burlington, ON, Canada), supplemented with 10 mM CaCl
+
+Bacteria lysogenic with tested bacteriophages, Φ24
+
+Bacteriophage titration procedure was performed using standard Petri dishes filled with 25 ml of LA medium. Soft agar (0.7%), supplemented with 10 mM CaCl
+
+To assess the kinetics of intracellular phage development, one-step growth experiment was performed according to the previously described procedure (Bloch et al.
+
+To estimate the efficiency of lysogenization, the procedure described earlier (Dydecka et al.
+
+To determine the survival of host bacteria after phage infection, the procedure described earlier (Dydecka et al.
+
+The rate of adsorption of virions on the surface of host cells was determined according to the procedure described previously (Bloch et al.
+
+Infection of host bacteria with tested phages was prepared according to the procedure described previously (Bloch et al.
+
+For microarray analysis, total RNA was isolated from 7.5 × 10
+
+Gene expression microarray analyses were carried out commercially by the Agilent Technologies, Inc. (Santa Clara, CA, USA) using Agilent’s
+
+Preparation of cDNAs from 1.25 μg of RNA samples for RT-qPCR was performed with Transcriptor Reverse Transcriptase (Roche Diagnostics International, Rotkreuz, Switzerland) and random hexamer primers (Roche Diagnostics International, Rotkreuz, Switzerland), according to the manufacturer’s instructions. All obtained cDNAs were 10-fold diluted in DEPC-treated water (Thermo Fischer Scientific, Waltham, MA, USA) and tested in RT-qPCR. Gene expression patterns were determined by RT-qPCR as described previously (Bloch et al.
+
+Oligonucleotide primers used for RT-qPCR
+
+pF_Φ24B_exo
+
+pR_Φ24B_exo
+
+TGCCGTCACTGCATAAACC
+
+TCTATCGCGACGAAAGTATGC
+
+pF_Φ24B_bet
+
+pR_Φ24B_bet
+
+GAGACGGGCACACTGAATCA
+
+CCGCGAACCATTCAAAACCC
+
+pF_Φ24B_stk
+
+pR_Φ24B_stk
+
+CGACGATCAGCAATGCGATG
+
+GCATGGATTCTGTCGACCCA
+
+pF_Φ24B_N
+
+pR_Φ24B_N
+
+AGGCGTTTCGTGAGTACCTT
+
+TTACACCGCCCTACTCTAAGC
+
+pF_Φ24B_cI
+
+pR_Φ24B_cI
+
+TGCTGTCTCCTTTCACACGA
+
+GCGATGGGTGGCTCAAAATT
+
+pF_Φ24B_cro
+
+pR_Φ24B_cro
+
+CGAAGGCTTGTGGAGTTAGC
+
+GTCTTAGGGAGGAAGCCGTT
+
+pF_Φ24B_cII
+
+pR_Φ24B_cII
+
+TGATCGCGCAGAAACTGATTTAC
+
+GACAGCCAATCATCTTTGCCA
+
+pF_Φ24B_O
+
+pR_Φ24B_O
+
+AAGCGAGTTTGCCACGAT
+
+GAACCCGAACTGCTTACCG
+
+pF_Φ24B_Q
+
+pR_Φ24B_Q
+
+GGGAGTGAGGCTTGAGATGG
+
+TACAGAGGTTCTCCCTCCCG
+
+pF_Φ24B_R
+
+pR_Φ24B_R
+
+GGGTGGATGGTAAGCCTGT
+
+TAACCCGGTCGCATTTTTC
+
+pF_Φ24B_P
+
+pR_Φ24B_P
+
+TCGTAAAGCGCTACGAGGTT
+
+AGTGCTGATTCGCTTGACCT
+
+pF_Φ24B_dnaK
+
+pR_Φ24B_dnaK
+
+CATTGACCTGCGCAACGATC
+
+AGGTTAACGTCGGTCTGCTG
+
+pF_Φ24B_dnaJ
+
+pR_Φ24B_dnaJ
+
+CAAACGCCTGGCCATGAAAT
+
+GCGAGTCGGTCAGAACTTCA
+
+pF_Φ24B_degP
+
+pR_Φ24B_degP
+
+CTCGAAAAGGTGATGCCTTC
+
+TCATCACCGAAGAACTGCTG
+
+pF_Φ24B_lon
+
+pR_Φ24B_lon
+
+GCTGTTCCTGCTCGATGAGA
+
+CGCTACGTTCTGCTCTGGAT
+
+pF_Φ24B_clpB
+
+pR_Φ24B_clpB
+
+GGCCGAGGAACAGGAATGAA
+
+ATTGGTCAGAACGAAGCGGT
+
+pF_Φ24B_grpE
+
+pR_Φ24B_grpE
+
+AGGGAAGCACTCACATTGTCA
+
+TGTGTTGTCAGTGCAGTGGG
+
+pF_Φ24B_ibpB
+
+pR_Φ24B_ibpB
+
+GCGCGTACCTTCCAGTTGAA
+
+TTCCCGCCGTACAACATTGA
+
+pF_Φ24B_groL
+
+pR_Φ24B_groL
+
+CGCAGCAACCGAAGAATACG
+
+TTCGGTGGTGATCATCAGGC
+
+pF_Φ24B_gadC
+
+pR_Φ24B_gadC
+
+CCCTGCGGAGAGGTTGATTT
+
+CGCGACTATCCGTTGGCTAT
+
+pF_Φ24B_hdeD
+
+pR_Φ24B_hdeD
+
+CTCGTTATTGGTGTGCTGGA
+
+GCGGCGCTAAATATCAGTTC
+
+pF_Φ24B_gadE
+
+pR_Φ24B_gadE
+
+TTGGCACCTTATCACATCAGT
+
+TCTTATGGGGCAAGTGTTTACCA
+
+pF_Φ24B_nrfA
+
+pR_Φ24B_nrfA
+
+CCCGCAAAACCTGTAACTGT
+
+CGTCAACACGCTCTGACTGT
+
+pF_Φ24B_nrfD
+
+pR_Φ24B_nrfD
+
+CTGACAAGACCGTGGACCTT
+
+GCACCACCATGTAGAGCTGA
+
+Samples for proteomic analyses were prepared according to the manual provided by the Kendrick Laboratories (Madison, USA). Following 30-min incubation at 30 °C with tested bacteriophages, 5 × 10
+
+Proteins that were separated by SDS-PAGE/2D-PAGE and stained by Coomassie dye were excised, washed, and the proteins from the gel were treated according to previously published protocols (Shevchenko et al.
+
+The peptide mixture was analyzed by reversed phase nanoliquid chromatography (LC) and MS (LC-MS/MS) using a NanoAcuity UPLC (Micromass/Waters, Milford, MA) coupled to a Q-TOF Xevo G2 mass spectrometer (Micromass/Waters, Milford, MA), according to published procedures (Shevchenko et al.
+
+Samples for endogenous metabolite analyses were prepared according to the procedure described for bacteriophage infection. Following 30-min incubation at 30 °C with tested bacteriophage, 1 × 10
+
+Absolute
+
+Each experiment was repeated 3 or 4 times. Variation among biological replicates was presented as error bars indicating the standard deviation (SD). Comparison of two average values was performed by using Student’s
+
+Row data of transcriptomic (microarray), proteomic, and metabolomic analyses are presented in the supplementary materials, as Table S
+
+Since most of previously published studies on the role of the
+
+Effects of the
+
+Intriguingly, the kinetics of adsorption of the Φ24
+
+To learn more about the global effects of the
+
+Generally, differences between
+
+Bacterial and phage genes which expression (measured as transcript levels) was significantly changed (FDR < 0.05 and
+
+Expression patterns of selected genes of phage Φ24
+
+Bacteriophage genes differentially expressed after infection of
+
+When analyzing transcripts of bacterial genes after infection with Φ24
+
+Expression patterns of selected bacterial genes after infection of the
+
+Bacterial genes differentially expressed after infection of
+
+As mentioned above, among several hundred genes whose expressions were changed as revealed by the microarray analysis (Fig.
+
+Comparison of changes in levels of selected bacterial (
+
+Levels of proteins in
+
+Number of proteins which levels were significantly increased (red columns) or decreased (blue columns) in
+
+Proteins occurring at different levels in
+
+Identified proteins encoded by
+
+Up arrows indicate increases or down decreases in level proteins after infection of host bacteria with phage Φ24
+
+These analyses confirmed that the
+
+To test effects of the
+
+Changes in the levels of bacterial metabolites in
+
+The results of metabolomic analyses suggest that the
+
+Previous studies suggested that genes from the
+
+Experiments with the Φ24
+
+The general conclusion from the transcriptomic, proteomic, and metabolomic studies performed in this work is that the
+
+The effects of bacteriophage genes or their products on expression of host genes have been reported previously, also for Stx bacteriophages, though such works were not numerous. Microarray analyses of non-lysogenic
+
+Interestingly, the
+
+In conclusion, the
+
+
+
+(XLSX 232 kb)
+
+(XLSX 476 kb)
+
+(XLSX 41 kb)

@@ -1,0 +1,73 @@
+Copper (Cu) is a key metal cofactor for aerobic unicellular and multicellgular organisms, where it contributes to the activity of specific redox enzymes, including the superoxide dismutase and the cytochrome
+
+In gram-negative bacteria, the outer-membrane TonB-dependent receptors (TBDRs) play a key role in extracellular Fe³
+
+We have previously shown that the environment modulates Cu response in
+
+In the present study, we aimed to characterize a TBDR involved in Fe import, which is associated with a 2-oxoglutarate/Fe
+
+The genetic screening of a
+
+Copper resistance is relying on a TonB-dependent receptor. (
+
+Considering the role of TBDRs in metal transport, we wondered whether the Cu sensitivity of the Δ
+
+To assess the potential role of CciT in the resistance to other metal stresses, we grew the Δ
+
+TBDRs are mostly known for their role in the uptake of Fe
+
+CciT is involved in Fe uptake. (
+
+The genome of
+
+To explore the link between optimal Fe uptake and Cu resistance in
+
+Intracellular Fe content supports Cu resistance in
+
+The CciT-encoding gene is part of an operon with the CCNA_R0097 sRNA gene and the CCNA_00027 gene predicted to encode a 2-oxoglutarate/Fe
+
+CciT and CciO operon organization is conserved. (
+
+To determine the potential involvement of CciO and R97 in Cu resistance, we generated in-frame deletions of the
+
+To reinforce this hypothesis, the growth profiles of the Δ
+
+We further investigated the role of the CciO protein in Cu and Fe homeostasis by measuring the intracellular Cu and Fe levels in the Δ
+
+CciO is not involved in Fe uptake. (
+
+To better understand the role of CciT and CciO in
+
+The significance of maintaining proper Fe homeostasis in Cu resistance is an emerging concept in bacteria. Our study emphasizes the role of a TBDR, CciT, along with its partner CciO, a 2OGX, in conferring Cu resistance in the free-living alphaproteobacterium
+
+In this study, we demonstrated that CciT, an Fe-importing TBDR, is essential for effective Cu resistance. While TBDRs are typically known for their role in actively importing extracellular substrates, there are exceptions, such as PopC from
+
+Previous studies proposed that CciT, along with the CCNA_00138, HutA, and CCNA_03023 TBDRs, are involved in Fe homeostasis owing to their upregulation under Fe-limiting conditions (
+
+We also demonstrated that the environmental Fe concentration influences the intracellular Fe content of
+
+Interestingly,
+
+The role of CciO in Cu resistance remains to be elucidated, as the protein does not seem to play a role in Fe or Cu transport. In
+
+Hypothetical models for Cu resistance provided by the CciT–CciO system in
+
+Our study revealed a strong functional link between the activity of the TBDR CciT and the 2OGX CciO, both of which play a key role in maintaining Fe homeostasis in
+
+Bacterial cultures in exponential growth phase (OD
+
+Overnight cultures in stationary phase were diluted in 1:10 serial dilutions up to 10
+
+Exponentially grown
+
+Cells from 15 mL cultures of
+
+Peptides were separated by nanoUHPLC (nanoElute, Bruker) on a 75 µm ID, 25 cm C18 column with integrated CaptiveSpray insert (Aurora, IonOpticks, Melbourne) at a flow rate of 400 nL/min at 50°C. LC mobile phase A was water with 0.1% formic acid (v/v), and B was ACN with formic acid 0.1% (v/v). Samples were loaded directly on the analytical column at a constant pressure of 800 bar. The digest (1 µL) was injected, and the organic content of the mobile phase was increased linearly from 2% B to 15% in 22 min, 15% B to 35% in 38 min, and 35% B to 85% in 3 min. Data acquisition on the tims TOF Pro was performed using Hystar 5.1 and timsControl 2.0. tims TOF Pro data were acquired using 100 ms TIMS accumulation time and mobility (1/K0) range from 0.6 to 1.6 Vs/cm². Mass-spectrometric analysis was carried out using the parallel accumulation serial fragmentation (PASEF) acquisition method (
+
+All MS/MS samples were analyzed using Mascot (Matrix Science, London, UK; version 2.8.1). Mascot was set up to search the
+
+Scaffold (version Scaffold_5.1.1, Proteome Software, Inc., Portland, OR) was used to validate MS/MS-based peptide and protein identifications. Peptide identifications were accepted if they could be established at greater than 97.0% probability to achieve an FDR less than 1.0% by the Percolator posterior error probability calculation (
+
+Bacteria were grown in M2G up to OD
+
+RNA (2 µg) isolated from

@@ -1,0 +1,85 @@
+Microorganisms have adopted a wide variety of mechanisms for generating genetic variation, ranging from the use of error-prone polymerases to a myriad of means of horizontal gene transfer (
+
+Another genetic mechanism adopted by some bacteria to ensure rapid adaptation to environmental shifts is the deployment of contingency loci that target high-frequency genetic variation to specific sites in the genome. Although the mutagenic mechanisms vary, homopolymeric tracts (HT) and other simple sequence repeats are common sites for this process (
+
+Multiple recent reports indicate that Mtb takes advantage of homopolymer-mediated phase variation to adapt to stress (
+
+In addition to
+
+In this work, we characterize the consequences of the common single base pair insertion in the HT upstream of
+
+We previously noted frequently occurring indels within a homopolymeric tract 144 bp upstream of
+
+The most commonly observed
+
+To more rigorously associate these transcriptional effects with EspR, we compared the mRNA profile of the
+
+To confirm that the transcriptional differences between the wild-type and
+
+The
+
+The discrepancy between the effect of the
+
+To experimentally test this prediction, we constructed a translational reporter by fusing the
+
+Both
+
+Aside from antibiotic exposure, the other major selective pressures that may be contributing to the evolution of ESX-1-related variants are derived from the pathogen’s mammalian host. Two major host cellular functions that ESX-1 impacts are macrophage cell death and cytokine production. We sought to test whether either
+
+ESX-1 associated homopolymeric indels do not detectably alter macrophage cytokine profiles or cell death. For all macrophage experiments, BMDMs were infected with Mtb at a theoretical MOI of 9. (
+
+Macrophage type-I interferon-regulated genes are induced by Mtb in an ESX-dependent manner (
+
+To determine whether ESX-1 related homopolymer indels altered interactions with the host in the more complex infection environment of the intact animal, we quantified the effect of these mutations on bacterial fitness in the mouse lung. ESX-1 fulfills two potentially contrasting functions, by promoting intracellular growth while also secreting major T cell antigens. To separate these potential functions, the relative fitness of each mutant in both wild-type and T-cell deficient mice was determined.
+
+C57BL/6 or TCRα deficient mice were infected via aerosol with a pool of DNA-barcoded Mtb strains (
+
+Mice were infected with a pool containing ~50 CFU of each of the infecting strains (
+
+ESX-1 mutants show fitness advantage during mouse infection in a T-cell independent manner. (A) Schematic showing experimental design of pooled infection of barcoded Mtb strains (total CFU ~ 400). (B) Lung CFU at day 0 and day 30 from WT or ∆TCR-α mice aerosol infected with minipool. Mean and standard deviation from each timepoint plotted. (C and D) Normalized sequencing counts of barcodes from mouse lung homogenate at day 0 and day 30 in (C) WT B6 and (D) ∆TCR-α mice. Two independently derived barcoded WT,
+
+The adaptability of Mtb to different environments and epidemiological situations contrasts with the stable genome sequence of the organism. This study takes a step towards resolving this paradox, demonstrating that homopolymer-dependent phase variation may provide a mechanism for Mtb to strategically direct genetic variation to certain sites, particularly those that result in differential fitness in the context of alternating pressures. ESX-1 associated genes are particularly attractive targets for such variation given the central role this system plays in promoting intracellular growth, maintaining the integrity of the cell wall, and contributing to the production of immunodominant antigens (
+
+In this study, we demonstrate that both host and drug pressures may act to select ESX-1 related homopolymer indel variants. These individual effects, as well as the interaction between them, may be important determinants of clinical outcome. The effect of the
+
+One notable characteristic of the
+
+Here we describe two variable homopolymers in ESX-associated loci, but there may be more such sites of phase variation that impact ESX function. We previously also found a highly variable homopolymer within the coding body of another ESX-1 component,
+
+We have shown that single base pair insertions and deletions at HTs in regulatory regions of ESX-1 associated genes can influence transcriptional patterns and impact how Mtb interacts with both host and drug pressures. This research supports the idea that Mtb must strike a balance between opposing evolutionary forces to thrive in the face of the many drug and immune pressures it is subjected to. Since Mtb does not acquire new DNA sequences via horizontal gene transfer, homopolymer-dependent contingency loci provide a mechanism for Mtb to adapt to alternating pressures and remain fit for the various contexts the bacterium encounters across the globe. Overall, this study suggests the potential wealth of genetic variation that may be encoded throughout the Mtb genome in HTs, enabling Mtb to adapt to the various alternating pressures it faces throughout its life cycle.
+
+Mtb isolates (
+
+A core SNP-based phylogenetic tree of 933 publicly available lineage one strains was created using RAxML-ng (v1.2.1) under the GTRgamma substitution model e- with 200 bootstrap replicates with
+
+Candidate clones were amplified using the primers
+
+To generate revertants, cells were electroporated using 2 ug of target oligo encoding wild-type sequence, along with 200 ng of
+
+∆
+
+Complementation of the ∆
+
+RNA extraction and sequencing were performed as previously described (
+
+Detailed mass spectrometry methods are provided in Supplemental Methods.
+
+qPCR performed using a ViiA 7 QPCR RT-PCR machine and New England Biolabs Luna Universal One-Step RT-qPCR Kit. Each biological replicate was performed in technical triplicate, the average of which was used to represent each biological replicate.
+
+For measuring mRNA levels of luciferase reporter,
+
+For qPCR of macrophage RNA, IFN-β was quantified as reported by Ji et al. (
+
+The 142 bp 5′
+
+Bacteria grown to mid-log phase were added to a 96-well plate at an OD of 0.05. All conditions were prepared in triplicate. Isoniazid and rifampicin concentrations began at 0.5 and 1 µg/mL, respectively, and serially diluted twofold. Ethambutol, linezolid, bedaquiline, and moxifloxacin concentrations began at 100, 10, 1, and 10 µg/mL respectively, and serially diluted 2.5-fold. Minimum inhibitory concentrations were calculated by nonlinear regression generating IC50 values while constraining all other parameters.
+
+Bone marrow derived macrophages were isolated from C57BL/6 mice as previously described (
+
+Cell supernatants were harvested at 24 h and quantified using R&D Systems DuoSet ELISA kits for IL-6, IL-1 beta, and TNF-alpha.
+
+C57BL/6 J mice were purchased from The Jackson Laboratory. TCRα KO mice, also from Jackson Laboratory, were a gift from the Behar Lab. Mice (8–10 weeks old) were infected with pooled strains at equal ratios by aerosol at a total CFU of ~400 per mouse. On days 1 and 30, mice were euthanized and lungs harvested and homogenized before plating on 7H10 with 20 µg/mL streptomycin. Plates were scraped and gDNA was harvested as described previously (
+
+Sequencing libraries were prepared by amplifying barcode region using primers that bind common sequence flanking the barcode, similar to described previously (
+
+To estimate strain abundance, we generated a FASTA file containing each strain and barcode, building reference index files using Subread-buildindex (

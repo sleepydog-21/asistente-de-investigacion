@@ -1,0 +1,87 @@
+Dental caries remains a major global health concern, driven by the demineralization of tooth enamel due to acid production within polymicrobial biofilms in the oral cavity (
+
+During initial biofilm formation,
+
+Secondary metabolites, particularly small molecules, are increasingly recognized as critical modulators of microbial biofilm development across diverse ecosystems (
+
+Although current evidence underscores the pivotal role of MFs in
+
+For the planktonic growth of
+
+For biofilm growth, bacterial cells from the mid-exponential phase were inoculated into semi-defined biofilm medium (BM) (
+
+For PCR amplifications, chromosomal DNA of
+
+The predicted
+
+To identify a putative promoter region of
+
+To test, whether MufC functions as a transcriptional regulator of the
+
+Briefly, primers mufC-1/mufC-2 and mufC-3/mufC-4 were used to generate ∼1-kbp PCR fragments of the up- and down-stream flanking region of
+
+For RNA-seq analysis,
+
+Total RNA was extracted from bacterial cells using the Bacterial RNA kit (innuPREP, IST Innuscreen). The RNA samples were treated with 2 U of RNase-free DNase I (Invitrogen) to remove potential DNA contamination. The raw RNA product was quantified using a NanoDrop Spectrophotometer, and further quantified using Quant-it™ RiboGreen (Thermo Fisher Scientific). Qualitative analysis was performed with the Fragment Analyzer RNA Analysis, HS RNA kit (15NT) (Agilent). Libraries were prepared using the Illumina Stranded Total RNA Prep, ligation with RiboZero Plus (Illumina), following the manufacturer's instructions. Final library quality control was conducted using Pico488 (Lumiprobe) and the dsDNA 915 Reagent Kit (Agilent). At least 5 + 5 M paired-end reads were produced per sample, which passed Illumina's chastity filter. The reads were then demultiplexed with zero index base mismatches and Illumina adapter trimming using Illumina's bcl2fastq software, version 2.20.0.422 (no further refinement or selection). The quality of the fastq formatted reads was assessed with the FastQC software, version 0.11.9.
+
+Comparison of gene expression between the sample groups was performed using DESeq2 (
+
+RNA-seq data has been submitted to the National Center for Biotechnology Information (NCBI) and can be freely accessed by BioProject number PRJNA1199217.
+
+For quantitative RT-PCR,
+
+For qRT-PCR, 50 ng of cDNA was used per reaction using the primers listed in
+
+For biofilms and qRT/PCR, statistical significance was determined using student's
+
+RT-PCR performed on the intergenic regions of the 10-gene
+
+To study the expression of the
+
+Relative change in expression of the genes belonging to the
+
+The expression of the
+
+Next, we performed RNA-seq analysis to study the global gene expression profile of
+
+We further assessed the DEGs (Log
+
+Comparison of transcriptomic profiling of
+
+Heatmap of differentially expressed genes (DEGs) across different comparisons.
+
+Other notable genes that were downregulated during the early-exponential phase compared to the stationary phase included those involved in ascorbic acid metabolism/transport genes, glycogen metabolism, and putative metal (Fe, Zn, Mn, K) transport. GSEA revealed that several KEGG pathways were differentially regulated during the early-exponential phase compared to the stationary phase. Fatty acid biosynthesis genes and the fatty acid biosynthesis pathway were among the upregulated pathways during the early-exponential phase, whereas galactose and histidine pathways were among those upregulated during the mid-exponential phase (
+
+Gene set enrichment analysis (GSEA) of the differentially expressed pathways in
+
+MufC, a putative transcriptional regulator, is encoded by the first gene of the
+
+To further validate our qRT-PCR results and examine the impact of
+
+Several other genes were significantly downregulated in
+
+To assess the impact of
+
+Quantitative analysis of planktonic growth
+
+MufC, a putative TetR/AcrR-family transcriptional regulator, is the first gene of the
+
+Identification of the
+
+To investigate whether this putative
+
+The PCA revealed distinctive transcriptomic profiles of
+
+Overall, several
+
+Bacterial NRP-PK synthetase-dependent gene expression is regulated through diverse mechanisms, including specific transcription factors, integration of environmental signals, and coordination by global regulators (
+
+This study explores the role of MFs in biofilm formation by
+
+Overview of up-and downregulated genes in
+
+Bacterial NRP production often varies across different growth phases. For instance,
+
+Another biosynthetic gene cluster, BGC2, comprising 19 genes, showed significant upregulation in our biofilm transcriptome analysis. While the product of this cluster remains unidentified, it is hypothesized to be one of seven natural product BGCs in
+
+In conclusion, this study unveils global gene expression profiles of

@@ -1,0 +1,263 @@
+Years of misuse and overuse of antibiotics in the livestock and poultry industry have resulted in many irreversible changes, not only in the animal production sector but also in the everyday life of each human. Extensive, uncontrolled antibiotic use results in the presence of low, sub-inhibitory concentrations in the tissues and guts of treated animals (Lim et al.
+
+The presence of
+
+However, some strains of
+
+The aim of the study was to examine the population of
+
+Chicken waste was collected from a commercial chicken meat production facility located in the central part of Poland (Masovian district). The samples were taken from two points in the production chain: CM, chicken manure from laying hens, and CL, chicken litter from broilers. Sampling details were described previously by Błażejewska et al. (
+
+The collected samples were transported to the laboratory in a refrigerator, stored at 4 °C, and processed within 24 h. To isolate antibiotic-resistant
+
+The plates were incubated for 24 h at 37 °C to select animal pathogens and 30 °C for environmental strains. Next, 24 to 48 colonies showing the morphology of the intended bacteria were taken and subjected to three consecutive streaks to get pure colonies. The pure cultures were stored in PBS/glycerol stocks (20% v/v) for further analysis.
+
+The antibiotic susceptibility profiles of isolated strains were determined by The Kirby–Bauer test (Biemer
+
+The analyses were performed in an external medical laboratory (ALAB Laboratoria Sp. z o. o., Warsaw, Poland), according to a standard diagnostic procedure. Identification was performed by aligning the peaks to the best-matching reference data. The resulting log score was classified as follows: ≥ 2.3, highly probable species; between 2.0 and 2.3, certain genus and probable species; between 1.7 and 2.0, probable genus; and < 1.7, non-reliable identification. Next, antibiotic susceptibility testing was performed with Vitek2 Compact equipment (BioMerieux, Marcy-l’Étoile, France) (Hogan et al.
+
+Strains with the same resistance profile and origin were considered clones. The plasmid profile of non-repetitive strains was determined in three ways: (1) Plasmid DNA was isolated with a commercially available Plasmid Mini kit (A&A Biotechnology, Gdynia, Poland), (2) rapid alkaline lysis for the isolation of plasmid DNA (Birnboim and Doly
+
+Genomic DNA from bacterial strains was isolated using a Genomic Mini kit (A&A Biotechnology, Gdynia, Poland). The DNA concentration was measured using a Qubit fluorometer and a dsDNA High Sensitivity Assay Kit (Thermo Fisher Scientific, Waltham, MA, USA), and purity was determined by measuring the A260/A280 absorbance ratio with a NanoDrop spectrophotometer (Thermo Fisher, Waltham, MA, USA). Only samples with concentrations higher than 10 ng/µL and an A260/A280 ratio ranging from 1.8 to 2.0 were analyzed. DNA samples were stored at − 20 °C for further use. The DNA samples were isolated in triplicate.
+
+Libraries were prepared from 500 ng of DNA samples after mechanical fragmentation by the syringe-based method (0.4 × 20 mm needle, 1-mL glass syringe, 200 µL) and purification by solid-phase reversible immobilization with Kapa Pure Beads (Roche, cat. no. 07983298001, elution for 10 min at 37 °C). Native Barcoding method was applied (Oxford Nanopore, cat. no. SQK-NBD112.24, Version: NBE_9134_v112_revE_01Dec2021). The NanoPore MINIon MkB1 R10.4 flow cell and reagents (cat. no. FLO-MIN112) were used for sequencing with standard procedures. Guppy software (version 6.1.2, –flowcell FLO-MIN112 –kit SQK-NBD112-24 options) was applied for basecalling.
+
+Briefly, 100 ng of genomic DNA was fragmented to 300 bp by ultrasonication (S220 Covaris, duty factor 10%, peak incident power 140, cycles per burst 200, treatment time 80 s) and subjected to library construction with the KAPA Hyper Prep Kit (Roche, cat. no. 07962363001), according to the manufacturer’s protocol, with five cycles of amplification; however, TruSeq DNA UD Index adapters were used (Illumina, cat. no. 20020590). Libraries were size-selected in a two-step SPRI method and with a sample-to-reagent volume ratio of (1) step—1:0.75 and (2) step—1:0.85 using Kapa HyperPure Beads (Roche, cat. no. 07983298001). Sequencing was performed using pair-end 2 × 100 cycle mode on the Illumina NovaSeq 6000 system (NovaSeq 6000 S1 Reagent Kit v1.5 200 cycles Illumina, cat. no. 20028317; 0.5% of the PhiX control library, Illumina, cat. no. FC-110–3001) and the standard clustering procedure.
+
+Initial sequence quality metrics for Illumina data were obtained using FASTQC v.0.12.0 (
+
+Long-read assembly was performed using Trycycler v.0.5.3 pipeline (Wick et al.
+
+The annotation of consensus sequences was performed using Bakta (Schwengers et al.
+
+The plasmid sequences were visualized using SnapGene Viewer software (SnapGene® software from Dotmatics; available at snapgene.com).
+
+Selective media were used to isolate 62 bacterial strains exhibiting growth characteristics of
+
+High-quality genome sequence assemblies for the selected strains were obtained by combining scaffolds from Oxford Nanopore long-read technology (MINIon platform) with Illumina short-read technology (2 × 100 nt in pair-end mode, NovaSeq 6000, approximate 100 × coverage) for quality improvement. The chromosome was successfully assembled, resulting in close to 5 Mb contigs for each strain, and three additional contigs over 40 kb were reconstructed.
+
+Six plasmids belonging to two bacterial isolates were identified (Table
+
+Plasmids identified in studied
+
+Three of the identified plasmids harbored different ARGs and MGEs (Table
+
+ARGs, MGEs, integron integrase genes, transposon transposase genes, conjugal transfer system genes, and heavy metal resistance genes
+
+Linear and circular representation of pECmdr13.2 plasmid; pink-ARGs, red-conjugal transfer genes (TRA), blue-transposon transposase genes (TNP), brown-heavy metal resistance genes, yellow-replication system (REP), green-integron integrase, khaki-partitioning system PAR, gray-mob system (MOB), plum-pilus system (PIL); a name written in quotation marks indicates that the gene function has been assigned based on the homology of the protein it encodes
+
+Linear and circular representation of pECmdr13.3 plasmid; pink-ARGs, red-conjugal transfer genes (TRA), blue-transposon transposase genes (TNP), brown-heavy metal resistance genes, yellow-replication system (REP), green-integron integrase, khaki-partitioning system (PAR), gray-mob system (MOB), plum-pilus system (PIL); a name given in quotation marks indicates that the gene function has been assigned based on the homology of the protein it encodes
+
+Linear and circular representation of pECmdr14.1 plasmid; pink-ARGs, red-conjugal transfer genes (TRA), blue-transposon transposase genes (TNP), brown-heavy metal resistance genes, yellow-replication system (REP), green-integron integrase, khaki-partitioning system (PAR), gray-mob system (MOB), plum-pilus system (PIL); a name given in quotation marks indicates that the gene function has been assigned based on the homology of the protein it encodes
+
+Alignment of ARG-coding sequences and MGE allowed the identification of ARGs located within defined and described MGE, such as
+
+ARGs located within MGE on the identified plasmids:
+
+A detailed search of the PLSDB provides data on the isolation source, biosample origin, country, and first report of similar plasmids (Table
+
+Region, isolation source, and host biosample of similar plasmids (plasmids identity 0.99)
+
+IncC_1
+
+JN157804
+
+France
+
+USA
+
+South Korea
+
+Japan
+
+river
+
+Urine
+
+Nose
+
+Stool
+
+Pus
+
+Abscess
+
+Peritoneal fluid
+
+Anal swab
+
+Abdominal drain fluid
+
+Nasal swab
+
+Tracheal secretion
+
+Bovine peripheral lymph node
+
+Bovine adipose trim
+
+Bovine hide
+
+Bovine pre-evisceration carcass
+
+Ground beef
+
+Retail meat
+
+Gut
+
+Bovine
+
+Human
+
+Swine
+
+Chicken (
+
+Mouse
+
+Snake
+
+Turkey
+
+Wild bird
+
+France
+
+Pakistan
+
+India
+
+USA
+
+South Korea
+
+Singapore
+
+China
+
+Laos
+
+River
+
+Feces
+
+Urine
+
+Blood
+
+Chicken meat
+
+Wet market
+
+Chicken
+
+Human
+
+Migratory bird
+
+France
+
+USA
+
+Mexico
+
+Japan
+
+South Korea
+
+Germany
+
+Taiwan
+
+Thailand
+
+India
+
+China
+
+Haiti
+
+Switzerland
+
+China
+
+Myanmar
+
+Canada
+
+River
+
+Stool
+
+Retailed meat
+
+Bovine peripheral lymph node
+
+Ground beef
+
+Bovine adipose trim
+
+Abdominal
+
+Bovine pre-evisceration carcass
+
+Bovine hide
+
+Peritoneal fluid
+
+Abdominal drain fluid
+
+Anal swab
+
+Nasal swab
+
+Tracheal secretion
+
+Urine
+
+Mouse gut
+
+Diarrheal snake
+
+Pus
+
+Abscess
+
+Wound
+
+Slaughterhouse
+
+Cattle
+
+Human
+
+Chicken (
+
+Swine
+
+Turkey
+
+Wild bird
+
+The host range for similar plasmids (plasmid identity 0.99)
+
+Due to its presence in the veterinary, medical, and natural environment,
+
+The main process responsible for disseminating ARGs is horizontal gene transfer (HGT) (Aminov
+
+Antibiotic resistance is undoubtedly associated with resistance plasmids, which spread rapidly through conjugation. Accordingly, plasmids play a significant role in the worldwide dissemination of resistance, including MDR (Partridge et al.
+
+Incompatibility Group C (IncC) plasmids have a broad host range; the group can be divided into several types based on differences in sequence arising from homologous recombination events between type 1 and type 2 IncC backbones (Harmer and Hall
+
+Previous studies found a sulfonamide resistance gene (
+
+Therefore, the presence of metal resistance genes and ARGs on the identified plasmids supports their transmission by HGT and subsequent maintenance in the bacterial cell, even in the absence of selection pressure caused by antibiotics. This co-occurrence of genes specifying resistant phenotypes on one MGE is referred to as co-resistance (Baker-Austin et al.
+
+AMR continues to evolve and spread, with the main mechanism being HGT through plasmids. Therefore, there is a pressing need to identify and characterize R-plasmids and their relationships with different bacterial hosts to understand their involvement in the transfer of AMR determinants. The molecular identification of plasmid genotypes, the transposons and integrons located within them, or other insertion sequences involved in this process would provide a clearer picture of the mechanism of AMR dissemination and its possible range. In turn, the characteristics of their hosts, i.e., the specific strains of bacteria, can improve the prediction of the risk to human and animal health.
+
+The study characterizes three
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 Table S1. The antimicrobial susceptibility profile of bacterial isolates (E. coli), determined by Vitek 2 Compact (XLSX 12 KB)

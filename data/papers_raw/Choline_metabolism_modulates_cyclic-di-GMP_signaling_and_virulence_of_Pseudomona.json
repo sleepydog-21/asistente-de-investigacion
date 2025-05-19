@@ -1,0 +1,11 @@
+{
+  "id": "39731097",
+  "title": "Choline metabolism modulates cyclic-di-GMP signaling and virulence of Pseudomonas aeruginosa in a macrophage infection model.",
+  "doi": null,
+  "authors": "Zhou Y, Zhang Y, Duan X, Zhou T, Ren A, Deng Y, Zhong L, Liu L, Huang Y, Zheng W, Liu D, Yang L",
+  "journal": "BMC infectious diseases",
+  "year": "2024",
+  "abstract": "Bacterial pathogens frequently encounter host-derived metabolites during their colonization and invasion processes, which can serve as nutrients, antimicrobial agents, or signaling molecules for the pathogens. The essential nutrient choline (Cho) is widely known to be utilized by a diverse range of bacteria and may undergo conversion into the disease-associated metabolite trimethylamine (TMA). However, the impact of choline metabolism on bacterial physiology and virulence remains largely unexplored. Here, we employed an in vitro infection model to investigate the role of Cho in intracellular survival and virulence of Pseudomonas aeruginosa (P. aeruginosa). Additionally, a comprehensive RNA-seq based transcriptomic analysis and various phenotypic assays were performed to elucidate the impacts of Cho on P. aeruginosa. We observed that the Cho metabolite glycine betaine (GB) effectively reduced intracellular levels of cyclic-di-GMP (c-di-GMP). Supplementation of Cho or GB in P. aeruginosa had thus affected c-di-GMP regulated phenotypes, such as pyoverdine production, biofilm formation, and mobility. Depletion of Cho metabolism through knockout of the betAB operon resulted in compromised intracellular survival of P. aeruginosa. Notably, the P. aeruginosa betAB mutant elicited a more robust protective inflammatory response compared to the wild-type strain. Our study showed that P. aeruginosa Cho metabolism not only interferes host nutritional immunity, but also directly affect multiple virulence phenotypes through modulation of c-di-GMP signaling.",
+  "source": "PubMed",
+  "pmcid": "PMC11681757"
+}

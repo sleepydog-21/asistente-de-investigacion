@@ -1,0 +1,151 @@
+Using the mouse model, it has been shown that the effects of these VAGs on virulence are cumulative
+
+Although most of the extra-intestinal pathogenic clones belong to the phylogroups B2, D and to a lesser extend C and F
+
+Thus, a clear picture of the respective role of the VAGs in the emergence of virulence, according to their genomic location and to the phylogenetic background of the strains, is lacking. In the present work, we deciphered the role of the ColV plasmid and HPI in the CC87 virulence using GWAS based on the mouse assay phenotype. We then extended the study of the role of the various iron capture systems to the species as a whole. Our goal was to understand how functional redundancy, epistatic interaction and genome location are acting at the species level.
+
+We first reconstructed the phylogenetic history of both ST58 and its sister group ST155 which are parts of the CC87 by analyzing the core SNPs of 232 strains, including 26 ST58 strains representative of the diversity previously described by Reid et al.
+
+The five CC87 subgroups (ST
+
+By rooting the tree on the B1 phylogroup ST1128 IAI1 strain, and based on both Warwick University (WU) and Institut Pasteur (IP) multi-locus sequence typing (MLST) schemes, five main subgroups were distinguished (Fig.
+
+We then screened our collection for VAGs and antimicrobial resistance genes (ARGs). As reported previously
+
+Altogether, these first analyses confirmed that virulence and resistance genes within the
+
+In a second step, we tested a set of 70 strains (30% of our data set) distributed in the five main subgroups in the mouse model of sepsis (Fig.
+
+Mouse survival curves showed that the strains exhibited different levels of virulence according to their subgroup (Fig.
+
+To identify the genetic determinants responsible for the mouse virulence phenotype, we performed a GWAS with Pyseer
+
+We then wanted to evaluate the role of the VAGs used to infer the presence of ColV plasmids in extra-intestinal virulence, but this time at the species level. For this purpose, we used the data of a GWAS analysis performed on 370 strains of the genus
+
+We determined the genomic location (i.e. chromosomal or plasmidic) of the VAGs with PlaScope
+
+For each VAG two plots are represented. The bar plot represents the prevalence according to the phylogroup/genus and the predicted location. Plasmidic location is highlighted in green, chromosomal location in gray and cases with both chromosomal and plasmidic location in orange. Location of VAGs could not be determined in two genomes (
+
+Then, using GWAS, we looked at associations of unitigs belonging to each of these VAGs with virulence in mice. Interestingly, we found significant associations mainly for the aerobactin and
+
+Overall, these data indicate that within the
+
+Next, we assessed the respective role of the iron acquisition-related operons
+
+Overall, these data indicate that, in most cases, the presence of the HPI is necessary but not always sufficient for a strain to be virulent, with other iron uptake systems required to express full virulence. Conversely, these accessory systems alone are not sufficient to confer full virulence.
+
+To get a broader view of VAG co-occurrences and their genomic location, we used the 2302 high-quality circularized
+
+First, we focused on the five main ST responsible for bacteremia in France
+
+For each given VAG on the
+
+Then, looking at the broader scale of phylogroups, the co-occurrences are also phylogroup-specific, with mainly three types of patterns (Fig.
+
+Overall, the co-occurrences of VAGs show patterns that are specific to ST/STc and/or phylogroups. Frequent co-occurrences and high prevalences of chromosomal VAGs are mainly observed in typical ExPEC like ST131, 73, 95, 69 or more broadly in phylogroups B2 and D. Of note,
+
+To determine whether these co-occurrences were the result of “chance and timing” with a single gain followed by phylogenetic inertia or selection with multiple independent gains through the phylogenetic history indicating evolutionary convergence, we searched for the sites of chromosomal insertions of the genes and for incongruences between gene and strain phylogenies.
+
+Whereas the HPI was mostly inserted at a single site but spread by homologous recombination within the
+
+We compared the phylogenetic histories of
+
+The scatter plots represent the patristic distances between pairs of (
+
+Lastly, at the species level, we found significant associations between the presence of the HPI and
+
+In sum, we found recent multiple gains of VAGs carried by plasmids and, to a lesser extent, at chromosomal sites within the species phylogenetic history, a hallmark of selection. In some cases, we were even able to identify probable exchanges between these different genetic supports.
+
+It has been reported in some archetypal ExPEC strains as CFT073 that the absence of detectable yersiniabactin is due to numerous in-frame stop codons in the
+
+All inactivating mutations (nonsense, small and large deletion and insertion) were identified within the coding regions of the genes of the four iron capture systems in the 2302 RefSeq genomes (Supplementary Data
+
+For each gene we show the corrected inactivation rate (circles at the centre of error bars) and the 95% binomial confidence interval (error bars) computed by approximating the distribution of error with a normal distribution, and using the rule of three for rates equal to 0. The inactivation rate is the number of strains with at least one inactivation over the number of strains carrying the gene and gene length. The gray squares indicate the gene function category (biosynthesis, receptor, transport and other). Note the high inactivation of the
+
+We then searched for associations between inactivation of genes in one system and presence of another system. We found significant associations only between inactivation of the HPI and the presence of chromosomal
+
+Thus, iron capture system genes are inactivated at a higher pace than housekeeping genes and only the inactivation of HPI genes is associated with the presence of other systems encoded by the chromosome.
+
+Classically, the confirmation of the role of a VAG in virulence is obtained by inactivating the gene and by showing that the KO mutant is no longer virulent or is outcompeted by the wild type strain in co-infection assays. Ideally, the complementation of the mutant should restore the wild-type phenotype. Such an approach has proven to be very powerful but it is particularly time consuming and usually only allows for the testing of single or double mutants
+
+In the present work, we explored further the emergence of a specific extra-intestinal virulent lineage within
+
+There is however strong epidemiological evidence for a role of ColV plasmids in virulence in several
+
+As iron capture systems are key elements in the mouse sepsis assay, we wanted to understand their respective role and the evolutionary forces acting on them. In addition to the HPI,
+
+Interestingly, functional redundancy and preeminent role of specific iron acquisition systems have been observed for ExPEC in a urinary tract infection mouse model, allowing niche specificity within the urinary tract
+
+We provide strong evidence that specific combinations of VAGs are selected in phylogroups and STs. The plasmidic VAGs are evolutionary recent, highly mobile and may be selected in some contexts. Our data are in agreement with the fact that
+
+The role of the strain genetic background in the acquisition/maintenance of acquired genes has been recently documented for the CRISPR-Cas systems acquired by horizontal gene transfer
+
+We evidenced a high rate of gene inactivation in the
+
+Our work has some limitations. First, our CC87 data can suffer from a lack of power due to the small number of CC87 mouse tested strains. Our analysis does not exclude minor roles of other loci such as the other ColV plasmid genes. However, due to ethical considerations, it is difficult to increase the number of mice used as we already obtained a strong signal. Second, although a well-accepted model, our mouse sepsis assay cannot mimic the invasion step of the infection as we inoculate the bacteria directly in the neck, which is a non-pathophysiological process. Various Gram-negative sepsis mouse models are available, but none can provide insights in all the steps of bacteremia pathogenesis
+
+Nevertheless, we bring strong evidence that a cumulative effect of iron capture systems is involved in
+
+The collection is composed of strains belonging to the CC87 (Institut Pasteur scheme numbering) which gathered strains from both ST58 (
+
+We determined MLST of each CC87 strain using mlst
+
+To infer the presence of ColV plasmids we searched for VAGs from 6 gene sets (
+
+We built a core-SNP phylogeny by aligning the CC87 genomes to the reference strain IAI1 (ST
+
+We assessed the intrinsic virulence of 70 CC87 strains using a mouse model as previously described
+
+The experimental protocol (APAFIS#4948) was approved by the French Ministry of Research and by the Ethical Committee for Animal Experiments, CEEA-121, Comité d’éthique Paris-Nord. Housing conditions for the mice were in agreement with the French law, with dark/light cycle, and constant ambient temperature (21 °C + /− 2 °C) and humidity (50% +/− 10%). The mice were inoculated in a blind experiment by the zootechnician that ignores the status of the strain.
+
+We performed a GWAS based on the results of the mouse model of sepsis to identify genetic determinants associated with virulence in the CC87. We ran the analysis with Pyseer using the unitigs calculated from the CC87 genome assemblies (unitig-caller 1.2.1) or the gene presence/absence calculated with Roary 3.12.0
+
+To assess the role of each VAG used to infer the presence of ColV plasmids, we retrieved the genomes of 370 strains representative of the diversity of the
+
+To analyse more thoroughly the distribution of VAGs used to infer ColV plasmids, we determined their prevalence among the 2302 genomes of
+
+In a second step, we determined the site of insertion for chromosomal VAGs. To this end, we performed a pangenome analysis of the 2302 genomes, using Ppanggolin v1.2.74
+
+Third, we also took advantage of this high-quality dataset to check for the performances of PlaScope. We analyzed the 2302 fully sequenced genomes with this approach and compared the replicon assignments to those of RefSeq (Fig S
+
+We extracted the nucleic sequences of three operons involved in iron acquisition:
+
+We retrieved the nucleotide and protein sequences of the four iron capture systems from the pangenome analysis (at the exception of the HPI integrase which matched with other integrases). We added the nucleotide sequences of incomplete protein that we detected with Abricate
+
+We tested the association between the inactivation of genes in one system and the presence of another system using Pagel’s model
+
+For each gene, we computed the inactivation rate as the number of strains with at least one inactivation event over the number of strains carrying the gene. This rate was also computed for the conserved MLST genes. Next, we computed binomial proportion confidence intervals (CI) for these rates. Finally, we obtained the corrected inactivation rate and CI by dividing the rate and CI by gene length. To evaluate the difference in corrected inactivation rate between gene categories (HPI,
+
+Further information on research design is available in the
+
+
+
+Supplementary information
+
+Peer Review File
+
+Description of Additional Supplementary Files
+
+Supplementary Dataset 1
+
+Supplementary Dataset 2
+
+Supplementary Dataset 3
+
+Supplementary Dataset 4
+
+Supplementary Dataset 5
+
+Supplementary Dataset 6
+
+Supplementary Dataset 7
+
+Supplementary Dataset 8
+
+Supplementary Dataset 9
+
+Supplementary Dataset 10
+
+Supplementary Dataset 11
+
+Reporting Summary

@@ -1,0 +1,209 @@
+Nucleoid Associated Proteins (NAPs) are architectural proteins that bind along the bacterial chromosome maintaining its compaction and organisation. They do so by DNA bending, lateral filament formation along the DNA, or DNA bridging, the latter of which results in the formation of long- and short-range DNA loops that contribute to the global and local structural organisation of the genome. NAP binding is sensitive to environmental changes such as fluctuations in temperature, pH, and osmolarity. Hence, NAPs organise the bacterial chromosome into a dynamic structure that is re-modelled in response to changes in the cell environment. NAPs also function as transcription factors that coordinate global gene regulation in response to environmental stimuli. Collectively, these characteristics entail a coupled sensor-effector model of NAPs whereby NAPs regulate gene expression by reorganising the local structure of the chromosome at the level of individual operons in response to stimuli that modulate their architectural properties
+
+Histone-like Nucleoid Structing protein (H-NS) of
+
+H-NS is a coupled sensor-effector
+
+The osmosensitivity of the
+
+Owing to Rho-dependent termination of transcription from P1 under ordinary growth conditions,
+
+In addition to H-NS, the NAPs IHF and HU also regulate
+
+The transcription of the
+
+Collectively, the coordinated role of an inherently osmoresponsive promoter
+
+Early studies examining the osmosensitivity of the
+
+The transcriptional profile across
+
+The RT-qPCR profile of
+
+The increased transcript level in the downstream region of
+
+The
+
+In an NT331 culture growing exponentially in a high salt environment of 0.3 M NaCl, the transcript levels of
+
+The dynamics of the transcript levels of
+
+The fold changes in the transcript levels of the constituent genes of
+
+Transcription of
+
+To detect cross-talk between the expression of
+
+H-NS-mediated
+
+Alleviating H-NS mediated repression – a concept first introduced by van Ulsen et al.
+
+The RT-qPCR profile of
+
+The relative transcript level of
+
+A hyper-osmotic shock to NT644, increases the transcript levels of
+
+Expression from P1 is repressed in a Δ
+
+Disruption of H-NS binding to the DRE did not affect the relative transcript levels of the flanking
+
+StpA is a paralogue of H-NS that complements the protein in Δ
+
+At 0.08 M NaCl,
+
+The RT-qPCR profile of the
+
+A hyperosmotic shock to NT331 Δ
+
+Transcription initiation from P1 was lower in Δ
+
+The transcript levels of
+
+RNaseIII, encoded by the
+
+Transcript levels of the
+
+The RT-qPCR profile of
+
+A hyperosmotic shock from 0.08 M to 0.3 M NaCl, increased the transcript levels of
+
+During exponential growth at 0.3 M NaCl, the transcript levels of
+
+In NT331 Δ
+
+The transcription of
+
+3C-qPCR is a one-to-one technique that probes the relative interaction frequency between two loci, one of which is an anchor fragment, and the other a variable test fragment
+
+To account for differences in the restriction digestion and ligation efficiencies of 3C libraries, and the differences in the starting quantity of 3C libraries in a qPCR reaction, interaction frequencies calculated from 3C-qPCR experiments are normalised to an Internal control
+
+The transcription profile of
+
+The interaction profile of fragment proU3_NlaIII across the
+
+A hyperosmotic shock from 0.08 M NaCl to 0.3 M NaCl increases the relative transcript level of
+
+During exponential growth of NT331 at 0.3 M NaCl, a condition that resembles adaptation to hyperosmotic stress, the expression of
+
+These results show that the proU3_NlaIII fragment that carries a high-affinity H-NS binding site of the DRE interacts with the URE and
+
+The URE and DRE are known to bind H-NS in in vitro EMSA
+
+To address these discrepancies, we studied the organisation of
+
+The 3C-qPCR profiles of fragment proU3_NlaIII with reduced H-NS-binding affinity across the
+
+A comparison of the
+
+The comparable expression of
+
+Mutations to the DRE that reduce its H-NS binding affinity lock the conformation of
+
+The observations discussed above provide compelling evidence that the expression of
+
+At all osmolarity conditions, the 3C-qPCR profiles of the silenced
+
+The 3C-qPCR profiles of fragment proU3_NlaIII across the
+
+The 3C-qPCR profiles of
+
+The model above suggests that IHF favours repression of
+
+The results presented above sketch a model of the structural regulation of
+
+Upon a hyperosmotic shock,
+
+Notably, the full range of
+
+Bacterial chromosomes are organised by active transcription and by architectural nucleoid-associated proteins (NAPs) that also function as transcription factors. NAPs are sensitive to physicochemical signals. Hence, the proteins organise the chromosome as a dynamic structure that is remodelled in response to physicochemical environmental stimuli, and they coordinate gene transcription with the extracellular environment. These characteristics have been studied separately in the past and direct evidence of the environmentally-regulated interplay between local three-dimensional chromatin organisation and gene expression in prokaryotes has been lacking. Using ensemble RT-qPCR and 3C-qPCR approaches, and the H-NS-regulated osmoresponsive
+
+H-NS is a global gene regulator in, among others,
+
+The
+
+Bacterial strains used in this study were derived from
+
+List of strains
+
+List of plasmids
+
+For low salt and hyper-osmotic shock conditions, a single bacterial colony from a freshly streaked plate was grown overnight at 37 °C in low salt LB medium (LS-LB: 1.0% bactotryptone (BD), 0.5% yeast extract (Alfa Aesar), 80 mM NaCl, pH 7.5) or low salt M9 medium (LS-M9: 42 mM Na
+
+Trace elements were prepared as a 100X stock solution of the following composition per 100 mL: 0.1 g FeSO
+
+Bacterial cells in 1 mL of culture were collected by centrifugation at 13,000 x
+
+In compliance with MIQE guidelines
+
+Primers for RT-qPCR experiments were designed using the
+
+RT-qPCR experiments were performed with the Luna® Universal One-Step RT-qPCR Kit (Catalogue number: E3005E, New England Biolabs) with a final reaction volume of 10 μL per well. The reactions were prepared according to the manufacturer’s instructions with modifications. Reaction composition is provided in Supplementary Table
+
+Three internal controls,
+
+Bacterial cultures grown in LB were fixed in the same manner, except that all wash steps and 3% formaldehyde preparation were performed with 1X LS-PBS (2.7 mM KCl, 10 mM Na
+
+Hi-C and 3C libraries were prepared as described previously
+
+The chromatin for both 3C and Hi-C libraries was centrifuged at 25000 x g for 1 hour at 4 °C. The supernatant was discarded, and the gel-like pellet was resuspended in 200.0 μL of nuclease-free water (Catalogue number: AM9932, ThermoFisher Scientific). The DNA concentration of the preparation was measured with the Qubit® dsDNA HS Assay Kit (Catalogue number: Q32854, ThermoFisher Scientific). 1.0-3.0 μg of DNA was used for a ligation reaction in a volume of 1 mL using 1.0 μL of 2000 U/μL T4 DNA Ligase (Catalogue number: M0202M, NEB) for 3C experiments, and 2.0 μL of the enzyme for Hi-C experiments. The reaction was incubated at 16 °C for 16 hours, and then at 25 °C for 1 hour. The reaction was terminated with 20.5 μL of 0.5 M EDTA (Catalogue number: 15575020, ThermoFisher Scientific).
+
+The libraries were purified with a 30-minute incubation at 37 °C in the presence of 160 μg/mL RNase A (Catalogue number: 19107, Qiagen), a treatment with 200 μg/mL Proteinase K (Catalogue number: 19157, Qiagen) for 16 hours at 65 °C in the presence of 500 mM NaCl, two extractions with 25:24:1 phenol:chloroform:isoamyl alcohol (Catalogue number: P3803, Sigma-Aldrich), and one extraction with chloroform (Catalogue number: 319988, Sigma-Aldrich). The DNA was precipitated at -20 °C overnight with 0.025 V of 5 mg/mL glycogen (Catalogue number: AM9510, ThermoFisher Scientific), 0.1 V of 1.0 M NaOAc (Catalogue number: S2889, Sigma-Aldrich) pH 8.0, and 2.5 V of 100% ethanol. Precipitated DNA was pelleted by centrifugation, washed twice with 70% ethanol, and air-dried. The pellet was dissolved in 30.0 μL nuclease-free water (Catalogue number: AM9932, ThermoFisher Scientific). At this step, 3C libraries were stored at -20 °C until use.
+
+Hi-C libraries were treated with 3 U of T4 DNA polymerase (Catalogue number: M0203L, NEB) in the presence of 0.1 mM dGTP (Catalogue number: N0442S, NEB) for 3 hours at 16 °C to remove biotin from unligated restriction fragment ends. The library was then extracted once with 25:24:1 phenol:chloroform:isoamyl alcohol (Catalogue number: P3803, Sigma-Aldrich), and once with chloroform (Catalogue number: 319988, Sigma-Aldrich). The DNA was precipitated overnight at -20 °C with 0.025 V of 5 mg/mL glycogen (Catalogue number: AM9510, ThermoFisher Scientific), 0.1 V of 3.0 M NaOAc (Catalogue number: S2889, Sigma-Aldrich) pH 5.6, and 2.5 V of 100% ethanol. Precipitated DNA was collected by centrifugation. The DNA pellet was washed once with 70% ethanol, air-dried, and dissolved in 20.0 μL nuclease-free water (Catalogue number: AM9932, ThermoFisher Scientific). Hi-C next-generation sequencing (NGS) libraries were prepared using the KAPA HyperPlus Kit (Catalogue number: KK8512, KAPA Biosystems) according to instructions
+
+The concentration of the 3C libraries was measured with the Qubit™ dsDNA HS Assay Kit (Catalogue number: Q32854, ThermoFisher Scientific) using the Qubit 2.0 fluorometer (Catalogue number: Q32866, ThermoFisher Scientific). The A
+
+The 3C libraries were diluted to a final concentration of 0.2 ng/μL with 10 mM Tris, pH 8.0. The libraries were individually pipetted into a 96-well plate for 3C-qPCR. 3C libraries were stored at 4 °C and placed at room temperature during reaction set-up to avoid freeze-thaw cycles. Library stocks were stored at -20 °C.
+
+Primers and TaqMan probes for 3C-qPCR experiments of the
+
+HPLC-purified, double-quenched TaqMan probes with a 5’ 6-FAM fluorophore, 3’ Iowa Black™ Fluorescence Quencher, and an internal ZEN quencher positioned 9 bases from the fluorophore were ordered as dried pellets from Integrated DNA Technologies, Inc. Primers (desalted, dry) were ordered from Integrated DNA Technologies, Inc. or Sigma-Aldrich. The oligonucleotides were dissolved in 1X TE pH 8.0 (Catalogue number: 574793, Sigma-Aldrich) to a final concentration of 100 μM and stored at 4 °C. The lists of primers and probes used for 3C-qPCR, their positions within the
+
+Three sets of control libraries were prepared for 3C-qPCR: digested and randomly re-ligated NT331 genomic DNA, digested and randomly re-ligated NT644 gDNA, and a synthetic control template where chimeric fragments of interest were separately prepared by PCR and pooled in equimolar ratios. The control libraries were serially diluted to prepare the standard samples for 3C-qPCR.
+
+3C-qPCR
+
+RT- and 3C-qPCR data was processed using the Bio-Rad CFX Manager™ Version 3.1 program (Bio-Rad) and analysed with Microsoft Excel (Microsoft 365). All the raw data files, and the exported.csv files are available as Supplementary material (Supplementary Data
+
+The Cq values of the standard samples were used to plot a standard curve of Cq against the logarithm of the starting quantity of the template. Standard samples with pipetting errors were eliminated from the plot. To verify that quantification was performed in the linear dynamic range, it was ensured that the standard curve was linear (R
+
+The Cq values of the technical replicates for each biological sample were used to determine the average Cq value (Cq
+
+The relative transcript levels and relative interaction frequencies of the Test amplicons were normalised to an Internal control amplicon to allow comparisons to be drawn between biological samples. This was done by assigning an arbitrary value of 100 to the relative transcript level or interaction frequency of the selected Internal control. The values corresponding to the Test amplicons for all biological samples were re-calculated accordingly. Since all amplicons were quantified from standard curves plotted from the same standard samples, inter-assay comparisons were made possible.
+
+An isolated
+
+Due to the method of library preparation, raw Term-seq reads are in the anti-sense orientation. The reads were reverse complemented and aligned to the
+
+Purified H-NS was serially diluted in low salt binding buffer (130 mM NaCl, 20 mM Tris, 10% glycerol, 8 mM β-mercaptoethanol, and 3 mM benzamidine, pH 7.2). The dilutions were mixed with an equivalent volume of 400 nM DRE
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review File
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Supplementary Data 3
+
+Supplementary Data 4
+
+Supplementary Data 5
+
+Supplementary Data 6
+
+Supplementary Data 7
+
+Reporting Summary
+
+
+
+Source Data

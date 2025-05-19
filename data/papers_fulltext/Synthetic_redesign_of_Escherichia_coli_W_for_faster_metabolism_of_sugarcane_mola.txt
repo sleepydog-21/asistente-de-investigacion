@@ -1,0 +1,87 @@
+Sugarcane molasses is a byproduct of the sucrose production from sugarcane, and its utilization has many advantages, including its abundance, low cost, and high sugar content [
+
+Only a few non-pathogenic
+
+Sugarcane molasses contains not only sucrose, but glucose and fructose as carbon sources, posing challenges for simultaneous metabolism of multiple sugars. Carbon catabolite repression (CCR) is a regulatory mechanism where the presence of a preferred carbon source, often glucose, represses the utilization of alternative carbon sources, including fructose [
+
+In this study,
+
+
+
+Strains and plasmids
+
+Mach1-T1
+
+To construct pCDF-csc_mono,
+
+To construct pUC-KGG, GPD1 was first cloned to pUC/K. The DNA fragments were ligated after cut with NheI and NdeI, after GPD1 was amplified with GPD1_NdeI-F/GPD1_NheI-R, and pUC/K was amplified with pUC/K_NheI-F/pUC/K_NdeI-R. Then, GPP2 was cloned into the vector after amplified with GPP2_EcoNI-F/GPP2_NheI-R and cut by EcoNI and NheI.
+
+The cells were cultured in a 250-mL baffled flask containing 25 mL of medium, and incubated at 37 ºC with shaking (250 rpm). The modified minimal medium contained 0.5 g/L MgSO
+
+Concentrations of sucrose, glucose, fructose, 3-HP, glycerol, and acetate were measured at 40 °C using high-performance liquid chromatography (Agilent 1260 Infinity II LC System) equipped with Agilent Hi-Plex H column (8 μm, 6.5 mm × 300 mm, PL1F70-6830) at a flow rate of 0.6 mL/min using 5 mM H
+
+Fed-batch fermentation was done in a 5-L bioreactor (BioCNS) containing initial 1.5 L of medium at 37 °C, 250 rpm. pH was controlled with 1 M of NaOH to set at 6.7-7.0. And 30 g/L of sugarcane molasses and 4 µM of coenzyme B
+
+The varied consumption pattern of sugars in
+
+We first engineered the uptake system of the primary component of sugarcane molasses, sucrose, to improve its consumption rate. The main non-PTS sucrose metabolism regulon in W is Csc regulon harboring four genes:
+
+
+
+Enhancing the sucrose consumption rate by optimizing the expression level of
+
+To optimize the expression level of
+
+The superior performance of Pcsc_mono, characterized by its absence of growth burden and accelerated sucrose consumption rate, proved its selection as the optimal genetic configuration. The synthetically designed monocistronic
+
+The removal of the fructose catabolite repression in W was pursued by deleting the transcriptional repressor,
+
+Instead of direct deletion of
+
+
+
+Co-utilization of glucose and fructose by controlling the expression level of fructose PTS regulon with the synthetically designed promoter-5’ UTR cassettes. (
+
+
+
+5’ UTR sequences for expression of Fru regulon
+
+With the alleviation of CCR, there were more carbon sources available for metabolism, leading to the accumulation of acetate (Supplementary Fig.
+
+To validate the industrial applicability of strains exhibiting increased sucrose consumption rate while simultaneously being able to consume multiple carbon sources, 3-HP was produced using raw material, sugarcane molasses. Multiple heterologous genes were introduced for the construction of the 3-HP pathway in the engineered strain. Harnessing the glycerol pathway as the fundamental route for 3-HP biosynthesis from sugarcane molasses, renowned for its efficiency and productivity, the selection of this pathway was based on the identification of the required enzymes facilitating the conversion from sucrose to glycerol [
+
+
+
+3-HP production by optimizing the expression level of
+
+Previous studies reported that downregulating or replacing native GAPDH to enhance NAD(P)H availability and mitigate futile cycles between endogenous and heterologous enzymes [
+
+Fed-batch cultivation of G100_3HP strain with a substrate of sugarcane molasses demonstrated the 3-HP titer of 13.487 g/L and the productivity of 0.180 g/L-h (Fig.
+
+
+
+Comparison of titer, yield, and productivity of each 3-HP producing strain
+
+Despite reducing the expression level of
+
+To achieve higher 3-HP titers, genetic engineering efforts had been undertaken, including pathway optimization. This involved the design and implementation of synthetic pathways, to enhance the expression of key pathway genes. Specifically, synthetic promoters and 5’ UTRs had been utilized to drive overexpression of these genes, thereby increasing the flux through the 3-HP biosynthetic pathway. Additionally, flux control mechanisms had been incorporated to redirect metabolic flux more effectively towards 3-HP production. By strategically engineering these pathways and optimizing the associated regulatory element (
+
+Despite certain limitations in sucrose metabolism in
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1
+
+
+
+Supplementary Material 2
+
+
+
+Supplementary Material 3
+
+
+
+Supplementary Material 4

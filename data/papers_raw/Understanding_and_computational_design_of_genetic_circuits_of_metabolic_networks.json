@@ -1,0 +1,11 @@
+{
+  "id": "38662439",
+  "title": "Understanding and computational design of genetic circuits of metabolic networks.",
+  "doi": null,
+  "authors": "Berkvens A, Salinas L, Remeijer M, Planqué R, Teusink B, Bruggeman FJ",
+  "journal": "Essays in biochemistry",
+  "year": "2024",
+  "abstract": "The expression of metabolic proteins is controlled by genetic circuits, matching metabolic demands and changing environmental conditions. Ideally, this regulation brings about a competitive level of metabolic fitness. Understanding how cells can achieve a robust (close-to-optimal) functioning of metabolism by appropriate control of gene expression aids synthetic biology by providing design criteria of synthetic circuits for biotechnological purposes. It also extends our understanding of the designs of genetic circuitry found in nature such as metabolite control of transcription factor activity, promoter architectures and transcription factor dependencies, and operon composition (in bacteria). Here, we review, explain and illustrate an approach that allows for the inference and design of genetic circuitry that steers metabolic networks to achieve a maximal flux per unit invested protein across dynamic conditions. We discuss how this approach and its understanding can be used to rationalize Escherichia coli's strategy to regulate the expression of its ribosomes and infer the design of circuitry controlling gene expression of amino-acid biosynthesis enzymes. The inferred regulation indeed resembles E. coli's circuits, suggesting that these have evolved to maximize amino-acid production fluxes per unit invested protein. We end by an outlook of the use of this approach in metabolic engineering applications.",
+  "source": "PubMed",
+  "pmcid": "PMC11065555"
+}

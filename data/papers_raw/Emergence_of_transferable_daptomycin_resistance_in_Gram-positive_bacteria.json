@@ -1,0 +1,11 @@
+{
+  "id": "40287593",
+  "title": "Emergence of transferable daptomycin resistance in Gram-positive bacteria.",
+  "doi": null,
+  "authors": "Marciniak T, Kirchner L, Wolf SA, Walther B, Bischler T, Nyasinga J, Gunturu R, Semmler T, Gräfenhan T, Whitelaw A, Scherf-Clavel O, Holzgrabe U, Ziebuhr W",
+  "journal": "npj antimicrobials and resistance",
+  "year": "2025",
+  "abstract": "Daptomycin (DAP) is a last-resort antibiotic to treat infections by multiresistant Gram-positive pathogens, including methicillin-resistant Staphylococcus aureus (MRSA) and vancomycin-resistant enterococci. DAP resistance and clinical treatment failure has been associated with adaptive chromosomal mutations, but so far not with transmissible resistance traits. Here we report for the first time an acquired DAP-R determinant (named drc) that we detected in a livestock-associated Mammaliicoccus sciuri isolate. drc consists of a two-gene operon (drcAB) that is controlled by an adjacent two-component system (drcRS). The DrcAB proteins, which mediate DAP inactivation, are similar to BceAB-like antimicrobial peptide transporters of Gram-positives, but are distinct from currently known systems. The mobile drc locus is functional in various bacterial backgrounds, including MRSA. It circulates primarily among Gram-positives in the environment, but also in commensal staphylococci and enterococci, suggesting a risk of transmission into pathogens and emphasizing the importance of low and apathogenic microorganisms as resistance gene reservoirs.",
+  "source": "PubMed",
+  "pmcid": "PMC12033364"
+}

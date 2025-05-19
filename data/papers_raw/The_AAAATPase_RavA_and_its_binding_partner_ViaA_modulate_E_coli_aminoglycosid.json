@@ -1,0 +1,11 @@
+{
+  "id": "36127320",
+  "title": "The AAA+ ATPase RavA and its binding partner ViaA modulate E. coli aminoglycoside sensitivity through interaction with the inner membrane.",
+  "doi": null,
+  "authors": "Felix J, Bumba L, Liesche C, Fraudeau A, Rébeillé F, El Khoury JY, Huard K, Gallet B, Moriscot C, Kleman JP, Duhoo Y, Jessop M, Kandiah E, Barras F, Jouhet J, Gutsche I",
+  "journal": "Nature communications",
+  "year": "2022",
+  "abstract": "Enteric bacteria have to adapt to environmental stresses in the human gastrointestinal tract such as acid and nutrient stress, oxygen limitation and exposure to antibiotics. Membrane lipid composition has recently emerged as a key factor for stress adaptation. The E. coli ravA-viaA operon is essential for aminoglycoside bactericidal activity under anaerobiosis but its mechanism of action is unclear. Here we characterise the VWA domain-protein ViaA and its interaction with the AAA+ ATPase RavA, and find that both proteins localise at the inner cell membrane. We demonstrate that RavA and ViaA target specific phospholipids and subsequently identify their lipid-binding sites. We further show that mutations abolishing interaction with lipids restore induced changes in cell membrane morphology and lipid composition. Finally we reveal that these mutations render E. coli gentamicin-resistant under fumarate respiration conditions. Our work thus uncovers a ravA-viaA-based pathway which is mobilised in response to aminoglycosides under anaerobiosis and engaged in cell membrane regulation.",
+  "source": "PubMed",
+  "pmcid": "PMC9489729"
+}

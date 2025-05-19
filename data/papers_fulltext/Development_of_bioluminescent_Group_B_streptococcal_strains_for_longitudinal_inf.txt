@@ -1,0 +1,103 @@
+Group B
+
+Over the past decades, significant efforts have been made to elucidate the pathophysiology and long-term NDI resulting from GBS neonatal disease, leading to the establishment of several animal models, including hematogenous, oral and direct brain infections
+
+Bioluminescent reporter systems have been developed in several pathogenic streptococcal species
+
+In the present study, we aimed to develop bioluminescent GBS strains to further improve our knowledge of neonatal GBS invasive disease. We found that vector-based approaches are unstable and inefficient for longitudinal studies with GBS, even with a stable
+
+To generate a GBS bioluminescent reporter strain, we used the BM110 strain, of capsular serotype III and belonging to the CC-17 hypervirulent lineage responsible for more than 80% of meningitis cases
+
+To evaluate whether light emission could be expressed as a function of cell growth, bacteria from the mid-log phase were serially diluted, and the luminescence (emission OD
+
+
+
+To evaluate the infectivity of the bioluminescent strain, we tested its adhesion and invasion properties on human Caco-2 cells. No significant differences were observed between
+
+
+
+Infectivity and
+
+Aiming at developing a bioluminescent GBS strain for longitudinal studies, we next used a replicative vector containing the red-shifted firefly luciferase, pLZ12Km2-P23R: TA: ffluc
+
+
+
+
+
+Infectivity and
+
+To validate the strain for BLI, P2 pups were infected with a low (5 × 10
+
+To determine whether the bioluminescent
+
+Integration of the firefly luciferase gene into the bacterial chromosome ensures stability and transmissibility of the reporter. Thus, we next sought to insert the red-shifted firefly luciferase into the BM110 genome. We first amplified the
+
+Similar to the previously developed reporter models, we started by assessing the
+
+
+
+
+
+Infectivity and
+
+The stable chromosomal integration of
+
+Group B
+
+Our results suggest that the
+
+The second
+
+The main limit of the
+
+The integration of the
+
+The main limitation of the
+
+In conclusion, we generated three GBS bioluminescent strains for pathogenic analysis, among which two containing the red-shifted firefly luciferase (
+
+
+
+Bacterial strains and plasmids nomenclature.
+
+For the luminescent signal, the strains were grown in non-vented culture flasks containing 30 mL of TH. An aliquot of the culture was taken at indicated timepoints and read on Synergy 2 Plate reader, using a white 96-well flat bottom microplate (settings at 37 ºC, 3s shaking before reading and luminescence read with 150 of gain). In all experiments technical duplicates and biological triplicates were performed.
+
+Plasmids were extracted using commercial kits according to manufacturer’s instructions. The pSL101P32 or pLZ12Km2-P23R: TA: fflucRT vectors were introduced in GBS by electroporation. Electrocompetent bacteria were prepared starting from an ON culture in TH at 37 °C used to inoculate (1:10) fresh medium. The culture was grown at 37 °C until exponential growth phase (OD 600 nm around 0.9). Then, one volume of a 1 M sucrose solution and 0.05% of glycine were added, and the culture was incubated for 1 h at 37 ºC with mild shaking. The culture was centrifuged at 2,000
+
+Colony PCR was performed using the following primers (Table
+
+
+
+Oligonucleotide sequences of the utilised primers.
+
+GBS strains containing the luminescent plasmid (pSL101P32 or pLZ12Km2-P23R: TA: fflucRT) were grown in TH ON at 37 ºC, with or without antibiotics and subsequently subcultured 1:1000 in fresh TH, with or without antibiotics, and incubated at 37 °C for 24 h. This step was repeated every 24 h for 8–10 days. Subcultures were serially diluted and plated on TH agar medium, with or without selection, every day and incubated ON at 37 ºC. Plasmid stability was assessed given the difference in the CFU count in the presence and absence of antibiotic selection.
+
+To construct the
+
+Integration of
+
+The pG-oxi-luc-ldh vector was introduced in
+
+The human colonic epithelial cell line Caco-2
+
+For invasion assays, 3-hour-infected cell monolayers were further incubated with cellular culture media containing 100 µg/mL gentamycin (Lonza) for 1.5 h to kill the extracellular bacteria, before cell lysis. Appropriate dilutions were plated on TH agar plates, and CFU were counted. The percentage of invasion was calculated relative to the bacterial inoculum.
+
+C57BL/6 mice were purchased from Charles River Laboratories and housed at the Instituto de Investigação e Inovação em Saúde (i3S) animal facility under a 12 h light/dark cycle and
+
+Overnight cultures of the different GBS strains were subcultured 1:100 on TH broth and grown until mid-log phase (OD
+
+Two-day-old C57BL/6 mice were intraperitoneally (i.p.) infected with the indicated CFU of WT GBS or luciferase-expressing strains in 40 µL of total volume. Survival curves were determined over a 36 h experimental period. To assess bacterial colonisation, mice were euthanised by decapitation following isoflurane anaesthesia. The brain, lungs and liver were aseptically removed 18 h post-infection, homogenised, serially diluted in PBS, and plated on TH agar medium with or without antibiotic selection for CFU counts.
+
+To vertically infect neonatal mice, we adapted our previously described mouse model of infection
+
+For the
+
+For
+
+All data were analysed and graphically represented using GraphPad Prism software (v.9.0.1, GraphPad Software Inc. CA). Means and standard errors of the means (SEM) were calculated and correspond to the indicated independent experiments. Student’s t-test was used to analyse differences between two experimental groups. The differences between multiple groups were performed by one-way or two-way ANOVA, whenever appropriate, with Tukey’s Multiple Comparison Test. The normality of the data was verified by the Shapiro-Wilk normality test. Survival curves were plotted using Kaplan-Meier plot, and statistical significance was determined using the log-rank (Mantel-Cox) test. CFU data were log
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material

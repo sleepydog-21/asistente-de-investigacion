@@ -1,0 +1,67 @@
+Enteropathogenic
+
+The LEE comprises five polycistronic operons (LEE1, LEE2, LEE3, LEE4, and LEE5), two bicistronic operons (
+
+The aEPEC subgroup is genetically heterogeneous (
+
+The aEPEC 1711-4 strain (serotype O51:H40) was isolated from a child with diarrhea during an epidemiological study on diarrhea, which was conducted in 1989 at the Universidade Federal de São Paulo (UNIFESP), Brazil (
+
+One fluorescent variant of aEPEC 1711-4 was obtained by transforming the wild-type strain with the recombinant plasmid pDP151 (Invitrogen), which encodes the fluorescent protein mCherry and confers resistance to ampicillin.
+
+Caco-2 cells ATCC
+
+Before the assays, the monolayer was washed three times with phosphate-buffered saline (PBS), and fresh DMEM supplemented with 2% FBS was added.
+
+HeLa cells stably expressing Lifeact::GFP (
+
+The invasion assay was performed as described by Pacheco
+
+The evaluation of bacterial persistence was performed as the invasion assay. However, after 6 h of incubation, the cells were washed three times with PBS, 1 ml of DMEM supplemented with 2% FBS and 100 µg/ml of gentamicin was added to each well, and the preparations were incubated at 37°C for 18 h, totalizing a 24 h assay. After incubation, the monolayers were washed with PBS, lysed with Triton X-100, serially diluted, and plated onto MacConkey.
+
+The assay was performed as previously published. Briefly, aEPEC 1711-4 expressing mCherry was grown statically in LB for 18 h at 37°C. HeLa (Actin-GFP) cells in DMEM supplemented with 2% FBS and 100 µg/ml of ampicillin were infected with 1.5×10
+
+The expression of the
+
+The whole genome sequence of 1711-4 was performed using the PacBio RS sequencing System (Pacific Bio). The reads were assembled
+
+The Similar genome finder service with a threshold of 0.001 and distance of 0.01 was used to identify the published genomes like 1711-4 to identify to which Clonal complex the strain belonged. The MLST of the 50
+
+Another phylogenetic tree was built to identify the clonal relationship of 1711-4 with EPEC and EHEC clonal lineages previously published (
+
+The results were compared and evaluated using the non-parametrical t-student test. The numbers of FAS-positive signals and pedestals were compared using One-way ANOVA followed by the post hoc Turkey HSD test.
+
+A kinetic interaction was performed to understand the 1711-4 adhesion and invasion behaviors in the colonization of Caco-2 cells. The number of bacteria interacting with Caco-2 cells increased from 1.5 h to 3 h (
+
+Although the total interaction did not change, the quantification of the invasion efficiency in the same period showed that the aEPEC 1711-4 invasion process occurred only after 1.5 h and increased after 3 h of interaction (
+
+As the transcription levels of the LEE genes during the initial interaction of aEPEC 1711-4 with Caco-2 cells is unknown, the
+
+The transcription of the
+
+During the bacterial intracellular persistence, although
+
+The number of pedestals per cell increased gradually from 3 h to 6 h (
+
+The whole genome of aEPEC 1711-4 comprised 4,722,189 bp and belonged to phylogroup A. Also, the serotype O51:H40 was confirmed
+
+Additionally, the evaluation of the EPEC/EHEC global clonal lineages showed that aEPEC 1711-4 belongs to the EPEC10 clonal group (
+
+Regarding virulence factors, aEPEC 1711-4 carried a complete LEE region and the intimin subtype theta. The non-LEE effectors NleB1, NleB2, NleE1, and NleH1 and the adhesins ECP, ELF, FdeC, YDF, and HCP were also identified in the genome. No known invasin, plasmid, or genes related to extraintestinal pathogenicity or antimicrobial resistance were identified in the aEPEC 1711-4 genome.
+
+The aEPEC pathotype comprises genetically heterogeneous bacteria that harbor diverse accessory genes that contribute to their virulence (
+
+In the present work, we enlarged the knowledge regarding the 1711-4 strain, one representative Brazilian aEPEC strain belonging to the O51:H40 serotype. As the expression of flagella and the LEE PAI genes in the invasion and intracellular bacterial persistence was unknown, we evaluated the expression of five LEE genes, representing the different LEE regions, and flagella during the early invasion and persistence processes in Caco-2 cells.
+
+During the interaction of aEPEC 1711-4 with Caco-2 cells, the number of associated bacteria reached its maximum at 3 h, while invasiveness was identified only after 3 h. During this process, the
+
+The T3SS is an essential virulence factor related to the pathogenicity of diverse bacterial genera like
+
+During the interaction with HEp-2 cells, it was observed that the expression of LEE operons in the tEPEC prototype strain E2348/69 was different from that of aEPEC 1711-4 infection of Caco-2 cells (
+
+Some results were similar to those reported with tEPEC (
+
+In aEPEC 1711-4, the differences in the gene expression identified may be linked to the invasion and/or persistence processes. In a previous study, it was demonstrated that the aEPEC 1711-4 isogenic strain lacking T3SS is unable to invade eukaryotic cells. Now, we have found that in the wild type 1711-4 strain, the
+
+Our group previously showed that the flagella of aEPEC 1711-4 contribute to the early steps of bacterial adherence (
+
+It was recently discovered that the 1711-4 strain lacks plasmids and belongs to the ST10 complex and EPEC 10 global lineage. This lineage is associated with EPEC strains that cause diarrhea and extraintestinal infections. The global EPEC 10 lineage, to which 1711-4 belongs, represents about 15% of all aEPEC strains isolated worldwide and is the most significant global lineage in phylogroup A. The genome of the 1711-4 strain was evaluated, and it was found to contain non-LEE effectors (NleB1, NleB2, NleE1, and NleH1) as well as five adhesins (ECP, ELF, FdeC, YDF, and HCP). However, no invasin or genes related to extraintestinal pathogenicity were identified that could explain its ability to invade cells and move from the gut to extraintestinal sites. The role of these factors in bacterial adherence, invasion, and host cell subversion remains to be determined.

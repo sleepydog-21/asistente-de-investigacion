@@ -1,0 +1,47 @@
+
+
+First, iModulons offer an unbiased global view of an organism's TRN, especially when experimental validation is limited (e.g. in
+
+As independent component analysis emerged as powerful tool for analysing an increasing number of available prokaryotic transcriptomes, iModulonDB (
+
+iModulonDB’s initial release included iModulon dashboards and transcriptomic datasets for three organisms:
+
+Database size of iModulonDB
+
+Datasets: number of ICA decompositions. Some organisms are associated with multiple datasets. Samples: number of expression profiles. iModulons: number of iModulons, each with their own page on the site. Studies: number of unique experiments associated with the original generation of samples, accompanying publication is displayed on the ‘Projects’ page when available.
+
+The ‘Projects’ page displays pertinent data associated with each study. When available, the title, authors, DOI, and abstract of the associated publication are displayed. Control and experimental variables and the reference condition are highlighted. The samples table reflects the experimental conditions of each expression profile. The ‘Acid’ study (
+
+differences.
+
+Further, this update describes iModulonDB’s transition from a static repository of curated iModulons to a dynamic knowledgebase that accommodates in-page analyses. Targeted analysis of any iModulon-iModulon, iModulon-gene, or gene-gene pair can be conducted through our updated ‘Search’ page (Figure
+
+Search-driven analysis of the RpoS and Translation iModulons. (
+
+At the time of its release, iModulonDB contained curated iModulon sets for three prokaryotic transcriptomic datasets:
+
+Knowledge of an experiment typically resides within its publication and associated metadata. To facilitate the transfer of this knowledge to our users, we have created a new ‘Projects’ page where the expression profiles (samples) in each ICA dataset are grouped by their respective study. Here, users can select a study from the drop-down menu to display: (1) the title, author, abstract, and DOI (when available); (2) the control and experimental variables and (3) a table that contains the sample ID and all relevant information that differs between the samples (Figure
+
+As is the case in the ‘Acid’ study in
+
+Since the original publication of iModulons in
+
+Independent component analysis (ICA) is a computational method used to separate a multivariate signal into additive, independent components. When applied to a transcriptomic dataset containing the expression profiles of all genes across multiple conditions, ICA decomposes the transcriptomic matrix into an
+
+Unlike iModulons,
+
+To characterize differences between the experimentally determined TRN (i.e. from regulons) and the omics-driven TRN (i.e. from iModulons),
+
+Transcriptional regulation is condition-specific, so we have implemented condition-specific highlighting for all data points in our dashboards. Previously, our dashboards displayed condition-specific behaviour for a gene or an iModulon, but did not include plots comparing iModulon activity and gene expression. This update introduces additional condition-specific correlation plots that accompany existing iModulon-regulator plots, as well as new plots showing an iModulon's activity and the expression of its constituent genes. These improvements allow users to see exactly which conditions contribute the most to correlations between iModulon activity and gene expression (e.g. Figure
+
+Since the curation of iModulons is data-driven, researchers often seek a biological understanding of iModulon genes. A gene's operon structure and its protein-protein interaction (PPI) network may elucidate the biological mechanisms driving the gene's co-expression with other genes (and thus its inclusion in an iModulon). For example, our group previously found that an iModulon's gene membership can be explained by features inherent to the promoter sequences of its constituent genes (
+
+To promote prolonged user engagement with iModulons and facilitate knowledge-mining of the underlying datasets, we developed a new set of features that enable in-page analyses (Figure
+
+For example, the ‘fear-greed’ trade-off describes the balance between rapid cellular growth (i.e. ‘greed’) and stress response readiness (i.e. ‘fear’). Fear and greed phenotypes can be described by the activities of multiple iModulons. The
+
+The new pairwise analysis workflow also yields additional graphs that supplement the phase-planes: a Venn diagram of the gene overlap (Figure
+
+In addition to user-specified analyses, the new ‘Analysis’ page of iModulonDB accommodates dataset-wide analyses across all expression profiles of a species (
+
+Independent component analysis has proven to be a powerful tool for obtaining co-regulated, independently modulated gene sets from high-quality bacterial transcriptomic datasets. By contextualizing RNA-seq data from individual experiments within a broader transcriptomic compendium suitable for ICA, iModulons can uncover new layers of understanding from existing datasets. iModulonDB continues to be the most widely used and well-maintained platform for sharing and exploring iModulons. Although this update represents a 1370% growth in the number of expression profiles analysed and includes iModulon sets for 12 additional organisms, iModulonDB is no longer just a database. The collection and display of all publications and experimental variables, the interpretation of conditions and genetic perturbations, the biological context provided by external databases, and the user-prompted analysis tools now available establish iModulonDB as a dynamic knowledgebase that promotes understanding of bacterial transcriptomes and the condition-specific rules that govern regulatory relationships. iModulonDB is publicly available and continues to expand the content and functional capabilities within the knowledgebase. Driven by the needs of the research community, iModulonDB development has focused on disseminating curated iModulons (and the underlying transcriptomic datasets) in an easily interpretable manner, improving interoperability with external databases, and building analysis tools that enable users to interact directly with iModulons. To help shape future releases of iModulonDB, we encourage community members to submit feedback through the contact page.

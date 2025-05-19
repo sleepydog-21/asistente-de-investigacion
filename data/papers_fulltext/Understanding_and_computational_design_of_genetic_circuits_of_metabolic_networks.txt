@@ -1,0 +1,93 @@
+Microbial cells adapt their protein expression to their environment to ensure that they achieve physiological states with a competitive fitness [
+
+Such changes in physiology vary from minor adjustments – tuning of already-expressed protein concentrations – to large-scale qualitative changes such as shifts in metabolism (from respiration to fermentation) [
+
+Since cells have finite biosynthetic resources [
+
+Since evaluation of the fitness benefits of regulatory circuitry is challenging, we generally lack a satisfactory understanding of regulatory circuity of metabolism, even in the best understood microbes such as
+
+For instance, why are nearly all amino-acid biosynthesis pathways inhibited by their products [
+
+What are the objectives of these regulations and how do they contribute to the fitness of a cell? To address this, do we need to consider the entire metabolism of the cell, or can we obtain significant understanding by focusing only on the kinetics of subnetworks, for example, glycolysis and the citric acid cycle?
+
+Regulation is an inherently dynamic concept [
+
+In this review, we present a theoretical, model-based approach to rationalize and design the regulation of metabolic-gene expression by assuming as objective the maximization of metabolic flux per unit invested enzyme (specific flux maximization) [
+
+We have chosen to discuss concrete small examples, to make the approach accessible and easy to follow. The theory, however, not only works for small networks. It can be formulated in general terms, for large metabolic networks that incorporate kinetics of all participating enzymes [
+
+To illustrate the key ideas of the following sections, we consider a simple, analytically solvable example of a metabolic pathway (
+
+(
+
+The model considers two enzymes in a sequence, converting an external nutrient
+
+Our aim is to design a genetic network that induces steady-state concentrations of enzyme l and enzyme 2 such that at all steady states of the pathway, as a function of
+
+Clearly, given a concentration of
+
+The optimum is also dependent on the kinetics of the enzymes. For instance, the two plots in
+
+We can find the optimal enzyme concentration by a numerical optimization using a computer algorithm (black lines in
+
+(
+
+Our current understanding of the expression of ribosomal versus biosynthesis genes can be described in terms of the coarse-grained model introduced in
+
+In
+
+Interestingly, when one plots the ribosome fraction of
+
+It is been well known that ribosomal saturation in
+
+The ppGpp-mediated control of ribosomal gene expression is a powerful control system: it tracks and adjusts the metabolic state of the cell by sensing only the substrate saturation of ribosomes [
+
+Since the behavior of the model is so close to experimental behavior, one could argue that the ribosomal-expression control system of
+
+In the previous sections, we considered maximization of pathway performance (
+
+As an example, we consider a metabolic pathway with a negative feedback loop in the context of a cell that aims to maximize its growth rate by optimization of its metabolic enzyme concentrations. The pathway resembles an amino-acid biosynthesis pathway as we find them in bacteria (step l in
+
+The steps (
+
+We assume that we know the dependence of the growth rate on an external parameter, for example, the concentration
+
+We also assume also that the cell has a fixed content
+
+Next, we assume that the cell has a constant protein content (
+
+Then
+
+This shows that maximization of the growth rate coincides with the maximization of the product biosynthesis rate.
+
+From the last relation, we can determine the desired production flux per unit cellular protein that is required to grow at rate
+
+All of this makes sense from the premise that a cell minimizes the protein amount allocated to each task that is currently needed for its fitness and that it maximizes its fitness in this manner [
+
+An important aspect to note is that the substrate of the biosynthetic pathway is not the limiting nutrient
+
+The optimization problem associated with this scenario requires that we set the flux to a value
+
+The optimization of the metabolic network leads to sets of optimal concentration of metabolic network enzymes (
+
+Next, we need to find a genetic network which displays these optimal I/O relations, by choosing protein synthesis functions that agree with the deduced ones in
+
+To illustrate the performance of the genetic network in controlling the optimal performance of the metabolic network, we show simulation results of a mathematical model of the coupled genetic and metabolic network in
+
+(
+
+Adaptation to new stresses and nutrients is quicker and growth is faster when the associated stress, adaptation and growth-associated proteins are expressed at higher levels. The performance of cellular tasks is, therefore, a rising function of protein investment. Since cells have finite biosynthetic resources, protein investment in cellular tasks cannot all be high simultaneously. Therefore, cellular tasks trade off, task performance varies with conditions, and shifts occur between tasks (and metabolic strategies). Balancing of cellular tasks is the outcome of environmental sensing and induction of adaptive responses by cellular regulatory circuitry [
+
+We currently lack a comprehensive understanding of the regulatory circuits of microbial cells [
+
+In this review, we focused on three examples of regulation of metabolic pathways, that are based on [
+
+Our analysis of how
+
+The strategy to design input-output relations to optimize flux per unit invested protein can be extended to much larger metabolic networks, indeed to any network in which each enzymatic reaction is essential to sustain the flux through the network (so-called Elementary Flux Modes [
+
+We study how high fitness in single-celled organisms is regulated through gene expression.
+
+We show how to infer and design gene regulatory networks that steer metabolic pathways to states of maximal flux.
+
+Examples include ribosome regulation and

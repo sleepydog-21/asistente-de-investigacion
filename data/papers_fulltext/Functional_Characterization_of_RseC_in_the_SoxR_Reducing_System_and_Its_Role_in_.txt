@@ -1,0 +1,43 @@
+Bacteria have various forms of electron transfer systems in cytoplasmic membrane. The Na
+
+RseC and ApbE are partial homologs of the N- and C-terminus of RnfF in
+
+For the bacterial two-hybrid (BACTH) analysis, we followed the protocol described by
+
+Lee
+
+To determine the membrane topology of RseC protein derivatives, PCR-generated gene fragments were cut and ligated in-frame with either the
+
+To overproduce the RseC N-terminal domain, PCR-generated
+
+Site-specific mutagenesis of RseC was done with QuikChange Site-Directed Mutagenesis Kit (Stratagene).
+
+For LacZ activity assays, GC4468 (F- Δlac U169 rpsL) or MS1343 (GC4468-based
+
+GC4468 and derivative strains were grown for 15 h at 37°C in LB medium containing with or without 50 μg/ml kanamycin for seed culture. After inoculating the seed culture into fresh medium, when the optical density (OD
+
+The exponential phase and stationary phase samples of GC4468 and Δ
+
+Genetic analysis using the bacterial two-hybrid system determined that both the N-terminal and C-terminal domains of RseC are located in the cytoplasm [
+
+Even in AlphaFold, the accuracy is low for the cysteine-rich region and the ends of the transmembrane helix. Additionally, the transmembrane helix is represented differently depending on the prediction tool, necessitating further verification. We performed translational fusion of β-galactosidase (LacZ) and alkaline phosphatase (PhoA) to RseC, either at the C-termini or at specific positions near the membrane-targeting motifs. N70 was selected as a representative for the region predicted to be solely in the cytoplasmic domain, N98 for the region consisting of only the first transmembrane helix, and N130 for the region fully containing two transmembrane helices (
+
+The strong phosphatase activity in N98 and the high β-galactosidase activity in N70 and N130 suggest that both the N-terminal and C-terminal domains are located in the cytoplasm. Reporter enzyme activity measurements indicate that RseC likely positions its N- and C-terminal domains flanking the two TM motifs in the cytoplasm (
+
+To elucidate the functional significance of RseC structure, we examined whether sequences present in the cytoplasm and inner membrane could complement SoxR reducer function. We expressed the full-length RseC, the N-terminal cytoplasmic domain (N70), the first membrane helix (N98), both transmembrane domains (N130), and the C-terminal truncations (C90 and C62) using the expression vector pTAC3N (
+
+Previous genetic analysis using the bacterial two-hybrid system predicted that RseC interacts with electron transfer structures such as RsxB and RsxD of the SoxR reducer complex at the cytoplasmic membrane. The bacterial two-hybrid system measures interaction by forming a single domain from two split β-galactosidase fragments located in the cytoplasm. To identify the regions involved in these interactions, we performed translational fusions of partial LacZ domains to the C-terminal parts of N70, N98, N130, C90, and C62, and the remaining partial LacZ domains to RseC, RsxB, and RsxD (
+
+The N-terminal cytoplasmic region of RseC contains three well-conserved cysteines at positions 26, 29, and 35, and a less conserved cysteine at position 20 (
+
+To investigate the role of cysteines, we obtained the N70 protein of RseC and conducted experiments related to cysteine involvement. Overproduction of N70 in
+
+RseC, which is subject to different transcriptional regulation in an orphan locus and exists as a membrane protein with oxygen-sensitive conformational changes in its cytoplasmic domain, suggests that it may function independently and possess roles other than being a subunit of the SoxR reducer. To verify independent redox-related functions, we examined its role in reactive oxygen species. Since the SoxRS regulon is directly involved in defense mechanisms against redox cycling chemicals or superoxide, it is difficult to compare these activities with those of the SoxR reducer. Instead, we tested the reactivity to the organic peroxide CHP and the membrane-permeable reactive oxygen species H
+
+Research has focused on the role of RseC in maintaining homeostasis following strong oxidative reactions induced by redox cycling agents and superoxide anion radicals through the SoxRS system in
+
+In
+
+When the RseC protein is expressed with only the N-terminal cytoplasmic domain, it is mostly observed in inclusion bodies. The structural instability and oxygen sensitivity of the conserved cysteine motif in RseC appear contradictory to its function related to reactive oxygen species. However, the structure predicted by AlphaFold, where the C-terminal cytoplasmic region interacts with the N-terminal domain, suggests that the instability of the cysteine motif observed when only the N-terminal cytoplasmic domain is expressed might differ in actual cellular conditions. The results indicating that only the full-length sequence can functionally complement support this hypothesis.
+
+In

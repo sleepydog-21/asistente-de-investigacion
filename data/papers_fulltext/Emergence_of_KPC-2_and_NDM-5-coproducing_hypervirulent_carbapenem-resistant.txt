@@ -1,0 +1,61 @@
+In China mainland, only five KPC-2 and NDM co-producing hv-CRKP isolates (KPC-2-NDM-hv-CRKPs) have been identified with different sequence types (ST11, ST86, and ST464) (
+
+In this study, we not only featured the antibiotic-resistant and hypervirulent phenotypes in detail, but we also investigated the molecular mechanisms associated with multidrug resistance and hypervirulent phenotypes using whole-genome sequencing (WGS). We also analyzed the plasmid-backbone and conjugation modules and used a conjugation assay to further determine the self-transmissibility of these resistance and hypervirulence genes to study how these isolates emerged and the risk of dissemination of these isolates. According to our findings, the KPC-2-NDM-hv-CRKP poses a significant threat to healthcare networks, and steps should be taken to closely monitor and control the spread of superbugs with multidrug-resistant phenotypes and hypervirulence.
+
+Both
+
+According to the Clinical and Laboratory Standards Institute guidelines, the minimal inhibitory concentration (MIC) of the
+
+The genomic DNA of FK3122 and FK3127 was extracted with a commercial kit and sequenced using PacBio Sequel and Illumina NovaSeq 6000. Reads were filtered and assembled using SPAdes (version 3.12) (
+
+To assess the ability of bacterial supernatants to chelate iron, the researchers utilized the chrome azurol S (CAS) assay, following established protocols (
+
+A549 lung cells (ATCC CCL-185) were cultured in Dulbecco’s modified Eagle’s medium containing 10% fetal bovine serum in a 5% CO
+
+To assess the pathogenicity of
+
+We used a conjugation assay to test if the resistant plasmids from
+
+To confirm plasmid presence in
+
+The complete nucleotide sequences of the
+
+Statistical significance was assessed using a two-tailed Student’s
+
+According to the antibiotic susceptibility test, we discovered that
+
+Antimicrobial drug susceptibility profiles
+
+MIC, minimal inhibitory concentration; MEM, meropenem; IPM, imipenem; GEN, gentamicin; AMK, amikacin; ATM/AVI, aztreonam-avibactam; CZA, ceftazidime-avibactam; FDC, cefiderocol; PMB, polymyxin B; AMP, ampicillin; CAZ, ceftazidime; FEP, cefepime; FOX, cefoxitin; CTX, cefotaxime; TZP, piperacillin-tazobactam; CIP, ciprofloxacin; TCY, tetracycline; ATM, aztreonam; SXT, trimethoprim/sulfamethoxazole; and TGC, tigecycline.
+
+Here, we aimed to explore whether FK3122 and FK3127 pose hypervirulent features. The negative string test results indicated that the hypermucoviscous phenotypes were absent in FK3122 and FK3127. Quantitative siderophore assays indicated that FK3122 (ST11) and FK3127 (ST15) produced comparable siderophores with NTUH-K2044 (ST23, positive control), and produced substantially more siderophores than 1627 (ST11 cKP, negative control) and FK3036 (ST15 cKP, negative control) strains (
+
+The virulence phenotypes and levels of FK3122 and FK3127. (
+
+We found that FK3122 belonged to ST11-KL64 isolates and FK3127 belonged to ST15-KL24 isolates, both ST-type lineages in which they belong were associated with the CRKP epidemic. In these isolates, we discovered more than 10 resistant elements as well as several key resistance plasmids (
+
+General features and antimicrobial resistance genes of plasmids in
+
+ORF: Open reading frame.
+
+These bolded resistance genes and virulence genes are very important.
+
+In the two isolates, we observed two virulence plasmids, harboring specific virulent factors:
+
+Comparative analysis of
+
+We observed three resistant plasmids in FK3122, p3122-6 (
+
+Although the plasmids identified in the FK3122 seemed less transmissible, the movement of insertion sequence IS
+
+Three key virulence and resistance plasmids in FK3127 were all recognized as conjugative plasmids (
+
+Conjugation frequency of resistant plasmids identified in
+
+The emergency of hypervirulent carbapenem-resistant
+
+Epidemiological data indicated that ST11-KL64-hvCRKP has emerged as the most prevalent hypervirulent and carbapenem-resistant
+
+ST15
+
+In this study, two high-risk novel

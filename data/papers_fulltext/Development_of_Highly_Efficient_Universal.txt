@@ -1,0 +1,89 @@
+Compared to other animals, rabbits exhibit distinct characteristics in their susceptibility to infection with
+
+Another feature of
+
+Hares, belonging to the same family as rabbits (Leporidae), are widely distributed worldwide, though much less studied than rabbits for infection with
+
+In this study, we capitalized on the availability of lung specimens from deceased wild hares (white-tailed jackrabbits [
+
+This study involved 135 hares and 8 rabbits from Calgary, Alberta, Canada, collected between October 2019 and July 2020 (
+
+Host species were identified morphologically by experienced veterinary professionals. Additionally, selected animals (positive in
+
+Genomic DNA was extracted from lung tissues (~100 mg each animal) using the QIAamp Fast DNA Tissue Kit (Qiagen) and eluted in ~50 μL. DNA extracts were quantitated by NanoDrop spectrophotometer (Thermo Fisher Scientific, Waltham, MA, USA).
+
+Multiple pairs of primers were selected from highly conserved regions of the full-length dihydropteroate synthase (
+
+The sequences of these new primers, along with previously reported primers [
+
+The amplification efficiencies of these primers, along with previously reported primers, were determined using a pool of DNA extracts from 20 hares positive for
+
+PCR was performed in a 50 µL volume containing ~500 ng genomic DNA, 0.25 M of each primer, and 25 µL of LiTaq Plus Mix (LifeSct LLC, Rockville, MD, USA) using a touch-down thermocycling program as follows: 94 °C for 2 min; 10 cycles of 94 °C for 30 s, 65 °C for 60 s with 1.5 °C decrease per cycle, and 72 °C for 2 min; 30 cycles of 94 °C for 15 s, 50 °C for 30 s, and 72 °C for 1.5 min; and a final extension at 72 °C for 5 min. PCR products were examined in 1% or 1.2% E-gel (Thermo Fisher Scientific). The PCR products with a single, strong band with the expected size were purified and sequenced directly by Sanger sequencing.
+
+The amplification efficiency of primer pairs was compared based on the number, size and density of the DNA bands in the PCR products visualized on agarose gels. The presence of a single, strong band of the expected size indicates an efficient amplification. The primer pairs showing a high efficiency, including rns.f8-rns.r13 for mtSSU, rnl.f10-Pu3Y.f for mtLSU, PK.f2-dhps.r6 for
+
+We chose to determine the prevalence of
+
+All positive PCR products were purified and sent to a commercial sequencing facility (Quintara Biosciences, Frederick, MD, USA) for Sanger sequencing.
+
+To investigate the genetic divergence of
+
+For two hares (HR20-009 and HR20-090), the nearly complete mtDNA of
+
+PCR was performed using total genomic DNA and the LiTaq Plus Mix (LifeSct LLC, Rockville, MD, USA) with a touch-down thermocycling program as follows: 94 °C for 2 min; 10 cycles of 94 °C for 30 s, 65 °C for 60 s with 1.5 °C decease per cycle, and 72 °C for 7 min; 30 cycles of 94 °C for 15 s, 50 °C for 30 s, and 72 °C for 7 min; and a final extension at 72 °C for 10 min. All PCR products were purified. After partial Sanger sequencing to confirm the presence of unique
+
+Illumina data were assembled using SeqMan NGen (version 14.1.0.118, DNASTAR, Madison, WI, USA) under default conditions. The resulting contigs were oriented using Sequencher by aligning to the
+
+The
+
+Sequence alignment was conducted using MacVector under default conditions of the MUSCLE program (version 18.6.1, MacVector, Inc., Apex, NC, USA). Sequence identity and similarity were determined using the Matrix mode of MacVector. Genetic distances were calculated using MEGA (version 11.0.13 [
+
+DNA sequences were collected, checked for proper orientation using emboss revseq, and aligned using Clustal Omega [
+
+Branch tests were performed using 1000 replicates with the SH-like approximate likelihood ratio test (SH-aLRT) [
+
+All statistical analyses were conducted in R Studio (version 2023.12.1+402).
+
+For mtSSU, out of a total of ten primer pairs tested, four showed the best performance with a single, strong band with the expected size (~600–670 bp.
+
+For mtLSU, almost all new primer pairs designed in this study showed a single, strong band with the expected size of ~430–750 bp (
+
+Both primer pairs rns.f8-rns.r13 and rnl.f10–Pu3Y.f showed strong amplification when applied to samples from 14 other animal species, including some formalin-fixed, paraffin-embedded lung tissue samples with DNA highly degraded (
+
+For the ITS1-5.8S-ITS2 and
+
+Out of the 130 hares, 99 (76%) and 95 (73%) samples were positive for the mtSSU and mtLSU genes, respectively, after a single round of PCR. Following semi-nested PCR on samples showing different results for these two genes, an additional 2 and 4 samples became positive for mtSSU and mtLSU, giving rise to a total of 101 (78%) and 99 (76%) positive samples, respectively. There was no significant difference between these positive rates (
+
+Based on direct Sanger sequencing, all PCR products contained sequences with the highest identities (88–99%) to
+
+The prevalence of
+
+Out of the eight rabbits, only two (25%) were positive for both mtSSU and mtLSU after a single round of PCR. All others were negative for either gene; none of them were positive in nested-PCR for either gene.
+
+Among the five variants of
+
+For the ITS1-5.8S-ITS2 locus (~610 bp), only variants 1 and 2 were amplified from fifty and two hares, respectively, with SNPs and indels presented in six positions (1.3% divergence) between these two variants (
+
+To provide a more accurate estimation of the genetic similarity of
+
+In the two infected rabbits, mtSSU-PCR yielded an identical sequence (605 bp), which harbored three SNPs compared to the
+
+Based on phylogenetic analysis using concatenated sequences of the mtDNA core genes,
+
+Better understanding the epidemiology of
+
+This study offers multiple new primer sets with broad coverage of diverse
+
+Both mtLSU and mtSSU primers described in this study are suitable for prevalence studies, given their presence in multiple copies per cell, as well as genetic diversity and phylogeny studies, owing to substantial sequence diversity in the internal regions of these primers. Both
+
+Of note, the primer Pu3Yf for mtLSU was adopted from Pu3for [
+
+With the new universal mitochondrial primers, we documented, for the first time, a high prevalence of
+
+Another interesting finding in this study is the identification of five variants of
+
+Our phylogenetic analysis shows that
+
+Despite its close phylogenetic relationship to and similarly high prevalence as
+
+We have developed highly efficient universal primers targeting multiple mitochondrial and nuclear genes of the

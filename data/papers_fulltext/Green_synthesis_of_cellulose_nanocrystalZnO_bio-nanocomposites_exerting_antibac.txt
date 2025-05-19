@@ -1,0 +1,183 @@
+The agricultural sector all over the world, especially in developing countries, plays an important role in economic development. This agricultural sector generates a large amount of waste every year. Incineration is the most common way to dispose of this waste, which leads to environmental pollution and waste of great national wealth. That is why a major concern since the past era has been the exploitation of this renewable waste in environmentally safe ways and its transformation into new valuable products
+
+The isolation of CNs from various natural cellulosic materials occurs in two stages. (1) The pretreatment process aims to completely or partially remove wax, hemicellulose, holocellulose, and lignin. (2) The controlled enzymatic treatment or chemical hydrolysis can be used to extract high-crystallinity CNs by removing amorphous regions
+
+Large-scale manufacturing of NPs free of contaminants is possible thanks to green synthesis, which uses various biological entities. Many of the negative impacts of physical and chemical processes can be avoided through the green synthesis of NPs using plants, algae, fungi, actinomycetes, and bacteria
+
+One of the most important aspects that represent a threat to the health of consumers, especially in developing countries, is foodborne diseases. Most foodborne diseases are caused by pathogenic bacteria belonging to the genera
+
+Currently, the layout of antimicrobial or antibacterial substances involves various substantial factors, such as the utilization of food or agricultural waste and affordable raw materials, processing method and facile synthesis, biocompatible characteristics for food or medical implementations, and fabrication of biodegradable products that reduce the environmental consequence at the end of the life span
+
+In this study, two CNs extracted from palm sheath fibers were used as templates for the facile and green synthesis of ZnO NPs by employing the sono-co-precipitation method. The obtained CNs and CNS–ZnO bio-nanocomposites were characterized using TEM, EDX, UV–Vis, DLS, FT-IR, and XRD analysis. We believe that these biosynthesized metal–oxide NPs have shown worthwhile results when used as therapeutic agents contra some infectious diseases induced by multidrug-resistant Gram-positive and Gram-negative bacteria. Moreover, the effect of the newly prepared CN–ZnO bio-nanocomposites on reducing virulence and the ability of toxigenic bacteria to cause infection has not been studied before which makes it the focus of many applications, especially in food packaging. As a result, the goal of this work is to evaluate the effectiveness of environmentally friendly CN–ZnO bio-nanocomposites and in showcasing their prospective use as antibacterial agents with anti-toxigenic properties. Further, the current research is investigating these synthesized CN–ZnO bio-nanocomposites' capacity to inhibit key genes encoding major modulatory toxins from the pathogenic bacteria under study.
+
+Palm (
+
+First, the PSFs were subjected to successive treatment processes of pulping and bleaching. The pulping process was performed using 17.5% (w/w) sodium hydroxide and liquor ratio (1:7) at 160 °C for 90 min. Thereafter, the bleaching treatment was carried out three successive times with 3.5% sodium chloride at 70 °C and pH of 3 for 1 h for each step. Each stage of the processing treatments, i.e., pulping and bleaching, was pursued by scrubbing with sufficient distilled water to neutral pH. Second, the CNs were obtained through two different extraction processes. CNAs were extracted from the unbleached pulp of a PSF using 1.25 M APS at 70 °C, 1:100 liquor ratio, and 16 h, whereas CNSs were extracted from the bleached pulp of a PSF using 6.5 M sulfuric acid at 50 °C, 1:20 liquor ratio, and 2 h
+
+CN–ZnO bio-nanocomposites were prepared via a sono-coprecipitation method using CNAs and CNSs at 80 °C and 35 °C, respectively. In detail, 3.5 g of zinc acetate (a precursor of ZnO) was added to a 1% CNAs suspension. The solution was stirred for 30 min before being sonicated at a temperature of 80 °C for 2 h. The same procedure was applied to CNSs at 35 °C. The resultant white precipitates were dialyzed against deionized water to remove unreacted salts and impurities. The washing process continued until the dialyzing water conductivity became ≈ 4 μS·cm
+
+Graphical abstract of the fabrications and applications of nanomaterials under investigation.
+
+The optical characteristics of the fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO aqueous suspensions were investigated using UV–Vis spectroscopy within the range of 200–800 nm using Agilent’s Cary 50 probe equipment.
+
+The FT-IR spectra of the differently prepared samples were measured on a JASCO FT-IR 6100 spectrometer (Tokyo, Japan). The records were conducted in the range of 400–4000 cm
+
+The XRD patterns of the prepared lyophilized CNAs, CNSs, CNA–ZnO, and CNS–ZnO were analyzed using a Malvern Panalytical Empyrean X-ray diffractometer (the Netherlands), with an angle of incident monochromatic X-ray (2
+
+Moreover, the Bragg’s law was used to calculate
+
+A Quanta FEG-250 (Waltham, MA, USA) scanning electron microscope at a voltage of 20 kV was used for depicting and analyzing elements via the energy-dispersive X-ray spectroscopy (EDS) of dry CNA–ZnO and CNS–ZnO bio-nanocomposites. Moreover, transmission electron microscopy (TEM) micrographs were captured with high-resolution JEOL JEM-2100 (Japan). The prepared suspensions were diluted 10 times before being dried on a microgrid coated by a thin carbon film (≈ 200 nm). In contrast to the dried residues of CNA–ZnO and CNS–ZnO nanocomposites, the dried precipitates of CNAs and CNSs were stained with a 2% uranyl acetate solution to improve the microscopic resolution.
+
+Using the high concentration zeta potential cell ZEN1010, zeta-potential and average size evaluations of the produced CNA and CNS were performed on a Malvern Nano Zeta-sizer (Malvern, NanoZS, UK) at 200.1 °C. Across the nominal electrode spacing of 16 mm, a 40 V field was applied. Before the experiments, the samples were ultrasonicated for 5 min at 50% amplitude to improve particle dispersibility.
+
+Four different strains of each pathogenic multidrug-resistant bacterium such as
+
+The antibacterial efficacy of the CNA–ZnO, and CNS–ZO bio-nanocomposites was tested against Gram-positive (
+
+The broth microdilution process was employed with 96-well plates (TPP, Switzerland). Each extract was diluted twofold in LB broth® (Acumedia, Michigan, USA), and the wells were injected with 1 × 10
+
+The QIAamp DNA mini kit (Qiagen GmbH, Germany) was utilized for the extraction of DNA from samples. Further, strains were examined for the existence of toxin virulence parameters, as shown in Table
+
+Different primers and their sequences of different bacteria used for detecting the toxin virulence factors.
+
+ACACTGGATGATCTCAGTG
+
+CTGAATCCCCCTCCATTATG
+
+CCATGACAACGGACAGCAGTT
+
+CCTGTCAACTGAGCAGCACTTTG
+
+CTT TGG TCG TAA AAT AAG GCG
+
+TGC CCA AAG CAG AGA GAT TC
+
+CCT AAG ACG CCA ATC GAA
+
+AAG CGC TTG CAA CTG CTC
+
+TTGGAAACGGTTAAAACGAA
+
+GAACCTTCCCATCAAAAACA
+
+TCGCATCAAACTGACAAACG
+
+GCAGGTACTCTATAAGTGCC
+
+GACATAAAAGCTAGGAATTT
+
+AAATCGGATTAACATTATCC
+
+CTAGTTTGGTAATATCTCCT
+
+TAATGCTATATCTTATAGGG
+
+TAGATAAAGTTAAAACAAGC
+
+TAACTTACCGTGGACCCTTC
+
+The products of PCR were separated via electrophoresis on 1% agarose gel (AppliChem GmbH, Germany) by running 20 μL of the PCR products. The gel was photographed using a gel documentation system (Alpha Innotech, Biometra), and the data were analyzed via computer software.
+
+Quantitative real-time PCR (qRT-PCR) was utilized for the analysis of toxin gene expression whereas the 16S rRNA housekeeping gene of each pathogen functioned like an interior control to standardize the expressional ranks among samples. Primers were employed in a 25 μL reaction comprising 3 μL of the RNA template, 8.25 μL of water, 0.5 μL of each primer of 20 pmol concentration, 0.25 μL of RevertAid Reverse Transcriptase (200 U/μL) (Thermo Fisher), and 12.5 μL of the 2 × QuantiTect SYBR Green PCR Master Mix (Qiagen GmbH, Germany). The reaction was implemented in step one real-time PCR under precise conditions stated in Table
+
+Objective genes and cycling conditions for SYBR green Rt-PCR.
+
+16S rRNA
+
+Results were expressed as mean ± standard deviation and the data were analyzed using one-way ANOVA using GraphPad Prism for windows,
+
+Samples of palm sheath fiber were collected with the consent of the local producers. The authors guarantee that all procedures were carried out in compliance with the rules and regulations that applied.
+
+The effective fabrication of CNA–ZnO and CNS–ZnO nanomaterials using facile, efficient, and eco-friendly routes can be verified across assorted analytical tools. Figure
+
+TEM micrographs of fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO.
+
+Moreover, Fig.
+
+Table
+
+EDX elemental analysis of CNA–ZnO, and CNS–ZnO bio-nanocomposites.
+
+EDX Mapping of (
+
+The FT-IR spectra of the CNs extracted using APS (CNA) and sulfuric acid (CNS), along with the fabricated CNA–ZnO and CNS–ZnO bio-nanocomposites, are shown in Fig.
+
+FT-IR spectra of fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO.
+
+FT-IR vibrational bands and their corresponding assignment for fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO.
+
+On the other hand, comparing the FT-IR spectra of the fabricated CNs with those of metal/metal oxide NPs, most of the bands appeared clearly with little change in their intensities and frequencies. These deviations in the intensities and frequencies of the absorption bands can be ascribed to the establishment of the metal oxides-polymer bonds
+
+As displayed in Fig.
+
+The XRD diffractograms of CNA and CNS, presented in Fig.
+
+XRD profiles of fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO.
+
+Bragg angel (2-theta), lattice plane (MI), crystallinity index (CrI), d
+
+The optical characteristics of the fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO suspensions were detected using UV–Vis absorption spectroscopy (Fig.
+
+UV–Visible spectra of fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO aqueous suspensions.
+
+Zeta potential analysis was used to assess a crucial factor, the stability of CNA and CNS dispersions in aqueous conditions. CNA and CNS have measured zeta potentials of − 23 and − 36 mV, respectively. Hence, in neutral water, the prepared CNA and CNS suspensions had a negative zeta potential. Negatively charged carboxylate and sulfate groups on the surface of CNAs and CNSs are primarily responsible for their remarkable dispersion stability after APS and sulfuric acid treatments
+
+CNA and CNS particle size distributions show particles that are less than 100 nm in size. Particle sizes for CNAs and CNSs ranged from 21.04 to 122.42 nm. The average particle size and width for CNAs were 37.39 nm and 15.37 nm, respectively. While CNSs have an average particle size and breadth of 30.36 nm and 8.81 nm, respectively. Thus, CNS specimens had a smaller particle size distribution than the CNA (Fig.
+
+Size distribution by numbers from DLS study of the fabricated CNAs, CNSs, CNA–ZnO, and CNS–ZnO.
+
+From the results obtained for TEM, EDX, and UV–Vis analysis, we can conclude the direct effect of reaction temperature on the particle size and concentration of ZnO NPs prepared using CNs as both reducing agents and stabilizers. Thus, the higher the temperature is, the larger the particle size and the lower their concentration will be. In addition, we can observe that as ZnO concentrations decrease, their diameters increase. This may be similar to what happens when NPs are synthesized via a solid–vapor mechanism. Therefore, a lower ZnO content means that fewer nuclei were molded and thus the entering Zn
+
+The proposed mechanism for the growth of these NPs depends mainly on the eminent model provided by CNs as a reducing and stabilizing agent, which originate primarily as a result of APS and sulfuric acid treatments of unbleached and bleached fibers, respectively. The mode of action of the APS treatment involves in one step the removal of lignin, hemicellulose, pectin, and other plant contents through formed SO
+
+CNs, extracted from PSFs, could be an eminent model for metal/metal oxide NP green fabrication because of their efficiency to suppress the growth of NPs. This power ensues from the intramolecular and intermolecular hydrogen bonding structure in CNs. Additionally, the CN extraction procedures produce additional ionic moieties (namely, COO
+
+Based on this, the CN mode of action in the in situ synthesis of ZnO NPs can be proposed as follows; chelating interactions occur between Zn
+
+In the antibacterial activity test, the pure CNs (CNA and CNS) suspensions were selected as the control. No antibacterial activity was observed for both of them. In contrast, the inclusion of ZnO NPs on the surface of CN whiskers induced the antibacterial activity with which the suspension of CN–ZnO bio-nanocomposites showed significant inhibition of bacterial growth. All the tested isolates were inhibited by both suspensions (CNA–ZnO and CNS–ZnO), but the CNS–ZnO suspension showed a higher inhibition zone for all the tested isolates. Divergence in the extent of the inhibition area among the diverse groups of bacteria can be relatively disclosed. On the one hand, the highest inhibition zone was observed for
+
+Antibacterial activity of CNs (CNA & CNS), CNA–ZnO, and CNS–ZnO suspension against
+
+Antibacterial activity test shows the inhibition zone of tested strains caused by (A) CNA–ZnO and (S) CNS–ZnO bio-nanocomposites suspensions [Injected samples that do not display any region of inhibition are representative of the CNAs and CNSs].
+
+The mode of action of ZnO NPs against bacteria includes the release of metal ions that penetrate the bacterial cell membranes, interfering with functional groups in nucleic acid and protein, thereby inhibiting the activity of enzymes. Accordingly, the change in the cell structure will eventually lead to the inhibition of microorganisms
+
+The antibacterial effects of the prepared CN–ZnO bio-nanocomposites were also assessed by employing the MIC procedure. This technique was implemented to demonstrate the lowest concentration of the fabricated CN–ZnO bio-nanocomposites that can stop or hinder bacterial growth. From the studies conducted on the 96-well titer plate, the minimum concentration of CNA–ZnO and CNS–ZnO suspensions to fully hinder the growth of
+
+On the one hand, the MIC values of CNS–ZnO (0.5–1 μg/mL) against the
+
+SIC, MIC, and MBC of CNA–ZnO and CNS–ZnO against
+
+The high surface/volume ratio of these nanostructured compounds, which provides a broader contact area with agents in the environment, is thought to be the main cause of their antibacterial activities. The capacity to smoothly penetrate cell membranes disorders several intracellular processes, leading to reactivity and antimicrobial activity
+
+All the tested isolates carried the toxin genes and gave characteristic bands except
+
+According to our study,
+
+Moreover, the enterotoxin (
+
+Using RT-PCR, the amounts of testing virulence gene products (cDNA) before and after treatment with a SIC of the tested CN–ZnO bio-nanocomposites can be compared as qRT-PCR has emerged as one of the most used approaches for gene expression analysis due to its benefits of great sensitivity and specificity
+
+The fold changes in the
+
+The relative mRNA expression levels of genes related to toxins through tested bacterial strains before and after treatment with CNs (CNA and CNS), CNA–ZnO, and CNS–ZnO.
+
+Regarding
+
+The
+
+Regarding
+
+Several studies mentioned the molecular action of ZnO NPs on several multidrug-resistant bacteria. Xie et al. studied a considerable group of genes of
+
+Further, Abdelraheem and Mohamed found that ZnO NPs remarkably downregulated the expression levels of all virulence genes and the biofilm of
+
+In the current study, all tested virulence genes were remarkably down-regulated, implying a regression of bacterial pathogenicity after remedy, especially in the CNS–ZnO group. To the best of our knowledge, the present study is the first prevalence of demonstrating the influence of CNs and CN–ZnO bio-nanocomposites on levels of gene expression in toxigenic bacteria in Egypt and the Middle East.
+
+The use of cellulose for material fabrication and its applications has received scientific and technological interest owing to its distinct usage direction in various forms of preparation. In particular, CNs show superior properties compared to their bulk materials. The strong intramolecular and intermolecular hydrogen bonding that exists in CN fibers along with active moieties (carboxyl and sulfate groups) and abundant free hydroxyl groups creates a three-dimensional mold structure for the fabrication of metal/metal oxide NPs. The two extracted CNA and CNS have different morphological characters, which, in turn, form distinct CN–ZnO bio-nanocomposites. Further to the obtained results, the direct effect of the reaction temperature and properties of CNs molds on the particle size and concentration of ZnO prepared by the sono-co-precipitation method can be inferred. Thus, the size and concentration of fabricated ZnO NPs are inversely proportional to each other and depend on the type of CNs used and the applied reaction temperature.
+
+The current study emphasizes the dual-target therapy of novel CN–ZnO bio-nanocomposites, which enhances bacterial treatment by preventing in vitro bacterial growth and focusing on bacterial toxin synthesis, thereby reducing the emergence of antibiotic resistance. The anti-toxigenic properties are likely due to the direct binding and downregulation of toxin-associated genes of tested Gram-positive and Gram-negative bacteria. According to the aforementioned results, the synthesized CNS–ZnO bio-nanocomposite offer intriguing characteristics that render them excellent alternative products for targeted drug delivery, controlling microorganism’s reproduction and toxins in food.
+
+
+
+Supplementary Information.

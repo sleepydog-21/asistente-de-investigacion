@@ -1,0 +1,74 @@
+Production of commodity chemicals at industrial-scale relies on chemical synthesis using fossil fuels as precursors [
+
+Methacrylic acid is a chemical with various uses as a precursor to polymers widely used in plastics. It demonstrates a growing market of 8% per year with economics that suggest biological production could be feasible [
+
+The stability of a plasmid in a carbon-limited fermentation, without selective pressure is largely governed by plasmid loss at division (segregational stability), with, on average, approximately 3% of a population becoming plasmid free in each generation [
+
+The persistence of genes located on plasmid vectors is dependent on numerous factors, but can be broadly separated into structural stability and segregational stability [
+
+Previous studies have shown the cer fragment to have an effect on plasmid retention for industrial production [
+
+The advent of synthetic biology has allowed rapid generation of gene vectors and allows combinatorial studies that can generate greater breadth of coverage [
+
+Single-cell analysis of plasmid retention can give a vastly greater understanding of the populations arising during an industrial fermentation process. Traditional plasmid retention assays have relied on detecting the retention of selectivity markers, such as antibiotics, on colonies resulting from agar plate growth. Flow cytometry is a potential powerful analytical tool that allows the detection of fluorescence in individual particles [
+
+The use of single-cell analysis techniques here, allowed the direct comparison of plasmid retention with and without a cer fragement. This fragment provided an exemplary method for plasmid stabilisation for long-term, continuous fermentations. Single-cell fluorescence expression analyses were compared to citramalate production to determine the effectiveness of the fluorescence marker as a proxy for monitoring industrial production pathway gene retention. As a result, maintenance of production was tracked throughout a 106 h continuous fermentation at 1-L scale. Retention of fluorescence and citramalate production were shown to increase with addition of cer stabilisation, resulting in total yield increases of over 150%. Here we demonstrate that cer stabilisation can be applicable to an industrially-relevant continuous fermentation, by ensuring mis-segregation is not a factor in resultant plasmid loss. We show that single-cell analyses are vital to understanding precise mechanisms of plasmid plasticity in cells, enabling a rational understanding of follow-up steps to further-stabilise plasmids towards timeframes that maximise productivity for industrial bio-based commodity chemical production.
+
+Type IIS restriction assembly techniques were used to assemble two variant plasmids for citramalate expression and reporting. This allowed the exact order of the operon components to be arranged specifically and also assembled all in a ‘one-pot’ process. Figure.
+
+The layout of the genes and the Type IIS part ends used to make up plasmids pQR2401 and pQR2402, ends fully explained in Additional file
+
+BW25113 ΔldhA cells were transformed with either of the resultant plasmids pQR2401 or pQR2402, the same host strain described previously as demonstrating high levels of product formation [
+
+Glucose concentration in the chemostat dropped for the first 12 h until steady state was reached, and the reactor became carbon-limited. Glucose levels then remained constant until the end of the fermentation. Citramalate production from cells containing plasmid pQR2401 climbed sharply to a maximum of 2.39 g L-1 at 12 h, began to drop immediately after this high point and decreased to half of the maximum level by 33 h. This indicates that there was no stable citramalate production period without any additional plasmid stabilisation.
+
+When the cer fragment was added to the plasmid (pQR2402), peak citramalate production was detected at the same time point, 12 h, and at a lower amount, 1.92 g L
+
+The total citramalate production determined from the area underneath the concentration curve over the course of the 106 h continuous fermentation
+
+Due to the operonic nature of the plasmid assembly, fluorescence is initially linked to expression of the citramalate gene. As a result, monitoring the fluorescence signal from samples taken during the fermentation allows plasmid expression and retention to be tracked by simple excitation/emission studies, simple spectroscopic analyses that are quicker, cheaper, and easier to scale than HPLC [
+
+The use of flow cytometry allows for single-cell level analysis giving more information than is available from bulk fluorescence or chemical concentration values alone. The ability to measure fluorescence levels of individual cells enables tracking of single-cell gene expression. The measurement of any fluorescent signal within a cell above a control value demonstrates retention of pathway expression (therefore no total plasmid loss and no global operon structural changes) and the value of the fluorescence of each cell demonstrates the expression levels of the operon at a single cell level.
+
+When no additional stabilisation is present on the production plasmid, the percentage of cells retaining an RFP signal above control begins dropping after only 12 h (Fig.
+
+The calculated half-lives based on a regression fit of the RFP + percentage retention data, the time at which half of the cells no longer exhibit any fluorescence expression and are therefore likely to have lost plasmid, in a continuous fermentation at a dilution rate of 0.1 h
+
+The overall productivity across the entire fermentation and the peak productivity at the maximal citramalate productive period are shown as grams of product produced, per litre of fermentation broth, per hour. The product yield is shown as the amount of citramalate produced compared to the glucose added throughout the length of the fermentation
+
+The median expression level of cells that retain an RFP signal above control increases throughout the continuous fermentation of pQR2401 containing cells, showing an increase of approximately four-fold from the steady state levels at 20 h to the maximum at 90 h (Fig.
+
+The eventual loss of fluorescence in cer-containing cells suggests that cer does not guarantee high copy-number maintenance indefinitely but that it does decrease the likelihood of plasmid loss at each cell division. Eventually, loss of productivity does still occur, and non-productive plasmid free cells do arise. Further studies, potentially utilising next generation genomics techniques, will be needed to discover what is causing the loss of productivity when segregational stability has been increased with cer addition.
+
+Peak productivity (i.e. the productivity when maximal citramalate production was achieved) was higher for cells lacking cer on the production plasmid, supported by the higher median fluorescence of cer- cells at this time. Inclusion of cer appears to stabilise the plasmid copy number, allowing for greater stability with a small reduction in maximial productivity. The overall productivity, however, was 60% higher when cer was included in the plasmid (Table
+
+HPLC data showing the concentration of citramalate and glucose (primary axis), and OD
+
+Inclusion of cer on the expression vector in an
+
+Single-cell fluorescence data from cells detected as having a fluorescence emission value above non-fluorescent control, and thus retaining fluorescent protein expression from the production operon, throughout the 106 h continuous fermentation.
+
+The presence of a fluorescence marker linked to pathway expression here demonstrates excellent use as a proxy for productivity as well as retention. In addition, if used in conjunction with single-cell analyses it is possible to infer reasons for subsequent plasmid loss. Flow cytometry can determine single-cell fluorescence, generating more accurate data than bulk fluorescent measurements alone and correct gating of particles is able to limit any signal from lysed cells, ensuring that any signal relates more closely to transcribing, productive cells.
+
+Here we demonstrated the ability of single-cell fluorescence to determine operon retention and expression levels separately. This allowed the measurement of the proportion of cells retaining plasmid, and importantly, the proportion of cells retaining a functional, expressing plasmid. As a result, we were able to show that plasmids containing a cer multimer resolution site demonstrated increased retention, likely through decreasing the chance of plasmid free segregants arising. As plasmid-free segregants begin to arise in the strain containing the production plasmid lacking a cer multimer resolution site, the median fluorescence of those that retain plasmid increases. This suggests that plasmids are being unequally divided amongst the daughter cells. Some cells are inheriting a proportion of plasmid copies and are thus expressing more fluorescent protein (and thus production pathway proteins). However, the metabolic burden of these plasmid levels means these cells grow slower and are quickly outcompeted in the fermentation. Addition of cer to the production plasmid maintains a median expression level which suggests that daughter cells are inheriting roughly equal plasmid copy numbers. It is important to determine precisely how these cells still lose plasmid expression, as this will be the next step in prolonging productivity for industrially relevant timescales [
+
+Once antibiotic selective pressure is absent, the only selective pressures that remain are against high plasmid copy number, due to the burden of the production pathway. Citramalate is produced from pyruvate in central metabolism, thus is competing directly with cell growth under glucose-limited conditions [
+
+Statistically accurate comparison of fermentation data is difficult due to the media and equipment requirements of parallel studies. The ability to analyse multiple factors simultaneously would allow statistically accurate knowledge of the likelihood of segregants arising and speed of fermentation take-over once they do. The use of higher-throughput growth screens, coupled with the single-cell analyses used here, would allow the direct comparison of different stabilisation systems with greater statistical accuracy.
+
+As discussed, addition of selective pressure elements (such as toxin/anti-toxin or metabolic addiction systems), also linked to pathway expression should increase plasmid stability further, however, structural changes are inevitably the limiting factor as is ultimately the case for cer stabilisation shown here. The next steps towards prolonging industrial-scale production times from bacteria should be focussed towards limiting mutations in the host and ensuring a pressure towards a higher copy number. Here we demonstrate the first step towards leveraging the power of synthetic biology tools to generate stabilised production strains for continuous fermentation. By streamlining these processes and analysing the further limiting factors to pathway gene retention, we are confident in producing stabilised strains to enable continuous processes for industrial bio-based production.
+
+A vector backbone was generated from a pET29a( + ) (Novagen) plasmid by PCR to remove the Multiple Cloning Site (MCS) and expression cassette. A strong constitutive promoter (BBa_J23119) was selected from the Anderson Series of promotors and amplified along with the rfp gene, cimA3.7 gene and bidirectional terminator rrnB1 T1T2 (BioBrick promotors by JC Anderson) [
+
+Continuous fermentation was performed in the Applikon my-Control system. General configuration for the fermenters was a total volume of 1.2 L, 2 Rushton impellers (separated by 4.5 cm), two baffles. Each bioreactor contained a working volume of 900 mL with a dilution rate (D) of 0.1 h
+
+Cells were grown overnight on solid LB agar plate with Kanamycin grown 37 °C. A single colony was selected to inoculate liquid LB with Kanamycin and grown for 12 h (OD > 4) at 37 °C and 250 rpm. Afterwards, MS media containing Kanamycin was inoculated in flasks to an initial OD = 0.1 and grown (37 °C and 250 rpm) for 6–7 h for a final OD > 0.5. MS inoculum growth is affected greatly by media pH and subsequent decrease (data not shown), for this reason an additional phosphate buffer was included in this stage. Fermenters were inoculated at an OD = 0.1 and grown as explained before. Feed and harvest started at 6 h after inoculation.
+
+Media composition is as follows: LB media consisted of tryptone (10 g L
+
+100 µl of each time point was removed from each fermenter and analysed in a Clariostar microplate reader (BMG LABTECH) for absorbance at 600 nm and excitation/emission fluorescence at 545/592.
+
+1 ml was also taken at each time point, spun at 17,000 × g for 1 min and the supernatant removed by pipetting. This was then filtered with a 0.22 µm filter and analysed with HPLC using an Aminex column with a mobile phase composed of TFA 0.1% v/v and a flowrate of 0.6 mL min
+
+10 µl of each sample was taken and diluted in 1 ml 1 × Phosphate Buffered Saline without Calcium and Magnesium (Lonza). Single-cell fluorescence was analysed on a BD FACS Jazz with 561 nm laser excitation and emission detection with a 585/29 nm filter. 100,000 particles were read for each sample. Particles were separated into gates initially to remove non-cell matter from a blank media control. Control cells without fluorescent plasmid were then used to determine gate that detected 99% of non-fluorescent cells. RFP + gate was then taken as any fluorescent reading exceeding this control gate. A positive control consisting of cells containing plasmid and grown overnight in LB media at 37 °C with antibiotic selection was used to ensure RFP + gate returned 99% of particles demonstrating RFP expression.
+

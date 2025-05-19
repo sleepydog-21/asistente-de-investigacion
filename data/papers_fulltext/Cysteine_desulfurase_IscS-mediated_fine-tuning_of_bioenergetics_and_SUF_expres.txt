@@ -1,0 +1,139 @@
+The
+
+Many organisms express multiple Fe-S assembly systems (e.g., NIF, ISC, and SUF), wherein the SUF system is largely restricted to organisms that are frequently exposed to Fe-S cluster–damaging conditions (
+
+In this study, we used a redox biosensor and extracellular flux (XF) analyzer to compare the redox balance and bioenergetics of wild-type (WT)
+
+A previous study reported that depletion of IscS results in a slightly slower growth rate of
+
+(
+
+Exponentially growing
+
+Because most of the cytoplasmic pool of labile iron exists in the ferrous form (
+
+Given that a deficiency of IscS leads to accumulation of ROS in
+
+Intracellular ROS generation takes place when flavoenzymes inadvertently relocate a fraction of their electron flux directly to molecular oxygen (
+
+Fe-S cluster–dependent enzymes play key roles in CCM, branched-chain amino acid synthesis, and nucleotide biosynthesis (
+
+Quantitative liquid chromatography–mass spectrometry (LC-MS/MS) analysis of (
+
+(
+
+Impaired glycolysis and PPP are also reflected in a lower abundance of sugar metabolites uridine 5′-diphosphate glucose (UDP-Glc) along with a modest reduction in guanosine diphosphate mannose (GDP-MAN) and uridine diphosphate
+
+We observed a notable accumulation of various amino acids (Phe, Tyr, Trp, Glu, Arg, and His) in the mutant (
+
+The altered pool of CCM in
+
+We starved
+
+We next asked whether any transcriptional response was associated with the redox, metabolic, and bioenergetic changes we described in
+
+Classification of differentially expressed genes (DEGs) according to annotated functional categories revealed up-regulation of stress-responsive genes (
+
+Total RNA was isolated from
+
+As expected from a defective adaptation of
+
+Redox homeostasis, CCM, and respiration modulate
+
+(
+
+We also measured the kill kinetics for Mox and Rif by colony-forming unit (CFU) analysis at various times after treatment with 1× MIC for WT
+
+Fe-S cluster biogenesis systems also contribute to protection from oxidative and nitrosative stress in bacteria (
+
+(
+
+To understand the relevance of in vitro findings to infection settings, we assessed survival of the mutant in macrophages. We infected resting and immune-activated RAW264.7 murine macrophages with
+
+Depletion of Suf components (SufR and SufT) attenuated the survival and persistence of
+
+BALB/c female mice (
+
+Gross organ examination revealed that the lung surface of mice infected with
+
+ROI, RNI, iron starvation, and an intraphagosomal environment increase expression of the
+
+Gene expression analysis by quantitative reverse transcription polymerase chain reaction (qRT-PCR) of bacterial Suf genes (
+
+On the basis of the above findings, we hypothesized that NO could be an environmental cue that induces
+
+We next sought to determine the impact of the
+
+We infected BALB/c mice with the
+
+(
+
+Earlier transposon mutagenesis studies indicated that IscS is essential for
+
+The slow-growth phenotype of
+
+The gene encoding fumarate hydratase was unaffected in the mutant. The fumarate hydratase catalyzes the stereospecific hydration of fumarate to malate and is essential for
+
+While any of the above Fe-S cluster–dependent mechanisms could have contributed to the slow growth rate of
+
+Our metabolomics and transcriptomics data provide insight into why
+
+The connection between the Suf system and IscS becomes clearer under conditions that highly induce the
+
+Our phenotypic data suggest that IscS and Suf systems work in distinct ways.
+
+During infection in mice,
+
+The
+
+The intra-mycobacterial
+
+Exponentially growing cultures of
+
+For determination of intracellular ROS in the presence of Bip and Thio, exponentially grown cultures at an initial OD
+
+Intracellular iron levels were measured using the ferrozine-based colorimetric assay described previously (
+
+The number of viable bacilli was determined after treatment with 250 μM iron chelator Bip or 10 mM ROS scavenger Thio by removing aliquots from the cultures followed by preparation of 10-fold dilutions. Twenty microliters of dilutions was trailed on 7H11 agar plates. Plates were incubated for 3 to 5 (for
+
+To determine the viability of
+
+Freezer stocks of
+
+The aconitase activity was measured by monitoring the disappearance of
+
+Metabolite extraction from all
+
+Steady-state levels of metabolites were analyzed using methods described in (
+
+To estimate the basal OCR and ECAR,
+
+The reference genome sequence (.fna) and annotation (.gff) files for the
+
+For overlap analysis of DEGs with the processed data of other studies, the significance of gene number overlap was determined by Fisher’s exact test on a two-by-two contingency table. The universal set of the genes was calculated on the basis of the intersection of total genes analyzed in the studies with our study. If this information was not available, then we took 3975 genes as the universal set (table S2).
+
+Exponentially growing
+
+RAW264.7 murine macrophage cell line was used for the ex vivo infection study. This cell line was acquired from the American Type Culture Collection (Manassas, VA) and tested negative for mycoplasma contamination using the DE-MycoX Mycoplasma PCR Detection Kit (CELLclone, catalog no. GX-E-250).
+
+MIC was evaluated by a MABA in a 96-well plate format (
+
+Exponentially growing cultures of
+
+For the mice infection model, 5- to 6-week-old female BALB/c mice (
+
+Mice infection experiment with the SufS-KD strains was performed similarly, where mice were divided into six groups,
+
+To determine the role of NO in
+
+Construction of SufS-KD strains was carried out using the CRISPRi technology as described in (
+
+Total bacterial RNA was extracted using the FastRNA Pro Blue Kit (MP Biomedicals, Santa Ana, CA) and further purified using RNeasy spin columns (Qiagen, USA) in accordance with the manufacturer’s instructions. For qRT-PCR analysis under different experiment setups, total RNA was extracted at indicated time points, followed by treatment with deoxyribonuclease (DNase). Approximately 600 ng of DNase-treated RNA was used for cDNA synthesis using random hexamer oligonucleotide primers (iScript Select cDNA Synthesis Kit, Bio-Rad, USA). Gene-specific primers and iQ SYBR Green Supermix (Bio-Rad, USA) were used for qRT-PCR (StepOne Plus, Thermo Fisher Scientific, USA). For gene expression analysis, 16
+
+Bacterial RNA was extracted from infected mouse lungs as described in (
+
+Bacterial RNA was isolated from infected RAW264.7 murine macrophages after 48 hours of infection as described in (
+
+All data were graphed and analyzed with Prism v9.0 (GraphPad Software, San Diego, CA) unless otherwise stated. Representative data of at least three independent biological replicates are indicated as means ± SEM. Statistical significance was determined with two-tailed unpaired
+
+This study was carried out strictly following the guidelines provided by the Committee for the Purpose of Control and Supervision on Experiments on Animals (CPCSEA), Government of India. The protocol for the animal experiment was approved by the animal ethical committee on the Ethics of Animal Experiments, Indian Institute of Science (IISc), Bangalore, India (approval number: CAF/Ethics/544/2017). All humane efforts were made to minimize the suffering.

@@ -1,0 +1,11 @@
+{
+  "id": "37495979",
+  "title": "A novel strategy for L-arginine production in engineered Escherichia coli.",
+  "doi": null,
+  "authors": "Nie M, Wang J, Zhang K",
+  "journal": "Microbial cell factories",
+  "year": "2023",
+  "abstract": "L-arginine is an important amino acid with applications in diverse industrial and pharmaceutical fields. N-acetylglutamate, synthesized from L-glutamate and acetyl-CoA, is a precursor of the L-arginine biosynthetic branch in microorganisms. The enzyme that produces N-acetylglutamate, N-acetylglutamate synthase, is allosterically inhibited by L-arginine. L-glutamate, as a central metabolite, provides carbon backbone for diverse biological compounds besides L-arginine. When glucose is the sole carbon source, the theoretical maximum carbon yield towards L-arginine is 96.7%, but the experimental highest yield was 51%. The gap of L-arginine yield indicates the regulation complexity of carbon flux and energy during the L-arginine biosynthesis. Besides endogenous biosynthesis, N-acetylglutamate, the key precursor of L-arginine, can be obtained by chemical acylation of L-glutamate with a high yield of 98%. To achieve high-yield production of L-arginine, we demonstrated a novel approach by directly feeding precursor N-acetylglutamate to engineered Escherichia coli. We reported a new approach for the high yield of L-arginine production in E. coli. Gene argA encoding N-acetylglutamate synthase was deleted to disable endogenous biosynthesis of N-acetylglutamate. The feasibility of external N-acetylglutamate towards L-arginine was verified via growth assay in argA Here, we developed a novel approach to avoid the strict regulation of L-arginine on ArgA and overcome the metabolism complexity in the L-arginine biosynthesis pathway. We achieve a high yield of L-arginine production from N-acetylglutamate in E. coli. Co-production pyruvate and L-arginine was used as an example to increase the utilization of input carbon sources.",
+  "source": "PubMed",
+  "pmcid": "PMC10373293"
+}

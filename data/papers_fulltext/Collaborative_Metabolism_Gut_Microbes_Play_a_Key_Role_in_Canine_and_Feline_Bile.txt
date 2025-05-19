@@ -1,0 +1,145 @@
+The microbial community within the gastrointestinal tract is vast and contains billions of metabolically active microbes. The metabolic products both from host cells and microbes can act as signaling molecules and impact host physiology. In recent years, bile acids (BAs) are one of these metabolites that have been increasingly described in dogs and cats. Both the host and gut microbes collaboratively biotransform BAs into metabolites that can be sensed by the host and directly impact states of health and disease.
+
+This review aims to address three areas pivotal for understanding the physiologic role of microbial-derived BAs in dogs and cats: (1) the physiology of BAs and the ability of the gut microbes to diversify the BA pools; (2) a literature review of microbial-derived BAs in dogs in health and disease; (3) a literature review of microbial-derived BAs in cats in health and disease. This topic has not been reviewed previously in the veterinary literature. Throughout this review, the translational application of microbiome science is emphasized, as new discoveries drive the understanding of health and treatment of disease in both veterinary and human patients.
+
+Bile acids are lipid molecules synthesized in the liver and secreted into the intestinal tract via the biliary system. Aiding in the digestion and absorption of fat is a core function of BAs. This function requires that BAs have amphipathic molecular properties, which promote lipid and water solubility at different molecular locations. Primary bile acids (PBAs) are derived from cholesterol, which has an inherent four steroid ring structure. The ringed portion of BA molecular structure is hydrophobic and promotes lipid solubility (
+
+Aside from the physical molecular roles BAs play in digestion and as detergents, BAs serve as signaling molecules [
+
+Microbes within the gastrointestinal tract, known as the gut microbiome, modify host-derived BAs into secondary bile acids (SBAs) [
+
+Increasingly in veterinary medicine, the canine and feline gut microbiome has been characterized in health and states of disease [
+
+Primary bile acids, cholic acid (CA) and chenodeoxycholic acid (CDCA), are synthesized from cholesterol by hepatocytes [
+
+Once BAs enter the intestinal tract, microbial diversification of the BA pool from the original six host-derived PBAs begins (
+
+Beyond BSH activity, it has recently been described that gut microbes are capable of creating novel amino acid conjugates of host BAs with phenylalanine, leucine, tyrosine, proline, and alanine [
+
+In addition to manipulating the status of BA conjugation through deconjugation and amidation, gut microbes convert host unconjugated PBAs into secondary bile acids (SBAs). The production of microbial-derived SBAs greatly expands the diversity and functionality of the BA pools. While it has been reviewed previously [
+
+The largest driver in generating microbial-derived SBAs is the multistep process of 7α-dehydroxylation (
+
+Within veterinary medicine, much attention has been rightly devoted to the 7α-dehydroxylation ability of
+
+Following 7α-dehydroxylation, further diversification of the BA pools is achieved via microbial oxidation, reduction, and epimerization reactions (
+
+The interactions of BAs with host cellular proteins facilitate both BA reabsorption and subsequent molecular signaling. Remarkably, 95% of BAs initially secreted into the intestinal lumen undergo enterohepatic recirculation and are retrieved from the intestinal lumen, with only the remaining 5% entering the colon [
+
+Broadly, BA signaling is mediated by two types of host receptors: nuclear and membrane-bound (
+
+The influence of BA-activated FXR is far less characterized in veterinary medicine. An important difference between dogs and humans is the expression of FXRβ as a functional receptor in dogs, whereas in humans, FXRβ is a pseudogene that is not expressed [
+
+The other major type of host BA-activated receptors is the membrane-bound G protein-coupled receptor. The best characterized of these is TGR5 [
+
+Within veterinary medicine, less is known regarding TGR5, though the canine expression pattern of TGR5 has been described [
+
+Host bile acid-activated receptors and functions. Summary of known host receptors that respond to bile acid ligands. Figure was created with
+
+In order to fully understand the physiologic impact of collaborative BA metabolism between the gut microbiome and canine and feline hosts, further characterization of host BA-activated receptors in a canine- and feline-specific context is required. This understanding is in the early stages in companion animals, especially given the lack of characterization of FXR in dogs or cats. In veterinary medicine, more information exists describing canine and feline BA pools in health and disease, which will subsequently be discussed.
+
+Over the past 5 years, microbial-derived BAs have been increasingly studied in canines (
+
+In puppies, the normal development of BAs is well described [
+
+Although a specific study has not set out to define and characterize BA profiles in healthy dogs, we can leverage adult healthy controls included in other studies to accomplish this objective. Collectively, these studies demonstrate that the fecal BA profile in healthy dogs is compositionally 80–90% microbial-derived SBAs [
+
+Antimicrobial administration in dogs, specifically Tylosin [
+
+For Tylosin, even just a 7-day course leads to significant alterations in the canine gut microbiota and a sequential reduction in microbial-derived SBAs [
+
+To address Tylosin-induced dysbiosis and subsequent BA dysmetabolism, a prospective, randomized, placebo-controlled study evaluated the potential benefit of fecal microbiota transplantation (FMT) to mitigate these microbial ecosystem effects induced by antimicrobial administration [
+
+Metronidazole also induces dysbiosis and subsequently reduces microbial-derived BAs, leading to BA dysmetabolism [
+
+Recently, the impact of a prebiotic to abate metronidazole-induced dysbiosis and subsequent BA dysmetabolism has been evaluated in healthy dogs (
+
+Lastly, the combination of metronidazole and enrofloxacin has also been demonstrated to induce dysbiosis and a sequential reduction in microbial-derived BAs. In a prospective, randomized, placebo-controlled double-blinded study of 22 healthy research dogs given both enrofloxacin (10 mg/kg PO q24h for 21d) and metronidazole (12.5 mg/kg PO q12h for 21d), the mitigation effects of a concurrent probiotic and synbiotic administration were assessed [
+
+Collectively, in healthy dogs, antimicrobials induce dysbiosis, often including a significant decrease in
+
+The impact of diet composition on both the gut microbiota and microbial-derived BAs has been evaluated in healthy dogs. As expected, diet impacts the gut microbiota and microbial-derived SBAs, but the response is dependent on the diet fed. Diet types studied to date in dogs include the following: high protein, high fat, low fiber (HP-HF-LF) [
+
+A HP-HF-LF diet has been shown to increase the fecal microbial-derived SBA DCA [
+
+Regarding BARF diets, consistent with high protein, high fat, and low fiber, there are no differences in fecal BAs or the abundance of
+
+When dogs were fed a high-protein and high-fiber diet, no alterations in fecal microbial-derived BAs were reported [
+
+In three studies on dogs fed grain-free diets, minimal impact on fecal microbial-derived BAs is described [
+
+Collectively, the impact of diet on microbial-derived SBAs in healthy dogs appears to be minimal, with the one exception of increased fecal DCA in dogs fed a HP-HF-LF diet of boiled minced beef that corresponded with an increased abundance of
+
+Dogs with gastrointestinal diseases, including canine chronic inflammatory enteropathy (CIE) [
+
+The disease process of canine CIE has been recently reviewed [
+
+To date, the most robust multi-omics study in canine CIE found that a 14-day dietary therapeutic trial with a hydrolyzed soy diet resulted in the abatement of dysbiosis leading to the production of microbial-derived SABs through a
+
+Three additional studies [
+
+Importantly, not all dogs suffering from CIE have a significant reduction in
+
+It is well established that some Yorkshire terriers with CIE have concurrent panhypoproteinemia or discrete hypoalbuminemia, a clinical syndrome known as protein-losing enteropathy, which can be managed with a low-fat dietary intervention [
+
+Lastly, in CIE dogs (
+
+Based on the current available literature, there is strong evidence for BA dysmetabolism, characterized by a reduction in microbial-derived SBAs, during active canine CIE. Notably, the recovery of microbial-derived BAs coincides with clinical improvement, regardless of the therapeutic intervention required to achieve clinical remission. Further investigation into discrepancies in this trend, as seen in Yorkshire terriers with CIE ± PLE [
+
+Dogs with EPI have BA dysmetabolism characterized by a reduction in microbial-derived SBAs [
+
+Bile acid dysmetabolism characterized by a reduction in microbial-derived SBAs is reported during episodes of canine non-infectious acute diarrhea (NAD). Specifically, dogs with NAD (
+
+In summary, there are commonalities across the gastrointestinal and pancreatic diseases studied in the context of microbial-derived BAs in dogs. These data demonstrate that CIE, EPI, and canine NAD are associated with BA dysmetabolism where microbial-derived SBAs are reduced during active disease. For CIE and NAD, there is additional evidence that the improvement of active disease corresponds with the restoration of fecal microbial-derived SBAs, which more closely represented BA pools observed in healthy dogs. In the future, additional attention to therapies that promote the restoration of microbial-derived SBA pools is warranted in canine gastrointestinal and pancreatic diseases. It is also notable that currently there are no published reports describing microbial-mediated BA metabolism in canine hepatic disease. Hepatic disease has the potential to alter BA metabolism through host and microbial mechanisms, which likely impacts the interplay of the host and intestinal microbiota via the host-gut microbiota–BA axis. Characterizing this dynamic may open new insights into therapeutic interventions for dogs suffering from hepatic diseases, as it has in human medicine [
+
+Beyond gastrointestinal and pancreatic diseases in dogs, there have been several other disease states where microbial-derived BAs have been characterized and a BA dysmetabolism exists. To date, these disease states include: obesity [
+
+Although a significant BA dysmetabolism has not been documented in obese canines, shifts in BA pools are described in overweight and obese dogs who lose weight [
+
+From a different study, overweight and obese research Beagle dogs (
+
+Though not as dramatic as in gastrointestinal and pancreatic diseases, shifts in microbial BA metabolism occur in canine obesity, including promoting UDCA production during weight loss [
+
+Recently, BA dysmetabolism has been demonstrated in dogs with diabetes mellitus. Compared to healthy dogs (
+
+Within the context of heart disease, BA dysmetabolism is documented in dogs with MMVD. Compared to healthy controls (
+
+Summary of published peer-reviewed literature on canine microbial-derived bile acids. Evidence-based medicine levels are as follows: 1, high-quality randomized trial; 2, lesser-quality randomized trial or prospective comparative study; 3, case-control study or retrospective comparative study; 4, case series; and 5, expert opinion. Abbreviations: CE = chronic enteropathy, CIE = chronic inflammatory enteropathy, DI = dysbiosis index qPCR panel, DM = diabetes mellitus, EPI = exocrine pancreatic insufficiency, GC-MS = gas chromatography and mass spectrometry, GC-TOF-MS = gas chromatography–time-of-flight mass spectrometry, GI = gastrointestinal, HC = healthy control, HPLC = high performance liquid chromatography, HSDH = hydroxysteroid dehydrogenase, LC-MS/MS = liquid chromatography–tandem mass spectrometry, MMVD = myxomatous mitral valve disease, NAD = noninfectious acute diarrhea, OW = overweight, PBA = primary bile acid, SBA = secondary bile acid, SRE = steroid responsive chronic enteropathy, URI = upper respiratory infection, UPLC = ultra performance liquid chromatography. Primary bile acid abbreviations used: CA = cholic acid, CDCA = chenodeoxycholic acid, GCA = glycocholic acid, GCDCA = glycochenodeoxycholic acid, TCA = taurocholic acid, TCDCA = taurochenodeoxycholic acid, αMCA = alpha muricholic acid, βMCA = beta muricholic acid. Secondary bile acid abbreviations used: DCA = deoxycholic acid, ECA = epicholic acid, GDCA = glycodeoxycholic acid, GLCA = glycolithocholic acid, GUDCA = glycoursodeoxycholic acid, HCA = hyocholic acid, HDCA = hyodeoxycholic acid, LCA = lithocholic acid, TDCA = taurodeoxycholic acid, TLCA = taurolithocholic acid, TUDCA = tauroursodeoxycholic acid, UCA = ursocholic acid, UDCA = ursodeoxycholic acid, γMCA = gamma muricholic acid, ωMCA = omega muricholic acid.
+
+Within the past five years, the investigation into microbial-derived SBAs in dogs has rapidly expanded. It is evident that in healthy canines, the fecal BA pools are dominated by microbial-derived SBAs. To date, the largest drivers of BA dysmetabolism are those that induce dysbiosis, such as antimicrobials, gastrointestinal disease, and pancreatic disease. Based on the current evidence, dietary modifications can also impact BA pools, though typically microbial-derived SBAs are preserved. Extra-intestinal diseases, such as obesity, diabetes mellitus, and MMVD, have been minimally explored, but also each is accompanied by a disease-specific BA dysmetabolism. Importantly, no studies have evaluated the impact of canine hepatic disease on microbial BA metabolism, thus, highlighting an area of future investigation in canine medicine.
+
+Most canine studies reviewed herein have utilized qPCR or 16S amplicon sequencing to draw conclusions about shifts in the gut microbial community structure, with only one study utilizing metagenomic sequencing [
+
+Over the past 5 years, microbial-derived BAs have also been increasingly studied in cats (
+
+Currently, there is a paucity of information regarding BA development from kittenhood to adulthood. Therefore, this section is focused on BAs in healthy adult cats; specifically, the impact of dietary modifications and antimicrobial administration on feline microbial-derived SBAs. Diet composition drives alterations in the gut microbiota [
+
+In healthy research cats (
+
+Additional evidence for changes in microbial-derived BAs in response to diet composition is available in elderly healthy research cats (
+
+The other context in which fecal microbial-derived BAs have been evaluated in healthy cats is post antimicrobial administration, specifically clindamycin [
+
+In a similar study, healthy adult research cats received a higher clindamycin dose (150 mg PO q24h for 21d) in tandem with either a placebo (
+
+Collectively, in healthy cats, the antimicrobial clindamycin induces dysbiosis and subsequent BA dysmetabolism characterized by a decrease in microbial-derived SBA DCA. Derangements to the microbial ecosystem can persist up to six weeks following the discontinuation of clindamycin; however, the feline microbiome can recover, and BA dysmetabolism is no longer present by 1.5 years post antimicrobial administration [
+
+Microbial-derived SBAs have also been studied in states of disease in cats including kittens with URIs given antimicrobials [
+
+Bile acid dysmetabolism is also observed in cats suffering from CKD. Compared to healthy cats (
+
+Currently, there is minimal information related to BA metabolism in feline gastrointestinal disease. Recently, dysbiosis (assessed via 16S amplicon sequencing and the qPCR feline dysbiosis index) has been described in feline chronic enteropathy compared to healthy cats [
+
+Separately, the characterization of differential fecal metabolites in cats with IBD and intestinal small cell lymphoma was also recently performed [
+
+In a recent conference abstract from Chi-Hsuan Sung et al., fecal BAs in feline CE, comparing cats with IBD (
+
+Summary of published peer-reviewed literature on feline microbial-derived bile acids. Evidence-based medicine levels are as follows: 1, high-quality randomized trial; 2, lesser-quality randomized trial or prospective comparative study; 3, case-control study or retrospective comparative study; 4, case series; and 5, expert opinion. * Sulfated bile acids also assessed. Abbreviations: CKD = chronic kidney disease, DI = dysbiosis index qPCR panel, GC-MS = gas chromatography and mass spectrometry, GC-TOF-MS = gas chromatography–time-of-flight mass spectrometry, HC = healthy control, HPLC = high performance liquid chromatography, LC-MS/MS = liquid chromatography–tandem mass spectrometry, URI = upper respiratory infection, UPLC = ultra performance liquid chromatography. Primary bile acid abbreviations used: CA = cholic acid, CDCA = chenodeoxycholic acid, GCA = glycocholic acid, GCDCA = glycochenodeoxycholic acid, TCA = taurocholic acid, TCDCA = taurochenodeoxycholic acid, αMCA = alpha muricholic acid, βMCA = beta muricholic acid. Secondary bile acid abbreviations used: DCA = deoxycholic acid, ECA = epicholic acid, GDCA = glycodeoxycholic acid, GLCA = glycolithocholic acid, GUDCA = glycoursodeoxycholic acid, HCA = hyocholic acid, HDCA = hyodeoxycholic acid, LCA = lithocholic acid, TDCA = taurodeoxycholic acid, TLCA = taurolithocholic acid, TUDCA = tauroursodeoxycholic acid, UCA = ursocholic acid, UDCA = ursodeoxycholic acid, γMCA = gamma muricholic acid, ωMCA = omega muricholic acid.
+
+Similar to dogs, within the past 5 years, there has been tremendous progress made in describing microbial-derived BAs in cats. In healthy cats, dietary composition impacts the BA pools, and importantly, antimicrobial administration, namely clindamycin [
+
+Lastly, where there are existing data for BA dysmetabolism in dogs, namely obesity, diabetes, and heart disease, the characterization for cats is lacking. All these diseases are prevalent in cats and thus warrant further investigation into the host-gut microbiome–BA axis.
+
+Over the last five years, the characterization of microbial-derived BAs in companion animals is rapidly expanding. A general theme is that alterations in the gut microbiota, termed dysbiosis, in certain circumstances, leads to subsequent BA dysmetabolism, which may contribute to disease pathogenesis, thus impacting companion animal health. Now that dysbiosis-induced BA dysmetabolism is documented, following antimicrobial administration and in a variety of diseases in dogs and cats, this may represent a potential microbiome therapeutic target. Specifically, there is the potential to leverage the modulation of BA pools as a novel therapeutic intervention in disease states that typically induce BA dysmetabolism. To accomplish this in veterinary medicine, there is a need to build on the existing findings to mechanistically understand the collaborative metabolism of BAs between companion animal hosts and gut microbes in health and disease.
+
+Future veterinary studies should employ mechanistic study designs utilizing multi-omics approaches. Pairing metagenomic sequencing with robust targeted BA metabolomics, including the exploration of taurine- and glycine-conjugated BAs and newly described microbial amino acid-conjugated BAs, will add additional depth not currently available in the companion animal literature. Layering and integrating the gut microbiome and microbial-derived BA data with metatranscriptomic, metaproteomic, and patient outcome data will capture the mechanistic layers driving biologic outcomes. Multi-omics approaches will become the gold standard to transition microbiome science in veterinary medicine away from characterization and association toward mechanistic biologic networks of causes and effects, with the ultimate goal of discovering novel microbiome therapeutic targets to promote the extension of healthspan in companion animals.

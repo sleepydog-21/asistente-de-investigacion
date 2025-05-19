@@ -1,0 +1,93 @@
+A biofilm consists of a complex community of microorganisms that differ from their planktonic counterpart and allow bacteria to survive under extreme conditions such as nutrient depletion and desiccation
+
+Biofilms are formed by a wide variety of organisms like
+
+Curli biogenesis is a complicated process that produces curli fibers when enteric bacteria are subjected to stress
+
+Recently, many natural compounds with antibacterial properties have been viewed as potential antibiofilm agents.Natural anti-microbial agents are always preferred over synthetic analogs in developing alternative therapies due to their better efficacy, accessibility, and less toxicity
+
+Therefore, we investigated the antibiofilm properties of caffeine on Uropathogenic
+
+The antimicrobial activity of caffeine against most gram-negative and gram-positive bacteria was reported previously in the literature, where Minimum Inhibitory Concentration (MIC) against
+
+Effect of caffeine onantimicrobial activity,cell viability and growth kinetics profile of planktonic cells of CFT073 and K12MG1655: (
+
+Bacteria cell viability can be measured with MTT assay for evaluating the activity of antimicrobial agents against biofilms
+
+The growth curve was further investigated to identify the effects of caffeine on the growth of
+
+CV assay is the most widely used method for biofilm quantification, which stains biofilm biomass
+
+Effects of caffeine on CFT073 and K12 MG1655 biofilm formation. (
+
+We further explored potential of caffeine against intracellular Uropathogenic
+
+Effect of caffeine on uropathogenic
+
+The effect of caffeine on CFT073 and K12 MG1655 biofilms was further observed by fluorescence microscopy. The fluorescence images of SYTO 9 staining indicated that caffeine effectively reduced the biofilm biomass of both strains. The mean fluorescence intensity was decreased considerably even at lower concentrations of caffeine(8 mM) and decreased to 16.68%at 48 mM caffeine as compared to control(p < 0.0001) in CFT073 biofilm. (Fig.
+
+Effects of caffeine on CFT073 andK12 MG1655 biofilms as determined by fluorescence microscopy (FM). Syto9 stained live bacteria and emit green fluorescence intensity. FM images ofCFT073 biofilms, (
+
+The effect of caffeine on
+
+Dose dependant effects of caffeine on
+
+Curli fibers play a major role in the structure of biofilm as they are the adhesive filaments that promote attachment to both biotic and abiotic surfaces. Additionally, they form the basis of Gram-negative bacteria's biofilm extracellular matrix
+
+(
+
+Molecular dynamics simulation is a computational method for studying protein and ligand complex structural stability and molecular behaviour. GROMACS software was used to perform MD simulations of unbound CsgD protein and docked CsgD-ligand complexes at 100 ns. Root mean square deviations (RMSD), root mean square fluctuations (RMSF), solvent-accessible surface area (SASA), and radius gyration (Rg) were measured in high-binding-affinity complexes of caffeine ligands and CsgD proteins.
+
+The binding energy and number of hydrogen bonds formed between the CsgD protein and caffeine ligands were used to determine the interaction. According to the MD simulation results, the unbound CsgD had lower RMSD fluctuations than the complexes. The RMSD of the ligand-bound CsgD complex fluctuated until 90 ns before plateauing (Fig.
+
+The RMSF values represent each residue's thermodynamic stability and degree of movement. The apo form of CsgD did not show any significant fluctuations, which represents the absence of a ligand. However, when the ligand is bound to CsgD protein, the flexible residues in the ligand-binding regions were shown to shift to accommodate the ligands and maintain equilibrium (Fig.
+
+The Rg analysis reveals the stability of each molecule and the structure's overall dimension and compactness. Initial, the Rg value of CsgD with caffeine ligand was relatively low. Later, both the apo and holo forms of protein were stabilised. However, CsgD protein and CsgD-caffeine complex remained stable almost throughout the simulation. The ligand-complex Rg-value varied from 1.85 to 2.04 nm (Fig.
+
+We further evaluated the transcription of curli-specific genes, which code for a curli protein responsible for the adhesion and maturation of biofilms in the presence of caffeine. This was performed to prove the hypothesis that caffeine can inhibit curli formation by decreasing curli-specific gene expression. The
+
+Effect of caffeine on
+
+Bacterial biofilms can have adverse impacts on human health and researchers in recent years have focused on preventing and treating biofilm-related infections
+
+Previous studies have shown that caffeine inhibited the growth of
+
+It is also important to eliminate pathogens within urinary epithelial cells to prevent recurrent UTIs as intracellular bacteria mostly contribute to UTIs
+
+The CV results demonstrated that caffeine annihilated the biofilm-forming ability of CFT073 bacteria to a great extent, as the biofilm biomass was reduced by 86.58% at 48 mM caffeine (Fig.
+
+Biofilm formation is mediated by a various structural virulence factor such as type 1 fimbriae, curli, pili and flagella
+
+Schematic representation of inhibition of
+
+Previously, it has been reported that many natural compounds like EGCG
+
+Caffeine was purchased from Sigma-Aldrich (cat # C0750, Saint Louis, MO, United States). The bacterial strains used were CFT073, UPEC strain (ATCC # 700928; United States) and K12 MG1655 (ATCC # 700926; United States) which were first streaked onto fresh plates from glycerol stocks stored in −80 °C. Single colony was then picked and grown in Luria–Bertani (LB) (SRL Cat# 29817, India) media at 37 °C for 24 h with continuous shaking at 150 rpm to obtain primary culture. For all the experiments 10
+
+The human urinary bladder epithelial cell line T-24 (Cat # HTB-4, ATCC, Manassas, VA, United States) was used for co-culture experiments. The T-24 cells were grown in McCoy’s 5A medium supplemented with 10% heat inactivated FBS (Gibco Cat #10270106, Brazil) and incubated at 37 °C with 5% CO
+
+Minimum inhibitory concentration (MIC) was determined by the broth dilution method with a few modifications described by Sivaranjani et al.
+
+The cell viability was checked by MTT assay
+
+Christensen first described CV assay and has improved constantly to be suitable for all biofilm quantification
+
+The effect of caffeine treated UPEC on T-24 cell viability was assessed in co-culture model by MTT assay. Briefly T-24 cells (2 × 10
+
+The effect of caffeine was determined on the virulence of uropathogenic
+
+Bacterial biofilm was formed as described in the CV assay. The planktonic bacteria were removed, and the formed biofilm was stained with 1.5 μM SYTO 9 green-fluorescent nucleic acid stain and incubated in darkness for 15 min. The plate was then washed with 1× PBS and visualized under a fluorescence microscope (Motorized Inverted Microscope. Ii2; Nikon). Quantitative analysis was then performed with Image J software.
+
+Biofilm was formed with respective bacteria with different concentrations of caffeine in six-well microtiter plates (Genetix, cat #30006), each containing a round glass coverslip of 12 mm at 28 °C for 48 h. The control set had bacteria without caffeine. After incubation, washing was performed with 1× PBS, and the coverslips were fixed overnight with 2.5% glutaraldehyde at 4 °C, followed by dehydration in graded ethanol. The sample was then airdried, sputter-coated with gold, and examined under SEM.
+
+The structure of the caffeine ligand (PubChem CID: 2519) was retrieved in SDF format from the PubChem database
+
+To identify the potential binding location, binding interactions, and affinity, molecular docking of the caffeine ligands was carried out against CsgD protein structure. Caffeine ligands and the protein structure of
+
+Bacterial biofilms were formed in six-well microtiter plates (Genetix, cat #30006) with different concentrations of caffeine at 28 °C for 48 h, and total RNA was extracted from the culture using TRI reagent. The quantification of RNA was done using multiscan sky microplate spectrophotometer and 1000 ng RNA was subjected to c-DNA synthesis using Revert Aid cDNA kit according to manufacturer’s instructions. The gene-specific primers were designed using a gene runner and further checked by PRIMER BLAST, and 16 s RNA served as the internal control(Supplementary Table
+
+Statistical analyses were conducted using GraphPad’s Prism 8 software (Version 8.3.1(332),
+
+
+
+Supplementary Information.

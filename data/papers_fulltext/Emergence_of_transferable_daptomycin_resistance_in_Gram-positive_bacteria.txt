@@ -1,0 +1,109 @@
+Daptomycin (DAP) is a cyclic lipopeptide antibiotic with activity against Gram-positive bacteria, including high priority pathogens such as methicillin-resistant
+
+The overall daptomycin resistance rates (DAP-R) are still low and are usually less than 1% for
+
+As part of studies on antimicrobial resistance (AMR) in livestock, we previously isolated a number of multiresistant
+
+The
+
+For further analysis, the entire
+
+Next, we were interested in understanding how
+
+Time course of DAP concentrations in supernatants of
+
+We next inquired about the genetic origin of the
+
+Detection of the
+
+TS92
+
+PP236779
+
+PRJNA1074542
+
+SAMN39864404
+
+SNUC 5594
+
+PZGV01000123.1
+
+PRJNA342349
+
+SAMN06173142
+
+NZ_CP118848.1
+
+PRJNA937407
+
+SAMN33407027
+
+C9
+
+NZ_JAAQRX010000032
+
+PRJNA610046
+
+SAMN14273045
+
+CVM N59689F
+
+PTUJ01000031.1
+
+PRJNA292669
+
+SAMN07982045
+
+FSIS 12032216
+
+AAXCZN010000013.1
+
+PRJNA292669
+
+SAMN15856852
+
+FSIS 11808951
+
+AAXEJZ010000069.1
+
+PRJNA292669
+
+SAMN10482714
+
+Since the introduction of penicillin into clinical practice almost a century ago, there has been an ongoing arms race between antibiotic discovery and the emergence of bacterial resistance. One lesson learned over the years is that bacteria will develop resistance to any antibacterial agent sooner or later, and the finding of a novel DAP-R mechanism reported in this study is yet another powerful confirmation of this fact. Bacteria develop resistance either through adaptive mutations or via the uptake of foreign DNA by HGT. The chromosomal mutations previously shown to be associated with DAP-R are unlikely to spread to other bacteria, while the transmissible DAP-R mechanism identified here bears the risk of entry into pathogenic species and subsequent clonal spread of high-level DAP-R strains (including MRSA and VRE), which would seriously jeopardise the clinical applicability of DAP as a reserve antibiotic. But how likely is such a scenario?
+
+In fact, most of our currently used antibiotics (including DAP) are derivatives of natural compounds. Particularly, soil microorganisms are a rich source of both antibiotics and AMR genes, with the evolution of AMR dating back long before humans began to exploit antibiotics for treating infections
+
+Whether a resistance determinant from the soil resistome will become clinically relevant depends on multiple factors, including the mobilisation of the AMR genes from the ancestral genome, contact and access to host-associated bacteria, the expression of the AMR genes in the new host, and finally the selection of AMR-carrying genotypes
+
+Mobilisation of AMR genes from an ancestral species is often achieved via accumulation of IS elements which not only enable movement of genetic material within the host genome, but also promote the transfer to other bacteria once the AMR genes become part of an autonomous mobile genetic element (
+
+Another bottleneck in clinical AMR development is that AMR genes from environmental microorganisms must gain access to pathogenic species. This requires donors and recipients to come into close physical contact, which is often challenging as pathogenic and environmental species rarely share the same ecological niche. In this respect,
+
+Our study shows that the
+
+Finally, with the discovery of the
+
+Together, this is the first report of a horizontally acquired daptomycin resistance mechanism. The cross-sectoral detection of
+
+Bacterial strains and growth conditions are listed in Table
+
+Recombinant plasmids (Table
+
+Genomic DNA was extracted from isolate TS92 and subjected to next generation sequencing using an Illumina MiSeq platform (Illumina, San Diego, USA). Paired-end sequences (2 × 250 bp) were generated and processed using an in-house pipeline for quality control, including removal of adapter sequences and minor contaminants. Because short-read sequencing was insufficient to completely reconstruct the full genome of TS92, additional long-read sequencing was therefore performed on the Nanopore platform (Oxford Nanopore Technologies Ltd, Oxford, UK) and combined with the Illumina data for genomic assembly.
+
+Both, short- and long-read sequences were utilised for the hybrid assembly of TS92 using the unicycler pipeline (v0.4.4), resulting in full genomic reconstruction of the bacterial chromosomal sequence
+
+An overnight culture of
+
+RNA was isolated from three biological replicates. RNA quality was checked using a 2100 Bioanalyzer with the RNA 6000 Nano Kit (Agilent Technologies, Santa Clara, USA). cDNA libraries suitable for sequencing were prepared from 1000 ng of total RNA after DNase I treatment (Thermo Fisher, Darmstadt, Germany). Except for one control sample, all RNA samples were rRNA depleted by RiboPOOLs (siTOOLs Biotech GmbH, Planegg/Martinsried, Germany) and subsequently fragmented by incubation with Mg
+
+To determine the minimal inhibitory concentration (MIC), a standard micro-broth dilution assay
+
+To analyse the fate of DAP, bacterial cultures in MH broth were spiked with DAP equivalent to one quarter of the MIC of the respective strain tested, i.e. 0.25 μg/mL for
+
+Figures and statistics were created using GraphPad Prism 10 (Version 10.1.1). Supplement figures were created using Microsoft Excel. For statistical analysis One-Way ANOVA with Dunnett multiple comparisons test was performed (alpha level: 0.05) using biological replicates (
+
+
+
+Supplementary Information

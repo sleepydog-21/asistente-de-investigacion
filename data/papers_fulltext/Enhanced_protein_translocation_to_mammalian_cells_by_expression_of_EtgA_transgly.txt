@@ -1,0 +1,71 @@
+Many Gram-negative bacterial pathogens, such as enteropathogenic
+
+
+
+The T3SS injectisome of EPEC and the encoding operons in the engineered SIEC strains.
+
+The assembly of the injectisome in EPEC is assisted by the lytic transglycosylase EtgA, a periplasmic enzyme encoded in the
+
+Owing to their protein translocation capabilites, T3SSs have great potential in biomedical applications for the delivery of therapeutic proteins into mammalian cells [
+
+In this study, we aimed to increase the translocation efficiency of SIEC by expressing EtgA. To achieve this, we generated a new strain, SIEC-eEtgA, which has the
+
+It has been reported that forced overexpression of the transglycosylase EtgA severely affects the viability of
+
+The secretion into the culture medium of the filament protein EspA and the translocon proteins EspB and EspD indicates the correct assembly of functional injectisomes [
+
+
+
+Secretion of translocator proteins EspA, EspB, EspD and hemolytic activity by SIEC-eEtgA.
+
+We further evaluated the enhanced assembly of injectisomes in SIEC-eEtgA by comparing its hemolytic capacity with that of the parental SIEC strain. Injectisome translocon proteins form pores on erythrocyte membranes, which trigger hemolysis [
+
+We previously reported that the expression of injectisomes in SIEC reduces the secretion of the major flagellar component, flagellin FliC, and suppresses bacterial motility [
+
+
+
+Motility and viability of EcM1-eEtgA and SIEC-eEtgA.
+
+We also found that the growth curves of the strains EcM1, EcM1-eEtgA, SIEC and SIEC-eEtgA were superimposable (Fig.
+
+In contrast to our results, the overexpression of EtgA in the BL21(DE3) strain of
+
+During the infection process, EPEC injects more than 24 effectors into enterocytes to subvert cell functions. One of these effectors is the translocated intimin receptor (Tir) [
+
+
+
+Translocation of Tir into mammalian cells by SIEC-eLEE5-eEtgA.
+
+Given that EtgA increases the assembly of injectisomes in SIEC, we next investigated whether it also enhances protein translocation into mammalian cells. To do this, we performed a quantitative protein translocation assay based on the activity of translocated β-lactamase (Bla) in the cytosol of mammalian cells (Fig.
+
+
+
+β-Lactamase translocation is enhanced in SIEC-eEtgA.
+
+SIEC is a non-pathogenic
+
+The strains and plasmids used in this study are listed in Table
+
+
+
+Bacterial strains and plasmids used in this study
+
+Standard methods of DNA manipulation and cloning by digestion with restriction enzymes and ligation were applied to construct the different plasmids [
+
+
+
+Oligonucleotides used in this study
+
+The chromosomal integration of the
+
+The control strain SIEC-eLEE5Δ
+
+To induce the T3SS components in the different strains, O/N cultures were diluted 1:100 in capped Falcon tubes with 5 ml of LB containing 0.1 mM IPTG, and incubated at 37 °C with agitation (160 rpm) for 6 h. Two milliliters of each induced culture was centrifuged at 6000×
+
+The hemolytic capacity of the
+
+The motility of
+
+The human cell line HeLa (CCL-2, ATCC) was infected with different SIEC-eLEE5-derived strains for actin pedestal observation. HeLa cells were seeded in 24-well tissue plates (10
+
+Protein translocation quantification was assessed using the LiveBLAzer™ FRET B/G Loading Kit with CCF2-AM (ThermoFisher Scientific). Briefly, HeLa cells were seeded 2 days prior to the experiment in a tissue culture-treated 96-well black plate with a flat clear bottom (Corning) at 10

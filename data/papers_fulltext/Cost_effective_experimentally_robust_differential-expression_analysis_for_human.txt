@@ -1,0 +1,141 @@
+The human only Cold Spring Harbor Laboratory (CSHL) ENCODE data set [
+
+The data from mice vaginas infected with
+
+The data from
+
+The data from a strand-specific library from a study comparing
+
+The data from
+
+The data from
+
+The data from the
+
+The data from the canine cell line differentially infected with
+
+The data from a strand-specific library from
+
+The data from a strand-specific library from
+
+The data from
+
+The data from human N87 cells infected with
+
+The data from a strand-specific library from
+
+The data from a strand-specific library from
+
+As sequencing technologies improve, sequencing costs decrease and read lengths increase. We examine host–pathogen interaction studies to assess whether using these longer reads is warranted, given their increased cost relative to using the same number of shorter reads. To this end, we compared the use of various read lengths and read pairing for 14 diverse host–pathogen data sets with varying genomic attributes including: gene density, operons, gene length, number of introns/exons, G+C content and intron length. For organisms with many introns, 72 bp reads may provide benefit, but 54 bp reads provide robust results. Likewise, for data sets that will be community resources, paired ends are likely desired to enable their use in other studies, but for differential-expression analyses, single-end reads yield robust results.
+
+As sequencing throughput has increased and sequencing costs have decreased, measuring differential expression of genes using sequence data has become an increasingly powerful, effective and popular approach [
+
+The most common platform used today for such analyses is the Illumina HiSeq, which currently generates millions of bases of sequencing data in the form of single-end or paired-end reads that are each tens to hundreds of bases in length for a few thousand pounds or less. This platform has been through frequent updates yielding longer reads and decreasing costs per bp. As read lengths have increased, many researchers have quickly used the increased read lengths, assuming it can only lead to better results. However, despite decreasing costs per bp, ultimately the longer reads often mean an increased cost per read and typically fewer reads are sequenced for the same cost. While this leads to the same sequencing depth, it results in fewer independent measurements at each position. For example, a shift from 50 bp paired-end reads to 150 bp paired-end reads leads to a 66 % reduction in the number of reads sequenced to obtain the same sequencing depth. The decreased number of reads can actually result in reduced statistical power, since a single read will contribute to the sequencing depth at a larger number of positions.
+
+One alternate approach is to sequence the same number of overall base pairs, but use shorter paired reads. Such an approach would yield more sequence reads underlying each transcript and, therefore, more independent measurements at each position. For example, the use of 50 bp paired-end reads as opposed to 100 bp paired-end reads would lead to a 200 % increase in the number of reads sequenced to obtain the same sequencing depth. Alternatively, one could sequence the same number of reads at a short depth to save money that could be used to interrogate other conditions, sequence more replicates or perform validation experiments. As of November 2019, one academic sequencing lab (
+
+However, what works best in human data sets may not always be best for other organisms. Therefore, and given the caveats described above, we sought to investigate the influence of read length and read pairing on differential-expression analysis across a variety of genomes of various complexity including: (a) genome size, (b) presence/absence of introns, (c) length of introns, (d) number of introns per gene, (e) number of genes and (f) percentage of genes transcribed (Table S1, available with the online version of this article). In several instances, we have increased the complexity to include sequencing data that contain both an invertebrate or vertebrate animal host and an associated bacterial pathogen or endosymbiont. Ultimately, the goal was to identify the most appropriate and most cost-effective sequencing strategy based on the intrinsic properties of the genome(s) being analysed. In this way, the available resources can be appropriately distributed in order to maximize the number of biological replicates for the conditions being examined, while maintaining the greatest quality results. We find little to no effect of reducing read length or pairing status on differential-expression analyses, such that shorter read lengths and single-end reads may be the most cost-effective means to generate differential-expression data.
+
+The human, mouse, canine,
+
+The 101 or 151 bp paired-end sequencing reads for each sample (Table S2) were trimmed from the 3′ end of the sequence read to generate 36, 54, 72 and 101 bp reads using the FASTX-Toolkit (
+
+The sequencing reads were aligned to their respective reference genome fasta sequence using the TopHat splice-aware aligner (v. 2.012) [
+
+The number of reads/fragments that mapped to each gene was calculated from the BAM alignments using HTSeq (v. 0.5.4) [
+
+The raw counts from HTSeq were further normalized using DESeq (v. 1.10.1) [
+
+The final set of normalized gene expression values for each gene for each sample within a data set was used to test for differential gene expression between the two conditions using the ‘negative binomial’ test incorporated within DESeq (v. 1.10.1) [
+
+We examined RNA-Seq data from 14 studies to test the effect of read length and read pairing on gene expression data from a wide set of pathogen or host–pathogen samples (Table S1). This included eukaryotic and prokaryotic genomes; organisms of varying genome size and varying numbers of genes; organisms with and without introns; organisms of varying intron length; organisms with varying numbers of exons per gene; bacteria of varying G+C content; and data from single organisms compared to those from mixtures of organisms with an emphasis on host–pathogen systems (Table S1). All of the data sets used were generated as 101 or 151 bp paired-end reads. Data were trimmed from the 3′-end of the read to generate 36, 54, 72 and 101 bp data sets. The first read in the pair was analysed separately from the second read in the pair when single-end reads were analysed.
+
+To examine the influence of read length and pairing at many steps, analyses were undertaken on multiple data sets. Mapping statistics were calculated from the Bowtie alignments. PCA and hierarchical clustering were undertaken on the DESeq normalized read counts for each individual replicate in each biological condition (Additional Files S1–S28). Scatterplots were used to examine differential-expression results obtained with DESeq (Additional Files S29–S30).
+
+The number of reads mapping is dependent upon the number of mismatches allowed, as well as the uniqueness of the sequence, both of which are expected to vary by read length as well as the aligner used. We expect that fewer 36 bp reads will map uniquely since a greater proportion will multi-map, and we expect that fewer 101 bp reads will map because of the accumulation of sequencing errors, which increases with read length. As expected in six representative data sets, in half of the cases fewer reads map uniquely for 36 bp and 101 bp for both paired- and single-end reads, relative to the 54 and 72 bp equivalents (
+
+The percentage of reads mapping (circles), reads mapping uniquely (triangles) and reads not mapping uniquely (squares) are compared for 36, 54, 72 and 101 bp reads for the human (a), mouse (b),
+
+In this subset of six data sets, the greatest proportion of multi-mapping reads were found in
+
+If read length is of no consequence, we would expect the first PC to separate the data based on biological condition and the second PC to separate the data based on replicates. Furthermore, we would expect all of the read lengths derived from the same data to be tightly grouped. This was observed for
+
+A PCA was undertaken for a vector representing data for the different read lengths (green, 36 bp; blue, 54 bp; magenta, 72 bp; purple, 101 bp), replicates and biological conditions. Four representative results are illustrated with
+
+However, the data from the 11 other comparisons resulted in different patterns with read length having a greater role. The reads from the
+
+The influence of read length is more pronounced in the single-end reads from the CSHL data set, which were separated on the first PC by biological replicate but were separated by read length on the second PC (
+
+The influence of read length is most pronounced in the
+
+In numerous cases, hierarchical clustering (complete clustering, correlation distance) of the data sets with statistical support (AU, approximately unbiased, and BP, bootstrap probability) is consistent with the PCA. In the
+
+Hierarchical clustering using pvclust for bootstrap support was undertaken for a vector representing data for each sample at different read lengths. Samples are labelled according to the key in Table S2, followed by the read length (36, 54, 72 and 101 bp). Four representative results are illustrated here with
+
+For all comparisons, the log-fold change of differentially expressed genes between the two conditions correlates well across all pairwise comparisons of read length for single-end and paired-end reads, with R
+
+The differentially expressed genes identified in
+
+A slightly different result is observed when focusing on genes found to be differentially regulated at one read length, but not found to be differentially regulated at another read length, referred to as singletons. In this case, the 54 bp versus 72 bp comparison typically outperformed all other comparisons (Table S4, Additional File S29). The next best comparisons were the other two groupings of similar sizes, 36 bp versus 54 bp and 72 bp versus 101 bp (Table S4, Additional File S29).
+
+Read pairing is expected to exert influences in many of the same ways as read length. If read pairing is of no consequence, data from paired- and single-end reads should be more similar to one another than to samples from other biological conditions or replicates in a PCA plot. As such, we expect the first PC to resolve biological samples while the second resolves replicates. This was observed for data from the
+
+A PCA was undertaken for a vector representing data for the different pairing statuses (paired end, green; first-in-pair single end, blue; second-in-pair single end, pink) for the biological samples and their replicates. Six representative results are illustrated with 72 bp
+
+In all but the 101 bp reads for tick cells infected with
+
+In the human ENCODE data, the
+
+In the
+
+In the
+
+Hierarchical clustering of the data sets largely supports the PCA for read pairing when there are strong AU/BP values. For
+
+For all comparisons, the log-fold change of differentially expressed genes between the two conditions correlates well across all pairwise comparisons of pairing status regardless of the length of the reads, with R
+
+The effect of the read aligner was tested using the
+
+While most of the data was generated by Maryland Genomics within the Institute for Genome Sciences at the University of Maryland School of Medicine (USA), publicly available data sets were included from three other groups. No differences were found that could be attributed to the sequencing centre. Two of the external data sets were selected to be similar data sets, both being strand-specific data generated from RNA from monocultures of the same species. There was no discernible difference between the two.
+
+The data for the
+
+Hierarchical clustering using pvclust for bootstrap support was undertaken for a vector representing data for each sample at different read lengths with heatmaps illustrating the DESeq normalized read counts of the samples. Samples are labelled according to the key in Table S2, followed by the read length (36, 54, 72 and 101 bp). Four representative results are illustrated here with
+
+We compared data sets that represented a diverse array of genomic complexity to assess what attributes might affect the outcome. Our selection included genomes with high gene density, genomes with operons, genomes with long genes, genomes with many introns/exons, genomes with differing G+C content and genomes with long introns. We did not observe any obvious patterns associated with these criteria.
+
+Overall, in all but
+
+For
+
+Overall, all samples clustered by biological replicate rather than pairing status, suggesting that paired and unpaired data can both yield robust data. Even for the strand-specific libraries, when there was a difference between the single-end reads, the differential-expression analysis for data sets of differing pairing status were well correlated. Unpaired reads have half as many bases of paired reads, yet in many of the data sets, the results from paired and unpaired read data sets gave nearly identical results. This demonstrates that the number of bases sequenced with a pair is essentially inconsequential. This is expected, since a single read and a pair of reads count the same in a fragment count based analysis. This suggests that there is little advantage in these cases in sequencing the second read. However, in other cases, the read pairing did result in differences. In directly comparing the differential expression, results of paired-end reads consistently yielded better correlations.
+
+To our surprise, read pairing did not substantially increase the mapping percentage, which is the major argument for using read pairs, since the second read should help resolve the placement of reads in repetitive regions. Importantly, this study did not focus on an analysis of splice variants, but a prior study showed paired-end reads were advantageous for studying splice variants [
+
+1. ENCODE,
+
+2. Bruno
+
+3. Bruno
+
+4. Liu
+
+5. Hazen
+
+6. Lin
+
+7. Line
+
+8. Chung
+
+9. Chung
+
+10. Robinson
+
+11. Rossi
+
+12. Gifford
+
+Click here for additional data file.
+
+Click here for additional data file.

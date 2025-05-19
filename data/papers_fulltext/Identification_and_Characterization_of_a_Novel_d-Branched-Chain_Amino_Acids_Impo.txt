@@ -1,0 +1,545 @@
+In bacteria,
+
+Previous studies revealed that certain lactic acid bacteria synthesize and accumulate
+
+In
+
+In this study, we characterized the APC family transporter from
+
+In
+
+Distribution and characterization of
+
+Based on these genomic insights, we investigated the function of the transporter and selected LAF_1620 from
+
+To explore the evolutionary relationships of
+
+Currently, little information is available regarding
+
+We constructed three
+
+As shown in Figure
+
+Effect of
+
+We conducted growth assays using
+
+Effect of
+
+The
+
+We analyzed intracellular amino acid pools of BW/ev2, BW/ILEP2
+
+To directly evaluate the
+
+Characterization of
+
+The substrate specificity of
+
+To evaluate if
+
+Various
+
+
+
+Molecular basis of BCAA specificity of
+
+To identify amino acid residues involved in substrate recognition by
+
+The lactic acid bacterium
+
+As shown in Figure
+
+Effect of
+
+Similar experiments using
+
+Our findings suggest that the ILEP‐AAP operon plays a dual role in
+
+To test the role of this operon in
+
+Role of AAP‐ILEP operon on BCAA utilization in lactic acid bacteria.
+
+In contrast,
+
+Using heterologous expression systems in
+
+Based on these finding, we propose that the AAP‐ILEP operon serves a dual function in the synthesis and utilization of
+
+Proposed role of AAP‐ILEP operon in lactic acid bacteria. The AAP‐ILEP operon plays a dual function in the synthesis and utilization of
+
+This mechanism is particularly advantageous for lactic acid bacteria that lack a
+
+The AAP‐ILEP system thus provides a competitive advantage in nutrient‐limited and/or closed environments by enabling efficient storage and utilization of BCAA. These findings will highlight the unique metabolic adaptations of lactic acid bacteria and provide insights into the ecological strategies employed by lactic acid bacteria in competitive microbial ecosystems.
+
+
+
+Plasmids used in this study are summarized in Table
+
+Strains and plasmids used in this study.
+
+Strain
+
+Genotype, description
+
+Reference
+
+or source
+
+
+
+BW25113 (WT)
+
+BW25113 [
+
+Laboratory collection
+
+BW/ev
+
+BW25113 (WT) harboring pAE1147
+
+This study
+
+BW/ev2
+
+WT harboring pAE1147 and pAE1080
+
+This study
+
+BW/ev3
+
+WT harboring pAE1147 and pDM1599
+
+This study
+
+BW/AHAS
+
+WT harboring pAE1147 and pAEU91
+
+This study
+
+BW/AAP
+
+WT harboring pAEA16 (
+
+This study
+
+BW/AAP2
+
+WT harboring pAEA16 and pAE1080
+
+This study
+
+BW/AAP3
+
+WT harboring pAEA16 and pAEU67
+
+This study
+
+BW/AAP‐AHAS
+
+WT harboring pAEA16 and pDM1599
+
+This study
+
+BW/ILEP
+
+WT harboring pAEA17 (
+
+This study
+
+BW/ILEP2
+
+WT harboring pAEA17 and pAE1080
+
+This study
+
+BW/AAP‐ILEP
+
+WT harboring pAEA16 and pAEA17 (
+
+This study
+
+BW/AAP
+
+WT harboring pAEA53
+
+This study
+
+BW/AAP
+
+WT harboring pAEA56
+
+This study
+
+BW/AAP
+
+WT harboring pAEA24
+
+This study
+
+
+
+NZ9000
+
+
+
+MoBiTec GmbH
+
+Ll/ev
+
+NZ9000 harboring pNZ8148
+
+Laboratory collection
+
+Ll/AAP
+
+NZ9000 harboring p
+
+This study
+
+Ll/ILEP
+
+NZ9000 harboring p
+
+This study
+
+Ll/AAP‐ILEP
+
+NZ9000 harboring p
+
+This study
+
+Plasmids
+
+pAE1080
+
+pBAD/Myc‐HisA
+
+Invitrogen
+
+pAE1147
+
+pBAD/Myc‐HisA derivative, Cm
+
+Laboratory collection
+
+pAEA16
+
+pAE1080 encoding
+
+This study
+
+pAEA17
+
+pAE1147 encoding
+
+This study
+
+pAEA53
+
+pAE1080 encoding
+
+This study
+
+pAEA56
+
+pAE1080 encoding
+
+This study
+
+pAEA24
+
+pAE1080 encoding
+
+This study
+
+pAEU67
+
+pBAD24
+
+Laboratory collection
+
+pDM1599
+
+pBAD24 encoding
+
+[36]
+
+pNZ8148
+
+nicin inducible.
+
+This study
+
+p
+
+pNZ8148 encoding
+
+This study
+
+p
+
+pNZ8148 encoding
+
+This study
+
+p
+
+pNZ8148 encoding
+
+This study
+
+Primers used in this study.
+
+Name
+
+Sequence (5′ to 3′)
+
+for
+
+LAF_1619
+
+aacaggaggaattaaccatggaggagaaaaaaagtaaccagcag
+
+LAF_1619
+
+caatgatgatgatgatgatgttcccaacccagctcttctgcgttg
+
+pBA
+
+catggttaattcctcctgttagccc
+
+pBA
+
+catcatcatcatcatcattgagtttaaacgg
+
+LAF_1620
+
+aacaggaggaattaaccaatgagtttttggaaaaccattacgcgg
+
+LAF_1620
+
+caatgatgatgatgatgatgctttttttctcctccatgatcagtgtctc
+
+LAF_1220
+
+gctaacaggaggaattaaccatgaaacaattaatcgctcgt
+
+LAF_1220
+
+tcaatgatgatgatgatgatggcccttcttagccaaggt
+
+LAF_1620
+
+gaaggccagcacgatgaagtactcggctaacagggcccag
+
+LAF_1620
+
+tacttcatcgtgctggccttcgttgggtcggggctgtc
+
+LAF_1620
+
+gccatgctcgccccgatcagggcggtgaacatccc
+
+LAF 1620
+
+ctgatcggggcgagcatggccggctcccggctg
+
+LAF_1620
+
+tgatcgggtctagcatggccggctcccggctg
+
+LAF_1620
+
+gccatgctagacccgatcagggcggtgaac
+
+for
+
+LfAAP_F2
+
+agatcggaagagcacacgtctgaactccagtca
+
+LfAAP_R2
+
+agatcggaagagcacacgtctgaactccagtca
+
+LfILEP_F2
+
+aggcactcacatatggaggagaaaaaaagtaaccagcag
+
+LfILEP_R2
+
+agatcggaagagcacacgtctgaactccagtca
+
+pNZ_F
+
+gagctcaagctttctttgaaccaaaattag
+
+pNZ_R
+
+catatgtgagtgcctccttataatttattttgtag
+
+The A119V, M331A, or M331S mutation was introduced by an overlapping PCR method with primer pairs LAF_1620
+
+The expression vector of
+
+In all cases, sequence of the insert gene was verified by sequencing.
+
+Bacterial strains used in this study are listed in Table
+
+
+
+Composition of the semi‐defined medium (SDM).
+
+Glucose
+
+10 g/L
+
+
+
+0.42 g/L
+
+K
+
+3 g/L
+
+
+
+0.35 g/L
+
+KH
+
+3 g/L
+
+
+
+0.5 g/L
+
+(NH
+
+0.6 g/L
+
+
+
+0.39 g/L
+
+Cysteine
+
+50 mg/L
+
+
+
+0.34 g/L
+
+Tween 80
+
+1 g/L
+
+
+
+0.225 g/L
+
+Yeast extract
+
+5 mg/L
+
+
+
+0.125 g/L
+
+Uracil
+
+5 mg/L
+
+
+
+0.440 g/L
+
+Adenine
+
+5 mg/L
+
+
+
+0.15 g/L
+
+Guanine
+
+5 mg/L
+
+
+
+0.0181 g/L
+
+Xanthine
+
+5 mg/L
+
+
+
+0.275 g/L
+
+MgCl
+
+200 mg/L
+
+
+
+0.05 g/L
+
+CaCl
+
+50 mg/L
+
+
+
+0.675 g/L
+
+FeCl
+
+5 mg/L
+
+
+
+0.125 g/L
+
+ZnSO
+
+5 mg/L
+
+
+
+0.24 g/L
+
+MnSO
+
+5 mg/L
+
+Gly
+
+0.175 g/L
+
+CoCl
+
+2.5 mg/L
+
+CuSO
+
+2.5 mg/L
+
+VOSO
+
+2.5 mg/L
+
+Na
+
+2.5 mg/L
+
+BW/ev2, BW/AAP2
+
+BW/ev and BW/AAP
+
+
+
+The authors declare no conflict of interest.

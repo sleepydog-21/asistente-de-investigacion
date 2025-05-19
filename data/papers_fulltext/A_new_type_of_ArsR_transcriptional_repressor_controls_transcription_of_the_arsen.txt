@@ -1,0 +1,21 @@
+Arsenic (As) is a toxic metalloid present ubiquitously in the environment. The presence of toxic arsenic species such as inorganic arsenate (As(V)) and arsenite (As(III)) imposes a strong selection pressure for microorganisms to evolve resistance mechanisms
+
+The genes involved in arsenic detoxification are usually organized in
+
+Here, we report a novel
+
+
+
+However, phylogenetically, ArArsR forms a cluster that is distinct from other known As(III)‐responsive ArsRs (Figures
+
+We identified an ArArsR‐protected sequence in the promoter region of its own gene as the binding site for ArArsR. The DNase I footprinting and EMSA assays (Figures
+
+In summary, we have identified a new type of As(III)‐responsive ArsR repressor that regulates the transcription of the
+
+
+
+No animal or human research was involved in this study.
+
+The authors declare no conflict of interests.
+
+Supporting information.

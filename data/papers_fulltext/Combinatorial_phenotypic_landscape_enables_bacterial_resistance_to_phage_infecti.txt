@@ -1,0 +1,135 @@
+The human gut microbiome contains multiple species of bacteriophages (hereafter “phages”) which interact with specific bacterial hosts(
+
+Bacteria employ multiple resistance mechanisms to defend themselves, including barriers to phage entry, such as polysaccharide capsules, and an expanding arsenal of internal systems limiting phage infection. Beside well-known nucleic-acid degrading antiphage defense mechanisms such as restriction-modification (RM) systems and CRISPR-Cas, over a hundred bacterial immunity systems are now known in a range of diverse species(
+
+Many bacterial species harbor multiple anti-phage defense systems in their genome with potentially synergistic contributions to protection from phages(
+
+Here, we use microbial split-pool ligation transcriptomics (microSPLiT), a bacterial single-cell RNA sequencing technology, to explore the progression of phage infection across individual host cells and identify phase-variable regions combinatorially expressed in a subpopulation of cells that is phenotypically protected from infection, giving rise to phage resistance. Specifically, we profile gene expression in individual cells of
+
+We isolated a lytic bacteriophage from King County wastewater that we named
+
+To investigate the differences in infection susceptibility across individual cells in a population of
+
+We performed two independent microSPLiT experiments, named “M30” and “F3”. While yielding similar results, F3 retrieved substantially more cells with high transcript content due to workflow optimizations (
+
+Clustering on the basis of both host and phage gene expression could be primarily driven by the presence of phage reads. To reveal host-specific transcriptional changes in response to bacteriophage infection, we removed phage transcripts from our dataset and re-clustered the data (
+
+Examining the transcriptomic profile in the “responders” cluster, we found that it was predominantly defined by the expression of RNA polymerase subunits, replication protein genes, and multiple ribonucleoside reductases (
+
+Subclustering the phage-treated sample by itself unveiled a gradient of phage transcript density across cells with a clear separation between the infected and uninfected subpopulations (
+
+Next, we investigated how
+
+In the mid-pseudotime range (0.4 to 0.6), we saw an upregulation of expression of
+
+In late pseudotime (above 0.6), we observed only a small number of host genes that were selectively enriched, including the
+
+Observed changes in BF12P1 gene expression over pseudotime intervals corresponded well with the
+
+To better understand the relationship between the expression and genomic localization of phage genes, we next calculated the median pseudotime associated with the expression of each phage gene. We then mapped the genomic co-localization of genes (
+
+Given the lack of known functions for the early module phage genes(
+
+Combined, these observations demonstrate that microSPLiT enables reconstruction of the bacteriophage infection timeline from individual cells, profiling the concurrent transcriptomic changes in the host and the phage. Moreover, the pseudotime approach reveals early and late phage gene modules, with the former responsible for the rapid disabling of the host defenses to promote infection.
+
+To study the effects of differences in gene expression on phage susceptibility, we examined transcriptional heterogeneity in our dataset. Within the untreated and uninfected cells, we discovered several transcriptional clusters (
+
+Finally, two distinct clusters were marked by the expression of genes belonging to distinct CPS operons controlled by phase-variable promoters: namely, PSF and PSG(
+
+Since no phage load was detected in the phage-treated cells within these clusters, we hypothesized that these phase-variable regions may protect against phage infection. Capsular polysaccharide (CPS) biosynthesis genes were the most differentially expressed gene group between infected and uninfected cells, with PSF, PSB, and PSG capsular types strongly enriched in the uninfected cells (
+
+In the comparison between uninfected and infected samples, the differentially expressed genes may reflect both the changes induced by phage and the selection of protective phenotypes from the pre-existing heterogeneous pool of states. To remove the phage-induced changes from our analysis, we compared gene expression between uninfected and untreated cells (
+
+In an analysis of the distributions of cells with distinct capsular phenotypes across our dataset, we did not observe substantial differences in CPS composition between untreated and phage-treated
+
+We next asked whether the degree of phage susceptibility or resistance for each capsule type varied proportionally with the strength of CPS or Tsr16-adjacent operon expression. The capsule type produced, rather than CPS expression level, determined phage infection probability (
+
+Finally, to determine if the discovered protective factors had a similar effect under different environmental conditions, we calculated the infection chances for cells with different capsule types from the F3 dataset samples obtained in presence of DCA. Concordant to the obtained results without DCA, we found that cells expressing PSB and PSG had low infection chances (
+
+Taken together, these observations show that the expression of distinct phase-variable loci such as CPS operons and Tsr16 gene cluster strongly influences
+
+To experimentally confirm that certain capsule types indeed conferred protection against the Bf12P1 phage, we used
+
+In a liquid culture phage infection assay, we observed that ‘PSA/PSE’, ‘PSD/PSH’, and ‘PSC’ strains, all expressing phage-sensitive capsules according to the microSPLiT data, exhibited a sharp drop in optical density and failed to recover when incubated with the Bf12P1 phage (
+
+For additional confirmation, we collected phage-resistant bacteria in various conditions including the presence of bile acids (deoxycholic or taurocholic acids) (
+
+To check whether any of the isolates acquired mutations which could be underlying resistance against Bf12P1, we performed variant calling on WGS data which revealed one non-ancestral mutation present in five resistant isolates and the majority of resistant BC samples (
+
+Combined, these data indicate that selection for protective capsular phenotypes, rather than accumulation of specific mutations, underlies resistance to Bf12P1.
+
+Since PSF-expressing cells had ‘intermediate’ infection susceptibility compared to strongly protected PSG-expressing cells in the microSPLiT data (see
+
+To test whether additional phase-variable regions in the
+
+Next, we investigated whether shuffling of this RM system affected vulnerability to Bf12P1. The majority of resistant isolates, including 5D, and the bulk culture samples had the 1757–59 version of a specificity subunit that recognizes a single motif in the Bf12P1 genome. Meanwhile, the 7B isolate which was sensitive to phage in the plaque assay and the resistant 9C isolate harbored the 1757–58 and 1757–60 specificity subunits for which there were no motifs and two motifs, respectively (
+
+To investigate the complementary effects of CPS and RM-I systems on a single-cell level, we calculated the infection chances for subpopulations of cells expressing distinct combinations of these systems from the microSPLiT data (
+
+We then aimed to resolve whether the heterogeneous expression of other factors implicated in phage protection, in the context of protective CPS variants, could lead to super-resistance. Besides the phase-variable CPS and RM-I systems,
+
+In particular, the expression of AbiJ system simultaneously with the PSG capsule, and the expression of Gabija together with the PSB capsule, was associated with essentially no chance of infection (<0.05), thus defining cells expressing these combinations as super-resistant (
+
+Finally, we investigated whether other phase-variable genomic loci that were heterogeneously expressed in microSPLiT data, combined with protective capsular types, could deliver complete protection from phage. Since we detected a strong protective effect with increased expression of the Tsr16-adjacent operon (BF9343_RS20580–20610, see
+
+The small size of the ‘super-resistant’ cell group (349 cells across all identified combination of traits leading to super-resistance, or 1.3% of the “Phage-treated” sample) explains the nearly complete lysis of the wild-type culture in the presence of Bf12P1, followed by slow outgrowth caused by the propagation of resistant bacteria (see
+
+We conclude that phase-variable genomic loci and heterogeneously expressed anti-phage defense systems create a pre-existing, stochastic combinatorial phage vulnerability landscape across the
+
+Bacterial single-cell transcriptomics is a powerful tool for unraveling multiple aspects of lytic bacteriophage infection from a single sampling prior to lysis. For instance, we reconstructed the stages of bacteriophage infection using the asynchronicity of infection across single cells(
+
+We also demonstrated the utility of microSPLiT for studying phenotypic heterogeneity in anaerobic bacterial species found in human gut microbiota, identifying, in addition to multiple phase-variable regions active in different cell subpopulations, a completely uncharacterized operon (Tsr16 gene cluster) which was heterogeneously expressed during exponential growth in culture. This operon affected phage susceptibility in a dose-dependent manner and led to super-resistance at high levels of expression in cells concurrently expressing PSG and PSB capsules. Moreover, we used microSPLiT data to predict the regulation of expression of this operon, presumably expressing fimbrial components, by an adjacent phase-variable transcription factor.
+
+Protection from phage infection for only a few cells in a population could arise from immunity mechanisms heterogeneously induced in cells by exposure to phage. Alternatively, or in combination, it could result from pre-existing heterogeneity of cellular attributes irrespective of phage treatment, leading to different degrees of vulnerability to phage. Here, we found that the pre-existing phase-variable expression of different CPS types and either select phase-variable loci (Tsr16-adjacent operon) or anti-phage defense systems, such as RM systems type I and IV, AbiJ, and Gabija, provided near-complete protection against Bf12P1 phage. By acting together, these variable traits created a combinatorial phenotypic landscape that allowed the population to survive a phage attack by selection and propagation of a small subpopulation carrying the most protective combinations.
+
+The novel siphovirus Bf12P1 that we isolated in this study is closely related to other recently described lytic phages targeting
+
+In conclusion, our study offers a novel conceptual lens to interrogate bacterial anti-phage defense mechanisms, highlighting phenotypic heterogeneity of these systems as a primary driver of phage evasion for organisms such as gut
+
+Bacteriophage Bf12P1 was isolated from twice 0.22-μm filtered (PES membrane) primary effluent wastewater (King County Wastewater Treatment Division – West Point Treatment Plant, Seattle, WA). Phage was isolated using
+
+Transmission electron microscopy was performed through the Fred Hutch Cellular Imaging Shared Resource. Bf12P1 samples were fixed in ½ strength Karnovsky’s fixative overnight at 4°C. 200 mesh Formvar/Carbon coated glow discharged grids were floated over 25 – 50ul bacterial suspension for 20 min. Grids were briefly rinsed with ½ strength Karnovsky’s, 0.1M Cacodylate buffer and 4 changes of distilled water. Grids were negatively stained with 1% uranyl acetate, wicked with damp filter paper and allowed to air dry before imaging. Samples were examined on a JEOL JEM 1400 transmission microscope (JEOL, Tokyo) at 120kV. Images were acquired with a Gatan Rio 4k × 4k digital camera system.
+
+Phage Bf12P stocks were prepared by inoculating a liquid culture of
+
+For growth curve experiments used to characterize infection dynamics at varying MOIs, conditions were as follows: a 24-hour culture of
+
+A turbid 24-hour culture of
+
+Fixed cells were spun down at 10,000 rcf for 10 minutes at 4C, resuspended in cold 100 mM Tris-HCl+RI (where “RI” indicates SUPERase-In RNase Inhibitor at a final concentration of 0.1 units/μM), and spun down again at the same conditions. Cells were resuspended in 250 μM permeabilization solution (0.04% Tween-20 in PBS), incubated for 3 minutes on ice, and after 1 mL addition of PBS+RI, spun down at 10,000 rcf for 10 minutes. Cells were aspirated and resuspended in 200 μM lysozyme, incubated for 15 minutes at 37C, immediately added to 1 mL PBST, and centrifuged at 10,000 rpm for 10 minutes. Samples were then resuspended in 50 μM PBS+RI per sample post-permeabilization. Cells were counted by hemocytometer and 7 million cells were taken per plate for polyadenylation. Polyadenylate polymerase I (PAP) solution was added, and each sample was incubated at 37C for 30 minutes, spun down with 1 mL PBST, and resuspended in PBS+RI. Cells were counted again for verification of the number of cells per plate.
+
+Reverse transcription (RT) mix was created on ice with final concentrations of 1X reverse transcription buffer, 0.25 units/μM Enzymatics RNase Inhibitor, 0.25 units/μM Superase-In RNase Inhibitor, 500 μM dNTPs, 10 units/μM Maxima H Minus Reverse Transcriptase, and 7.5% PEG8000 with a final volume of 1320 μM for a 96 well plate. Reverse transcription mix was added (12 μM) to wells; cells were vortexed and 4 μM was added to PBS+RI for a final volume of 20 μM. Each sample was loaded into different wells of the reverse transcription plate to demultiplex them during analysis. Plates were incubated at 23C for 10 minutes and at 50C for 50 minutes at 500 rpm. Then, 40 μM PBST was added to each well on ice, samples were pooled in a single tube with 24.96 μM 10% Tween-20, and the total reaction was centrifuged for 10 minutes at 10,000 rpm at 4C. The sample was aspirated and resuspended in PBS+RI and disaggregated with both a 10 μm and 1 μm pluriStrainer. The composition of the 96-well plate and barcoded oligonucleotides used for RT were as previously described(
+
+The ligation master mix was made on ice, containing final concentrations of 1X T4 Ligase Buffer 10X, 0.58 units/μM Enzymatics RNase Inhibitor, 0.05 units/μM SUPERase-In RNase Inhibitor, 7.5% PEG8000, and 8 units/μM T4 DNA Ligase, with a final volume of 2040 μM. Cells were added to the ligation mix and 40 μM were transferred into each well of a Round 2 ligation barcode plate before incubating for 30 minutes at 37C and adding 10 μM of round 2 blocking solution (26.4 μM barcode 0340, 2.5X Ligase Buffer). The plate was incubated again for 30 minutes at 37C, and cells were pooled, disaggregated, and barcoded again (round 3 blocking solution: 11.5 μM barcode 0066, 125 mM EDTA). After the final filtering step, cells were washed (4000 μM 1X PBS, 40 μM 10% Tween-20, 10 μM Superase-In RNase Inhibitor) and aliquoted into libraries with 1X PBS+RI to a final volume of 50 μM. Again, the compositions of the 96-well plates and oligonucleotides used for barcoding step were as previously described(
+
+Aliquoted libraries were mixed with 50 μM lysis buffer (20 mM Tris pH 8, 400 mM NaCl, 100 mM EDTA pH 8, 4.4% SDS) and 10 μM of 20 mg/mL Proteinase K for protein digestion prior to incubation at 55C for 2 hours with 500 rpm shaking. The resulting cDNA was purified using MyOne C1 Dynabeads. For template switching, a common 5’ sequence was added to full-length cDNA by resuspending purified product in 200 μM Template Switch Mix (5X Maxima RT Buffer, 50% PEG8000, 10 mM of each dNTP, Superase-IN, 100 μM TSO, Maxima RT RNase H minus enzyme) and incubating at room temperature for 20 minutes at 600 rpm before further incubation at 42C for 90 minutes with agitation. Then, samples were washed in 250 μM Tris-T + RI, decanted and resuspended again with 100 μM per sample of terminal deoxynucleotidyl transferase tailing (TdT) master mix (10X TdT buffer, CoCl
+
+Sequencing was performed on NovaSeq X Plus Series (PE150, Novogene), and a genome was generated with STAR(
+
+Two separate libraries were concatenated after filtering, log-normalized by 600 counts per cell, and scaled to unit variance and zero mean. Subsequently, ComBat(
+
+Scanpy gene ranking functions (sc.tl.rank_genes_groups and sc.get.rank_genes_groups_df) were used to analyze and retrieve statistical data between two groups of interest within the annotated data object. The output parameters included names of all genes, z-score, log fold change, p-values, and adjusted p-values. To create a volcano plot from this data, either the |score| or −log(adjusted p-value) was plotted on the y-axis against the log-fold change on the x axis. Lists of defense genes from DefenseFinder(
+
+To assess the co-expression between two genes A and B, first, probabilities of expression of individual genes were calculated as fractions of cells having above-zero normalized non-scaled expression values - p(A) and p(B), respectively. Then, the probability of simultaneous expression of the two genes, p(A&B), was calculated as a fraction of cells having above-zero normalized non-scaled expression values for both inspected genes. Co-expression score was calculated as a ratio of p(A&B) to the multiplication of p(A) and p(B). Values close to 1 indicate independent expression of genes; values above 1 indicate co-expression, and values below 1 indicate mutually exclusive expression of genes. To define a border of a CPS operon, mean co-expression values were calculated between genes adjacent to the CPS operon and core genes of a CPS operon. Co-expression between gene sets (e.g., CPS operons) was calculated similarly to genes, with probability of expression calculated as a fraction of cells having above-zero normalized non-scaled expression values for any of genes within a set.
+
+The data was first subsetted into the phage-treated sample alone. A root cell was defined using adata.uns[‘iroot’] = np.flatnonzero(adata.obs[‘louvan’]==0)[1], which selected a random indexed cell from the untreated cluster within all phage-treated cells. Scanpy diffusion maps were created prior to running the existing diffusion pseudotime tool with 0 branchings and 10 diffusion components. For downstream analysis using pseudotime values, 5 bins of equal size were created to group cells into pseudotime ranges (0.0–0.2, 0.2–0.4, 0.4–0.6, 0.6–0.8, and 0.8–1.0). Differential expression analysis was run to identify the top 10 distinct
+
+The procedure was adapted from the Troy et al. study(
+
+For PCR, all forward and reverse primers were used based on Troy et al. study(
+
+Purified PCR products were digested at a concentration of 250 ng with 0.5 uL of the respective restriction enzyme (PSA: SspI-HF; PSB: RsaI; PSD: DraI; PSE: SspI-HF; PSF: EarI; PSG: PacI; PSH: SfcI)(
+
+RM-I transcripts were enriched by PCR using a forward primer specific for BF9343_RS21605 (BF9343_1757) transcript and a universal reverse primer for a barcode adapter (
+
+Obtained forward reads were aligned to a synthetic reference sequence prepared by concatenation of four variants (1757-57, 1757-58, 1757-59, and 1757-60) of a specificity subunit gene region that contains recombination sites and is involved in shuffling. For unambiguously aligned reads which overlap the repeat regions, barcode information was extracted from corresponding reverse reads. Barcode combinations found in at least 3 reads were used to additionally assign RM specificity subunits to cells in the original microSPLiT data. In case of simultaneous detection of several different specificity subunits for a barcode combination, an epistatic model was considered: 1757–60>1757–59>1757–57, 1757–58.
+
+Two pairs of forward and reverse PCR primers were designed in SnapGene to target downstream regions of each CPS operon (
+
+Overnight cultures with 4 mL basal metabolic broth were started for each of the samples, directly from original glycerol stocks, using wild-type
+
+For first-strand cDNA synthesis, the standard protocol from ThermoFisher Scientific using Maxima H Minus Reverse Transcriptase was used. The total reaction volume was tripled to include 20 uL template RNA, 3 uL of 100 uM random hexamer primer stock, 3 uL of 10 mM dNTP mix, 12 uL 5X RT buffer, 1.5 uL Superase RNase inhibitor, 1 uL Maxima Reverse Transcriptase, and nuclease-free water to a final volume of 60 uL. Reaction mixture was incubated for 10 minutes at 25°C, 30 minutes at 50°C, and terminated for 5 minutes at 85°C. For qPCR, 2 replicates were run for each cDNA sample along with 2 replicate RNA samples and non-template controls. The qPCR program was set to 98°C (3 min, then 12 sec), 65°C (15 sec), 72°C (10 sec), and 33 cycles. For analysis, the number of amplification cycles for each B. fragilis sample and every CPS primer pair were taken directly from qPCR data.
+
+Variant calling was performed using snippy v 5.2(
+
+WGS reads were

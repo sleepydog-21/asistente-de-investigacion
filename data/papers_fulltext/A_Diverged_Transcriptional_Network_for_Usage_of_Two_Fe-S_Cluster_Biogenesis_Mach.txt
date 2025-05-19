@@ -1,0 +1,151 @@
+Iron-sulfur (Fe-S) clusters are ancient cofactors that are found in the three domains of life and in viruses. A wide variety of essential biological processes such as respiration, photosynthesis, amino acid and cofactor biosynthesis, DNA repair, tRNA modification, and gene regulation rely on Fe-S cluster-based chemistry (
+
+As established in the model organism,
+
+Myxobacteria are Gram-negative soil-dwelling δ-proteobacteria that prey on pathogen and nonpathogen microorganisms (bacteria, yeast, fungi) using epibiotic strategies (
+
+Here, we investigate how
+
+We first examined the
+
+Identification of the Fe-S cluster biogenesis components in
+
+Homology of the ISC and SUF proteins of
+
+Reverse transcription PCR (RT-PCR) analysis demonstrated that
+
+The
+
+We asked how deeply RisR is distributed among prokaryotes and whether it is phylogenetically related to the well-characterized IscR from
+
+List of proteomes used in the phylogenetic analysis. Download
+
+Taxonomic distribution of Rrf2 proteins in the 553 prokaryotes. Download
+
+From the alignment, we inferred a maximum likelihood phylogeny of the prokaryotic Rrf2 regulators (
+
+Taxonomic distribution of Rrf2 subgroups from IS1 to IS6 and detailed synteny with Fe-S cluster biogenesis machineries. Download
+
+To biochemically characterize RisR, a Strep-tagged variant was overproduced in
+
+The UV-visible spectrum suggests that RisR binds a Fe-S cluster. UV-visible spectrum of anaerobically isolated N-terminal Strep-tag RisR protein (6.2 μM). The spectrum shows two characteristic peaks with maxima at ~330 nm and ~420 nm that might indicate the presence of [4Fe-4S] clusters.
+
+To test whether RisR controls the expression of the Fe-S cluster biogenesis machineries in
+
+Holo-RisR downregulates the expression of both
+
+Activities of the
+
+To investigate whether RisR requires coordination of the Fe-S cluster for its repressor function, the three predicted cluster-coordinating cysteine residues of RisR, Cys92, Cys102, and Cys108, were substituted to alanine, leading to the RisR_3CA variant. The ectopic
+
+Altogether, these results indicate that the RisR_3CA variant lost the ability to downregulate
+
+To test whether RisR binds directly to the
+
+Holo-RisR binds to imperfect palindromic motifs in
+
+Within the RisR-protected regions of
+
+Altogether, these results defined a conserved RisR binding site upstream of the
+
+To study the contribution of ISC and SUF pathways, we constructed
+
+Growth, motility, and RisR maturation are not affected in strains lacking ISC or SUF machinery. (A) Growth curves of
+
+We then investigated the participation of ISC and SUF pathways to homeostatic regulation, by analyzing their ability to maturate RisR. As a read-out for RisR maturation, we quantified by qRT-PCR the ability of RisR to repress the P
+
+To further explore the functional redundancy of ISC and SUF biogenesis pathways in
+
+SDH activity is not affected in strains lacking ISC or SUF machinery. (A) SDH activity was determined by measuring polarographically the O
+
+Our data unveiled that in contrast to
+
+It is well known that iron starvation and oxidative stress affect Fe-S cluster biogenesis and that cells shaped genetic controls to adapt (
+
+Activation of
+
+Growth curves of
+
+Taken together, we conclude that iron starvation and oxidative stress induce expression of both
+
+We then assessed the relative importance of
+
+The SUF machinery is required during iron starvation for
+
+The same experiments were performed with WT,
+
+The SUF machinery is required during oxidative stress for
+
+Collectively, these results indicate that in
+
+In all organisms, maintaining Fe-S cluster homeostasis is an essential function that is finely controlled in order to sustain the Fe-S cluster demand without depriving iron from other iron-dependent processes. In addition, Fe-S cluster demand can also reflect environmental conditions, since the reactivity of some Fe-S clusters to agents such as O
+
+Our results show that, similar to
+
+Model of regulation of
+
+The phylogenetic analysis suggests that the Rrf2 family of transcriptional regulators went through a complex evolutionary history and has been recruited several times independently into the Fe-S cluster biosynthesis genomic clusters. IscR and RisR, of IS1 and IS6 groups, respectively, are two examples of such recruitment that is very likely explained by the presence of conserved cysteine residues allowing them to bind a Fe-S cluster, which permit a direct sensing of the Fe-S cluster status of the cell. Whether the Rrf2-type regulators, of groups IS2, IS3, IS4, and IS5, which are found in the vicinity of SUF-encoding genes or the newly described Fe-S cluster biogenesis MIS system, are Fe-S-binding proteins remains to be experimentally validated (
+
+Using a protein database representing the current known diversity of prokaryotes with a same-range number of representative organisms per phyla allowed us to pinpoint that in nearly half of the bacteria possessing at least one Rrf2 member, the gene is located in the vicinity of genes encoding Fe-S cluster biogenesis components. This supports the view that cells make wide usage of Rrf2-type regulators to adjust Fe-S cluster supply, suggesting that Rrf2 family members provide a flexible platform for regulating activity by Fe-S clusters. In addition, Rrf2-type regulators can also regulate other metabolic pathways, as shown in
+
+UV-visible spectroscopy showed that anaerobically purified RisR does bind an Fe-S cluster. Coordination of the cluster likely uses the three highly conserved cysteine residues (C92, C102, C108) as ligands, similar to other Fe-S binding members of the Rrf2 family such as
+
+Direct binding of holo-RisR to the promoter region of
+
+Our model is that conditions that endanger Fe-S cluster homeostasis, such as the presence of a superoxide generator or an iron chelator, favor the apo-RisR form that we expect does not bind to DNA, leading to derepression of both the
+
+As found for most living organisms in which it has been investigated, our results suggest that Fe-S cluster biogenesis is very likely an essential process in
+
+In the presence of oxidative stress, and also during iron limitation, the Δ
+
+Furthermore, we show that even though the use of SUF during stress conditions resembles that observed in
+
+Recent transcriptomic data have suggested upregulation of the
+
+In summary, we describe here a new and different strategy deployed by the deltaproteobacterium
+
+Finally, in the context of antimicrobial resistance, there is a tremendous need for new drugs. Genome mining of Myxobacteria has recently led to some excitement due to the prolific number of putative secondary metabolites, which in this regard are similar to actinomycetes and certain fungi (
+
+Strains used in this study are listed in
+
+Strains, plasmids, and primers used in this study. Download
+
+Total RNA was isolated using the Maxwell 16 miRNA tissue kit from Promega then treated with Turbo DNase TM from Ambion. RNA quality was checked with the TapeStation from Agilent, and the quantification was performed spectrophotometrically. One microgram of total RNA was reverse-transcribed with the GoScriptTM Reverse Transcription System using random hexamers (Promega). cDNA was used as a template in PCRs using the primers described in
+
+The proteome database was previously described and was built to represent the diversity of prokaryotes (
+
+We then searched proteins of the Rrf2 family by using BLAST v2.8.1+ (
+
+Plasmids used in this study are listed in
+
+To construct the Δ
+
+To construct the transcriptional
+
+Plasmid pET-22b(+) carrying
+
+The expression vector pET11a-RisR was constructed using Gibson assembly. A pET11a vector with an N-terminal Strep-II tag and an enterokinase digestion site (pPK14636) was amplified using primers pET11aF2 and pET11a_NtermStrep. Primers Myxo11 and Myxo08 were used to amplify the
+
+For isolation of RisR, a Δ
+
+For footprinting assays, plasmid derivatives of pPK7179 (
+
+Strain PK14639 (PK14623 carrying pPK14637 plasmid) was grown in 1 L of Terrific broth (RPI) with 50 μg/mL ampicillin and 10 mM arabinose, inoculated to 0.5% from an overnight culture to an OD
+
+Ten mL of
+
+Quantitative real-time PCR (qPCR) analyses were performed on a CFX96 Real-Time System (Bio-Rad). The reaction volume was 15 μL, and the final concentration of each primer was 0.5 μM. The cycling parameters of the qPCR were 98°C for 2 min, followed by 45 cycles of 98°C for 5 s, 58°C for 10 s, and 72°C for 1 s. A final melting curve from 65°C to 95°C was added to determine the specificity of the amplification. To determine the amplification kinetics of each product, the fluorescence derived from the incorporation of EvaGreen into the double-stranded PCR products was measured at the end of each cycle using the SsoFast EvaGreen Supermix 2X kit (Bio-Rad, France). The results were analyzed using Bio-Rad CFX Maestro software, version 1.1 (Bio-Rad, France). The 16S RNA was used as a reference for normalization. For each sample, a technical duplicate was performed. The amplification efficiencies for each primer pair were between 80 and 100%. Primer pairs are reported in
+
+Substitution of the Cys92, Cys102, and Cys108 residues from RisR to alanine residues were generated in two steps using first the pSWU19-
+
+Overnight cultures of
+
+Plasmids pPK14640 and pPK14641 were isolated using a QIAfilter maxi kit (Qiagen), and 30 ng was digested using BamHI and HindIII enzymes (NEB) to expose the 3′ ends of the fragment for radiolabeling with [α-
+
+Overnight cultures of
+
+O
+
+Quantification of N terminus tagged RisR and total proteins in the membranes was carried out by the Bradford assay using BSA as the standard.
+
+Overnight cultures grown in CYE medium were used to inoculate fresh CYE medium to an OD

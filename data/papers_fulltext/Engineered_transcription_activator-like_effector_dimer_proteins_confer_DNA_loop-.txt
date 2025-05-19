@@ -1,0 +1,101 @@
+Gene expression commences when RNA polymerase binds promoter DNA and initiates transcription yielding messenger RNA. Gene repression involves processes that prevent RNA polymerase binding at and/or transcription initiation from promoters. We and others have studied the
+
+Principles of engineered DNA looping studied here.
+
+We and others have exploited the loop-dependence of
+
+Artificial control of gene expression is an attractive goal for synthetic biology and therapy. Based on our understanding of DNA looping-dependent
+
+In our prior work, we created TALE dimers (TALEDs) whose dimerization was non-covalent and could be regulated by small molecules (
+
+Here, we address this by creating
+
+We report that, unlike the case of non-covalent TALEDs, properly optimized covalent TALEDs tightly repress target promoters, with behavior qualitatively and quantitatively comparable to LacI.
+
+TALEs were initially assembled by published methods (
+
+DNA looping reporter constructs driving
+
+TALE(D) protein expression and
+
+where OD
+
+where
+
+and the contribution of DNA looping (RR
+
+In prior work (
+
+The thermodynamic model of promoter repression used to fit data relating gene expression to the presence and spacing of operator sequences has been previously described (
+
+where each of the association equilibrium constants absorbs the (assumed) constant cellular concentration of TALED and is therefore dimensionless. The equilibrium constant for singly-bound TALED at the proximal operator (relative to the state of free proximal operator),
+
+with
+
+where
+
+The adaptation of this model to the current analysis is explained in Supplemental Methods, where the various optimizations were performed using the SIH algorithm (
+
+Our goal is to develop optimized design guidelines for TALED-based loop-dependent gene repression in living cells. Complete lists of TALE(D) expression vectors and TALE(D) amino acid sequences used in this work are given in
+
+Schematic illustrations (
+
+Repression from TALE(D) binding at the proximal operator is shown in Figure
+
+Interestingly, binding of TALE O2 to an isolated O2
+
+From published
+
+While
+
+We systematically assayed eight TALED proteins (A-O2 or O2-A each with or without the CTD of TALE 1, and each with two different covalent linker sequences) using our two sets of reporter constructs (distal A
+
+Schematic illustrations of TALED repression loops and selected TALED repression data with thermodynamic model fits as a function of operator spacing.
+
+Total repression (RR
+
+Thermodynamic model fits
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The observed fit value of
+
+We further analyzed promoter repression with A
+
+Maximal total repression (
+
+We find that inclusion of the ∼66-amino acid CTD of TALE 1 is crucial for efficient looping (
+
+The presented thermodynamic model fit curves and fit parameters represent the best global fitting of all operator center-to-center spacings in the two regimes of 94–108 bp and 160–194 bp. In most instances, the simple model applies reasonably well and uniformly across the entire loop length ranges. However, in certain cases the model fits reasonably well for only one of the two length regimes. Only one case (
+
+A key goal of our studies has been to determine if designed repression loops driven by programmable DNA binding proteins can mimic the remarkably tight
+
+Summary of improvement in repression attributable to DNA looping with covalent TALED proteins.
+
+The natural
+
+The profound requirement for the C-terminal region of TALE 1 is surprising given that previous TALED-based ‘staple’ proteins were designed without TALE1 C-terminal domains (
+
+Our work suggests that several features of covalent TALEDs should be optimized for engineered gene repression. In order to maximize loop-dependent repression, a weak operator should be in the proximal position and a strong operator in the distal position, with center-to-center spacing corresponding to an integral number of DNA helical turns (where the DNA helical repeat value in
+
+We remain uncertain as to actual DNA/TALED repression loop geometries. DNA strain in a 180° turn is presumably lower than in a 360° cycle, but the energetics of ‘C’ versus ‘Z’ TALED conformations are unknown. Indeed, AlphaFold simulations of TALED structures are essentially linear, providing no insights about the flexibility of the linker or preference for ‘C’ versus ‘Z’ TALED conformations (
+
+The present work also sought to test the hypothesis that limited repression characteristics of previous non-covalent TALEDs resulted from the weakness of the non-covalent dimerization interface, allowing loss of dimerization in short DNA loops under more severe strain (

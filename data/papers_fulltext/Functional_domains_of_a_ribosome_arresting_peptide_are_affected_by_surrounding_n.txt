@@ -1,0 +1,73 @@
+Ribosome arresting peptides (RAPs) are nascent polypeptides that act in
+
+In
+
+TnaC contains four highly conserved amino acid residues that are critical for the induction of ribosome arrest by free L-Trp, namely W12, D16, I19, and P24, and mutations at these residues abolish L-Trp–dependent induction (
+
+In this report, we compared the ability of several TnaC mutant peptides to induce ribosome arrest in response to L-Trp. Using reporter genes, we tested
+
+We have shown previously that mutating the nonconserved TnaC R23 residue partially restores the capacity for inducing ribosome arrest by the LOF TnaC(D16E) mutant peptide in the presence of L-Trp (
+
+S10P and R23H are
+
+Abbreviations: ACH, casein acid hydrolyzed; β-gal, β-galactosidase; LOF, loss-of-function; L-Trp, L-tryptophan; M9-MM, M9 minimal medium; MU, Miller units.
+
+Cultures of
+
+Induction ratio of values for cultures grown with L-Trp (+Trp) and those cultured without L-Trp (-Trp).
+
+At least two different mechanisms might explain the high basal level expression of
+
+To confirm and extend the findings obtained using
+
+IC
+
+Abbreviations: 1MTrp, 1-methy-L-Trp; M9-MM, M9 minimal medium.
+
+Cultures were grown in M9-MM with (+Trp) or without (-Trp) 20 μM 1MTrp as indicated in
+
+IC values in μg/ml were estimated using the plots shown at
+
+We used
+
+The TnaC S10P and R23 mutations were initially isolated as suppressors of the LOF TnaC(D16E) mutant which was not inducible by L-Trp. Therefore, we wanted to determine if the S10P mutation could restore L-Trp–dependent induction to other LOF TnaC mutants. We place the
+
+We asked whether the R23H mutation had the same effects on LOF mutations at W12 and D16 that we observed with S10P. The R23H mutation was combined with the W12 and D16 mutations to produce the following combinations: D16E/R23H, D16A/R23H, and D16K/R23H; and W12R/R23H, W12L/R23H, and W12A/R23H. Similar to what was observed with the S10P double mutants, R23H suppressed the D16 LOF phenotypes of several mutations (
+
+Finally, we tested the capacity of S10P and R23H to suppress the LOF phenotype resulting from a mutation at the conserved amino acid residue located at the PTC, P24. As seen in
+
+Toeprinting assays have previously been used to determine the sensitivity of TnaC–ribosome complexes to L-Trp by identifying the position of arrested ribosomes induced by L-Trp on
+
+Formation of the TnaC(S10P)-stalled ribosome complex at low concentrations of L-Trp could be due to disruption of the PTC activities imposed by the mutant nascent peptide even in the absence of L-Trp, as we had previously observed for complexes formed with TnaC(R23F/H) mutant variants (
+
+In this work, we studied the effects of two intragenic mutations that partially restore L-Trp–dependent induction in LOF mutant variants of the TnaC RAP (
+
+Our results support the idea that induction of ribosome arrest by the TnaC peptide requires two distinct domains called the sensor and stalling domains as previously suggested (
+
+Three TnaC mutations S10P, R23H, and R23F have been identified that increase the sensitivity of TnaC for L-Trp. R23F was first identified in TnaC peptides that could arrest ribosomes during the elongation phase (
+
+Our current TnaC-ribosome structure shows the S10 residue near the L-Trp binding site just beyond the constriction region (
+
+Contrary to the results obtained with W12 changes, our data suggest that long-chain amino acid residues at the D16 position, such as Lys, hampers the ability of either S10P or R23H mutations to suppress the LOF phenotypes (
+
+The work presented here shows how mutations in nonconserved residues can be used to modulate the responsiveness of RAPs. The two mutations, S10P and R23H, both increase the sensitivity of TnaC for sensing L-Trp and partially suppress the LOF phenotype associated with some (but not all) mutations that abolish induction by L-Trp. We propose that both S10P and R23H suppressors create changes in the overall structure of the TnaC peptide that abrogates the necessity of the essential residues to enable folding into a functional configuration. These data support the idea that nonconserved residues also can significantly modulate the functions of this arrest peptide. Our observations on the versatility of TnaC peptide variants to induce ribosome arrest suggest that the sequences of the regulatory arrest peptides from different bacteria have been evolutionarily selected to adjust expression of the
+
+Plasmids used in this work are shown in
+
+β-gal assays (
+
+Assays were performed as follows: one bacterium colony was used to inoculate 1 ml M9-MM containing 0.5% ACH. Strains without plasmids were cultured without antibiotics while strains with pACYC184 and derivatives were selected by supplementing the growth media with 10 μg/ml Tet. Early the next day, 200 μl of overnight culture was used to inoculate 2 ml of M9-MM supplemented with 0.5% ACH, 10 μg/ml Tet, and with or without 25 μg/ml 1-methy-L-Trp (1MTrp). 1MTrp is an analog of L-Trp that is more stable
+
+Inhibitory concentration assays were performed in 96-well plates using a range of Cm concentrations. Overnight cultures grown in M9-MM with 10 μg/ml Tet were diluted 4-fold with fresh media containing Tet. Later, 500 μl of these diluted cultures were mixed with 500 μl of fresh media containing Tet with or without 20 μM 1MTrp. Cells from the resulting mixtures were allowed to grow with aeration at 37 °C for 1 h to induce the expression of the
+
+IC
+
+Toeprinting assays observed in
+
+Puromycin resistance assays observed in
+
+Additional data could be shared by contacting Luis R. Cruz-Vera at
+
+This article contains
+
+The authors declare that they have no conflicts of interest with the contents of this article.

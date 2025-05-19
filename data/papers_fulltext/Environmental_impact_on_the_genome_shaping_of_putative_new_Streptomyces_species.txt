@@ -1,0 +1,179 @@
+The investigation of microorganisms living in extreme environments and their adaptation mechanisms helps to understand the evolutionary and ecological processes of microorganisms on Earth and to use their ecological and economic potential in a wide range of industries, as they represent a more efficient, sustainable and cost-effective option compared to conventional methods [
+
+Streptomycetes can produce a large number of secondary metabolites with antimicrobial, antiviral, anticancer and antifungal properties. The high variability of metabolites allows them to survive in diverse environmental habitats and to constitute an evolutionarily very successful bacterial group within microbial communities [
+
+As mentioned above, streptomycetes are frequently isolated from soil environments contaminated with heavy metals [
+
+Several genetic determinants associated with heavy metal tolerance, such as the
+
+The main aim of this study was to investigate the genetic relatedness between two streptomycete strains isolated from the same extreme environment and to identify genetic determinants involved in adaptation processes to heavy metal contaminated environments. In addition, we tried to assess the impact of environmental conditions on the evolution of this bacterial group.
+
+The P9 and P17 isolates were obtained from the lead-silver-zinc material of the mine heap in Tarnowskie Góry in Poland (50°24′56’’ N, 18°51′16’’ E), which was subsequently processed according to Nosalova et al. [
+
+The isolates were initially cultivated on Lindenbein selective medium for
+
+Isolates were first identified based on the 16S rRNA gene sequence and then subjected to whole-genome sequencing.
+
+The total genomic DNA of the P9 and P17 strains was isolated from the overnight bacterial culture cultivated in liquid Tryptic Soy Broth medium (TSB, Sigma-Aldrich, USA) at 25 °C. DNA extraction was performed using the modified method according to Pospiech and Neumann [
+
+The isolated DNA was used as a template for PCR amplification of the 16S rRNA gene using Taq Core Kit (Jena Bioscience, Germany). PCR was performed in a 25 µL volume, with the reaction mixture consisting of 1x Crystal Buffer, 200 µM of dNTP Mix, 1 µM of fD1 (5´-AGAGTTTGATCCTGGCTCAG-3´) and rP2 primer (5´-ACGGCTACCTTGTTACGACTT-3´) [
+
+The PCR products were separated by electrophoresis in a 1% agarose gel and visualized under UV light using the ChemiDoc™ XRS + System (BIO-RAD, USA). The PCR products were purified using the EXO/SAP kit (Jena Bioscience, Germany) according to the manufacturer’s protocol and sequenced in both directions using the Sanger method by Eurofins Genomics Sequencing GmbH (Köln, Germany). The obtained sequences were processed using the tools implemented in the MEGAX v10.2.4 software [
+
+The whole-genome sequencing of the P9 and P17 isolates was performed by Eurofins Genomics Europe Sequencing GmbH (Konstanz, Germany) using Illumina NovaSeq technology by paired-end strategy (2 × 150) in the NovaSeq 6000 sequence mode by S4 PE150 XP kit. The raw reads were processed by tools implemented in the Unipro UGENE v47.0 bioinformatics software [
+
+The draft genomes of
+
+The genomic relatedness of the P9 and P17 strains to closely related species was determined using the in silico digital DNA: DNA hybridization (dDDH) analysis performed by Type (Strain) Genome Server (TYGS) with a species cut-off value of 70% [
+
+The OrthoVenn3 software was used to perform the comparative genome analysis and predict highly conserved proteins among the selected
+
+The heavy metal tolerance gene determinants were predicted by the RAST annotation server, the Bakta Web and the BacMet database [
+
+Additional genomes used in the comparative genome analysis were obtained from the GenBank database and were also annotated by the RAST server.
+
+The correlation analyses between isolates found in heavy metal contaminated and non-contaminated sites were visualized by heatmaps created using the ClustVis software [
+
+The antimicrobial resistance genes were predicted using the CARD database [
+
+The antiSMASH 7.0 tool was applied to analyze the potential biosynthetic gene clusters associated with the possible production of secondary metabolites. The identified clusters were compared against known gene clusters available in the MIBiG database [
+
+Based on the identified BGCs, the siderophore production was also investigated in the isolates P9 and P17. Siderophore production was examined using the O-CAS agar method according to Pérez-Miranda et al. and Louden et al. [
+
+The heavy metal tolerance of the P9 and P17 strains was examined by the agar dilution method and the minimal inhibitory concentration (MIC) of the metal was determined [
+
+Slight morphological differences were observed between colonies of the P9 and P17 strains. The colonies of the P9 isolate appear beige in color and circular in shape with scalloped margins (Fig.
+
+
+
+Morphology of
+
+The 16S rRNA gene sequence analysis confirmed that both isolates P9 and P17 are members of the
+
+Using whole-genome sequencing, we obtained the draft genome of
+
+
+
+Genome features of
+
+The P9 isolate formed a clade with
+
+The ANI value between the P9 strain and its closest relative
+
+
+
+The phylogenetic placement of the P9 and P17 isolates within the
+
+The obtained results demonstrate the phylogenetic differences between isolates P9 and P17, although they were obtained from the same environment. In addition, the genome analysis using the RAST server showed some differences in the subsystem feature between the P9 and P17 strains, mainly in the “Metabolism of aromatic compounds”, “Carbohydrates” or “Fatty acids, lipids, and isoprenoids” categories (Table
+
+
+
+The genome feature subsystems of the P9 and P17 strains determined using the RAST server [
+
+A linear megaplasmid (NODE_22, size of 116,112 bp in length) was identified in the P17 genome based on the annotation of its sequence. The genes encoding the plasmid replication/partition related protein ParB, plasmid mobilization relaxosome protein MobC and relaxase/mobilization nuclease domain-containing protein were identified and checked by the BlastX tool. However, no genes related to heavy metal tolerance were identified in the plasmid sequence.
+
+According to the OrthoVenn3 bioinformatic tool, a total of 7,634 protein-coding sequences identified in the P9 genome were grouped into 5,375 orthologous clusters and 8,623 proteins in the P17 genome were grouped into 6,148 clusters. In addition, we performed the genome comparative analysis using four different
+
+
+
+The analysis revealed that 3,286 orthologous clusters were shared between all six genomes, representing a core genome among examined species (Fig.
+
+
+
+Venn diagram generated through the OrthoVenn3 server showing shared and unique ortholog gene clusters among six
+
+Shared genes were identified in the biological process category, the molecular function category and in the cellular component category. Primary metabolic process (GO:0044238), heterocycle metabolic process (GO:0046483) or cellular metabolic process (GO:0044237) formed a small part of the predicted Gene Ontology (GO) terms in the “biological process” category. The highest number of proteins was predicted in the metabolic process (GO:0008152) category. In the “molecular functions” category, some of the predicted GO subcategories were the hydrolase activity (GO:0016787), oxidoreductase activity (GO:0016491) or transferase activity (GO:0016740). In the “cellular component” category, the highest number of proteins was predicted in the cell part (GO:0044464) subcategory (Fig.
+
+The phylogenetic tree constructed based on highly conserved single-copy gene sequences confirmed the separate positions within the analyzed species (Fig.
+
+The genome analysis revealed several genetic determinants associated with the heavy metal tolerance in both studied isolates (Table
+
+We found genes linked with the cadmium tolerance in both genomes, however, the
+
+
+
+Metal resistance genes identified in the genomes of
+
+- the absence of the gene
+
+The correlation analysis of heavy metal tolerance in
+
+
+
+The occurrence of the heavy metal resistance genes in
+
+The presence of genes associated with the rifampin (
+
+
+
+Antimicrobial resistance genes identified in the genomes of
+
+- the absence of the gene
+
+In
+
+There were identified 38 BGCs in
+
+The antiSMASH software predicted the presence of three putative hydroxamate-type siderophores in the P9 genome and three hydroxamate-type and one mixed-type siderophores in the P17 genome (Table S3, Table S4). The spectrum of siderophore genes was identified among streptomycete strains analyzed; however, the correlation analysis did not confirm any significant relationship between the abundance of siderophore genes and origin of
+
+
+
+The occurrence of the putative siderophores in
+
+Both isolates (P9 and P17) produced siderophores as indicated by the change in color of the cultivation medium using the O-CAS method [
+
+
+
+The siderophore production by the P9 and P17 strains determined by the color change of the cultivation medium from blue to orange around the colonies using the O-CAS method [
+
+The P9 and P17 isolates showed the highest tolerance to lead (1,500 mg/L), cadmium (1,200 mg/L and 1,000 mg/L) and zinc (1,200 mg/L and 1,000 mg/L), lower tolerance to copper (500 mg/L) and nickel (500 mg/L) and the lowest tolerance to cobalt (200 mg/L) (Fig.
+
+
+
+Minimal inhibitory concentration of selected metals affecting the growth of P9 and P17 isolates
+
+Microorganisms living in extreme environments possess several adaptation mechanisms involving structural, physiological and metabolic specializations [
+
+In our study, all phylogenetic analyses (dDDH, GBDP, ANI) confirmed that the P9 and P17 isolates represent two new, phylogenetically different species within the genus
+
+We confirmed the presence of several genes associated with a rich metabolism and the production of secondary metabolites. According to Schniete et al. [
+
+The P9 and P17 isolates, as well as four other
+
+Due to the homologous functions of these gene clusters, they probably evolved from a common ancestor and represent the core genome [
+
+Our findings showed that the heavy metal tolerance of the studied
+
+In addition, several specific genes involved in heavy metal tolerance mechanisms were identified, including metalloid tellurium (
+
+The presence of genetic determinants in the bacterial genomes predicted a high metal tolerance of isolates P9 and P17, which was also confirmed by MIC determination using the agar dilution method. The high tolerance to several heavy metals was also observed in other
+
+In addition, the presence of
+
+We also revealed the presence of several antibiotic resistance genes belonging to the rifamycins (e.g., rifampin, rifaximin, rifabutin) and glycopeptides (e.g., vancomycin, teicoplanin) antibiotic drug classes in the P9 and P17 genomes. Rifamycins are antibiotics that inhibit bacterial transcription of RNA polymerase. Surette et al. [
+
+The glycopeptide antibiotics inhibit bacterial cell wall synthesis in Gram-positive bacteria; thus, they are used for the treatment of infections caused by multidrug-resistant Gram-positive pathogens. In
+
+Nevertheless, the antibiotic resistance and the production of antimicrobial compounds by
+
+Some traits, such as metal tolerance and antibiotic resistance, are often encoded by plasmids [
+
+Bacteria belonging to the
+
+We also confirmed the high variability of these metabolites in the P9 and P17 strains. In addition to common
+
+Additionally, we detected five BGCs in the P9 genome that did not match any reference gene clusters in the MIBiG database and nine BGCs in the P17 genome with unknown functions, suggesting the production of novel compounds.
+
+The production of siderophores plays an important role in iron homeostasis in bacteria. Iron in soil has a low bioavailability for bacteria, and siderophores help bind Fe
+
+Our data indicate that the extreme environments, mostly the poor or unexplored areas, could be considered promising sources of new
+
+Based on obtained results, we can assume that an extreme environment could have a significant impact on the emergence of high variability in the properties of microorganisms and the evolution of new species.
+
+In this study, two different
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

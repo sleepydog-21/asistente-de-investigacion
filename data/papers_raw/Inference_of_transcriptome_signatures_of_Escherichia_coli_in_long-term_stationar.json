@@ -1,0 +1,11 @@
+{
+  "id": "37024648",
+  "title": "Inference of transcriptome signatures of Escherichia coli in long-term stationary phase.",
+  "doi": null,
+  "authors": "Takano S, Takahashi H, Yama Y, Miyazaki R, Furusawa C, Tsuru S",
+  "journal": "Scientific reports",
+  "year": "2023",
+  "abstract": "\"Non-growing\" is a dominant life form of microorganisms in nature, where available nutrients and resources are limited. In laboratory culture systems, Escherichia coli can survive for years under starvation, denoted as long-term stationary phase, where a small fraction of cells manages to survive by recycling resources released from nonviable cells. Although the physiology by which viable cells in long-term stationary phase adapt to prolonged starvation is of great interest, their genome-wide response has not been fully understood. In this study, we analyzed transcriptional profiles of cells exposed to the supernatant of 30-day long-term stationary phase culture and found that their transcriptome profiles displayed several similar responses to those of cells in the 16-h short-term stationary phase. Nevertheless, our results revealed that cells in long-term stationary phase supernatant exhibit higher expressions of stress-response genes such as phage shock proteins (psp), and lower expressions of growth-related genes such as ribosomal proteins than those in the short-term stationary phase. We confirmed that the mutant lacking the psp operon showed lower survival and growth rate in the long-term stationary phase culture. This study identified transcriptional responses for stress-resistant physiology in the long-term stationary phase environment.",
+  "source": "PubMed",
+  "pmcid": "PMC10079935"
+}

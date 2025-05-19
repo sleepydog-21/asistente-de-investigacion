@@ -1,0 +1,11 @@
+{
+  "id": "39824802",
+  "title": "Improving polyketide biosynthesis by rescuing the translation of truncated mRNAs into functional polyketide synthase subunits.",
+  "doi": null,
+  "authors": "Liu Y, Song C, Cui Q, Sun H, Jiang C, Guo R, He R, Li Z, Luan J, Wang H",
+  "journal": "Nature communications",
+  "year": "2025",
+  "abstract": "Modular polyketide synthases (mPKSs) are multidomain enzymes in bacteria that synthesize a variety of pharmaceutically important compounds. mPKS genes are usually longer than 10 kb and organized in operons. To understand the transcriptional and translational characteristics of these large genes, here we split the 13-kb busA gene, encoding a 456-kDa three-module PKS for butenyl-spinosyn biosynthesis, into three smaller separately translated genes encoding one PKS module in an operon. Expression of the native and split busA genes in Streptomyces albus reveals that the majority ( >93%) of PKS mRNAs are truncated, resulting in a greater abundance of and a higher synthesis rate for the proteins encoded by genes closer to the operon promoter. Splitting the large busA gene rescues translation of truncated mRNAs into functional PKS subunits, and increases the biosynthetic efficiency of butenyl-spinosyn PKS by 13-fold. The truncated mRNA translation rescue strategy will facilitate engineering of multi-domain proteins to enhance their functions.",
+  "source": "PubMed",
+  "pmcid": "PMC11742023"
+}

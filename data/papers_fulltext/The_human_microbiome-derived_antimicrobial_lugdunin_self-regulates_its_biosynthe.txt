@@ -1,0 +1,101 @@
+The fitness of bacteria in complex microbial communities is governed by different types of interactions, including mutualistic and antagonistic mechanisms. Many bacteria produce antimicrobial compounds, bacteriocins, and related molecules to inhibit microbial competitors. Bacteriocin production is a highly variable and dynamic trait, which is often used by bacteria in nutrient-poor environments (
+
+In contrast to primary metabolites, bacteriocins and other secondary metabolites are not essential for the survival of bacteria but contribute to the fitness in specific ecological niches (
+
+Lugdunin is the founding member of a new class of cyclic thiazolidine peptides. It acts as a protonophore against gram-positive bacteria and is especially effective against
+
+We report here that the lugdunin BGC encodes the two repressors, LugJ and LugR, to control the major transcriptional units of the BGC. The product lugdunin itself serves as an inducer of the expression of the lugdunin biosynthesis and transport genes in a feed forward-like fashion. The two repressors are unrelated, but both are released from their operator motifs upon binding of lugdunin. Structural models identify potential distinct binding sites within LugJ and LugR dimers. These findings will help to engineer lugdunin-producing bacteria to ensure high-enough lugdunin production for long-term protection against
+
+The lugdunin gene cluster is composed of 13 genes with multiple functions in lugdunin synthesis, export, immunity, and potentially regulation. Those genes for lugdunin biosynthesis (
+
+(
+
+To elucidate the precise roles of the two regulators, the putative promoter regions of the transcription units
+
+Genetic organization of the promoter regions of the
+
+The 227 bp intergenic region between the 3′-end of
+
+To confirm that the noncoding DNA regions between the
+
+Effect of LugJ and LugR on the activity of the putative promoters as determined by YFP reporter assays in
+
+To analyze promoter regulation in
+
+Effect of LugJ and LugR on the activity of the putative promoters as determined by YFP reporter assays in
+
+These results indicated that LugJ and LugR both act as repressors, albeit for different promoters. LugJ regulates the transporter operon
+
+Since LugR and LugJ are repressors, we analyzed the
+
+Assuming that lugdunin itself might activate the genes of the lugdunin BGC by interaction with the regulatory proteins, the specificity of such interactions was analyzed in the heterologous reporter gene expression system using native lugdunin (1) or synthetic lugdunin variants. To this end, three previously published derivatives (structures in
+
+To minimize antimicrobial effects on the growth of the heterologous reporter strain
+
+Specificity of inducers for the promoter activity of P
+
+To further examine the structure and function of LugR and LugJ, both proteins were expressed with an N-terminal 8×His-tag in
+
+Characterization of native His-LugR and His-LugJ oligomerization states. SEC–MALS analysis of the purified proteins revealed that both exist in a dimeric state with a calculated mass of approximately 46.8 (His-LugR) and 47.3 kDa (His-LugJ). The theoretical size of 26.3 (His-LugR) and 24 kDa (His-LugJ) could be detected in western blot analysis (inset). Trimeric His-SbtB [
+
+To confirm that LugR and LugJ impact the expression of lugdunin biosynthesis and transport genes by directly binding to the respective promoters, the purified proteins were combined with promoter DNA fragments encompassing the
+
+Interaction of promoter sequences and regulators verified by EMSA analysis. DY-781-labeled DNA fragments, proteins, and lugdunin were incubated in EMSA buffer and subjected to native PAGE. (
+
+Primers and plasmids used in this study with restriction sites underlined
+
+These results indicate that both regulators, LugR and LugJ, probably act as homodimers on distinct lugdunin BGC promoters, where specific palindromic sequences are recognized and bound by the regulators. Addition of lugdunin, the biosynthetic product of the BGC, abrogates the binding and results in increased expression of the biosynthetic genes
+
+We generated LugJ and LugR monomeric structure models using AlphaFold and inferred homodimeric states of the two proteins based on selected homologues. The LugJ dimeric structure was modeled based on a putative transcription factor from
+
+(
+
+We identified potentially drug-binding (druggable) binding pockets (DScores > 0.9, anything above 0.8 is considered druggable) in each monomer of LugJ (
+
+Since lugdunin exists in a racemic mixture of the thiazolidine’s chiral center (
+
+Single-point energy calculations generated with the inactive or less active lugdunin variants 2, 3, and 4 (
+
+We demonstrate that the two major transcription units of the lugdunin BGC are regulated by repressors that bind to the BGC promoter regions. The operons for lugdunin biosynthesis and export and immunity are controlled by different repressors (i.e., LugR and LugJ, respectively), of which LugR also controls its own expression. LugJ did not affect transcription of the
+
+It was surprising to find that lugdunin does not inhibit its own biosynthesis genes as often found in metabolic regulatory feed-back loops, but that lugdunin activates its own expression. Such a concept of “feed-forward” regulation or autoinduction (
+
+LugJ and LugR act as homodimeric repressors of the
+
+Recently, we have shown that the transporters LugIEFGH confer resistance to native lugdunin in
+
+While the addition of lugdunin led to a strong de-repression of the
+
+Regulatory proteins are found in most of the BGCs for antimicrobial compounds, but, in most of the cases, the regulatory signals have remained unknown. Actinobacteria, the typical and best-studied antibiotic producers, appear to link antibiotic gene expression to global cellular circuits in incompletely understood ways. Quorum sensing-linked LuxR-type regulators appear to play a major role in actinobacterial antibiotic producers (
+
+Our study might be the first to confirm direct binding of an antimicrobial product to a regulatory protein governing expression of an antibiotic BGC, which will help to elucidate general regulatory mechanisms guiding the production of antimicrobial compounds. Our finding will also help to assess under which environmental conditions lugdunin may be effectively produced to support the fitness of
+
+For the construction of the plasmid-based YFP reporter system, genomic DNA of
+
+Deletion of
+
+To complement the constructed regulator mutants,
+
+To determine promotor activities of the lugdunin biosynthesis and immunity/transporter operons, YFP expression was measured. Strains were grown overnight in Mueller–Hinton broth (Carl Roth GmbH, Germany) with chloramphenicol. Each strain was adjusted to an optical density at 600 nm (OD
+
+For the expression and purification of 8xHis-tagged regulators, LugR and LugJ,
+
+For the subsequent protein purification, which was entirely performed at 4°C, the supernatant was loaded onto columns containing 1 mL charged Ni
+
+For denaturing protein analysis, 20 µL samples were mixed with 4 µL 6× Laemmli sample buffer (Bio-Rad Laboratories) and incubated at 95°C for 5 min. Denatured samples were loaded onto a 12% Mini-Protean TGX gel (Bio-Rad Laboratories) and subjected to electrophoresis for 1 h at 120 V. After transfer of the proteins onto a nitrocellulose membrane, proteins were first probed with penta-His antibody (Qiagen, Germany). As the secondary antibody, IRDye 680RD goat anti-rabbit IgG (LI-COR Biosciences) was used. Proteins were visualized using the Odyssey CLx (LI-COR Biosciences, USA).
+
+Overnight cultures of the
+
+Butanol extracts with a set concentration of 10 mg/mL were microfractionated by HPLC (Agilent 1260 Infinity II). HPLC-grade water and HPLC-grade acetonitrile were used. HPLC was performed with a gradient from 10 to 100% acetonitrile over 20 min, and the flow rate was set to 1 mL/min. A Kromasil 100 C18 column with a length of 250 mm, an inner diameter of 4 mm, a pore size of 100 A, and a particle size of 5 µM was used.
+
+A lugdunin calibration curve was created by solving purified synthetic lugdunin in MeOH at a concentration of 1 mg/mL. The sample was serially diluted at 10-fold steps, and HPLC–MS data were acquired on a Bruker MaXis 4G ESI‐QTOF instrument coupled to a Dionex Ultimate 3000 HPLC system (Thermo Fisher Scientific). Each analysis was calibrated using sodium formate as internal calibrant. The nebulizer pressure of the ESI source was set to 2.0 bar and a dry gas flow rate of 8.0 L/min at an operating temperature of 200°C. For MS–MS spectra acquisition, the auto MS/MS mode with collision energy stepping was used. The mobile phase consisted of solvent A (H
+
+Promoter DNA fragments of
+
+One nanogram of purified promoter fragments was incubated with appropriate amounts of the regulator proteins (His-LugJ or His-LugR) and lugdunin if required in EMSA buffer (10 mM Tris/HCl, pH 7.4, 10 mM NaCl for LugJ or 100 mM NaCl for LugR, 0.1 mg/mL BSA, 1 mM DTT, 1 mM EDTA, 10% glycerol) and incubated for 30 min at 25°C in a total volume of 20 µl. For specificity evaluation, short DNA fragments containing the putative palindromic recognition sequence were ordered as primers, annealed (heating to 98°C for 5 min and then slow cooling [0.1°C/s] to 10°C), and added to the EMSA reaction. Also, scrambled variants of the palindromes (scram1 and 2) were generated and alternatively added to the EMSA. In the case of scram1, the 5′ half of the palindrome sequence was swapped with the 3′ half. To generate scram2, in the first part of the palindrome, all even bases were swapped with random other bases, while, in the second half, all uneven bases were swapped (methods to generate scram1 and 2 were identical for P
+
+SEC–MALS was carried out using a Micro-Äkta chromatography system (GE Healthcare) with a 24 mL Superose 6 Increase 10/300 GL column (GE Healthcare). For MALS analysis, an Optilab T-rEX refractometer and a miniDAWN TREOS detector (Wyatt Technology) were attached to the Micro-Äkta system for accurate molar mass determination. The runs were performed as described before (
+
+Samples from SEC–MALS were mixed with 30% TCA in a 3:1 ratio (sample:TCA) and incubated on ice for 30 min. Afterwards, samples were centrifuged at 20,000 ×
+
+LugR and LugJ dimeric models were generated using AlphaFold, and all lugdunin isomers were docked into predicted binding sites. The proposed binding mode systems were then simulated in an all-atom and explicit solvent system for several microseconds and had their protein–ligand interaction frequencies and binding energy variation monitored along the simulated trajectory (see supplemental material methods for the entire pipeline description).

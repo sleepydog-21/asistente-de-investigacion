@@ -1,0 +1,93 @@
+The metabolism of host-derived molecules represents a crucial strategy for orchestrating the interactions between eukaryotic hosts and their associated bacterial pathogens, symbionts, and commensals [
+
+Bacterial pathogens have evolved numerous metabolic pathways for the acquisition and utilization of specific molecules within their hosts [
+
+In the present study, we utilized an in vitro macrophage infection model to elucidate the mechanisms by which Cho metabolism impacts virulence and its regulatory pathways in
+
+The
+
+The
+
+
+
+Strains and plasmid list
+
+Gm
+
+The intracellular survival and virulence assays were conducted as previously described with minor modifications [
+
+The RNA extraction and sequencing analysis were carried out as previously described [
+
+Total RNA from the 0.1 mM glyceryl-betaine (GB) treatment group and the control group was extracted using an RNeasy Minikit (Qiagen, Germany), followed by DNase treatment (Qiagen, Germany) and reverse transcription to cDNA (TaKaRa). RT-qPCR assays were conducted with Hieff qPCR SYBR Green Master Mix (Yeasen) and a qPCR system (Roche), adhering to the manufacturers’ instructions with three technical replicates for each sample. Data analysis was performed using LightCycler 96 software (Roche). The relative expression levels of target genes were calculated by normalizing against the expression of the housekeeping gene
+
+The plasmid containing
+
+The PAO1 strain was cultured in 96-well microplates containing ABTG supplemented with either 0.1 mM GB, 0.1 mM Cho, or no additional supplements for a duration of 24 h at a temperature of 37 °C. After the incubation period, the cultures were discarded, and the microplates were rinsed with tap water. Subsequently, the resulting biofilm was stained with a solution of 0.1% crystal violet for a duration of 15 min, solubilized using a solution consisting of 30% acetic acid, and quantified by measuring absorbance at a wavelength of 550 nm.
+
+The pyoverdine assay was conducted as previously reported [
+
+Swimming motility was assayed as previously described on BM2 agar plates (0.4% [wt/vol] glucose, 62 mM potassium phosphate buffer [pH = 7], 0.3% [wt/vol] Difco agar, 2 mM MgSO
+
+Overnight cultures of PAO1 and the
+
+Statistical analysis was performed using SPSS (PASW Statistics 18, one-way ANOVA). Quantitative data were visualized using GraphPad Prism. All experiments in the manuscript were independently conducted at least three times. Data are presented as mean ± standard deviation (S.D.). Significance was determined at a threshold of
+
+Given that Cho catabolism is implicated in the pathogenesis of
+
+
+
+Impact of Cho metabolism on
+
+We are interested in elucidating the underlying mechanisms by which Cho or GB contributes to the survival of
+
+
+
+Effects of GB on the intracellular survival and virulence of
+
+In order to thoroughly decode the regulatory effects of GB on
+
+
+
+Transcriptomic analysis for the impact of GB on
+
+
+
+Differentially expressed genes involved in c-di-GMP pathway in
+
+Receptors/
+
+effectors
+
+The reduction in the expression of key genes involved in DGCs and c-di-GMP receptors, including the
+
+
+
+Cho and GB exhibited down-regulatory effects on c-di-GMP related phenotypes. RT-PCR varify the effects of GB on the expression of c-di-GMP-related gene relative to
+
+Considering the relatively modest fold changes observed in differentially expressed DGCs and c-di-GMP effectors, we postulated that the reduction of c-di-GMP levels in
+
+Increasing evidence suggests that elevated intracellular levels of c-di-GMP promote pyoverdine synthesis and biofilm formation in
+
+
+
+Cho and GB interfere c-di-GMP regulated phenotypes in
+
+Numerous studies have implicated Cho metabolism in modulating macrophage immune responses towards infections, including the secretion of IL-1β and IL-18 [
+
+
+
+Deletion of
+
+
+
+Model for Cho regulating the virulence of
+
+Cho is an essential nutrient for eukaryotic cells which is required for synthesis of phospholipid and phosphatidylcholine. Recent study showed that Cho uptake is boosted in macrophages after LPS activation, and the increase of Cho transporter and uptake is important for full capacity of macrophage immune responsiveness and cytokine secretion [
+
+It is well known that bacterial pathogens have distinct gene expression profiles and physiology at the infection sites when compared to laboratory cultivation conditions. For example, iron limitation stress is encountered by most of the bacteria growing at the infection sites, which can induce production of siderophore and other virulence mechanisms [
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

@@ -1,0 +1,115 @@
+The regulation of gas vesicle production in S39006 has been studied for over a decade. Quorum sensing, the Rsm system (a homolog of the
+
+Master transcriptional regulators have also been implicated in the control of gas vesicle production. The global regulator FloR (a DeoR family transcription factor) controls GV and secondary metabolite production, motility and virulence in S39006 (
+
+Here we report an IclR family transcriptional regulator controlling multiple phenotypes in S39006. Disruption of
+
+All bacterial strains and the general transducing phage used in the study are listed in
+
+Bacterial strains and phage used in the study.
+
+Random transposon mutagenesis was carried out using a plasmid-transposon (plasposon) hybrid system, pKRCPN1, as previously described (
+
+Putative transconjugants were visually screened for any notable difference in colony opacity, compared to NWA19, as a proxy for gas vesicle production. Colonies that were noticeably more translucent, slightly less opaque, hyper opaque or that had an unusual colony morphology were selected putative gas vesicle mutants. The putative mutants were passaged thrice on selective agar to confirm the observed colony phenotypes. The transposon insertion location in the mutants was determined by random primed PCR (RP-PCR) (
+
+Phenotypic plate assays for carbapenem, cellulase, and swimming and swarming motilities were performed as described previously (
+
+Potato rotting assays were performed as described by
+
+The
+
+For Phase Contrast Microscopy (PCM), wet mounts of liquid culture or colonies resuspended in LB were used for phase contrast imaging. Samples were visualized using an Olympus BX-51 microscope with 100X oil immersion lens and images were captured with QICAM Fast 1,394 digital camera.
+
+Transmission Electron Microscopy (TEM) was performed at the Cambridge Advanced Imaging Center, University of Cambridge. Bacterial samples were attached to a carbon-coated glow discharge grid for 10 min and washed thrice with dH
+
+Plasmids pQE80-
+
+Oligonucleotides used in the study.
+
+Plasmids used in the study.
+
+IclR was overexpressed and purified in S39006 to preserve the nativity of the protein. Plasmid pQE80-
+
+Preparation of DNA probes and EMSA analyses were carried out according to the Labeled Universal Electrophoretic Gel Shift Oligonucleotide (LUEGO) method with minor modifications (
+
+The protocol for the preparation of cell lysates for proteomic analysis was largely as described by
+
+The statistical significance of any differences seen in RFU or antibiotic production over the course of a growth curve was determined using a repeated measures ANOVA where
+
+S39006 colonies are opaque due to the ability of gas vesicles to refract light. Therefore, changes in colony opacity can be used as a simple and rapid visual screen for gas vesicle regulatory mutants. However, the opacity of S39006 colonies can be confounded in certain mutants where production of the red pigment, prodigiosin, is also altered. To overcome this complication, transposon mutagenesis was carried out in the non-pigmented S39006 strain, NWA19. This strain has an in-frame deletion of
+
+A total of 30,072 transposon mutants were screened from 25 independent conjugation patches. The insertion mutants were visually screened based on differences in colony opacity or morphology relative to the recipient strain NWA19 and were classified into four distinct categories: translucent, intermediate, bull’s-eye and hyper opaque (
+
+The transposon was inserted 296 bp from the start codon and in the same direction of transcription of
+
+Organization of genes surrounding
+
+A BLASTP search revealed that the amino acid sequence of Orf6410 had the highest degree of similarity and identity to IclR family transcriptional regulators from several species of
+
+The
+
+The disruption of
+
+The GV gene cluster of S39006 is 16.6 kb long and composed of 19 open reading frames (ORFs) responsible for gas vesicle morphogenesis arranged in two non-overlapping operons,
+
+Expression of
+
+A series of phenotypic plate assays were performed with the
+
+The
+
+The impacts of the disruption of
+
+The
+
+To determine any further impacts caused by the disruption of
+
+Volcano plot of differential protein abundances in the
+
+Among the most downregulated proteins in the
+
+In addition to proteins that were expected to be downregulated in the
+
+On the contrary, the most abundant proteins in the
+
+Since IclR is a DNA-binding transcriptional regulator, it can also indirectly modulate expression of various genes via other regulators. The abundance of known regulators in the
+
+Known regulators with significantly altered abundances in the
+
+*,
+
+Differential proteomic analysis revealed that the cognate proteins of
+
+Predicted IclR binding sites in S39006.
+
+S39006 IclR directly regulates
+
+Further analysis of the sequence directly upstream of
+
+Finally, to confirm that IclR binds the
+
+The random transposon mutagenesis screen for gas vesicle mutants has led to the identification of another transcriptional regulator involved in carbohydrate metabolism, IclR, that affects multiple phenotypes in S39006. In
+
+Using a combination of phenotypic, genetic and proteomic analyses, we have comprehensively characterized an
+
+A quantitative proteomics analysis comparing the intracellular proteins between the wild type S39006 and the
+
+All the GV proteins detected in the analysis were significantly downregulated. Notably, the decrease in abundances of the GV proteins expressed from the
+
+The regulators Rap, RbsR, RsmA, SmaR and PigP which have previously been linked to gas vesicle formation showed altered abundances in the
+
+Several studies have linked carbon metabolism to prodigiosin production in
+
+Carbapenem production was dramatically reduced in the mutant but it remained resistant to the antibiotic despite the downregulation of the intrinsic resistance proteins (
+
+Potato tuber assays demonstrated that the disruption of
+
+The
+
+Previous reports on S39006 have shown that mutants with disrupted genes linked to carbon metabolism (i.e.,
+
+In
+
+Genetic and proteomic analysis of the
+
+Finally, although this work has contributed novel and substantial information on how S39006 key phenotypes are modulated in response to biotic and abiotic factors, it has further highlighted the extreme complexity of the regulatory network governing these phenotypes. Future work should focus on deciphering the extent of such an intricate network using a multi-omics approach combined with systems modeling to develop a comprehensive understanding of the physiology of this enterobacterium. These experiments should be carried out in tightly controlled physiological conditions in batch cultures and in chemostats under rigorous environmental manipulations.

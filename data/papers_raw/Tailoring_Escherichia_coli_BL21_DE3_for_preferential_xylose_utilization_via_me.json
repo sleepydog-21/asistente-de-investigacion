@@ -1,0 +1,11 @@
+{
+  "id": "40019617",
+  "title": "Tailoring Escherichia coli BL21 (DE3) for preferential xylose utilization via metabolic and regulatory engineering.",
+  "doi": null,
+  "authors": "Molina-Vázquez ER, Caspeta L, Gosset G, Martínez A",
+  "journal": "Applied microbiology and biotechnology",
+  "year": "2025",
+  "abstract": "Xylose is the most abundant pentose in nature. However, it is usually obtained in mixtures with glucose, leading to carbon catabolite repression in many microorganisms. Among E. coli lineages, significant metabolic and regulatory differences exist, requiring distinct metabolic engineering strategies to develop a xylose-selective phenotype in the strains W, K-12, and C. In this study, strain ES02 was engineered from Escherichia coli BL21 (DE3) as a xylose-selective strain by deleting the glk, ptsG, and manZ genes. However, when grown in a mixture of xylose and glucose, this strain's specific growth rate and xylose consumption rate decreased by about 50% compared to cultures with only xylose. A modified version of the xylose-responsive transcriptional activator XylR",
+  "source": "PubMed",
+  "pmcid": "PMC11870883"
+}

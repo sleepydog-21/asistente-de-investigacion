@@ -1,0 +1,111 @@
+However, prior to their attachment to uroepithelial cells, UPEC must surpass host defense mechanisms, including phagocytic attack by neutrophils (
+
+Bacteria have evolved various strategies to counteract and reduce the harmful effects of ROS/RCS stress. ROS/RCS significantly affect global gene expression, which often is a result of changes in the activities of redox-regulated transcriptional regulators. Posttranslational modifications of redox-sensitive amino acid side chains in these regulatory proteins affect their promoter DNA binding activity and ultimately the expression of the corresponding stress-protective target genes. Although HOCl is one of the most potent industrial and physiological antimicrobials (
+
+It is well accepted that neutrophils and the oxidative burst play a crucial role for the clearance of UPEC during UTI (
+
+In the bladder, UPEC is confronted with an onslaught of host defense mechanisms, including exposure to neutrophilic oxidants (
+
+UPEC strains show increased protection from HOCl stress compared with strains from other
+
+Effects of hydrogen peroxide (H
+
+In contrast to
+
+Next, we conducted RNAseq analysis to globally monitor changes in CFT073 gene expression in response to sublethal HOCl stress. CFT073’s chromosome shows a mosaic structure in the distribution of backbone genes, which are conserved between MG1655 and CFT073, and “foreign” genes that presumably have been acquired horizontally (
+
+Global gene expression changes in UPEC strain CFT073 in response to sublethal HOCl stress. Exponentially growing CFT073 cells were incubated with a sublethal concentration of HOCl (2.25 mM) for 15 min. Transcription was stopped by the addition of ice-cold methanol. Reads were aligned to the CFT073 reference genome (Accession number:
+
+Differentially expressed genes in HOCl-treated CFT073 compared with untreated. Download
+
+Including a gene cluster consisting of the three genes,
+
+The gene cluster consisting of
+
+The upregulation of the RcrR regulon plays a role for UPEC’s survival during exposure to HOCl but not to H
+
+Differentially expressed genes in Δ
+
+To determine whether any of the three genes play a role for CFT073’s HOCl resistance, we constructed strains with individual in-frame gene deletions and compared their HOCl sensitivities to wild-type cells using the LPE assay. Deletion of
+
+Next, we investigated whether MG1655, CFT073, and Δ
+
+We searched for the presence of the
+
+Distribution of
+
+Distribution of
+
+Accession numbers of
+
+To assess the ability of RcrR to bind to the operator sequence upstream of the
+
+The DNA binding activity of RcrR is inhibited by thiol oxidation after treatment with RCS
+
+The DNA binding activity of RcrR is inhibited by reversible thiol oxidation after treatment with HOCl but not with H
+
+To examine the role of RcrR’s four cysteines in DNA-binding and RCS-sensing, we constructed four His
+
+Given the reversible nature of RcrR’s dissociation from the promoter, we excluded the possibility that irreversible cysteine modifications such as sulfinic (–SO
+
+RcrR forms reversible intermolecular disulfide bonds upon exposure to HOCl. (A) 10 μM purified RcrR variants were either left untreated (–) or treated with a 5- (+) and 10- (++) molar ratio of HOCl for 15 min. Proteins were separated by nonreducing SDS-PAGE and visualized by Coomassie staining. The formation of dimers (indicated by the arrow) and higher oligomers was observed in all five HOCl-treated RcrR protein variants. Disulfide bond formation could be reversed by addition of 2 mM DTT (R). Results were verified in four independent experiments. (B)
+
+(A) 10 μM purified wild-type RcrR was either left untreated (–) or treated with a 5- (+) or 10- (++) molar ratio of H
+
+The Weblogo plot of RcrR homologs was constructed to visualize the conserved cysteine residues. Amino acid sequences of RcrR homologs from 31 different bacterial strains were extracted from NCBI BLAST. Alignment of the extracted sequences were performed using Clustal W and the aligned file was then used visualization with WebLogo. Download
+
+Our
+
+Substitution of Cys54 and Cys95 with serine results in the loss of RcrR’s repressor activity in culture. (A) Δ
+
+Our transcriptomic analyses revealed RcrR represses the regulatory target genes under nonstress conditions (
+
+How pathogens regulate their behavior in response to interactions with innate immune cells is fundamental for our understanding of host colonization and the role that bacterial pathogenicity plays in infectious diseases. The production of oxidative stress by the host in response to UPEC has been reported in several independent studies along with the identification of ROS defense systems and their contribution to UPEC pathogenicity (
+
+Treatment with sublethal concentrations of HOCl resulted in a concentration-dependent growth arrest in all
+
+In comparison to EPEC and nonpathogenic
+
+Expression of the RcrR regulon is controlled by the transcriptional regulator RcrR, which is encoded by one of the members of the operon (
+
+Bacteria have evolved numerous mechanisms on both transcriptional and posttranslational levels to fend off the toxic effects that come with the exposure to ROS/RCS. These include the conversion of ATP into the chemical chaperone polyphosphate, which was found to protect UPEC strains from HOCl-mediated protein aggregation (
+
+We now add a novel member to the growing list of HOCl-responsive transcriptional regulators in UPEC: RcrR. RcrR belongs to the TetR family of transcriptional regulators, which are mostly alpha-helical, active as dimers (
+
+The HOCl-sensing transcriptional repressor RcrR controls the expression of the UPEC-specific genes
+
+Given that the presence of H
+
+Many biofilm-forming bacteria respond to changes in the environment, such as exposure to RCS, by switching from a planktonic to sessile growth (
+
+All strains, plasmids, and oligonucleotides used in this study are listed in
+
+Strains, plasmids, and oligonucleotides used in this study. Download
+
+In-frame deletion mutants were constructed using the lamda red-mediated site-specific recombination. CFT073 genes
+
+The molar HOCl concentration was determined by measuring the
+
+Overnight LB cultures of the indicated strains were diluted 25-fold into MOPSg and cultivated until late exponential phase was reached (A
+
+Cultures of CFT073, Δ
+
+Overnight LB cultures of the indicated strains were diluted into MOPSg to an
+
+Samples of HOCl-treated and untreated CFT073 and Δ
+
+Human neutrophils were purified from fresh peripheral blood by Histopaque-1119 (Millipore Sigma) and subsequent discontinuous Percoll gradient centrifugation (
+
+Genomes from 196
+
+The
+
+His
+
+The DNA fragment (430 bp) containing the promoter region of
+
+Purified RcrR wild-type and variant proteins were exchanged into DTT-free buffer (50 mM Tris-HCl buffer [pH 7.5], 200 mM KCl, 0.1 mM MgCl
+
+Overnight MOPSg cultures of BL21(DE3) containing plasmids expressing His
+
+The Weblogo plot of RcrR homologs was constructed to visualize the conserved cysteine residues (

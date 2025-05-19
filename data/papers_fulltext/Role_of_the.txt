@@ -1,0 +1,111 @@
+Isoprenoid quinones are widely distributed in the three domains of life and globally act as electron and proton carriers (
+
+Aerobic UQ biosynthesis pathway includes nine steps (
+
+Anaerobic UQ biosynthesis is formed by a subset of the enzymes of the aerobic pathway, namely UbiA, UbiB, UbiC, UbiD, UbiE, UbiG, and UbiX, that function with UbiT, UbiU, and UbiV proteins solely required under anaerobiosis (
+
+In this work, we aimed at identifying the conditions under which UbiUVT proteins are produced and the genetic regulatory mechanisms involved, and the physiological role of UbiUVT. We concluded that (i) thanks to Fnr control, UbiUV ensures the production of UQ under a range of O
+
+Most knockout strains were obtained by generalized Φ P1 transduction using donor strains from the Keio collection (
+
+Strains used in this study
+
+For mouse intestine colonization experiments, we used MP7 and MP13 strains, which derive from the commensal
+
+pUA66 and pUA-
+
+Plasmids used in this study
+
+Primers used in this study
+
+Strains were grown in LB Miller (10 g/L of tryptone, 10 g/L of NaCl, and 5 g/L of yeast extract) or M9 medium (6 g/L Na
+
+For microaerobic experiments, media and plates were pre-equilibrated and cells were cultured in a Whitley H35 hypoxic station with 95% N
+
+For aerobic cultures, 5 mL of LB medium, supplemented with ampicillin (100 µg/mL) and 0.05% arabinose when necessary to induce the expression from the pBAD vectors, was inoculated with 100 µL of overnight culture in glass tubes (15 cm long and 2 cm in diameter) and incubated at 37°C, 180 rpm overnight.
+
+Anaerobic cultures were performed in Hungate tubes as previously described (
+
+For anaerobic to aerobic shift assay, MG1655 WT, Δ
+
+Total cell extracts were prepared by resuspending cell pellets in Laemli buffer 1× at a concentration of 0.3 optical density at 600 nm (OD
+
+We used several clones from the
+
+Cultures of 2, 5, or 10 mL were cooled on ice for at least 30 minutes before centrifugation at 3,200×
+
+MG1655 wild type (wt) and Δ
+
+Four-week-old female BALB/cByJ were purchased from Charles River Laboratories (Saint-Germain-Nuelles) and were acclimatized in a controlled animal facility under specific pathogen-free conditions for 2 weeks prior to the beginning of the colonization assay. Mice were randomly assigned to groups of three or five per cage, and ear punching was used to identify each mouse in a given cage.
+
+The colonization experiments were adapted and performed as previously described (
+
+The relative abundance of both competing strains was then monitored for several days post-inoculation in fecal samples. Fecal samples were collected from each mouse in pre-weighed 1.5-mL Eppendorf tubes containing the equivalent of 100-µL glass beads (diameter 0.25–0.5 mm) and 80-µL PBS, and the feces weight was determined. A volume of PBS was then added to each tubeto obtain a final concentration of 0.15 g of feces per 1-mL PBS. The feces were homogenized by vortexing for 2 minutes, serially diluted by 10-fold steps up to a 10
+
+To get further insight into the UbiUVT system
+
+Complementation of
+
+Remarkably, the expression of the pES154 plasmid was also able to suppress growth defects of the ∆
+
+Complementation of
+
+To confirm that phenotypic suppression was due to UQ
+
+UbiUV restores the UQ
+
+The results above showed that UbiUV hydroxylate UQ precursors, when expressed under aerobic conditions. This result raised the possibility that under such conditions, O
+
+Altogether, both phenotypic and UQ
+
+The UbiU and UbiV proteins each contain a [4Fe–4S] cluster, which is essential for the synthesis of UQ
+
+Genome-scale studies have predicted that
+
+Fnr controls UbiTUV expression and UQ biosynthesis under anaerobiosis. (
+
+Previous genome Chip-seq analysis reported binding of Fnr within the
+
+(
+
+To detail the molecular mechanism of regulation and to dissect the promoter organization of the intergenic region between
+
+Next, we introduced the same mutations in the F1 and F2 Fnr-binding sites at the locus in the
+
+Altogether, these results showed that Fnr activates
+
+We have previously reported that UbiU, UbiV, and UbiT are essential for the anaerobic synthesis of UQ in
+
+In the presence of glycerol and NO
+
+Role of
+
+In the presence of glucose as a carbon source and under aerobiosis, Δ
+
+Since enterobacteria evolve mostly in anaerobic conditions in their natural habitat, we evaluated the physiological importance of the O
+
+Quinones contribute differently to the colonization of the mouse gut by
+
+Phenotypic analysis above revealed that anaerobically UbiUVT-synthesized UQ
+
+First, we used Δ
+
+Role of
+
+Surprisingly, the ∆
+
+UQ
+
+Second, the role of the accessory factor, UbiT, was investigated using the ∆
+
+The
+
+UQ is an essential component of electron transfer chains and of respiratory metabolism. For decades, the dogma has been that UQ was exclusively used for aerobic respiratory metabolism, whereas DMK/MK was used for electron transfer in anaerobic respiratory chains. Following our recent discovery that UQ is also synthesized under anaerobiosis, which contradicted the above assumption (
+
+UbiUV-mediated UQ synthesis takes place under anaerobiosis. Here we showed that this is made possible by Fnr-mediated activation of expression of the
+
+UbiUV catalyzes hydroxylation of the benzene ring in the absence of O
+
+UbiUVT-synthesized UQ has a significant contribution to growth in anaerobiosis and microaerobiosis (0.1% O
+
+The contribution of anaerobically synthesized UQ for

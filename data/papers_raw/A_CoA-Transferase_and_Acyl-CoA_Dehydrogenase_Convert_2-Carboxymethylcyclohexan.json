@@ -1,0 +1,11 @@
+{
+  "id": "39702997",
+  "title": "A CoA-Transferase and Acyl-CoA Dehydrogenase Convert 2-(Carboxymethyl)cyclohexane-1-Carboxyl-CoA During Anaerobic Naphthalene Degradation.",
+  "doi": null,
+  "authors": "Kong Y, Riebe J, Feßner M, Schaller T, Wölper C, Stappert F, Meckelmann SW, Krajnc M, Weyrauch P, Schmitz OJ, Merten C, Niemeyer J, Hu X, Meckenstock RU",
+  "journal": "Environmental microbiology",
+  "year": "2024",
+  "abstract": "The CoA thioester of 2-(carboxymethyl)cyclohexane-1-carboxylic acid has been identified as a metabolite in anaerobic naphthalene degradation by the sulfate-reducing culture N47. This study identified and characterised two acyl-CoA dehydrogenases (ThnO/ThnT) and an intramolecular CoA-transferase (ThnP) encoded within the substrate-induced thn operon, which contains genes for anaerobic degradation of naphthalene. ThnP is a CoA transferase belonging to the family I (Cat 1 subgroup) that catalyses the intramolecular CoA transfer from the carboxyl group of 2-(carboxymethyl)cyclohexane-1-carboxyl-CoA to its carboxymethyl moiety, forming 2-carboxycyclohexylacetyl-CoA. Neither acetyl-CoA nor succinyl-CoA functions as an exogenous CoA donor for this reaction. The flavin-dependent homotetrameric dehydrogenase ThnO is specific for (1R,2R)-2-carboxycyclohexylacetyl-CoA with an apparent K",
+  "source": "PubMed",
+  "pmcid": "PMC11659651"
+}

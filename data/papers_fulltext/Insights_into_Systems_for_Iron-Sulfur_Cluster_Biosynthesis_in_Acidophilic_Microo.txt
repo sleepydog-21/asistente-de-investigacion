@@ -1,0 +1,57 @@
+Iron-sulfur (Fe-S) clusters are inorganic cofactors of proteins that play important roles in cellular processes, such as electron transport, catalysis, respiration, RNA modification and oxidation-reduction reactions in prokaryotic and eukaryotic cells [
+
+The structural versatility and chemical reactivity of Fe-S clusters mean that they have been incorporated as cofactors into many proteins. However, under oxidative stress, it is well known that reactive oxygen species (ROS) can damage these clusters, since they are the preferred target for superoxide ions (O
+
+In
+
+Assembly of Fe-S clusters is carried out on scaffold proteins. The Isc system contains a cysteine desulfurase (IscS) that releases sulfur from L-cysteine to form a persulfide bond with one cysteinyl residue of the protein, which is transferred to the scaffold proteins IscU and IscA. Iron ions are obtained for the synthesis from CyaY protein and another unknown source [
+
+Extreme acidophilic bacteria are of great interest due to their capacity to live under harsh environmental conditions such acidic pH, high osmolarity and high heavy metal concentrations [
+
+In this work, by using a bioinformatic approach, we evaluated the Fe-S cluster biosynthetic pathways in a number of acidophilic microorganisms. In addition, we characterized the organization of the
+
+Genome sequences from iron- and/or sulfur-oxidizing acidophilic Bacteria (25) and Archaea (8) with complete or draft genomes available in the DDBJ/EMBL/GenBank databases were selected for the analysis. For comparison purposes, the sequences of twelve neutrophilic model bacteria (11) and archaea (1) were also considered. The selected genomes were uploaded to RAST (
+
+Oxidative stress induction was carried out as described previously [
+
+Genomic DNA purification was performed according to [
+
+RNA was isolated using the RNeasy Mini Kit (Qiagen, Cat_74004, Germany). DNA was removed by DNase I treatment (Biolabs, New England) according to the manufacturer’s instructions. cDNA synthesis was carried out with the Affinity Script qPCR cDNA Synthesis kit (Agilent Technologies, Cat_600559, USA). The reaction mixture of 20 μl contained First Strand master mix, 0.1 μg/μl random primers, Affinity Script RT/RNase Block enzyme mixture, and 1 μg of RNA. The synthesis was carried out at 25°C for 5 min and then at 42°C for 15 min. The enzyme was inactivated at 65°C for 5 min and the cDNA was stored at -80°C.
+
+Co-transcription was studied by reverse transcription (RT)-PCR experiments. Primers for RT-PCR reactions (
+
+Primers of
+
+The activity of IscS in cell extracts was determined by measuring the production of thiocyanate from reaction mixtures containing cysteine, KCN, and protein extract, according to [
+
+The phylogenetic trees, using IscS and SufS protein sequences, were generated using the maximum-likelihood and JTT matrix-based model in the MEGA-X 10.1.8 software package [
+
+Statistical analysis was performed using the one-way ANOVA test followed by Turkey’s test in GraphPad Prism 9. The differences were considered significant at
+
+It has been reported that in
+
+The analysis of data (
+
+As described previously, the Isc system corresponds to the housekeeping mechanism for Fe-S center biosynthesis in
+
+Interestingly, the phylogenetic analysis (
+
+Acidophilic microorganisms are considered highly tolerant to the oxidative conditions that prevail in acidic bioleaching environments. Thus, the presence of a unique Isc system in acidophiles that are representative of the Nitrospira and Proteobacteria phyla suggests that, unlike
+
+The eight candidate genes were analyzed to evaluate their co-transcription using a RT-PCR approach in cells grown with ferrous iron under standard growth conditions. As can be seen in
+
+To elucidate whether the Isc operon from
+
+As observed in
+
+Since mRNA levels of
+
+Fe-S cluster proteins are one of the main targets of ROS. As mentioned above, lowering the content of Fe-S proteins in
+
+In agreement with previous studies carried out in (hyperthermo)acidophilic archaea, like
+
+In addition, in this study we found that acidophilic Gram-positive (including Firmicutes and Actinobacteria phyla), and Gram-negative bacteria (including Proteobacteria and Nitrospirae phyla) contain either Suf or Isc biosynthesis pathways, respectively. Surprisingly, we found that only neutrophilic Proteobacteria harbour genes for both Suf and Isc systems. It has been reported that disruption of either the
+
+In summary, this study showed the distribution and the sole presence of either Isc or Suf machinery in acidophilic microorganisms. Data also showed that IscS activity from
+
+Supplementary data for this paper are available on-line only at

@@ -1,0 +1,73 @@
+In 2023 10.8 million people fell ill with TB
+
+People with TB excrete lipoarabinomannan (LAM), a mycobacterial cell wall glycolipid, in urine
+
+Here, we validate the Biopromic TB-LAM assay (BP-LAM; Biopromic, Solna, Sweden), an improved and redesigned version of earlier proof-of-concept work
+
+We evaluated BP-LAM diagnostic accuracy in outpatients self-reporting with presumptive pulmonary TB to clinics in South Africa and Uganda. To inform adoption, we deliberately selected a population in whom testing using the first-generation LAM assay was typically done not. Critically, we used prototype and design-locked versions of BP-LAM and included people not able to naturally expectorate sputum.
+
+Adults (≥18 years) with presumptive TB had at least one (PLHIV) or two (HIV-negative) symptoms suggestive of TB (current cough, fever, night sweats, weight loss)
+
+The study was approved by the relevant institutional human research ethics committees (South Africa: Stellenbosch University N14/10/136, Western Cape Province WC_2016RP38_944; Uganda: Makerere University SBS-REC SBS-871, Uganda National Council for Science and Technology UNCST HS1527ES). Written informed consent was obtained.
+
+Data, including self-reported demographic information and clinical information, were captured using REDCap
+
+Participants were required to provide at least two sputa (≥1ml each) in a study (
+
+Participants were required to provide one sputum specimen (≥3ml). Sputum induction was not offered. Sputum was homogenised by vortexing
+
+Participants were asked for ≥20 ml urine in a 40 ml specimen collection jar. People who could not make urine were offered water to drink and waited. Aliquots were frozen (−20°C) and two 5 ml aliquots shipped for testing at Biopromic.
+
+Participants were asked to provide 50 ml of urine and aliquots frozen (−20°C). Two 5 ml aliquots for TB-negatives and three 5 ml aliquots for TB-positives were shipped.
+
+Participants with urine and a valid (positive or negative) eMRS were tested. South Africa and Uganda each consecutively selected 315 people with TB and 314 randomly selected eMRS-negatives.
+
+Urine was thawed at room temperature (RT) and 2 ml transferred using a plastic pipette to a 5 ml polypropylene tube with 100 μl SpClean. After 10 min, the tube was placed in a magnetic rack for 30–60s and cleaned urine transferred to another polypropylene tube. Capture beads (50 μl) with anti-LAM antibodies (Biopromic) were added to concentrate LAM. After mixing and 15 min incubation in a separate non-magnetic rack, the tube was replaced in the magnetic rack for 30–60 s, supernatant removed and discarded, and then, to release captured LAM from beads, 50 μl elution buffer (Biopromic) added and the mixture was incubated back in the separate non-magnetic rack for 5 min. Last, 50 μl neutralisation buffer (Biopromic) was added and the 100 μl mixture immediately applied to the lateral flow assay (LFA) strip.
+
+After 30 min, LFAs were scored both by eye by two trained operators blinded to all meta-data and each other and using an electronic reader
+
+Testing was done as recommended
+
+A TB case had at least one sputum test positive for
+
+The eMRS was the primary reference standard. An MRS (
+
+Urine from 629 people (282 South Africa, 347 Uganda) were evaluated. Ugandans were, compared to South Africans, younger, of higher BMI, less likely to have HIV and previous TB, and had fewer symptoms (
+
+No unsuccessful results (not positive or negative) occurred. There was 100% agreement for band lines between readers of each assay. BP-LAM band intensity positively correlated with markers of bacillary load (
+
+BP-LAM and LF-LAM had sensitivities of 63% [95% confidence interval (CI) 58, 69] and 22% (18, 27; p<0.001);
+
+BP-LAM and LF-LAM had specificities of 93% (90, 96) and 89% (85, 92; p=0.066) (
+
+BP-LAM specificity and negative predictive value (NPV) were higher in Uganda than South Africa [96 (92, 98) vs. 89 (82, 94); p=0.001; 79 (73, 83) vs. 61 (53, 69); p<0.001]. LF-LAM NPV was also increased [64 (58, 69) vs. 41 (35, 47); p<0.001]. Other metrics and conclusions were similar across countries (
+
+When sensitivity in people with CD4 counts ≤350 cells/μl was compared to those higher counts, BP-LAM [71% (57, 82) vs. 61% (43, 77); p=0.331] nor LF-LAM sensitivity did not differ [35% (22, 49) vs. 25% (12, 42); p=0.335] (
+
+Sensitivity was similar between versions [57% (51, 63) vs. 63% (58, 69); p=0.117] but specificity [85% (80, 88) vs. 93% (90, 96); p<0.001] and PPV [79% (73, 84) vs. 90% (86, 94); p<0.001] of the design-locked version higher. These conclusions were unchanged with the MRS, except for improved specificity and PPV of the design-locked version in HIV-negatives compared to when the eMRS was used (
+
+Five percent (28/595) of cultures were NTM-positive MTBC culture-negative. Of these, 43% (12/28) were eMRS-positive (Ultra-positive). In eMRS-negative NTM-positives, 25% (4/16) were BP-LAM-positive and 19% (3/16; p=0.669) LF-LAM-positive [13% (2/16) positive by both]. In secondary analyses with NTM-positives excluded, small specificity increases occurred (
+
+The proportion of BP-LAM-positive people was double that of LF-LAM [35% (220/629) vs. 17% (104/629; p<0.001)]. A greater proportion BP-LAM-positives had a positive sputum test than LF-LAM-positives [90% (199/220) vs. 67% (70/104); p<0.001]. DYTs were 42% (263/629), 48% (299/629), 35% (220/629), and 17% (104/629) for culture, Ultra, BP-LAM, and LF-LAM, respectively (
+
+When calculations were restricted to people who had information on whether they required induction, DYTs were 82% (36/44), 86% (38/44), 64% (28/44), and 11% (5/44) for culture, Ultra, BP-LAM, and LF-LAM, respectively (
+
+False-positives were less likely to be male, more likely to be HIV-positive, and less likely to have reported weight loss. BP-LAM quantitative data was lower between false- and true-positives [16 (11–35) vs. 43 (14–691), p<0.001] only in Uganda. (
+
+Higher CD4 counts among PLHIV, previous TB, and lower burden of disease (longer time-to-positivity of MGIT960 culture, lower Ultra-positive SPC C
+
+Among eMRS-negatives, 7% (21/314) were BP-LAM false-positive. Of these, 19% (4/21) were NTM-positive (
+
+Our key findings are: 1) BP-LAM has higher sensitivity (63% vs. 22%) and similar specificity (~93%) to LF-LAM, 2) BP-LAM had similar DYT to Ultra in a programmatic scenario without sputum induction and diagnosed people with sputum-scarce TB, 3) BP-LAM false-negatives had milder disease than true-positives, suggesting BP-LAM positivity is associated with elevated mortality risk, 4) the BP-LAM design-locked version had comparable sensitivity and improved specificity compared to the prototype, and 5) BP-LAM false-positives were, together with other factors, were more likely to be NTM-positive. Together, these data represent a potential significant step forward for non-sputum testing for TB, especially in outpatients.
+
+BP-LAM had 63% sensitivity (~41% higher than the WHO-endorsed LF-LAM) with comparable specificity (93%). The WHO recently updated the non-sputum rapid test target product profile (TPP) to have minimum sensitivity targets of 65% and 75% (for POC and near-POC, respectively) and >98% specificity
+
+When BP-LAM sensitivity was compared across HIV statuses, no difference was observed; unlike that described for LF-LAM
+
+While BP-LAM had lower yield than sputum Ultra, when we accounted for sputum induction (the absence of which reduces the sputum test yield), Ultra and BP-LAM had similar DYT. This demonstrates the value of BP-LAM (and urine tests in general) and motivates for evaluations of yield in types of people in which sputum scarce TB is most common (e.g., active case finding, children).
+
+Nineteen percent of people without TB who grew an NTM were BP-LAM false-positives (9% for LF-LAM-positive). Potential causes of false-positive LAM results have been discussed extensively and include extrapulmonary TB, reference standard limitations, mixed MTBC-NTM infections with minority MTBC populations, culture bias, and environmental contamination
+
+This study has strengths and weaknesses. It consecutively enrolled both HIV-negative people and PLHIV from two epidemiologically different TB-endemic regions in East and South Africa, included the WHO-endorsed LF-LAM as a comparator
+
+In summary, BP-LAM, a next-generation urine assay, has the potential to enhance rapid TB diagnosis for all people in outpatient clinics with presumptive TB irrespective of HIV status and ability to make sputum. BP-LAM’s diagnostic yield is likely superior to widely-deployed sputum tests like Ultra when applied to populations that include people with sputum scarce TB. BP-LAM performance and effect warrants further prospective evaluation.

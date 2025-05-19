@@ -1,0 +1,85 @@
+Bacterial antimicrobial resistance (AMR) is a growing threat to public health, and few effective drugs are currently available to treat complex bacterial infections (
+
+Tigecycline is the first glycylcycline-class antimicrobial to be used as a last-resort treatment for counteracting multidrug-resistant bacterial infections (
+
+Characterization of the regulation by TNfxB and NfxB. (
+
+Based on our previous studies, three novel MDR transporter gene clusters,
+
+Various antibiotic susceptibility profiles (MICs, mg/L) of strains in this study
+
+TIG, tigecycline; TET, tetracycline; CQM, cefquinome; FEP, cefepime; STR, streptomycin.
+
+Given that efflux pump-mediated antibiotic resistance is highly correlated with the expression of efflux pump genes, we next selectively measured the expression of
+
+Next, we investigated the regulatory effect of the three TNfxB proteins and NfxB on the expression of
+
+To compare the functions of these regulators, we aligned three TNfxB isoforms (TNfxB1, TNfxB2, and TNfxB3) with NfxB (
+
+In addition, to assess whether this residue substitution affected protein expression, TNfxB or NfxB in pHSG575-tnfxB/nfxB-tmexCD1-toprJ1 was tagged with FLAG at the C-terminal end. The FLAG tag had no impact on regulator function (Table S2). In the western blot assay, TNfxB1 and TNfxB3 displayed similar protein levels, as did NfxB and NfxB
+
+Interaction between TNfxB or NfxB protein and the operator DNA. (
+
+Because TFR functions by binding to its target operator DNA, we purified four TNfxB proteins, TNfxB1, TNfxB2, TNfxB3, and TNfxB3
+
+To determine the location of T39 in the TNfxB3 and NfxB proteins, we searched for resolved TFR structures that showed homology with TNfxB3, and only LfrR in
+
+Importantly, we found that 20 pmol of NfxB was sufficient to completely shift the promoter DNA fragment, whereas 50 pmol of TNfxB2 and TNfxB3 were required (
+
+DNA-protein binding analysis of TNfxB3 and NfxB and their phylogenetic relationship. (
+
+To examine the conservation of position 39 among TNfxB-like homologs, a broader set of 95 TNfxB-like homologs with greater than 60% amino acid identity was selected to construct a phylogenetic tree (
+
+As shown above, TNfxB3 can bind to the intergenic sequence of
+
+Identification of TNfxB3 DNA-binding site and the comparison of P
+
+Furthermore, because of the left IR sequences covering the −35 region of P
+
+Among the currently reported
+
+Subsequently, to assess the effect of the expression of the four operons on bacterial fitness, we measured bacterial growth curves. The expression of
+
+To analyze the current distribution of
+
+Global dissemination of
+
+Horizontally acquired ARGs drive the rapid occurrence and evolution of AMR (
+
+NfxB belongs to the TFRs (
+
+Although the 39th residue in TNfxB3 and NfxB is threonine, our data revealed that TNfxB3 mediates a weaker downregulation effect than its progenitor NfxB. This is because TNfxB3 exhibits a relatively lower operator DNA-binding ability than the progenitor NfxB. Furthermore, NfxB expression was significantly higher than TNfxB3 expression. In addition to transcription, protein synthesis and degradation are involved in cellular protein production (
+
+In addition to transcription factors, the promoters of ARGs affect their transcription efficiency, leading to different drug resistance phenotypes (
+
+Epidemiological analysis of GenBank data showed that Enterobacteriaceae are the primary carriers of the high-level MDR gene clusters
+
+Efflux pumps participate in various aspects of bacterial physiology except for their role in antimicrobial resistance, such as bacterial quorum sensing (QS) response (
+
+In summary, our study provides a comprehensive understanding of the progressive evolution of the MDR determinant
+
+Schematic diagram of regulation models of
+
+The bacterial strains and plasmids used in this study are described in Table S3. Recombinant plasmids and site-directed mutagenesis were constructed using a seamless assembly cloning kit (Clone Smarter) with the primers listed in Table S4. The constructs were confirmed using PCR and Sanger sequencing. The MICs of these strains against five antibiotics (tigecycline, tetracycline, cefquinome, cefepime, and streptomycin) were determined by broth dilution or agar dilution assays according to Clinical and Laboratory Standards Institute guidelines (
+
+The total RNA of the recombinant strains was extracted using the TRIzol method with a HiPure Bacterial RNA Kit (Magen, China) according to the manufacturer’s instructions. A NanoDrop spectrophotometer (Thermo Fisher Scientific, Waltham, MA, USA) and agarose gel electrophoresis were used to assess the concentration and quality of RNA, and cDNA was synthesized using an RNA Reverse Transcription Kit (TsingKe Biotech, China). qPCR was performed to measure the expression levels of efflux pump genes using the Tsingke Master qPCR Mix (TsingKe Biotech, China) with primers (Table S4) and the 16S rRNA gene as an internal reference. Based on a previous report, the 2
+
+This assay was conducted based on previous studies (
+
+The transcriptional start sites of
+
+C-terminal FLAG-tagged
+
+Open-read fragments of
+
+This assay was conducted using a Thermo EMSA kit (Thermo Fisher Scientific). Briefly, the DNA fragment containing the intergenic sequence between
+
+The intergenic region of
+
+The interaction between TNfxB3 or NfxB and the operator DNA was further assessed using a Biacore X100 system (GE Healthcare). Biotinylated double-stranded DNA (81 bp, 10 µM) containing the two IRs was synthesized by Beijing Tsingke Biotech Co., Ltd. and immobilized on a streptavidin sensor chip (GE Healthcare) at a density of 500–600 resonance units. The TNfxB3 and NfxB proteins were serially diluted in PBS buffer at concentration ranges of 125–1500 nM and 62.5–1000 nM, respectively. The binding assay was performed at 25°C and a flow rate of 30 µL/min with PBS as the running buffer. The protein was injected and allowed contact with the DNA surface for 2 min, followed by 400 s of buffer flow to record the dissociation. Regeneration was performed using 10 mM Gly\HCl (pH 3) for 1 min, followed by 2 M MgCl
+
+The structures of NfxB and TNfxB3 were generated by RosettaFold protein structure prediction (
+
+A total of 95 TNfxB-like proteins with greater than 60% amino acid identity were selected and obtained from the GenBank database for alignment. MegaX was then used to construct a neighbor-joining phylogenetic tree (
+
+All experiments were performed in biological triplicates and data were presented as means ± SD. GraphPad Prism 6 was employed for statistical analysis. Two-tailed unpaired

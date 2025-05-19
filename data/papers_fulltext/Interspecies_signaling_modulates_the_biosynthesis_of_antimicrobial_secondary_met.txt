@@ -1,0 +1,73 @@
+Rhizosphere microorganisms, known as plant-associated microbial communities, are composed of diverse bacteria affecting plant development (
+
+PLT acts as an endogenous signal and autoinduces the activation of the LysR-type regulator PltR and TetR-type regulator PltZ, which positively and negatively regulate the
+
+Rhizosphere microorganisms release vital signals that shape microbial communities, with antibiotics at low concentrations acting as intra- and interspecies signals. However, the mechanisms of these signals in coordinating gene expression are largely unclear. Investigating the potential of PLT as an interspecies signal is important for understanding the interspecies communications in
+
+The bacterial strains, plasmids, and primers used in this study are listed in
+
+All strains were grown to stationary phase in LB medium and then diluted in KB medium. The initial turbidity of each
+
+A two-step homologous recombination method was used to construct an in-frame deletion mutant of
+
+The production of 2,4-DAPG was quantified using high-performance liquid chromatography (HPLC) following the method described by Bonsall et al. (
+
+Total RNA was extracted by the TRIzol method. Samples were harvested by centrifugation at low temperatures, and then total RNA was extracted by TRIzol and chloroform. The cDNAs were synthesized by using RT-PCR Kit (HiScript III RT SuperMix for qPCR, Vazyme). For real-time PCR experiments, each PCR reaction (20 μL) contained 10 μL of AceQ Universal SYBR qPCR Master Mix (Vazyme), 2 μL of cDNA samples, and 0.2 μM primers. The reactions were performed in a QuantStudio 6 Flex Real-Time PCR System. Quantitative analysis of the initial template was achieved by real-time monitoring of the fluorescence signal changes during the PCR reaction. The 16S rRNA gene was set as an internal reference to normalize the data, and The −ΔΔCT method was used for relative quantification. Three independent experiments were performed, and the error bars were calculated.
+
+The recombinant protein of PhlH was expressed and purified, as described in our previous study (
+
+6-Carboxyfluoresce in-labeled DNA fragments were obtained by annealing primers. The DNA fragments were added at a concentration of 0.2 µM and incubated at room temperature for 10 min with protein PhlH and PhlF in a buffer containing 0 mM Tris–HCl at pH 8.0, 0.5 mM KCl, 6 mM MgCl
+
+Isothermal titration calorimetry (ITC) experiments were performed at 25°C, employing a MicroCal iTC200 instrument (GE Healthcare). The proteins (PhlH and PhlF) and ligands (2,4-DAPG and PLT) were dissolved in a buffer containing 20 mM Tris–HCl, pH 8.0, 100 mM NaCl, and 0.5% (vol/vol) dimethyl sulfoxide (DMSO) and degassed before use. The sample cell was loaded with 220 µL protein samples PhlH at 20 μM or PhlF at 50 μM, whereas the injection syringe was loaded with 40 µL PLT at 0.3 or 0.75 mM. An initial 0.4 µL injection, which was subsequently removed during data analysis, was followed by 19 injections of 2.0 µL each. These injections were spaced at 2 min intervals. Additionally, heats of dilution were determined by titrating the PLT into a solution buffer (20 mM Tris–HCl, pH 8.0, 100 mM NaCl, 0.5% (vol/vol) DMSO and subtracted from the raw titration data. Data analysis was performed with the MicroCal Origin software accompanying the ITC instrument.
+
+The upstream
+
+The phylogenetic tree was constructed using the bootstrap neighbor-joining (NJ) method with a confidence level of 1,000 replicates in MEGA version 11.0 (
+
+Statistical analyses were performed using GraphPad Prism version 10.2.1. A two-way analysis of variance with multiple comparison test was used to assess significance among all groups. For comparisons between two means, a two-tailed Student’s
+
+Considering the limited research on the effects of environmental factors and nutrients on PLT production, it is difficult to fully determine the exact concentration of PLT synthesized in the environment.
+
+To assess the effects of PLT on bacterial physiology, we compared the growth characteristics of non-PLT-producing
+
+Effect of PLT on growth and 2,4-DAPG production of
+
+We treated
+
+Considering the potential simultaneous effects of 2,4-DAPG and PLT on the transcription of
+
+To further investigate the potential influence of the low levels of 2,4-DAPG on decreased transcription of
+
+The PhlH from
+
+Transcription regulators PhlF and PhlH can bind PLT for regulating the
+
+Thermodynamic parameters obtained by isothermal titration calorimetry for TetR-type repressors PhlH and PhlF binding to PLT or 2,4-DAPG
+
+Data from reference (
+
+The transcription levels of
+
+To confirm the roles of PhlH and PhlF in regulating the
+
+In response to PLT, PhlH regulates the expression of
+
+Further analysis using HPLC confirmed a significant reduction in 2,4-DAPG production in the 2P24Δ
+
+The metabolic co-regulation between 2,4-DAPG and PLT biosynthetic pathways has been identified in strains of
+
+The PhlF and PhlH share similarities with the ligand-binding domain (LBD). (
+
+To explore the functions of these regulators in sensing signals, we analyzed the homology of PhlH and PhlF from representative strains
+
+Rhizosphere microorganisms have evolved the capability to produce and release signals that play crucial roles in shaping microbial communities, influencing both microbial competition and cooperation (
+
+Antibiotics are effective against competitors only above a certain threshold concentration, requiring a sufficiently high density of cells (
+
+Considering the perspective of these antibiotics as intraspecies signaling, we propose that PLT can act as an interspecies signal to manipulate non-PLT but 2,4-DAPG-producing
+
+The DBD of the TetR family repressor is well known for its role in interacting with the DNA major groove, and its LBD is responsible for binding a wide range of diverse ligands (
+
+In summary, our study provides new insights into interspecies signaling, demonstrating how PLT inhibits 2,4-DAPG production in
+
+Schematic representation of TetR repressors PhlH and PhlF from the 2,4-DAPG biosynthetic gene cluster positively regulated the hydrolysis of 2,4-DAPG and negatively regulated 2,4-DAPG synthesis in response to interspecies signal PLT.

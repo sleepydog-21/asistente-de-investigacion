@@ -1,0 +1,66 @@
+Terpenes are the largest and structurally most diverse group of natural organic products [
+
+Identification of novel terpene synthases (TSs) can immensely expand the range of terpene products and their applications, together with rapid advances in platform microbial engineering [
+
+In a complementary approach, Withers et al. showed the potential of function-based genome mining to screen biosynthetic elements of terpene and terpene derivatives from bacterial genomes. The system employed the toxicity of excessive prenyl pyrophosphates in
+
+Here we present a functional metagenomics approach for screening TSs by finely optimizing the precursor toxicity mechanism [
+
+Schematic illustration of the precursor toxicity-based functional metagenomic screening system
+
+We hypothesized that the toxicity of prenyl pyrophosphate pools, namely, precursors of terpene biosynthesis, could be harnessed to functionally search through the vastly uncharacterized genomic content of environmental microbial communities for enzymes catalyzing terpene biosynthesis. To test this hypothesis, we devised a precursor toxicity-based functional metagenomics approach (Fig.
+
+Construction and optimization of the precursor toxicity-based functional metagenomic screening system.
+
+Spontaneous mutations under lethal stresses may allow
+
+Positive controls of both host strains exhibited comparable colony numbers on the 8 mM mevalonate plate and the non-selective plate with no mevalonate (Fig.
+
+Control of spontaneous mutagenesis during the precursor toxicity-based screening.
+
+To validate the capability of the optimized toxicity-based screening to isolate TSs from libraries containing both TS ORFs and non-TS ORFs, the screening procedure was simulated with well-characterized TSs and GFP. We adopted limonene synthase from
+
+Human fecal and soil metagenomic library plasmids were transformed into the LowMut pA5c–MBIS strain (see “
+
+Despite these screening steps, we identified false positives from the selected libraries which apparently evaded the selection pressure without bona fide TS activity. 6 library plasmids included ORFs predicted to encode multidrug and toxic compound extrusion (MATE), auxin efflux carrier (AEC), or ATP-binding cassette (ABC) transporters (Additional file
+
+Amino acid sequences of all ORFs from the selected library plasmids were novel (see Additional file
+
+The contig containing TS10F1 was discovered from multiple library plasmids of a human fecal metagenome (Fig.
+
+Characterization of TS10F1.
+
+The β-farnesene production in detectable levels by the positive and negative control strains connotes the evasion of the toxic accumulation of FPP by the plasticity of terpenoid biosynthesis in
+
+We selected
+
+Microbial production of β-farnesene from glucose via TS10F1.
+
+This study demonstrated the potential of precursor toxicity-based functional metagenomic screening as a platform for bioprospecting novel TSs from uncultivated microbiota. We envision that this approach can be exploited further to identify additional novel TSs from other bioresources than the human fecal and soil samples used in this study. Furthermore, the selection pressure of functional metagenomic screening can be redesigned to discover other valuable metabolic functions residing in the metagenomes of uncultivated organisms, such as bioconversion of toxic compounds and decomposition of recalcitrant wastes [
+
+To enhance the functional metagenomic screening efficiency for TSs, improved control of false positives during the screening step would be required. Although the mutation rate of the LowMut strain is close to zero [
+
+The current study exploits functional metagenomics for screening TSs from metagenomic libraries based on the toxicity of prenyl pyrophosphates, the universal precursors of terpenes. The selection pressure of the functional metagenomic screening was optimized by controlling prenyl pyrophosphates biosynthesis via the MBIS pathway and mevalonate supplementation. An ORF, TS10F1, encoding a novel β-farnesene synthase from a human fecal metagenomic library was discovered through functional metagenomic screening and subsequent functional validation. Recombinant
+
+Sanger sequencing was performed by Genewiz (Azenta Life Sciences, Chelmsford, MA), PCR was performed using Q5 HighFidelity DNA polymerase (New England Biolabs, Ipswich, MA), and codon-optimization and DNA fragment synthesis were accomplished through Integrated DNA Technologies (Coralville, IA). Plasmids and primers used in this study are described in Additional file
+
+The MBIS operon [
+
+Colony forming units (CFUs) of cell solutions of two positive controls (LowMut pA5c–MBIS pZE21–MsLim and LowMut pA5c–MBIS pZE21–AgBis) and one negative control (LowMut pA5c–MBIS pZE21–GFP) were measured via spotting assay on LBKC plates and frozen at − 80 °C with 20% glycerol. Two positive control strain cells were mixed with approximately 10
+
+Metagenomic library plasmids used in this study were previously prepared by cloning sheared metagenomic DNA fragments (2–5 kb) of human fecal specimens collected from El Salvador (40101, 40203, and 40301) or soil samples from Michigan (S18) [
+
+Metagenomic insert region sequences of the selected library plasmids were identified via Sanger sequencing. The sequencing was performed initially with primers 5253 and 5254 and continued with new primers designed based on the initial sequencing results. Amino acid sequences of the ORFs were analyzed using protein BLAST (
+
+To investigate putative products of the screened TS in vivo, BL21(DE3) transformed with pA5c–MBIS and the TS expressing plasmid was recovered in 5 mL LBKC at 37 °C overnight. Recovered cells were harvested, washed in sterilized PBS, and inoculated into 5 mL EZ rich defined medium (Teknova, Hollister, CA) with kanamycin and chloramphenicol in a glass tube at initial OD600nm 0.1. 12 mM mevalonate and 0.1 mM IPTG were supplemented at OD600nm 0.5. After adding 0.5 mL filtered dodecane, the cultures were continued at 20 °C. Dodecane layer was collected at 10-, 24-, 34-, and 48-h timepoints.
+
+To perform in vitro enzyme assays, target TS protein was overproduced in BL21(DE3) without pA5c–MBIS. The production culture was performed in 200 mL LB with kanamycin (LBK) in a 1 L baffled flask at initial OD600nm 0.1, and IPTG was added to a final concentration of 0.1 mM at OD600nm 0.5. Then the culture was continued at 20 °C for 18 h. Target TS protein was extracted and purified using HisTALON™ Gravity Columns Purification Kit (Takara Bio, San Jose, CA). Purified protein samples were desalted using Amicon® Ultra-0.5 10 K (MilliporeSigma) and concentrated to 1 μg/μL in 2X reaction buffer (80 mM MgCl2, 8 mM MnCl2, 8 mM DTT, 50 mM HEPES, pH 7.2). The enzyme reaction was initiated in a glass vial by combining 100 μL of the concentrated enzyme solution with the mixture of 100 μL of the mixture of a potential substrate (GPP or FPP, 0.1 mM) and a cofactor (NADH, NADPH, 0.1 mM, or water) in water. To rule out the spontaneous conversion of substrates and define the baseline chromatogram for the gas chromatography–mass spectrometry (GC–MS) analysis of reaction products (see “
+
+A selected TS ORF was codon-optimized, amplified, and introduced into pRS426_P
+
+Yeast strains were recovered from frozen glycerol stocks on SCD-3 plates in a 30 °C incubator. A single colony of each strain was inoculated in 5 mL of SCD-3 broth and grown at 30 °C and 250 rpm overnight as a seed culture. For precultures, seed cultures were transferred into fresh 5 mL liquid SCD-3 at initial OD600nm 0.5 and incubated for additional 6 h. Main cultures were performed with 50 mL of SCD-3 in a 250 mL baffled flask at initial OD600nm 0.1. After inoculation, 5 mL of filtered dodecane was added to capture β-farnesene, and flasks were incubated at 30 °C, 300 rpm. Culture broth (bottom) was collected for tracking yeast cell growth, glucose, and soluble extracellular metabolites. The dodecane layer (top) was analyzed to quantify the targeted terpene and its hydrophobic derivatives. Intracellular hydrophobic metabolites were extracted from the cell pellets following the procedure previously described [
+
+Terpenes and terpene derivatives collected in dodecane were analyzed through GC–MS composed of Agilent 7820A GC equipped with an HP-5 ms column and 5977E MSD (Agilent Technology, Wilmington, DE). The split ratio was 1:1, and filaments were heated at 250˚C for 2 min. The initial temperature of the column oven was 100˚C for 3 min, followed by a 10˚C/min ramp to 280˚C for 3 min. Dodecane samples from in vitro enzyme assays and yeast cultures were analyzed using 7890 GC and 5977B MSD (Agilent Technology) in identical conditions. Terpenes were identified using the National Institute of Standards and Technology (NIST) database. The identification results were confirmed and quantified using corresponding standard chemicals.
+
+Microbial cell density in the culture broth was monitored by absorbance at 600 nm (A600) using DiluPhotometer (Implen, Westlake Village, CA). Glucose and extracellular metabolites in culture broth were quantified by HP 1050 HPLC system equipped with 1100 Refractive Index Detector (Agilent Technology), Rezex ROA Organic Acid H + (8%) column (Phenomenex, Torrance, CA), and 0.005 N H2SO4 as a mobile phase (0.6 mL/min and 50 °C).
+

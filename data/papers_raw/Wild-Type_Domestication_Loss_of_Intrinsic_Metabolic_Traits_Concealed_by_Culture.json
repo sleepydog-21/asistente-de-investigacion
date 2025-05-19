@@ -1,0 +1,11 @@
+{
+  "id": "39567391",
+  "title": "Wild-Type Domestication: Loss of Intrinsic Metabolic Traits Concealed by Culture in Rich Media.",
+  "doi": null,
+  "authors": "Vezina B, Cooper HB, Wisniewski JA, Parker MH, Jenney AWJ, Holt KE, Wyres KL",
+  "journal": "Microbial ecology",
+  "year": "2024",
+  "abstract": "Bacteria are typically isolated on rich media to maximise isolation success, removing them from their native evolutionary context. This eliminates selection pressures, enabling otherwise deleterious genomic events to accumulate. Here, we present a cautionary tale of these 'quiet mutations' which can persist unnoticed in bacterial culture lines. We used a combination of microbiological culture (standard and minimal media conditions), whole genome sequencing and metabolic modelling to investigate putative Klebsiella pneumoniae L-histidine auxotrophs. Additionally, we used genome-scale metabolic modelling to predict auxotrophies among completed public genomes (n = 2637). Two sub-populations were identified within a K. pneumoniae frozen stock, differing in their ability to grow in the absence of L-histidine. These sub-populations were the same 'strain', separated by eight single nucleotide variants and an insertion sequence-mediated deletion of the L-histidine biosynthetic operon. The His",
+  "source": "PubMed",
+  "pmcid": "PMC11579175"
+}

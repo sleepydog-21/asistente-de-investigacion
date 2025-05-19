@@ -1,0 +1,80 @@
+The evolutionary success of polycistronic operons has been attributed to their contribution to the organization of metabolic pathways, which ultimately allowed organisms to become less dependent on exogenous sources of organic compounds [
+
+Type 1 fimbriae are adhesive surface appendages present mainly in
+
+As an additional test of the polar mutagenesis strategy, we genetically modified the
+
+We showed in this study that genome editing with CRISPR/Cas12a engineering can be readily used to shutdown the transcription of whole polycistronic transcriptional units, and we studied how some mutagenesis strategies can induce polar effects. Modifying or deleting the
+
+We set out to disrupt the
+
+Design of Cas12a-dependent mutagenesis of the
+
+Terminator sequences have a strong tendency to form secondary structures, as illustrated by a set of terminator transcripts shown in Additional file
+
+To characterise the effect of the different mutations, we verified the functionality of the
+
+Agglutination assay of
+
+To verify the efficiency of the different mutations in exerting a polar effect, we tested the functionality of the
+
+We wanted to directly observe fimbriae formation, so we monitored the bacterial cells by Atomic Force Microscopy (AFM). Earlier fluorescence microscopy measurements have shown an increase in fimbriae formation in liquid static cultures of
+
+Atomic force microscopy (AFM) and agglutination tests with bacteria from static cultures.
+
+To quantify the extent of a polar effect in each of the
+
+Quantitative PCR analysis of
+
+We also measured the levels of
+
+As described above, we found a significant difference between the wild type and the stop codon mutant (
+
+We wanted to compare whether other terminator sequences also had decreased mutagenesis efficiency. We designed complementary oligonucleotides for each mutation to form dsDNA donor molecules for homologous recombination and Cas12a-mediated positive selection of mutant cells [
+
+Effect of the terminator sequences on mutagenesis efficiency.
+
+We wanted to study the effect of introducing polar and non-polar mutations in a different polycistronic transcriptional unit, and for this we studied the
+
+Design of Cas12a-dependent mutagenesis of the
+
+We first explored the effect of these mutations on their ability to grow in minimal medium supplemented with glucose, as previously shown [
+
+Phenotypic characterization of
+
+We also measured the expression of the genes
+
+Next, we compared the Δ
+
+Effect of mutations in the
+
+In this study, we used artificial terminator sequences to modulate and shut down the transcription of the
+
+The efficiency of genome engineering in bacterial strains has been shown to depend on the efficiencies of gRNAs to direct Cas9 DNA cleavage and donor oligonucleotides [
+
+The
+
+The finding that markerless mutations causing shutdown of the whole
+
+On the one hand, the reduced number of terminator sequences used here represents a limitation of this study considering that terminator sequences can affect transcription in
+
+In summary, in this study we show that Cas12a can be used to efficiently introduce markerless insertions in
+
+To introduce polar and non polar mutations in the
+
+To design Cas12a crRNA targeting
+
+To observe yeast cell agglutination, wild type or mutant MG1655 was grown overnight for 16 h on Luria agar plates as described previously [
+
+To isolate RNA, we used the modified method described by Blomberg et al. [
+
+To perform qPCR we used SYBR Green master mix (ThermoFisher) according to the manufacturer's instructions. To analyse the expression of
+
+To prepare AFM samples, punch-holed 1 cm pieces of muscovite mica were immobilized on metal supports using double-sided tape. The static cultures were diluted ten times in ultrapure milliQ water. A drop of 100 μl from the diluted bacterial suspension was then placed on the mica right after cleaving it with laboratory tape. The suspension was incubated for 20 min to allow adhesion of bacteria and the liquid was exchanged three times with ultrapure milli Q water. The samples were placed in the chemical hood and left to dry for a minimum of 5 min. The presence of bacteria on the mica was verified using an optical system mounted on the AFM and a random area was selected for imaging. AFM imaging was performed in a MultiMode8 instrument (Bruker) in force tapping mode using the ScanAsyst software at a rate of 1 Hz and ScanAsyst tips with a nominal spring constant of 0.4 N/m. The images shown in Fig.
+
+Bacterial cells were grown overnight in AB minimal medium [
+
+The method was modified from Yang et al. [
+
+Statistical analysis was performed in R and GraphPad Prism. Linear regression statistical analysis was performed in R to obtain the p value of the R
+

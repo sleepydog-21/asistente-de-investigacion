@@ -1,0 +1,81 @@
+The last two decades have been marked by the development of DNA-DNA proximity ligation approaches, known as C-methods, which enabled deciphering the spatial organization of the genome across all domains of life, from bacteria to humans
+
+More recently, RNA–DNA proximity ligation-based methods have entered the scene, being proved useful in the analysis of the genomic distribution of various noncoding RNAs, such as XIST, MALAT, NEAT, RoX, enhancer RNA, and spliceosomal RNAs, in several eukaryotic species, including mammals, flies, and plants
+
+Here, we used RedC to analyze the RNA–DNA interactomes of two bacteria and one archaeon. We studied the distribution of noncoding RNAs along the genome and demonstrated that in both bacteria and archaea, ribosomal RNAs are enriched at active protein-coding genes, indicating the coupling between transcription and translation. We have also shown that in bacteria, 6S noncoding RNAs are depleted from active protein-coding genes, which is consistent with their negative role in the regulation of bacterial transcription. Finally, we use RNA–DNA interaction data to trace the movement of polycistronic messenger RNAs along operons during transcription.
+
+The RedC experimental protocol for mapping RNA–DNA interactions is based on formaldehyde fixation of RNA–protein–DNA complexes in vivo followed by ligation of RNA and DNA fragments present in one nucleoprotein complex via a biotinylated bridge adapter with subsequent identification of ligated fragments using paired-end sequencing
+
+The number of contacts identified for individual RNAs correlated well between the biological replicates (Supplementary Fig.
+
+The contact maps are characterized by the presence of diagonal and horizontal lines. We noticed that the diagonal signals most frequently correspond to the positions of protein-coding genes, indicating that mRNAs are predominantly captured near the place of their synthesis on a chromosome, while the horizontal lines typically correspond to tRNAs and rRNAs, indicating their widespread chromosomal distribution (Supplementary Figs.
+
+We then analyzed the distribution of mRNA contacts near the encoding gene, focusing on the data from
+
+In contrast to mRNAs, rRNAs and tRNAs demonstrate widespread distribution and are not markedly enriched at the place of their synthesis (Fig.
+
+In agreement with our hypothesis, we found a positive correlation between the number of rRNA contacts and the transcriptional activity of protein-coding genes. The correlation is more evident for the top 10% of most active genes in
+
+In contrast to rRNA, 6S noncoding RNA, which is involved in the repression of σ70-dependent transcription of bacterial genes in the stationary phase
+
+In sum, the results of the present study demonstrate the validity of the RedC protocol for studying RNA–DNA interactomes of microbial species. Using this protocol, we observed the presence of polycistronic transcriptional units and provided new evidence for co-transcriptional translation in both bacteria and archaea. The application of RNA–DNA proximity ligation techniques to bacteria and archaea provides a new high-throughput means to study transcription mechanisms and the functions of noncoding RNAs in these diverse microorganisms. These techniques can also be used in microbiome studies to identify regulatory RNAs within individual microbial species on a community-wide level, explore possible DNA/RNA-mediated associations between species, assess the metatranscriptome, and detect events of infection of bacteria by RNA-containing bacteriophages.
+
+RedC procedure was performed as described previously in ref.
+
+Cells were resuspended in 1 mL PBS supplemented with 1× protease inhibitors (Bimake) and 200 U SUPERase.In RNase inhibitor (Invitrogen) and mechanically disrupted using a bead beater homogenizer (MP Biomedicals FastPrep-24) in 2 mL Lysing Matrix A tube at 6.0 m/s for 25 s at room temperature. Cells were centrifuged for 10 min at 16,100 ×
+
+Digested chromatin was pelleted for 10 min at 16,100 ×
+
+The 3′ OH ends of RNA were ligated with 5′ rApp ends of the bridge adapter (Supplementary Table
+
+To reverse formaldehyde cross-links and digest proteins, bead-chromatin complexes were resuspended in 470 µL proteinase K solution (100 mM NaCl, 10 mM Tris pH 7.5, 2 mM EDTA, 1% SDS), 30 µL proteinase K (20 mg/mL, Ambion) were added, and incubation for 1 h at 55 °C and then for 2 h at 65 °C followed. To precipitate RNA–DNA chimeras, 3 μL GlycoBlue (Thermo Scientific), 50 μL 3 M NaAC, and 550 μL isopropanol were added, and after overnight incubation at −80 °C, the mixture was centrifuged for 30 min at 16,100 ×
+
+RNA–DNA chimeras (4 μg) were digested with MmeI in a 120-μL reaction containing 1× NEB buffer 4, 0.1 mg/mL BSA (NEB), 80 μM SAM (NEB), 0.1 μM ds oligo with MmeI site (Supplementary Table
+
+After MmeI digestion, RNA–DNA chimeras were subjected to biotin pull-down. For this process, 7.5 μL of Dynabeads MyOne Streptavidin C1 beads (10 mg/mL, Thermo Scientific) were washed twice with 400 μL tween washing buffer (TWB) (5 mM Tris pH 7.5, 0.5 mM EDTA, 1 M NaCl, and 0.05% Tween 20) by repeating the resuspension/magnet separation. Streptavidin beads were resuspended in 120 μL 2× binding buffer (10 mM Tris pH 7.5, 1 mM EDTA, 2 M NaCl) and mixed with the solution after MmeI digestion followed by incubation for 15 min at room temperature to bind the biotinylated bridge to streptavidin beads. Streptavidin beads with tethered RNA–DNA chimeras were washed twice with 600 μL TWB, once with 100 μL 1× NEB buffer 2, once with 50 μL 1× First-Strand Buffer (Clontech), and resuspended in 38 μL reverse transcriptase solution (1× First-Strand Buffer (Clontech), 2.5 mM DTT (Clontech), 1 mM each dNTP, 1 μM switch template oligo (Supplementary Table
+
+After cDNA synthesis, streptavidin beads were washed twice with 600 μL TWB, once with 100 μL 1× NEB buffer 2, once with 100 μL 1× T4 DNA ligase buffer (Thermo Scientific), and resuspended in 48 μL DNA ligase solution (1× rapid ligation buffer (Thermo Scientific), 3 μM NN-adapter (Supplementary Table
+
+DNA-cDNA chimeras were amplified in 50 μL PCR containing 1× KAPA HiFi Fidelity Buffer, 0.3 mM each dNTP, 0.5 μM universal primer, 0.5 μM indexed primer (Supplementary Table
+
+The raw RedC reads were processed using the RedClib computational pipeline (
+
+DNA portions, RNA 3′ portions, and RNA 5’ portions were independently mapped to the CP025520, CP053102, and CP006646 reference genomes for
+
+We use RNA 3′ portions retrieved from the forward reads as described above. We assign RNA 3′ portions to genes by the featureCounts program using the GCA_002848225.1 assembly for
+
+For each RNA, we calculate the number of contacts this RNA establishes in four consecutive genomic intervals: ±5 kb of the middle of the encoding gene; 5–50 kb upstream and downstream of the middle of the encoding gene; 50–500 kb upstream and downstream of the middle of the encoding gene; and >500 kb of the middle of the encoding gene (Fig.
+
+We select a set of RNA–DNA contacts such that the RNA portion is mapped to the proper strand of a protein-coding gene, and the DNA portion is mapped anywhere in the genome. We calculate the distance between RNA and DNA portions d1 = |rna – dna|, where rna is the mapping coordinate of the RNA 3′ end, and dna is the mapping coordinate of the end of the DNA portion adjoining the NlaIII site. Because the genome is circular, we calculate the distance d2 = |d1 – L|, where L is the genome length, and consider the lesser of d1 and d2 as the distance at which contact occurred.
+
+We next determine if contact occurred upstream or downstream of the RNA 3′ end mapping coordinate, with respect to the direction of transcription. A contact is assigned upstream in the following cases: RNA is transcribed in the sense direction, rna – dna >0, and d1 < d2; RNA is transcribed in the antisense direction, rna – dna <0, and d1 < d2; RNA is transcribed in the sense direction, rna – dna <0, and d1 ≥ d2; RNA is transcribed in the antisense direction, rna – dna >0, and d1 ≥ d2. A contact is assigned downstream in the following cases: RNA is transcribed in the sense direction, rna – dna <0, and d1 < d2; RNA is transcribed in the antisense direction, rna – dna >0, and d1 < d2; RNA is transcribed in the sense direction, rna – dna >0, and d1 ≥ d2; RNA is transcribed in the antisense direction, rna – dna <0, and d1 ≥ d2.
+
+We then assign the contacts to upstream or downstream intervals of increasing length: [0, 64), [64, 128), [128, 256), [256, 512), [512, 1024), etc. Finally, we calculate the contact frequency by dividing the number of contacts in the intervals by the length of the intervals.
+
+We determine the number of contacts established with a protein-coding gene by all rRNA molecules (16S, 23S, and 5S) or by 6S RNA (Supplementary Data
+
+To estimate the transcriptional activity of a protein-coding gene, we calculate the number of contacts that mRNA transcribed from this gene establishes near the gene (we arbitrarily use the region ±5 kb of the middle of the gene). We note that the number of contacts of individual mRNAs with this region is proportional to the total number of contacts of these mRNAs with the genome (Supplementary Fig.
+
+We select a set of RNA–DNA contacts such that the RNA portion is mapped to the proper strand of a protein-coding gene, and the DNA portion is mapped anywhere in the genome. We divide operons of protein-coding genes with their flanking regions of half-operon length into 24 bins (12 bins for operon ± 6 bins for flanks) and plot a 24 × 24 RNA–DNA contact matrix for each operon. We then sum the contact matrices obtained for operons transcribed in the sense direction or for operons transcribed in the antisense direction.
+
+All experiments were performed in two biological replicates. Pearson correlation coefficient analysis of RNA–DNA contact matrices (Supplementary Figs.
+
+Further information on research design is available in the
+
+
+
+Razin_Peer Review File
+
+Supplementary Information
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Supplementary Data 3
+
+Supplementary Data 4
+
+Reporting Summary

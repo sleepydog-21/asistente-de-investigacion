@@ -1,0 +1,101 @@
+Organic pollutants with an aromatic structure can be released into the environment either as hydrocarbons or as their derivatives, which contain amino and nitro groups, halogens, nitrogen, or sulfur as heteroatoms. Substituents often increase the toxicity of aromatic molecules [
+
+The ability to degrade DBT is widespread among bacteria from various taxonomic groups. Bacterial pathways for DBT catabolism can be classified into two main categories based on the role these compounds play in bacterial metabolism. The first category comprises non-desulfurizing pathways, in which DBT serves as a carbon source. In these pathways, degradation involves the destruction of the edge rings of the DBT molecule. An example of a non-desulfurizing pathway is the Kodama pathway, which is common in Gram-negative bacteria [
+
+The second category of DBT transformation pathways includes selective desulfurization processes, where DBT serves as a sulfur source for bacterial growth. In these pathways, enzymes target the central ring of DBT. Bacterial desulfurization of DBT offers a promising and environmentally friendly approach to reducing the sulfur content in oil. This process preserves the aromatic rings of DBT, thereby preserving the calorific value of the fuel. Among bacterial desulfurization processes, the most prevalent is the 4S pathway (including its extended variants), which involves aerobic cleavage of the C-S bond, aerobic cleavage via a destructive pathway, and anaerobic C-S bond cleavage. Genetic control of the 4S pathway has been extensively studied in numerous papers. The enzyme systems responsible for biodesulfurization via the 4S pathway vary depending on the temperature adaptation ability of the bacteria. Specifically, mesophilic bacteria employ Sox, Dsz, and Mds enzymes, while thermophilic bacteria utilize Tds and Bds enzymes [
+
+The 4S pathway was first described in
+
+DBT can be utilized as the sole sulfur source, as commonly observed in
+
+This paper is focused on
+
+The aim of this study was to investigate the genetic control of the desulfurization process and the subsequent cleavage of the aromatic rings of DBT in
+
+The following media were used in experiments with strain 135:
+
+1. Evans medium [
+
+2. Sulfur-free SFM medium [
+
+3. Agarized medium Luria Broth (LB) [
+
+Agarized LB medium was used to check the purity of the culture.
+
+Samples for transcriptomic and proteomic analysis were prepared in three biological replicates in 750 mL Erlenmeyer flasks containing 200 mL of medium and were incubated at 37 °C for 5 days in an orbital shaker at 180 rpm [
+
+Total RNA was extracted using the Aurum Total RNA Mini Kit (Bio-Rad, Hercules, CA, USA), and the quality of the RNA preparations was assessed using agarose gel electrophoresis. Ribosomal RNA was removed with the Ribo-Zero rRNA Removal Kit (Epicentre Biotechnologies, Madison, WI, USA). RNA concentrations were measured spectrophotometrically using a NanoDrop ND-2000 spectrophotometer (NanoDrop Technologies, Wilmington, DE, USA). Paired-end sequencing of the cDNA library was performed on an Illumina HiSeq 2000 system at Biospark (Moscow, Russia).
+
+The transcriptome was assembled using the previously assembled genome of
+
+Differential expression analysis was performed using Cuffdiff [
+
+Specific primers for RT-qPCR were designed using the Primer-BLAST tool (
+
+For protein extraction, cells were lysed in 150 μL of buffer containing 2% SDS and 100 mM DTT in 20 mM Tris-HCl pH 8 and incubated at 95 °C (500 rpm) for 20 min [
+
+LC-MS experiments were performed using an Orbitrap Q Exactive HF-X mass spectrometer (Thermo Fisher Scientific, San Jose, CA, USA) coupled to an Dionex UltiMate 3000 RSLCnano system (Thermo Fisher Scientific, Germering, Germany). The short LC gradient method was implemented as described in [
+
+Peptide features were detected using Biosaur2 v0.2.16 software [
+
+Sulfur sources for bacteria can be broadly categorized as “preferred” or “non-preferred” [
+
+The utilization of DBT by
+
+The ability of
+
+Based on the above observations regarding the development of the periodic culture of strain 135 when grown on DBT (absence of 2-HBP accumulation, prolonged stationary phase, and lower DBT degradation efficiency compared to 4S strains), a hypothesis was formulated that the DBT degradation process in strain 135 cells occurs differently and may be genetically organized in a manner distinct from desulfurization and subsequent breakdown of DBT aromatic rings in previously known strains. To confirm this hypothesis, transcriptomic and proteomic analysis data were utilized.
+
+It is important to note that the main approach to studying the DBT desulfurization pathway and the function of the
+
+We used the genome of
+
+The purpose of the transcriptome sequencing experiment for strain 135 was to investigate the effect of the sulfur source on the physiological state of the strain. To achieve this, the sulfur source (DBT or sulfates) was the only variable in this study, while the carbon source, temperature, and other cultivation conditions were kept constant.
+
+RNA sequencing data assembly of
+
+The reads were used to calculate log2 fold change and the differential expression of genes under different conditions. A total of 4428 transcripts were predicted, of which 2170 (49%) were annotated (
+
+Among all CDSs in the genome of strain 135, 96.4% showed no expression changes when cultured with different sulfur sources. However, 145 genes were significantly differentially expressed (log2 fold change modulus > 2,
+
+Out of the 115 down-regulated genes, 82 genes (71%) were annotated and assigned to various functional categories. A significant portion of these 82 genes belonged to the category “Genetic Information Processes”. The subcategory “sulfur metabolism” within the “Energy metabolism” category included six genes (whose expression in the DBT sample was higher than in the sodium sulfate sample), as presented in
+
+The enzyme encoded by the
+
+In addition to the genes listed in
+
+Thus, to further confirm involvement in the DBT catabolism process (based on RNA sequencing data analysis results (log2 fold change values) and KO annotation), seven genes were selected (
+
+The involvement of the genes selected through transcriptomic analysis in the DBT desulfurization process was confirmed by qRT-PCR.
+
+After cultivating cells with DBT as the sulfur source, the mRNA levels of the following genes were statistically significantly increased: QGP87349.1 taurine dioxygenase
+
+Thus, it was established that the presence of DBT in the cultivation medium as a sulfur source significantly alters the physiological state of the following genes:
+
+As mentioned earlier, sulfur sources for bacteria can be conventionally divided into “preferred” or “non-preferred” categories. Preferred sources include sulfates, while non-preferred sources include DBT. According to [
+
+The operons
+
+Taurine and alkanesulfonate are transformed into sulfite by taurine dioxygenase TauD and monooxygenase SsuD, respectively [
+
+There are no reports in the literature regarding the response of taurine dioxygenase (indicated by the increased expression of the
+
+The most pronounced difference in expression in response to different sulfur sources (sulfates/DBT) was observed for the
+
+In summary, it can be noted that the fundamental scheme of DBT degradation (sequential oxidation of the central ring and sulfur extraction) in the
+
+Given the lack of accumulation of 2-HBP in the cultivation medium of
+
+As mentioned above, strain 135 is less efficient as a DBT degrader than other known
+
+The goal of the proteomic analysis was to confirm the mechanism of DBT desulfurization by
+
+The proteins of the genes listed in
+
+Furthermore, a set of proteins is presumably related to the degradation of aromatic compounds remaining after the desulfurization of DBT. The degradation of aromatic compounds starts with the oxidation to alcohols with mono- and dioxygenases. We observed several proteins of this nature, such as QGP87506.1 putative quinol monooxygenase, QGP89239.1 aromatic/alkene/methane monooxygenase hydroxylase/oxygenase subunit alpha, and QGP89241.1 aromatic/alkene monooxygenase hydroxylase subunit beta. Moreover, we detected two proteins associated with the formation and functioning of the iron–sulfur domain in protein complexes: QGP89244.1 iron–sulfur cluster assembly protein and QGP89240.1 2Fe-2S iron–sulfur cluster-binding protein. These proteins are the components of the cytochrome bc1 complex on which quinol oxidation occurs [
+
+The DBT degradation pathway suggested by the results of RNA-seq analysis was confirmed by proteomics, which also revealed a cluster of proteins that is presumably responsible for further degradation of the substrate after desulfurization.
+
+A comparison of differentially regulated proteins obtained by proteomic analyses and differentially expressed genes obtained by RNA-seq analysis (further referred to as differential features) showed only 17 overlapping features, which are presented in
+
+Thus, in a general comparison, the RNA-seq results do not fully agree with the proteomic results. This may be caused, for example, by a difference between mRNA maturation times and protein lifetimes, the presence of processes affecting protein biosynthesis, or post-translational modifications of proteins. However, the differential features that coincide in the proteomics and transcriptomics data indicate a major metabolic pathway of DBT degradation in

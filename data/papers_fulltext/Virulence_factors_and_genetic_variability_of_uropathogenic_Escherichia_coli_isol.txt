@@ -1,0 +1,23 @@
+Phylogenetic studies showed that
+
+Forty
+
+All strains were typed with REP- and ERIC-PCR as described by Versalovic et al. [
+
+Data were organised into 2 × 2 tables in order to explore associations between each virulence factor and the phylogroups. In both cases, data were analysed using Fisher exact probability test to assess the significance of the associations.
+
+PCR analysis of 40
+
+Phylogenetic analysis showed that 65.0% of the isolates (n = 26) belonged to phylogenetic group B2, 10.0% (n = 4) to group D, 15.0% (n = 6) to group B1, and 10.0% (n = 4) to group A (
+
+DNA amplification of
+
+For the analysis of 2 × 2 tables, strains were divided into two groups: one joining strains belonging to phylogroups A and B1, and the other assembling strains belonging to phylogroups B2 and D.
+
+In the present study, we analyzed
+
+In concurrence with several authors [
+
+Our analysis also included two methods for assessing relatedness of the strains: REP- and ERIC-PCR. The generated dendrograms showed that the majority of isolates had a distinct profile, indicating their genomic heterogeneity, while strains belonging to phylogroup D showed a low degree of polymorphism. The isolates were grouped into two main clusters: a large cluster (cluster I) that included groups B2 and D, and a smaller cluster (cluster II) that included isolates belonging to groups A and B1. UPEC strains belonging to cluster I harboured a greater number of UPEC virulence factors compared to strains from cluster II. In particular, we observed a frequent association of
+
+In summary, among the

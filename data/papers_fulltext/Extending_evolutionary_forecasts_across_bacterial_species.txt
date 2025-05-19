@@ -1,0 +1,91 @@
+The predictability of evolution is a fundamental biological question and the ability to forecast evolutionary events could lead to applications in infectious diseases and cancer, and aid in predicting the ability of organisms to adapt to climate change [
+
+A related question is whether the evolution of related species can be predicted based on previous data and models from another species. To put it simply, will similar species evolve in similar ways in similar environments? This can be seen as an extreme case of a historical difference experiment in that the historical differences have accumulated over millions of years, including gene loss and gain of genes through horizontal gene transfer. The success of these kinds of evolutionary forecasts will ultimately depend on the conservation of the genotype-to-phenotype map (molecular functions and regulatory interactions) between species, conservation of the relative fitness effects of mutations and conservation of mutational biases (mutational target size and mutational hotspots).
+
+We have previously shown that a mathematical model [
+
+Here, we explore if our predictions can be extended to more divergent species with different complements of DGCs and exopolysaccharides. Are more closely related species more likely to evolve in the same way or are evolutionary outcomes more idiosyncratic and dependent on largely unpredictable differences in fitness effects of mutations and mutational hotspots? We test our eight previously published predictions [
+
+Forecasts for
+
+Experimental tests of the predictions confirmed that WS mutants with an increased ability to colonize the air–liquid interface evolved for both
+
+To examine the causes and limitations of evolutionary predictability across longer phylogenetic distances, we used
+
+We performed experimental evolution in static growth microcosms for 7 days at 25°C to select for wrinkly spreader (WS) mutants that colonize the air–liquid (AL) interface in both
+
+To further evaluate our predictions, we determined the genetic cause of WS evolution for all isolated mutants using a combination of Sanger and Illumina sequencing. First, we examined the most common pathways targeted by mutations to determine if these were primarily found in the predicted DGC pathways. Compared to
+
+Mutations identified in WS mutants. (
+
+Phenotypic characterization of reconstructed mutants. (
+
+Fitness of reconstructed
+
+A previously described mathematical model [
+
+In our previous work, we reported that mutational patterns in
+
+As described in the previous section, WS mutations in WspE commonly result in loss-of-function of the CheW-like and response regulatory domains. The most common mutation found for both
+
+In
+
+All WS mutants isolated for both
+
+Swimming motility was clearly reduced for most mutants (
+
+To determine how differences in fitness between WS mutants could explain the observed mutational patterns, we conducted two types of competitive fitness assays, similar to previous studies [
+
+All WS mutants had similar invasion fitness against the ancestor and the reference strain (WspA ΔT293-E299) except for
+
+The competition assay showed that in
+
+To test the prediction that mutants with increased ability to colonize the AL interface would use exopolysaccharides as a key adhesive structural component, we used Tn5 transposon mutagenesis of WS mutants to isolate insertion mutants that reverted to the ancestral colony morphology. In
+
+While the Tn5 mutagenesis experiments indicated that increased production of cellulose in
+
+Deletion of known exopolysaccharides biosynthesis genes does not decrease fitness. (
+
+To further investigate the molecular basis of biofilm formation in WS mutants devoid of cellulose production for
+
+Explicit testing of short-term evolutionary forecasts allows an unbiased view of the factors that govern evolutionary processes and critical examination of fundamental biological assumptions. Here, we show that short-term evolutionary forecasts are to some degree extendable to similar species evolving in similar environments, but that differences between species can make evolutionary outcomes idiosyncratic and unpredictable on the molecular level. Several of our previously published predictions [
+
+At the gene level, there is less overlap with the previous studies in
+
+The relative fitness of WS mutants is not necessarily the only reason for the differences in mutational patterns between species. The difference in the mutation spectrum in WspE hints that its molecular function or interactions are in some way different.
+
+The most obvious forecasting failure is the limited role played by the exopolysaccharides cellulose for
+
+By repeatedly conducting experimental tests of forecasts of WS evolution for different species there are opportunities to use new data to iteratively improve forecasts. The mathematical model used in [
+
+Differences in mutation hotspots between species can bias evolutionary outcomes, but it is not obvious to what extent this will limit predictability. This problem was addressed by Sun and Lind in [
+
+Another aspect that can also be explained by the distribution of mutation rates model [
+
+Our results show that short-term evolutionary forecasting in simple environments is possible at higher biological levels even for species that are estimated to have diverged millions of years ago [
+
+We used
+
+For experimental evolution, 1 mL of TSBGM was inoculated with about 10
+
+Seven
+
+Strains of
+
+Two types of competition fitness assays were performed following previously established protocols [
+
+The first fitness assay measures the ability of a WS mutant to increase from the low frequency in a dominant ancestral population. We intend this setup to be similar to the earliest stage of AL interface colonization where a rare WS mutant attaches and grows at the surface with limited competition from other mutants. This is referred to here as ‘invasion fitness’ and the assay was conducted by mixing the WS mutant with the wild type at a 1:99 starting ratio using a 1000-fold dilution of the wild type from an overnight culture. The assay was conducted under the same conditions as for the experimental evolution for 48 h.
+
+In the second assay, we instead focus on ‘competition fitness’ where a WS mutant competes 1:1 with a WS reference strain over 24 hours under the same conditions as for the experimental evolution starting with a 1000-fold dilution of overnight cultures. The reference strains have a WspA T293-T299 mutation in both
+
+Motility assays were conducted to measure the swimming ability of the mutants compared to the ancestor. The assays were performed in TSBGM plates containing 0.3% agar (BD), and the diameter of the strains was measured after 24 h of growth at room temperature. Each strain was tested in duplicates on two separate plates, resulting in four replicates.
+
+Three hydrolytic enzymes, cellulase (Tokyo Chemical Industries Co., Tokyo (Japan)), proteinase K (Thermo Scientific) and DNAse I (Thermo Scientific) were used to probe the structural basis of biofilm formation at the air–liquid interface. Clones derived from −80°C were streaked onto LB agar plates to obtain a single colony, which was inoculated into 2 ml TSBGM and incubated at 25°C shaking overnight. Overnight cultures were diluted 1000-fold in 2 ml TSBGM with either cellulase (approx. 425 U (25  mg)), proteinase K (approx. 12 U (400  µg)), DNAse I (approx. 10 U (10  µl)) or no hydrolytic enzyme and incubated statically at 25°C. Biofilm formation was photographed at 24 h, 48 h and 72 h.
+
+We used transposon mutagenesis of WS mutants to identify candidate genes required for the WS colony morphology [
+
+We sequenced the genomes of 11 WS mutants for
+
+Genomic DNA was isolated with Genomic DNA Purification Kit (Thermo Fisher) for genome sequencing. For
+
+Sequencing data were analyzed using Geneious Prime software for Mac (v2022.0.2) with reads assembled against the

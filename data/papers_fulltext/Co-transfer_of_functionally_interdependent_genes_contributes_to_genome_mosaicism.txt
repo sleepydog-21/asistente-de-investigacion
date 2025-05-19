@@ -1,0 +1,549 @@
+The genomes used in this research are publicly available (Table S1, available in the online version of this article) and can be retrieved from GenBank (
+
+Temperate phages, viruses that can integrate their own genetic material into bacterial genomes, are pervasive mobile genetic elements that can influence bacterial fitness in manifold ways. The
+
+We find that co-transfer of functionally related genes is frequent during the evolution of lambdoid phages. This suggests epistatic interactions among these genes, i.e. the co-transferred genes probably need to function together to ensure a viable phage. A prime example is the co-transfer of structural genes, such as genes encoding parts of the phage capsid or the phage tail. Additionally, we also find co-transfer of known interacting regulatory genes and co-transfer between functionally related genes that have so far been unknown to interact. Together, our analysis provides novel insights into the evolution of temperate phages. Moreover, our approach, which allows us to identify gene transfer in the absence of a core phylogeny, might be valuable for studying the evolution of other fast-evolving genomes, including viruses of other hosts.
+
+(Bacterio-)phages, i.e. bacterial viruses, are considered the most abundant biological entity on earth and play a fundamental role in bacterial ecology and evolution. Phages can either be virulent or temperate. Virulent phages follow the lytic cycle, where phages replicate and lyse their host. Temperate phages can choose between the lytic cycle or a lysogenic cycle during which phage DNA is integrated into the host genome as a prophage that is replicated with the host cell. Prophages, highly relevant for bacterial fitness and evolution [
+
+Phages have an astonishing level of genetic diversity [
+
+The ‘modular theory of prophage evolution’ [
+
+Genome mosaicism was first described for lambdoid phages [
+
+Despite the gene synteny between lambdoid phage genomes, the sequence diversity of lambdoid phages is so high that there exists no lambdoid core genome [
+
+For distantly related phages that do not share a core genome, weighted gene repertoire relatedness (wGRR) has recently been suggested as a measure to calculate pairwise genome similarity [
+
+Average nucleotide identity (ANI) was calculated with FastANI using a fragment length of 300 [
+
+
+
+High-titre lysates of all phages were prepared by confluent lysis [
+
+Sequences were assembled using Newbler (Roche Diagnostics) and the assembly software of Geneious 5.4. As coverage was very high, this yielded in all but one case a single contig of the complete genome sequence. We obtained two contigs for phage mEp460, which were then combined using Sanger sequencing. Phage genomes were annotated using RAST searching the Virus domain and using genetic code 11 [
+
+The ability to perform both the lytic and lysogenic cycle
+
+Overview of the approach to detect horizontal transfer and co-transfer. (
+
+
+
+
+
+
+
+We assigned the genomes of NCBI phages and prophages to the same group if they have a wGRR of at least 60 % to one of the focus phages.
+
+First, we performed an all-against-all Blastp with Blast+ v2.10 [
+
+We say that genes from different genome groups were
+
+To compare the PCT statistic to co-occurrence of clusters, we also calculated the PCO (Protein cluster Co-Occurrence) as PCO=PI/(P1+P2-PI), where P1 (P2) is the number of different genomes that contain protein cluster 1 (2) and PI is the number of genome pairs that contain both protein clusters.
+
+We manually curated the operon structures by annotating nine model phages based on literature (HK022, HK225, HK620, HK629, Lambda, mEp043-c1, mEp460, P22, Phi80) [
+
+Plotting was done in R using ggplot2 [
+
+To identify frequently co-transferred genes and to characterize their function, we estimated gene transfer and gene co-transfer among temperate lambdoid phages (
+
+To study the genome-wide similarities of lambdoid phages, we analysed 26 focus phages that were shown experimentally to be active (Fig. S1). We supplemented this data set with lambdoid phages retrieved from NCBI and with prophages predicted from
+
+Genome groups. (
+
+Here, we include publicly available phage genomes by first having an ANI of at least 95 % and second an wGRR of at least 60 % to one of the focus phages. Notably, ANI is calculated as the average nucleotide identity of the shared regions; thus, phages that share highly similar sequences but also contain non-homologous regions can reach high ANI values. In contrast, wGRR is based on the average protein identity of homologous proteins normalized by the number of proteins in the smaller genome. Thus, pairs of phages can have high ANI but low wGRR, if they share some highly similar genes but do also contain highly different or even non-homologous proteins. The high degree of mosaicism observed in pairwise phage genome comparisons might explain that many phages have high ANI values but low wGRR and were thus not included in the subsequent analysis. Here we used a high wGRR cut-off of 60%, which allowed us to filter out distantly related phages. This is important as it allows us to define clearly separated groups, which ensures that we reliably infer genes that are affected by gene transfer. Nevertheless, additional mosaic phage genomes might exist that could not be reliably grouped with this approach.
+
+The 6210 proteins from all 95 genomes were clustered into 1145 protein clusters, of which 608 are singletons (Fig. S3A). We confirmed that lambdoid phages do not contain any core genes, i.e. no gene is present in all 95 phages. Instead, the largest protein cluster contains 83 proteins from 83 different phages belonging to eight different genome groups. Furthermore, only 31 clusters occur in at least 48 (50 %) of the phage genomes and no protein cluster contains phages from more than eight genome groups.
+
+Gene transfers per operon. (
+
+Next, we assigned proteins to operons, where 640 (56 %) protein clusters could be assigned to a particular operon. We found that the late operon contains larger protein clusters, whereas the early left operon contains smaller protein clusters (Fig. S3B).
+
+Our analysis confirmed the absence of a core genome of lambdoid phages as previously suggested [
+
+Next, we inferred gene transfer events between phages that belong to different genome groups. Since phages from different genome groups are highly dissimilar (wGRR<40 %,
+
+Distance (in number of genes) between co-transferred pairs. The number of frequent co-transfers (PCT>0.5) per genetic distance is plotted in light blue (right axis) and the proportion of frequent co-transfers among all the co-transfers per genetic distance is shown by dots (left axis).
+
+Numbers of transferred proteins between genome groups
+
+Left: numbers of unique protein clusters that are transferred between each pair of genome groups (upper triangle) and the proportion of these numbers among all different protein clusters that occur in any genome of the two pairs (lower triangle). Right: total numbers of protein clusters and transferred clusters.
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+12
+
+No. of different protein clusters
+
+No. of transferred clusters
+
+Percentage
+
+Avg. proportion of transferred genes per genome
+
+1
+
+
+
+7
+
+43
+
+2
+
+2
+
+6
+
+4
+
+5
+
+0
+
+5
+
+6
+
+1
+
+563
+
+47
+
+8%
+
+17%
+
+2
+
+0.9%
+
+
+
+43
+
+20
+
+42
+
+14
+
+31
+
+6
+
+0
+
+2
+
+10
+
+19
+
+260
+
+106
+
+41%
+
+60%
+
+3
+
+6.3%
+
+11.1%
+
+
+
+13
+
+17
+
+6
+
+29
+
+6
+
+0
+
+5
+
+7
+
+0
+
+176
+
+91
+
+52%
+
+64%
+
+4
+
+0.3%
+
+6.2%
+
+5.3%
+
+
+
+10
+
+0
+
+14
+
+0
+
+0
+
+0
+
+0
+
+0
+
+91
+
+27
+
+30%
+
+31%
+
+5
+
+0.3%
+
+14.6%
+
+7.4%
+
+6.5%
+
+
+
+3
+
+12
+
+11
+
+0
+
+0
+
+3
+
+1
+
+79
+
+51
+
+65%
+
+66%
+
+6
+
+0.9%
+
+4.1%
+
+2.3%
+
+0.0%
+
+1.8%
+
+
+
+0
+
+23
+
+0
+
+19
+
+32
+
+2
+
+103
+
+45
+
+44%
+
+53%
+
+7
+
+0.7%
+
+10.8%
+
+14.3%
+
+10.8%
+
+9.6%
+
+0.0%
+
+
+
+0
+
+0
+
+0
+
+0
+
+0
+
+60
+
+46
+
+77%
+
+77%
+
+8
+
+0.8%
+
+1.9%
+
+2.7%
+
+0.0%
+
+8.7%
+
+17.6%
+
+0.0%
+
+
+
+0
+
+6
+
+18
+
+1
+
+79
+
+34
+
+43%
+
+51%
+
+9
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+0.0%
+
+
+
+0
+
+1
+
+0
+
+62
+
+1
+
+2%
+
+2%
+
+10
+
+0.8%
+
+0.6%
+
+2.3%
+
+0.0%
+
+0.0%
+
+13.4%
+
+0.0%
+
+5.5%
+
+0.0%
+
+
+
+18
+
+4
+
+62
+
+22
+
+35%
+
+35%
+
+11
+
+1.0%
+
+3.2%
+
+3.1%
+
+0.0%
+
+2.2%
+
+24.2%
+
+0.0%
+
+17.0%
+
+0.8%
+
+16.5%
+
+
+
+2
+
+70
+
+40
+
+57%
+
+56%
+
+12
+
+0.2%
+
+6.5%
+
+0.0%
+
+0.0%
+
+0.8%
+
+1.3%
+
+0.0%
+
+0.8%
+
+0.0%
+
+3.5%
+
+1.6%
+
+
+
+61
+
+23
+
+38%
+
+38%
+
+The transferred proteins belong to 180 different protein clusters, where transfers with the focus phages are included in 168 (93 %) of these protein clusters. The majority of the 180 transferred clusters fall into known operons, while only 15 (8.3 %) were assigned to an unknown operon (
+
+We reconstructed HGT among lambdoid phages by identifying pairs of highly similar proteins that are encoded on highly dissimilar genomes. A similar approach has been applied to phages before [
+
+Next, we inferred pairs of protein clusters that are frequently co-transferred (PCT>0.5), i.e. they are transferred together between more than 50 % of the genome pairs where at least one of them is transferred. This cutoff was motivated by the observation that there was a sudden increase in the distribution at PCT=0.5 (Fig. S5). Many of the pairs with PCT=0.5 are only involved in two co-transfers in total [37 pairs with PCT=0.5, of which 24 (i.e. 68 %) with only two co-transfers] and should thus not be considered as frequently co-transferred.
+
+Network of frequently co-transferred clusters, colour-coded by operon. The annotation of the protein clusters is given in Table S6. PCT (protein cluster co-transfer) denotes the proportion of how often the genes are transferred together.
+
+We found 181 frequently co-transferred pairs of protein clusters (Table S5). These frequent co-transfers involve 102 different protein clusters (58 % of all the transferred clusters). Clusters involved in frequent co-transfers occurred more frequently in the immunity and late operons (Chi-square test, χ
+
+Despite the even distribution of HGT across the different operons, we find an uneven distribution of co-transfer events across operons. The higher occurrence of co-transfer in the immunity and late operons suggests that particular genes in these operons are preferentially transferred together with other genes.
+
+To analyse if co-transferred genes might potentially be transferred together by one horizontal transfer event of a DNA segment with multiple genes, we calculated if they are physically close to each other on the genome. We found that the proportion of frequent co-transfer events decreases with physical distance (
+
+By linking all 181 pairs of co-transferred protein clusters, we reconstructed a network of 28 distinct modules (i.e. connected components; Fig. 5, Table S6). Of these 28 modules, ten contain two protein clusters, seven contain three protein clusters and 11 contain more than three protein clusters. In many cases, the co-transferred genes are adjacent on the genome, i.e. the distance in number of genes between them is zero (Table S6). Thus, these modules of consecutive genes lead to small pairwise distances between all pairs of co-transferred genes (
+
+Here we find modules of co-transferred genes. Note that the term co-transfer suggests that these genes have been transferred together in one transfer event, where one phage recombinant is formed by taking up both genes either in one stretch of DNA or in multiple recombination events that occurred in the same infection cycle. Nevertheless, our approach could also pick up sequential transfers, where genes have been transferred after each other during subsequent infections if the respective intermediate stages were viable. Our results suggest that most co-transfers involve adjacent genes on the genome, which makes it likely that they have indeed been transferred together on a single stretch of DNA. Nevertheless, we also observe co-transfer between distant genes, which might be the result of multiple recombination events.
+
+In bacteria, the co-occurrence of genes across genomes has been used as a signal to detect if genes are functionally associated [
+
+When comparing co-transfer to co-occurrence, we find that different pairs of proteins are detected with both approaches. With the co-transfer method, fewer genes were found, and these also had a lower physical distance. We thus conclude that the co-transfer method is more specific whereas the co-occurrence method might include more spurious associations. To estimate co-occurrence, we here use a simplistic approach that is based on the number of genomes containing two protein families. Further methods have been developed that need a phylogeny to estimate co-occurrence (e.g. [
+
+Lastly, we analysed the functions of co-transferred genes by zooming into the functions of specific modules. We found that the large modules only involve genes that belong to the late operon (modules 1–5 in
+
+Example 1: the mEp phages have been selected to contain a variety of immunity groups [
+
+Example 2: we identified three independent cases of frequent co-transfer that involve the early left protein Kil, an FtsZ inhibitor known to function in host killing (PC184, module 8; PC102, module 15; PC319, module 17,
+
+Example 3: although most modules involve physically close genes, we detected one frequent co-transfer between genes that are distant on the genome (module 5): PC12 encodes a holin protein and is located at the beginning of the late operon whereas PC10 encodes the Lambda outer membrane protein Lom and is located at the end of the late operon. Remarkably, both genes interact with the host membrane, where holin is involved in lysis of the inner membrane at the end of the lytic cycle and Lom is integrated in the outer membrane. Lom has so far only been described as a lysogenic conversion protein that belongs to a family of virulence proteins (Pfam accession PF06316) and is involved in adhesion to the eukaryotic host cell [
+
+Here we show that co-transfer of functionally related genes is frequent during the evolution of lambdoid phages. From this we conclude that the co-transferred genes probably need to function together, suggesting epistatic interactions among gene presences in phage genomes. The importance of epistasis in phages is debated, where recombination has been shown to result in fewer epistatic interactions [
+
+Many temperate phage groups with high genome mosaicism have been identified for various hosts, such as for mycobacteria,
+
+Click here for additional data file.
+
+Click here for additional data file.

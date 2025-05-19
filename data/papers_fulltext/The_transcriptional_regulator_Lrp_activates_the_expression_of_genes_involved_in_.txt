@@ -1,0 +1,101 @@
+Interestingly, the synthesis of TV involves the nucleophilic incorporation of indole to TM. Notably, a
+
+Bacteria respond to changes in environmental conditions by regulation of transcription. Indeed, bacteria must rapidly sense and respond to their environment to optimize fitness, adapt, and express their virulence factors in the case of pathogenic bacteria. The global regulator Lrp (
+
+Lrp is one of the top seven global regulators involved in the modulation of various metabolic and physiological functions and is widely distributed among prokaryotes and archaea. In
+
+In the context of histopathological lesions, it is crucial to understand that
+
+In this work, we set out to uncover the pivotal role of Lrp in the transcriptional regulation of the TM/TV biosynthetic genes, both in the absence and presence of
+
+We used the
+
+Bacterial strains and plasmids used in this study
+
+Km
+
+Amino acid sequence alignment of Lrp from
+
+The
+
+Three probes with substitution point mutations in the two Lrp putative motifs located in the intergenic regulatory region of the divergent
+
+Primers used in this study
+
+The sequence corresponding to the template plasmid pKD4 is underlined. Italic letters indicate the respective restriction enzyme site in the primer. Bold letters show the overlapping section to introduce the substitution site-directed mutage.
+
+We constructed the plasmids pT3-Lrp and pT6-Lrp to complement the Δ
+
+Total RNA was isolated from cultures in the stationary phase (OD
+
+The His
+
+Analysis of fractions was performed using SDS-PAGE and Coomassie blue staining. Protein concentration was calculated using the Bradford method (Bio-Rad). The recombinant His
+
+The prediction of promoters on the
+
+Electrophoretic mobility shift assay (EMSA) experiments were carried out as previously described (
+
+As positive and negative controls, DNA probes from the regulatory region of the
+
+A lactate dehydrogenase (LDH) cytotoxicity assay kit (Invitrogen) was used according to the manufacturer’s instructions to measure LDH released from HeLa cells after damage to plasma membrane integrity. About 10 µL of negative control (PBS), culture medium control (TSB), positive control (lysis buffer), and filtered bacterial supernatants (wild-type, Δ
+
+An unpaired two-tailed Student’s
+
+We initiated this study by comparing the amino acid sequences of a group of
+
+Amino acid sequence alignment of Lrp from
+
+To find out whether
+
+Growth curves of
+
+To investigate the regulatory activity of Lrp on
+
+Transcriptional regulation of Lrp on
+
+In N-MM without leucine, our research revealed that the transcription of
+
+These results, along with the consistent restoration of the transcription of the complemented strain harboring the pT3-Lrp low-copy number plasmid to wild-type levels, underscore the robustness and reliability of our findings. We have demonstrated that Lrp positively regulates the transcription of
+
+The cytotoxin biosynthetic gene cluster is arranged in two divergent operons,
+
+These findings provide crucial insights into the regulatory regions of the
+
+This research was built on a foundation of meticulously designed experiments that have revealed a crucial aspect of the Lrp binding process. We conducted EMSA with a recombinant His
+
+Lrp binds to the intergenic region of
+
+Our investigation into the role of the Lrp putative motifs in the binding process has yielded significant and enlightening findings. The Lrp protein, a key regulator in gene expression, is known to bind to specific DNA sequences, termed Lrp-binding sites, and influence the transcription of nearby genes. We aimed to establish whether these motifs are necessary for Lrp binding to the
+
+Analysis of sequences to determine the bind of Lrp to the intergenic region of
+
+Subsequently, we performed substitution site-directed mutagenesis of both motifs to prove whether the two Lrp putative motifs were necessary for the Lrp binding to the
+
+Lrp binds to two specific sequences on the intergenic region of
+
+This work, which involved the use of supernatants from
+
+LDH cytotoxicity of
+
+To ensure that the cytotoxic activity depends on TM and TV production, we used the Δ
+
+The global transcriptional regulator Lrp is a feast/famine regulatory protein member. It is present in Gram-negative, Gram-positive, and archaea, and its amino acid sequence is highly conserved in enteric microorganisms (
+
+Our exploration of transcriptional regulation has confirmed the essential Lrp’s role. Lrp, traditionally known as an activator or a repressor, orchestrates a comprehensive and intricate response to leucine (
+
+Our results, which demonstrate the activation of the transcription of
+
+Our investigation validated the pivotal function of Lrp as a transcriptional regulator that plays a crucial role in the stationary phase of cell growth. In
+
+Our research, which explores the role of leucine in gene regulation via Lrp, has significant implications. It has been reported that for some genes, leucine binding to Lrp may increase its affinity to promoters on DNA and regulate their expression (
+
+Our data provide a compelling explanation for the upregulation of gene expression of
+
+These results reveal a novel aspect of the transcriptional activation of
+
+The main virulence determinants of toxigenic
+
+As a novel research endeavor, our working group will conduct studies with an AAHC mouse model. This model is a valuable tool for studying the pathogenesis of AAHC. Our aim is to quantify the levels of TM and TV in the gut of mice infected with the wild-type and mutant strains. The results obtained will provide crucial insights into the role played by the transcriptional regulator Lrp in the pathogenesis of AAHC, potentially leading to significant advancements in our understanding of this disease and paving the way for more effective treatments.
+
+This study describes Lrp as a novel positive regulator for the expression and production of TM and TV. Our findings underscore the crucial role of Lrp in the virulence of

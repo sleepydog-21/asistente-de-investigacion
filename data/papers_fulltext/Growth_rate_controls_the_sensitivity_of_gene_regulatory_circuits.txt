@@ -1,0 +1,179 @@
+From bacteria to humans, most biological organisms sense signals in their environment and use systems for processing this information to adapt their behavior. One challenge for such information processing systems is that optimal responses to environmental signals are often highly context dependent. For example, whether it is worthwhile to pursue a particular nutrient when detecting it in the environment will crucially depend on whether other, better nutrients are also available. While the central nervous systems of multicellular eukaryotes obviously enable complex context-dependent responses, it is now unclear to what extent bacteria are also capable of context-dependent responses to environmental stimuli, or how their relatively simple regulatory circuitry would implement such context dependence.
+
+A number of studies over the past decade has shown that bacteria obey several so-called growth laws which determine how major aspects of cell physiology and proteome allocation vary with the growth rate during exponential growth (
+
+Although the global effects of these growth laws on protein concentrations are broadly understood for constitutively expressed genes and target genes in elementary circuits such as those of constitutively expressed activators (
+
+The origin of this growth-coupled sensitivity (GCS) lies in the effects of dilution by growth. For any intracellular molecule that is stable relative to the doubling time of the cell, the rate at which its concentration decays is dominated by dilution and thus is equal to the growth rate. Consequently, whenever the rate of production of an intracellular molecule does not also increase at least proportional to growth rate, its steady-state concentration will decrease with growth rate. For example, for molecules that are imported into the cell by membrane-bound transporters at a constant rate and that are not actively degraded or metabolized, their steady-state concentrations will be inversely proportional to growth rate. Similarly, although transcription rates, mRNA decay rates, and translation all scale in a nontrivial manner with growth rate, the protein concentrations of constitutively expressed genes have been shown to decrease approximately inversely with growth rate (
+
+The behavior of gene regulatory circuits is thus expected to be intrinsically coupled to changes in growth rate, since the concentrations of their protein players [e.g., transcription factors (TFs)] as well as of signaling molecules either activating or repressing them are affected by dilution due to growth. To explore such growth-coupled effects on regulatory circuitry, we focus on regulatory switches in which a positive feedback loop is coupled to a signal. These regulatory switches typically switch from an uninduced (“off”) to an induced (“on”) state when the intracellular concentration of the activating signal surpasses a critical concentration. Such regulatory switches are involved in many biological functions including the lysis-lysogeny switches used by phages (
+
+By exploring simple theoretical models, we show that GCS can be exploited by natural selection in a variety of ways. In the simplest scenarios, the result of increasing dilution rates is to decrease the sensitivity of regulatory switches so that faster growing cells are relatively insensitive, while slow growing or growth-arrested cells become hypersensitive to signals in their environment. However, by tuning the parameters of the regulatory circuitry, this default behavior can be modified or fine-tuned in a number of ways as we will explore below using the
+
+We start by investigating how growth rate might affect the functioning of regulatory switches using mathematical models. We follow standard approaches for modeling simple regulatory circuits using deterministic coupled ordinary differential equations in which gene regulation is modeled by assuming that protein production rates are Hill functions of the concentrations of regulators, e.g., (
+
+For a minimal bistable regulatory system consisting of an operon containing a TF that activates its own expression, the parameter regime for which the system exhibits bistability has been shown to depend on growth rate (
+
+(
+
+In many known examples of regulatory switches, an operon activating its own expression is coupled to an external signal. For example, the regulatory circuits that implement competence and sporulation in
+
+The most common form of regulatory switches in bacteria involve two-component systems in which a TF positively regulates its own expression and is coupled to an external signal through phospho-relay by a membrane-bound kinase (
+
+While these three simple examples only scratch the surface of the possible ways in which growth rate can affect the functioning of regulatory circuits, they illustrate that theoretical modeling predicts that the natural coupling to growth rate through dilution can profoundly affect the sensitivity of gene regulatory switches.
+
+To investigate experimentally whether regulatory switches in bacteria exhibit growth rate–dependent sensitivity, we here focus on the
+
+(
+
+This prediction reconciles observations in the literature that may have appeared contradictory. In particular, whereas Choi
+
+One prediction of our theory is that, because of GCS, inducer concentrations exist that are too low to cause induction in growing cells but that should cause induction when cells are growth arrested, even transiently. To test this prediction, we compare the responses of the
+
+We next set out to test the prediction of the GCS theory that the critical inducer concentration increases quadratically with growth rate. However, our simple model of the
+
+To quantify how the critical external concentration of the inducer depends on growth rate in this mutant strain, we grow batch cultures in media with different carbon sources to modulate growth rate and, in each of the growth media, measure
+
+To confirm that the cAMP-CRP regulation does not markedly alter the sensitivity of the
+
+While the foregoing experiments establish that regulatory switches such as the
+
+Ideally, cells should opt for whatever carbon source maximizes growth rate in a concentration-dependent manner. That is, if cells are growing on carbon source
+
+As we have seen above, GCS does naturally cause the critical concentration for inducing the regulatory switch to increase with growth rate, and this raises the intriguing question whether GCS might be tuned so as to achieve such optimal carbon source switching. That is, to ensure that the critical induction concentration as a function of growth rate for a given carbon source matches exactly the inverse of the Monod function for that carbon source.
+
+As detailed in section S3 of the Supplementary Materials, we find that this is possible and is realized when the expression at full induction
+
+(
+
+Recent work in the context of general bacterial growth laws has shown that cAMP and CRP regulate the
+
+These theoretical results suggest that
+
+Unfortunately, it is not possible to test such predictions using batch culture experiments, because substantial reductions in growth rate only occur when the glucose concentration becomes so low that cell densities in batch cultures are too small to quantify using standard techniques. We thus turn to microfluidics for testing these predictions. To ensure a homogeneous growth environment and avoiding nutrient gradients that would otherwise arise within dead-end channels at low nutrient concentrations (
+
+Using this device, we grow bacteria at different glucose concentrations ranging from the usual 0.2% (11.1 mM) down to 5500 times less, at a mere 2 μM. As the glucose concentration is varied, growth rates vary over a large range (from 1.06 down to 0.19 doublings/hour). Measuring fully induced
+
+Next we monitor growth and
+
+In the conditions where growth rates on glucose and lactose are near equal, i.e., at 32 and 64 μM glucose, our time-lapse microscopy measurements allow us to directly observe a notable number of events in which cells stochastically switch from uninduced to induced or vice versa (
+
+(
+
+Our time-lapse measurements also allow us to track fluctuations in the instantaneous growth rates of cells. If, as our GCS theory assumes, induction of the
+
+These results on the
+
+Last, although above we have considered changes in growth rate due to changes in nutrient quality, growth rate can of course also be modulated by other environmental factors, e.g., by stresses that inhibit replication or translation. While, as discussed above, optimal concentration-dependent carbon source preferences require that critical inducer concentrations increase with growth rate, this should ideally only apply when growth rate is modulated by nutrient quality. In contrast, if growth rate is modulated by other environmental factors, critical concentrations should ideally remain unchanged. Such different behaviors as a function of how growth rate is modulated might appear difficult to reconcile with the GCS theory, because the dilution rate will be affected in the same way, independent of what environmental factors cause the change in growth rate.
+
+One way to overcome this challenge is by modifying how the expression
+
+To test these final predictions of the GCS theory, we first use batch cultures and Miller assay to measure expression
+
+(
+
+We next use the same experimental approach as described above to measure
+
+How does the functioning of gene regulatory circuitry depend on the growth rate of the cells? While studies of synthetic gene circuits have noted that their functioning is affected by growth rate (
+
+The basic mechanism by which growth rate affects the functioning of gene regulatory circuitry is very simple and fundamental: A cell’s growth rate sets the rate of dilution of intracellular molecules, including those involved in gene regulation. Exploring this effect using simple mathematical models, we showed that growth rate generally affects the sensitivity of gene regulatory circuits. This GCS allows cells to respond to external signals in a context-dependent manner, and by tuning the parameters of the regulatory circuits, natural selection can exploit this GCS in a variety of ways.
+
+For example, GCS allows cells to only respond to a particular signal when growth rate is below a critical value or to scale the critical level of an external signal with growth rate (
+
+When multiple sugars are present in the environment at different concentrations, how do cells decide which sugar to consume first? Although the now predominant view is that there is a fixed hierarchy of sugar preferences, it is clear that optimizing growth rate requires concentration-dependent sugar preferences, because the growth rate that can be attained on a given sugar depends on its concentration. Arguably the most notable prediction of our theoretical analysis is that GCS provides a very natural way to realize optimal concentration-dependent sugar preferences.
+
+In this general strategy, each alternative carbon source has its own regulatory switch consisting of a positive feedback loop coupled to its corresponding inducer and coupled to growth rate through dilution. Each feedback loop is tuned such that it will only induce if the concentration of the corresponding sugar is high enough such that, when switching to growth on this sugar, the growth rate will increase over the current growth rate. This ensure that when multiple carbon sources are present at different concentrations, only the positive feedback loop of the carbon source that (at its current concentration) provides the highest growth rate will be supercritical, and the positive feedback loops of all other carbon sources will be automatically switched off (fig. S17). In this way, only the catabolic genes for the sugar that maximizes growth rate at these concentrations will be switched on. Notably, this optimal strategy does not require any cross-regulation between the regulatory circuits of the different carbon sources.
+
+We derived that to implement such an optimal strategy requires that cAMP-CRP signaling fine-tunes the full-induction expression of catabolic operons of different carbon sources to linearly decrease with growth rate. Notably, for the
+
+It will be interesting to explore to what extent this regulatory strategy also applies to other sugar mixtures. In particular, it is well known that certain sugar mixtures are not used sequentially but in parallel (
+
+Although it is tempting to speculate that evolution may have tuned CRP regulation to specifically implement the optimal concentration-dependent sugar preferences that we observed here, it should be noted that the theoretical models that have been proposed to explain the so-called bacterial growth laws argue that the growth rate dependence of CRP regulation and even the Monod equation itself follow from the necessity to balance catabolic and anabolic intracellular fluxes (
+
+Apart from the specific regulation of carbon source preferences that we investigated here, the fact that GCS causes regulatory circuits to typically become less sensitive with increasing growth rate is likely adaptive in general for bacteria. That is, GCS causes fast growing cells to stabilize their current state by effectively muting their response to fluctuations in external signals and causes slowly growing cells to become highly sensitive to external signals. This view is consistent with recent work from our lab that shows that gene expression noise in
+
+The insights of our GCS theory may also have important applications in biotechnology, i.e., for the design of synthetic circuits. For example, the theory elucidates how different regulatory switches are globally coupled through dilution rate, and this insight might be exploited to design circuitry so as to induce the desired regulatory switches in a growth rate–dependent manner.
+
+While we have here focused on the behavior of gene regulatory switches in bacteria, the coupling of gene regulatory circuits to growth rate through dilution is so general that it likely affects the operation of gene regulatory circuits across organisms, and GCS might also play a role in development and cell differentiation in multicellular eukaryotes. For example, since even a transient decrease in growth rate can cause regulatory switches to induce, it is conceivable that modulation of growth rate could be used in development to induce particular cell fate commitments. It seems that a mechanism of this type acts to control lymphoid and myeloid differentiation in mouse (
+
+All strains used in this studies are derivatives of
+
+All experiments were done using M9 minimal media (Sigma-Aldrich) supplemented with 2 mM MgSO
+
+All experiments were carried out at 37°C. Note that the
+
+In experiments where the critical concentration of inducer as a function of growth rate was measured using fluorimetry, we used strains constructed from the MG1655 #6300 of CGSC. To integrate
+
+Last, the strain U486 Δ
+
+An inverted Nikon Ti-E microscope, equipped with a motorized xy stage and enclosed in a temperature incubator (TheCube, Life Imaging Systems), was used to perform all microfluidic experiments. The sample was fixed on the stage using metal clamps, and focus was maintained using hardware autofocus (Perfect Focus System, Nikon). Images were recorded using a CFI Plan Apochromat Lambda DM ×100 objective (numerical aperture 1.45; working distance 0.13 mm) and a CMOS camera (Hamamatsu Orca-Flash 4.0). The setup was controlled using μManager (
+
+Image analysis was performed using the software MoMA as described in (
+
+MoMA’s default postprocessing was used to refine the measurements of total fluorescence. Fluorescence arbitrary units were converted to the number of GFP molecules using the procedure and conversion factors described previously (
+
+Experiments on the induction during transient growth arrest were done using the DIMM (
+
+For this experiment, it is critical to pick a TMG concentration slightly below the lower threshold of
+
+As predicted, no induction happened in mother machine experiments with 20 μM TMG in M9 + 0.4% glycerol. To the contrary, when switched to M9 + 0.2% lactulose supplemented with 20 μM TMG, cells stop growing transiently and then induce their
+
+The
+
+Overnight cultures of bacterial strains were grown to saturation in 3 ml of M9 + 0.2% arabinose for sugars experiments or in 5 ml of M9 + 0.2% arabinose + 0.1% casaminoacids for Cam experiments. Cultures were diluted to 150 μl of into 96-well plates (Greiner) and grown for 16 hours in a humidity-controlled incubator (Cytomat 2, Thermo Fisher Scientific; shaking at 600 rpm with 1-mm radius). For each condition, M9 was supplemented with eight different concentrations of TMG to cover the induction range, and three combinations of dilution factor and delay before starting incubation were used so as to ensure having cells in mid-exponential phase after 16 hours. All cultures were grown at 37°C. Optical density at 600 nm (OD
+
+Contrary to Kuhlman
+
+For each condition, the TMG induction curve was fitted to the function
+
+To fit the exponent for the dependence of the critical inducer concentration
+
+We use a uniform prior over both
+
+In contrast to the strong dependence of the critical concentration on growth rate when growth rate is modulated by nutrients, no dependence on the growth rate was observed when it was modulated with subinhibitory levels of Cam (
+
+The
+
+Overnight cultures of bacterial strains were grown to saturation in 2 ml of M9 + 0.2% arabinose. Cultures were diluted (2000 to 10,000×) to 160 μl into black 96-well plates with clear bottom (Greiner). Plates were incubated at 37°C with continuous double orbital shaking (548 cpm frequency, “fast” speed) in a Synergy H1 plate spectrophotometer (Biotek), where OD
+
+We first background-corrected each growth curve by estimating background OD and fluorescence as the average value in a 20 time point window centered on the observation with minimal OD/fluorescence and subtracted these background values from all observations. Next, we identified a “growth segment” of each curve by finding the time point with maximum (background-corrected) OD and, going backward from this time point, find the segments of time points with background-corrected OD less then OD
+
+Next, we extracted for the growth segment of each growth curve an average growth rate, an error bar on growth rate, an average log ratio
+
+Last, for each combination of a strain, media, and replicate, we extracted the estimated
+
+Figure S9 shows the observed relationship between doubling time and the critical TMG level for the U486 strain with constant cAMP-CRP (top left), the wild type MG1655 strain (top right), and the U486 Δ
+
+We found that deletion of
+
+Therefore, to quantify most directly the effect of inducer exclusion on the critical TMG concentration, we plotted the fold change in critical TMG concentration caused by the
+
+The microfluidic device used in this series of experiments is similar to the DIMM device described earlier (
+
+Microfluidic masters were produced through soft lithography by Micro-resist GmbH; most of the data were produced using a single master with GCs and reservoirs of appropriate dimensions (GC, 0.8- to 1.0-μm width by 0.7-μm height; reservoirs, 3-μm width by 0.25-μm height). Device preparation was performed as described in the first series of microfluidic experiments, with two notable changes: Surface activation in the plasma cleaner was reduced to 10 to 30 s (typically 10 s) at 1300 to 1500 μm of Hg to prevent collapse of the reservoirs; the device was primed with bovine serum albumin (BSA; 10 mg/ml) from the back channel outlet and water from the overflow outlet. In these experiments, only one of the inlets at each “dial-a-wave” junction was punched, as we were not intending to perform condition switches.
+
+Bacteria were streaked onto LB agar plates from frozen glycerol stocks stored at −80°C. Overnight preculture was grown from single colonies in M9 minimal medium supplemented with 0.2% of glucose. The next day, cells were diluted 100-fold into fresh medium and harvested after 4 to 6 hours, at OD
+
+In the microfluidic devices, bacteria were grown in M9 minimal media with three different types of treatment: either glucose only at variable concentration, or a mixture of lactose (0.2%) and glucose (at different concentrations), or glucose (at different concentrations) supplemented with 200 μM IPTG to inhibit LacI repression.
+
+For this, the experimental setup was prewarmed and initialized. The primed microfluidic chip was mounted, connected to the media supply, and flushed with running media for 30 min or more to rinse the BSA. Flow control was achieved using a pressure controller, applying 1500 mbar on the eight media inlets and −600 mbar on the back channel outlet. The resulting flow is approximately 4 to 5 μl/min through each flow channel. The exponentially growing bacteria culture was sucked (≈300 μl) using a syringe connected to the cell outlet, and all eight-cell–containing tubing pieces were connected to the pressure controller through a manifold and pressurized at 1800 mbar. This resulted in the cells being pushed into the flow channels of each series, and under the effect of the flow generated by the vacuum, the cells were aspirated in the GC very efficiently (15 to 30 min to load all eight series). It was necessary to disconnect the cell-containing tubing from the manifold once the series has been properly loaded to avoid clogging the flow channels.
+
+After loading, the acquisition was quickly started. We typically acquired four positions per series, comprising ~40 GCs each. Phase contrast was acquired every 3 min with 100-ms exposure time, while GFP was acquired only every 9 min with low intensity (100-ms exposure time with SpectraX Cyan LED at 48%) to minimize phototoxicity.
+
+In experiments with a mixture of lactose (0.55 mM, i.e., 0.02%) and glucose (at different concentrations), bacteria were precultured in M9 + 0.2% glucose where they grow fast (~1 doubling/hour), and the
+
+We first established that bacteria cannot grow on nutrient traces coming from the media or the setup (i.e., the microfluidic device, tubing, etc.), as indicated by the distribution of growth rate of cells exposed to M9 minimal media without carbon source (measured over windows of 1 hour; fig. S12A). To pick a criterium for induction, we examined time series of fluorescence in single cells, as well as distribution of LacZ-GFP levels at different glucose concentrations (fig. S12C) and observed that a threshold of 250 LacZ-GFP molecules clearly separates the two subpopulations at all glucose concentrations. In addition, we further checked that, using this threshold, virtually all cells were either induced or uninduced over their entire trace (0.8% of cells were induced more than 5% but less than 95% of their trace, and these were discarded from further analysis).
+
+Looking at the fraction of induced cells as a function of time, we found that it stabilized within at most 5 hours and hence discarded the first 5 hours of each experiment. For concentrations of glucose close to the threshold of induction (32 and 64 μM), we noticed that it took longer to reach a stable fraction of induced cells and discarded the first 14 hours instead. Doing so, we discarded two replicates which terminated before 14 hours (32 μM glucose on 20210122 and 20210305; table S2). Moreover, examining the LacZ-GFP expression level revealed that one replicate was an outlier (probably due to an experimental mistake), and it was hence discarded from further analysis (16 μM glucose on 20210122; table S2).
+
+To focus on cells for which growth rate can be reliably estimated, we filtered out cells which were monitored for less than 10 consecutive time points (30 min); note that this limit is below the shortest cell cycle that can be observed in our conditions, even at saturating glucose concentration. The same filtering criteria were applied to measure the distributions of growth rates when cells are growing in glucose only. The proportion of induced cells is reported for each replicate (
+
+We also set out to establish whether the linear dependency of CRP activity to growth rate reported in bulk (often called the C-line) (
+
+Glucose concentrations at which induced and uninduced cells coexist (32 and 64 μM) display interesting features: The growth rate achieved by induced and uninduced cells (which are expected to feed on lactose and glucose, respectively) is similar (
+
+In the previous section, we described the analysis of growth and induction at the population level, for which it was sufficient to estimate the growth rate and the induction status for whole cell cycle traces. To relate the growth rate to the induction dynamics at the single-cell level, it was necessary to get accurate estimates of the instantaneous growth rate, LacZ-GFP production rate, and concentration. To do this, our lab has developed a Bayesian procedure which uses Gaussian process priors for both the volumic production rate and the growth rate. The inference software RealTrace (
+
+We defined induced and uninduced states based on the distributions of concentration and volumic production observed in conditions where practically all cells are either induced (lactose 0.02%) or uninduced (lactose 0.02% + glucose 0.02%). On a logarithmic scales, both those variables are well separated by a threshold at 5.5. An on-switch of the
+
+Switching lineages were aligned by the time of the switch to compute the average growth and volumic production rates as a function of time before and after the switch, using half hours windows around the switch. Comparing the growth rates of cells switching on/off to the average growth rate of induced and uninduced cells in those conditions showed that cells switching on the expression of the

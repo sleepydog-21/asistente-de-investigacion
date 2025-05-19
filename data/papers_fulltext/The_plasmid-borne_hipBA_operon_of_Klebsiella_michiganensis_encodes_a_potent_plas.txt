@@ -1,0 +1,87 @@
+The HipBA toxin–antitoxin system is typically encoded on bacterial chromosomes where it contributes to antimicrobial tolerance by interfering with translation during cellular stress. Here, we show that plasmid-encoded HipBA from a disease isolate of
+
+
+
+Type II TA systems are commonly found encoded on the mobile genetic elements (MGEs) and chromosomes of both Gram-positive and Gram-negative bacteria. They serve numerous roles within the bacterial cell and were originally characterized as postsegregational killing (PSK, otherwise known as ‘addiction’) systems (reviewed by Harms et al.
+
+HipBA is a well-characterized type II TA system in
+
+Herein, we show that the HipA protein of
+
+Bacteria were grown in lysogeny broth (LB, Lennox formulation; Sigma–Aldrich, UK) or plated onto solid lysogeny agar [LA; consisting of LB + 1.5% (w/v) agar (Difco, UK)]. Sucrose agar for plasmid stability testing contained 10 g l
+
+Whole bacterial DNA was purified using the Wizard Genomic DNA Purification Kit (Promega, UK). Laboratory vectors and plasmid constructs (
+
+Toxicity and antitoxicity of TA system gene products were tested according to previous work (McVicker and Tang
+
+Stability of pSTAB vectors was tested according to previous work (McVicker et al.
+
+Details for RefSeq KoSC genome sequences (
+
+Reference KoSC genomes used in this study.
+
+Kraken2 2.0.7-beta was run against 861 genome sequences with the plasmid database described by Gomi et al. (
+
+Both the plasmid and chromosomal sequences for each genome were run through SLING v2.0.1 using the default setting (Horesh et al.
+
+The nucleotide sequences (i.e. HipA, upstream partner HipB sequence and/or downstream partner HipB sequence) of the complete hits from SLING were translated to protein sequences using Biostrings v2.72.1. Reference protein sequences of experimentally validated HipB and HipA (Guan et al.
+
+Reference, experimentally validated HipBA sequences included in this study (all chromosomal).
+
+Downloaded from NCBI Protein; all other protein sequences downloaded from UniProt.
+
+Structural predictions were made from protein sequences using ColabFold (Mirdita et al.
+
+The clinical isolate
+
+Map of the
+
+HipBA is a TA system that is widespread in bacterial chromosomes and has been implicated in antibiotic persistence in multiple species (Falla and Chopra
+
+To establish whether
+
+Characterization of plasmid-borne TA systems in PS_Koxy4. Mean bacterial viability after induction of the indicated putative toxin genes from pBAD33. (a) Gene expression induced alone in
+
+To investigate the effects of the PSKoxy_4 HipBA TA system further, we cloned the
+
+Ideally, toxicity assays should be conducted in a strain more similar to the native host of the TA system than
+
+Generation of a non-toxic
+
+We reasoned that if this mutation occurred due to the extremely high toxicity of HipA in
+
+Structural analyses of the wild-type and mutated (T175P or T327P) toxins demonstrated both mutations introduced similar changes in the structure of HipA, leaving the mutated structures more similar to one another than to the wild-type HipA (
+
+It is possible to disrupt TA system function in the original host strain by supplying the relevant antitoxin from an exogenous vector (Radnedge et al.
+
+We conducted plasmid loss assays using 2.5 μg ml
+
+We constructed a pSTAB vector combining the IncA/C replication origin from pPSKoxy4_2 with the
+
+Impact of HipBA on stability of test vector pSTAB
+
+The identification of a functional plasmid-encoded HipBA in
+
+A SLING-based analysis predicted 292 chromosomal copies of HipA across 288 genomes: 236 genomes were predicted to encode chromosomal HipBA (two
+
+Chromosome-encoded HipBA was rare among
+
+PhyloPhlAn-based analysis of proteome data for the 871 KoSC genomes included in this study. The tree (rooted at the mid-point) was created using RAxML implemented within PhyloPhlAn3 from MAFFT-generated multiple-sequence alignments and visualized using iToL. The tree has been annotated to highlight genomes encoding chromosome- and/or plasmid-encoded variants of HipBA. Genomes encoding the antitoxin HipB both up- and down-stream of the toxin HipA are predicted to encode tripartite HipBAB (shown by dots at tree tips).
+
+All HipB-encoding (antitoxin) genes were predicted to be encoded upstream of the HipA-encoding (toxin) genes. However, there was sequence diversity among the plasmid-encoded HipBA pairs, with five distinct clusters observed in our phylogenetic analyses (Fig.
+
+Phylogenetic relationships among plasmid-encoded HipA and HipB sequences of the KoSC. The trees (both rooted at the mid-point) were created using RAxML from MAFFT-generated multiple-sequence alignments and visualized using iToL. Bootstrap values are presented as a percentage of 100 replications. Details of reference sequences included in the analyses can be found in Table
+
+Structurally, the HipBA system of PS_Koxy4 was almost identical to that of the experimentally validated HipBA system of
+
+TA systems of
+
+Details of experimentally validated
+
+The
+
+Non-toxic HipA mutants spontaneously generated by our experiments in
+
+Genes encoding HipA and related antitoxins have been identified on MGEs from a wide range of species, including an
+
+In summary, we have provided the first experimental evidence that a plasmid-borne HipBA TA system can provide a formidable plasmid-stabilizing effect in both

@@ -1,0 +1,85 @@
+The metabolic conversion of L-carnitine to trimethylamine N-oxide (TMAO) from gut microbiota–host interactions has been recently highlighted as a potential connection between red meat consumption and cardiovascular diseases.
+
+Circulating TMAO can also be derived from the microbial metabolism of other food substrates such as choline and betaine, resulting in a mixed pool of complex metabolic pathways. To better understand the gut microbiota contributing to L-carnitine-mediated TMAO formation, we developed an oral carnitine challenge test (OCCT) that measures TMAO production more specifically related to microbial metabolism of L-carnitine under a designed dosage.
+
+While a microbial pathway involving the Rieske-type monooxygenase (CntA) paired with a reductase component (CntB) was initially suggested to convert L-carnitine to TMA,
+
+In the current study, we aim to investigate the role of gut microbial genes (
+
+While circulating TMAO measured in the blood can be derived from gut microbial conversion of various nutrient substrates, such as choline, L-carnitine, or betaine, as well as directly from fishery products, fasting plasma TMAO levels might not precisely reflect the gut microbiota’s ability to transform L-carnitine into TMA and TMAO (
+
+The
+
+In the present study, three separate cohorts were recruited from different projects, each involving participants who underwent OCCT. These cohorts included an interventional healthy cohort (healthy cohort 1 or HC1,
+
+To further understand whether the microbial
+
+Gut microbial
+
+Given the aforementioned findings, we verified that the
+
+To further identify which
+
+We next seek to explore whether gut microbes, enriched in high-TMAO producers, were correlated with the
+
+JAGTTR01 sp018223385 is the
+
+Since most
+
+Given the verified correlations between the
+
+Development of a qPCR-based approach to quantify fecal gbuB gene abundance. (a) A pair of degenerate primer for amplifying gbuB was designed based on reference gbu-gene cluster of six gbu-containing bacterial species, including three type strains: Emergencia timonensis SN18, Eubacterium minutum ATCC700079, Agathobaculum desmolans ATCC 43058, and three new isolates: JAGTTR01 sp. NTUH-002-81, Agathobaculum sp. NTUH-O15-33, Intestinibacillus sp. NTUH-41-i26. (b) A study cohort (
+
+Microbiome profiling using
+
+The formation of TMAO from the gut microbial metabolism of L-carnitine has emerged as one of the most plausible explanations for the link between red meat consumption and cardiovascular diseases. Despite the proposal of several microbial genes, such as
+
+Over the past decade, there has been growing interest in studying how gut microbes utilize L-carnitine to produce TMA. However, a large proportion of studies have focused on the Rieske-type monooxygenase CntA, overlooking the fact that oxygen is essential for its catalytic reaction. This makes it unlikely to function in the anaerobic gut environment. In the present study, we demonstrated that the microbial
+
+Our research findings also corroborated the results reported by Buffa et al., who demonstrated that the abundances of fecal
+
+Additionally, in our dietary intervention studies (HC1 and CV cohorts), changes in fecal
+
+Leveraging the specificity of OCCT for TMAO production from L-carnitine consumption, our study revealed that the
+
+To confirm the catabolic function of JAGTTR01 sp018223385 in converting γBB to TMA, we purified six new isolates containing the
+
+Armed with a collection of
+
+This study did have a few limitations. First, although the abundances of
+
+In summary, we employed an integrative multi-omic analysis using metagenome and metabolome datasets from OCCT to interrogate which microbial factor is crucial for L-carnitine-mediated TMA(O) production in humans. We identified essential gut microbes with the
+
+To measure individual’s TMAO producing capacity from L-carnitine intake, we previously developed the OCCT and investigated its potential use in personalized nutrition.
+
+The participants in HC1 had daily L-carnitine supplementation (500 mg/tablet, GNC®) for 1 month and received OCCT after the intervention. Subjects identified as high-TMAO producers in the CV cohort were invited to participate in a plant-based diet intervention study supervised by a registered dietitian. Thirty-two participants in the CV cohort completed the plant-based dietary intervention for 2 months and resumed their regular diet for 3 months subsequently. The OCCT was conducted at baseline, the second month and at the fifth month. Food frequency questionnaires (FFQ), 24-h dietary records and blood low-density lipoprotein were recorded during the plant-diet intervention to evaluate dietary adherence of the participants (supplemental methods).
+
+Briefly, 50 μL plasma and 50 μL urine samples were extracted with 450 μL and 950 μL methanol containing 200 ng/mL isotopically labeled internal standards (d9-TMAO), respectively, and the extraction was performed using the Geno/Grinder 2010 (SPEX SamplePrep., Metuchen, NJ, USA) at 1000 rpm for 3 min. The extracts were then centrifuged by using the Eppendorf Centrifuge 5810 R at 12,000 g for 5 min at 4°C. The supernatants were subjected to liquid chromatography-tandem mass spectrometry (LC-MS/MS) analysis. Target metabolites and their corresponding internal standards were analyzed by using Agilent 1290 UHPLC coupled with an Agilent 6460 triple quadrupole mass spectrometer (Agilent Technologies, Santa Clara, CA, USA). Separation was performed using a MicroSolv Cogent Diamond Hydride column (150 mm × 2.1 mm, 4.2 μm, MicroSolv, Eatontown, NJ, USA), and the column was thermostated at 40°C during analysis. The mobile phase was composed of solvent A (10 mm ammonium acetate and 0.2% formic acid in water) and solvent B (10 mm ammonium acetate and 0.2% formic acid in 90% ACN). A 0.4 mL/min linear gradient elution was used: 0–1 min, 90–75% solvent B, 1–2 min, 75–65% solvent B, 2–4 min, 65–55% solvent B, 4–5 min, 55–40% solvent B; and column re-equilibration with 90% solvent B for 1 min. The injection volume was 5 μL. The positive electrospray ionization mode was utilized with the following parameters: 325°C for drying gas temperature, 7 L/min for drying gas flow, 45 psi for nebulizer pressure, 325°C for sheath gas temperature, 11 L/min for sheath gas flow rate, and 3500 V for capillary voltage. Nozzle voltage was set at 500 V. The mass spectrometer was configured in multiple reaction monitoring mode, and the monitored transitions for TMAO were
+
+Determination of
+
+Fecal samples were transported to the laboratory under cold chain conditions (4–7 °C) within 24 h of collection. Once received, they were aliquoted and stored at −80°C. Fecal genomic DNA was extracted using the QIAamp PowerFecal Pro DNA Kit, following the manufacturer’s instructions. The isolated DNA was then quantified with the NanoDrop ND-1000 spectrophotometer (Thermo Fisher Scientific). The isolated DNA was stored at −20°C until further analysis. For the external cohort used to validate the PCR-based
+
+DNA degradation degree and potential contamination were monitored on 1% agarose gels. DNA quantification was checked using Qubit® dsDNA Assay Kit in Qubit® 4.0 Fluorometer (Life Technologies, CA, USA). A total amount of 1 μg DNA per sample was used as input material for the library preparations. Sequencing libraries were generated using NEBNext® DNA Library Prep Kit (NEB, USA) following manufacturer’s recommendations and index codes were added to attribute sequences for each sample. The library quality was assessed on the Qubit 4.0 Fluorometer and Agilent bioanalyzer system. At last, library was sequenced on an Illumina NovaSeq 6000 platform, and paired 150‐bp reads were generated.
+
+The quality assessment of raw reads was performed using fastp (v0.23.0)
+
+The known
+
+The
+
+Bacterial genomic DNA was extracted with Wizard® Genomic DNA Purification Kit (Promega, USA). DNA qualities were determined by Nanodrop ONE (Thermo Fisher Scientific, USA), Qubit 4 Fluorometer (Thermo Fisher Scientific, USA), and standard-sized automated Bio-Fragment analyzer Qsep100 (Bioptic, Taiwan). Whole-genome sequencing (WGS) of the bacteria was conducted using the Oxford Nanopore platform (Oxford Nanopore Technologies, UK). Complete genomes were
+
+Multiple sequence alignment was performed using Clustal Omega (v1.2.4)
+
+The bacteria were anaerobically cultivated in fcBHI broth at 37°C until they reached the late log phase of growth. They were then sub-cultured in fcBHI broth supplemented with 100 μM d9-γBB. The subcultures were incubated anaerobically for 24 h at 37°C. Culture samples of 500 μl were collected at both 0 and 24 h, then centrifuged at 10,000
+
+C57BL/6JNarl male germ-free mice (8–10 weeks of age) were obtained from National Laboratory Animal Center, National Applied Research Laboratories in Taiwan and maintained with ISOcage P Bioexclusion system (Tecniplast, Italy) to establish mono-colonization gnotobiotic mice. Before colonization, bacteria were grown anaerobically in fcBHI at 37°C until the culture reached mid-log phase. Bacterial cells were washed and suspended with oxygen-free PBS. The C57BL/6JNarl germ-free mice were colonized with single strain of
+
+Twenty microliters of plasma samples were extracted with 180 μL and methanol containing 50 ng/mL isotopically labeled internal standards
+
+To quantify the presence of the
+
+The
+
+All graphic and statistical analyses were performed using GraphPad Prism v9 and R software v4.3.1. Student’s t-test or a Mann-Whitney U test were used for group comparisons of continuous variables as deemed appropriate and a chi-square test was used for categorical variables. Two-tailed Spearman’s rank correlation coefficient ρ values were calculated for correlation analysis.

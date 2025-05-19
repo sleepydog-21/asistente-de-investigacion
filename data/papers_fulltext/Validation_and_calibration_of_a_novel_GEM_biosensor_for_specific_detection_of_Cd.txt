@@ -1,0 +1,130 @@
+Heavy metals occur naturally in the environment and are generally characterized as metallic chemical elements with relatively high density that can exhibit toxicity or harmful effects at low concentrations [
+
+The assessment of environmental risk resulting from heavy metal pollution has traditionally relied on quantifying total metal content through conventional analytical methods that involve the digestion of samples with strong acids [
+
+Biosensors are analytical devices that combine bio components with transducers to convert biological signals into electrical signals, making them well-suited for real-time environmental monitoring [
+
+One of the major disadvantages of typical biosensors is their non-specific responses to various environmental pollutants [
+
+The rapid development of genetically engineered biosensors has revolutionized the field of heavy metal detection and bioremediation. These biosensors offer precise and efficient means to monitor the bioavailability of heavy metals and enable the development of strategies for their remediation. In recent years, significant progress has been made in the utilization of bacterial cell-based biosensors for the detection and remediation of cadmium (Cd) contamination [
+
+The utilization of GEMs as biosensors for heavy metal detection holds immense potential. However, the existing biosensors described in the literature, which are still in the experimental stages, lack crucial information regarding the physiology of the microorganisms used in these biosensing applications. Considering this, our study aims to develop an ideal and innovative GEM biosensor that is sensitive to specific heavy metals, with the future goal of testing it for on-site detection.
+
+To accomplish this, we present the validation and calibration of a quantitative multi bacterial-cells digital tool designed to specifically detect Cd
+
+To develop the genetically modified heavy metal-sensitive bacterial biosensor cells, the DNA construct-containing plasmid was chemically transformed into
+
+Further experiments confirmed the expression of the
+
+Before utilizing the genetically engineered bacterial cells in heavy metal fluorescent assessment assays, we examined their ability to provide optimal fluorescent signals under the
+
+Finally, we tested the engineered microbial strain's sensitivity and specificity towards Cd
+
+The 100 ppm stock solutions of Cd
+
+An enhanced novel artificial genetic circuit to efficiently sense targeted heavy metals (Cd
+
+In developing GEM biosensor cells, the successful transformation of pJET1.2-
+
+The typical sigmoid shaped bacterial growth curve was reconstructed upon the presence of heavy metals in the medium with a modified protocol [
+
+To monitor the production of
+
+To investigate the correlation between heavy metal concentrations and fluorescent intensities generated due to the production of eGFP proteins, fluorimetry was used. The
+
+To visually observe the green fluorescent signals of bacterial cells, fluorescent microscopy was applied.
+
+The fluorescent intensities of microscopic images were analysed using image processing software, ImageJ2 bundled with 64-bit Java 1.8.0_112 [
+
+The capability of
+
+The capacity of
+
+The effect of heavy metal incubation time on the intensity of fluorescent signals were monitored by conducting Cd
+
+To observe the sensitivity of fluorescent signals of
+
+The trends of heavy metal synergistic effects were observed by subjecting
+
+The GraphPad Prism 9 was employed for conducting the One-way analysis of variance (ANOVA) to analyse the data. The dependent variable in the analysis was the expression level, while the independent variables encompassed the heavy metal ion concentration and type. The least significant difference (LSD) post-hoc test was employed to assess the significant differences among the various metal ions, employing a 95% confidence interval (CI) to determine statistical significance. A significance level of
+
+Biosensors utilizing genetically engineered microorganisms have garnered significant attention over conventional analytical techniques due to their practical on-site applicability in environmental toxicity assessment [
+
+Based on this collective evidence, we selected the
+
+The genetic architecture of heavy metal sensitive
+
+The heavy metal sensing mechanism of genetically engineered bacterial cells. The lacUV5 promoter controls the T7 RNA polymerase gene in the
+
+The pJET1.2-
+
+The growth of bacterial cells serves as a vital indicator of bacterial physiology [
+
+Absorbance at 600 nm over time for Cd
+
+The successfully transformed and growth-validated
+
+Relative gene expression of eGFP gene in response to Cd
+
+In our study, we employed fluorometric analysis to determine the actual amount of eGFP proteins synthesized in response to heavy metal incubation, providing valuable insights at the protein level. The fluorometry approach allowed us to plot Fluorescent intensity in RFU (Relative Fluorescence Units) against Heavy metal concentrations, enabling a quantitative assessment of the correlation between fluorescent intensity and heavy metal concentration in ppb. Remarkably, we observed a linear correlation for all three specific metal ions, with R
+
+Fluorescent intensities (RFU) of
+
+In our fluorescent microscopy experiment, we utilized this technique to capture images of heavy metal-treated
+
+Fluorescent microscopic images of heavy metal-treated
+
+Our results, together with these previous findings, highlight the effectiveness of fluorescent microscopy in visualizing and validating the expression of specific proteins in genetically modified biosensing cells under heavy metal exposure. This technique offers valuable insights into the response of biosensors to heavy metal mixtures, further enhancing our understanding of their potential applications in environmental monitoring and detection.
+
+Bacterial cells, as microorganisms, are highly influenced by environmental conditions such as temperature, pH, and nutrient levels in the medium [
+
+To support the growth of bacterial cells, LB broth and LB agar media were used throughout the experiments [
+
+Ideally, wildtype bacterial cells exhibit their optimal physiological activities under specific pH levels of the growth medium. For
+
+Normalized CTCF values plotted against pH. The Y-axis represents fluorescent intensities in CTCF, while the X-axis represents pH values ranging from 2 to 12. Error bars indicate the mean standard deviation derived from three independent biological treatments. The cells were treated with 2.0 ppb of Cd
+
+The cellular processes within living organisms, including crucial functions like protein folding and enzyme activation, are profoundly affected by fluctuations in temperature [
+
+Upon subjecting these cells to treatments with Cd
+
+Normalized CTCF values plotted against incubation temperature. The Y-axis represents fluorescent intensities in CTCF, while the X-axis represents incubation temperature in °C. Error bars indicate the standard deviation derived from three independent biological treatments. The cells were treated with 2.0 ppb of Cd
+
+Taken together, our analysis of eGFP signals at different temperatures underscores the versatility of
+
+To activate the heavy metal-sensitive genetic circuit in bacterial cells, the presence of exogenous metal ions is essential to interact with the promoter and initiate mRNA expression of the gene circuit. This metal absorption process requires a specific incubation time with the sample. To investigate the relationship between incubation time and fluorescent signals, we analyzed the patterns of signal generation for Cd
+
+We represented the fluorescent signals in CTCF values against heavy metal concentrations and incubation time on the same graph, with concentration on the X-axis, incubation time on the Y-axis, and fluorescent intensity in CTCF on the Z-axis. Interestingly, Cd
+
+Time-dependent fluorescent responses of
+
+To understand the ability of
+
+The calibration of the
+
+Calibration plot of heavy metal treatments correlating fluorescent intensities in CTCF with heavy metal concentrations in ppb. The plot encompasses metal ion concentrations ranging from 1 to 6 ppb. Cd
+
+Bar chart analysis revealed distinct signal resolutions for each specific metal, with Cd
+
+Calibration plot of individual heavy metal treatments between fluorescent intensities in CTCF and heavy metal concentrations in ppb. The fluorescent intensities have been obtained for samples containing metal ion concentrations in between 1 to 6 ppb. The treatments with Ni
+
+In general, treatments involving mixtures of heavy metals exhibit a characteristic tendency to competitively interact with gene circuits due to similarities and dissimilarities in their chemical properties.
+
+In our study, we investigated the interactions of Cd
+
+Calibration plot of heavy metal combination treatments between fluorescent intensities in CTCF and heavy metal concentrations in ppb. The fluorescent intensities have been obtained for samples containing metal ion concentrations in between 1 to 6 ppb of total heavy metal concentrations. The treatments with [Cd
+
+The comparative analysis of fluorescent intensities in CTCF for heavy metal mixture treatments and individual heavy treatments. The fluorescent intensities obtained for individual heavy metal treatments of Cd
+
+The intricate interactions of multiple metal ions within a single gene circuit present challenges when conducting biosensing assays on samples containing mixtures of heavy metals. The noteworthy changes observed at concentrations of 5 ppb and 6 ppb for [Cd
+
+In current study, we successfully constructed a genetically engineered microbial biosensor using the
+
+Physiological validation experiments demonstrated that the
+
+The calibration of the biosensor against individual heavy metal treatments revealed robust linear correlations for Cd
+
+Furthermore, the biosensor was validated for its ability to detect heavy metal mixtures. The interactions of Cd
+
+Collectively, our genetically engineered microbial biosensor,
+

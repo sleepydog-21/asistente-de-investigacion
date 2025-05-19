@@ -1,0 +1,129 @@
+Operons (
+
+Although common in prokaryotes, there are exceptions or peculiarities (
+
+The evolution of operons has been debated since their discovery; early ideas often coupled operon formation and metabolic pathway evolution, but although pathways are often ancient, taxonomic variability in operon organization of the corresponding genes in different taxa suggests a more recent evolutionary history (
+
+The process of operon evolution can be split into two aspects: one is assembly, by which scattered genes form clusters that may then evolve into operons. The second is maintenance in evolutionary time, which depends on the fitness differential provided by the operon with respect to the same genome with scattered genes. Since what makes an operon advantageous once it is formed is not necessarily what drove the genes at nearby loci, its assembly and maintenance may be consequences of very different forces. For instance, an operon may reduce noise in protein abundances as previously suggested (
+
+Models dealing with the identification of the force driving gene clustering during the formation of operons exist. The Fisher model suggests that the compactness of operons may reduce the chances of destructive recombination events (
+
+Several hypotheses have been proposed to explain the molecular mechanisms responsible for clustering genes. Duplication and divergence are at the basis of the Natal model, with metabolic pathways evolving in a step-wise fashion; the same idea is also central in the Piece-wise model where operons are assembled by clustering of sub-operons originated by in-tandem duplications of ancestral genes (
+
+Works on this topic generally focus on the force driving gene clustering or on the mechanisms by which genes can get clustered. The former assumes that molecular mechanisms for rearranging gene order exist and focuses on plausible fitness functions, whereas the latter often assume some fitness functions and focus on the ability of different types of genome rearrangements to build gene clusters (
+
+Bacterial species have a more or less strict coupling of DNA replication with cell division. Species like
+
+(a) Mapping
+
+Replication activity can be investigated by using genome sequencing data and calculating the ratio of coverage at the Ori and Ter regions (
+
+Recently, the use of single-cell transcriptomic data demonstrated that replication imparts a clear pattern to gene expression, at least in
+
+Here, we provide theoretical considerations about the effect of active DNA replication on metabolic homeostasis. Under this view, replication can provide a selective force for driving functionally related genes at nearby loci in evolution, which we interpret as a fundamental pre-requisite for operon formation.
+
+Identification of origin and terminus for each genome was done with function oriloc from package seqinr (
+
+The linlog format for metabolic systems is a linear alternative to model enzymatic rates (
+
+where
+
+where
+
+Using equation 5, one can input enzyme levels to obtain steady state concentrations of the metabolites. The model is not parameterized with respect to experimental data, but it has biologically meaningful parameters, and therefore, we use it as a benchmark for testing our hypothesis in a realistic model and not to derive data for comparison with true genomes. We note that although the elasticities defined in metabolic control analysis (MCA) depend on the concentration of metabolites, here, they are fixed parameters. We are therefore assuming that the dependencies of an enzyme on substrate(s) and product(s) do not change during growth at different rates, which is a limitation of the formalism used. Nevertheless, the linlog has a relatively wide range of validity around the reference point where it is calculated (
+
+The optimization-based simulation is carried out using the R function nlminb and the average coefficient of variation in metabolite concentrations when division times are changed as the objective function (see text). We consider the inverse of this value as a proxy for fitness; therefore, genomes with smaller variability in metabolite concentrations have larger fitness. Genes can move on the genome under the hypothesis that genome organization should minimize perturbations to homeostasis, but no mechanistic model for genome organization evolution is explicitly implemented. The same approach is also used to test the optimization of promoters. In this case, genes cannot move, but a multiplier of each rate function simulates the strength of the promoter and is the parameter undergoing optimization. We highlight that each promoter has its own
+
+This simulation implements a more mechanistic model of structural rearrangements, with both translocations and inversions. Overall, in this simulation, genes coding for the enzymes of the metabolic model are randomly placed on a virtual ori/ter axis. Their position defines the multiplicity of loci across the growth rates that we test and can be translated into enzyme abundances, thanks to the Helmstetter and Cooper model (
+
+The remaining genomes undergo (i) grouping into unique structural variants and (ii) sampling, proportionally to their fitness to re-generate the population of 10
+
+The Kyoto Encyclopedia of Genes and Genomes (KEGG) (
+
+In this section, we provide the theoretical foundations of our hypothesis by linking together chromosome replication and its possible effects on cellular homeostasis. We do this by integrating, for the first time, the so-called PTR (
+
+where the
+
+In practice, the FCC of enzyme
+
+with
+
+Contrary to the summation theorem for fluxes, in this case there is no limitation to the magnitude of CCCs. When we change the abundance of an enzyme whose
+
+Therefore, the manipulation of the abundance of an enzyme with negligible control over the flux of a pathway can nonetheless perturb metabolite pools by an arbitrarily large factor (
+
+This can theoretically be achieved by making so that abundance changes of functionally related genes are coordinated, for instance, by putting them under the control of a same regulator—as for yeast’s amino acid biosynthetic genes, which are controlled by GCN4 (
+
+where
+
+which enables to use a quantity that can be calculated from genome sequencing data for inferring division times
+
+A simple model for the abundance of a certain transcript
+
+where
+
+At the steady state,
+
+which clearly shows that the steady state level of a transcript is also determined by changes in the division time. We can therefore exploit equation 6 to check what happens when a bacterium changes division time from
+
+This relative change due to replication can be introduced in equation 6 to predict the change in pathway flux when growth rate changes:
+
+As expected, the amplification factor depends on the variation in copy numbers of the loci as a function of the division time, the activity and abundance of the regulator, and the degradation rates. To isolate the effect of replication from the rest, we will introduce several simplifications: (i) all enzymes of the pathway under analysis undergo a change in abundance (
+
+Under these assumptions, equation 16 becomes the following:
+
+which highlights that when a bacterium changes division time across conditions, then the ensuing variation in copy number can perturb metabolic fluxes. As our simplifications may appear unreal, we note that even without such strong assumptions (equation 16), replication still contributes to the input/output response of classical transcriptional regulation. It also backs up criticisms to the idea that the optimization of promoter sequences of scattered genes is as good of an option for bacteria as well as eukaryotes: even with identical promoters, variations in growth rate can change the relative abundance of loci, hampering the evolutionary optimization of promoters. Genome rearrangements are an additional factor contributing to this difficulty, since by shuffling genes, they create novel configurations that may drastically decrease the optimality of promoters.
+
+Since (i) equation 11 shows that even enzymes with negligible flux control coefficient can perturb metabolite pools by arbitrarily large factors and that (ii) significant variations in metabolite concentrations in the cell can break down cellular homeostasis, we suggest that a possible solution worked out by evolution could be the formation of gene clusters and operons. In such a case, the positions (
+
+which is exactly the factor used to change all the enzymes (equation changes, once we introduce the above simplifications). Therefore, if the positions of the genes belonging to the pathway are similar, when the division time changes, the pathway’s flux is scaled by a certain quantity without changes in metabolite concentrations.
+
+Let us now introduce a toy pathway to discuss more thoroughly the points raised above:
+
+where
+
+which can be solved analytically at the steady state (when
+
+Enzyme abundances (
+
+since by definition the growth rate is
+
+The scaled sensitivity of metabolite concentrations with respect to the division time therefore depends on the difference in relative position of the two genes (
+
+This basic example provides additional theoretical basis for a role on metabolite homeostasis by changes in division time. It is therefore plausible that events leading to the minimization of those perturbations have a positive impact on the fitness of a cell, thereby increasing the probability of fixation in the population. One of those mechanisms, as the above considerations suggest, is to group functionally related genes in a compact locus. To underline why, we refer to our toy model, and by scanning many positions for our two genes in a virtual 2 Mbp linear chromosome, we calculate a measure of the resulting variation in the abundance of metabolite
+
+(a) Scanning of the genomic positions for the two genes in the toy model (
+
+The study of a simple two-genes system provided support to the idea that operons might be instrumental for metabolic homeostasis when the bacterium is actively replicating the genome, and more importantly, it changes growth rate. However, MCA has demonstrated that the metabolic response to perturbations in enzyme abundances has both local and global components (
+
+Where
+
+In
+
+One alternative for reducing the perturbations introduced by multiplicity changes induced by replication is the calibration of promoter characteristics; therefore, we implement a second optimization where genes have fixed coordinates, division time can change as in the above experiment, and enzyme levels are determined by a parameter under optimization to mimic the evolution of promoter characteristics. More precisely, enzyme levels in the linlog model are in this case calculated as
+
+The above considerations would suggest that the selective pressure driving the formation of compact gene clusters and operons is a function of the range of division times attainable by a certain organism; species may therefore experience different levels of selection toward the formation of operons, depending on the ability to change division time over a more or less wide range.
+
+The optimization of gene positions discussed above suggests that during evolution, structural rearrangements are able to build gene clusters, under the selective pressure discussed so far. However, the optimization algorithm used above does not explicitly account for molecular mechanism and may therefore provide biased results. One major problem in a realistic scenario is for instance that rearrangements bringing some of the genes at nearby positions could split previously formed clusters, making the optimization of gene positions harder or even impossible. Therefore, we implemented a more realistic scenario where inversions and translocations are considered at the phenomenological level, and we integrated it with our metabolic network model. Previous works studying the formation of clusters from a structural point of view often focus on a single mechanism (inversions or translocations) and on artificial definitions of pathways or other functional interactions of genes. Ballouz et al. (
+
+Simulations of gene order evolution with inversions and translocations. (a) Counts and lengths of clusters in 50 independent simulations ran for 100K generations. (
+
+One testable consequence of our hypothesis is that species able to achieve larger PTR should experience a more effective selective pressure for clustering functionally related genes. As all species can attain long division times, we can consider the average PTR in laboratory conditions as a proxy of the shortest division time that a species can potentially experience. Two confounding factors in this attempt are horizontal gene transfer and the evolutionary rate of the PTR itself: metabolic operons are easily transferable self-contained modules that are likely advantageous even in species with a very low average PTR; additionally, the PTR calculated from genome sequencing reads is a snapshot of present-day organisms, whereas the degree of gene clustering in genomes reflects a much longer and unknown evolutionary path.
+
+With these drawbacks in mind, we tested our hypothesis by deriving a PS that summarizes the degree of compaction of functionally related metabolic genes in complete genomes (see Material and Methods). The PS of each genome was then compared with the
+
+(a) Face-to-face phylogenetic trees with mapped ancestral reconstructions of PS and log
+
+In this paper, we propose and explore the novel hypothesis that metabolic gene clusters evolve to face metabolite pools perturbations introduced by DNA replication and enable an easier control of metabolic fluxes. Using a set of simulations of increasing complexity that combine MCA with a model of gene multiplicity during replication, we provide the theoretical basis for our hypothesis and motivate the existence of a selective pressure that likely contributed to gene clustering. In doing so, we also disclose a plausible mechanism through which other hypotheses can play a significant role, as they require genes in close proximity. The improvements of this work with respect to previous ones is that since flux and concentration control coefficients are systemic properties, we rely on a realistic metabolic system and integrate it with a genome evolutionary model that explicitly takes into account structural rearrangements. Another important aspect of this work is that we are not using an artificial definition of a metabolic pathway, but, rather, we define a metabolic system potentially containing many overlapping pathways, and we let gene organization evolve on its own based on the effect on metabolite homeostasis. This complicates and slows down considerably the evolutionary process because many structural rearrangements that move some of the genes closer, likely split previously formed clusters. However, this is exactly what happens in real genome evolution where all genes somehow exert an effect on fitness and are therefore not completely free of moving; the genomes where an event breaks a pre-existing cluster will survive if this is compatible with their fitness. Even with these complications, we are able to observe the formation of clusters and a strong increase in the fitness consequent to genome rearrangements. Taken together, our simulations show that introducing the PTR as a controller of enzyme abundances in a metabolic model and fixing an evolutionary meaningful objective such as metabolite homeostasis leads to the formation of gene clusters.
+
+One possible limitation of our hypothesis is the existence of a critical distance separating two genes (
+
+In conclusion, we consider our hypothesis instrumental for driving genes at short distances, a prerequisite for many other hypotheses for operon formation. Indeed, once genes get close, other mechanisms can take over. If the genes become a single transcriptional unit, the most important is co-regulation, in addition or otherwise, the production of functionally related proteins in a smaller volume may provide additional advantages. This would make the cluster more resistant in evolutionary time, such that the selection for specific transcription patterns could drive the removal of functionally unrelated genes (
+
+The selective force for better homeostasis is able to explain gene clustering, but once a certain critical threshold
+
+Our theoretical predictions suggest that the larger the average number of replisomes, the stronger the selective pressure toward gene clustering. By deriving a measure of the degree of compaction of metabolic genes for many species, we indeed confirmed that mero-oligoploid species have a significantly and globally more compact organization of metabolic genes. In the future, it would be interesting to experimentally test our theory. For example, by measuring if metabolite pools for pathways that are organized in an operon tend to have a more stable concentration than metabolite pools of pathways with scattered genes. Collecting enough metabolomic experiments at different growth rates for organisms with known genome structures, it should be possible to provide a quantitative interpretation of our gene cluster evolution model.
+
+We believe that our hypothesis has several important repercussions on the way we conceive metabolic operon evolution on the one side and how we see ploidy and DNA replication in bacteria on the other. Indeed, here, we propose that the selective pressure toward gene clustering would be a function of the number of replication forks (summarized here by the PTR) such that mero-oligoploids could be considered major gene cluster formers, whereas others, especially mono-ploids would be subject to reduced pressures in that sense. Nonetheless, fully formed operons still provide significant advantages to the latter, and horizontal gene transfer might be responsible for the diffusion of operons.
+
+Not all cellular processes might benefit from the clustering of their genes into operons, in accordance with the imbalance described in this work; namely, functionally related genes involved in cellular processes other than metabolism might behave differently, yet whenever two proteins work in precise ratios, such as in macro-molecular complexes, a similar effect could be at work, given that the sub-units produced in excess would weigh on the cellular energetic burden, which is in agreement with the results described by reference

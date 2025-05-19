@@ -1,0 +1,11 @@
+{
+  "id": "39462402",
+  "title": "CRISPR-Cas system positively regulates virulence of Salmonella enterica serovar Typhimurium.",
+  "doi": null,
+  "authors": "Sharma N, Das A, Nair AV, Sethi P, Negi VD, Chakravortty D, Marathe SA",
+  "journal": "Gut pathogens",
+  "year": "2024",
+  "abstract": "Salmonella, a foodborne pathogen, possesses a type I-E clustered regularly interspaced short palindromic repeats (CRISPR)-CRISPR associated (Cas) system. We investigated the system's role in regulating Salmonella virulence by deleting the CRISPR arrays and Cas operon. Our study demonstrates invasion and proliferation defects of CRISPR-Cas knockout strains in intestinal epithelial cells and macrophages owing to the repression of invasion and virulence genes. However, proliferation defects were not observed in the Gp91 Overall, our study extends our understanding of the role of the CRISPR-Cas system in Salmonella pathogenesis and its virulence determinants.",
+  "source": "PubMed",
+  "pmcid": "PMC11514906"
+}

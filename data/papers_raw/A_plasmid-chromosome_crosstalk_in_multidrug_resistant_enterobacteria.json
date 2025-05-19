@@ -1,0 +1,11 @@
+{
+  "id": "39738078",
+  "title": "A plasmid-chromosome crosstalk in multidrug resistant enterobacteria.",
+  "doi": null,
+  "authors": "Toribio-Celestino L, Calvo-Villamañán A, Herencias C, Alonso-Del Valle A, Sastre-Dominguez J, Quesada S, Mazel D, Rocha EPC, Fernández-Calvet A, San Millan A",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "Conjugative plasmids promote the dissemination and evolution of antimicrobial resistance in bacterial pathogens. However, plasmid acquisition can produce physiological alterations in the bacterial host, leading to potential fitness costs that determine the clinical success of bacteria-plasmid associations. In this study, we use a transcriptomic approach to characterize the interactions between a globally disseminated carbapenem resistance plasmid, pOXA-48, and a diverse collection of multidrug resistant (MDR) enterobacteria. Although pOXA-48 produces mostly strain-specific transcriptional alterations, it also leads to the common overexpression of a small chromosomal operon present in Klebsiella spp. and Citrobacter freundii strains. This operon includes two genes coding for a pirin and an isochorismatase family proteins (pfp and ifp), and shows evidence of horizontal mobilization across Proteobacteria species. Combining genetic engineering, transcriptomics, and CRISPRi gene silencing, we show that a pOXA-48-encoded LysR regulator is responsible for the plasmid-chromosome crosstalk. Crucially, the operon overexpression produces a fitness benefit in a pOXA-48-carrying MDR K. pneumoniae strain, suggesting that this crosstalk promotes the dissemination of carbapenem resistance in clinical settings.",
+  "source": "PubMed",
+  "pmcid": "PMC11686079"
+}

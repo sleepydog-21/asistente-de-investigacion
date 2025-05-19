@@ -1,0 +1,11 @@
+{
+  "id": "40156854",
+  "title": "A hidden intrinsic ability of bicistronic expression based on a novel translation reinitiation mechanism in yeast.",
+  "doi": null,
+  "authors": "Sun Y, Bock R, Li Z",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "Gene organization in operons and co-expression as polycistronic transcripts is characteristic of prokaryotes. With the evolution of the eukaryotic translation machinery, operon structure and expression of polycistrons were largely abandoned. Whether eukaryotes still possess the ability to express polycistrons, and how they functionally activate bacterial operons acquired by horizontal DNA transfer is unknown. Here, we demonstrate that a polycistron can be rapidly activated in yeast by induction of bicistronic expression under selection. We show that induced translation of the downstream cistron in a bicistronic transcript is based on a novel type of reinitiation mediated by the 80S ribosome and triggered by inefficient stop codon recognition, and that induced bicistronic expression is stable and independent of cis-elements. These results provide key insights into the epigenetic mechanism of the pathway of activation. We also developed a yeast strain that efficiently expresses bicistronic constructs, but does not carry any genomic DNA sequence change, and utilized this strain to synthesize a high-value metabolite from a bicistronic expression construct. Together, our results reveal the capacity of yeast to express bicistrons in a previously unrecognized pathway. While this capacity is normally hidden, it can be rapidly induced by selection to improve fitness.",
+  "source": "PubMed",
+  "pmcid": "PMC11952965"
+}

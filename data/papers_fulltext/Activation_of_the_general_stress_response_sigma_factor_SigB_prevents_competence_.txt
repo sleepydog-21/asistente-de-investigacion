@@ -1,0 +1,71 @@
+In nature, growth of microorganisms is restricted by various adverse conditions, such as physical stresses and nutrient starvation. In order to thrive under these unfavorable conditions, microorganisms must constantly monitor their environment, process these data with the help of a complex regulatory network, and finally respond by adapting accordingly. Within this network, interconnected master regulators organize topology by amplifying or attenuating signals to ensure an appropriate response for survival of the population. The identification and functional characterization of specific nodes connecting master regulators in a given network facilitate comprehension of integrated responses and help to predict or deduce universally valid decision rules. The prospects of achieving these ambitious goals are best for already well-studied model organisms, like
+
+Simplified schematic overview of the growth cycle of
+
+Based on these observations, we previously proposed a model in which SigB performs two functions, (i) silencing the competing adaptive responses and (ii) simultaneously facilitating sufficient production of the general stress proteins that provide protection under acute physical stress conditions. In our present work, we show that the exposure to visible light and ethanol stress trigger SigB-dependent expression of a specific antisense transcript (
+
+It is a common observation that transformation efficiency can vary substantially in
+
+Stress-dependent reduction of transformation frequencies in
+
+In order to distinguish the direct effect of SigB from potential pleiotropic effects caused by different stress stimuli, an inducible system for SigB expression was generated in the original chromosomal locus of the
+
+SigB-dependent reduction of transformation frequencies in
+
+Having shown that the activity of the alternative sigma factor SigB is responsible for a block of competence development and transformability, we sought to identify the molecular mechanism or regulatory link interconnecting both systems. A very promising candidate for a direct SigB-dependent prevention of the production of the competence master regulator ComK emerged from the analysis of a previous comprehensive transcriptome study of
+
+Analysis of the impact of SigB activity on transcript patterns in the
+
+With regard to the stress-free induction of active SigB in the BAR610 strain, expression of
+
+In order to exclude a possible effect of the co-transcribed gene
+
+Next, we wanted to test the hypothesis that the induction of the antisense transcript
+
+Induction of the antisense transcript
+
+Expression of antisense RNAs might directly reduce expression of genes of the opposite strand by interfering with the transcriptional machinery or impact expression of target genes via binding to target RNAs and then reducing translation by inhibiting ribosome binding and/or decreasing mRNA stability. In order to distinguish between these two options, a
+
+If SigB activities reach non-physiologically high levels, they become detrimental to growth and cause cell lysis or strong pleiotropic and unwanted regulatory effects (
+
+The direct comparison of ethanol induction in the wild type and Δ
+
+Comparative analysis of SigB protein quantity and SigB activity in the strains
+
+Since ComK controls the expression of an entire regulon, we wanted to record global proteomic data on ComK quantity and expression of the competence proteins in addition to the data on the
+
+Comparative analysis of ComK protein quantity and ComK activity in the strains
+
+The intensity patterns described for ComK are essentially matched by competence protein ComC, the synthesis of which strictly depends on the activity of ComK. In the wild type, ethanol stress-dependent suppression of ComK regulon expression was observed. This suppression was present to a lesser extent in the control strain Δ
+
+In the present study, we have revealed that the general stress response sigma factor SigB is able to reduce or prevent natural competence development upon activation by environmental stresses. On the molecular level, this block is accomplished by the SigB-dependent induction of the
+
+From a physiological point of view, it has been shown that high level expression of the as-
+
+The ability of SigB to prevent competence by limiting the amount of the critical competence transcription factor ComK represents an important link connecting two major adaptation processes in the regulatory network of
+
+All modifications were introduced into the chromosome of
+
+Unless otherwise stated, all experiments have been carried out at least as biological triplicates. All bacterial culturing was performed in a darkened laboratory under exclusion of daylight with a weak artificial light source. Light sources in the shaker were deactivated, and viewing windows were sealed with aluminum foil. Glass flasks for the cultivation of the main cultures were also wrapped with aluminum foil up to the top edge. For inoculation of main cultures in competence medium (
+
+As soon as the cell cultures reached an optical density of OD
+
+Harvested cells were resuspended in 200 µL lysis solution (4 M guanidine-thiocyanate, 0.025 M Na-acetate [pH 5.2], 10% [wt/vol] N-lauroylsarcosinate) and immediately transferred to a precooled (liquid nitrogen) 4.8 mL Teflon vessel containing an 8-mm diameter steel ball. Cells were mechanically disrupted using a Dismembrator (Retsch GmbH, Haan, Germany) at 2,600 rpm for 3 min. Cell powder was resuspended with 2 mL lysis solution and immediately cooled in liquid nitrogen. Subsequently, total RNA was isolated according to the acid phenol method of Majumdar et al. (
+
+NIR Northern blots were performed according to the protocol of ProTec Diagnostics GmbH. To determine transcript sizes, the RNA TRUE Ladder from ProTec Diagnostics GmbH was used. RNA blots were methylene blue stained to check for RNA quality and equally loaded amounts. RNA probes for
+
+For the transformation assays, the respective strains were grown under control conditions in the dark (darkness control), until cultures reached an optical density of OD
+
+For the light stress experiments, a full-spectrum daylight LED of the manufacturer True Light International GmbH (article number 8012) was used. According to the manufacturer’s specifications, the LEDs have a nominal luminous flux of 970 lumens at 25°C, a correlated color temperature (CCT) of 5500 Kelvin and a color rendering index (CRI) of 96 (%). The light source (LED carrier plate) has been spatially separated from the voltage transformer in the bulb to avoid possible heat influence on the cells. The shaking flasks used had a base diameter of 13 cm and a height of 23 cm. The neck of the flasks had a diameter of 7 cm. The LED carrier plate was connected to the lid of the shaking flask and was positioned inside the flask with a distance of 15 cm from the bottom. With the nominal light beam of 970 lm, a solid angle of about 45°, and a distance of 15 cm from the culture surface, an illuminance (E) of about 90,138 lx was achieved on the bottom surface of the shaking flask (area of 133 cm
+
+The strains BAR78, BAR85, and BAR79 were grown under control conditions in the dark (darkness control) or in the dark until cultures reached an optical density of OD
+
+Bacterial cells (300 µL culture volume) were sampled on ice and analyzed immediately in a FACSAria III high-speed cell sorter (Becton Dickinson Biosciences, San Jose, CA, USA) with 488 nm excitation from a blue Coherent Sapphire solid-state laser at 18 mW. Optical filters were set up to detect the emitted GFP fluorescence signal at 530/30 nm (FITC channel). Samples were prepared by using 100 µL bacterial culture suspension diluted with 1 mL PBS. All data were recorded at logarithmic scale with the FACSDiva v6.1.3 software (Becton Dickinson). Prior to measurement of experimental samples, the proper function of the instrument was determined by using the cytometer setup and tracking software module (CS&T) together with the CS&T beads (Becton Dickinson Biosciences). First, in a SSC-area versus FSC-area dot plot, the bacterial cell population was gated. The detection thresholds and photomultiplier (PMT) voltages were adjusted by using a non-GFP-expressing strain (BAR 502). The GFP signal from the scatter gate population was monitored in a GFP-area histogram. For each sample, 10.000 events in the scatter gate were recorded.
+
+Five micrograms of the protein lysate was allocated to each lane and separated by using SDS-PAGE with Mini-Protean. Subsequently, the proteins were transferred to a polyvinylidene difluoride (PVDF) membrane for Western blot analysis as described previously (
+
+To obtain protein lysate, cells were mechanically disrupted as described previously (
+
+Spectronaut version 17 (Biognosys AG) was used in order to analyze the data-independent (DIA) proteome experiment using the database Uniprot/Swissprot for
+
+Statistical significance of differences was determined using a two-sample

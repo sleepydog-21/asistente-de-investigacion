@@ -1,0 +1,83 @@
+Dose-limiting toxicities pose a major challenge in drug development (
+
+Despite advances in immunotherapy, cytotoxic chemotherapies such as fluoropyrimidines remain a cornerstone of gastrointestinal cancer treatment (
+
+Here, we explore the role of microbial
+
+We conducted the
+
+We utilized 16S rRNA gene sequencing to assess longitudinal shifts in the gut microbiota during cancer therapy. To better power our analysis, we sought to capture the overall longitudinal trends across all patients in all sub-cohorts. The combined dataset represented 217 samples from 40 patients with 67,915±3,744 high-quality reads per sample (
+
+We sought to replicate these observations using an independent patient cohort. We obtained previously published (
+
+Given the numerous potential mechanisms through which the gut microbiome can influence cancer progression and drug response, we sought to use metagenomic sequencing to develop a mechanistic hypothesis as to the consequences of fluoropyrimidine-induced shifts in the gut microbiome for drug response. Our metagenomic GO dataset represents 229 stool samples from 40 patients, with 26.02±10.87 million high quality reads per sample (7.68±0.22 Gbp,
+
+Inspection of the KOs within these pathways (
+
+Given the clear clinical implications of the inactivation of 5-FU to DHFU (
+
+We further validated these findings by testing the functional relevance of shifts in the abundance of
+
+These data raised the intriguing hypothesis that an expansion of
+
+CAP was administered by oral gavage to 8-week old female C57BL/6J mice (n = 8–12 mice/group;
+
+CAP significantly altered the gut microbiota in our mouse model. We observed a significant decrease in Shannon diversity index (
+
+Having established our mouse model, we tested if the overall gut microbiota impacts CAP toxicity. To deplete the gut microbiota, 6–8 week old female C57BL/6J mice were treated with a cocktail of broad-spectrum antibiotics (ampicillin, vancomycin, neomycin, and metronidazole; AVNM) or vehicle for one week prior to CAP administration (
+
+These effects were validated in gnotobiotic mice. We compared CAP toxicity in germ-free (GF), conventionalized (ex-GF, CONV-D), and conventionally-raised (CONV-R) 6–8 week old female C57BL/6J mice (
+
+We leveraged this toxicity model to test the impact of bacterial
+
+Finally, we sought to assess the translational relevance of our findings in this mouse model of toxicity. We performed a retrospective chart review of oral fluoropyrimidine-associated side effects reported on the GO study. The majority (21/40) of GO subjects had at least one documented toxicity-related event, including 6 subjects with documented CAP dose reductions during the study (
+
+This study underscores the complex and clinically meaningful interplay between the gut microbiome and oral fluoropyrimidines, a commonly-used chemotherapy. Longitudinal analyses of patient stool showed that chemotherapy has broad impacts on human gut microbial community structure, gene, and pathway abundance. This includes an enrichment for the bacterial
+
+Remarkably, we were able to detect consistent oral fluoropyrimidine-associated shifts in the gut microbiota in distinct patient cohorts from the United States and the Netherlands. This is particularly surprising given the geographical differences in the human gut microbiota (
+
+While we opted to focus on
+
+Our results emphasize the complex role the gut microbiome can play in chemotherapy response. In this study, we utilized a novel mouse model to demonstrate that CAP toxicity is microbiome-dependent, consistent with data in human subjects showing heightened toxicity of CAP-containing regimens in antibiotic-pretreated patients (
+
+The observation that bacterial
+
+Low
+
+While this work emphasizes the crucial role of drug-microbiome interactions in cancer therapy, key translational questions remain. Heterogeneous patient populations, combinatorial treatment regimens, and small sub-cohort sample sizes limited our ability to test the impact of immunotherapy, radiation, and biologics on the microbiome. Since host DPYD deficiency is associated with life-threatening side effects (
+
+Overall, our results highlight the complex and bidirectional relationship between the gut microbiome and oral fluoropyrimidine chemotherapy and the consequences of this relationship for host drug toxicity. Integrating longitudinal microbiome analysis with
+
+The
+
+ZymoBIOMICs 96 MagBead DNA Kit was used for DNA extractions from mouse and human stool. 750 µL of lysis solution was added to fecal aliquots (20–50 mg) in lysis tubes. Samples were homogenized with 5 min bead beating (Mini-Beadbeater-96, BioSpec), followed by 5 min room temperature (RT) incubation, and repeat 5 min bead beating. Samples were centrifuged for 1 min at 15,000 rcf, with 200 µL supernatant transferred into 1 mL deep-well plates and purified according to the manufacturer’s instructions.
+
+The V4 region of the 16S rRNA gene was amplified using primers targeting 515F/806R regions (
+
+Alpha diversity metrics were computed with Phyloseq command estimate_richness (
+
+Shotgun libraries were prepared using the Illumina DNA Prep Tagmentation kit according to the manufacturer protocol. Libraries were assessed with PicoGreen and TapeStation 4200 (Agilent) for quantity and quality checks. Paired end libraries were sequenced using S1 flow cells on Illumina NovaSeq 6000 platforms. Demultiplexed reads underwent adapter trimming and quality filtering with FastP (v0.23.2) (
+
+Gene abundances were normalized to reads per kilobase per genome equivalent using microbeCensus values prior to downstream analysis (
+
+Three patients from Cohort A with variable Baseline vs C1D7 diversity were selected for
+
+Quantification was performed using a validated 5-FU quantification protocol (
+
+All animal experiments were conducted under protocol AN200526 approved by the UCSF Institutional Animal Care and Use Committee. GF C57BL/6J mice were born at UCSF; specific pathogen free (SPF) C57BL6/J mice were purchased from Jackson Laboratory. Diets were provided
+
+Buffer was prepared by dissolving 964 mg sodium citrate dihydrate and 139 mg of citric acid into 90 mL deionized water (DI), adjusting pH to 6.0 with HCl or NaOH, adding 5 g gum arabic, bringing final volume to 100 mL, and autoclaving for 20 min. CAP solution was prepared fresh daily (SPF experiments) or weekly (gnotobiotic experiments) by dissolving CAP into the buffer with continuous agitation and heating. Mice were given a single CAP bolus daily by oral gavage. CAP was dosed by body weight, with CAP quantity determined such that 200 µL solution contained the total CAP dose (1100 or 1500 mg/kg) for the largest mouse. Gavage needles were rinsed with DI in between each mouse, with different needles for each experimental group.
+
+20 mice were gavaged with 1500 mg/kg CAP (n = 12) or 200 µL buffer (
+
+Antibiotic (AVNM) or Vehicle (Veh) water was prepared fresh weekly from autoclaved tap water supplemented with sucrose (0.5 g/L sucrose) ± antibiotics (1g/L ampicillin, 0.5g/L vancomycin, 1 g/L neomycin, 0.5 g/L metronidazole), followed by 0.2 μm filter sterilization. 24 mice were treated
+
+To generate CONV-D mice, cecal contents from a single SPF donor was resuspended in 10% BHI+ aerobically and passed through a 100 μm filter, with 200 μL administered to GF mice followed by a 1 week engraftment period. CONV-R (
+
+Streptomycin water was prepared fresh weekly from autoclaved tap water supplemented with 5 g/L streptomycin, followed by 0.2 μm filter sterilization. 32 mice were treated
+
+Overnight cultures of engineered
+
+Two independent experiments were conducted. For each experiment, two donors with variable baseline
+
+Statistical analysis was performed in R (v4.2.1) (

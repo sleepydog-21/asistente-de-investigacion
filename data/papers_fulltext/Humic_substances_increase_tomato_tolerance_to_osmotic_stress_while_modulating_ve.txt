@@ -1,0 +1,91 @@
+Climate change poses a range of challenges to essential agricultural crops, including extreme weather events, temperature fluctuations, and, most notably, an increase in drought frequency (
+
+To address this constraint, the use of biostimulants—substances or microbial inoculants that improve nutrient efficacy, stress tolerance, and crop quality—has gained attention (
+
+Plants are known to harbor microbial communities within their tissues, known as endophytes, whose composition is shaped by various biotic and abiotic factors (
+
+Although HS and beneficial bacteria are effective as stand-alone biostimulants, numerous studies have shown that their positive impact on plant growth and stress tolerance is enhanced when used in co-inoculation (
+
+In the present work, we hypothesize that HS positively influence plant growth and stress resilience concurrently with modifications in bacterial endophytic communities and that investigating these effects could help in understanding the mechanism of action of these molecules. To distinguish the direct effect of HS on the plant and their indirect effect via interactions with the soil microbiome, we developed a hydroponic system in sterile conditions. This setup allowed us to focus exclusively on seed-transmitted endophytic bacteria, avoiding any influence from the soil microbiome. This study analyzed the effects of HS on tomato growth under both non-stress and osmotic stress conditions, comparing the endophytic communities in roots across these different scenarios. The objectives were to determine (i) the impact of osmotic stress, (ii) the influence of HS, and (iii) the combined effects of HS and osmotic stress on both plant growth and the composition of the bacterial endophytic community. The results highlight the distinct effects of osmotic stress, HS, and their combined interaction on plant growth and the composition of the bacterial endophytic community.
+
+The experiment followed a completely randomized design. Four treatments were tested: (1) “Control”, (2) “PEG” for osmotic stress, (3) “HS” for humic substances, and (4) “PEG + HS” for HS application under osmotic stress. Six biological replicates were used per treatment, and all were harvested after 3 weeks. The experiment was repeated three times.
+
+
+
+Schematic of the experimental workflow. (1) Under sterile conditions, a culture was made first in a germination system composed of a sterile box filled with sterile water and tips in which absorbent paper and seeds were placed. At the two-cotyledon stage, the seedlings were transferred into a custom-designed sterile hydroponic system filled with Hoagland’s solution adapted for tomato plants and enclosed in an autoclavable culture bag with a 0.02-µm filter to allow gas exchange. After 1 week of adaptation, both osmotic stress and humic substances were applied in the hydroponic solution. The plants were grown during 3 weeks, and the sterile hydroponic solution was replaced and the treatments were applied every week. (2) At harvest, the effects of HS, osmotic stress, and both were evaluated through morphological and physiological analyses including shoot length, fresh and dry weight of aerial parts and roots, leaf area, stomatal conductance, efficiency of photosystem II, SPAD, osmotic potential of leaves, and proline and MDA content in leaves. (3) The tomato plants grown under sterile conditions were harvested after 3 weeks, and DNA of the roots was extracted before 16S-ITS-23S rrn amplification (4,500 bp) with a new designed peptide nucleic acid clamp and Nanopore sequencing. Raw data were analyzed with PRONAME tools.
+
+For the osmotic stress treatment (“PEG”), the plants were cultivated in Hoagland’s solution supplemented with 10% w/v polyethylene glycol 6000 (PEG 6000), chosen based on preliminary tests to quickly induce stress without causing plant death. This adjustment shifted the osmotic potential from -0.02 to -0.2 MPa. Plants treated only with HS (“HS”) were grown in hydroponic solution supplemented with humic and fulvic acids at a concentration of 500 µL · L
+
+The HS utilized in this study is the commercial biostimulant Humifirst
+
+The content of Humifirst and its characteristics inferred from a chromatographic analysis have been meticulously calibrated and were previously detailed by
+
+At harvest, the morphological and physiological variables were analyzed on six plants per treatment. The leaf area was scanned and analyzed using ImageJ. The stomatal conductance and the chlorophyll content were measured for each leaf at the four-leaf stage using the AP4 porometer and the SPAD chlorophyll meter, respectively. Measurements of stomatal conductance and relative chlorophyll content were taken at the center of each leaf, not on the vein. The efficiency of photosystem II was evaluated with a fluorimeter with two indicators: Fv/Fm which represents the maximum quantum yield of photosystem II and qPSII which is the actual quantum yield. The osmotic potential of leaves was measured with the VAPRO
+
+During the third and final assay of HS application on tomato grown under non-stress and osmotic stress conditions, impact on endophytic communities was evaluated. At harvest, five plants per treatment (Control, HS, PEG + HS, and PEG) were surface-disinfected. Briefly, entire tomato plants were first placed in NAP buffer (124 mM Na
+
+The extracted DNA was amplified using the primers 16S-8F (5′-AGRGTTYGATYMTGGCTCAG-3′) and 23S-2490R (5′-CGACATCGAGGTGCCAAAC-3′), targeting the 16S-ITS-23S region of the ribosomal operon (
+
+Libraries were prepared using Ligation Sequencing Kit V14 (SQK-LSK114) (Oxford Nanopore Technologies, Oxford, UK) according to the manufacturer’s instructions. Briefly, amplicons were processed for end repair using NEBNextUltra II End Repair/dA-tailing Module (New England Biolabs, Ipswich, MA, USA), and sequencing adapters were attached. The libraries were sequenced with a MinION device (Oxford Nanopore Technologies) using Flongle Flow Cells (R10.4.1) for 24 h.
+
+Raw data were analyzed with PRONAME (Dubois et al., manuscript submitted for publication). Briefly, raw data were imported into PRONAME, adapters and primers were trimmed, and a graph of simplex and duplex read distribution was constructed. Data were filtered by keeping only duplex reads with a length between 3,500 and 5,000 bp and with a minimum quality score of 15. PRONAME clustered reads with a percentage of identity of 90%, centroid sequences were polished using Medaka, and chimera sequences were discarded. The taxonomic analysis of representative sequences was carried out using the blastn standalone tool (v2.15.0) (
+
+The impact of HS on tomato growth was evaluated three times, and data were analyzed with RStudio. After validating the data for normal distribution (Shapiro–Wilk test,
+
+The composition of endophytic communities associated with the roots was analyzed during the third repetition. Differences in bacterial endophytic communities according to the treatment applied (Control, PEG, HS, and PEG + HS) were evaluated using both alpha and beta diversity. Alpha diversity was calculated using the vegan R package (
+
+In the absence of stress, HS application did not significantly affect most of the measured growth parameters (
+
+Impact of osmotic stress and humic substances on the morphological traits of tomato. Fresh and dry weight of aerial parts
+
+Impact of osmotic stress and humic substances on the physiological traits of tomato. Proline and malondialdehyde (MDA) content in aerial parts
+
+Plants grown under polyethylene glycol (“PEG”)-induced osmotic stress showed a general decrease in growth. Indeed reduced fresh and dry weights, shoot length, and leaf area were observed after 3 weeks of treatment (
+
+Under osmotic stress, the addition of HS significantly enhanced the aerial part and root fresh weights (484% and 339%, respectively) as well as the aerial part and root dry weights which showed increases of 324% and 239%, respectively (
+
+The metabarcoding Nanopore sequencing of 20 samples resulted in 613,942 high-quality duplex reads. One sample from the HS treatment was excluded due to an insufficient number of reads, resulting in four samples for this treatment. The bioinformatic reconstruction of root endophytic communities identified 59 distinct representative sequences classified into five phyla. For reasons of simplicity, we will call them OTUs. Proteobacteria emerged as the most predominant phylum across all conditions, with relative abundances of 99.84%, 75.33%, 99.33%, and 84.02% in the “Control”, “HS”, “PEG”, and “PEG + HS” treatments, respectively.
+
+The genera with high relative abundance were similar in the “Control” and “PEG”-treated groups, comprising
+
+Mean relative abundance of endophytic bacterial taxa, at the genus level, in the roots of tomato plants according to the treatment applied. “Control”, “HS”, “PEG”, and “PEG + HS” stand for untreated plants, no stress and treated with humic substances (HS), osmotic stress, and osmotic stress and treated with HS, respectively (
+
+Bacterial richness was consistent between “Control” and “HS”-treated plants. However, following osmotic stress treatment, a significant decrease was observed in bacterial richness in both “PEG”- and “PEG + HS”-treated plants, with a significant difference in alpha diversity analyzed with Shannon entropy and Pielou evenness (
+
+Distinct patterns emerged in the beta diversity among different treatments, as illustrated by the principal coordinates analysis (PCoA;
+
+Analysis of similarity of the impact of both osmotic stress and/or HS on bacterial endophytic communities in the roots of tomato plants at the genus and species levels.
+
+The treatment comprised both humic substances (HS) and polyethylene glycol (PEG) application.
+
+*
+
+Notably, applying the biostimulant without osmotic stress led to an increase in
+
+Bacterial genera enriched or depleted in tomato roots treated with humic substances (HS)
+
+Combining HS and osmotic stress induced an increase in the genera
+
+Finally, osmotic stress application did not significantly alter the beta diversity (
+
+This study employed a sterile hydroponic system to isolate the direct effects of HS on plant physiology from interactions with soil microbes. In this particular system, the results indicate that, under osmotic stress, HS application enhanced tomato resilience, evidenced by increased shoot and root weights, leaf area, shoot length, total chlorophyll content, and stomatal conductance. This growth enhancement is likely due to HS’ protective effects, activating antioxidant enzymes and thereby reducing oxidative stress, as indicated by the lower MDA content in leaves. The observed decrease in MDA levels post-HS application points to reduced lipid membrane peroxidation, a marker of oxidative damage. This aligns with other studies showing that HS application under stress conditions leads to a healthier plant state through enhanced antioxidant enzyme activities such as those of superoxide dismutase (SOD), catalase (CAT), ascorbate peroxidase (APX), and peroxidase (POX) (
+
+The result of this experiment revealed that the increase of tomato resilience to osmotic stress is associated with its direct interaction with plants or its phytobiome and not with an indirect effect through the soil. Since seed-transmitted endophytic communities of plants are now well recognized to play a role in plant health (
+
+The composition of the endophytic microbiome in tomato plants is highly sensitive to environmental conditions. In this study, the tomatoes were grown under sterile conditions, and the hydroponic solution containing PEG, HS, or both was autoclaved before use. Therefore, the observed shifts in the microbiome are not attributable to external microorganisms. The sterile conditions likely reduced the diversity of the endophytic communities by preventing the introduction of soil-derived microbes.
+
+Notably, osmotic stress alters bacterial community composition by reducing the alpha diversity in both HS-treated and untreated plants. A similar reduction of bacterial richness in the roots of
+
+Under both stress and non-stress conditions, the application of HS led to an increase of Bacteroidetes, especially of
+
+In parallel, Actinobacteria have also been found to be active in degrading HS in freshwater and estuarine environments (
+
+Finally, the genus
+
+In summary, endophytic communities carried by tomato seeds and transmitted to the roots were distinctly influenced by osmotic stress and the application of HS, either individually or in combination. The variations following the application of HS can be attributed to several hypotheses: (1) the composition of the HS may favor certain genera capable of using these compounds, indicating a direct nutritional impact, specifically for the
+
+In conclusion, this study investigated the combined and individual impacts of HS and osmotic stress on plant physiology and endophytic communities, revealing a possible correlation between endophytic communities and plant physiology, even in sterile environments. This underscores the importance of seed-borne bacteria as a primary inoculum. Moreover, HS application under osmotic stress increased tomato growth parameters in concert with the abundance of
+
+Future research should explore the role of plants in the shifts observed in endophytic bacterial communities following the application of HS and PEG. This could involve creating synthetic microbial communities based on metabarcoding results to directly test the effects of HS and PEG on bacterial strains and communities as well as using RNAseq to identify the most expressed bacterial genes under different conditions. Additionally, the current study is limited by its 3-week duration, which may not have allowed the full capture of the long-term effects of HS and osmotic stress on plant growth and endophytic communities, particularly beyond the vegetative stage. Future studies should consider extending the experimental period to observe potential impacts throughout the entire cultivation cycle.
+
+Moreover, a promising avenue for future research involves exploring how HS induce shifts in endophytic bacterial communities, guided by several key hypotheses. One hypothesis suggests that HS may favor bacterial species capable of using HS as electron donors in the anammox process. This could be tested by creating knockout mutants of specific genes involved in this pathway, such as hydrazine synthase (

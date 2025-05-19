@@ -1,0 +1,14 @@
+[
+  {
+    "pregunta": "what are operons",
+    "respuesta": "Operons are a fundamental concept in molecular biology, particularly in the context of bacterial genetics. An operon is a cluster of genes arranged in a linear sequence on a chromosome, which are transcribed together under the control of a single promoter and regulated collectively by a specific regulatory mechanism. This arrangement allows for coordinated expression of genes that are typically involved in a common metabolic pathway or serve related functions.\n\nThe most well-known example of an operon is the lac operon in *Escherichia coli*, which is involved in the metabolism of lactose. The lac operon consists of three structural genes: lacZ, lacY, and lacA, which code for β-galactosidase, lactose permease, and thiogalactoside transacetylase, respectively. These genes are transcribed into a single mRNA molecule under the control of a promoter upstream of lacZ and are regulated by several factors including a repressor protein which binds to the operator sequence to prevent transcription when lactose is absent.\n\nOperons are a key feature of prokaryotic genomes, providing an efficient mechanism for regulating gene expression in response to environmental changes, thereby conserving energy and resources by only producing proteins when they are needed. This concept of gene regulation is crucial for understanding bacterial behavior, including antibiotic resistance and metabolic capabilities, which can have implications in medical and industrial microbiology.",
+    "citas": [
+      "Andreas MP et al., 2022. Heterologous expression and purification of encapsulins in .",
+      "Zhou H et al., 2025. Transcriptional mechanism by which IS5 activates the fucAO operon in Escherichia coli.."
+    ],
+    "articulos_usados": [
+      "Heterologous expression and purification of encapsulins in ",
+      "Transcriptional mechanism by which IS5 activates the fucAO operon in Escherichia coli."
+    ]
+  }
+]

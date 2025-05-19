@@ -1,0 +1,45 @@
+The
+
+In Thailand, an analysis of the assessed health burden due to antimicrobial-resistant (AMR) bacteria from 2009 to 2010 showed that at least 90,000 patients per year were hospitalized with antimicrobial-resistant bacterial infections; approximately one-third of them died [
+
+Our recent report indicated that
+
+Sixty-eight
+
+In order to characterize these
+
+Based on AMR patterns, MDR, last-line drug (COL and IMI) resistance, and ESBL-producing isolates were found in our collection. To investigate the genotypic characteristics of these isolates, genomic data were annotated and predicted for AMR genes using the ResFinder and NDARO databases (
+
+The beta-lactam (amoxicillin–clavulanic acid, AMC, AMP, CAZ, CTX, or IMI) resistance phenotype comprised the majority of resistance patterns (n = 44/68, 64.71%). Seven ESBL-producing strains (8.82%) contained beta-lactamase (
+
+In our collection, we found only one strain with carbapenem resistance, CM24E, which harbored
+
+Virulence properties in
+
+Five genes in the invasion category (
+
+Among the genomic data from 68
+
+To analyze the correlation between genotype (AMR and virulence) and phenotype (AMR), the data on AMR patterns obtained from disk diffusion and microdilution (0 = sensitive, 1 = intermediate resistance or resistance) and genotypic data (0 = absence, 1 = presence) were analyzed using Pearson correlation. We found no correlations between phenotypes and genotypes among all strains of
+
+In Clermont type B1,
+
+The presence of
+
+Based on whole genome sequencing, we found that the majority of isolated strains belong to Clermont type A (51.47%), followed by B1 (41.18%), C (2.94%), D (2.94%), and B2 (1.47%). Clermont types A, B1, and C are major clusters of commensal nonpathogenic
+
+Based on AMR gene prediction, we found that six strains harbored the
+
+The
+
+Regarding plasmid replicon prediction, we found more than 30 replicon types in 68
+
+Antibiotic susceptibility was determined using the disk diffusion method for 11 drugs [amikacin (AMK, 30 μg, Oxoid
+
+Whole genomic DNA was extracted using a modified Marmur procedure [
+
+Raw read quality was assessed using FastQC version 0.11.9 [
+
+The correlation between genotype and phenotype was analyzed using Pearson’s correlation coefficient [
+
+Among the 68 strains of

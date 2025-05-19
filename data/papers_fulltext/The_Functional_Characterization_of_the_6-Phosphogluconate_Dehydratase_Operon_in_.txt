@@ -1,0 +1,47 @@
+2-Ketogluconic acid (2KGA) is a noncorrosive organic acid (pKa = 2.66) with multiple uses, like as a calcium-enriched feed additive, cement plasticizer, cement retarder, and detergent [
+
+The genus
+
+The transcriptional regulation of the ED pathway has been well investigated in
+
+The
+
+Bacterial strains and plasmids used in this study are listed in
+
+The plasmids used in the present study were listed in
+
+The promoter and structural genes and their positions of
+
+Based on the predicted sequence of the promoter region in the
+
+Herein, T represented the reaction time (min), V represented the sample volume added in the reaction system (mL), and OD
+
+The transcription start site (TSS) of the
+
+The plasmid pK18
+
+Since the primers R1/R4 of Δ
+
+The plasmid pBBR1MCS-2 was used for the construction of
+
+The cell growth during seed culture and 2KGA fermentation was represented by optical density at 650 nm (OD
+
+X1 and X2 represented 2KGA and glucose concentrations, (g/L), respectively. Y represented optical rotation degree (°). Coefficients −0.88 and 0.5275 represented the optical rotation degree of 10.0 g/L of 2KGA and 10.0 g/L of glucose, respectively.
+
+All experiments were performed in three replicates. The data were expressed as the mean ± standard deviation (
+
+A 6591 bp
+
+Since there are overlaps between
+
+The promoter region of the
+
+On the basis of the predicted promoter region, a 287 bp fragment upstream of the
+
+The structural gene-knocked mutants of JUIM01Δ
+
+Generally, 6-PG dehydratase encoded (Edd) by the
+
+The 2KGA production performances of
+
+The

@@ -1,0 +1,51 @@
+In nature,
+
+Recently, disease outbreaks caused by pathogenic strains of
+
+A previous study assessed the genetic relatedness of
+
+The present study focused on the genetic relationships and the phylogenetic parameters of
+
+Bacterial DNA was extracted as reported previously (
+
+Biofilm formation was measured using a Biofilm Formation Assay Kit (Dojindo, Tokyo, Japan) according to the manufacturer’s instructions. Briefly, 180 µL of microbial cell suspension in biofilm-inducing minimal salts glycerol glutamate (MSgg) medium (
+
+Genomic DNA libraries were prepared for each isolate using the NEBNext DNA Library Prep Master Mix Set for Illumina (New England Biolabs (NEB), Ipswich, MA, USA) and NEBNext Multiplex Oligos for Illumina (Index Primers Set one and Set 2; NEB) according to the manufacturer’s instructions. The libraries were then used for 2 × 151, 250, or 300 bp paired-end sequencing using the Illumina MiSeq platform (Illumina, San Diego, CA, USA) with a MiSeq Reagent Kit v2 (300 cycles, 500 cycles) or v3 (600 cycles). After filtering low-quality reads and quality trimming using CLC Genomics Workbench 20 (Qiagen) with default parameters, standard settings were used to conduct
+
+The Parsnp tool from Harvest Suite software was used for core-genome SNP typing, using the
+
+Members of the
+
+Twenty-eight
+
+(
+
+Nine of the 18 (50%) catheter-related isolates exhibited biofilm formation (
+
+The results of MLST of the seven genes considered in this study are shown in
+
+List of isolates and corresponding metadata
+
+MLST, multilocus sequence typing;
+
+Phylogenetic tree of
+
+Four cereulide synthetase gene (
+
+SNP profiles and virulence gene distribution of
+
+All 13
+
+Genomic organization of the capsule gene operon in
+
+As reported previously, most
+
+Our study revealed high genetic diversity among
+
+All
+
+Biofilm formation was observed for half of the catheter-related isolates. However, the limited sample size (
+
+Despite these limitations, our study provides valuable insights into the genetic diversity and virulence potential of
+
+These results highlight the complex epidemiology of

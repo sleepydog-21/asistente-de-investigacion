@@ -1,0 +1,159 @@
+The bacterial flagellum consists of three major components: the basal body, hook, and filament. The basal body contains a rotary motor, which depending on the species uses energy from the proton motive force or a sodium ion gradient to generate torque [
+
+The flagellar motor is anchored within the cell envelope and traverses the outer membrane (OM) in all diderms with the exception of the spirochetes. Depending on the species, the flagellar motor can rotate from hundreds to over 1,000 revolutions per second [
+
+In the
+
+The architecture of the
+
+The
+
+(
+
+In examining the FlgP homologs of various
+
+To determine if FapH plays a role in flagellar biosynthesis or function,
+
+TEM images of representative cells of
+
+Small swim halos were sometimes observed on soft agar medium plates inoculated with the Δ
+
+Whole genome sequencing (WGS) of the original Δ
+
+(
+
+WGS analysis of a Δ
+
+Although our data indicated that
+
+To determine if loss of FapH impacted the growth rate of
+
+The LPS in the outer leaflet of the OM forms an effective barrier to hydrophobic antibiotics and other noxious chemicals, and increased sensitivity to these compounds is often indicative of the intrusion of GPLs into the outer leaflet of the OM [
+
+Sensitivity of the
+
+To address the possibility that PflA* is required for the antibiotic sensitivity of the Δ
+
+Given the sensitivity of the Δ
+
+Comparing the
+
+(
+
+The tertiary structure of FapH predicted by Alphafold 2 [
+
+We sought to identify proteins that interact with FapH to gain a better understanding of how FapH protects the barrier function of the OM from flagellum-mediated damage. Moreover, given the close association of the FapH ring and outer disk, we reasoned that identified FapH interaction partners would be good candidates for outer disk components. FapH was reported to interact with HP1409/HP0426 (these proteins are duplicated in
+
+(
+
+Additional proteins that were pulled-down in the co-IP assays used for the fingerprinting analysis, as well as co-IP samples from two additional replicates were identified by analyzing the total protein content of the samples by mass spectroscopy (
+
+Since FlgP was identified in one of the replicates of the co-IP assay with the FapH-Myc fusion protein, we used a co-IP assay to determine if FapH was pulled-down with FlgP and to also identify other potential FlgP partners. For these co-IP assays, we used cell extracts prepared from a
+
+To examine the validity of the protein interactions predicted from the co-IP assays, we examined the interactions of FapH with selected proteins using the bacterial adenylate cyclase two-hybrid (BACTH) assay [
+
+All possible combinations of expression vectors in the
+
+Given the interactions between FapH and HP1456 in the co-IP and BACTH assays (
+
+The flagellar motors of
+
+Bacitracin inhibits peptidoglycan biosynthesis by binding undecaprenyl-pyrophosphate within the periplasmic space [
+
+Given the importance of lipid asymmetry for OM barrier function, bacteria have evolved various systems for removing GPLs that make their way into the outer leaflet of the OM. One mechanism for removing GPLs from the outer leaflet of the OM in
+
+A third mechanism for removing GPLs from the outer leaflet of the OM is the phospholipase PldA, which catalyzes the hydrolysis of acyl ester bonds in GPLs that enter the outer leaflet of the OM to generate lysophospholipids and free fatty acids [
+
+The
+
+An intriguing question is what is the mechanism by which the FapH ring protects the OM from flagellum-dependent damage? One possibility is that the lipid moieties of FapH secure GPLs in the inner leaflet of the OM and prevent them from flipping into the outer leaflet. Additional
+
+An alternative mechanism by which the FapH ring may protect the barrier function of the OM from flagellum-mediated damage is that it acts as a bushing and/or bearing (i.e., analogous function to the L-ring) to balance the flagellum as it rotates. The FapH ring is positioned near the base of the hook and may keep the hook aligned as the flagellum rotates to help to protect the integrity of the OM and flagellar sheath in this region.
+
+Although FlgP, HP1456, and HP1454 were identified as FapH interaction partners in the co-IP assays and BACTH assays (
+
+While the flagellar sheath may potentiate flagellum-mediated damage to the OM in
+
+As our knowledge of the structural diversity of bacterial flagellar motors has grown, it has become clear that more work needs to be done to understand the roles of flagellar motor accessory structures. The characterization of motor accessories will undoubtedly lead to the discovery of novel mechanisms for regulating motor function or mitigating cellular damage resulting from action of the motor as we demonstrated here for the FapH ring of the
+
+Genomic DNA (gDNA) from
+
+A schematic illustrating the process for deleting
+
+An unmarked deletion of
+
+An unmarked deletion of
+
+An unmarked deletion of
+
+To facilitate complementation assays in
+
+Primers 169 and 170 were used to amplify
+
+Primers 159 and 160 were used to amplify
+
+To facilitate construction of a c-Myc-tagged FapH in
+
+To construct a c-Myc-tagged FlgP, primers 78 and 79 were used to amplify
+
+Motility was evaluated using a semisolid medium containing Mueller-Hinton broth (MHB), 10% heat-inactivated horse serum, 20 mM MES (2-(4-morpholino)-ethane sulfonic acid) (pH 6.0), and 0.4%-0.6% Noble agar. A minimum of three technical replicates were used to assess the motility of each strain.
+
+Wild-type
+
+Frozen-hydrated specimens were visualized in a 300kV Titan Krios G2 transmission electron microscope (Thermo Fisher Scientific) equipped with a K3 summit direct detection camera and a BioQuantum energy filter (Gatan). Tilt series images were acquired at 42,000x magnification (corresponding to a pixel size of 2.148 Å at the specimen level) and ~4.5 μm defocus using SerialEM [
+
+Tomo3D [
+
+Alphafold 2 was used to generate a structural prediction for FapH [
+
+gDNA from the
+
+The Bacterial Adenylate Cyclase Two-Hybrid (BACTH) System Kit (Euromedex, Souffelweyersheim, France) was used to detect and characterize protein-protein interactions
+
+Cultures of
+
+Predicted structures generated by AlphaFold 2 [
+
+(TIF)
+
+(
+
+(TIF)
+
+(
+
+(TIF)
+
+Medial slices through
+
+(TIF)
+
+(
+
+(TIF)
+
+The strains on these plates are the ones that are indicated in
+
+(TIF)
+
+(
+
+(TIF)
+
+(TIF)
+
+(
+
+(TIF)
+
+(XLSX)
+
+(DOCX)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)

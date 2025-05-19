@@ -1,0 +1,89 @@
+The soil bacterium
+
+In bacteria, the level of the transcription of operons providing amino acid biosynthesis is often controlled by a negative feedback mechanism through so-called attenuators [
+
+The starting point of our study was the discovery of a mutation in the regulatory region of the
+
+The location of this mutation in the secondary structure in the regulatory region of the
+
+In the present work, we performed a mutational analysis of the mRNA secondary structures in the regulatory region of the
+
+The reaction catalyzed by AHAS is a key point in the biosynthesis of valine and other BCAAs. The increased expression of
+
+The
+
+To determine the level of production of BCAAs by the
+
+Oligonucleotides for DNA-specific primers were synthesized by Evrogen, Moscow. The sequences of the primers are presented in
+
+The preparation of a competent culture of
+
+The transcription level of the
+
+The
+
+To calculate the secondary structure of the attenuator region of the
+
+The initial premise of this research was the detection of a mutation in the
+
+The G110A mutation was introduced into various strains originating from
+
+Enzymes encoded by the
+
+The level of transcription of the
+
+We noted above that both Morbach et al. [
+
+To analyze the mechanism of transcription attenuation in the regulatory region of the
+
+It should be noted that the two states described above are difficult to distinguish in comparative analysis and enzymatic probing [
+
+It was noted above that the start of translation in the
+
+Given the above-mentioned data and the fact that the enzymatic probing of the secondary structure of the region of interest in
+
+All three hairpins, AAT, AT, and T, have comparable stability (
+
+To analyze terminator functionality, mutations were introduced into the attenuator structure, which mainly affected conserved positions in the overlap region of the antiterminator and terminator hairpins, H
+
+Calculations of the change in the energies of terminator hairpin formation in the attenuator of the
+
+We chose a strategy using single substitutions that form or eliminate single noncomplementary pairs in hairpins.
+
+According to the calculated values of changes in terminator hairpin stability (
+
+Overall, the experimental data support the hypothesis and are in reasonably good agreement with each other; the high correlation coefficient (r
+
+The first group of mutations, G110C, G110T, G110A, G111A, and G112A, weakens the terminator structure by disrupting complementarity with the CCC trinucleotide (positions 77–79) at the base of the hairpin, and increases valine synthesis by an order of magnitude (
+
+In the second group, C77T, C79T, G37A+C77T, and C77T+G112A, the picture is more complex. Three of them, G37A+C77T, C77T, and C79T, slightly destabilize the terminator by replacing the strong G-C pair with the weaker A-U and G-U pairs, resulting in a level of valine production near the regression line (
+
+The A73G and G37A mutations from the third group do not affect the terminator and thus have a moderate-to-weak effect on valine synthesis (
+
+Experimental data for measuring the level of expression of the
+
+We observed a high correlation (r
+
+A significant correlation (r
+
+Taken together, our results support our proposed model for the regulation of the expression of the
+
+Due to its small size, the regulatory region of the
+
+The mutation at position 110 found in the
+
+Since terminal pairs of hairpin nucleotides are usually prone to the decay of complementary bonds, this model suggests that the presence of mutation 110 disrupts the secondary structure of the terminator and contributes to the fact that the boundary GCC trinucleotide escapes into the hairpin structure of the antiterminator, forming complementary bonds with the GGC trinucleotide (positions 36–38). Moreover, this mutation also creates a single-nucleotide spacer between the hairpins in the antitermination state and thus partially blocks the continuous transition to the terminator state.
+
+Thus, we believe that although the conserved regulatory region of the
+
+In conclusion, it should be added that Morbach et al. [
+
+The fact that the regulatory region of the
+
+Conformational changes in attenuator mRNA are dynamic, associated with translation, and depend on the influence of many other factors, the establishment of which is a topic for further research. The role of the leader peptide in the regulation of operon expression is not completely clear, and the same can be said about the effect of 2-ketobutyrate on enhancing expression. The model we propose does not take these factors into account; however, it nevertheless has high predictive value and can be used both in studying the regulation of the expression of the
+
+The mutational analysis of mRNA secondary structures in the regulatory region of the
+
+Computer calculations of the formation of secondary structures in the attenuator region of the
+
+Patent RU 2753996 C1. 2021. Ryabchenko, L.E.; Gerasimova, T.V.; Leonova, T.E.; Kalinina, T.I.; Sheremetieva, M.E.; Anufriev, K.E.; Yanenko A.S. Bacterium

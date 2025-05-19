@@ -1,0 +1,117 @@
+Salicylic acid (SA) is a beta‐hydroxy phenolic acid phytohormone that plays an essential role in plant defense against biotrophic and semi‐biotrophic pathogens
+
+Despite SA‐induced immune responses in plants, increasing evidence suggests that the host defense signal SA can directly influence the gene expression and metabolic profiles of invading phytopathogens. SA has been shown to interfere with the transcription of the
+
+Xcc is a Gram‐negative bacterium that causes Brassica black rot, the most dreaded disease of the crucifers worldwide
+
+Xcc enters plants via leaf margin hydathodes, stomata, and wounds
+
+The present study aimed to investigate how Xcc senses and effluxes SA during infection inside host plants. In this study, we identified an SA‐responsive gene cluster in Xcc via RNA‐Seq analysis. The results further showed that this cluster encodes an SA sensor protein and an RND (resistance‐nodulation‐cell division) family efflux pump. Xcc senses and effluxes the host plant SA signal via this gene cluster and induces the QS signal, DSF turnover, to promote virulence in host plants.
+
+Previous results showed that SA could induce RpfB‐dependent DSF turnover in Xcc strain XC1
+
+Salicylic acid (SA)‐responsive gene cluster
+
+The genes
+
+
+
+Operon analysis of the
+
+Furthermore, the promoter‐
+
+Furthermore, using the reporter strain XC1::P
+
+HepR belongs to the MarR family transcriptional factor. To investigate its role in the expression of
+
+HepR negatively regulates
+
+To further investigate how HepR negatively regulates
+
+HepR specifically binds to the promoter P
+
+To determine how HepR binding affected the transcription of the
+
+An alignment of the
+
+Verification of the HepR‐binding site. (A) The typical palindromic sequence within the 31‐bp binding site. (B) EMSA of the binding between HepR and the mutated Cy5‐labeled probe. The mutated Cy5‐labeled probe is a DNA fragment that converts ATC in the inverted repeat sequence to GCT. (C) The relative β‐glucuronidase activities of the two reporter strains, XC1::P
+
+HepR is a 147‐amino acid protein belonging to the transcriptional regulator of the MarR family (Figures
+
+HepR is an SA sensor protein. (A) Isothermal titration calorimetry (ITC) analysis of the binding of SA to HepR. (B) Surface plasmon resonance (SPR) analysis of the binding of SA to HepR. (C) ITC analysis showing no binding between salicin, the SA analog, and HepR. (D) EMSA showing that SA interferes with HepR binding to promoter P
+
+Previously, SlyA was shown to be an SA sensor in
+
+To further investigate whether
+
+
+
+To further verify that
+
+Our previous results showed that the addition of SA increased the XYS culture pH and induced DSF turnover in Xcc
+
+The
+
+The
+
+Xcc is a xylem‐dwelling phytopathogen. To elucidate the role of the
+
+
+
+The virulence levels of strains XC1, Δ
+
+
+
+At 15 dpi, the average lesion lengths of strain Δ
+
+A BLAST analysis of the NCBI Nonredundant (Nr) database revealed that the
+
+SA is an essential plant defense hormone. Infection by phytopathogens induces SA accumulation, which functions in the amplification of defense gene expression and the production of pathogenesis‐related proteins and toxic antimicrobial compounds. These compounds protect plants from infection
+
+SA perception and signaling in plants have become increasingly understood in the past three decades
+
+To establish successful infection, plant pathogens have to eliminate the effects of antimicrobial compounds. RND family efflux pumps are recognized as a major means by which bacteria extrude antimicrobials outside the cell. The most relevant roles of the RND family of efflux pumps identified thus far include bacterial virulence, plant–bacteria interactions, transport of QS molecules, and extrusion of various types of toxic compounds
+
+Based on previous findings and the present results, we proposed a schematic model for SA sensing and efflux and the roles of the RND family efflux pump in culture pH and DSF turnover in Xcc. In the absence of SA, the
+
+A proposed working model for the SA‐dependent activation of the RND family efflux pump HepABCD. (A) In the absence of SA, the
+
+In summary, our data suggest that successful plant bacterial pathogens, such as
+
+All bacterial strains and plasmids used are listed in Table
+
+The Xcc deletion mutant was generated following the
+
+The Xcc wild‐type strain XC1 was cultured in 50 ml of liquid XYS medium supplemented with 0 or 100 μM SA for 24 h at 28°C. Three biological replicates were prepared. Bacterial cells were collected and the total RNA was extracted. RNA sequencing (RNA‐Seq) was performed by Shanghai Personal Biotechnology Co., Ltd. using the Illumina HiSeq system. Principal component analysis (PCA) based on gene expression was performed on each sample using the DESeq package in R (
+
+The HepR open reading frame (ORF) was amplified by PCR and cloned into the expression vector pET28a, and the recombinant plasmid was transformed into
+
+EMSA was performed using the established protocol
+
+For the preparation of fluorescent FAM‐labeled probes, the promoter fragment P
+
+The binding affinity of SA and HepR was measured using ITC and SPR following the protocols provided by the manufacturers. Both the protein HepR and SA were prepared in HEPES buffer (25 mM HEPES 150 mM NaCl, pH 7.4) before titration, and all solutions for titration were centrifuged at 11,200
+
+The SPR assay for HepR–SA interaction analysis was performed using a Biacore 8K (Cytiva) with running PBS supplemented with 0.25% Tween at 25°C. His‐tagged HepR was immobilized on Sensor Chip CM5 using a standard amine‐coupling procedure in 10 mM sodium acetate (pH 5.0). SA was serially diluted and injected onto a sensor chip at a flow rate of 30 μl/min for 120 s, followed by 120 s of buffer flow. The
+
+To extract the cytoplasmic SA in Xcc, 50 ml of cultures were collected at 12, 24, and 36 h and centrifuged at 10,000 rpm for 30 min at 4°C, and the bacterial cell pellets were washed three times with 1× PBS. Subsequently, the bacteria were suspended in 10 ml of B‐PER® Bacterial Protein Extraction Reagent and reacted for 30 min at room temperature to fully lyse the cells. After centrifugation at 12,000 rpm for 10 min, the supernatant was collected, and SA was extracted as previously described by Zhou et al.
+
+The quantitative analysis of cytoplasmic SA levels was performed using high‐performance liquid chromatography (HPLC) combined with triple quadrupole tandem mass spectrometry (HPLC‐QqQ‐MS/MS) (Agilent)
+
+The construction of
+
+We used a 5′ RACE kit (Sangon) to determine the transcriptional start site of the
+
+All DNA sequences, amino acid sequences, and genome sequences were downloaded from NCBI (
+
+Pathogenicity assays were performed as previously described
+
+A one‐way analysis of variance was used for multiple comparisons. The statistical test values represent statistical significance, followed by the least significant difference test. Data are presented as means ± standard deviation (SD). All experiments were performed at least three times independently.
+
+
+
+This study did not involve human subjects and animals.
+
+The authors declare no conflict of interests.
+
+Supporting information.

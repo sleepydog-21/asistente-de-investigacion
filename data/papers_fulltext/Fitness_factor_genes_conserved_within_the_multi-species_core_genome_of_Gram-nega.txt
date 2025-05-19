@@ -1,0 +1,187 @@
+Sepsis, a life-threatening organ dysfunction, results from an unregulated immune response to infection. It is the leading cause of death in hospitalized patients across the United States [
+
+Bacteremia has three phases of pathogenesis: initial primary site infection, dissemination to the bloodstream, and growth and survival in blood and blood-filtering organs [
+
+To that end, we previously constructed random transposon libraries or ordered transposon libraries in representative clinical isolates of five Gram-negative Enterobacterales species:
+
+To further enable these studies, we also conducted extensive genomic comparisons and identified the multi-species core genome of Enterobacterales species commonly causing bacteremia in humans [
+
+Although phenotypically similar in terms of antimicrobial resistance and metabolism, these five Gram-negative species nevertheless represent a heterogeneous group of organisms that differ in virulence mechanisms, primary sites of infection, and metabolic pathways. For example, extraintestinal pathogenic
+
+There is also wide variation in our knowledge regarding infections of the bloodstream. For example,
+
+The goal of this study was to identify and characterize conserved bacterial fitness genes and operons that play critical roles in the development and outcome of bacteremia that may also serve as potential therapeutic targets. Data from independent Tn-Seq studies of five Enterobacterales species in a murine model of bacteremia were used to prioritize conserved fitness factor genetic components. Mutants in 18 shared genetic components were newly constructed in all five species and used to cochallenge C57BL/6 mice via tail vein injection along with the respective wild-type strain of each species to determine competitive indices for each fitness gene or operon. Twelve of 18 prioritized components were confirmed as fitness factors in three or more species. Relevant phenotypes of the mutants were assessed to validate the mutant constructs and identify potential
+
+In preparation for this study, we defined a “multi-species core genome” composed of 2850 non-essential genes shared by at least four of the five species as detailed in Materials and Methods (Determination of the multi-species core genome) and by [
+
+All isolates representing the five species (
+
+Colored arrows represent fitness genes that were targeted for mutagenesis via recombineering. The genetic organization of
+
+Each of the 89 mutants were competed head-to-head against their respective wild-type strains in co-infections in the murine bacteremia model. Inocula for each species were titrated to avoid lethality and were set to represent maximal CFU/ml that would not result in loss of the murine host following inoculation (see footnote “a” in
+
+In the spleen (
+
+In the liver (
+
+Unlike the other four species,
+
+The 89 bacterial constructs carrying deletion mutations in single prioritized fitness genes or their respective operons across all species were then evaluated for
+
+Growth rates of wild-type strains and all mutants were assessed during exponential growth in lysogeny broth (LB) at 37°C with aeration to identify potential growth defects in rich medium displayed by the mutants as compared to their respective wild-type strains. Growth was monitored over 16 h in automated growth curve analyzers. Relative growth rates were defined during exponential growth phase as maximal specific growth rate of mutant / maximal specific growth rate of wild-type
+
+To use a more sensitive method to identify potential growth defects of mutants, we conducted
+
+Stationary phase cultures of selected mutants and their respective wild type strains were normalized to OD
+
+Mutants in recombinases encoded by
+
+We hypothesized that three fitness factor genes or operons may contribute to resistance to human serum. The
+
+1x10
+
+The
+
+We tested
+
+1x10
+
+SufI is a model protein substrate of the twin-arginine translocation (Tat) protein export system whose relationship with Tat secretion has been studied extensively in
+
+A.
+
+Mutation of
+
+Wild-type and
+
+(
+
+Resistance to oxidative stress is a key mechanism used by pathogens to evade immune responses. To determine if fitness genes annotated as involved in oxidative stress responses protected against this threat, we exposed the arcA, ruvA, and xerC mutant constructs to hydrogen peroxide (
+
+Sensitivity to osmotic stress, encountered in the bloodstream, was assessed by incubating an independent suspension (10
+
+1x10
+
+We also examined osmotic stress in
+
+We measured the growth of
+
+Bacterial cultures were incubated at 37°C overnight in LB, diluted in PBS to a final concentration of 10
+
+*,
+
+Mutation of the primary high affinity phosphate ABC transport system (
+
+Suspensions of wild-type strains normalized to OD
+
+Phenotypic tests were conducted on mutants where there had been a previous association of fitness gene and phenotype. While not all assays were conducted on all mutants, when quantifying the statistically significant association of loss of a phenotypic trait with statistically significantly attenuation of the mutant in spleen and liver (
+
+Our previous series of Tn-Seq screens for five Gram-negative bacterial species [
+
+Using survival in the spleen and secondarily in the liver, 49 of the 89 mutants were significantly outcompeted by their parent strain in the spleen (
+
+Measurement of
+
+While this study is expansive, there are limitations that should be noted. The strategy did not allow us to examine the role of essential genes, which would have not been detected by Tn-Seq. The effects of genes directly upstream or downstream of the identified fitness genes or their operons were also not examined if not identified in the Tn-Seq assessment. Furthermore, as a practical matter, we relied on single type strains of otherwise genetically diverse species and some results may have differed if alternate strains within each species had been used for these studies. Lastly, while not all mutants were complemented, in each of eight cases where complementation was undertaken, the respective phenotype was restored to wild type values.
+
+To integrate the data presented in this report into a comprehensive model of bacteremia pathogenesis for these related species, we considered: 1) the results of Tn-Seq screens for five Enterobacterales species surveyed in the murine model of bacteremia (
+
+Seven common pathways are depicted that contribute to pathogenesis of bacteremia by five bacterial species within the Enterobacterales. Genes shared within the multi-species core genome of five bacterial species including
+
+This model of pathogenesis teaches us that specific core pathways shared by Gram-negative species of the Enterobacterales order are critical for infection of the mammalian bloodstream and its blood-filtering organs. First, bacteria must maintain their proton-motive force using ATP synthase to synthesize ATP using reentry of extruded protons from the periplasm into the cytosol. As well, synthesis of iron-sulfur clusters allows the maturation of cytochromes for electron transport. This implies some degree of aerobic respiration is employed by these pathogens in most cases. To that end, global regulator ArcA regulates genes associated with aerobic respiration by sensing available oxygen in conjunction with ArcB to maintain proton motive force. However, in the absence of oxygen, ArcA, with ArcB, can shift metabolism toward fermentation to survive in such an environment, a key representation of the metabolic flexibility displayed by these facultative anaerobes.
+
+Just as critical is the role of the outer envelope to survival in the bloodstream where bacteria must resist the toxic effects of osmotic stress and complement. The protease Prc appears to protect against complement by degrading components of the system. Enterobacterial Common Antigen (ECA) also contributes to defense against complement and antimicrobial peptides. Transport also plays a crucial role by importing phosphate through the Pst ABC transporter. As well, numerous crucial folded proteins are exported across the cytoplasmic membrane by the twin-arginine transport system to maintain viability in the bloodstream. Next, shikimate biosynthesis is required for three key functions that include 1) siderophore synthesis required for iron acquisition that is mandatory for survival in an environment where free iron is tightly sequestered by the host (
+
+We can also make assertions about the metabolic flexibility of these bacterial pathogens. In studies identifying the most commonly isolated Gram-negative bacilli in cases of bacteremia, at least 80% of the species are classified as facultative anaerobes with a majority being in the Enterobacterales order while
+
+Prominent examples of fitness factor phenotypes are discussed below in the context of the model of bacteremia pathogenesis where seven key pathways required for the pathogenesis of bacteremia were uncovered and validated (
+
+Mutants in ATP synthase (
+
+Enterobacterial Common Antigen is a carbohydrate antigen composed of repeating subunits of three amino sugars including
+
+The
+
+In this study,
+
+The twin arginine translocation system, encoded by
+
+Phosphate, a critical nutrient, is imported by an ABC transporter encoded by the
+
+Similarly, XerC is a site-specific recombinase that resolves multimers of plasmids and also has a role in the segregation of replicated chromosomes at cell division [
+
+Mutants in genes encoding enzymes of the shikimate pathway,
+
+The Arc two-component system family of bacterial transcriptional regulators, composed of sensor kinase ArcB and response regulator ArcA, senses the modulation of oxygen availability for use as an electron receptor [
+
+In our recent work [
+
+Bacteria must resist oxidative stress elicited by innate immune cells during infection. Surprisingly, no genes predicted to enhance oxidative stress resistance (
+
+Of the 18 bacteremia fitness loci explored in this study, only mutation of
+
+Murine infections were performed in accordance with protocols approved by the University of Michigan Institutional Animal Care and Use Committee and were in accordance with Office of Laboratory Animal Welfare guidelines.
+
+In preparation for the current analysis described in this report, we used a pan-genome pipeline developed by our group including colleagues at the
+
+For the fitness genes predicted by Tn-Seq in the murine bacteremia model for each of the four bacterial species listed in
+
+Fitness gene mutations in all species were generated by lambda red recombineering using established protocols [
+
+To demonstrate complementation of
+
+Bacterial strains were cultured in LB medium [
+
+Murine infections were performed in accordance with protocols approved by the University of Michigan Institutional Animal Care and Use Committee and were in accordance with Office of Laboratory Animal Welfare guidelines. Bacteria for murine infection experiments were prepared by subculturing overnight LB growth into fresh medium and incubating for 2.5 hours. Exponential phase bacteria were collected by centrifugation and resuspended in an appropriate volume of PBS. Female 6–8-weeks old C57BL/6 mice were infected with bacterial suspension (containing the indicated number of cfu) of
+
+Susceptibility to ciprofloxacin was measured by disk diffusion, which was performed for wild-type strains and their respective
+
+CFU/ml and relative survival as compared to the wild-type strain survival was determined by incubating 10
+
+Susceptibility to bactericidal activity of human serum was measured by incubating 10
+
+Siderophore production was detected on chrome azurol S (CAS) plates supplemented with tryptone. Samples of overnight stationary phase cultures (2 μl) were spotted onto CAS agar plates and incubated at 37°C for 16 h. Siderophore activity was indicated by a shift from blue to yellow color within and surrounding the colonies. Gray scale image, which facilitate the detection of the blue (dark pixelation) to yellow (light pixelation) coloration in the CAS agar, was captured on a BioRad Gel Doc system with a “Coomassie Blue” setting and a white acrylic filter. Halo diameters were measured by ImageJ software as described in the legend to
+
+Susceptibility to osmotic stress was determined by incubating 10
+
+To determine gene contributions to oxidative stress resistance, overnight bacterial cultures were adjusted to 1x10
+
+Envelope stress sensitivity was measured by growth on MacConkey agar, a medium containing bile salts [
+
+Phosphate transport mutants constitutively express alkaline phosphatase, whereas wild-type strains do not. Bacterial strains were cultured in phosphate-limiting minimal medium. Bacterial suspensions were normalized to OD
+
+To generate the
+
+Tests used for statistical analysis are noted in the respective footnotes to tables and figure legends. Specifically, to control for statistical significance when multiple comparisons were analyzed, Prism software (GraphPad) was used adjust calculated P values using False Discovery Rate analysis.
+
+Fitness gene mutants were competed with wild-type bacteria in a TVI murine bacteremia model. Mice were sacrificed and bacteria were enumerated by CFU from spleen and liver homogenates 24 h after inoculation (Tables
+
+(PDF)
+
+Competitive indices in Tables
+
+(PDF)
+
+Fitness gene mutants were competed with wild-type S. marcescens in a TVI murine bacteremia model. Mice were sacrificed and bacteria were enumerated by CFU from kidney homogenates 24 h after inoculation (
+
+(PDF)
+
+A-E. Relative growth rates (mutant/wild-type) and doubling times were calculated from the maximal specific growth rate in exponential phase for each mutant and wild-type strain. The statistical significance of relative growth rates was assessed by one-way ANOVA with Dunnett’s multiple comparisons test against the hypothetical value of 1 representing wild-type. Adjusted P values are indicated by asterisks: *, p<0.05; **,
+
+(PDF)
+
+In the Osmotic Stress Assay, (A) 1x10
+
+(PDF)
+
+Bacterial strains with mutations in the genes arcA, ruvA, and xerC in each species of interest were exposed to hydrogen peroxide to measure resistance to oxidative stress. Percent survival was calculated by comparing bacterial survival at 2 hours to the input. Fold change was calculated by dividing percent survival of each mutant to its respective wild-type strain. No mutant conveyed statistically significant resistance to hydrogen peroxide stress as assessed by a one-sample t-test with a hypothetical value of 1, representing survival of the wild-type strain. Data are means of 3 independent experiments.
+
+(PDF)
+
+C. freundii UMH14 wild-type and prc::nptII grown aerobically in either LB medium (1% NaCl LB) or a hypotonic LB medium (0% NaCl LB) maintaining either the pBBR1MCS-5 empty vector plasmid (Vector) or a pBBR1MCS-5 derivative encoding the prc locus under control of its native promoter (pprc). Representative growth curves are the mean and standard deviation (small and obscured by symbols) of technical triplicate wells derived from OD600 measurements taken every 15 m for 10 h in a plate reader.
+
+(PDF)
+
+(PDF)
+
+(PDF)

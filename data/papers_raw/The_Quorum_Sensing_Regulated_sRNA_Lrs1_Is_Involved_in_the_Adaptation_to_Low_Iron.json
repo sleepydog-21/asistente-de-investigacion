@@ -1,0 +1,11 @@
+{
+  "id": "40150866",
+  "title": "The Quorum Sensing Regulated sRNA Lrs1 Is Involved in the Adaptation to Low Iron in Pseudomonas aeruginosa.",
+  "doi": null,
+  "authors": "Panagiotopoulou D, Catalán NR, Wilcox M, Halliday N, Pantalone P, Lazenby J, Cámara M, Heeb S",
+  "journal": "Environmental microbiology reports",
+  "year": "2025",
+  "abstract": "Iron is an essential nutrient for microbial growth. The opportunistic pathogen Pseudomonas aeruginosa can survive under diverse conditions, including iron-depleted environments with the aid of small non-coding RNAs (sRNAs). P. aeruginosa also uses three quorum sensing (QS) systems: Las, Rhl and Pqs, to coordinate virulence and infection establishment at the population level. The aim of this study is to investigate the role of the sRNA Lrs1, the gene of which is positioned within the promoter of the Pqs biosynthetic operon pqsABCDE. Transcriptomics and phenotypic assays indicate that Lrs1 downregulates the production of the siderophore pyochelin but not pyoverdine, and that lrs1 regulation itself is dependent on iron availability. Although Lrs1 has been implicated in a positive feedback loop with the transcriptional regulator LasR in the strain PA14, the present findings indicate that this is not the case in PAO1-L in the tested conditions. Transcription of Lrs1 is dependent on quorum sensing, predominantly on RhlR with an auxiliary effect by PqsE. Furthermore, the Pqs system and phenazine production are modulated by Lrs1 only under iron limitation. This study identifies Lrs1 as a new QS-dependent post-transcriptional regulator in low iron, highlighting its importance in environmental adaptation in P. aeruginosa.",
+  "source": "PubMed",
+  "pmcid": "PMC11949849"
+}

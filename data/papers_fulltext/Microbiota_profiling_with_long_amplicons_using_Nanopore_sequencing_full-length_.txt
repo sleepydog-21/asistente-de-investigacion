@@ -1,0 +1,363 @@
+The microbiota profile of low-biomass samples such as skin is challenging for metagenomics. These samples are prone to contain DNA contamination from the host or exogenous sources, which can overcome the DNA of interest
+
+Until now, most studies of microbiota rely on massive parallel sequencing, and target a short fragment of the 16S rRNA gene, which presents nine hypervariable regions (V1-V9) that are used to infer taxonomy
+
+Apart from the biases derived from the primer choice, short fragment strategies usually fail to assign taxonomy reliably at the genus and species level. This taxonomic resolution is particularly useful when associating microbiota to clinics such as in characterizing disease status or when developing microbiota-based products, such as pre- or pro-biotics
+
+With the launching of single-molecule technology sequencers (e.g. PacBio or Oxford Nanopore Technologies), these short-length associated issues can be overcome by sequencing the full-length 16S rRNA gene (~1,500 bp) or even the nearly-complete
+
+Several studies assessing the full-length 16S rRNA gene have already been performed using Nanopore sequencing to: i) characterize artificial bacterial communities (mock community)
+
+Here, we aim to assess these two long-amplicon approaches using MinION
+
+We first sequenced a pure bacterial isolate of
+
+Then, we used two DNA mock communities as simple and well-defined microbiota samples:
+
+HM-783D, kindly donated by
+
+
+
+As a complex microbial community, we used two DNA sample pools from the skin microbiota of healthy dogs targeting two different skin sites: i) dorsal back (DNA from two dorsal samples from Beagle dogs); and ii) chin (DNA from five chin samples from Golden Retriever/Labrador crossed dogs). Skin microbiota samples were collected using Sterile Catch-All™ Sample Collection Swabs (Epicentre Biotechnologies) soaked in sterile SCF-1 solution (50 mM Tris buffer (pH 8), 1 mM EDTA, and 0.5% Tween-20). DNA was extracted from the swabs using the PowerSoil™ DNA isolation kit (MO BIO) and blank samples were processed simultaneously (for further details on sample collection and DNA extraction see
+
+We evaluated two ribosomal markers in this study: the full-length 16S rRNA gene (~1,500 bp) and the 16S-ITS-23S region of the ribosomal operon (
+
+For the first PCR, we targeted: i) the full-length 16S rRNA gene using 16S-27F
+
+PCR mixture for the full-length 16S rRNA gene (25 μl total volume) contained 5 ng of DNA template (or 2.5 μl of unquantifiable initial DNA), 1X Phusion® High Fidelity Buffer, 0.2 mM of dNTPs, 0.4 μM of 16S-27F, 0.8 μM of 16S-1492R and 0.5 U of Phusion® Hot Start II Taq Polymerase (Thermo Scientific, Vilnius, Lithuania). The PCR thermal profile consisted of an initial denaturation of 30 s at 98°C, followed by 25 cycles of 15 s at 98°C, 15 s at 51°C, 45 s at 72°C, and a final step of 7 min at 72°C.
+
+PCR mixture for the 16S-ITS-23S of the
+
+The amplicons were cleaned-up with the AMPure XP beads (Beckman Coulter) using a 0.5X and 0.45X ratio for the 16S rRNA gene and the 16-ITS-23S of the
+
+PCR mixture for the barcoding PCR (100 μl total volume) contained 0.5 nM of the first PCR product (50 ng for the 16S rRNA gene and 142 ng for the 16S-ITS-23S), 1X Phusion® High Fidelity Buffer, 0.2 mM μl dNTPs, and 2 U Phusion® Hot Start II Taq Polymerase. Each PCR tube contained the DNA, the PCR mixture and 2 μl of the specific barcode. The PCR thermal profile consisted of an initial denaturation of 30 s at 98°C, followed by 15 cycles of 7 s at 98°C, 15 s at 62°C, 45 s (for the 16S rRNA gene) or 150 s (for
+
+Again, the amplicons were cleaned-up with the AMPure XP beads (Beckman Coulter) using a 0.5X and 0.45X ratio for the 16S rRNA gene and the whole
+
+The different barcoded samples were pooled in equimolar ratio to obtain a final pool (1,000–1,500 ng in 45 μl) to do the sequencing library. In few cases, 16S-ITS-23S amplicons did not reach the initial amount of required DNA and we proceeded with lower input material.
+
+The Ligation Sequencing Kit 1D (SQK-LSK108; Oxford Nanopore Technologies) was used to prepare the amplicon library to load into the MinION
+
+For the adapter ligation step, a total of 0.2 pmol of the end-prepped DNA were added in a mix containing 50 μl of Blunt/TA ligase master mix (New England Biolabs) and 20 μl of adapter mix and then incubated at room temperature for 10 min. We performed a purification step using Adapter Bead Binding buffer (provided in the SQK-LSK108 kit) and 0.5X Agencourt AMPure XP beads (Beckman Coulter) to finally obtain the DNA library.
+
+We prepared the pre-sequencing mix (14 μl of DNA library) to be loaded by mixing it with Library Loading beads (25.5 μl) and Running Buffer with fuel mix (35.5 μl). We used two SpotON Flow Cells Mk I (R9.4.1) (FLO-MIN106). After the quality control, we primed the flowcell with a mixture of Running Buffer with fuel mix (RBF from SQK-LSK108) and Nuclease-free water (575 μl + 625 μl). Immediately after priming, the nanopore sequencing library was loaded in a dropwise fashion using the SpotON port.
+
+Once the library was loaded, we initiated a standard 48 h sequencing protocol using the MinKNOW™ software v1.15.
+
+The samples were run using the MinKNOW software. After the run, fast5 files were base-called and de-multiplexed using Albacore v2.3.1. A second de-multiplexing round was performed with
+
+After the trimming, reads were selected by size: 1,200 bp to 1,800 bp for 16S rRNA gene; and 3,500 to 5,000 bp for the 16S-ITS-23S of the
+
+To assign taxonomy to the trimmed and filtered reads we used to strategies: 1) a mapping-based strategy using Minimap2 v2.16
+
+For the mapping-based strategy, we performed Minimap2 again with the non-chimeric sequences. We applied extra filtering steps to retain the final results: we kept only those reads that aligned to the reference with a block equal or larger than 1,000 bp (for 16S rRNA gene) and 3,000 bp (for the 16S-ITS-23S of the
+
+The reference databases used in this study were:
+
+Mock DB: a collection of the complete genomes that were included in each mock community, as described by the manufacturer. The HM-783D database was retrieved from NCBI using the reference accession numbers, while Zymobiomics mock community has already its database online on the Amazon AWS server.
+
+
+
+For assessing the mapping-based strategy, we have made a subset with the
+
+For the taxonomic classification using the WIMP workflow, which uses the NCBI database, only those hits with a classification score >300 were kept
+
+Ampvis2 package in R was used to plot the heatmaps
+
+An earlier version of this article can be found on bioRxiv (doi:
+
+We have assessed the performance of the full-length 16S rRNA and the 16S-ITS-23S rRNA region of the ribosomal (
+
+The samples amplified using the full-length 16S rRNA gene recovered a higher percentage of reads after the quality control when compared to 16S-ITS-23S of the
+
+We first sequenced an isolate of
+
+Taxonomic assignments were obtained i) using WIMP workflow with NCBI RefSeq database; ii) Minimap2 with
+
+*Incorrect bacterial species assignment
+
+When using the mapping approach with the
+
+When comparing the alignment results obtained with Minimap2 and
+
+Alignment scores for each genetic marker were obtained using Minimap2 and either
+
+As we have already seen for
+
+To check the behavior of the mapping approach when using an incomplete database, we have performed an example test using the mock communities. We have mapped the mock communities both against the complete
+
+We checked the alignment score values and the alignment block length to detect any differences on the alignment performance when using complete or an incomplete database. We plotted two histograms: i) read counts distributed by the alignment block length; and ii) read counts distributed by the alignment score (AS) (
+
+Top part, histograms of the read counts distributed by alignment block depending on the database used (complete
+
+We analyzed two microbial mock communities to validate the ability of the presented approach: i) to quantify what is expected and detect biases of the technique; and ii) to reach a reliable taxonomic assignment at the species level.
+
+For the first aim, we used the HM-783D mock community that contained genomic DNA from 20 bacterial strains with staggered ribosomal RNA operon counts (from 10
+
+On the one hand, using the full-length 16S rRNA gene we detected all the bacterial species present in the mock community, even the low-abundant ones. On the other hand, using the 16S-ITS-23S of the
+
+(
+
+To assess if the technique and the analyses would give a reliable taxonomy at the species level we used Zymobiomics mock community, which contains equal quantities of 8 bacterial species. The expected 16S rRNA gene content for each representative is also known, so we were able to determine if the different analysis approaches reliably represented the actual bacterial composition of the community. We sequenced the Zymobiomics mock community twice per marker gene and found that the replicates presented equivalent results.
+
+We assigned taxonomy with three different approaches: i) Minimap2 and a database containing only the 8 bacterial species of the correspondent mock community (mock DB); ii) Minimap2 and a database containing sequences for the
+
+Similarly to what we have seen for the HM-783D mock community, when using the mapping strategy with Minimap2 and the mock database, we detected that the full-length 16S rRNA gene retrieved better the actual abundances of the mock community. The 16S-ITS-23S genetic marker over- and underrepresented most of the bacterial species in the mock community. When using larger databases such as
+
+(
+
+On one hand, the mapping approach using the
+
+We profiled two complex and uncharacterized microbial communities from dog skin (chin and dorsal). We used both long-amplicon markers and the two bioinformatics approaches –Minimap2 and
+
+For chin samples of healthy dogs, we found a high abundance of
+
+(
+
+Finally, analyzing the dorsal skin samples, we also detected the presence of contamination from the previous nanopore run (Supplementary Table 2). We sequenced dorsal skin samples twice: one with a barcode previously used for sequencing the HM-783D mock community and another one with a new barcode. We were able to detect mock community representatives within the re-used barcode (
+
+To further confirm the results obtained with the complex samples using directly the raw reads, we performed the assembly and consensus of the 16S-ITS-23S genetic marker using canu and we assigned taxonomy of the consensus sequences using BLAST.
+
+For the HM-783D mock community, we were able to retrieve some of the most abundant bacterial species blasting with >99% of identity to their reference (
+
+For the complex microbial communities, the
+
+The full-length 16S rRNA and the 16S-ITS-23S of the
+
+The long amplicons were analyzed as raw reads (uncorrected), using both a mapping-based approach through Minimap2 and the “What’s in My Pot” workflow by Oxford Nanopore to confirm results using a double approach. Although Nanopore sequencing has a high error rate (average accuracy for the
+
+Moreover, we also performed de novo assembly of the 16S-ITS-23S amplicons obtaining consensus sequences that allowed us to validate some of the taxonomy retrieved with the long-amplicon raw reads. A de novo approach allowed retrieving consensus sequences with high accuracy (>99% of identity) for simple microbial communities. However, when working with more complex communities this consensus accuracy was generally lower. These lower accuracies found in complex microbial communities could be due to the lower sequencing depth, an uneven distribution of the bacterial species, and a mix of some closely similar species within the same contig.
+
+Mock communities’ analyses allowed us assessing the performance and the biases of the methodology, from the lab bench to the bioinformatics analyses and final results. In general, we found that the full-length 16S rRNA gene represents better the abundances of a microbial community; whereas, 16S-ITS-23S obtains better resolution at the species level.
+
+So, do the long-amplicon approaches represent the actual bacterial composition? On one hand, we detected biases of our primer sets for both genetic markers, since some of the species of the mock communities were over- and under-represented. For example,
+
+On the other hand, with the HM-783D staggered mock community –with some low-abundant species– we aimed to assess the sensitivity of both approaches. With the 16S rRNA marker gene, we detected all bacterial members of both mock communities. However, when using the 16S-ITS-23S of the
+
+In the bioinformatics analyses, our aim was to confirm the results with two independent workflows and different databases rather than comparing them. We saw that the most abundant species were usually concordant with both strategies at a qualitative level. Some exceptions were due to the lack of that species in the
+
+When using EPI2ME (WIMP with NCBI Ref database), the amplicons from the
+
+On the other hand, we observed that the mapping strategy (through Minimap2) could lead to a wrong assigned species if the interrogated bacterium is not represented on the chosen database. Minimap2 provides faster results than EPI2ME, but it needs an accurate comprehensive and representative database. Extra filtering steps using the alignment block length or Smith-Waterman alignment score could potentially be used to discard a wrong taxonomic assignment.
+
+Switching to complex microbial communities, we found that dog chin was colonized by different
+
+None of the most abundant species in dog dorsal skin had previously been associated with healthy skin microbiota either in human or in dogs. Some of them have an environmental origin, such as
+
+Regarding
+
+In general, we obtained taxonomy assignment down to species level with both the full-length 16S rRNA gene and the 16S-ITS-23S of the
+
+Other gene-marker strategies have been further described to profile the microbiota with Nanopore sequencing. For example, sequencing 16S rRNA genes by Intramolecular-ligated Nanopore Consensus (INC-seq)
+
+Further studies should be aiming to obtain reads with higher accuracy, either using consensus methods or applying new developments (new techniques, new basecallers or new R10 pores, etc.). Studies comparing marker-based strategies with metagenomics will determine the most accurate marker for microbiota studies in low-biomass samples.
+
+The datasets analyzed during the current study are available in the NCBI Sequence Read Archive, under the Bioproject accession number
+
+All the supplementary data has been added in an OSF repository (doi:
+
+-  Supplementary Table 1. Primer sequences for amplifying the full-length 16S rRNA gene and 16S-ITS-23S of the
+
+-  Supplementary Table 2. Samples included in the study, run summary and quality control results. *For mock communities, the mock DB was used. For complex communities, the
+
+-  Supplementary Table 3. Taxonomic assignments table of each sample with the different approaches.
+
+-  Supplementary Table 4. De novo results obtained with canu and their taxonomic assignment using BLAST.
+
+-  Supplementary Figure 1. Photo of the agarose gel electrophoresis of some of the samples.
+
+-  Supplementary Figure 2. Main workflow overview. Detailed bioinformatics workflow can be found in Supplementary File 1.
+
+-  Supplementary File 1. Bioinformatics workflow used for the mapping approach.
+
+The authors have begun to put their findings into context with prior studies in the literature using MinION and rRNA genes or operons.   However, I disagree with their conclusions that the primers used for rRNA operon amplification need improvement rather than the choice of software and database.  Specifically, Cuscó
+
+Especially since the authors indicate that our study (Kerkhof
+
+A brief discussion of variability resulting from different PCR amplification reagents and what might be considered a best practice for data analysis for future studies would be helpful.
+
+Other Specific Comments:
+
+Figure 3 has the calculated target gene concentration “Reference” on the right side of the heat map while Figure 4 has the “Reference” on the left side.  This makes it hard for the reader to figure out what should be for the WIMP or MiniMap2 results as a basis for comparison.
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+
+F1000 Research Cuscó et al. (
+
+
+
+The manuscript describes a study assaying 2 mock bacterial communities or 2 complex skin microbiome samples from dogs (chin or dorsal back) using both near-full length 16S rRNA genes and near-full length rRNA operons with the Oxford Nanopore MinION. The authors employ a library preparation method generating either 16S amplicons (1400 bp) or rRNA operons (4500 bp) including barcoding with a 1D ligation/sequencing kit and FLO-MIN 106 cells. The data analysis pipeline utilized Albacore basecalling, near-full length amplicon size selection, and screening by What’s in my Pot (WIMP) and Minimap2 against both NCBI and rrn databases. The authors demonstrate increased resolution at the species level with longer reads, that there can be large losses of raw sequence reads by size selection for rrn amplicons in their hands, and that the data analysis software and database can influence the results of MinION bacterial community analysis.
+
+It would have been very helpful for the authors to put these findings into context with other papers in the literature using MinION and rRNA genes. For example, their results support what others directly sequencing near-full length16S amplicons (e.g. Shin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+
+The study compared the results of microbiota profiling using two different markers (16S rRNA and the rrn operon) and different classification methods. Because other reviewers have already made comprehensive reviews and comments including several critical points, I would like to add only a few minor points to the manuscript:
+
+
+
+Figure 2: according to the text,
+
+Figure 3a:
+
+- It would be better to change the figure (e.g. heatmap) to make it easier for readers to recognize under-represented and over-represented bacteria.
+
+- Include the classification method (WIMP, minimap2) along with the name of the database, as in figure 4, to allow general readers to more easily match the methods and the database.
+
+In the last paragraph of page 7, it seems that the criteria of the percentage of wrongly assigned species for the rrn operon are different from that for the 16S rRNA gene.
+
+Table 3: I suggest making a caption for the difference between 'Staphylococcus' and 'Other Staphylococcus'.
+
+If the authors would like to insist on better resolution by using the rrn operon, they need to demonstrate the data of the analysis using multiple species including species that tend to be under-represented or over-represented.
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+
+Cusco
+
+This work demonstrates a valuable option for species identification from microbial samples using long reads, overcoming the current high error rate through covering a larger region. The work also highlights some of the issues that can arise from multiplexing amplicons of differing lengths when using Nanopore sequencing.
+
+Overall the paper is well written and detailed, however there are a few details I feel could be addressed:
+
+
+
+
+
+
+
+
+
+Page 5: Paragraph beginning "To assign taxonomy...", change "to strategies" to "two strategies". Also I would change the last sentence on the page to say "some of the reads excluded were the expected length of the 16S rRNA gene rather than the
+
+Page 6: change "would allow us determining" to "would allow us to determine".
+
+Page 11, column 2, line 2: change "associated to" to "associated with".
+
+Figure 3a would benefit from separating the reference bar from the other bars or adding this bar to the other two plots (currently it is grouped with Mock database, but it is also relevant to the
+
+Figure 4 text is quite difficult to read.
+
+Table 2: the title of the final column isn't clear. Is this the % of reads that pass the quality filters before chimera detection? Could another column be added showing number of reads that pass this filter?
+
+Figure 5: there are several different colours of 0 in this heat map?
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.
+
+
+
+"Microbiota profiling with long amplicons using Nanopore sequencing: full-length 16S rRNA gene and whole rrn operon".
+
+
+
+The study demonstrates the use of nanopore sequencing for characterising low biomass samples with high levels of host DNA using a primer-based approach targeting the entire 16S rRNA gene or the 16S rRNA gene and the 23S rRNA gene.
+
+Furthermore, it evaluates the ability of these methods in the context of known references using mock communities and a pure culture using both the WIMP software and a custom mapping-based approach.
+
+The study demonstrates that nanopore sequencing can give accurate classifications even at the current level of error rate if the reference database contains the right sequences. The study also shows how sequencing the longer fragment spanning both the 16S rRNA and 23S rRNA genes improves the taxonomic classification when the database contains a matching sequence.
+
+
+
+The study mentions that the classification methods rely heavily on reference databases so it would be relevant to include citations for papers with methods for producing new reference sequences for both 16S rRNA and the longer fragment in the discussion (metagenomics, artificial long reads, primer free methods). Methods for improving read accuracy are also mentioned as important but the only methods mentioned are future upgrades from the company, relevant existing literature is not included (INC-seq, UMIs etc.). The study concludes that sequencing the entire “rrn operon” would be the best choice but it would be relevant to compare the size of current databases for the 16S rRNA gene versus the rrn operon. The presence of conserved sites for designing better primers is also extremely important but not discussed. Furthermore, there is evidence that quite a few organisms have unlinked rRNA genes, which will thus be missed by a full operon approach.
+
+Citations are also needed for bioinformatics tools for both processing and visualisation of the data.
+
+
+
+The study uses mapping to a reference database to point out that the sequences can get genus- and species-level classification. However, the method will always report a genus and a species even in the absence of the correct sequence in the reference database as indicated from the sequencing of the
+
+
+
+The methods section lacks information about what happens after mapping the reads. How are the figures generated, what software is used, etc.? It would also be helpful if the specific scripts/commands used to run the bioinformatics analysis were available.
+
+
+
+
+
+The figure gives a decent overview of the bioinformatics processing but seems to miss the visualisation tools used. The main role of Albacore is basecalling the raw data not just demultiplexing. The figure could be improved further if you include the wet lab part of the work, so it becomes clear why the demultiplexing step is included and where the raw data comes from. A mapping step is integrated in the chimera detection (removal?) workflow but it might be better to omit mentioning mapping in that step as it can be confusing that the figure has two mapping steps in a row.
+
+
+
+The caption needs to explain what the numbers represent e.g. percentage of sequenced reads/mapped reads. It would be great if the heatmap included the “true” composition of the mock community for comparison. Copy number for each organism in the mock would also be relevant to include in the figure. Since there are only two columns, it would be better to have the sample labels at the top and with horizontal text preferably with a name that makes it easier to interpret the figure.
+
+
+
+Even though stacked bar charts are very common it is not easy to read as they lack a common baseline for most of the values (See
+
+
+
+It would be great if you could add a dashed line for the expected “true” value for the mock community.
+
+
+
+This figure is quite complex to read. If the point with running both WIMP and a mapping-based approach with the two different amplicon types is to compare the methods, I suggest that you try to integrate the information better into one combined figure. This way you can help the reader to understand your message.
+
+
+
+Remove the stacked bar chart.
+
+
+
+Remove the stacked bar chart.
+
+Getting rid of the bar charts would allow for making a big heatmap with the data from Figure 4A and 4B combined. This way the reader can also compare the results from the two different sample sites. A naming system that makes it clearer that “_1” and “_2” are replicates would also help the reader interpret the figure. Presenting results aggregated at different levels, which could be included in one another is a bit confusing e.g., “
+
+
+
+It is confusing that several cells in the heatmap have a value of “0” but with very different colours. Adding some meaningful labels with the contamination vs no contamination on the top could help the reader understand the figure without reading the caption.
+
+
+
+
+
+Fine but could be moved to supplementary.
+
+
+
+Make headers easier to understand e.g. ”% seq 1st QC” could be “% of reads passing QC”, “Albacore pass” could just be “# reads after basecalling” etc. Where is the number after chimera detection?
+
+Add a column with data accession ID and move the table to supplementary then the sample names can also be expanded so the reader does not have to look to the bottom for an explanation of abbreviations. I suggest adding a column at the end with the number of reads mapping/classified for each sample so the reader know what fraction is included.
+
+
+
+You need to make it clear in the table that
+
+
+
+It would be great to include the mock communities in this table as well.
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard, however I have significant reservations, as outlined above.
+
+Cusco and co-workers present an evaluation of both a mock community and the dog skin associated microbiota. The authors made use of the single-molecule Nanopore DNA sequencing technology and compared two different technical approaches by studying the nearly-full 16S rRNA bacterial gene and the nearly-full bacterial rRNA operon.
+
+In my opinion, this work represents an important advance regarding the application of nanopore technology in the field of microbiome research.
+
+The main strength of the work is its detailed technical description regarding the protocols for library preparation, sequencing and basecalling, that altogether facilitate the reproducibility. Moreover, the genetic data generated was properly deposited in a specialized database for public accession to whomever may want to replicate the analysis of long reads by similar approaches or new ones.
+
+The figure quality is good and the information disclosed by them is well accompanied with appropriate captions.
+
+Notwithstanding, I have some minor concerns about the work that should be clarified, at least for me:
+
+The last paragraph of page 7 describes the level of reads correctly assigned to species level for the microbial isolate
+
+The authors found that the study of a nearly-full 16S rRNA gene reflects in a better way the expected abundances of microbial species present in the mock community tested. This comparative analysis with regard to the results obtained by using the rrn operon should be accompanied by a linear regression analysis, declaring respective Pearson's "r" coefficients, that can measure more accurately the efficiency of both methods and better support the authors' observations and conclusions.
+
+Additionally to the observed richness (observed species) and Shannon diversity, the authors could also include a microbial community evenness evaluation of reference and observed microbiome data from the different approaches evaluated in the study, so that additional conclusions could be addressed.
+
+Given the issues with underrepresentation of "rrn" data as a consequence of mixing this type of synthetic DNA with nearly-full 16S rRNA amplicons, the authors should highlight this observation as a major issue of this approach and state a clear recommendation to avoid this type of multiplexing for future studies.
+
+It is necessary to better describe the contamination issues described in the last paragraph of the results (page 9). I'm not sure if this cross-contamination came from re-utilization of a flowcell or if this came from contamination of the barcoded-primer, used during nested PCR, with amplicons/DNA from the mock community. In a similar manner, the estimation of 6% of contamination has to be explained in detail (species/proportions discarded or having been taken into account to calculate this percentage).
+
+I confirm that I have read this submission and believe that I have an appropriate level of expertise to confirm that it is of an acceptable scientific standard.

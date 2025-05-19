@@ -1,0 +1,95 @@
+TCSs are ubiquitous signaling pathways in bacteria that enable them to sense and respond to environmental stimuli.
+
+In
+
+To test this hypothesis, we used a combination of bioinformatics, genetic, and phenotypic approaches to investigate the distribution, function, and regulatory mechanisms of
+
+The strains and plasmids used in this study are listed in
+
+Strains and Plasmids Used in This Study
+
+To explore the presence of
+
+The shuttle plasmids, pKOR1 and pLI50, were acquired from Addgene (plasmids #13573 and #133446). Deletion mutants of
+
+PCR Primers are Used for PCR Assays
+
+MICs of oxacillin, ampicillin, gentamicin, linezolid, vancomycin, levofloxacin, moxifloxacin, erythromycin, clindamycin, teicoplanin, tigecycline, and rifampicin were determined using the microdilution broth method. All antimicrobial susceptibility testing and interpretive criteria were performed in accordance with the breakpoints specified in the Clinical and Laboratory Standards Institute guidelines (CLSI, 2023).
+
+Age-matched (6-week-old) female wild-type (WT) BALB/c mice were purchased from Yangzhou University with a permit and used in this study. Mice were randomly divided into four groups (n=10 per group).
+
+Forty 6-week-old female BALB/c mice were randomly divided into four groups, with ten mice in each group. After preparing the bacterial suspensions as described above, 100 µL of 1×10
+
+The nasal tissue colonization experiment was conducted with modifications to previously described methods.
+
+Log-phase
+
+PIA was quantified with minor modifications as previously described.
+
+Isolation and quantification of eDNA were performed as previously described.
+
+To determine the effect of
+
+All experimental data were analyzed by unpaired Student’s
+
+We retrieved 15,626
+
+The Presence of desKR in Different STs
+
+Prevalence and genomic context of the two-component regulatory system
+
+The
+
+DesK was predicted to be a membrane-anchored protein characterized by five transmembrane (TM) domains, which are crucial for spanning the cell membrane (
+
+Simple Modular Architecture Research Tool (SMART) and Swiss-MODEL Analysis of DesKR. (
+
+DesR, the response regulator, is composed of two main domains: an REC (Receiver) domain (residues 2–115) and a LuxR-type Helix-Turn-Helix (HTH) domain (residues 137–194) (
+
+To further investigate the biological function of
+
+MIC Determination of Antibiotics for NCTC8325 and ΔdesKR
+
+To investigate the influence of
+
+Impacts of
+
+Given that
+
+To rule out the possibility that the
+
+Adhesion to biological and non-biological surfaces is the first step in the formation of
+
+Impacts of
+
+To further elucidate the changes in biofilm formation at higher resolutions, CLSM analysis was employed. To differentiate between live and dead cells within the biofilm, we utilized a fluorescent dye staining technique, wherein SYTO9 dye was used to stain live bacteria green, whereas propidium iodide dye penetrated the membranes of dead cells, causing them to appear red. As illustrated in
+
+To investigate whether promotion of
+
+PIA and eDNA are important components of
+
+Impacts of
+
+Cell lysis is a critical pathway for the release of eDNA, which plays a key role in biofilm development. The autolysis assay offers valuable insights into whether
+
+To investigate the mechanism by which
+
+RT-qPCR detection of the impacts of
+
+The emergence and rapid spread of antibiotic-resistant
+
+Protein structural analysis revealed that DesKR possesses the typical structural features of a two-component regulatory system, including the transmembrane domain of HK, His dimerization phosphate acceptor domain, ATPase domain, and the receiver and effector domains of RR. These structural domains form the basis for signal transduction in the two-component regulatory system.
+
+Two-component systems (TCSs) in bacteria, including
+
+One of the most striking findings of our study was the significant effect of
+
+Our study further revealed that
+
+DesKR represents a promising target for the development of novel anti-biofilm therapies due to its key role in regulating biofilm formation. Recent studies have shown that small molecules can effectively inhibit TCSs like GraSR, which are involved in antibiotic resistance mechanisms.
+
+Our study had certain limitations. Although our research indicated that
+
+In conclusion, our study demonstrates that the
+
+Schematic overview of the

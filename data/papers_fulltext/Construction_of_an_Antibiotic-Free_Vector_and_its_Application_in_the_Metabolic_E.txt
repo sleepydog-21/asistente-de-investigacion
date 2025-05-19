@@ -1,0 +1,79 @@
+Plasmid-based genetic manipulation is a common approach in metabolic engineering or whole-cell bio-catalysis. One advantage of employing plasmid-based genetic manipulation is the permit of
+
+Strategies for the maintenance of plasmids during cell growth under antibiotic-free conditions have been extensively studied (
+
+The
+
+Wu and Wood showed that
+
+Poly-3-hydroxybutyrate (PHB) has attracted much attention owing its biodegradability and biocompatibility, particularly because of the increase in global environmental concerns in recent years. The common method for PHB biosynthesis from acetyl-CoA in microorganisms comprises three steps. First, two molecules of acetyl-CoA are condensed by β-ketothiolase, encoded by
+
+In this study, we constructed three pUC19-based vectors, pVEC01, pVEC02, and pVEC03, which contain
+
+All strains and plasmids used in this study are listed in
+
+List of bacterial strains and plasmids used in this study.
+
+Plasmids were constructed by sequence- and ligation-independent cloning (
+
+Schematic of the construction of pVEC01, pVEC02, pVEC03, and pPHB01.
+
+Primer sequence in this study.
+
+Uppercase letters indicate regions of homology with vector; lowercase letters indicate the primer for insert DNA.
+
+To construct the recombinant plasmid pPHB01-1, the Q5
+
+
+
+After 12 h, 10 μL of the cell suspensions was transferred to a new test tube. Every 12 h, 10 μL of the sample was transferred to a new flask, and the cells were diluted and plated on LB plates supplemented with or without antibiotics. Plasmid stability (segregation) was estimated by the equation:
+
+The putative promoter of the
+
+The strains used for shake flask experiments were grown aerobically at 200 rpm and 37°C in fresh 25-ml LB medium supplemented with 20 g/L glucose, 0.6 g/L MgSO
+
+Cell density was monitored by measuring the optical density at 600 nm (GENESYS 10S, Thermo Scientific, United States). For the measurement of biomass concentration, 3 ml of the cultured cells were centrifuged for 1 min at 6,791 rcf. The cells were frozen at −20°C and lyophilized. After freeze-drying, the weight of the sample was recorded to calculate the biomass concentration. The PHB produced by the recombinant
+
+The metabolites were determined using a Thermo Scientific™ Dionex™ Ulitmate 3000 LC system equipped with an ORH-801 column. Sulfuric acid (5 mM) was used as the mobile phase, and the flow rate was maintained at 0.6 ml/min. Samples for quantification were collected from the culture media after the removal of the cells by centrifugation for 1 min at 6,791 rcf. The supernatant was passed through a 0.2-μm PVDF filter, and the sample injection (10 μL) was performed using an auto-sampler.
+
+The bacterial culture solutions were centrifuged at 4°C and 9,072 × g for 10 min and resuspended in lysis buffer (50 mM Tris, 0.1 M NaCl, 1 mM EDTA, pH 7.8) to obtain a final OD of 20. The concentrated bacterial solutions were subjected to ultrasonication (10 s break and 5 s intermittent, total 60 cycle) (QSonica Q700, United States). The cell lysates were then diluted with 4x Laemmli sample buffer (Bio-Rad Laboratories, Inc., United States) and heated in a dry batch for 10 min. Samples (10 µL) were loaded into the wells for SDS-PAGE analysis (12% acrylamide).
+
+To confirm
+
+The recombinant plasmids pVEC01, pVEC02, and pVEC03 were tested for plasmid stability in different
+
+The plasmid stability test of pUC19, pVEC01, pVEC02, and pVEC03 in
+
+We tested PHB production by conducting shake flask experiments at 37°C under the control of the native promoter of
+
+
+
+The capability of
+
+Nile red stain assay of
+
+The putative promoter of the
+
+The putative promoter of
+
+While pVEC02 (
+
+Maps of
+
+
+
+
+
+To characterize the long-term stability of PHB production in
+
+
+
+SDS-PAGE was used to confirm the expression of the
+
+SDS-PAGE of
+
+Synthetic biology has gradually become the keystone of our current technology-based society (
+
+In this study, a high-copy number backbone, pUC19, was chosen since it may benefit recombinant protein production and metabolic engineering. PSK and active partition systems are usually found in a low-copy number plasmid. It will be interesting to see how well PSK and active partition systems maintain the high-copy pUC19 in
+
+The application of the antibiotic-free vector pVEC02 was further investigated in metabolic engineering for PHB production by constructing the recombinant pPHB01.

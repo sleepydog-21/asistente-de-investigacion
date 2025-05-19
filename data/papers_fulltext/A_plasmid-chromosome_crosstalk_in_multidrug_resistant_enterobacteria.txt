@@ -1,0 +1,157 @@
+Antimicrobial resistance (AMR) is becoming a leading global health problem, with AMR infections increasing every year
+
+When plasmids are acquired by a new bacterial host, they usually disrupt the cell’s transcriptional profile, and this can translate into a fitness cost
+
+Moreover, there is growing evidence that plasmids may modulate transcriptome changes to manipulate the bacterial host behavior as a strategy to increase their own transmissibility
+
+In this study, we analyzed the transcriptional response associated with carrying plasmid pOXA-48 in 11 MDR enterobacterial strains of four different species isolated from hospitalized patients. Our analyses revealed that pOXA-48 produces variable responses on their hosts, but commonly affects processes related to metabolism, transport, cellular organization and motility. More notably, we demonstrated that a pOXA-48-encoded LysR transcriptional regulator directly increases the expression of a small chromosomal operon in
+
+To study the transcriptional impact of pOXA-48 carriage in clinically relevant bacteria, we analyzed 11 MDR enterobacterial strains isolated from the gut microbiota of patients admitted to a large University Hospital in Madrid, Spain (Supplementary Data
+
+Although the structure and sequence of plasmid pOXA-48 is quite conserved across enterobacteria, we have previously described multiple pOXA-48 variants carrying different indels and/or SNPs
+
+The genetic map of pOXA-48 shows the direction of transcription of genes as arrows, with colors indicating gene function. Each concentric circle of the heatmap represents the expression of pOXA-48 genes of each strain, measured as the median log
+
+Next, we analyzed the expression of pOXA-48 genes in the different genetic backgrounds of the 12 enterobacterial strains. Gene expression was calculated as Transcripts Per Million (TPM). To facilitate comparison between strains, TPM values were normalized by the median chromosomal TPM values of the corresponding strain. All plasmid genes were transcribed (Fig.
+
+pOXA-48 produced variable, strain-specific transcriptomic changes on the chromosome of its enterobacterial hosts (Supplementary Fig.
+
+To find commonly enriched functions between strains, we performed gene set enrichment analysis (GSEA) on the lists of raw DEGs with Gene Ontology (GO) functional annotations (Fig.
+
+Biological Processes (BP) enriched in pOXA-48- carrying enterobacteria. Gene set enrichment analysis (GSEA), correcting for multiple tests with the Benjamini-Hochberg procedure, was performed on the lists of raw DEGs annotated with Gene Ontology terms for BP (see Methods). Downregulated and upregulated enriched BP are separated in two panels, and are represented by circles. Thicker horizontal lines indicate BP enriched in more than one strain. The size of the circles indicate the ratio of the number of enriched genes of a specific BP by the number of total genes annotated for that BP. The adjusted
+
+pOXA-48 also produced an overall impact in bacterial motility. Genes involved in flagella-dependent motility were strongly downregulated in 2 of the 3
+
+Very few common genes were significantly DE across the strains, and those who were showed different directions of DE (Supplementary Fig.
+
+A search on the STRING database revealed that the
+
+In line with this hypothesis, the genes neighboring the
+
+pOXA-48 encodes a LysR transcriptional regulator downstream the
+
+To test this hypothesis, we constructed a version of pOXA-48 with
+
+To complement the deletion of
+
+To further characterize the regulatory functions of LysR
+
+The operon genes
+
+Genes were considered to be potentially regulated by a LysR transcriptional regulator if a
+
+Next, we decided to study the function of the
+
+Members of the isochorismatase-like superfamily, like the EntB enzyme involved in enterobactin biosynthesis, typically hydrolyze the isochorismate to 2,3-dihydroxybenzoate and pyruvate. Enterobactin is a high-affinity bacterial siderophore involved in iron uptake
+
+To investigate the biological relevance of the
+
+To directly study the effect of
+
+In light of these results, we hypothesized that the overexpression of the
+
+If overexpression of the
+
+The complex interactions that occur between plasmids and their hosts shape the evolution of AMR. These interactions can disrupt cellular processes at multiple levels, including the host’s transcriptional regulation. In this work, we explored the impact of the carbapenem-resistance plasmid pOXA-48 on the transcriptomes of 11 MDR enterobacterial hosts. These strains belong to four different clinically relevant species and are natural or sympatric hosts of pOXA-48
+
+A growing number of studies have reported plasmid-chromosome crosstalks mediated by plasmid-encoded regulators
+
+The specific plasmid-chromosome crosstalk described here may be unique to pOXA-48 and the
+
+Bacterial operons usually encode genes sharing similar or complementary biological functions
+
+In summary, our study uncovers a plasmid-chromosome crosstalk that could facilitate the acquisition of carbapenem resistance in one of the most concerning groups of clinical pathogens, MDR enterobacteria. These results highlight, once again, the key role of plasmids as catalysts for bacterial adaptation beyond being mere drivers of horizontal gene transfer
+
+We selected a subsample of MDR strains from the R-GNOSIS collection, recovered in the Ramón y Cajal University Hospital during an active surveillance-screening programme for detecting and isolating ESBL/carbapenemase-producing Enterobacteriaceae from hospitalized patients (approved by the Hospital’s Ethics Committee, Reference 251/13
+
+Strains of
+
+The plasmid pOXA-48Δ
+
+The plasmid pFR56apm was used for expression of the CRISPRi machinery. This plasmid is based on pFR56
+
+The genomes of the six pOXA-48 MDR transconjugants and the
+
+Quality control of Illumina reads was performed with FastQC v0.11.9 (
+
+Mashtree v1.2.0
+
+RNA extraction was performed as in ref.
+
+Trimmed reads were mapped to their corresponding reference genome with BWA-MEM v0.7.17
+
+TPM values were calculated from FPKM values computed with DESeq2 from raw counts. To plot pOXA-48 gene expression, TPM values of pOXA-48 genes were normalized by the median chromosomal TPM, since it shows lower coefficient of variance across samples (CV = 0.22) than the housekeeping genes
+
+Raw DEGs from the first RNA-Seq dataset were annotated with Gene Ontology (GO) terms for biological processes (BP), molecular functions (MF) and cellular components (CC), retrieved from the UniProt database
+
+To assess whether mutations accumulated in the chromosome or other plasmids during growth or construction of pOXA-48-, pOXA-48Δ
+
+To further analyze common transcriptomic responses between samples, 2,488 single copy orthologs (SCO; orthogroups which contain only one gene per strain) were identified with OrthoFinder v2.5.4
+
+To explore the origin of the
+
+To reduce the size of the database of Proteobacteria encoding the
+
+To construct a phylogenetic tree of Gamma-, Beta- and Alphaproteobacteria for ACR, including strains encoding and lacking the
+
+To analyze the regions upstream and downstream the
+
+The GC content and CAI was computed for the subset of non-redundant
+
+To study the possible association between encoding a
+
+Overnight bacterial cultures grown in LB were diluted to 1:1000 in fresh medium. When necessary, LB medium was supplemented with anhydrotetracycline (aTc) 0.3 µg/mL or 2,4-diacetylphloroglucinol (DAPG) 50 μM. Cultures were grown in aerobic conditions at 37 °C with agitation until an OD
+
+RT was carried out for each replicate using 1 μg of RNA as template and the High-Capacity cDNA Reverse Transcription Kit with RNase Inhibitor from Applied Biosystems.
+
+The susceptibility to quercetin of pOXA-48-carrying strains versus pOXA-48Δ
+
+Growth curves of plasmid-free, pOXA-48-carrying and pOXA-48Δ
+
+Growth curves were performed to assess the effect of the overexpression of LysR
+
+The two versions of pFR56apm (non-targeting control and the one targeting the
+
+The resulting strains were grown overnight in LB supplemented with apramycin (50 µg/mL), to select for pFR56, and DAPG (50 µM), to induce
+
+All statistical analyses were performed with R v4.3.1 or v4.4.0 (
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review File
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Supplementary Data 3
+
+Supplementary Data 4
+
+Supplementary Data 5
+
+Supplementary Data 6
+
+Supplementary Data 7
+
+Supplementary Data 8
+
+Supplementary Data 9
+
+Supplementary Data 10
+
+Supplementary Data 11
+
+Supplementary Data 12
+
+Reporting Summary
+
+
+
+Source data

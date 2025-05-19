@@ -1,0 +1,113 @@
+Bacteria contain numerous small non-coding RNAs (sRNAs) that are <300 nucleotides long and possess a stem–loop secondary structure (
+
+Understanding the sRNA-mediated regulation in bacteria has provided opportunities for applying synthetic biology and metabolic applications as a tool for fine-tuning gene expression with riboswitches (
+
+Cas13 protein is involved in the CRISPR–Cas system that functions to defend against RNA-type invasions (
+
+Various Cas13 proteins, including Cas13a (Type VI CRISPR-Cas) and Cas13b (Type III CRISPR-Cas), have been identified as valuable resources (
+
+Here we report the development of a bacterial RNA repression platform using the CRISPR-guided dCas13a systems comprising a programmable spacer design in the crRNA and inducible dCas13a expression, with its use of repression of either
+
+Development of programmable sRNA and gene repression systems using the CRISPR–dCas13a system. (
+
+All bacterial strains and plasmids used in this study are listed in
+
+CRISPR–dCas13a requires a two-plasmid system (pBbA2c-dCas13a and p13crRNA-bacteria) in
+
+The fluorescence intensities (FIs) of red fluorescence protein (mRFP1) were measured at excitation/emission wavelengths of 532/588 nm, respectively. Absorbance for the cell densities was measured at 600 nm (Abs
+
+For total RNA purification, a bacterial strain with an OD
+
+Cells were cultured in 3 ml of LB medium at 30°C in a round bottom tube, starting with an OD
+
+Robot-assisted automated gene cloning in the SKy BioFoundry, a member of the Global Biofoundry Alliance, was used for massive plasmid cloning experiments (
+
+Recombinant cell strains grown in the 2 ml DWP were centrifuged for 10 min at 3600 rpm and 4°C. The supernatants were discarded after centrifugation. For the screening, the cell pellets were photographed in GelDoc (Bio-Rad, USA) under a white LED light. Each image that corresponds to the cell pellet in the picture was analyzed using ImageJ software. For accurate measurement, solvent extraction was performed for the same strains. Cell pellets were resuspended with 1.5 ml of acetone and incubated at 55°C for 15 min, followed by centrifugation (13 000
+
+For programable bacterial RNA repression, we developed a CRISPR–dCas13a system that contains two plasmids for either dCas13a expression or programmed crRNA expression: pBbA2c-dCas13a and p13crRNA-bacteria (
+
+To test the bacterial RNA repression and the effect of growth restriction, we targeted expression of an RFP in
+
+Bacterial gene repression using the CRISPR–dCas13a system. (
+
+In the context of mRNA repression, both d
+
+To explore the sensitivity of the dCas13a system to mismatches in the context of bacterial RNA repression, we introduced mismatched crRNA spacers targeting the same RNA sequence. Specifically, we systematically mutated complementary bases at intervals of every three base pairs, resulting in the creation of 10 distinct crRNA spacers (Figure
+
+To delve deeper into the sequence preferences of the dCas13a system, we designed a set of diverse spacers that targeted different regions within the mRNA, including the RBS and the CDS (Figure
+
+Next, our objective was to utilize the CRISPR–dCas13a system for the modulation of
+
+To demonstrate the repression of
+
+Bacterial
+
+In the context of our study, we reprogrammed the CRISPR–dCas13a system to interact with SgrS. This intervention reduces the availability of free SgrS within the cell, thereby diminishing the formation of SgrS–Hfq complexes responsible for repressing PtsG mRNA (Figure
+
+α-Methylglucoside-6-phosphate (αMG-6-P), an analog of glucose 6-phosphate, induces glucose phosphate stress in
+
+When using the group of sgrS1–sgrS5 crRNAs, the dCas13a ribonucleoproteins exhibited slight growth inhibition, with reductions ranging from 4.83% to 18.27%, compared with the non-targeted CRISPR–dCas13a (NT). Conversely, the crRNAs sgrS8, sgrS9 or sgrS10 in the CRISPR–dCas13a system did not induce a significant growth inhibition like sgrS6 or sgrS7 crRNAs within the same group. However, dCas13a ribonucleoproteins with either sgrS6 or sgrS7 crRNA from the other group demonstrated more pronounced growth inhibition, resulting in reductions of 29.9–30.2% compared with the NT. In the absence of αMG, dCas13a with sgrS7 crRNA did not lead to growth inhibition and exhibited a similar level to the NT. This outcome suggests that CRISPR–dCas13a with sgrS7 crRNA specifically regulates SgrS.
+
+Regarding spacer design, the spacers sgrS6 or sgrS7 cover 100% of the PtsG mRNA-binding site region. This result emphasizes the importance of blocking the PtsG mRNA-binding site through dCas13a reprogramming to prevent the functional role of SgrS. Consequently, we have learned that a key design principle for sRNA targeting spacers is to reprogram the RNA sequence that interacts with the target mRNA site while preserving the Hfq-binding site.
+
+To elucidate the transcriptional-level underpinnings of the phenotypic response, we conducted direct measurements of the relative mRNA expression levels of
+
+To assess the sequence-specific impact of the CRISPR–dCas13a system, we embarked on an exploration of the spacer sequence's specificity within the crRNA, particularly its binding to the target RNA. To investigate this, we systematically introduced mutations, specifically single mismatches, at every third position within sgrS7 (Figure
+
+In addition to
+
+Bacterial
+
+Leveraging the programmable CRISPR–dCas13a system, we aimed to disrupt the regulatory function of GadY sRNA by directly binding to GadY before the GadY–Hfq complex could engage in its regulatory role under acid stress conditions (Figure
+
+Under acidic stress conditions (
+
+To corroborate the dCas13a-mediated regulation of GadY at the transcriptional level, we anticipated lower levels of GadX mRNA due to the inherent instability of mRNA in the absence of GadY. Indeed, the levels of GadX mRNA decreased for all gadY crRNAs (Figure
+
+Programmable DNA targeting CRISPR–dCas9, commonly referred to as CRISPR interference (CRISPRi), has gained widespread use in controlling gene expression (
+
+To circumvent the uncertainties associated with using CRISPR–dCas9 on GadY expression, an alternative approach involves utilizing an sgRNA to target the promoter region of the GadXW operon, effectively repressing the expression of the entire gene cluster. Indeed, this dCas9 system successfully suppresses the function of acid tolerance conferred by GadXW (Figure
+
+Following the development of the CRISPR–dCas13a system for gene repression, targeting either the RBS or the start codon site, we endeavored to enhance gene repression by modifying the 3′-end sequence with secondary structures in the crRNA (Figure
+
+Targetable polycistronic gene repression using the CRISPR–dCas13a system and modular loop engineering. (
+
+Subsequently, we applied these engineered crRNAs within the CRISPR–dCas13a system to repress the expression of the
+
+With the modular loop engineering of the crRNA in mind, we extended our approach to sRNA repression for both SgrS and GadY. Interestingly, no significant differences were observed between the original crRNA and the loop-engineered crRNA (
+
+Building on the foundation of robust gene repression achievable with the CRISPR–dCas13a system, we embarked on the challenge of achieving specific gene repression within a polycistronic gene operon, a feat not easily accomplished using the CRISPR–dCas9 system, which tends to repress all genes within operons. To illustrate this capability, we selected the
+
+Our objective was to specifically target the second gene,
+
+To demonstrate the potential utility of the CRISPR–dCas13a system in metabolic engineering, we employed it to identify sRNAs that can enhance lycopene production in
+
+Application of CRISPR–dCas13a to increase lycopene production. (
+
+For experimental validations, we constructed the crRNA library (102 crRNAs) using a semi-automated cloning approach as described in previous studies (
+
+Among the strains in which sRNAs led to improved statistically significant lycopene production in the context of metabolic engineering, we singled out the top-ranked 12 strains. To further validate these production results, we designed an additional crRNA with a single nucleotide difference in the 5′-end direction of the spacer, aiming to target the same sRNA independently. Interestingly, there was no significant fold change observed between the two crRNAs (Figure
+
+As a result, the strain that exhibited the highest lycopene production was the one with IsrC sRNA repression, resulting in a remarkable 6.21-fold increase compared with the NT strain. IsrC, classified as a
+
+The second target, SdsR (designated as H06), displayed a significant 4.24-fold increase in lycopene production compared with the NT strain. SdsR serves as a global regulator within the RpoS regulon and functions as a
+
+Additionally, MicL-S (designated as G04) exhibited a 4.14-fold increase in lycopene production compared with the NT strain. MicL-S is recognized for its role in inhibiting the translation of the
+
+Interestingly, several sRNAs, including RdlA (designated as H01, exhibiting a 3.65-fold increase compared with NT), SokB (designated as F01, with a 3.64-fold increase), AgrB (designated as H07, displaying a 3.63-fold increase) and SokE (designated as G09, with a 3.32-fold increase), all belonging to the type I toxin–antitoxin system, were identified as effective repression targets for enhancing lycopene production. Although the precise connection between the absence of these sRNAs and lycopene production in
+
+In the context of strain engineering for metabolic engineering, we pursued a co-overexpression strategy involving a negatively regulated gene by the respective sRNA and a gene involved in the lycopene biosynthesis pathway in
+
+It is worth noting that for the other targets requiring overexpression, precise gene expression control may be essential when implementing a metabolic engineering approach, particularly given that sRNA regulation predominantly occurs during the stationary phase. Additionally, gaining insights into the enigmatic regulatory mechanisms of the target sRNAs is crucial to effectively harness our findings for metabolic engineering applications.
+
+We developed a CRISPR–dCas13a system capable of repressing both bacterial
+
+Leveraging the ease of spacer reprogramming within the crRNA, we envisage the use of a CRISPR-pooled crRNA design to screen for sRNAs by designing complementary sequences that target specific mRNA targets (
+
+Modular loop engineering of the crRNA structure proved effective for achieving modular gene repression of reporter genes and for enabling precise control of gene expression at the mRNA level. Unlike the CRISPRi system (
+
+Recent advances in synthetic sRNA-based gene repression systems have employed Hfq chaperones and sRNA scaffolds to program target gene repression (
+
+While CRISPR–dCas13a has the potential to repress target sRNAs by designing spacers within the core functional region, the structural complexity of the target sRNA can limit its applicability due to the uncertainty of RNA base pairing between the target sRNA and dCas13a–crRNA protein. To address this challenge, we employed RNA structural prediction to generate potential secondary structures of target sRNAs for selecting optimal spacer regions (
+
+Click here for additional data file.

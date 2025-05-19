@@ -1,0 +1,137 @@
+Polysaccharide conjugate vaccines (PCVs) target a subset of
+
+The original methods for serotyping pneumococci assay the ability of an unknown isolate to agglutinate in the presence of different antisera that recognize known serotypes (
+
+Novel nucleotide sequencing approaches have the potential to allow accurate, simple, and relatively inexpensive culture-free
+
+NAS is available as part of the standard ONT sequencing software platform. However, there has been limited quantification of its accuracy, particularly in metagenomics. It has been previously shown that NAS sensitivity is highest when a target present in a metagenome is closely related to a sequence in the reference database (
+
+Here, we benchmark the sensitivity and specificity of NAS for detection of
+
+We first set out to determine the taxonomic range across which NAS can effectively enrich for a target sequence, while still correctly rejecting nontarget sequences. We hypothesized that NAS would fail to enrich for target loci when the sequence similarity between target and nontarget genomes was comparable to the single-strand error rate of ONT reads (∼6% [
+
+To test this hypothesis, we generated mock communities containing mixtures of genomic DNA from
+
+Enrichment of
+
+Comparison of NAS performance based on enrichment is shown in
+
+To determine the effect of nonspecific enrichment on downstream analyses, we then assembled reads using metaFlye (
+
+Spn23F whole-genome enrichment assembly comparison. Each panel describes an Spn23F assembly generated from 0.1 Spn23F dilutions with each nontarget organism. For each panel, the
+
+For the
+
+To improve enrichment by NAS, we specifically enriched for the pneumococcal CBL, which is generally absent from streptococci other than
+
+We observed a notable improvement in enrichment when only targeting the 23F CBL, particularly in mixtures containing
+
+Difference in normalized coverage per locus between NAS and control channels across the Spn23F Chromosome when targeting whole genome (blue) or CBL (red) from 0.1 Spn23F dilutions with each nontarget organism. NAS-control coverage difference per gigabase (Gb) was calculated by normalizing the read coverage for each locus by the amount of data generated (in Gb) for each respective sample and channel, and then negating the normalized coverage for control channels from NAS channels for each locus. The gray dashed line at 0 indicates equivalent coverage at a given locus between NAS and control channels; >0 indicates NAS channels generated greater coverage, <0 indicates control channels generated greater coverage. Data are shown for 0.1 dilutions of Spn23F only. Gray column in each plot highlights the 23F CBL locus. Rows show different species for the nontarget, which was mixed with Spn23F in each sample.
+
+We then generated and compared 23F CBL assemblies as before, focusing on 0.1 Spn23F dilutions, equating to 8 × 10
+
+Spn23F CBL enrichment assembly comparison. Each panel describes a 23F CBL assembly generated from 0.1 Spn23F dilutions (8 × 10
+
+Previous studies have shown that although NAS increases the proportion of target bases within the read data set, it may reduce the absolute yield for an equivalent sequencing time (
+
+NAS is therefore capable of distinguishing encapsulated
+
+CBL enrichment in mixtures of multiple pneumococci. (
+
+All CBL sequences were enriched across all mixtures, independent of serotype or genotype (
+
+To determine whether NAS improves serotype prediction accuracy in mixed samples, we then analyzed reads from mixed samples using PneumoKITy (
+
+Serotype predictions from mixed samples
+
+We have shown that pneumococcal CBL sequences are a more suitable target for metagenome-based serotype surveillance than whole genomes. However, high sequence divergence between CBL may limit NAS application in the discovery of previously unobserved serotypes. Although SNPs and short variants can usually be aligned to a divergent reference, larger structural variation, present between CBL of different pneumococcal serotypes, can hinder read alignment when variants are not captured in a reference database (
+
+We developed and implemented a read-to-graph alignment method to replace the linear alignment method currently used in NAS methods (
+
+NAS using graph pseudoalignment in GNASTy. (1
+
+To benchmark the accuracy of GNASTy against the current linear alignment used during NAS, we generated a simulated data set of nanopore reads from the Spn23F and
+
+We found that alignment sensitivity was higher for graph pseudoalignment than minimap2, whereas specificity was similar between the two methods (
+
+Alignment accuracy comparison between graph pseudoalignment in GNASTy (referred to as “graph”) and minimap2
+
+Sensitivity is defined as
+
+When comparing computation speed between the two methods, minimap2 outperformed Bifrost/GNASTy during index generation and read alignment. Minimap2 was 30-fold faster at index generation than Bifrost and used 4.5-fold less memory, although Bifrost generated an index twofold smaller than minimap2 (
+
+We investigated whether GNASTy's graph representation of CBL variation would enable it to discover and enrich novel CBL variants more accurately than conventional NAS. To evaluate this, we tested whether graph pseudoalignment in GNASTy could outperform linear alignment when the target sequence was not present in a reference database. We used the 106 CBL sequences used previously as a reference database, removing the 23F CBL, along with all closely related CBL (cluster two from
+
+Results showed that enrichment could be achieved by all NAS methods and parameter values, although graph pseudoalignment (
+
+Enrichment comparison of 23F CBL at different concentrations of target between minimap2 and graph pseudoalignment in GNASTy when aligning to a partial CBL reference database. Bar ranges are interquartile range of enrichment from 100 bootstrap samples of reads. Data points connected by lines are observed enrichment values for each library, with solid lines connecting the same genome diluted at different concentrations. Rows describe the nontarget species in the mixture; columns describe the alignment method used. Each column represents data from a single flow cell. To plot on a log scale, all enrichment values had 0.01 added to them. Horizontal dashed line describes enrichment = 1 (i.e., no enrichment has occurred). Red asterisk marks high enrichment observed using graph pseudoalignment (
+
+The increased enrichment we observed for graph pseudoalignment in GNASTy over minimap2 may be due to biased over-sequencing of a specific position in the 23F CBL, rather than even coverage of the entire 23F CBL. To enable accurate assembly of the full 23F CBL, coverage should ideally be increased evenly across the target sequence, rather than over-represented in specific regions. Comparison of normalized coverage across the full 23F CBL for minimap2 and graph pseudoalignment showed similar read coverage variability across the 23F CBL all three methods (
+
+Next, we compared the ability for minimap2 and GNASTy to correctly identify the 23F serotype in the mixtures using PneumoKITy (
+
+We then compared assemblies of the 23F CBL across the three alignment methods. We chose samples containing 0.1 Spn23F dilution with
+
+Previous experiments demonstrated graph pseudoalignment in GNASTy was capable of enriching for CBL from simple mixtures. Therefore, we tested whether the method was also effective with more realistic microbial compositions that would be observed in the nasopharynx or oral cavity. We used samples containing a mixed culture generated from nasopharyngeal swabs, spiking in Spn23F as before. As there was no ground truth for these samples, it was unknown whether
+
+Enrichment of the 23F CBL was achieved for all mixed culture samples (
+
+Enrichment of 23F CBL across samples containing mixed cultures from nasopharyngeal swabs. All nasopharyngeal samples (denoted “Sample X”) were run without size selection, with control samples containing Spn23F mixed with
+
+The 23F CBL was identified as the most likely CBL in samples 1 and 2, as well as the
+
+The complex population dynamics of
+
+In this work, we explored the application of NAS to pneumococcal serotype surveillance, which has the potential to fulfill all the above criteria. We found that when targeting a whole
+
+Direct detection of pneumococcal CBL using NAS promises to be a simple, scalable surveillance method. NAS does not rely on culture, reducing the time required to generate a result compared to WGS or agglutination assays. Library construction takes a few hours, and NAS required 1 day of sequencing on a portable MinION device, which can be shortened if sufficient read coverage is reached during sequencing. Although NAS is slower than PCR, which takes a few hours, this time is comparable to microarrays (
+
+Despite the potential for NAS to be used in serotype surveillance, the extensive structural variation distinguishing different CBL caused us to hypothesize that the standard linear alignment employed by NAS would have limited sensitivity when applied to novel or variant loci. To address this issue, we developed a pangenome graph-based alignment method for NAS, GNASTy. We showed that GNASTy enables greater enrichment of novel CBL over linear alignment, and is therefore capable of discovering rare or previously unknown serotypes. Therefore, GNASTy combines the advantages of NAS described above with the added benefit of increased sensitivity to enrich for novel serotypes. Unlike PCR and microarrays, GNASTy is capable of identifying novel serotypes and easily adding new targets, with any updates to the serotyping panel achieved through simply extending the reference database, without alterations to the laboratory protocol. Therefore, GNASTy is well suited for surveillance of diverse pathogen biomarkers, such as CBL, where novel variants are discovered frequently (
+
+A key improvement of targeted sequencing over shotgun metagenomic sequencing is the improved limit of detection, meaning more rare sequences can be identified. We showed that NAS can increase the proportion of target DNA more than 10-fold over that of the control channels, based on the normalized measure; enrichment by composition, when applied to CBL sequences at concentrations < 0.01%, in line with previous evaluations of NAS efficiency (
+
+Multiplexing is key to enabling the batch processing necessary for NAS-based methods to be viable for use in routine surveillance. Based on our experience, we recommend sequencing between 12 and 24 samples on a single flowcell to provide sufficient coverage to detect
+
+The current limitations of NAS and GNASTy primarily represent the challenges of optimizing DNA sample preparation. The mock communities tested did not contain human reads; however, oral and nasopharyngeal samples often contain substantial host DNA, which will ultimately impact target yield. Therefore, GNASTy will require further optimization to include host DNA depletion, for which suitable laboratory methods are available (
+
+NAS has the potential to enable accurate, direct, and relatively inexpensive
+
+All isolate bacterial strains used in this work included:
+
+Nasopharyngeal swab samples were chosen from a collection originating from a study of mother–infant pairs in the Maela camp for refugees in Thailand (
+
+For culture, glycerol stocks containing bacterial isolates and nasopharyngeal swab (referred to as “mixed culture”) samples were inoculated in 10 mL of Todd-Hewitt broth (Oxoid) and 2% yeast extract (Sigma-Aldrich) and cultured overnight at 35°C in 5% CO
+
+DNA was extracted from cell pellets using the Wizard Genomic DNA Extraction Kit (Promega A1120). For
+
+Extracted DNA was size selected using the SRE XS kit (PacBio SKU 102-208-200) following manufacturer's instructions to remove fragments <10 kb in length.
+
+Extracted DNA was quantified using a dsDNA broad-range assay kit (Q32850) on the Qubit 3 fluorimeter (Thermo Fisher Scientific) following manufacturer's instructions. DNA was also sized using a Genomic DNA ScreenTape Assay (5067-5366 [Reagents], 5067-5365 [Screentape]) on the TapeStation 2200 system (Agilent) following manufacturer's instructions. DNA samples with modal peaks >45 kb were carried forward for library construction and sequencing.
+
+Library construction was conducted using the native barcoding kits (ONT SQK-NBD112.24 [V12 chemistry], SQK-NBD114.24 [V14 chemistry]) following manufacturer's instructions. Briefly, 400 ng DNA was aliquoted per barcoded sample for end and single-strand nick repair using NEBNext Ultra II End repair/dA-tailing Module and NEBNext FFPE Repair Mix (New England Biolabs M6630S, E7546S), with samples then being cleaned using AMPure XP Beads (Beckman Coulter) and 70% or 80% ethanol for V12 and V14 chemistry, respectively. Barcode ligation followed, using the barcodes provided and the NEB Blunt/TA Ligase Master Mix (New England Biolabs M0367L), with samples then being pooled together and cleaned as before. Finally, adapter ligation was conducted using the NEBNext Quick Ligation Module (New England Biolabs E6056S), with the library cleaned using AMPure XP Beads and the long-fragment buffer provided with the ONT library construction kit. Libraries were loaded onto MIN112 or MIN114 flowcells for V12 and V14 chemistries, respectively.
+
+All analysis scripts and CBL reference sequences used in this work are available on Zenodo (
+
+Sequencing was conducted using a MinION Mk1B instrument and a Dell Mobile Precision 7560 with an Intel Xeon processor and 128 GB RAM, and an NVIDIA RTX A5000 GPU with 16 GB GPU RAM running MinKNOW v22.12.7 (ONT UK) and MinKNOW core v5.4.3 (ONT UK). Local GPU base-calling was conducted using Guppy v6.4.6 (ONT UK) with the fast base-calling model and reads were rejected immediately if they did not align to the reference genome by setting “maxchunks” to 0 in the Readfish “.toml” file. For each new library, a control sequencing run was conducted for 1 h with no adaptive sampling with bulk capture, providing a “recording” for simulation playback.
+
+Adaptive sampling was carried out using Readfish v0.0.10dev2 (
+
+Adaptive sampling was used on channels 1–256 of the flowcell, with the remaining 256 channels run as controls without adaptive sampling. Linear alignment for adaptive sampling was carried out using Mappy v2.24 (
+
+Enrichment analysis was based on analysis performed by
+
+To calculate enrichment post-sequencing, all reads, including those passing and failing the Phred-score filter (Q-score ≥ 8), were aligned to a reference sequences using Mappy v2.24 using the custom script “analyse_RU.py.” Reads were aligned to specific reference sequences based on known isolates present within each sample (-t). All reads were used to avoid any potential biases introduced by read filtering, such as flow cell spatial effects, in the calculation of enrichment. Reads were split by channel (-c 1–256) to identify which reads were sequenced under NAS (channels 1–256) or control (channels 257–512) conditions. Reads aligning above a specified minimum identity threshold (84% identity within the aligned block, “-p 0.84”) were assigned as target reads, with the highest-identity alignment for multimapping reads being taken as the only alignment. Only regions of reads aligning to a reference sequence were included in enrichment calculations. Quartiles were generated from 100 bootstrapped samples of aligned reads (-bs 100).
+
+Serotype prediction was conducted using a customized version of PneumoKITy, which can be run using a single FASTQ file, as opposed to paired FASTQ files as in the original version, available at Zenodo (
+
+All reads were first re-basecalled using Guppy v6.4.6 with the super-high accuracy model using the following command: “guppy_basecaller ‐‐compress_fastq ‐‐input_path [input_path] ‐‐save_path [output_path] ‐‐config dna_r10.4.1_e8.2_400bps_sup.cfg ‐‐device cuda:0 ‐‐recursive ‐‐barcode_kits SQK-NBD114-24 ‐‐enable_trim_barcodes ‐‐trim_adapters ‐‐trim_primers.” Reads were then assembled using metaFlye v2.9.2 (
+
+Simulations of nanopore sequencing runs were conducted using bulk capture recordings from previous sequencing runs, as described on the Readfish GitHub repository (
+
+For benchmarking of alignment speed, a bespoke simulation model was generated using NanoSim-H v1.1.0.2 (
+
+Pseudoalignment simulations proceed as follows. A specified number of target and nontarget sequences of given lengths are generated by random sampling of DNA bases. Constituent
+
+Code for GNASTy is available at Zenodo (
+
+All raw and processed sequencing data generated in this study have been submitted to the European Nucleotide Archive (ENA;

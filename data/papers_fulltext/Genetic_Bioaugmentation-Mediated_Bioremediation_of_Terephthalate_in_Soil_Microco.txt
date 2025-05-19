@@ -1,0 +1,69 @@
+As global plastic production continues to rise, so does the demand of raw materials for plastic manufacture. Polyethylene terephthalate (PET) plastic has an annual global production that surpasses 85 million metric tons, and is ubiquitous in packaging and textile industries (Urbanek, Kosiorowska, and Mirończuk
+
+Microbial biodegradation and consumption of TPA offers a promising potential solution to TPA contamination. Bacteria such as
+
+The addition of exogenous microorganism(s) to a natural environment, in order to introduce or modify existing community traits, referred to as bioaugmentation, can be effective for a range of applications in soil environments including nitrogen fixation (Brophy et al.
+
+(A) Left panel represents genetic bioaugmentation where upon donor inoculation the plasmid carrying the catabolic genes is horizontally transferred (via conjugation) to the resident members of the community. Upon acquiring the catabolic genes, the resident microbiome transforms the pollutant to biomass thus achieving bioremediation. Right panel represents cellular bioaugmentation where the inoculated bacterium is responsible for the conversion of pollutant into biomass. (B) Top, TPA‐degrading operon architecture; bottom, TPA biodegradation pathway, TPA is imported into the cell via
+
+Genetic bioaugmentation mimics the natural evolutionary process of horizontal gene transfer (HGT), which enables rapid adaptation by microorganisms to environmental fluctuations through acquisition of novel traits from neighbouring cells (Bottery
+
+Engineering natural plasmid backbones isolated from the target environment is likely to have several advantages over using model plasmids typically used in molecular biology. Such advantages include having been previously selected in nature to conjugate efficiently in the environmental substrate which is likely to be more complex than laboratory media (e.g., soils) and having evolved host ranges that are suitable for spreading into common taxa within the resident microbiota. However, the large size of environmental plasmids (on average > 100 kbp Smillie et al.
+
+Here we explore the potential of the environmental conjugative plasmid pQBR57 to act as a genetic bioaugmentation vector. Firstly, we engineered pQBR57 to encode a synthetic TPA‐degrading operon,
+
+The vector backbone pQBR57 was obtained from Lilley et al. (
+
+The construct was conjugated into
+
+Once assembled, the construct pQBR57 Pem7‐tphKAB (pQBR57‐KAB) and the unmodified pQBR57 were conjugated into
+
+Disodium terephthalate (Thermo Fisher) was dissolved in milli‐Q water at a concentration of 500 mM via vigorous vortexing for 10 min at room temperature. M9 minimal media was supplemented with 10 mM disodium terephthalate as the sole carbon source to make M9 + 10 mM TPA. Three biological replicates, with 4 technical replicates each, of
+
+To test the bioremediation activity in soil microcosms, 10 g of John Innes No. 2 compost soil were added to a 30 mL glass microcosm and autoclaved twice. Soil microcosms were inoculated with 305 μL of 500 mM disodium terephthalate solution for a total of 3.2 mg TPA per gram of soil. Overnight cultures, grown in King's Broth (KB) media, of six independent transconjugant lines were washed in1× M9 salts and an aliquot of 100 μL was added to each microcosm, followed by 30‐s vortexing at maximum speed. The microcosms were incubated at 28°C and 80% humidity in a static incubator for 3, 6, 8 and 32 days.
+
+To determine colony forming units (CFU) and concentration of TPA, 10 mL of milli‐Q water and 15 autoclaved glass beads were added to each microcosm, followed by 30‐s vortexing at maximum speed. After 5 min incubation at room temperature to allow the soil to set, 1 mL of soil wash was extracted. To determine CFU counts, serial dilutions of soil wash were plated in King's Broth (KB) agar plates and incubated for 24 h at 28°C. To determine TPA concentration, soil wash was centrifuge at 16
+
+Agilent 1200 Infinity Series HPLC instrument equipped with a diode array detector was. The stationary phase was a Kinetex 5 μm C18 100 A column, 250 × 4.6 mm. The mobile phase was a linear gradient of acetonitrile‐to‐water (5%, 95%) to (30%, 70%) over 20 min with 4 min post run at (5%, 95%) to re‐equilibrate the column before the next injection. All solvents contained 0.1% TFA, the flow rate was 0.8 mL per minute, and the sample volume injected per run was 10 μL.
+
+Six colonies of reference (
+
+Rstudio package flowCore was used to curate and analyse, and ggplot2 to plot the data. The final selection rate results from subtracting the selection rate of the control competition (
+
+Donor strains harbour a genomic streptomycin resistance and recipient strains with a genomic gentamycin resistance to aid with selection and identification of transconjugants. Six colonies of donor and recipient were grown on KB media at 28°C 180 rpm for 16 h, supplemented with Hg (II) 20 μM for donor. After one wash step with KB to remove Hg (II) 20 μM from donor cultures, 25 μL of donor, and 25 μL of recipient were mixed, inoculated into 5 mL of KB media and grown for 24 h at 28°C 180 rpm. Plating on streptomycin (100 μg/mL) yields donor count, on gentamycin (10 μg/mL) recipient count and on dual selection with gentamycin and Hg (II) 20 μM yields transconjugant count. After incubation at 28°C for 24 h and colony counting, the conjugation rate was calculated using Simonsen method (Simonsen et al.
+
+To test the plasmid transfer in soil, soil microcosms were prepared as previously stated. Six colonies of donor (
+
+To develop a TPA‐degrading operon, we first assembled the genes corresponding to the synthetic KAB operon (
+
+(A) Assembly of pQBR57‐KAB. The original pQBR57 plasmid has mercury resistance (
+
+To estimate the impact of the catabolic payload on plasmid transfer we measured the conjugation rate of pQBR57 and pQBR57‐KAB by the Simonsen method (Simonsen et al.
+
+(A) Conjugation rate of pQBR57 and pQBR57‐KAB, on the left is intraspecies (
+
+The fitness effect of the KAB operon was analysed with competition assays between
+
+To assess the bioremediation function of pQBR57‐KAB in soil, soil microcosms supplemented with 3.2 mg/g TPA were inoculated with
+
+(A) Population density of pQBR57 and pQBR57‐KAB bearing
+
+Interspecies conjugative transfer of pQBR57 or pQBR57‐KAB from
+
+(A) Interspecies plasmid transfer in TPA‐supplemented soil microcosms with
+
+TPA is an environmental pollutant associated with PET plastic manufacture and breakdown. Here, we have built a genetic bioaugmentation vector using a synthetic catabolic operon (KAB) and an environmental plasmid (pQBR57), and further demonstrated the bioremediation function, maintenance and interspecies transfer of this plasmid in TPA‐contaminated soil microcosms. Our findings support the utility of genetic bioaugmentation using engineered environmental plasmids for in situ genetic engineering of soil microbiomes to enhance their bioremediation potential. While the use of environmental plasmids for genetic bioaugmentation has been previously reported (Garbisu et al.
+
+Genetic bioaugmentation relies on two pillars, (i) transfer and (ii) transconjugant expression of the catabolic payload (Ikuma and Gunsch
+
+The plasmid pQBR57 was isolated from soil (Lilley et al.
+
+Genetic bioaugmentation vectors must carefully balance their catabolic efficiency against the potential costs of expressing heterologous traits in naïve hosts, which could limit their spread. Here, we used a medium strength constitutive promoter (
+
+Our study demonstrates the utility of engineering environmental plasmids with synthetic catabolic operons to achieve efficient bioremediation in model soil microcosms. Release of genetically modified strains and plasmids is tightly regulated at present, limiting the use of genetic bioaugmentation approaches reliant upon genetically engineered plasmids, to contained‐use applications. Notably, we observed substantially higher rates of maintenance and interspecies conjugation of pQBR57‐KAB in TPA‐contaminated soil, suggesting that the plasmid's long‐term persistence may be limited once a site is fully bioremediated, although these long‐term dynamics require further study. A potentially promising route to application in the short‐term may be to deploy pQBR57‐KAB for bioremediation in closed systems that ensure biocontainment, such as bioremediation of materials
+
+
+
+The authors declare no conflicts of interest.
+
+Figures S1–S7.

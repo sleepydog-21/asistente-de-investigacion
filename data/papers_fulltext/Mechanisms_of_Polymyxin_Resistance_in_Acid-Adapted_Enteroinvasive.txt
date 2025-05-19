@@ -1,0 +1,69 @@
+Acid treatment is a widely used method for controlling or eliminating pathogenic microorganisms from the surfaces of medical devices, in wastewater treatment, and in the food industry [
+
+Antimicrobial resistance (AMR) represents a major global health challenge, with substantially increasing resistance to currently available antimicrobial agents against bacteria, fungi, viruses, and parasites [
+
+As previously mentioned, AMR in foodborne pathogens can be induced by acid adaptation. In our previous study, polymyxin resistance was observed in AA pathogenic
+
+Transcriptome analysis involves studying the entire set of RNA transcripts present in a cell or tissue at a specific time. By analyzing the transcriptome of the AA strain and comparing it to the transcriptomes of the control and relevant strains, differences in gene expression that may be associated with AMR can be identified. Through transcriptomic analysis, this study aimed to identify specific genes that were upregulated or downregulated in the AA strain compared with those in the control strain. This will allow us to explore the molecular mechanisms underlying AMR in the AA strain and gain insights into how changes in gene expression may contribute to its resistance phenotype.
+
+The enteroinvasive
+
+Frozen stock cultures were streaked onto TSA plates and incubated at 37 °C for 24 h. A single well-isolated colony from each plate was then transferred to TSB (volume of 5 mL) and incubated at 37 °C for another 24 h. Two hundred µL of the AA
+
+Antimicrobial susceptibility was evaluated using the broth microdilution method following EUCAST protocols [
+
+To evaluate the survival of acid-adapted
+
+Gene expression comparisons between the AAR and control strains were performed using transcriptomic analysis. The total RNA was isolated, and libraries were prepared as outlined in our earlier study [
+
+Raw RNA-seq data were processed as described previously [
+
+Kyoto Encyclopedia of Genes and Genomes (KEGG) pathway analysis was performed to identify the functional enrichment of DEGs. DEG lists were submitted to the ShinyGO v0.80 web application (
+
+Quantitative real-time PCR (qRT-PCR) was conducted to validate the RNA-seq results [
+
+The ZP is defined as the effective electrostatic potential at the interface. The membrane potential was measured using a ZP analyzer. The procedure described by Gogry et al. [
+
+The OM permeability was evaluated using 1-N-phenylnaphthylamine (NPN) uptake [
+
+All the statistical analyses were conducted using GraphPad Prism 9 software (Boston, MA, USA). The results are presented as the mean ± standard deviation with the statistical significance set at
+
+The AMR patterns of eight
+
+The increased polymyxin resistance of
+
+Although resistance to polymyxins was observed in both the 13717 and 13719 strains [
+
+In addition to the polymyxin resistance of the NCCP 13719 AAR strain, we compared the survival of the NCCP 13719 AAR and NCCP 13719 control strains in an acidic medium. When the cells were incubated in TSB (pH 3.5) for 24 h, the survived cell count of NCCP 13719 AAR was 4.8 ± 0.1 log CFU/mL, and the NCCP 13719 control was 3.7 ± 0.0 under the same conditions (
+
+We found that the NCCP 13719 strain demonstrated enhanced resistance to polymyxins (CT and PB) and survival in acidic media compared with that of the control. We hypothesized that specific genes were involved in the increased resistance and survival of the 13719 AAR strain. Therefore, we analyzed the DEGs of the 13719 AAR strain to identify the specific genes responsible for determining resistance to PB and CT and survival in acidic environments.
+
+RNA was extracted from two strains (NCCP 13719 control and AAR strain) that had reached the stationary phase after incubation for 24 h and was used for analysis. The total number of DEGs between NCCP 13719 AAR and the NCCP 13719 control cells, determined using the criteria of |log
+
+To further investigate the biological pathways associated with NCCP 13719 AAR, the DEGs were mapped to KEGG pathways, with a significance level of
+
+The classification of the DEGs observed in the NCCP 13719 AAR strain into stress-, acid stress-, and polymyxin resistance-related genes is shown in
+
+As shown in
+
+Acidic extracellular stress results in cytoplasmic acidification, which in turn activates
+
+Given that polymyxin resistance was phenotypically observed, DEGs related to polymyxin resistance were also identified. Genes associated with polymyxin resistance have been well studied along with the
+
+Several studies have shown that
+
+Other genes involved in polymyxin resistance have also been identified. Groisman et al. suggested that low pH and low Mg
+
+To validate the RNA-seq data, qRT-PCR was performed on the selected DEGs. These genes were chosen because of their pronounced differential expression as observed in the RNA-seq data (
+
+The ZP of
+
+We found that the OM-related genes were upregulated (
+
+The relevance of these observations is highlighted in the existing literature, which associates reduced OM permeability in gram-negative bacteria with increased AMR. Diminished permeability serves as a physical barrier that restricts the penetration of antimicrobial compounds, thus reducing bacterial susceptibility [
+
+Furthermore, we observed upregulation of the
+
+Further research, including whole-genome sequencing and comparative genomics between the acid-adapted (AA) and control strains, is needed to identify gene mutations.
+
+Acid adaptation of enteroinvasive

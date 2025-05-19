@@ -1,0 +1,91 @@
+Irritable bowel syndrome (IBS) is a common chronic functional gastrointestinal disorder with a global prevalence of 11%, defined by disturbances in bowel movement habits and abdominal pain that lacks obvious signs of inflammation (
+
+MicroRNAs (miRNAs) are short non-coding RNAs, 18–23 nucleotides in length, that regulate gene expression in eukaryotes by binding to the 3′-untranslated regions of target messenger RNAs (mRNAs) through partial sequence homology, resulting in decreased stability and translation repression (
+
+MiRNA secretion into the extracellular space is thought to be a regulated process that acts as a mode of communication between cells, tissues, and even kingdoms (
+
+To further elucidate the roles of miRNAs in host–microbiota interactions, we sought to determine whether the fecal miRNA miR-21 interacts with the microbiota and regulates its function. In this study, we establish the dynamics of association between miR-21 and the human gut microbiota. Using fluorescently labeled miRNAs, fluorescence-activated cell sorting, and downstream 16S rRNA gene amplicon sequencing, we identify bacterial taxa within fecal communities that physically interact with miR-21. We further demonstrate that miR-21 modulates transcript levels in pure cultures of the gut symbiont
+
+MiR-21 is important for normal gastrointestinal function, and altered levels of miR-21 are found not only in tissue but also in the stool of IBD patients (
+
+Quantification of miRNAs in fecal samples and dynamics of association of miRNAs with fecal microbiota. (
+
+Several human-derived miRNAs have been shown to co-localize with nucleic acid signal (DAPI staining) in gut bacteria, which suggests an ability of miRNAs to enter into the cytoplasm of microbes (
+
+To determine the potential contribution of active microbiota-independent processes to the depletion and/or degradation of miR-21 during incubations, dead controls using ethanol-fixed microbiota were established in parallel (
+
+To investigate whether the association between miR-21 and gut microbiota is sequence-specific, additional incubations were set up using a miR-21 scramble control (miR-21
+
+Imaging, sorting, and sequencing of microbial populations associated or not with fluorescently labeled miRNAs. (
+
+To determine which microbial taxa associate with miR-21 and elucidate if these taxa differ from taxa interacting with miR-21
+
+To gain further insights into the microbial taxa interacting with miR-21 and miR-21
+
+Microbial taxa associating with fluorescently labeled miR-21 and miR-21
+
+To better understand any preferences of microbiota in interacting with a particular miRNA sequence, we also performed differential abundance analysis comparing miR-21-ATTO488
+
+miR-21 depletion has been previously shown to alter gut microbiota composition and ameliorate DSS-induced colitis in mice (
+
+Transcriptomic analyses of
+
+miR-21 differentially impacts
+
+Transcripts significantly upregulated upon miR-21 supplementation include a great part of operon BT_0527-BT_0533 (
+
+There is growing evidence linking fecal miRNAs and the gut microbiota to gastrointestinal diseases, but less research has been done to determine whether and how miRNAs and the gut microbiota interact to influence gut function. Here, we investigated how the host can influence microbiome function through miR-21. Our time-resolved analysis of the dynamics of miR21–microbiota interactions demonstrated the ability of miR-21 and a scrambled control to associate with diverse microbial cells within complex gut communities in a rapid and sequence-independent manner (
+
+Most miRNAs found in the gut lumen are thought to be present inside vesicles secreted by intestinal epithelial cells and may enter microbial cells following the fusion of these vesicles with the bacterial membrane through a process that is yet to be described (
+
+This study further demonstrates that miR-21 supplementation results in altered levels of 185 transcripts in the gut symbiont
+
+Notably, levels of
+
+Tryptophan catabolites, including indole and derivatives, such as indoleacrylic acid, are known to enhance intestinal epithelial barrier function and attenuate inflammatory processes in mice by promoting goblet cell differentiation and mucus production, in part through the activation of the aryl hydrocarbon receptor (
+
+Most reports on the dysregulation of miRNAs in IBS have been conducted in tissue and blood (
+
+Fecal samples from patients undergoing colorectal cancer screening colonoscopy at the Vienna General Hospital were collected from the first stool after starting polyethylene glycol-based bowel preparation. Samples were stored at 4°C overnight and transferred to −80°C upon arrival at the hospital. This study was conducted under the Health Research Authority of the Ethics Committee of the Medical University of Vienna, ethics approval number 1617/2014. All study participants gave written informed consent before study inclusion. The study was conducted following the ethical principles of the Declaration of Helsinki.
+
+Fresh fecal samples for miRNA supplementation incubations were collected from three adult individuals with no history of inflammatory disease and who had not taken antibiotics in the previous 3 months. All participants signed an informed consent form and self-sampled using a sterile polypropylene tube with the attached sampling spoon (Sarstedt, Nümbrecht, DE). Samples were transferred into an anaerobic chamber and further processed within 90 min of defecation. The study protocol was approved by the University of Vienna Ethics Committee (reference #00161). All data are completely anonymized and adhere to the university regulations.
+
+For extraction of total nucleic acids (TNAs) from patient stool samples, ∽200 mg of frozen material was weighed directly into Lysing Matrix E 2 mL screw-cap tubes (MP Biomedicals) containing 500 µL of centrimonium bromide (CTAB) extraction buffer (0.35 M of NaCl, 0.12 M of CTAB, 0.008 M of KH
+
+Polyadenylation was performed before reverse transcribing miRNAs into cDNA by mixing 1× of PolyA polymerase buffer, 0.5 mM of rATP, 1 U of PolyA polymerase (New England Biolabs GmbH), and 1.5 µg of RNA, according to the manufacturer’s instructions. A murine leukemia virus (MuVL) transcriptase (New England Biolabs GmbH) was used to transcribe polyadenylated RNA into cDNA using the reverse transcription adaptor primer 5′−
+
+For quantitative PCR targeting the miRNAs hsa-miR-21-5p and hsa-miR-26b-5p, a master mix was prepared by mixing 1× iQ SyBr Green mix (BioRad), 0.4 µM of primer forward and reverse (
+
+To establish incubations with miRNAs, fecal samples were freshly collected and introduced in a Coy anaerobic chamber (85% N
+
+All tubes and pipette tips used to set up incubations were nuclease-free, to prevent miRNA degradation. Human miR-21 (hsa-miR-21–5p, sequence: 5′–UAGCUUAUCAGACUGAUGUUGA–3′; HMI0371 MISSION microRNA Mimic, Merck) or miR-21 scramble control (sequence: 5′–GCAUAUUCGGUCGUUAUAAGAU–3′; custom-designed MISSION microRNA Mimic, Merck) was diluted in water and added to the fecal slurries to a final concentration of 250 nM. Data on the absolute concentration of miRNAs in stool are scarce. We found data reporting the presence of 20 pmol of miR-30d in a fecal pellet (25 mg) of a mouse model of multiple sclerosis (
+
+To determine if the depletion of miRNA over time in pellet fractions was due to RNase activity, live fecal slurry incubations with miR-21 were set up with or without amendment of 2 U·µL
+
+The total RNA purification kit (Norgen Biotek Corp) was used to isolate and purify total RNA from the supernatant and cell fractions, including miRNAs. To improve cell lysis in such a complex microbial sample, cell pellet fractions were resuspended in 100 µL of TE-Lyso lysis buffer containing: 20 mM Tris-HCl buffer pH = 8.0, 2 mM EDTA, 1.2% Triton-X, nuclease-free water and 20 mg·mL
+
+TaqMan MicroRNA assays (Applied Biosystems) were used to quantify miR-21 (assay ID 000397) and miR-21
+
+To precisely quantify miRNAs, qPCR was performed using miR-specific probes provided by the TaqMan MicroRNA assays (catalog numbers indicated above) and a TaqMan Fast Advanced Master Mix (Thermo Fisher Scientific), according to the manufacturer’s instructions. In addition to standards, a negative control using only nuclease-free water was included to ensure no contamination of the master mix. All samples and controls were run in triplicate in a CFX96 or CFX384 Touch real-time PCR system (Bio-Rad Laboratories). Standard curves were produced by generating a 10-fold serial dilution of each miRNA mimic, starting with a sample at a concentration of 250 nM. RNA extraction, reverse transcription, and qPCR reactions were set up as described above. Standard curves were then generated using the results from the qPCR and mapping miRNA concentration of the standards against Cq value. The acquired regression line equation was then used to calculate miRNA concentration in all the samples based on their respective Cq values.
+
+Three different fecal samples were collected from the same three donors used in the previous miRNA incubation experiments. Fecal sample collection and fecal slurry preparations were carried out as described above. An aliquot (0.5 mL) of each slurry was pelleted by centrifugation, and immediately stored at −80°C for downstream DNA extraction to profile the microbiome of each donor. Following this step, the fecal slurries from all three donors were combined in equal volumes in a 50 mL falcon tube to create a single fecal slurry representative of all three donors for the experiment. The fecal slurries were aliquoted into tubes, and 250 nM of ATTO 488-tagged Mission MicroRNA mimics (sequence: 5′-[ATTO488]UAGCUUAUCAGACUGAUGUUGA[dT][dT]−3′) and miR-21
+
+Ethanol-fixed samples (10 µL) were spotted onto a glass slide and let to dry at 46°C. Samples were DAPI stained for 10 min using 20 µL of 1 µg·mL
+
+Ethanol-fixed samples incubated with ATTO 488-labeled miRs were stained by adding 2 µM SYTO 62 red fluorescent nucleic acid stain (Thermo Fisher Scientific), followed by incubation in the dark for 30 min. Samples were analyzed on a BD FACSMelody Cell Sorter, calibrated on the day according to the manufacturer’s instructions. Following system calibration, all samples were transferred into flow cytometry tubes and passed through a 35 µm pore cell strainer cap (Corning) to remove larger particles. At times when the concentration of cells was too high, the samples were diluted by adding one volume of 1× PBS. Background signals from the instrument and PBS were identified using the operational parameters forward scatter (FSC) and side scatter (SSC). Singlet discrimination was performed. Gating for microbial cells was based on the presence of SYTO 62 signal, established based on the PerCP-Cy5.5 fluorescence-forward scatter plot, by comparing SYTO 62 stained and unstained samples. The gates for the ATTO 488
+
+For DNA isolation from sorted cell fractions, samples were defrosted on ice, and 180 µL of TE-Lyso lysis buffer (as described above) was added. Samples were incubated for 45 min at 37°C with gentle shaking (400 rpm) in a thermal block. Before extraction, all kit buffers and TE lysis buffer (before lysozyme addition) were UV-radiated for 30 min in a PCR Workstation. The DNA was then extracted using the innuPREP DNA Mini Kit (Analytik Jena GmbH) according to the manufacturer’s instructions. Blank DNA extractions (buffer only) as well as extractions from two aliquots of 1× PBS used in FACS were performed in parallel. Pelleted fecal slurries from the three individual donors used to set up miRNA incubations were also extracted using the same protocol.
+
+Amplification of bacterial and archaeal 16S rRNA genes from DNA samples extracted from sorted cells, fecal slurries, and controls was performed with a two-step barcoding approach (
+
+Amplicon pools were extracted from the raw sequencing data using the FASTQ workflow in BaseSpace (Illumina) with default parameters. Input data were filtered for PhiX contamination with BBDuk (BBTools, Bushnell B, sourceforge.net/projects/bbmap). Demultiplexing was performed with the python package demultiplex (Laros JFJ, github.com/jfjlaros/demultiplex), allowing one mismatch for barcodes and two mismatches for linkers and primers. DADA2 (
+
+A single colony of
+
+For quality control and assessment of RNA integrity, automated electrophoresis was performed using the Agilent 4150 TapeStation system and RNA ScreenTape kit (Catalog number: 5067-5576, Agilent). One of the water triplicates had a low RNA Integrity Number equivalent (RINe) of 6.5, which is indicative of moderate RNA degradation. Because of this, only two water replicates were included in downstream analysis. The absence of any residual DNA contamination was confirmed via qPCR using the V4 16S rRNA gene-targeted primers (
+
+Following sequencing, reads were quality-filtered and trimmed and mapped to the provided
+
+Bacterial cultures were spun down; supernatants were collected and frozen at −75°C. RNA isolation was performed as stated above, and eluted RNA was eluted in 41 µL nuclease-free water. DNase treatment and RNA purification were performed as stated above for transcriptomics analysis, except that an RNA purification protocol for total RNA clean-up was used. Next, cDNA synthesis and qPCR for miR-21 or miR21
+
+Purified RNA from

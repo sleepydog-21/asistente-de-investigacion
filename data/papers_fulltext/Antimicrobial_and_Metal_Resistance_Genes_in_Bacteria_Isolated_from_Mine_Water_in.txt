@@ -1,0 +1,57 @@
+Mine water often contains elevated levels of heavy metals and other toxic compounds, creating an extreme environment for microbes. Some bacteria have adapted to these conditions by acquiring metal resistance genes (MR) [
+
+Mining activities in the Alps and in Austria have historically played and continue to make a significant contribution to regional economic development [
+
+The “One Health” approach focuses on human health, veterinary health and environmental health, as all domains are interconnected [
+
+This study explores the diversity and resistance profiles of bacteria isolated from mine water in Austria, focusing on identifying genes that enable these bacteria to tolerate and adapt to varying metal concentrations and antimicrobial agents. By analysing their genetic and, to some extent, phenotypic properties, we aim to improve our understanding of their ecological roles, their resistance mechanisms, and the possible application in sustainable mining and environmental management. Water samples were collected from two nearby sites, an active iron mine and an abandoned lead and silver mine, offering new insights into the local microbial ecology of mine waters. This research characterizes mechanisms of microbial adaptation to extreme environments and examines the “One Health” implications by exploring the potential co-existence of AMR and MR genes in these bacteria.
+
+Bacteria were isolated from water and swab samples collected at various locations in two mines. The bacterial colonies were identified using MALDI-TOF species analysis (
+
+The in silico identification of antibiotic resistance genes was conducted using ABRicate, which enables bulk screening of contigs utilizing seven different databases. The results using the NCBI, CARD, ResFinder, ARG-ANNOT and MEGARES databases can be found in
+
+Most resistance genes were identified using MEGARES, including intrinsic resistance genes known for certain species, such as
+
+Among all bacterial isolates, only five did not contain any antimicrobial or metal resistance genes. Five isolates carried only metal resistance genes, while two harbored only antimicrobial resistance genes, without any detected metal resistance genes. Overall, only 12% of the isolates lacked both metal and AMR genes. The most frequently detected resistance mechanism was multi-drug-efflux pumps (44%). Of the six major antimicrobial classes—ß-lactams, sulfonamides, quinolones (including fluoroquinolones), macrolides, aminoglycoside—resistance genes to ß-lactams were the most widely present (26%). Notably, no tetracycline resistance genes were predicted by any of the databases used. Transmissible quinolone resistance genes,
+
+Most isolates were predicted to carry metal resistance genes, with only seven isolates showing no metal resistance genes detected in silico. Notably, all of these bacteria were isolated from the inactive mine, and five of these did not harbor any antibiotic resistance genes either. The number of metal resistance genes per isolate varied, ranging from 1 to 23, though the majority contained 7 or more genes.
+
+The most frequently predicted metal resistance gene was
+
+Predicted resistance genes spanned a wide range of metals, including aluminum, antimony, arsenic, cadmium, cobalt, copper, chromium, iron, lead, mercury, magnesium, manganese, molybdenum, nickel, silver, sodium, sulfur, tellurium, and zinc. Additionally, several multi-resistance genes were identified, such as
+
+Species identification of isolates was performed using both MALD-TOF analysis and 16S rRNA gene sequence analysis. However, there was limited agreement between these two methods, as has been observed in other studies [
+
+Individual resistance genes to metals and antimicrobials are commonly found in environmental bacterial isolates [
+
+Antimicrobial resistance genes from the
+
+Identical MR genes were predominantly seen in specific species, although this species-specific pattern was less pronounced than that observed for AMR genes. For example, the
+
+Sample collection. Samples were collected from one active and one inactive mining site in Austria.
+
+Mine 1: This site is a former lead and silver mining location. Zinc-containing ore was mined extensively from the 18th century until 1927, when the mine was closed. The old mine is now used as a tourist attraction and for cheese ripening. Four different sampling sites were selected: three water-containing sites in the old deep mining sites and one in the cheese ripening tunnel.
+
+Mine 2: This site is known for iron mining. Five sampling locations were chosen, including water from former deep mining areas, metal-containing rock, and two different sludge water sites.
+
+Samples were properly packaged, immediately cooled and transported to the bacteriological laboratory for further analysis.
+
+Isolation of bacteria. Water samples were concentrated through centrifugation and/or filtered and then streaked onto two different types of media. These were one substrate-rich LB agar (Merck KGaA, Darmstadt, Germany) and one poor minimal M63 medium (United States Biological, Salem, MA, USA) with glucose (Merck Millipore, Burlington, VT, USA) as a carbon source. Bacteria were incubated at two different temperatures (20 °C and 10 °C). Single colonies—one to five from each plate grown with colonies—were selected based on their morphology, cultured, and stored in glycerin broth (MH broth: Oxoid, Altrincham, UK; Glycerin: Carl Roth, Karlsruhe, Germany) at −80 °C for future analysis.
+
+Species analysis. Analysis was performed using MALDI-TOF with the MALDI Biotyper
+
+DNA extraction and sequencing. Genomic DNA was extracted from colonies grown on LB-Plates (Sigma Aldrich, St. Louis, MO, USA) at 10 or 20 °C using a QIAamp DNA mini kit (Qiagen, Venlo, The Netherlands). Whole Genome Sequencing was performed at the MicrobesNG facility (Birmingham, UK). For library preparation, the Nextera XT Library Prep Kit (Illumina, San Diego, CA, USA) was used with 2 ng of DNA. DNA sequencing was conducted on an Illumina HiSeq 2500 platform using 2 × 250 bp paired-end approach.
+
+Genome assembly, gene prediction and annotation. Illumina genome sequence reads were assessed for quality using FastQC (version 0.11.9) and subsequently trimmed using Trimmomatic (version 0.3), with a sliding window quality of Q15 and length of 20 base pairs. Kraken (version 2) was used to speciate isolates against all bacterial, archaeal, and viral genomes within the RefSeq database up to 1 November 2017. De novo assembled genomes were produced using SPAdes (version 3.13.0) under default conditions, with the inclusion of the careful flag. Assemblies were also built using SKESA (version 2.3.0) under default conditions. Resulting assembled genomes were annotated using Prokka (version 1.11) under default conditions.
+
+Bacterial identification. The identity of these bacterial species was determined by performing a BLASTn (assessed 19 April 2024) [
+
+In silico identification of antimicrobial resistance genes. After WGS, the genomes were screened for known antimicrobial resistance genes using ABRicate (version1.0.1) [
+
+Metal resistance genes. Annotated genomes were analyzed for the presence of several heavy metal resistance genes. Metal resistance genes were identified performing BLASTn (accessed 23 May 2024) between the nucleotide sequences of the coding sequences and the MEGARES 3.0 database (downloaded on 23 May 2024), in the categories “Metals” and “Multi-compound” [
+
+Sequence availability. Sequences are publicly available under PRJNA1224714.
+
+Statistical analysis. The Fisher’s exact test was used to study differences between antimicrobial resistance and metal resistance genes within the isolates.
+
+This study aimed to identify bacteria from mine water, an environmental niche recently recognized as significant within the “One Health” framework due to the co-occurrence of metal resistance (MR) and antimicrobial resistance (AMR). We showed now that bacteria isolated from mine water most often carried MR and AMR genes. Isolates harboring MR genes are likely to also possess AMR genes, outlining the importance of screening these environmental niches to public health. The diversity of bacterial species (or genera) isolated from water in both active and inactive mines is high, with

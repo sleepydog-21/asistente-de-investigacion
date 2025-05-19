@@ -1,0 +1,11 @@
+{
+  "id": "36656032",
+  "title": "A Diverged Transcriptional Network for Usage of Two Fe-S Cluster Biogenesis Machineries in the Delta-Proteobacterium Myxococcus xanthus.",
+  "doi": null,
+  "authors": "Sourice M, Askenasy I, Garcia PS, Denis Y, Brasseur G, Kiley PJ, Py B, Aubert C",
+  "journal": "mBio",
+  "year": "2023",
+  "abstract": "Myxococcus xanthus possesses two Fe-S cluster biogenesis machineries, ISC (iron-sulfur cluster) and SUF (sulfur mobilization). Here, we show that in comparison to the phylogenetically distant Enterobacteria, which also have both machineries, M. xanthus evolved an independent transcriptional scheme to coordinately regulate the expression of these machineries. This transcriptional response is directed by RisR, which we show to belong to a phylogenetically distant and biochemically distinct subgroup of the Rrf2 transcription factor family, in comparison to IscR that regulates the",
+  "source": "PubMed",
+  "pmcid": "PMC9973013"
+}

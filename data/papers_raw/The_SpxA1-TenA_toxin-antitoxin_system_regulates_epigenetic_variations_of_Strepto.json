@@ -1,0 +1,11 @@
+{
+  "id": "39724263",
+  "title": "The SpxA1-TenA toxin-antitoxin system regulates epigenetic variations of Streptococcus pneumoniae by targeting protein synthesis.",
+  "doi": null,
+  "authors": "Wang S, Li XY, Zhu M, Deng H, Wang J, Zhang JR",
+  "journal": "PLoS pathogens",
+  "year": "2024",
+  "abstract": "Human pathogen Streptococcus pneumoniae forms multiple epigenetically and phenotypically distinct intra-populations by invertase PsrA-driven inversions of DNA methyltransferase hsdS genes in the colony opacity-determinant (cod) locus. As manifested by phase switch between opaque and transparent colonies, different genome methylation patterns or epigenomes confer pathogenesis-associated traits, but it is unknown how the pathogen controls the hsdS inversion orientations. Here, we report our finding of the SpxA1-TenA toxin-antitoxin (TA) system that regulates the orientations of hsdS inversions, and thereby bacterial epigenome and associated traits (e.g., colony opacity) by targeting pneumococcal protein synthesis. SpxA1 and TenA were found to constitute a highly conserved type II TA system in S. pneumoniae, primarily based on the observation that overexpressing toxin TenA led to growth arrest in E. coli and enhanced autolysis in S. pneumoniae, and the antitoxin SpxA1 repressed the transcription of the spxA1-tenA operon. When the transcription of tenA was de-repressed by a spontaneous AT di-nucleotide insertion/deletion in the promoter region of the spxA1-tenA operon, TenA bound to the ribosome maturation factor RimM, and thereby reduced the cellular level of alternative sigma factor ComX (known for the activation of natural transformation-associated genes). Attenuation of ComX expression in turn enhanced the transcription of the invertase gene psrA, which favored the formation of the transparent colony phase-associated hsdS allelic configurations in the cod locus. Phenotypically, moderate expression of TenA dramatically reshaped pneumococcal epigenome and colony opacity. Because spontaneous variations frequently occur during bacterial growth in the number of the AT di-nucleotides in the promoter region of the spxA1-tenA operon, this locus acts as a programmed genetic switch that generates pneumococcal subpopulations with epigenetic and phenotypic diversity.",
+  "source": "PubMed",
+  "pmcid": "PMC11709252"
+}

@@ -1,0 +1,57 @@
+The
+
+The carbapenems, the latest generation of β-lactam antibiotics, are commonly used to treat infections that are resistant to nearly all other antibiotics, including those resistant to extended-spectrum β-lactams (
+
+CRGs are usually located on plasmids or transposons and spread rapidly among bacteria by horizontal gene transfer (HGT), such as conjugation, transformation, or transduction (
+
+The dissemination of KoSC in healthcare settings, coupled with its ability to colonize the skin, respiratory tract, and urogenital tract, as well as to invade the bloodstream, drives outbreaks of both community-acquired and nosocomial infections globally (
+
+Here, we reported a carbapenem drug resistant
+
+Strain K1134 was isolated in 2020 from the sputum specimen of a patient from a tertiary hospital located in Beijing, China. Activity of Ambler class A/B/D carbapenemases in bacterial cell extracts was determined by a modified CarbaNP test (
+
+Bacterial genomic DNA was isolated using the UltraClean Microbial Kit (Qiagen, NW, Germany) and sequenced from a paired-end library with an average insert size of 350 bp (range: 150–600 bp) on a HiSeq sequencer (Illumina, CA, United States), as well as a shared DNA library with an average size of 15 kb (range: 10–20 kb) on a PacBio RSII sequencer (Pacific Biosciences, CA, United States). The paired-end short Illumina reads were used to correct the long PacBio reads with the software proovread (
+
+Open reading frames (ORFs) and pseudogenes were predicted using RAST 2.0
+
+All the publicly available genomes of
+
+A
+
+Antimicrobial drug susceptibility profiles of
+
+S, sensitive; I, intermediate; R, resistant.
+
+Whole genome information of
+
+—, not available.
+
+We identified one
+
+Schematic maps of the sequenced plasmid pK1134-KPC. Genes are denoted by arrows, and the backbone and accessory module regions are highlighted in black and gray, respectively. The next-to-innermost circle presents GC content.
+
+Organization of
+
+To further investigate the population structure and antibiotic resistance of
+
+A maximum-likelihood phylogenetic tree of
+
+At least 43 resistance genes, involved in resistance to 11 different categories of antibiotic, were identified in these 48 global
+
+The maximum-likelihood tree and ARGs distributions in
+
+Comparison of Tn
+
+The gene cluster for tilimycin and tilivalline contains the regulators
+
+Infections caused by KoSC are the second most common cause of
+
+As shown in this study, three unique clades were identified of the species: Clade1, Clade2 and Clade3, and most of which were identified as Clade3 (72.92%), including the reference strain Sb-24, and the K1134 sequenced in this study. The only Clade1 strain was from Egypt in 2012. Geographic or temporal patterns also reveal genetic diversity within the species, and it was found that the strains with the same spatial and temporal distribution also had genomic differences. The MLST is a powerful tool for epidemiological investigation of bacterial pathogens. A total of 28 distinct STs were identified, including 10 that were novel to this study. ST416 (20.83%) was the most common ST in these strains, and this ST type was only found in Clade2 and has become prevalent worldwide. Except for ST416, ST569 and ST630, which were slightly common (
+
+Acquired antimicrobial resistance is an emerging concern for
+
+In the 48 global
+
+KoSC is rising as a significant opportunistic pathogen causing nosocomial infections (
+
+This study reveals the molecular epidemiology, antimicrobial resistance profiles, and pathogenicity of

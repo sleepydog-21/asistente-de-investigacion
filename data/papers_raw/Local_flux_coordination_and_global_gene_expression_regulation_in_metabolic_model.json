@@ -1,0 +1,11 @@
+{
+  "id": "37709734",
+  "title": "Local flux coordination and global gene expression regulation in metabolic modeling.",
+  "doi": null,
+  "authors": "Li G, Liu L, Du W, Cao H",
+  "journal": "Nature communications",
+  "year": "2023",
+  "abstract": "Genome-scale metabolic networks (GSMs) are fundamental systems biology representations of a cell's entire set of stoichiometrically balanced reactions. However, such static GSMs do not incorporate the functional organization of metabolic genes and their dynamic regulation (e.g., operons and regulons). Specifically, there are numerous topologically coupled local reactions through which fluxes are coordinated; the global growth state often dynamically regulates many gene expression of metabolic reactions via global transcription factor regulators. Here, we develop a GSM reconstruction method, Decrem, by integrating locally coupled reactions and global transcriptional regulation of metabolism by cell state. Decrem produces predictions of flux and growth rates, which are highly correlated with those experimentally measured in both wild-type and mutants of three model microorganisms Escherichia coli, Saccharomyces cerevisiae, and Bacillus subtilis under various conditions. More importantly, Decrem can also explain the observed growth rates by capturing the experimentally measured flux changes between wild-types and mutants. Overall, by identifying and incorporating locally organized and regulated functional modules into GSMs, Decrem achieves accurate predictions of phenotypes and has broad applications in bioengineering, synthetic biology, and microbial pathology.",
+  "source": "PubMed",
+  "pmcid": "PMC10502109"
+}

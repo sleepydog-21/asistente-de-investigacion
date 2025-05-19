@@ -1,0 +1,51 @@
+ADP-ribosylation (ADPr) holds regulatory significance in diverse biological processes and is ubiquitous across organisms in all kingdoms of life [
+
+The first system discovered to engage in DNA ADPr is a family of toxins known as pierisins that cause irreversible modifications of guanines [
+
+In contrast, reversible systems of nucleic acid ADPr were established by the toxin–antitoxin (TA) system of DarT2 and DarG, which remains the best characterised system to date [
+
+The functional significance of NADAR domains is poorly understood, but they have been implicated in at least four diverse processes. NADAR proteins in bacteria and plants, annotated as
+
+In this study, we examined bacterial and phage NADAR proteins and found a shared ability to hydrolyse ADPr on guanosine bases. Genes encoding these proteins are found in different genetic contexts, and despite retaining a conserved in vitro activity, we observed pronounced specificity in providing protective effects against toxic guanosine ADP-ribosylated DNA in vivo. Moreover, the genetic context of one of the
+
+Recently, we solved crystal structures of two representative NADAR proteins from a thermophilic bacterial species and a eukaryotic oomycete species and discovered their ADP-ribosyl hydrolase activity on guanosine–ADPr [
+
+Hence, we aimed to explore the presence of guanosine–ADPr activity in other members of the NADAR superfamily. Our initial focus was on the
+
+We proceeded to test all four NADAR subtypes—DarT1-linked, σ
+
+To better understand the functions of the YbiA family of NADARs (
+
+We next turned our attention to the hypothetical protein encoded downstream to YbiA in the operons of three myxobacterial species. Inspection of its AlphaFold2 model revealed a conserved ADP-ribosyltransferase (ART) fold inside a small globular protein (
+
+Interestingly, YarT clusters within the HYD1 subclade of bacterial ARTs alongside the toxin domain of “Rearrangement hot spot” (Rhs) proteins (
+
+Due to the extreme toxicity and insolubility of the YarT, we were unable to examine its activity in vitro. Thus, we examined whether the YarT ART exhibits activity in vivo by causing bacteriostatic effects in
+
+On the other hand, both
+
+DNA and RNA recently emerged as substrates for ADPr [
+
+In this study, we identify several subtypes of NADAR domains and showcase their activities on ADP-ribosylated DNA model substrates and in an
+
+In the case of phages, the presence of NADAR domains suggests a potential defence strategy against host ARTs, providing specific protection for phage DNA from DNA-modifying bacterial toxins. Both bacterial and phage DNA carry modifications distinguishing self from invading genetic material, likely influencing hydrolytic activity efficiency and the specificity of the respective NADAR domain. The molecular basis determining the substrate specificity of NADARs remains to be explained. YbiA fold extensions, which vary among NADARs, could be considered for the basis of specificity. However, proteins from the YbiA family lack such extensions, existing essentially as “naked” YbiA domains. We show that specificity is retained even among YbiA proteins, since
+
+The present study also led to the identification of a hitherto undescribed YarT-YbiA toxin–antitoxin system, which may play a role in phage defence, similarly to DarTG. YbiA proteins form a subfamily of the NADAR superfamily, distinguished by a glutamate catalytic residue in the last β strand as opposed to an aspartate or histidine [
+
+In summary, we confirm a conserved de-ADPr activity on guanosine bases in different NADAR family members, found within
+
+High-fidelity DNA polymerase Phusion, Gibson Assembly, and Gateway cloning reagents were obtained from New England Biolabs (Hitchin, UK) and Thermo Scientific (Waltham, MA, USA). DNA primers and ssDNA substrates (
+
+The full-length
+
+BL21(DE3) cells were transformed sequentially with kanamycin-resistant plasmids and chloramphenicol-resistant plasmids, resp., according to an adapted protocol by Chung et al. [
+
+Oligo ADP-ribosylation experiments were conducted in a buffer solution composed of 50 mM Tris-Cl at pH 8.0, 50 mM NaCl, and 5 mM ETDA. The reactions were carried out in a 10 µL reaction volume at 37 °C, lasting 30 min for
+
+The reaction products were separated on denaturing polyacrylamide gels in 1 × TBE buffer after the addition of 10 µL urea loading dye (10 mM TRIS pH 8.0, 10 mM EDTA, 4 M urea), followed by a 3 min incubation at 95 °C. Then, 10 µL of the treated samples were loaded onto the gel, and the oligos were visualised under UV light (340 nm) after staining with ethidium bromide or SYBR Gold nucleic acid stain (Thermo Scientific (US)). The results of all experiments are representative of a minimum of three biological replicates.
+
+Multiple sequence alignments were created using Jalview v2 [
+
+Phylogenetic relationships in
+
+The evolutionary relationships in

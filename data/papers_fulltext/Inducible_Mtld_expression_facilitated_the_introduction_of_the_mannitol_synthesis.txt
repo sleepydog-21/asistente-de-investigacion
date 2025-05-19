@@ -1,0 +1,37 @@
+Mannitol, also known as
+
+Cyanobacteria, as photosynthetic prokaryotes, have gained increasing attention as platforms for renewable chemical production due to their simple genetic background, rapid growth rate, and capability of direct CO
+
+Metabolic pathway diagram of mannitol-producing strains and schematic diagram of strain construction process.
+
+Comparison of mannitol production in cyanobacteria determined in the present study with published values.
+
+This work demonstrated multiple strain construction attempts to engineer
+
+Unless noted, all reagents were purchased from Sigma-Aldrich (United States). The SeamLess Cloning Kit, 2×Taq PCR Master Mix and 2×Phanta Max Master Mix were purchased from Vazyme Biotech (Nanjing, China). Primer synthesis and DNA sequencing were carried out by TsingKe (Beijing, China).
+
+
+
+For standard cultivation, the wild-type and recombinant strains were grown in BG11 medium. Strains inoculated into 25 mL medium were precultured in a rotating shaking incubator (150 rpm) under continuous illumination (30°C, 30–50 μmol photons/m
+
+For the detection of extracellular mannitol, 1 mL of algal liquid of the strains was centrifuged at 13,000 rpm for 10 min, and then the centrifuged supernatant was transferred to another clean 1.5 mL EP tube. The extracellular mannitol extract was diluted and detected by a
+
+Using PCC 7942 as the chassis for mannitol production, construction strategy with the conventional two-step pathway (F6P→M1P→Mannitol) was initially evaluated and optimized. The mannitol biosynthetic pathway (
+
+Since the strategies to construct strains containing
+
+Phosphate sugar is known to be toxic to bacterial cells. In
+
+To evaluate the performance of recombinant strain for mannitol synthesis (
+
+Engineering cyanobacteria to produce mannitol via sequential enzymatic reactions.
+
+Since theophylline concentration above 200 µM did not enhance mannitol production, the integrity of the
+
+Additionally, an increase in the passaging time of the JS226 strain led to significant fluctuations in mannitol productivity (
+
+Re-evaluation of JS226 strain sub-cultured for 2 months and the DNA sequencing results of subcultures.
+
+Cyanobacteria are often engineered to synthesize substances with potential toxicity or physiological inhibitory effects, causing genetic instability in strains (
+
+Our findings suggest that previous failures in establishing stable cyanobacterial strains for the “two-step” mannitol pathway may be attributed to inadequate M1Pase-mediated conversion of M1P, leading to its intracellular accumulation and subsequent mutagenic effects on the

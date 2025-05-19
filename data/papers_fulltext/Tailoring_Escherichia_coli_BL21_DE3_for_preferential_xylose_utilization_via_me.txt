@@ -1,0 +1,103 @@
+The rising interest in developing metabolic engineering strategies for xylose as a carbon source is due to its abundance in nature. However, xylose is often obtained in a mixture with glucose, leading to consumption limited by carbon catabolite repression (CCR) and diauxic growth. In glucose-xylose mixtures,
+
+Catabolic pathways and regulation nodes for glucose and xylose assimilation. In a xylose-glucose mixture,
+
+Diverse approaches have been used to develop
+
+The ALE experiment in a K-12 strain led to the discovery of non-canonical transporter GatC
+
+Another successful approach has been the co-culture of
+
+The strains of
+
+Strains and plasmids used in this study
+
+XylR
+
+The strains were grown on LB or minimal medium M9 supplemented with 20 mM MOPS and 33 mM xylose or 28 mM glucose or a mixture of 16.5 mM xylose with 14 mM glucose. The cultures were carried out in 250-mL flasks with 50-mL medium at 300 rpm and 37 °C for the growth kinetics. When necessary, the appropriate antibiotic was supplemented (Cb at 100 µg mL
+
+Growth was spectrophotometrically monitored as optical density (OD) at 600 nm and converted to dry cell weight per liter using the factor 1 OD = 0.43 g
+
+The experiments were performed in triplicate. To determine the differences in the specific growth rate and specific sugar uptake rate among the different strains of
+
+As previously described, BL21 (DE3) and ES04 strains were grown in glucose or xylose. When strains reached the middle exponential phase (~ 0.3–0.4 g
+
+The raw data from the microarray analysis were deposited in the NCBI database under the accession number GPL34929. Transcriptional profiles of strain ES04 with respect to BL21 (DE3) grown on xylose or glucose were compared. Differentially expressed genes were selected by calculating an intensity‐­ dependent Z score as zi = (Ri − mean(
+
+A previous study based on multi-locus sequence typifying had shown that strain BL21 (DE3) is closer to K-12 and C than W (Monk et al.
+
+Both strains were evaluated in flask cultures with M9 medium supplemented with 16 mM xylose, 14 mM glucose, or a mixture of 8 mM xylose and 7 mM glucose (Fig.
+
+In cultures containing xylose (as shown in Figs.
+
+Growth and residual sugars kinetics for the xylose-selective strains.
+
+In the xylose-glucose mixture, the strain BL21 (DE3) first depleted glucose (~ 6 h), and only then, it consumed xylose. In contrast, ES02 did not consume glucose, growing exclusively on xylose. As expected, BL21 (DE3) grew faster than ES02 (0.35 vs. 0.14 h
+
+Notably, ES02 experienced a 55% reduction (
+
+To decipher the cause of the decrease in xylose consumption when the strain ES02 was cultured in the xylose-glucose mixture, a non-canonical xylose transporter and a mutated version of the transcriptional activator XylR were evaluated. For the first approach, if the consumption rate was associated with a reduction in xylose transport, the expression of the non-canonical transporter GatC
+
+GatC
+
+Growth and residual sugars kinetics of the strains.
+
+Growth and residual sugars kinetics of the strains.
+
+XylR
+
+Since the episomal expression of gene
+
+The comparison between strain ES04 and the previous strain ES02 indicates no significant change (
+
+The specific growth and sugar consumption rates of the xylose-selective strains derived from
+
+The ES02/pCL_XylR
+
+This behavior indicates that the presence of xylose impedes glucose utilization. When this pentose is depleted, a lag phase is observed, and only then is effective glucose consumption initiated. These findings suggest that xylose represses glucose consumption in ES02/pCL_XylR
+
+The transcriptional profiles of the xylose-selective ES04 strain were compared to those from the parental strain BL21 (DE3). The experiments were performed in an M9 medium with glucose or xylose as carbon sources, resulting in 170 and 209 differential expressed genes (|
+
+The galactitol operon is composed of genes encoding the metabolic enzymes GatD (
+
+The next approach was to inactivate the entire
+
+While inactivation of the
+
+The inactivation of
+
+Probably in the xylose-selective strains derived from K-12, the internalization of xylose is facilitated by the symporter XylE and the ABC transporter XylFGH. In contrast, in BL21 (DE3),
+
+Another possibility is that despite the inability of ES02 to use glucose, this sugar still triggers a regulation mechanism that decreases the cAMP levels, reducing the availability of the cAMP-CRP complex, and shutting down the xylose catabolic pathways. It has been previously shown that the cAMP-CRP complex is required to activate xylose metabolism (Song and Park
+
+Protein Crr has a major role in the regulation of physiological processes in
+
+Previous studies in other
+
+Xylose assimilation in
+
+As previously discussed, the decrease in qs
+
+To explore the limitations in xylose consumption observed in ES02, the variant GatC
+
+Regarding transcriptional regulation, the mutated version of the xylose activator XylR
+
+The strain ES04 released CCR by the expression XylR
+
+It was proposed that the mutation Q31K enhanced the XylR dimerization, promoting the xylose loci upregulation (Heo et al.
+
+The chromosomal expression of XylR
+
+Strain ES04 outperformed BL21 (DE3), showing an improvement of 16% in µ
+
+Transcriptomics analysis of strain ES04 grown on glucose revealed upregulation of the galactitol pathway. Further elimination of the entire operon
+
+Despite similar growth rates, strains expressing XylR
+
+These different patterns in acetate accumulation suggest significant differences in the carbon distribution between biomass, acetate, and CO
+
+The results obtained in this study show that the metabolic engineering strategies for obtaining a xylose-selective
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PDF 403 KB)

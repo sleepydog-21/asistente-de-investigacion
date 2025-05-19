@@ -1,0 +1,65 @@
+
+
+RES-Xre toxin-antitoxin loci
+
+KnaAT encoded by the virulence plasmid is a typical type II TA module.
+
+KnaAT enhances the stability of the mobilizable virulence plasmid in
+
+Bacterial toxin-antitoxin (TA) modules comprise a toxin capable of arresting cell growth under certain conditions and an antitoxin capable of counteracting the toxic effect [
+
+Previously, we reported a bloodstream infection-causing hvKP isolate RJF293 (capsular serotype K2 and ST374), which contained a pLVPK-like 224-kb mobilizable virulence plasmid, pRJF293, belonging to the IncHI1B group [
+
+A total of 499 and 2,514 complete chromosomes and plasmid sequences of
+
+A standalone version of the TAfinder software was used to search for the type II TA loci [
+
+The plasmids for the phenotypic assays in
+
+All mutant strains generated from hvKP RJF293 were constructed using lambda red recombination and a flippase recombinase-based recombination approach, as described previously [
+
+Overnight cultures of
+
+Reverse transcription-polymerase chain reaction (RT–PCR) was performed to validate whether
+
+The hvKP RJF293 harbouring a wild-type plasmid, pRJF293, or
+
+A mouse lethality assay was performed to evaluate the hvKP strain RJF293 and its virulence plasmid-free derivative RJF293PF, following the protocol (A2022053) approved by the Animal Care and Ethics Committee at the Shanghai Institute of Immunity and Infection, CAS. The overnight culture of the
+
+The Shapiro–Wilk test was used to assess the normality of the data distribution. The Kruskal–Wallis one-way analysis of variance (ANOVA) test was used to calculate the mean differences between the different plasmid types (virulence, antibiotic resistance, and others). Dunn’s test, a nonparametric alternative to the Tukey test, was performed when the Kruskal–Wallis test was rejected to pinpoint the specific means that were significantly different from the others [
+
+A total of 364, 100, and 2,050 plasmids were classified as ARG-carrying, virulent, and other plasmids, respectively. Of the 2,514 plasmids, 3,164 putative type II TA loci have been predicted [
+
+Type II TA families predicted in different types of
+
+Among 3,164 putative type II TA loci predicted in the plasmids, 6% (
+
+According to TAfinder prediction [
+
+Sequence and Structure analysis of RES toxin protein KnaT of
+
+To explore the
+
+Growth assays to assess the toxicities of the RES toxin KnaT on
+
+RT–PCR analysis of the total RNA isolated from RJF293 cells showed that the
+
+RES toxins reduce intracellular NAD
+
+TA modules are closely related to the genetic stability of plasmids [
+
+The
+
+To confirm this observation in
+
+We first performed a string test for hvKP RJF293 with a loss of virulence plasmid due to
+
+The mouse lethality assay revealed that virulence plasmid-free
+
+Toxin-antitoxin loci were originally discovered to encode an “addiction module” that prevents plasmid loss from bacterial cultures. Notably, RES-Xre TA loci, such as
+
+Recently, the ongoing evolution and acquisition of mobilizable virulence plasmids of hvKP have led to the development of CRKP strains that not only possess resistance but also retain hypervirulence, commonly referred to as hv-CRKP [
+
+RES-Xre is a classical type II TA pair, with the RES toxin impeding bacterial growth through the depletion of cellular NAD
+
+This study investigated the distribution and characteristics of RES-Xre TA loci in

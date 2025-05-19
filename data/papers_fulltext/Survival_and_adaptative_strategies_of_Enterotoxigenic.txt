@@ -1,0 +1,139 @@
+Enterotoxigenic
+
+Polluted water serves as a reservoir for ETEC (
+
+ETEC colonizes the human small intestine by means of colonization factors (CFs) which facilitate adherence to the intestinal epithelium, adherence is followed by secretion of heat-labile (LT) and/or heat-stable toxins (ST) that cause the disease symptoms (
+
+In earlier studies of ETEC in freshwater and seawater microcosms we demonstrated that clinical isolates could be cultured for up to three months with detectable virulence and metabolic gene expression while maintaining bacterial cell integrity (
+
+Herein, we comprehensively studied the temporal transcriptomic responses of a clinical isolate, ETEC E2265 (CS5 + CS6 LT/STh), and the prototype ETEC H10407 (CFA/I LT, STh/STp) during the transition from a nutritionally rich environment (Luria-Bertani broth, LB) to a nutrient-poor freshwater environment. We evaluated the impact of long-term freshwater incubation on biofilm formation, antibiotic resistance, and adherence to human cells. This work enhances our understanding of conserved and strain-specific adaptive strategies of ETEC in response to short- and long-term exposure to freshwater, highlighting the mechanisms that enable survival and adaptation.
+
+To assess the impact of short- and long-term freshwater exposure on ETEC, we investigated how incubation in freshwater microcosms affects bacterial survival, transcriptional activity, and plasmid retention over a period of up to 2 years. Culture-based quantification of CFU/ml (
+
+Viability fluctuated throughout the 2-year incubation, with both strains displaying peaks at weeks 37 (39%) and 42 (53%) for H10407 and E2265, respectively (
+
+Long-term incubation markedly affected total mRNA recovery and transcriptional activity. After 70 days, both strains exhibited a 20-fold reduction in total RNA production (
+
+Given that ETEC toxin genes such as
+
+To explore the temporal initial transcriptional response of ETEC to freshwater environment, transcriptome analyses were performed on samples collected at different time points. Cultures were harvested from the mid-log phase (3 hours) in LB broth at 37°C, and from freshwater microcosms at 23°C (± 0.5°C) at 0 h, 2 h, 24 h and 48 h post-inoculation. These time points were chosen to capture transcriptomic activity during growth in nutrient-rich LB medium at 37°C (similar to conditions in the gastrointestinal tract of mammalian hosts); the immediate transition to a nutrient-poor and ambient temperature freshwater environment (0 h), the early transcriptional response to freshwater (2 h) and adaptive responses at later stages (24 h and 48 h).
+
+A total of 30 RNA samples (three biological replicates per time point per strain) were subjected to RNA-sequencing, generating approximately 90 million Illumina sequence reads across all samples. Pearson correlation coefficients, hierarchical clustering, and principal-component analyses (PCA) (Figure S2a and b) were used to assess transcriptome similarity between ETEC strains and across time points. The transcriptomes of LB and 0 h samples showed high intra-strain similarity, but moderate differences between the two strains. At 2 h, the transcriptomes of H10407 and E2265 appeared more correlated. The 24 h and 48 h samples exhibited the greatest transcriptional divergence from earlier time points, while maintaining high similarity to each other in both strains (Figure S2a and b).
+
+Next, we identified the differentially expressed genes (DEGs) in each ETEC strain using DESeq2 with a cutoff of log2 fold change > |2| and an adjusted p-value (padj) of 0.01 (Table S1-S5). Transcriptomes from LB cultures served as the control. As a result, a total of 1,813/5,080 genes in E2265 and 1,707/4,972 genes in H10407 were significantly differentially expressed at any time point. As shown in
+
+Venn diagrams were generated to compare unique and shared DEGs across time points (
+
+Hierarchical clustering of DEGs (
+
+Overall, these data reveal profound transcriptomic reprogramming in ETEC strains in response to freshwater exposure, with conserved transcriptional shifts between the two strains occurring as early as 2 h post-exposure.
+
+To elucidate the biological processes significantly enriched among differentially expressed genes (DEGs) and to identify their dynamic expression patterns in both ETEC strains, we conducted Gene Set Enrichment Analysis (GSEA) of Gene Ontology (GO) biological processes (
+
+Subcluster U1, encompass pathways induced after 2 h of freshwater exposure and continuously upregulated over 24 and 48 hours. Up-regulated genes included amino acid degradation (e.g.,
+
+While several pathways were upregulated to obtain essential energy and biosynthetic precursors necessary for adaptation to nutrient-limited freshwater environments, other biological processes showed consistent downregulation over time, including energy metabolism, bacterial growth, transport, and membrane lipid homeostasis as shown in subcluster D3 in
+
+Freshwater exposure resulted in the cessation of fatty acid biosynthesis by downregulating anabolic processes while simultaneously activating catabolic processes. Our data also revealed that several proteins involved in peptidoglycan biosynthesis, such as ligases (
+
+At 2 hours of freshwater exposure, ETEC undergoes a transient transcriptomic response characterized by the simultaneous activation of anabolic pathways and repression of growth-related processes. Specifically, subcluster U2 exhibited significant upregulation of tricarboxylic acid (TCA) cycle genes (
+
+Simultaneously, subclusters D1 and D2 revealed a pronounced downregulation of pathways associated with growth and protein synthesis (
+
+After 24 hours of freshwater exposure, ETEC exhibited a specific late-stage adaptive transcriptomic response in subcluster U3 in
+
+Strain-specific regulatory responses were also observed across subcluster U3–5 and D1–2. In the subcluster U3 from the clinical isolate E2265, the GO term “regulation of transcription, DNA-templated,” encompassing over 80 genes involved in gene-specific transcription regulation, was transiently activated at 2 hours. In contrast, the prototype strain H10407 maintained this regulatory activity from 24 to 48 hours. Furthermore, pathways related to growth and transport, such as replication and cell division (cell cycle, cell division) and ion and proton transmembrane transport, were significantly downregulated in H10407 at 24 and 48 hours. Conversely, E2265 exhibited a variable temporal pattern, including significant activation of the proton transmembrane transport system at 0 hours (D2). Moreover, subclusters U4 and U5 encompassed both shared and strain-specific pathways. Subcluster U4 involved the conserved upregulation of proteolysis regulation (
+
+Most transcriptomic changes in ETEC during freshwater exposure require efficient genetic regulation to precisely activate or repress biological processes in response to environmental stimuli. By using GSEA using the E. coli K-12 Transcriptional Regulatory Network (RegulonDB) we identified 39 and 38 significantly enriched regulons (p < 0.001) in the E2265 and H10407 transcriptomes, respectively, with 19 regulons being significantly enriched in both strains (16 upregulated and 3 downregulated) (
+
+Alternative sigma factors play a crucial role in transcriptional reprogramming in response to environmental conditions. The activation of growth-dependent sigma factors RpoS and RpoN, alongside the repression of RpoD, indicates that freshwater exposure alters promoter selectivity and induces transcriptional reprogramming towards stationary-phase gene expression. After 24 hours, bacterial cells exhibited increased activity of the GadWX and YdeO regulons –essential for proton-consuming acid resistance (AR) mechanisms. RpoS is also critical for the expression of GadWS and the glutamate-dependent acid resistance (GDAR) system in
+
+Furthermore, several global regulons, such as ArcA, H-NS, CRP, Lrp, and Fnr, were differentially significant at various time points, supporting the notion of extensive transcriptional changes across numerous genes and metabolic pathways following two hours of freshwater incubation. For instance, major regulators of catabolite-sensitive operons displayed significant activation following the transition from nutrient-rich media to freshwater, leading to pronounced changes in carbon utilization. Similarly, ArcA and Lrp regulons were highly active at 2 hours, inducing global shifts in respiratory and fermentative states, metabolism, virulence, and motility. Conversely, the Fnr regulon was downregulated at later time points, suggesting that ETEC has not fully transitioned to anaerobic metabolism and that oxygen-free molecules may still be present in the freshwater environment (
+
+These findings highlight that ETEC strains employ distinct regulatory strategies during freshwater exposure, balancing energy metabolism, stress responses, and growth regulation to enhance survival and resilience in nutrient-limited environments. Specifically, E2265 exhibited transient transcription regulation activation at 2 hours, whereas H10407 maintained regulatory activity from 24 to 48 hours, highlighting nuanced adaptation mechanisms between strains.
+
+To assess whether the freshwater environment enhances or represses the expression of plasmid-borne genes of ETEC, we mapped the transcript levels of plasmid-borne genes onto the plasmid sequences of E2265 (p1 and p2) and H10407 (p948, p666, and p58), as illustrated in
+
+Similarly, freshwater incubation led to the repression of plasmid partition systems (
+
+In terms of activated mechanisms, genes solely present in E2265p1 involved in bacteriocin production (
+
+Transposase gene expression generally increased at 2 hours but remained low thereafter, with significant variability across plasmids. In E2265p1 and H10407p948, some transposases were activated after 2 hours of incubation. Additionally, a large proportion of hypothetical genes exhibited varied levels of differential expression with unknown functions, warranting further investigation.
+
+Therefore, this data suggests that bacteria repress virulence and plasmid maintenance under freshwater stress while enhancing plasmid transfer mechanisms competitive fitness and stress resistance that might facilitate bacterial survival and persistence in nutrient-limited and stressful environments.
+
+Pathogens are typically introduced into water systems through human fecal contamination, where they establish themselves within self-produced extracellular matrices and attach to biotic or abiotic surfaces, forming biofilms (
+
+Biofilm formation was quantified using Congo Red (CR) assays, Crystal Violet (CV) assays, and Scanning Electron Microscopy (SEM) on samples collected from freshwater microcosms at various time points up to 70 days. As depicted in
+
+These observations were corroborated by the CV-assay results (
+
+To further characterize biofilm formation, SEM was performed on ETEC samples grown in LB and freshwater microcosms at 2 hours, 1 day, and 70 days (
+
+These results demonstrate that freshwater conditions prime surviving ETEC cells, particularly E2265, to form robust biofilms through enhanced curli and cellulose production. However, prolonged exposure to freshwater also adversely affects bacterial morphology, division, and survival, highlighting a trade-off between biofilm formation and cellular integrity under nutrient-limited and stressful environmental conditions.
+
+Polluted drinking water serves as a vehicle for enteric pathogens to enter the host and colonize the gastrointestinal tract, initiating infection (
+
+Differences in binding ability between the two ETEC isolates were most notable after the 7-day time point. Interestingly, E2265 cells incubated for 2 years in freshwater attached to human epithelial cells, whereas H10407 samples from the same time point showed no colony-forming units after the co-culture assay. Overall, ETEC cells that exhibit greater persistence in freshwater microcosms also display enhanced adherence to human epithelial cells. This increased binding ability was more pronounced in the E2265 strain, which expresses CS5 and CS6 colonization factors.
+
+To validate transcriptomic findings that freshwater exposure induces the overexpression of the
+
+Subsequently, samples from control (LB) cultures and freshwater microcosms at various time points (0h, 2h, 24h, 48h, 7 days, and 70 days) were subjected to PAP assays to quantify the proportion of colistin-resistant colonies. This involved serial dilution and plating on LB agar without antibiotics to determine total bacterial populations (CFU/mL), alongside plating on LB agar supplemented with colistin at concentrations of 1, 2, 4, 8, 16, 32, and 64 mg/L. Under control conditions, the PAP assays revealed an exceedingly low proportion of colistin-resistant colonies, ranging from 5.9 × 10
+
+In contrast, bacteria exposed to freshwater environments exhibited subpopulations of colistin-resistant colonies capable of surviving antibiotic concentrations up to 8 mg/L (4-fold above the clinical breakpoint) (
+
+In this study, we examined the transcriptomic responses and survival strategies of ETEC strains E2265 and H10407 during short- and long-term freshwater exposure, providing insights into their adaptive mechanisms during transition from the human host (37°C and high levels of nutrients) to the environment, such as freshwater (22°C and low level of nutrients). To understand how enterobacterial pathogenic species mitigate hypo-osmotic stress we abruptly shifted ETEC grown at mid exponential phase in LB to sterile-filtrated fresh water. Freshwater shock immediately resulted in 50% reduction of CFU but after the initial reduction ETEC cells remained viable for prolonged periods. Several studies have shown that
+
+The initial response followed by adaptation to nutrient limiting and osmotic and temperature challenging conditions has been shown to be accompanied by large changes in the transcriptome. A large part of this survival response is directed by the global stress response regulator rpoS (
+
+We found involvements of several global and major transcription factors including ArcA, H-NS, CRP, Lrp, and Fnr. An upregulation of the ArcA and Lrp regulons was recorded at 2 hours. The ArcAB regulon is linked to starvation and stress responses and well as compromised membrane integrity responses mediated by the phage shock protein (Psp) system. In line with this an > 16-fold upregulation of the
+
+The activation of RpoS, YdeO, and GadWX regulons during the first 24 hours of water adaptation is mainly directed towards coping with envelope stress. These operons are also key factors in coping with acid stress (
+
+Hypo-osmotic stress results in an influx of water molecules which increases cellular turgor pressure. The ruptured membranes seen after prolonged water exposure reflects inability to mitigate the turgor pressure. This study also showed that ETEC cells underwent morphologic changes which were examined using scanned electron microscopy. The SEM images confirmed cell disruption, and exopolysaccharide matrix, a common feature during biofilm formation. Changes in the composition and structure of the membrane are responses to the osmotic pressure (
+
+In line with our findings of evolving colistin tolerance after water adaptation a study on enterohemorrhagic
+
+These resistance or tolerance mechanisms are independent of the well-known
+
+Our results of gene expression during adaptation to water conditions share characteristics in gene expression patterns with isolates gradually adapted to both colistin/polymyxin and acid stress tolerance. These results indicate that adaptation to both water during water-borne transmission, and passage through the acidic stomach upon ingestion will make pathogenic bacteria more tolerant to membrane disrupting molecules including antibiotic treatment and antimicrobial peptides which might partly explain why diarrheal diseases often peaks during flooding and consumption of unsafe water. Virulence was however not induced in water, instead transitioning to freshwater induced a downregulation of ETEC virulence genes, likely representing a strategic reallocation of energy from virulence to survival processes under environmental stress. These results align with previous studies that indicate reduced virulence factor expression in nutrient-deprived environments (
+
+Long-term incubation revealed that plasmids with toxin genes are detectable up to 2 years of incubation. We have previously shown that ETEC lineages have a remarkable stable plasmidome and the same plasmid content is found in genetically related isolates all over the world and over time (
+
+One limitation of this study is the use of laboratory-controlled freshwater microcosms, which may not fully replicate the complexity of natural water bodies. Additionally, only two ETEC strains were examined, limiting the ability to generalize findings across diverse ETEC populations. Future research should explore the adaptive responses of a broader range of ETEC strains in diverse environmental conditions to validate the observed trends. Additionally, investigating the interplay between ETEC and other microbial communities in freshwater could provide deeper insights into the mechanisms driving pathogen transmission, antibiotic resistance and biofilm formation.
+
+In conclusion, this study elucidates the complex adaptive strategies employed by ETEC in freshwater environments, highlighting critical genetic and phenotypic changes that enhance survival and antibiotic resistance. Understanding how pathogenic species like ETEC adapts to freshwater environments is essential for preventing and controlling diarrheal outbreaks. Freshwater not only serves as a reservoir but also as a transmission route for ETEC, enabling these pathogens to persist and evolve under nutrient-poor conditions. These insights are pivotal for informing public health strategies aimed at mitigating the impact of waterborne infections
+
+The bacterial strains used in this study included the clinical ETEC isolate E2265, which is CS5+CS6 LT+STh positive and carries two plasmids (p1 and p2). This strain was isolated from a Bangladeshi adult with diarrhea in 2006 (
+
+Freshwater samples were collected from Lake Lötsjön, Stockholm, Sweden, in March 2019. The water was filtered using a 0.4 μm syringe filter (Thermo Fisher Scientific
+
+The ETEC strains E2265 and H10407 were first streaked onto Blood agar plates and incubated overnight at 37°C. Ten to twelve colonies of each strain were then collected and suspended in 600 μL LB broth (Thermo Fisher Scientific). A 100 μL aliquot of this suspension was inoculated into an Erlenmeyer flask containing 50 mL of LB broth and incubated at 37°C with shaking at 150 rpm until the bacterial culture reached an optical density (OD600) of 0.3, as described in Lothigius et al. (2008). The bacterial culture was then centrifuged for 2 minutes at 4500 rpm, and the pellet was resuspended in 50 mL of filtered lake water. This suspension was transferred into a 200 mL screw-cap borosilicate glass bottle, which was sealed to prevent evaporative loss and airborne contamination. The microcosms were aerated weekly under a laminar airflow cabinet during sample collection. The bottles were stored in a temperature-controlled room (23°C) for the duration of the experiment, and samples were collected for further analyses.
+
+To quantify the viable cells of E2265 and H10407 in freshwater experiments, 20 μL samples were collected at each time point, followed by a ten-fold serial dilution in 1X PBS. From the appropriate dilution, 10 μL was plated onto LB agar plates and incubated at 37°C overnight. Bacterial viability was calculated as a percentage of the initial inoculum using the following formula: Viability (%)=[Initial CFU (inoculum)/ CFU at time point]×100. All experiments were performed in triplicate, and the results were expressed as the mean ± standard error of the mean (SEM).
+
+Bacterial colonies from the LB agar plates used for viability testing were selected for plasmid stability analysis. DNA was extracted using the boiling method. Specifically, five colonies from each time point were suspended in 100 μL of distilled water and boiled at 100°C for 10 minutes. The suspensions were then centrifuged at 10,000 rpm for 5 minutes, after which the pellet was discarded, and the supernatant was used as the DNA template for PCR, without quantifying the DNA concentration. PCR was performed following the protocol described by Sjöling, Wiklund (
+
+During the sampling period, 600 μL of bacterial culture in LB broth (control) and from freshwater microcosms were collected. To stabilize the RNA, 1200 μL of RNAprotect Bacteria solution (Qiagen) was added to each sample. The samples were centrifuged at 10,000 rpm for 10 minutes, the supernatant was discarded, and the pellets were stored at −80°C until RNA extraction. RNA was extracted using the RNeasy Plus Mini Kit (Qiagen), following the manufacturer’s instructions. The concentration and purity of the RNA were measured using a Nanodrop spectrophotometer (Thermo Fisher Scientific
+
+For RNA sequencing, total RNA was collected from bacteria grown in LB (control) and from samples at 0 and 2 hours (short-term freshwater incubation) and at 24 and 48 hours (long-term freshwater incubation). The RNA was precipitated, washed, and shipped in 99.5% ethanol to the sequencing facility at Beijing Genome Institute (BGI), Shenzhen, China. Upon arrival, RNA integrity, quality, and concentration were rechecked using an Agilent Bioanalyzer, and all samples had RIN values greater than 9.
+
+Two-step quantitative reverse transcriptase PCR (qRT-PCR) was conducted to assess gene expression. Complementary DNA (cDNA) was synthesized from extracted total RNA using the QuantiTect Reverse Transcription Kit (Qiagen), with each sample normalized to 100 ng/μL. qRT-PCR was performed on a LightCycler 480 II (Roche) using custom-designed primers and previously published primers (Table S31). Each 25 μL reaction mixture contained 12.5 μL of Power SYBR Green PCR Master Mix (Applied Biosystems), 600 ng of cDNA, and 1 μL of each primer (forward and reverse). All assays were run in duplicate, including treatment and control groups, as well as negative controls without a template. Gene expression was normalized to the housekeeping gene
+
+RNA libraries were prepared according to the Illumina TruSeq protocol and sequenced on an Illumina HiSeq 2000 platform using 100 bp paired-end reads, following the protocols of the Beijing Genome Institute. Quality control of the paired-end reads was performed using FastQC. RNA-Seq reads from each biological sample were aligned to their respective genome sequences using Bowtie (
+
+All raw data generated by the RNA-Seq analysis have been deposited in the Short Read Archive (SRA) under the BioProject PRJNA1221672.
+
+Gene set enrichment analysis (GSEA) was performed using the R package Piano on log2 fold changes and adjusted p-values obtained from DESeq2, using gene-level statistics. The analysis was conducted with the geneSetStat = “reporter” setting and 1000 permutations (nPerm = 1000). Gene Ontology (GO) biological processes were sourced from MSigDB(
+
+The MIC was conducted using broth microdilution method, following the guidelines outlined in the European Committee on Antimicrobial susceptibility testing (EUCAST).
+
+Biofilm quantification was performed using the Crystal Violet assay as described by Joffré et al. (2019). Overnight cultures of ETEC strains grown in LB at 37 °C with shaking were diluted 1:100 in fresh LB medium. Subsequently, 150 μL of the diluted culture was aliquoted into round-bottom 96-well polystyrene plates (Sarstedt) and incubated at room temperature (23 °C) in a humid chamber for 1, 2, 3, 7, and 70 days. Fresh media was replenished every other day as needed. For freshwater biofilm assessment, 150 μL samples from freshwater microcosms at time 0 h were similarly aliquoted into 96-well plates and sealed with parafilm to prevent evaporation. After incubation, wells were washed twice with 1X PBS to remove non-adherent cells, fixed with 75% ethanol, and stained with 0.5% crystal violet (Sigma-Aldrich). Following three washes with distilled water and air-drying, the bound dye was solubilized in 95% ethanol. Biofilm intensity was quantified by measuring absorbance at 540 nm. All assays were conducted in sextuplicate across three independent experiments, with LB-only and freshwater-only wells serving as negative controls.
+
+To assess biofilm formation, the Congo Red assay was conducted. Samples of 500 μL were collected from LB medium and freshwater microcosms at time points of 0, 1, 2, 24, 48 hours, and on the 7th and 70th days. Each sample was centrifuged at 10,000 rpm for 10 minutes, washed once with 100 μL of PBS, and resuspended. Subsequently, 1 μL of each resuspended sample was spotted onto LB agar plates without salt supplemented with Congo Red dye. Plates were sealed with parafilm and incubated at room temperature for 48 hours. After incubation, biofilm formation was visually documented by photographing the plates.
+
+Samples were collected from LB sample and when bacterial cell grown in freshwater at different time-points to perform SEM at Karolinska Institutet, Stockholm. A 10 ml sample was collected during sampling time LB sample (control sample) and 2hour, 24hour and 27th week of bacterial growth in freshwater, centrifuged at 4500 rpm for 2 mins, washed once with 5 ml of PBS and fixed with 1500 μl fixative solution (2% paraformaldehyde + 2.5% glutaraldehyde in 0.1M Cacodylate buffer) and stored at 4°C until delivered to Karolinska Institutet for SEM analysis. SEM images were analyzed using image processing program ImageJ.
+
+PAP assays were conducted to evaluate the heteroresistance of ETEC strains. ETEC strains were cultured in LB medium (as control) and in freshwater microcosms at various time points. Bacterial samples from both LB cultures and freshwater microcosms were collected, serially diluted, and plated on LB agar plates without antibiotics to quantify the total bacterial population (CFU/mL). In parallel, 100 μL from the LB bacterial culture and 1 mL from the freshwater microcosms were plated onto LB agar plates supplemented with colistin salts (Sigma-Aldrich) at concentrations of 1, 2, 4, 8, 16, 32, and 64 mg/L. These plates were incubated at 37 °C for 24 hours. The fraction of resistant mutants was calculated by dividing the number of colonies growing in the presence of colistin by the total number of cells plated on the non-antibiotic LB plates.
+
+The

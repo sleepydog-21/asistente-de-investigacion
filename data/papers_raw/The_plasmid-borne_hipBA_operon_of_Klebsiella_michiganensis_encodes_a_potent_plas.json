@@ -1,0 +1,11 @@
+{
+  "id": "39304528",
+  "title": "The plasmid-borne hipBA operon of Klebsiella michiganensis encodes a potent plasmid stabilization system.",
+  "doi": null,
+  "authors": "Shutt-McCabe J, Shaik KB, Hoyles L, McVicker G",
+  "journal": "Journal of applied microbiology",
+  "year": "2024",
+  "abstract": "Klebsiella michiganensis is a medically important bacterium that has been subject to relatively little attention in the literature. Interrogation of sequence data from K. michiganensis strains in our collection has revealed the presence of multiple large plasmids encoding type II toxin-antitoxin (TA) systems. Such TA systems are responsible for mediating a range of phenotypes, including plasmid stability ('addiction') and antibiotic persistence. In this work, we characterize the hipBA TA locus found within the Klebsiella oxytoca species complex (KoSC). The HipBA TA system is encoded on a plasmid carried by K. michiganensis PS_Koxy4, isolated from an infection outbreak. Employing viability and plasmid stability assays, we demonstrate that PS_Koxy4 HipA is a potent antibacterial toxin and that HipBA is a functional TA module contributing substantially to plasmid maintenance. Further, we provide in silico data comparing HipBA modules across the entire KoSC. We provide the first evidence of the role of a plasmid-encoded HipBA system in stability of mobile genetic elements and analyse the presence of HipBA across the KoSC. These results expand our knowledge of both a common enterobacterial TA system and a highly medically relevant group of bacteria.",
+  "source": "PubMed",
+  "pmcid": "PMC11487325"
+}

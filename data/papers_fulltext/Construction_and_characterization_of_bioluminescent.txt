@@ -1,0 +1,49 @@
+The genus
+
+Due to the recent increase in outbreaks caused by
+
+In this study, we aimed to develop and characterize two bioluminescent strains of
+
+Bacterial strains and plasmids used in this study
+
+While the SRO strain is resistant to ampicillin and sensitive to chloramphenicol, the SRN strain is sensitive to both antibiotics. Consequently, the bioluminescence expression vector plasmid pBS-
+
+The newly constructed plasmid
+
+To characterize the constructed bioluminescent
+
+Bioluminescent
+
+To determine how long the plasmid could be maintained in both bioluminescent
+
+A 717 bp chloramphenicol resistance gene fragment was successfully amplified from pMJH46 (
+
+Representation of plasmid manipulation for gene insertion: (
+
+The electrocompetent
+
+Visualization of bioluminescent
+
+Over a 24-h period in LB broth without chloramphenicol, the growth of both parent and bioluminescent SRO strains showed no difference (
+
+Comparative growth curves of the parent and bioluminescent
+
+Growth curve comparison of the parent and bioluminescent
+
+The bioluminescent
+
+Bioluminescent
+
+In this study, two
+
+The bioluminescence marker gene enables bacteria to emit light, which is detectable through bioluminescent imaging. The bacterial lux gene (lux operon) utilized in this study originates from a naturally occurring bacteria, called
+
+Several bacterial species have been tagged with the bacterial lux operon,
+
+The idea behind making the two
+
+Both bioluminescent
+
+There was impact on growth observed when comparing parent
+
+This research shows the efficacy of tagging foodborne pathogens with bioluminescence genes, as well as bioluminescent imaging as a breakthrough method that can be used for easy tracking and monitoring pathogens in poultry and poultry products. The constructed bioluminescent

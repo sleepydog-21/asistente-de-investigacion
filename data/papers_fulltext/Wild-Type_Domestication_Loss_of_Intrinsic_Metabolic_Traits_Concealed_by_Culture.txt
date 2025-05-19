@@ -1,0 +1,35 @@
+Microbial species often display high levels of genetic diversity [
+
+Two
+
+Overnight cultures were pelleted at 8000 × g and DNA extracted using GenFind V3 (Beckman Coulter). DNA libraries were constructed using Illumina DNA Library Prep Kit, (M) Tagmentaton (Illumina) and sequenced on the Illumina NovaSeq 6000 at 2 × 250 bp. Reads and assemblies were deposited at Genbank (BioProject PRJNA1115910, further details on Figshare 10.6084/m9.figshare.25864864).
+
+Genomes were assembled using Unicycler v0.4.7 with the –keep 0 option [
+
+Completed public
+
+We previously reported metabolic models [
+
+When these inconsistencies were realised, the 2013 frozen stocks were plated onto LB and colonies patched onto M9 + D-glucose and M9 + L-histidine (Fig.
+
+Single INF018 His
+
+Read mapping indicated the INF018 His
+
+Read mapping of experimentally verified INF018 His
+
+Prior to this work, INF018 was used in an in vitro bladder model experiment [
+
+Given that we had identified two L-histidine auxotrophs among a collection of just 507 isolates (0.4%) [
+
+Metabolism auxotrophies identified in the 20 putatively auxotrophic isolates. Counts of individual missing reactions are shown by colour. Auxotrophs are split by the subsystem and general metabolic class. Median missing reactions resulting in substrate auxotrophism was 3 (range 1 to 25)
+
+Our data highlights how the use of rich culture media can facilitate and conceal genetic mutations that impact bacterial growth capabilities and clinically relevant traits. This has implications for the broad suite of research and diagnostics processes that rely on the use of rich medias, and which may be misled by analysis of mutant strains that do not reflect wild-type characteristics. Example undesirable outcomes may include misrepresentations of ecological roles, molecular epidemiology or antimicrobial susceptibilities, which are known to be influenced by metabolic state [
+
+Loss of plasmids during culturing [
+
+Current recommendations for
+
+Our analysis predicted at least 0.8% of completed, high-quality
+
+Like the previous study, our investigation of public genomes leveraged reference-based metabolic reconstructions, which may not capture the true extent of metabolic capabilities and associated genetic diversity in the population. As a result, we may have overestimated the prevalence of nutrient auxotrophies. However, we argue that we have likely underestimated the total burden of quiet mutations because our approach focused solely on metabolic gene content, but we expect that non-metabolic gene content would also be impacted. The likelihood of propagation and detection of these mutations is highly dependent on media and growth conditions. Our cautionary tale has served as a good self-reminder when studying microbial ecology to ensure we are using the most appropriate conditions to observe the wild-type organism.

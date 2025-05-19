@@ -1,0 +1,137 @@
+In an approach to explore alternative production strategies, we designed and generated various synthetic co-cultures (CoNoS, Communities of Niche-optimized Strains) consisting of complementary
+
+In this study, we wanted to explore the potential role of TrpP in
+
+All strains used in this study are listed in Table
+
+
+
+Bacterial strains and plasmids used in this study
+
+Kan
+
+sequence and additional terminators, used as PCR template for venus.
+
+Unless otherwise stated, detailed characterization of single-strain growth behavior was performed via microscale (800 µL) cultivation in a BioLector (Beckman Coulter, Krefeld, Germany) as described previously [
+
+To analyze amino acid production, main cultures were prepared from second precultures as described above by inoculation of 50 ml CGXII medium with 111 mM glucose to a starting OD
+
+All plasmids used in this study are listed in Table
+
+For strain evolution, the cells were cultivated in repetitive-batch mode using the Mini Pilot Plant as described previously [
+
+Analysis of the concentrations of
+
+For analysis of the gene expression profile of
+
+In this study, we wanted to investigate the potential role of TrpP in
+
+First, we wanted to clarify whether the growth defect was caused by deletion of the
+
+To exclude that the observed growth defect of WT Δ
+
+
+
+Growth of the
+
+To test whether the growth defect of WT Δ
+
+We performed a detailed in silico analysis of the
+
+
+
+Transcriptional organization and genomic context of
+
+TrpP is a protein of 170 amino acids with a theoretical molecular mass of approximately 17.7 kDa and a pI of 6.73. According to several topology prediction tools, it has three transmembrane (TM) helices with the N-terminus in the periplasm and the C-terminus in the cytoplasm (Fig.
+
+According to the current knowledge, there are three theories regarding TrpP function: (i) TrpP has a transporter function, but this is based on an old annotation and rather unlikely due to just three transmembrane helices, (ii) TrpP is a membrane protein with potential regulatory function by interaction with another protein. In this case, the C-terminal extension might influence TrpP activity, e.g. by binding to a possible ligand. (iii) Entirely different functions to i) and ii). In the following, we describe our strategy to obtain a better understanding of TrpP function.
+
+
+
+AlphaFold model of TrpP and alignment with SdpI. (
+
+As described in the introduction, TrpP was annotated as a potential
+
+The growth performance as well as
+
+
+
+Characterization of the influence of
+
+The characterization of the
+
+Among the genes whose expression was most strongly upregulated (2.7-4.0-fold) was the
+
+Among the downregulated genes were many involved in uptake and metabolism of various carbon sources, such as ethanol (
+
+Overall,
+
+
+
+Volcano plot of the transcriptome analysis of WT Δ
+
+As previous experiments did not reveal a clear reason why
+
+ALE was performed in triplicate with
+
+
+
+ALE with C1* ΔTRP Δ
+
+To test whether the mutations we found were indeed responsible for the improved growth of the evolved strains, we introduced two of them into WT ΔTRP Δ
+
+
+
+Growth of
+
+SufR is a transcriptional repressor of the
+
+In the literature, three transcriptional start sites are known for SufR in
+
+SufR of
+
+
+
+Transcriptional organization of
+
+To test whether TSS1 is the major TSS of SufR, we performed a promoter activity assay. For this purpose, we constructed the plasmid pJC1-P
+
+We showed above that inactivation or deletion of
+
+
+
+Testing different promoters in front of
+
+Above, we showed that
+
+As previously observed for the WT (Fig.
+
+
+
+Characterization of the influence of
+
+In our study, we wanted to elucidate the cause of the growth limitation of the auxotrophic strain WT ΔTRP Δ
+
+The transcriptome comparison of the
+
+The increased expression of
+
+WhcA is a WhiB-like (Wbl) protein. Wbl proteins are small proteins of approximately 40–140 amino acids that are exclusively present in Actinobacteria [
+
+The
+
+When our data were analyzed, we asked how
+
+The similarity of TrpP to the SdpI protein of
+
+In our study, we wanted to investigate the potential role of TrpP in
+
+
+
+Schematic model of a putative signal transduction pathway involving TrpP. Yellow flash: stimulus, Tip: TrpP interacting protein
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

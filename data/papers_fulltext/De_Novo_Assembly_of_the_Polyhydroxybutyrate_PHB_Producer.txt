@@ -1,0 +1,49 @@
+The exponential increase in fossil-derived plastic waste and the growing demand for plastics [
+
+Among the scl-PHAs, the homopolymer polyhydroxybutyrate (PHB) is one of those considered for large-scale production due to its biodegradability and biocompatibility, being proposed in medical and pharmaceutical fields as well [
+
+Gram-negatives, such as
+
+Since the availability of the reference
+
+The Average Nucleotide Identity (ANI) and Digital DNA–DNA hybridization (dDDH) were computed by considering the complete collection of publicly available
+
+PHB genes were annotated using blastp sequence similarity searchers with PHB genes from
+
+The genome assembly of
+
+The genome assembly consists of 302 scaffolds and the N50 value is 89,247 bp. The descriptive statistics are reported in
+
+The G + C content is 65.6% for the megaplasmid and 68.7% for the remaining scaffolds. A total of 1 rRNA 5S, 3 rRNA 16S, 2 rRNA 23S, and 56 tRNA genes were identified; none of these are localized in the megaplasmid. The PGAP annotation predicted 6945 protein coding genes, of which 408 were on the megaplasmid; a putative function was assigned to 5933 proteins (megaplasmid 300), while 14.5% of the proteins (1012) were annotated as “hypothetical proteins”. A total of 49 genes encoding putative transposases were annotated by PGAP; 16 transposases were localized on the megaplasmid and 10 formed a potential cluster spanning approximately 100 Kb in size (
+
+TA systems play a role in maintaining plasmids in bacteria cells [
+
+The first system (system II-A hereafter) belongs to the RelE/ParE family and is composed of two protein coding genes: the toxin (locus tag SM757_01580) and the HigA antitoxin (locus tag SM757_01585). The second system (system II-B hereafter) has a similar configuration, being formed by the RelE/ParE toxin (locus tag SM757_01815) and HigA antitoxin (locus tag SM757_01820). System II-B includes an additional gene (locus tag SM757_01810) encoding for the VapB antitoxin. Whereas three components of type II TA systems have been previously described ([
+
+The current taxonomic classification of
+
+Further, our ANI and dDDH analyses suggest high levels of sequence identity between
+
+Soil was the environment from which
+
+As stated in the previous section,
+
+None of these are localized on the megaplasmid. These candidate resistance genes can be broadly categorized into six different classes: heavy metals resistance (arsenical-cadmium (SM757_03940), cobalt–zinc–cadmium (SM757_03785), toxic metal(loid) resistances (four genes tellurite TerB: SM757_05525, SM757_19280, SM757_24300, SM757_24860), toxic compounds resistance (chromate resistance, three genes: SM757_03450, SM757_03465, SM757_05070), glyoxalase/bleomycin/dioxygenase resistance (SM757_12920), and organic hydroperoxide resistance (SM757_22515). Although, in the absence of an experimental validation, predicted patterns of resistance cannot be confirmed, we speculate that the presence of genomic regions encoding for six different families/superfamilies of resistance genes suggests a possible wide resilience of
+
+The ability of the
+
+Rehm and colleagues [
+
+The same procedure used for the annotation of candidate PHA genes in
+
+The increasing usage of plastic in many anthropic activities has caused a global environmental crisis of plastic pollution, with serious risks for animal and human health. PHB is a bio-based biologically degradable polymer suitable for producing biodegradable plastic, representing an eco-friendly alternative to synthetic plastic [
+
+The taxonomic assignment of
+
+An analysis of the genome sequencing also revealed the presence of a 456 Kbp megaplasmid, not reported in the genome assembly of the reference strain
+
+By focusing on genes implicated in PHB production, in addition to the identification of the
+
+By using modern approaches based on genome sequence and identity/similarity metrics, we derive a more precise and unequivocal identification of the species of origin of the
+
+Since the elevated production cost of PHB, compared to petroleum-based plastics, is still a significant barrier to the wide use of this biopolymer in industrial settings, it might be crucial to use an omics approach (genomics, proteomics and transcriptomics) in studies focusing on bacteria PHB accumulation by utilizing organic low-cost wastes as metabolic substrates at different growth conditions [

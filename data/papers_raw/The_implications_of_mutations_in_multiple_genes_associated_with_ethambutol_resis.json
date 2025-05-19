@@ -1,0 +1,11 @@
+{
+  "id": "40025456",
+  "title": "The implications of mutations in multiple genes associated with ethambutol resistance among multidrug-resistant tuberculosis isolates from China.",
+  "doi": null,
+  "authors": "Li MC, Wang W, Xiao TY, Liu HC, Lin SQ, Hang H, Bo XL, Nan XT, Qian C, Fan XT, Zhao XQ, Li GL, Wan KL, Zhao LL",
+  "journal": "BMC microbiology",
+  "year": "2025",
+  "abstract": "To assess the mutation effects of ethambutol (EMB) resistance-associated genes, including embCAB operon, ubiA, embR, and aftA, on the EMB resistance levels among multidrug-resistant tuberculosis (MDR-TB) isolates from China. A total of 159 MDR-TB from China had their EMB MICs quantified, and the sequences of the four ethambutol resistance-associated regions were analyzed. A multivariate regression model was established to evaluate the effects of mutations on EMB resistance. Our results showed that overall 95.6% (109/114 isolates) of EMB-resistant isolates harbored at least one mutation within the regions associated with EMB resistance. Most mutations were in embB, particularly in the embB300-500, and the embC-embA intergenic regions. Mutations in other genes were seldom seen and mainly occurred along with mutations in the embB or the embC-embA among the EMB-resistant isolates. DNA sequencing of the embB300-500 and the embC-embA was the most effective approach for detecting EMB resistance, with an accuracy of 91.2%. Nevertheless, some EMB-susceptible isolates still had a single mutation in the gene related to EMB resistance. Moreover, there was a significant correlation between EMB high-level resistance and multiple mutations. Distinct individual mutations, as well as multiple concurrent mutations, within EMB resistance-associated genes, contributed to variable levels of EMB resistance. These results have broadened our understanding of the molecular characteristics of EMB resistance in China.",
+  "source": "PubMed",
+  "pmcid": "PMC11871839"
+}

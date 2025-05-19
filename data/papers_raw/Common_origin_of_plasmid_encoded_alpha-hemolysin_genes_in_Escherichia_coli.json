@@ -1,0 +1,11 @@
+{
+  "id": "20637130",
+  "title": "Common origin of plasmid encoded alpha-hemolysin genes in Escherichia coli.",
+  "doi": null,
+  "authors": "Burgos Y, Beutin L",
+  "journal": "BMC microbiology",
+  "year": "2010",
+  "abstract": "Alpha (alpha)-hemolysin is a pore forming cytolysin and serves as a virulence factor in intestinal and extraintestinal pathogenic strains of E. coli. It was suggested that the genes encoding alpha-hemolysin (hlyCABD) which can be found on the chromosome and plasmid, were acquired through horizontal gene transfer. Plasmid-encoded alpha-hly is associated with certain enterotoxigenic (ETEC), shigatoxigenic (STEC) and enteropathogenic E. coli (EPEC) strains. In uropathogenic E. coli (UPEC), the alpha-hly genes are located on chromosomal pathogenicity islands. Previous work suggested that plasmid and chromosomally encoded alpha-hly may have evolved independently. This was explored in our study. We have investigated 11 alpha-hly plasmids from animal and human ETEC, STEC and EPEC strains. The size of alpha-hly plasmids ranges from 48-157 kb and eight plasmids are conjugative. The regulatory gene (hlyR) located upstream of the hlyCABD gene operon and an IS911 element located downstream of hlyD are conserved. Chromosomally-encoded alpha-hly operons lack the hlyR and IS911 elements. The DNA sequence of hlyC and hlyA divided the plasmid- and chromosomally-encoded alpha-hemolysins into two clusters. The plasmid-encoded alpha-hly genes could be further divided into three groups based on the insertion of IS1 and IS2 in the regulatory region upstream of the alpha-hly operon. Transcription of the hlyA gene was higher than the housekeeping icdA gene in all strains (rq 4.8 to 143.2). Nucleotide sequence analysis of a chromosomally located alpha-hly determinant in Enterobacter cloacae strain indicates that it originates from an E. coli alpha-hly plasmid. Our data indicate that plasmids encoding alpha-hly in E. coli descended from a common ancestor independent of the plasmid size and the origin of the strains. Conjugative plasmids could contribute to the spread of the alpha-hly determinant to Enterobacter cloacae. The presence of IS-elements flanking the plasmid-encoded alpha-hly indicate that they might be mobile genetic elements.",
+  "source": "PubMed",
+  "pmcid": "PMC2918590"
+}

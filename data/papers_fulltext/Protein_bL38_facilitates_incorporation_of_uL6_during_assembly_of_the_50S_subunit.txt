@@ -1,0 +1,129 @@
+Ribosomes are large two-subunit enzymes that catalyze protein synthesis in all cells. The bacterial 70S ribosome is composed of three large RNAs (16S rRNA, 23S rRNA, 5S rRNA) and more than 50 distinct ribosomal proteins (r-proteins). Most r-proteins make extensive contacts with rRNA, often involving positively-charged termini or loops embedded deep within rRNA folds. About two-thirds of the r-proteins are conserved across all domains of life and denoted with the prefix “u” for universal [
+
+Structures of ribosomes from representatives of various bacterial phyla have now been determined. These structures reveal the remarkable similarities of conserved features of the ribosome as well as unique lineage-specific characteristics. A novel ribosomal protein, bL38, was recently identified as part of the 70S ribosome from
+
+Novel ribosomal protein bL38. (
+
+In this work, we interrogate the role of bL38 in
+
+All strains derived from wild-type
+
+Strain SA20 was made in the same way as SA08, except that the coding region of
+
+For the bL38-depletion strains, cells were grown at 30°C overnight in CYE media containing IPTG. The following day, cells from 1 mL of culture were pelleted, washed with media lacking IPTG, and used to inoculate fresh pre-warmed media (50 mL) containing or lacking IPTG. Growth was monitored by measuring OD
+
+For the plating assay, the washed cells were serially diluted in fresh CYE, and aliquots (15 μL) were spotted onto CYE plates containing or lacking IPTG. Once the liquid of the spotted samples was fully absorbed, the plates were incubated at 30°C for two days. Tet (20 μg/mL) was often included in the media when strains harbored a tetracycline-resistant plasmid, as specified in the figure legends.
+
+Cells were grown at 30°C in 50 mL CYE with Tet (20 μg/mL) and IPTG (1 mM). Cells were gently pelleted, washed with 50 mL CYE (no IPTG), and resuspended in 10 mL CYE. An aliquot of cell suspension was used to inoculate fresh media (50 mL; CYE + Tet), containing or lacking IPTG, pre-equilibrated at 30°C. Cultures were grown for three hours, and cells were rapidly chilled and subjected to polysome profiling analysis as described [
+
+Experiments involving pulse-labeling of RNA were performed in the same way, except that [
+
+For each strain analyzed, an aliquot of culture (1 mL) was collected just prior to the rapid chilling step of the polysome analysis described above. Cells were pelleted and total RNA was extracted with TRIzol (Invitrogen). In parallel, total RNA from wild-type
+
+A fluorescently-labeled primer (5′-Cy5-CTTTTCGCAGCTTATCACGTCC-3′; 620 ng), complementary to nucleotides 55–76 of 23S rRNA, was incubated with total RNA (750 ng) in 10 μL annealing buffer (50 mM K-HEPES pH 7.6, 100 mM KCl) for 10 min at 50°C, and then cooled to room temperature. Then, 10 μL of extension mix (130 mM Tris-HCl pH 8.5, 10 mM MgCl
+
+Ribosomal particles (70 pmol) were precipitated with 15% trichloroacetic acid (TCA) at 4°C overnight. Proteins were pelleted in a microfuge by spinning at 15 000 rpm for 30 min at 4°C. Pellets were washed with acetone, dried, and resuspended in 30 μL loading buffer [65.8 mM Tris-HCl (pH 6.8), 2% sodium dodecyl sulphate (SDS), 26% (w/v) glycerol, 0.01% bromophenol blue]. Samples were heated at 95°C for 10 min, placed on ice, loaded onto a tricine-urea-SDS-polyacrylamide (15%) gel [
+
+For structural studies, 50S, 70S, and polysome particles were isolated as described above, except that cells were cultured at 20 times the scale, a cryo-mill (SPEX SamplePrep) was used for cell lysis, and gradient sedimentation involved larger SW32 rotors (Beckman) for centrifugation (22K rpm for 12 h). Fractions corresponding to 50S, 70S, and polysome peaks were collected, and particles were pelleted by ultracentrifugation (33K rpm for 17 h) in a Ti-50.2 (Beckman) rotor. Pellets were rinsed and particles were dissolved in TMN buffer (50 mM Tris-HCl pH 7.5, 10 mM MgCl
+
+Ribosomal particles (100 pmol) were TCA precipitated as described above. Pellets were resuspended and proteins resolved by Sodium dodecylsulphate-polyacrylamide gel electrophoresis (SDS-PAGE) in preparation for in-gel digestion as described [
+
+To prepare the grids containing 50S particles from SA08(-IPTG) cells and 50S particles and 70S ribosomes from SA22(-IPTG) cells, we prepared a dilution of these particles at a concentration of 160, 180, and 70 nM, respectively, in TMN buffer. These solutions were centrifuged at 12 100 × g for 5 min at 4°C to remove any aggregates, and the supernatants were used for grid preparation.
+
+The sample containing the polysome fraction from the SA22(-IPTG) strain was treated with RNase I before applying it to the cryo-EM grids. To this end, RNase I (Thermo Scientific, EN0601) and SUPERase IN (Invitrogen, AM2696) were pre-diluted to 1 U/μL with TMN buffer. A volume of 2 μL of 5 μM polysome sample was first diluted with 16 μL of TMN buffer to assemble the nuclease reaction. Subsequently, we added 1 U of RNase I and incubated for 30 min on ice before the reaction was quenched by 1 U of SUPERase IN. The sample was then further diluted to 70 nM before being applied to cryo-M grids.
+
+We used cryo-EM grids (c-flat CF-2/1–3Cu-T). Before the samples were applied, the grids were prepared by evaporating a continuous layer of carbon (5–10 nm) to reduce exposure of the ribosomal particles to the air-water interface. Immediately before applying the samples, grids were washed in chloroform overnight and treated with a negative glow discharge in air at 5 mA for 15 s. Grids with samples applied were vitrified in liquid ethane using a Vitrobot Mark IV (Thermo Fisher Scientific Inc.). We used a blotting force of + 1 or + 3 for 3 s. The Vitrobot chamber was set to 25°C and 100% relative humidity. All datasets were collected at FEMR-McGill using a Titan Krios microscope operated at 300 kV and equipped with a Gatan BioQuantum LS K3 direct electron detector. The software used for data collection was SerialEM [
+
+All image processing steps were done using CryoSPARC v4 [
+
+In the dataset obtained for the 50S particles from the SA08(-IPTG) strain, particles on the selected micrographs were initially picked using Blob Picker with a circular blob and a minimum and maximum particle diameter of 150 and 250 Å on a subset of 1000 randomly selected micrographs. The maximum resolution considered in the micrographs was 20 Å. The angular sampling used was 5 degrees, and the minimum particle separation distance was 1 (in units of particle diameters). Picked particles were curated using a NCC score of 0.35 and a local power between 1200 and 1700. These particles were extracted using a box size of 400 pixels, and Fourier cropped it to 100 pixels. Particles were then subjected to 2D classification and curated to generate 2D templates. In the 2D classification step, we requested 50 classes and selected 0.85 and 0.99 as the inner and outer window radii. The maximum resolution considered in the images was 6 Å, and we used 2 Å for the initial uncertainty factor. All other parameters were kept at default settings. Template picker was then used with a diameter of 250 Å to pick particles on all movies. Particles were curated using an NCC score of 0.3 and local power between 1760 and 2487. This clean particle stack was extracted using a box size of 420 pixels and then subjected to Ab initio 3D reconstruction. For the Ab-Initio step, we selected 0.85 and 0.99 as inner and outer window radius, requested 3 classes, and set 35 and 12 Å as the minimum and maximum resolution to consider. The number of iterations before and after annealing starts and ends was set to 200 and 300, respectively, and the increase of Fourier radius at each iteration was 0.04. All other parameters for this routine were used with the default settings and values. Two subsets were found from the Ab-initio 3D reconstruction, and both were independently refined with a Homogenous refinement with default setting and C1 symmetry to generate consensus maps and initial models for refinements. A second round of Ab initio was performed on each refined subset, and particle heterogeneity was explored through 3D classification. To this end, we performed a series of 3D classifications using Simple as the initialization mode (initial models are obtained from randomly selected particle subsets) and requested four classes each time with a maximum resolution to consider of 6 Å. Resulting maps from the exhaustive 3D classification were visually inspected in Chimera [
+
+High-resolution refinements were performed in two stages: In the first step, particles from merged subsets were subjected to a Homogeneous Refinement using the initial consensus refinement cryo-EM map generated from the curated set of particles as a 3D reference (after proper scaling and filtering using a 30 Å low-pass Fourier filter). These Homogeneous Refinements were run under default settings with C1 symmetry. The resulting maps were used as the initial model for a second refinement step that consisted of a Non-Uniform Refinement run under default settings with C1 symmetry and with activated optimized per-particle defocus, optimized per-exposure group CTF parameters and options “Fit Spherical Aberration,” “Fit tetrafoil.” Average resolution estimation and local resolution analysis were done with cryoSPARC using the gold-standard approach [
+
+The datasets collected for the 50S, 70S, and polysome particles from SA22(-IPTG) were processed using a similar strategy with a few adjustments as follows. In all three datasets, CTF parameters were estimated with a minimum and maximum resolution of 30 Å and 3 Å, respectively, and the cutoff resolution was set to 4 Å during micrograph curation. Additionally, to exclude drifted micrographs, a threshold on the total full-frame motion distance was applied to exclude drifted micrographs. For the initial particle pick using Blob Picker, the maximum particle diameter was set to 350 Å when picking 70S and polysome ribosome particles, with a minimum separation distance of 0.5–0.8 (in the unit of particle diameter). Particles were extracted with a box size of 424 or 464 pixels for the 50S or 70S/polysome ribosome particles, respectively, and further binned by 4 by Fourier cropping. The particles remained binned by 4 during 2D and 3D classifications; therefore, the maximum resolution used in the following steps before full-size reconstruction was limited to 6.84 Å. Initial templates were generated through 2D classification with an initial uncertainty factor of 1. Additional template improvement steps, with two rounds of template picking using the existing template and an increasing number of micrographs, were conducted before picking all micrographs. After generating initial templates, all template picking jobs used 250 or 280 Å as particle diameters. Extracted particles were curated first by 2D classification and secondly by two layers of Ab initio reconstruction, as described above. The clean particle stack was then homogenously refined to build a single consensus map. Subsequently, three to four layers of 3D classification were performed to classify particles until exhaustion. To reveal small differences, such as the presence or absence of the uL6 protein, focused classification approaches were applied. The focused masks were generated through UCSF Chimera and further dilated and soft-padded by 4 pixels in CryoSPARC. In each focused 3D classification step, the initialization mode was switched to ‘Input’, using the previous homogeneous reconstruction as the two initial volumes. In these cases, the convergence criteria were tuned to 1% instead of 2%. Before final refinements, particles were re-extracted by a local motion correction job with a calibrated smoothing lambda set to autotune. Appropriate box sizes were used without Fourier cropping. These full-size particles were refined using Non-Uniform refinement, as mentioned above.
+
+The genes encoding uL6 of
+
+In the case of
+
+In the case of
+
+In the case of
+
+DSF was performed using SYPRO Orange (Sigma Aldrich), essentially as described [
+
+Our initial attempts to delete
+
+Doubling times of various strains
+
+Data represent doubling times in minutes, mean ± SEM (
+
+
+
+
+
+
+
+Growth of bL38-depletion strains of
+
+Next, we began to assess the effects of bL38 depletion on ribosomes in the cell. SA08 cells were grown to mid-log phase in the presence of IPTG, washed, resuspended in fresh media with or without IPTG, and allowed to grow for another three hours. Cells were harvested and their lysates were fractionated via sucrose gradient sedimentation (Fig.
+
+Depletion of bL38 results in accumulation of pre-50S particles. Representative sucrose gradient profiles of wildtype
+
+In principle, the large 30S and 50S peaks of Fig.
+
+It is well known that ribosome assembly and rRNA processing go hand in hand [
+
+Depletion of bL38 inhibits processing of 23S rRNA. (
+
+From WT cells and SA08 cells grown with or without IPTG, we isolated 50S particles and analyzed their protein composition. Using one-dimensional tricine SDS-PAGE (Fig.
+
+Protein uL6 is underrepresented in 50S particles formed in the absence of bL38. (
+
+The large 50S peak from SA08(-IPTG) cells was collected, and these particles were analyzed by cryo-EM. Image classification approaches found that this sample contained a mixture of ribosomal particles at various stages of assembly (Fig.
+
+Assembly of the 50S subunit in the absence of bL38. (
+
+Class 1 was the least mature intermediate, accounting for 3% of the population. In class 1 particles, the solvent side of the body is formed, but densities for rRNA helices H61 to H67 and r-proteins uL2, uL14, and bL19 of the interface side of the body are absent (Fig.
+
+We hypothesized that bL38 facilitates uL6 incorporation during 50S assembly in some way. To test this, we engineered two other bL38-depletion strains, SA20 and SA22, which overproduce uL6 to different degrees (Table
+
+Unlike SA08, strains SA20 and SA22 grew in the absence of IPTG (Fig.
+
+Strain SA22 was further characterized with respect to ribosome biogenesis. Sedimentation analysis showed similar levels of polysomes, 70S ribosomes, and subunits in cells grown without IPTG versus cells grown with IPTG (
+
+To better understand how the overproduction of uL6 restores ribosome biogenesis in the absence of bL38, we collected 50S particles from SA22 cells grown without IPTG and analyzed them by cryo-EM. Using image classification approaches like those implemented above, we found eleven different structural classes in addition to mature subunits (Fig.
+
+Assembly of the 50S subunit without bL38 but with excess uL6. Shown are cryo-EM maps that represents 50S assembly intermediates of SA22(-IPTG) cells. The maps are arranged by increasing complexity and depict multiple parallel pathways to the mature state. Whether each class corresponds to an on-path intermediate remains unclear. Diagrams between classes indicate structural elements that become visible in each inferred step, color-coded as in Fig.
+
+The smallest assembly intermediates (classes 1 to 3) lacked the CP and showed progressive assembly of the body (Fig.
+
+An additional density was attached to uL14 in the cryo-EM maps of various SA22 intermediates. Given the location and appearance of the density, we hypothesized that this density represented the Ribosome silencing factor (RsfS) (
+
+In the absence of a molecular model of
+
+In
+
+Visualization of helix H1 of the precursor leader and trailer sequences. Solvent view of the cryo-EM map obtained for the class 3 intermediate of SA08(-IPTG) cells (left image). Main landmarks of the ribosomal particle are labeled. The r-proteins are colored in slate blue and the rRNA is shown in light steel blue. The 5′ and 3′ ends of 23S rRNA (orange) and precursor sequences forming helix H1 (brick red) are highlighted. Shown on the right is semi-transparent density into which the precursor rRNA sequences have been fitted. The conformation adopted by the 5′ and 3′ ends of 23S in these assembly intermediates is shown in orange. The conformation of the 5′ and 3′ ends in the mature 50S subunit is different and shown by the overlapping molecular model in cyan. Corresponding sequences of the pre-23S rRNA and mature 23S rRNA are also shown, with the same color coding.
+
+To determine if ribosomes assembled in the absence of bL38 and presence of excess uL6 had any structural defects, 70S and polysome particles from SA22(-IPTG) cells were deposited into cryo-EM grids and imaged in the electron microscope. Image classification approaches showed that ribosomes assembled under these conditions exhibited no obvious defects. Some contained tRNA molecules, indicating they were engaged in translation (
+
+It remained unclear whether a small amount of bL38 might be produced in SA08 and SA22 cells grown in the absence of IPTG. To address this ambiguity, we attempted to replace
+
+Why bL38 is needed in the Bacteroidia but absent from other bacteria remained unclear. We hypothesized that uL6 is labile in the Bacteroidia, due to intrinsic properties of the protein or cytoplasmic proteases, and bL38 stabilizes and/or protects uL6 in the cell. To test this, we purified
+
+Effect of bL38 on uL6 stability. (
+
+In this work, we show that bL38 plays a critical role in 50S biogenesis in
+
+Protein bL38 interacts intimately with uL6 on the ribosome, with nearly 40% of bL38’s surface area buried by uL6. Our DSF data show that bL38 also interacts with uL6 off the ribosome, stabilizing uL6 substantially. We propose that bL38 and uL6 heterodimerize in the cytoplasm and then become incorporated into the maturing subunit during 50S biogenesis. In this way, bL38 would be effectively acting as a chaperone to facilitate uL6 incorporation and/or prevent its degradation. This model is fully in line with our genetic data. Overproduction of uL6 could circumvent the need for bL38 by (i) generating sufficient folded (active) protein, (ii) promoting the incorporation of uL6 by mass action, and/or (iii) overwhelming proteases that would otherwise degrade uL6 in the absence of bL38.
+
+Protein uL6 of
+
+Cryo-EM analysis of 50S particles from SA08 and SA22 cells reveals assembly intermediates at various stages of maturation. By comparing the structures obtained, we can infer potential kinetic pathways of assembly in the two cases. In the SA08(-IPTG) case, six intermediates were observed, and these can be arranged on a progressive linear path toward assembly (Fig.
+
+Nearly all 50S assembly intermediates from SA22 showed clear density for RsfS, bound to uL14. As these intermediates were isolated from exponential-phase cells grown under optimal conditions, these data provide strong evidence that RsfS normally contributes to 50S biogenesis, in line with other recent work [
+
+As part of this study, we mapped the 5′ ends of pre-23S rRNA intermediates of
+
+Recently, a cryo-EM structure of the hibernating 70S ribosome from

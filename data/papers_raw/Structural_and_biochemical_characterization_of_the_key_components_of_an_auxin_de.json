@@ -1,0 +1,11 @@
+{
+  "id": "37459330",
+  "title": "Structural and biochemical characterization of the key components of an auxin degradation operon from the rhizosphere bacterium Variovorax.",
+  "doi": null,
+  "authors": "Ma Y, Li X, Wang F, Zhang L, Zhou S, Che X, Yu D, Liu X, Li Z, Sun H, Yu G, Zhang H",
+  "journal": "PLoS biology",
+  "year": "2023",
+  "abstract": "Plant-associated bacteria play important regulatory roles in modulating plant hormone auxin levels, affecting the growth and yields of crops. A conserved auxin degradation (iad) operon was recently identified in the Variovorax genomes, which is responsible for root growth inhibition (RGI) reversion, promoting rhizosphere colonization and root growth. However, the molecular mechanism underlying auxin degradation by Variovorax remains unclear. Here, we systematically screened Variovorax iad operon products and identified 2 proteins, IadK2 and IadD, that directly associate with auxin indole-3-acetic acid (IAA). Further biochemical and structural studies revealed that IadK2 is a highly IAA-specific ATP-binding cassette (ABC) transporter solute-binding protein (SBP), likely involved in IAA uptake. IadD interacts with IadE to form a functional Rieske non-heme dioxygenase, which works in concert with a FMN-type reductase encoded by gene iadC to transform IAA into the biologically inactive 2-oxindole-3-acetic acid (oxIAA), representing a new bacterial pathway for IAA inactivation/degradation. Importantly, incorporation of a minimum set of iadC/D/E genes could enable IAA transformation by Escherichia coli, suggesting a promising strategy for repurposing the iad operon for IAA regulation. Together, our study identifies the key components and underlying mechanisms involved in IAA transformation by Variovorax and brings new insights into the bacterial turnover of plant hormones, which would provide the basis for potential applications in rhizosphere optimization and ecological agriculture.",
+  "source": "PubMed",
+  "pmcid": "PMC10374108"
+}

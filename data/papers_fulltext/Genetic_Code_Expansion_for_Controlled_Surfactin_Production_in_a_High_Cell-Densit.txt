@@ -1,0 +1,95 @@
+In microbial biotechnology,
+
+Surfactin serves here as a well-known lipopeptide that is natively produced by several
+
+The production of surfactin is based on a multi-modular enzyme complex, the non-ribosomal peptide synthetase (NRPS) SrfA, which is encoded by the
+
+In adapted high cell-density bioreactor processes using the non-sporulating
+
+Another strategy for improving the surfactin production in
+
+However, orthogonal protein translation based on the expansion of the genetic code offers another option to control the bioproduction of target substances. For this purpose, orthogonal aminoacyl-tRNA synthetase (aaRS)/tRNA pairs have to be integrated into the expression host, leading to site-directed incorporation of non-canonical amino acids (ncAA) into the target proteins [
+
+In this study, the principle of orthogonal protein translation based on genetic code expansion was applied to the ncAA-based production of surfactin, a representative of the bioactive secondary metabolites with antimicrobial character produced by
+
+Chemicals used in this study, if not otherwise stated, were purchased from Carl Roth GmbH & Co. KG (Karlsruhe, Germany). For quantitative measurements, surfactin standards (purity ≥ 98%) were provided by Sigma-Aldrich Laborchemikalien GmbH (Seelze, Germany). The ncAA O-methyl-L-tyrosine (purity ≥ 98%) was obtained from Thermo Scientific (Waltham, MA, USA). The glucose concentration in samples was quantified using an enzymatic assay kit (R-Biopharm AG, Darmstadt, Germany).
+
+Standard molecular methods were performed as previously described by Sambrook and Russel [
+
+For the chromosomal integration of the amber stop codon, the
+
+The principle of mannose-counter selection was applied for the construction of markerless
+
+The
+
+For shake flask cultivation, pre-cultures were grown overnight in LB-medium (10 g/L tryptone, 5 g/L yeast extract and 5 g/L NaCl). The main cultures were inoculated at an initial optical density (OD
+
+The pre-cultures were prepared according to the method described by Klausmann et al. [
+
+The bioreactor experiments were performed in a 30-litre fermenter (ZETA GmbH, Lieboch, Austria) filled with 12 liters of batch medium containing 25 g/L glucose. The general conditions such as temperature, aeration, pH, pressure and pO
+
+In this context, F(t) is the feeding rate at every time point t of the exponential feeding process (kg/h), F
+
+To induce surfactin production, the ncAA O-methyl-L-tyrosine (OMeY) was added at a rate of 0.25 1/h during the feeding process. Two different process variants were tested; in the first process variant, OMeY was added to the bioreactor to a final concentration of 0.75 mM once the culture reached an OD
+
+In the second process variant, OMeY was added about four hours after the start of feeding. The aim was to achieve the same concentration of 0.75 mM in the bioreactor at a similar OD
+
+Surfactin purification was performed as previously described by Geissler et al. [
+
+Since a strain derived from
+
+The calculations for the yields Y
+
+A cell suspension of the
+
+NanoLC-ESI-MS/MS experiments were performed on an Ultimate 3000 nano-RSLC (Thermo Fisher Scientific, Waltham, MA, USA) coupled to an Exploris 480 mass spectrometer (Thermo Fisher Scientific, Waltham, MA, USA) using a Nanospray-Flex ion source (Thermo Fisher Scientific, Waltham, MA, USA). Peptides were concentrated and desalted on a trap column (5 mm × 30 µm, Thermo Fisher Scientific, Waltham, MA, USA) and separated on a 25 cm × 75 µm nanoEase MZ HSS T3 reversed phase column (100 Å pore size, 1.8 µm particle size; Waters, Milford, CT, USA) operated at constant temperature of 35 °C. Peptides were separated at a flow rate of 300 nL/min using a 65 min method with the following profile: 2–8% solvent B in 2 min, 8–30% solvent B in 32 min, 30–47% solvent B in 13 min, 47–96% solvent B in 3 min, isocratic at 96% solvent B for 5 min, 96–2% solvent B in 5 min and isocratic at 2% solvent B for 5 min. Solvents used were 0.1% formic acid (solvent A) and 0.1% formic acid in acetonitrile/H
+
+Raw files were imported into MaxQuant [
+
+For surfactin biosynthesis, which depends on the presence of the ncAA O-methyl-L-tyrosine (OMeY), a derivative of the surfactin-producing
+
+In a first step, the third codon in the
+
+Subsequently, surfactin production in the engineered
+
+While no surfactin production could be detected during the entire cultivation process in the absence of OMeY, maximum surfactin concentrations of 136 ± 18 mg/L were achieved with 0.5 mM OMeY and higher OMeY concentrations after 10 h of cultivation (
+
+Another aspect was the surfactin-mediated effect on cell growth. In this context, improved cell growth was observed in the non-producing
+
+After confirming OMeY-mediated stimulation of surfactin production in shake flask cultivations,
+
+In the first approach, the AH2 strain was cultivated in a batch phase up to a CDW of 15.2 g/L (10.75 h of cultivation) before the glucose was depleted and a feeding procedure with 0.25 1/h was initiated. After reaching a biomass concentration CDW of 37.9 g/L, surfactin production was induced by adding OMeY at a final concentration of 0.75 mM. Subsequently, an accumulation of surfactin was observed, whereas no surfactin was measured prior to OMeY addition. In this way, a maximum surfactin concentration of 4.8 g/L was reached after 5 h of induction. Thereafter, a reduction in biomass formation was observed, while further feeding procedure led to a dilution effect of biomass and surfactin with an associated glucose accumulation. Due to the feeding-derived dilution of surfactin, a final titer to 2.5 g/L was measured at the end of the bioprocess (
+
+To further improve the ncAA-based surfactin bioproduction process, a feeding-associated OMeY addition was performed. In this way, dilution effects caused by the feeding process were compensated. Accordingly, OMeY was premixed into the glucose feed solution to ensure a constant ratio of ncAA and biomass throughout the process. More specifically, the first feeding phase was started after 10 h of cultivation, achieving a CDW of 9.7 g/L. When the feeding phase lasted for 4 h and a CDW of 38.3 g/L was reached, an initial addition of OMeY was performed, allowing a final concentration of 0.75 mM, before an in-feed OMeY addition was installed. In this way, a constant volume-associated OMeY concentration could be achieved. As a consequence, an increase in surfactin titer was observed during the entire feeding-associated surfactin activation phase. Finally, a maximum surfactin titer of 10.8 g/L was reached after 5 h of induction. Remarkably, no reduction in the surfactin increase could be observed, suggesting that extended cultivation periods also result in higher maximum surfactin titers (
+
+In order to characterize the influence of the induction of surfactin production by the addition of OMeY, which is not exclusively incorporated into the amber stop codon of the engineered
+
+Changes in the abundance of proteins in the
+
+In addition, the biosynthesis of surfactin requires an intracellular supply of precursor molecules, including amino acids and fatty acids. Accordingly, enzymes associated with the biosynthesis of branched-chain amino acids were found to be increased in the abundance after OMeY-based surfactin induction (e.g., branched-chain amino acid aminotransferase IlvK and 3-isopropylmalate dehydratase LeuC). This observation is reasonable as the surfactin structure contains four leucine and one valine molecule, indicating a higher requirement for branched-chain amino acids as precursor molecules (
+
+Beyond this, more global adaptive processes associated with the OMeY-mediated stimulation of surfactin-forming NRPS and subsequent surfactin biosynthesis were identified. More specifically, changes were detected in motility-associated proteins, particularly flagellar proteins such as the flagellar hook-length control protein FliK and the chaperone for flagellin export FliS (
+
+As surfactin also possesses chelating properties and enables the removal of metals from contaminated soil and sediments [
+
+As a proven expression host for a variety of proteins,
+
+This reprogramming leads to competition between the native release factor and the orthogonal protein translation system. Accordingly, strategies to improve the efficiency of ncAA incorporation could include reduced expression of the native release factor, high expression or engineering of the ncAA incorporation machinery and screening for alternative orthogonal aaRS/tRNA mutant pairs [
+
+However, in contrast to inducible promoter expression systems with external inducers, such as the inducible promoter systems P
+
+Using this approach, absolutely no surfactin could be determined in shake flask cultivation with
+
+However, the application of antifoam agents is associated with a reduction in oxygen transport, resulting in impaired oxygen supply to the cell culture [
+
+Another limitation in the upscaled high cell-density fed-batch bioreactor fermentations shown in this study is the high amount of inducer substance required for efficient induction of enzyme expression, which makes the application of ncAA-based genetic code expansion less attractive for further scaling approaches. To solve this problem, a two-step induction mechanism could be attractive, such as an ncAA-inducible T7 polymerase-based expression system.
+
+Regarding physiological effects observed after the induction of surfactin production by stimulating SrfAA protein translation, several physiological adaptation processes were identified. In particular, an increase in SrfA protein levels, including the anti-adapter protein for competence development, ComS, was detected (
+
+Due to the biosynthesis of surfactin, precursor molecules are required. A corresponding demand could be determined indirectly through increased abundances of the proteins involved in precursor metabolism. Specifically, Leu- and Ilv-proteins, which address the pathways for branched-chain amino acids, and Fab-proteins, which are required for fatty acid biosynthesis, were found in increased abundances after the induction of surfactin production (
+
+In addition, a physiological adaptation was observed that may be more related to the structural properties of surfactin. For example, flagellar proteins associated with
+
+In addition, a reduction in the abundances for proteins associated with iron acquisition was observed (
+
+A first step towards the development of methods for the precise molecular regulation of NRPS molecules per cell was taken in this work. It was shown that non-canonical amino acids can be used for expression control in high cell-density fermentations. The engineered

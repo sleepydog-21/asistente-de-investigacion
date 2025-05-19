@@ -1,0 +1,115 @@
+Zinc (Zn) is an essential micronutrient for all living organisms, serving as a structural or catalytic cofactor in numerous proteins involved in fundamental biological processes. In prokaryotes, Zn-binding proteins constitute approximately 6% of the proteome, including proteins involved in central metabolism, DNA replication and repair, antibiotic resistance, and virulence pathways (
+
+The importance of Zn is underscored by the concept of “nutritional immunity,” where vertebrates modulate the bioavailability of Zn and other transition metals at the host-pathogen interface to combat bacterial infections (
+
+Pathogens have evolved adaptive mechanisms to acquire and maintain sufficient Zn levels to circumvent nutritional immunity. For instance, the high-affinity Zn-import system ZnuABC, a transporter of the ABC family widely conserved across many bacterial species, plays a crucial role in counteracting Zn deficiency by actively translocating Zn into the bacterial cytoplasm (
+
+Certain pathogenic bacteria employ additional Zn acquisition strategies, including synthesizing and releasing low molecular weight metal-binding molecules (metallophores) that act as extracellular metal chelators, facilitating selective Zn import. An example is represented by
+
+Notably, the
+
+The experiments reported in this paper were performed with the
+
+Schematic representation of the
+
+The Zn-dependent regulation of
+
+(
+
+To investigate the role of
+
+Next, since
+
+In summary, the results just described suggest that both
+
+A structural bioinformatics analysis was conducted to predict the functions of the proteins encoded by the
+
+In addition, AlphaFold 2 was employed to predict the three-dimensional structures of PA4064 and PA4065. The analysis suggested that the two proteins form a complex with a fold characteristic of a MacB transporter, which is a class of ABC transporter that collaborates with other adaptor proteins to facilitate the efflux of antibiotics, toxins, or siderophores out of the bacterial cell (
+
+Molecular modeling of PA4064-PA4065. Molecular representation of the predicted MacB transporter. (
+
+Differences in the pigmentation of liquid cultures between the wild-type and the
+
+Besides PVD, which is produced in low amounts by the PA14 strain in these conditions,
+
+Albeit with small quantitative differences, the UV-visible spectra of the ethyl acetate fractions from the wild-type,
+
+PCH synthesis is downregulated in the
+
+To explore whether the difference in PCH secretion between wild-type and
+
+The results discussed in the previous section demonstrate a significant decrease in PCH production in the
+
+To explore this hypothesis, we analyzed the transcriptional activity of
+
+Effects of PCH on intracellular Zn request. (
+
+The impact of PCH on the Zn intracellular status was then analyzed by assessing the activity of the
+
+To test the hypothesis that PA4065 is involved in PCH export, we used a luminescent biosensor (
+
+Quantification of PCH in cell lysates and cell-free supernatants. Wild-type and mutant strains were grown in VBMM, and PCH production was quantified using the
+
+The influence of PCH on intracellular Zn homeostasis was evaluated by supplementing the growth medium with purified apo-PCH and analyzing the
+
+Influence of PCH on intracellular Zn request. The
+
+To investigate the hypothesis that
+
+Intracellular Zn and Co content. ICP-MS analyses of bacteria grown for 20 hours in E-VBMM with trace metals (0.2 µM ZnSO
+
+The PA14 wild-type strain is sensitive to Co, which causes a growth impairment even at relatively low concentrations. By contrast, we have shown that Co promotes the growth of the
+
+Effect of
+
+The ability to efficiently acquire Zn in environments where this metal is poorly available plays a crucial role in the interaction of
+
+To shed light on the function of Zur-regulated genes of unknown function, this study aimed to investigate two previously uncharacterized Zur-regulated operons,
+
+The results presented in
+
+However, the results reported in
+
+To find an interpretation of these results, we performed a bioinformatic analysis on the proteins encoded by the
+
+Despite this difference in gene organization, the predicted structure of PA4064/PA4065 perfectly overlaps the structure of known MacB proteins. Although further studies are needed to clarify the export mechanism of this unique MacB transporter, it is important to note that this organization is conserved in other bacterial species. For example, a gene cluster analogous to
+
+The identification of
+
+The next challenge was to identify the substrate imported by
+
+These findings led to the hypothesis that
+
+The import of Co under conditions of Zn deficiency does not appear to be a causality. Co has the same atomic radius as Zn and can be incorporated in many proteins instead of Zn, functionally replacing the original metal (
+
+The study also raises questions about the regulation of PCH synthesis, the selectivity of receptors for PCH-metal complexes, and the reasons behind changes in the extracellular accumulation of PCH. It is evident that, apart from
+
+In addition, the identification of a MacB export system likely dedicated to PCH export requires some comment. While both the enzyme systems involved in the cytoplasmic synthesis of PCH and the transporters that mediate the entry of the PCH-Fe complex across the outer and inner membrane are well known, no protein complex involved in PCH secretion has ever been characterized (
+
+Schematic view of
+
+Finally, the most intriguing aspect emerging from this study is a reevaluation of the paradigm regarding PCH as merely a Fe carrier. While
+
+In conclusion, our findings reveal that
+
+Antibiotics, ethylenediaminetetraacetic acid disodium salt (EDTA), and 2-nitrophenyl β-D-galactopyranoside (ONPG) were acquired from Sigma-Aldrich (St. Louis, MO). Restriction endonucleases and T4 DNA ligase were purchased from New England Biolabs (Ipswich, MA). All other chemicals were purchased from VWR International (Milan, Italy). The oligonucleotides were synthesized by Eurofins Genomics (Milan, Italy) or Sigma-Aldrich (Darmstadt, Germany). Purified PCH was extracted from
+
+The strains and plasmids used in this study are listed in Table S1.
+
+Mutant strains (listed in Table S1) were obtained by the gene replacement method described by Hoang (
+
+To confirm that no unintended mutations were introduced during the gene replacement process, whole-genome sequencing was performed on three samples: the parental PA14 strain, and the two parental mutant strains,
+
+Overnight cultures of
+
+RNA was extracted from
+
+Bacteria were grown in 20 mL of VBMM for 20 hours at 37°C under shaking. Cells were centrifuged at 5,000 rpm for 15 min, and supernatants were collected and filtrated using a 0.22-µm syringe filter (Cytiva, Marlborough, MA, USA). The filtrates were acidified with 37% HCl to pH 2.0–3.0, diluted with 0.4 volumes of ethyl acetate, and centrifuged at 5,000 rpm for 15 min. Ethyl acetate addition and centrifugation were repeated three times. The organic phases were collected and dried in SC110 Speedvac Concentrator (Savant Instruments, Holbrook, NY) for up to 3 hours. The resulting pellets were resuspended 1:20 (vol:vol) methanol:ddH
+
+The reporter plasmid
+
+The structures of the individual proteins encoded by the
+
+Bacteria grown overnight at 37°C in 10 mL of VBMM were collected, and the OD
+
+PCH detection in culture supernatants and cell lysates was performed using the

@@ -1,0 +1,11 @@
+{
+  "id": "39415060",
+  "title": "Molecular mechanism of proteolytic cleavage-dependent activation of CadC-mediated response to acid in E. coli.",
+  "doi": null,
+  "authors": "Chen M, Shang Y, Cui W, Wang X, Zhu J, Dong H, Wang H, Su T, Wang W, Zhang K, Li B, Xu S, Hu W, Zhang F, Gu L",
+  "journal": "Communications biology",
+  "year": "2024",
+  "abstract": "Colonizing in the gastrointestinal tract, Escherichia coli confronts diverse acidic challenges and evolves intricate acid resistance strategies for its survival. The lysine-mediated decarboxylation (Cad) system, featuring lysine decarboxylase CadA, lysine/cadaverine antiporter CadB, and transcriptional activator CadC, plays a crucial role in E. coli's adaptation to moderate acidic stress. While the activation of the one-component system CadC and subsequent upregulation of cadBA operon in response to acid and lysine presence have been proposed, the molecular mechanisms governing the transition of CadC from an inactive to an active state remain elusive. Under neutral conditions, CadC is inhibited by forming a complex with lysine-specific permease LysP, stabilized in this inactive state by a disulfide bond. Our study unveils that, in an acidic environment, the disulfide bond in CadC is reduced by the disulfide bond isomerase DsbC, exposing R184 to periplasmic proteases, namely DegQ and DegP. Cleavage at R184 by DegQ and DegP generates an active N-terminal DNA-binding domain of CadC, which binds to the cadBA promoter, resulting in the upregulated transcription of the cadA and cadB genes. Upon activation, CadA decarboxylates lysine, producing cadaverine, subsequently transported extracellularly by CadB. We propose that accumulating cadaverine gradually binds to the CadC pH-sensing domain, preventing cleavage and activation of CadC as a feedback mechanism. The identification of DegP, DegQ, and DsbC completes a comprehensive roadmap for the activation and regulation of the Cad system in response to moderate acidic stress in E. coli.",
+  "source": "PubMed",
+  "pmcid": "PMC11484849"
+}

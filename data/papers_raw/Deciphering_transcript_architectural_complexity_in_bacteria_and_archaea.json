@@ -1,0 +1,11 @@
+{
+  "id": "39287442",
+  "title": "Deciphering transcript architectural complexity in bacteria and archaea.",
+  "doi": null,
+  "authors": "Mattick JSA, Bromley RE, Watson KJ, Adkins RS, Holt CI, Lebov JF, Sparklin BC, Tyson TS, Rasko DA, Dunning Hotopp JC",
+  "journal": "mBio",
+  "year": "2024",
+  "abstract": "RNA transcripts are potential therapeutic targets, yet bacterial transcripts have uncharacterized biodiversity. We developed an algorithm for transcript prediction called tp.py using it to predict transcripts (mRNA and other RNAs) in",
+  "source": "PubMed",
+  "pmcid": "PMC11481537"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "36876072",
+  "title": "GrlR, a negative regulator in enteropathogenic ",
+  "doi": null,
+  "authors": "Lara-Ochoa C, Huerta-Saquero A, Medrano-López A, Deng W, Finlay BB, Martínez-Laguna Y, Puente JL",
+  "journal": "Frontiers in microbiology",
+  "year": "2023",
+  "abstract": "Enteropathogenic To further explore the role that GrlR and GrlA in the regulation of the LEE, we used different EPEC regulatory mutants and We showed that the transcriptional activity of LEE operons increased under LEE-repressing growth conditions in the absence of GrlR. Interestingly, GrlR overexpression exerted a strong repression effect over LEE genes in wild-type EPEC and, unexpectedly, even in the absence of H-NS, suggesting that GrlR plays an alternative repressor role. Moreover, GrlR repressed the expression of LEE promoters in a non-EPEC background. Experiments with single and double mutants showed that GrlR and H-NS negatively regulate the expression of LEE operons at two cooperative yet independent levels. In addition to the notion that GrlR acts as a repressor by inactivating GrlA through protein-protein interactions, here we showed that a DNA-binding defective GrlA mutant that still interacts with GrlR prevented GrlR-mediated repression, suggesting that GrlA has a dual role as a positive regulator by antagonizing GrlR's alternative repressor role. In line with the importance of the GrlR-GrlA complex in modulating LEE gene expression, we showed that GrlR and GrlA are expressed and interact under both inducing and repressing conditions. Further studies will be required to determine whether the GrlR alternative repressor function depends on its interaction with DNA, RNA, or another protein. These findings provide insight into an alternative regulatory pathway that GrlR employs to function as a negative regulator of LEE genes.",
+  "source": "PubMed",
+  "pmcid": "PMC9979310"
+}

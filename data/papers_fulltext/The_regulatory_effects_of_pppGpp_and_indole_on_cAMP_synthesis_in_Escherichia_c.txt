@@ -1,0 +1,763 @@
+The adaptation of bacteria to stress is based on a subtle tuning
+of regulatory networks by the changes in gene expression and
+enzyme activity. Furthermore, the metabolic products of bacterial
+cells, such as indole and second messengers (
+p)ppGpp
+and cAMP, are regulatory signals. The interaction of the metabolic
+pathways of these signaling molecules ensures the
+adaptation of bacteria to various changes in the environment,
+which is of great scientific interest
+
+Among the currently known nucleotide second messengers,
+cAMP (3′,5′-cyclic adenosine monophosphate) and (p)ppGpp
+(guanosine tetra(penta)phosphate) were the first to be studied
+in most detail in the model organism Escherichia coli. They
+act as intracellular “secondary” signals, transducing information
+about the actual microenvironment of bacterial cells by
+transforming the extracellular “primary” signals into a cascade
+of intracellular physiological changes necessary to support
+important biological functions (Hengge et al., 2019).
+
+cAMP is synthesized by the enzyme adenylate cyclase,
+encoded by the cyaA gene, that catalyzes the cyclization
+reaction of adenosine triphosphate (ATP) to form cAMP and
+inorganic pyrophosphate (Botsford, Harman, 1992) and is
+cleaved to form AMP by means of phosphodiesterases CpdA
+(Imamura et al., 1996) and DosP (Yoshimura-Suzuki et al.,
+2005). The global regulator cAMP plays an important role in
+many biological processes, including the regulation of growth,
+differentiation and general cell metabolism, division, starvation,
+anaerobiosis, carbon metabolism, stress reactions (Gosset
+et al., 2004), osmoregulation (Balsalobre et al., 2006), and
+quorum sensing (Zhou et al., 2008). Transcriptomic analysis
+has shown that more than 200 operons are under direct or indirect
+control of cAMP (Gutierrez-Ríos et al., 2007). cAMP in
+complex with the cAMP receptor protein (CRP) (Rickenberg,
+1974) regulates the transcription of several hundred genes,
+some of which are involved in catabolic processes (Botsford,
+Harman, 1992), and thus participates in multiple regulatory
+networks.
+
+Another well-known second messenger, (p)ppGpp, induces
+one of the main bacterial adaptive mechanisms – the stringent
+response (Potrykus, Cashel, 2008; Hauryliuk et al., 2015),
+affecting various aspects of bacterial physiology, such as persistence,
+virulence, biofilm formation, and others (Dalebroux
+et al., 2010; Maisonneuve, Gerdes, 2014). Since the (p)ppGpp
+alarmone is a global regulator that controls the expression of
+about 1,400 genes (Traxler et al., 2008), its main function is to
+regulate the growth and survival of bacterial cells in response
+to nutrient deficiency and various stress factors (Hengge et
+al., 2019). Elevated levels of (p)ppGpp delay bacterial growth
+by suppressing the production of RNA, DNA, and proteins
+(Mechold et al., 2013). In E. coli cells, (p)ppGpp levels are
+determined by the balance between two alarmone synthetases
+RelA/SpoT, the homologues of (RSH) protein family – RelA
+with only synthesizing activity and the bifunctional enzyme
+SpoT, which exhibits both (p)ppGpp synthetase and hydrolase
+activities. RelA synthetase is activated upon binding to
+ribosomes during amino acid starvation, when uncharged
+tRNAs bind to the A site of the ribosome. SpoT-dependent
+accumulation of (p)ppGpp in bacterial cells occurs when
+there is a lack of carbon sources, fatty acids, iron, nitrogen,
+phosphates, as well as under oxidative stress, etc. (Arenz et al.,
+2016). In E. coli cells, (p)ppGpp regulates gene transcription
+by changing the activity of RNA polymerase via direct interaction
+with the enzyme or indirectly, reducing the cellular pool
+of guanosine triphosphate (GTP) and, accordingly, the ATP/
+GTP ratio as a result of the consumption of GTP for (p)ppGpp
+synthesis (Dalebroux, Swanson, 2012; Hauryliuk et al., 2015).
+
+Indole, a signaling molecule of stationary phase bacterial
+cells, also takes part in a signal transduction of changes in
+conditions of bacterial microenvironment. Indole production
+by E. coli cells, discovered in the early 20th century, has previously
+been used as a diagnostic marker to differentiate E. coli
+from other enteric bacteria. However, as it is now known, the
+ability of bacteria to synthesize indole is widespread among
+different species of microorganisms. It is produced by at least
+27 genera of bacteria capable of synthesizing the enzyme tryptophanase
+TnaA, which breaks down tryptophan to produce
+indole, pyruvate and ammonium (Lee et al., 2007). Indole is
+imported into the cell mainly through Mtr permease (Yanofsky
+et al., 1991) and is exported from the cell using the multidrug
+efflux pump AcrEF (Kawamura-Sato et al., 1999). In E. coli
+cells, indole regulates such important cellular processes as
+biofilm formation (Lee et al., 2007), persistence (Kwan et al.,
+2015), the development of multidrug resistance (Hirakawa
+et al., 2005), changes in plasmid stability (Chant, Summers,
+2007), motility (Bansal et al., 2007), and the ability to survive
+in mixed bacterial cultures (Chu et al., 2012).
+
+Regulatory networks including the signaling molecules
+cAMP, (p)ppGpp and indole closely interact in bacterial cells
+to transduce intracellular or environmental signals for triggering
+a cascade of biochemical reactions leading to changes
+in cell gene expression profile and metabolism. One of the
+regulators of indole synthesis is cAMP, which, as part of the
+cAMP-CRP complex, positively regulates the transcription
+of tryptophanase operon responsible for indole production
+(Stewart, Yanofsky, 1985). We have previously shown that
+indole formation in E. coli is a (p)ppGpp-dependent process
+(Kashevarova et al., 2022). Decreased cAMP levels as a result
+of degradation by phosphodiesterases reduce indole production,
+increasing persistence (Kwan et al., 2015). At the same
+time, the works of other researchers showed that exogenous addition of cAMP, with the participation of the cAMP-CRP
+regulatory complex controlling the expression of RelA synthetase,
+stimulated its expression and resulted in an increase in
+(p)ppGpp production and persistence. Moreover, the activity
+of the cAMP-CRP complex and the cAMP-CRP-controlled
+expression of RelA increased upon glucose depletion in both
+normal and persistent cells (Amato et al., 2013). Thus, regulatory
+signals cAMP and indole (Kwan et al., 2015), along
+with (p)ppGpp (Wood et al., 2013), are involved in multiple
+persistence pathways.
+
+The purpose of our study is to study the effect of (p)ppGpp
+and indole on the formation of cAMP under conditions of
+depletion of the carbon substrate glucose.
+
+Strains and culture conditions. The objects of the study
+were the E. coli BW25141 parent strain (WT, (p)ppGpp+)
+(Datsenko, Wanner, 2000) and the BW25141ΔrelAΔspoT
+mutant ((p)ppGpp0) (laboratory collection). Cultures stored
+on Luria–Bertani (LB) agar (Sigma, USA) were cultivated
+for 5 hours at 37 °C in tubes with 5 mL of LB broth (Sigma,
+USA). Then, the cells were transferred to Erlenmeyer flasks
+with minimal M9 medium (50 mL) containing 5.6 mM (0.1 %)
+or 22.2 mM (0.4 %) glucose and cultivated at 120 rpm for
+18 hours in a thermostated shaker GFL 1092 (GFL, Germany).
+Overnight cultures were diluted in 50 mL of M9 medium with
+appropriate concentrations of glucose to OD600 = 0.2. Tryptophan
+(2 mM) (AppliChem, Germany) was added to some of
+the flasks, keeping the others as controls, and then cultivated
+under the same conditions for 168 hours. The optical density of
+the cultures was measured by the absorbance value at 600 nm
+on a UV-1650PC spectrophotometer (Shimadzu, Japan).
+
+Gene engineering. The BW25141ΔrelAΔspoT deletion
+mutant was constructed using the FLP/FRT site-specific recombination
+system (Datsenko, Wanner, 2000).
+
+Glucose content in the medium was determined by the
+glucose oxidase method using a Glucose-Vital kit (Vital Development
+Corporation, Russia). 5 μL of the samples were taken
+from the exponentially growing cultures with a time interval
+of one hour, and then once a day, and incubated with 1 mL
+of the kit reagent at room temperature for 15 minutes. When
+glucose is oxidized by glucose oxidase under the atmospheric
+pressure, an equimolar amount of hydrogen peroxide is formed
+that, in its turn, oxidizes chromogenic substrates by means of
+peroxidase to form a colored product proportionally to glucose
+concentration that was measured photometrically at 510 nm
+on the UV-1650PC spectrophotometer (Shimadzu, Japan).
+
+Determination of indole. The concentration of indole in
+the medium was measured by high-performance liquid chromatography
+(Kim et al., 2013), with minor modifications,
+on an LC-20A chromatograph with an SPD-M20A spectrophotometric
+detector (Shimadzu, Japan), Luna C18 column
+(250×4.6 mm, 5 μm), SecurityGuard C18 pre-column (4×3 mm)
+(Phenomenex, USA). To determine extracellular indole, the
+samples were taken from the exponential phase cultures with
+a time interval of 2 hours and once a day from the stationary
+phase ones. Cells were pelleted by centrifugation. Supernatant
+samples in a volume of 20 μL were analyzed at a mobile phase
+flow rate of 1 mL/min (a mixture of acetonitrile (Kriochrome,
+Russia) and acetic acid in a 1:1 ratio) and +25 °C with detection
+at a wavelength of 280 nm. To calculate the indole content
+in the sample, the external standard method was used based
+on a previously constructed calibration curve.
+
+Measurement of cAMP concentration. Quantitative determination
+of intracellular cAMP concentration was carried
+out by the competitive enzyme-linked immunosorbent assay
+(ELISA). 1.5 mL of the test culture was centrifuged at
+12,000 rpm at +4 °C for 5 minutes. The pellet was resuspended
+in 300 μL of 0.1N HCl, kept for 5 minutes at +95 °C, followed
+by destruction of cells using a CPX-130 ultrasonic disintegrator
+(Cole-Parmer, USA), using a probe with a diameter
+of 6 mm (3 cycles for 30 seconds at an amplitude of 40 %).
+Cell residues were precipitated by centrifugation for 15 minutes.
+cAMP concentration was determined in the resulting
+supernatant after neutralization with 2 M Na2CO3 according
+to the manufacturer’s instruction (RayBio® cAMP Enzyme
+Immunoassay). Experiments were carried out with at least
+two independent cultures. The data obtained were normalized
+to intracellular volume based on absolutely dry cell biomass
+
+Statistical analysis. The results obtained were processed
+statistically using the standard software package Statistica 6.0
+(StatSoft Inc., USA). On the graphs, the means (at least three
+experiments) and the standard deviations are represented.
+The significance of differences was assessed using Student’s
+t-test ( p ≤ 0.05).
+
+In the present work, the dynamics of glucose depletion and
+the formation of cAMP and indole in periodic cultures of
+the E. coli BW25141 wild-type strain and the ΔrelAΔspoT
+deletion mutant grown in M9 mineral medium with different
+contents of initially added glucose (5.6 and 22.2 mM) were
+studied. Overproduction of indole was induced by exogenous
+addition of the amino acid tryptophan (2 mM), a precursor of
+indole synthesis, in order to study its effect on the activity of
+metabolic processes, in particular, the consumption rate of
+carbon substrate (glucose) and cAMP formation.
+
+When studying the glucose consumption in the strain periodic
+cultures, it was found that at an initially low concentration
+of glucose (5.6 mM), substrate depletion in the cells of
+both strains studied occurred in the first hours of cultivation
+(Fig. 1, a). Moreover, in the culture of the parental strain, glucose
+was completely consumed after 3 hours of growth, while
+(p)ppGpp absence in the cells of the ΔrelAΔspoT mutant led to
+a delay in substrate consumption by 2 hours as compared to the
+wild-type strain. At the same time, the presence of tryptophan
+in the medium had no effect in both cases.
+
+In the culture of parent strain with high initial glucose
+concentration (22.2 mM), it was consumed for 12 hours
+after the cells were inoculated to a fresh nutrient medium
+(Fig. 1, b). The double ΔrelAΔspoT mutation, as well as at the
+low glucose concentration (5.6 mM), led to a slowing down
+of substrate utilization rate, so that glucose was consumed for
+more than 24 hours. However, the addition of tryptophan to
+the medium caused an acceleration of glucose consumption
+for more than 4 hours in the parental strain and for 24 hours
+in the (p)ppGpp0 mutant.
+
+* Statistically significant difference between the (p)ppGpp0 mutant and the (p)ppGpp+ strain in the medium without tryptophan; + statistically
+significant difference between the (p)ppGpp0 mutant and the (p)ppGpp+ strain in the medium with the addition of 2 mM tryptophan;
+x statistically significant difference between the (p)ppGpp+ strain supplemented with 2 mM tryptophan and the (p)ppGpp+ strain in the
+tryptophan-free medium; ** statistically significant difference between the (p)ppGpp0 mutant in the medium with 2 mM tryptophan and
+the (p)ppGpp0 one in the tryptophan-free medium ( р ≤ 0.05).
+
+The onset of an increase in the initially low intracellular
+level of cAMP coincided with the depletion of glucose in the
+medium. Moreover, in cultures grown in the medium with 5.6 mM glucose, the increase in cAMP concentration occurred
+earlier than in those grown in the medium with the addition
+of 22.2 mM glucose (Fig. 2). At low glucose content in the
+medium, the (p)ppGpp+ strain showed rapid depletion of
+glucose for the first 1–3 hours, which was accompanied by
+an active accumulation of cAMP during the same period (see
+Fig. 2, a). However, the double ΔrelAΔspoT deletion led to
+a sharper increase in cAMP levels starting at 5 hours, which
+was not observed in the medium containing 22.2 mM glucose.
+By the end of the observed period of the first day of cultivation
+(9 hours of growth), higher values of cAMP accumulation
+were demonstrated by the mutant at 5.6 mM glucose, which
+was approximately 2 times higher than the cAMP level at
+22.2 mM glucose.
+
+In stationary cultures, a high concentration of initially
+added glucose (22.2 mM) in the medium led to higher levels
+of cAMP accumulation than at 5.6 mM glucose; however, in
+the case of the deletion mutant, these differences were less
+pronounced (Fig. 3).
+
+* Statistically significant difference between the (p)ppGpp0 mutant and the (p)ppGpp+ strain in the medium without tryptophan; + statistically significant difference
+between the (p)ppGpp0 mutant and the (p)ppGpp+ strain at the supplementation of 2 mM tryptophan
+
+The maximum values of cAMP accumulation in cells were
+proportional to the concentration of added glucose. At the same
+time, the (p)ppGpp0 knockout demonstrated a decrease in the
+maximum level of cAMP compared to the WT strain that was
+the most pronounced in the medium with 22.2 mM glucose.
+Maximum accumulation of cAMP at 5.6 mM glucose content
+in the mutant strain was achieved at 9 hours of cultivation with
+a subsequent decrease, whereas in the (p)ppGpp+ parent, by
+72 hours in the tryptophan-free medium and 24 hours in the
+one supplemented with tryptophan (see Fig. 3, a). At high
+glucose content (22.2 mM), the maximum cAMP values in
+the WT strain were observed at 72 hours of growth both in
+the tryptophan-free medium and in the presence of the indole
+precursor (see Fig. 3, b). At the same time, the cAMP level in
+the (p)ppGpp0 knockout changed slightly throughout the entire
+cultivation period, especially in the medium supplemented
+with tryptophan, and was up to 6 times lower as compared to
+the WT strain. Thus, the absence of (p)ppGpp in the cells led
+to a decrease in cAMP production.
+
+We have previously shown that the effect of (p)ppGpp –
+a stringent response signaling molecule – in the process of
+indole production regulation by E. coli cells depends on the
+glucose content in the cultural medium (Kashevarova et al.,
+2022). Therefore, (p)ppGpp positively regulates the synthesis
+of indole under the conditions of its spontaneous formation
+at high content of glucose in the tryptophan-free medium.
+However, this did not occur at low glucose concentration. At
+exogenous addition of 2 mM tryptophan, (p)ppGpp-dependent
+indole production was observed at both glucose concentrations
+studied, with a more pronounced effect at the high carbon
+substrate content. However, glucose limitation at the start of
+cultivation (in the medium with 5.6 mM glucose) led to an
+increase in the rate of indole accumulation and a reduction in
+the time spent to reach its maximum values (Fig. 4).
+
+* Statistically significant difference between the (p)ppGpp0 mutant and the (p)ppGpp+ strain in terms of indole and cAMP production (black and blue, respectively)
+(р ≤ 0.05).
+
+When studying the effect of indole overproduction on the
+synthesis of cAMP depending on the carbon substrate content,
+it was found that the addition of the amino acid tryptophan,
+which caused the accumulation of indole in the medium to
+2.2–2.9 mM (see Fig. 4, c, d ), did not have a significant effect
+on intracellular cAMP concentration in both parent and deletion
+strains at the studied glucose concentrations. However,
+there was an exception: at high glucose content, the (p)ppGpp+
+strain demonstrated a decrease in the cAMP levels of up to
+4 times compared to the tryptophan-free control in response
+to tryptophan addition (Fig. 5).
+
+Statistically significant difference between the (p)ppGpp+ strain supplemented
+with 2 mM tryptophan and the same one grown in the tryptophanfree
+medium ( р ≤ 0.05).
+
+Bacteria, exposed to various stress factors such as starvation,
+temperature, acid, oxidative stress, etc., have developed effective
+stress response mechanisms for cell adaptation to unfavorable
+conditions. Stress responses are induced by signaling
+molecules that trigger a chain of reactions leading to changes
+in gene expression and restructuring of cell metabolism, which
+allows bacteria to survive adverse effects.
+
+In the present work, the mutual influence of the signaling
+molecules (p)ppGpp, cAMP, and indole upon depletion of
+glucose in the culture medium was studied. Glucose is the
+preferred source of carbon and energy for E. coli cells, which
+have developed a complex regulatory network that coordinates
+gene expression, transport, and enzyme activity in response to
+the presence of this substrate (Gutierrez-Ríos et al., 2007). Carbon
+starvation induces a general stress response regulated by
+catabolic repression and the (p)ppGpp-mediated stringent response.
+In E. coli, genes controlled by the catabolic repression
+regulator protein (CRP) are RelA-dependent, indicating that
+(p)ppGpp is a global regulator of carbon starvation (Traxler et
+al., 2006) and demonstrating the interaction between catabolic
+repression and stringent response mechanisms. A recent study
+using fluorescence spectroscopy showed that (p)ppGpp is able
+to bind to the CRP protein with high affinity, and molecular
+docking results suggested that (p)ppGpp may negatively
+regulate the activity of this protein. Thus, CRP-controlled
+gene expression is modulated by (p)ppGpp as a result of its
+binding to CRP under starvation stress (Duysak et al., 2021).
+
+In bacterial cells, intracellular levels of cAMP are dependent
+on many factors and, first of all, are determined by the
+ratio of the enzymes adenylate cyclase and phosphodiesterase
+activities. The cAMP signaling molecule is a part of the
+cAMP-CRP complex, which, on the one hand, is controlled by
+carbohydrates of the phosphoenolpyruvate phosphotransferase
+system (Deutscher et al., 2006), and, on the other, regulates
+the catabolite repression of carbon (Botsford, Harman, 1992).
+The presence of glucose in the growth medium suppresses
+the expression of enzymes that catalyze the metabolism
+of other carbon sources, reducing the levels of both CRP
+protein and cAMP (Ishizuka et al., 1994). In E. coli, cellular
+cAMP levels are inversely proportional to the concentration
+of carbon source, resulting in low cAMP content in the presence
+of an easily metabolized carbon source (glucose). In
+addition to carbon catabolism, cAMP-CRP regulon controls
+important cellular functions associated with stress response,
+cell division, and amino acid metabolism, including the tnaA
+(tryptophanase) gene, which is responsible for the production of one of the E. coli metabolites, indole, from the amino acid
+tryptophan (Isaacs et al., 1994).
+
+In this work, the dependence of the dynamics of cAMP
+and indole synthesis on the presence of (p)ppGpp and glucose
+contents in the growth medium has been studied. In the
+experiments, two glucose concentrations of 5.6 and 22.2 mM
+have been used, which we have designated as low and high
+glucose contents, respectively. When glucose is depleted in
+the medium with tryptophan, the metabolism of bacterial cells
+switches to the utilization of this substrate, which E. coli cells
+are able to use as the only source of carbon and nitrogen due
+to the action of the inducible enzyme tryptophanase, which
+breaks down tryptophan to form indole (Yanofsky et al., 1991).
+
+Our studies have shown that the absence of (p)ppGpp in
+cells reduced their ability to utilize glucose, which was the
+most pronounced at high glucose content in the growth medium
+(22.2 mM). However, an acceleration of glucose consumption
+from the medium supplemented with tryptophan
+was demonstrated (see Fig. 1). The ability of bacterial cells
+to produce (p)ppGpp plays an important role in glucose metabolism,
+which has been shown for both Gram-positive and
+Gram-negative bacteria (Oh et al., 2015). In the process of
+bacterial adaptation to glucose starvation, in addition to
+stringent
+response, in which cell growth and the synthesis of
+macromolecules are inhibited, an expanded adaptive response
+is formed, including inhibition of glycolysis and metabolic
+transitions mediated through the mechanism of catabolite
+repression (Zhang et al., 2016). Our experiments have shown
+that the depletion of glucose in the medium is accompanied
+by an increase in the initially low intracellular cAMP content.
+The maximum level of cAMP accumulation in bacterial cells
+has been shown to be proportional to the concentration of
+the initially added substrate. At low glucose concentration
+(5.6 mM), an increase in the cAMP level occurred earlier than at 22.2 mM glucose (see Fig. 2). At 5.6 mM glucose,
+the maximum values of intracellular cAMP concentration
+over a 168-hour period of observation were achieved already
+at the first day of cultivation in the (p)ppGpp0 mutant and at
+24 hours in the parental strain with the addition of tryptophan.
+At the same time, in the tryptophan-free culture of the
+(p)ppGpp+ strain, the maximum cAMP level was observed
+at 72 hours of cultivation (see Fig. 3, a), as well as under the
+conditions of 22.2 mM glucose addition to the medium (see
+Fig. 3, b). At initially high glucose content, the level of cAMP
+was higher in the parental strain as compared to the deletion
+mutant both in the tryptophan-free medium and in its presence
+(see Fig. 3, b). Thus, the absence of (p)ppGpp in cells
+led to a decrease in cAMP formation. These data allow us to
+assume that the process of cAMP synthesis in E. coli cells is
+positively regulated by (p)ppGpp.
+
+The second messenger (p)ppGpp is able to modulate gene
+expression in response to various stress factors in different
+bacterial species (Irving, Corrigan, 2018). It is a key regulator
+of stringent response, one of the most important protective
+mechanisms in bacterial adaptation induced primarily by
+starvation stress (Traxler et al., 2006, 2008). In Gram-negative
+bacteria, (p)ppGpp regulates transcription initiation by directly
+binding to RNA polymerase. In this case, the stimulatory or
+inhibitory effects of (p)ppGpp on transcription depend on the
+composition of the discriminatory sequences (AT- or GC-rich)
+(Sanchez-Vazquez et al., 2019). In addition, (p)ppGpp can
+directly bind to proteins and thereby change their catalytic
+activity. Thus, in the work (Ro et al., 2021), it was shown that
+(p)ppGpp promotes acetylation of the CRP protein, which,
+as a part of the cAMP-CRP complex, plays a key role in
+the regulation of gene expression in E. coli. However, there
+are no significant differences between the parent strain and
+the mutant one with a deletion of one of two E. coli ΔrelA
+alarmone synthetases in either the levels of cAMP content or
+the expression of adenylate cyclase cyaA responsible for the
+production of cAMP.
+
+Our results have demonstrated the effect of (p)ppGpp on the
+level of cAMP content, which is displayed in an increase in the
+concentration of cAMP in the (p)ppGpp+ strain as compared
+to the mutant strain with the double ΔrelAΔspoT deletion by
+2.8 and 6 times at 5.6 and 22.2 mM glucose content, respectively,
+at 72 hours of growth in the tryptophan-free medium
+(see Fig. 3). A similar effect of (p)ppGpp on the level of cAMP
+was also observed under excessive accumulation of indole,
+but only at high initial glucose concentration in the medium
+(22.2 mM) (see Fig. 3, b). However, the difference in cAMP
+content between the WT strain and the knockout one disappeared
+under glucose limitation (5.6 mM, see Fig. 3, a). The
+lack of (p)ppGpp effect on cAMP levels (Ro et al., 2021) could
+probably be explained by the activity of SpoT synthetase leading
+to the accumulation of (p)ppGpp, while in our experiments
+the complete absence of stringent response signaling molecule
+should be ensured by the double ΔrelAΔspoT deletion. Interestingly,
+the presence of (p)ppGpp in cells accelerated the onset of
+cAMP synthesis under the conditions of glucose limitation (at
+the initial content of 5.6 mM glucose in the growth medium),
+which was observed after 3 hours of growth by a statistically
+significant 4-fold increase in intracellular cAMP concentration
+in the (p)ppGpp+ strain as compared to the ΔrelAΔspoT
+mutant in the tryptophan-free medium. However, at the next
+two sampling points – 5 and 9 hours of cultivation – the
+(p) ppGpp0
+knockout was superior compared to the parent
+strain in the level of cAMP production (see Fig. 4, b), which
+was also displayed under tryptophan supplementation (see
+Fig. 4, d ).
+
+The present study shows that (p)ppGpp is involved in the
+regulation of cAMP production, as well as in indole biosynthesis.
+It is known that the tnaCAB operon responsible for
+indole biosynthesis is positively regulated by the cAMPCRP-
+dependent mechanism of catabolite repression and is
+induced at the transcriptional level upon depletion of carbohydrates
+and cell transition to the stationary phase (Stewart,
+Yanofsky, 1985). This explains the observed increase in the
+cAMP content to levels of 1.8 and 6 ng/μL during cell growth
+in the tryptophan-free medium at 5.6 and 22.2 mM glucose,
+respectively (see Fig. 3). This was accompanied by a significant
+increase in indole formation of up to 10 times at high
+glucose content in the medium, which is typical only for the
+parent strain, but not for the mutant one (see Fig. 4, a). Based
+on these data, we concluded that the alarmone (p)ppGpp
+along with catabolite repression can positively regulate the
+process of indole formation. As it follows from Fig. 4, a, b,
+the intracellular concentration of cAMP was decreased by 6
+and 3 times at 22.2 and 5.6 mM glucose, respectively, in the
+ΔrelAΔspoT mutant as compared to the (p)ppGpp+ strain
+under growth in the tryptophan-free medium. This indicates
+a positive role of (p)ppGpp in the regulation of both cAMP
+synthesis and indole production. Under the addition of tryptophan,
+both the parent and the mutant strains have demonstrated
+high indole production at both glucose concentrations studied
+(see Fig. 4, c, d ). The increase in indole formation occurred
+earlier in the medium with low glucose content compared to
+the one with 22.2 mM glucose, which may be due to the earlier
+formation of cAMP in the cells. At the same time, the mutant
+has also demonstrated a time delay in indole accumulation,
+which was more pronounced at high initial glucose content
+in the medium (see Fig. 4, c). Thus, in E. coli cells, indole
+production has been shown to be under the positive control
+of the second messengers (p)ppGpp and cAMP under glucose
+depletion during batch culture growth.
+
+As shown by our experiments, the cAMP level in E. coli
+cells depends to some extent on the indole content in the
+medium. The presence of tryptophan, a substrate for indole
+synthesis, led to overproduction of indole in the cultures of
+both the WT strain and the mutant. However, a decrease in
+cAMP concentration was observed only in the parent strain,
+which was more pronounced at 22.2 mM glucose (see Fig. 5).
+However, high indole production in knockout cell culture did
+not produce a significant effect on the cAMP level.
+
+Therefore, the results obtained in this work demonstrate
+that the absence of the alarmone (p)ppGpp in E. coli cells led
+to a decrease in cAMP formation and deceleration in glucose
+metabolism. An increase in the level of cAMP in response
+to glucose depletion was accompanied by the synthesis of
+indole with a pronounced decrease in its accumulation in
+the (p)ppGpp0 mutant as compared to the parent strain. This
+was observed in both the tryptophan-free medium and at the
+tryptophan addition. In cells of the (p)ppGpp+ strain growing
+in the tryptophan-free medium at a low rate of spontaneous indole formation, its synthesis was significantly increased in
+response to an increase in the level of cAMP upon depletion of
+glucose. This phenomenon was not observed in the (p)ppGpp0
+mutant that was characterized by a reduced accumulation of
+cAMP. These data indicate a positive role of (p)ppGpp in the
+regulation of indole formation, along with the cAMP-mediated
+catabolic repression. At the addition of tryptophan, both the
+parental and (p)ppGpp0 strains have demonstrated high indole
+production, which was accompanied by a decrease in the level
+of cAMP accumulation in comparison with the tryptophanfree
+control and was the most pronounced in the (p)ppGpp+
+strain at 22.2 mM glucose. Thus, at glucose depletion, the
+alarmone (p)ppGpp positively regulates the accumulation
+of cAMP and indole, and the latter, in its turn, reduces the
+formation of cAMP
+
+The survival of bacteria in continuously changing environmental
+conditions is due to a complex, formed during the
+evolutionary process, system of numerous interacting regulatory
+networks that control the diverse physiological functions
+of bacteria under various stress factors. This work studies the
+interaction of signaling molecules cAMP, (p)ppGpp, and indole,
+under the conditions of substrate limitation. The results
+obtained demonstrate that (p)ppGpp functions as a positive
+regulator of such processes as glucose metabolism, cAMP
+synthesis, and indole production. The intracellular level of
+cAMP accumulation depends on both glucose availability in
+the medium and the stringent response alarmone (p)ppGpp.
+The absence of (p)ppGpp in cells reduces their ability to
+produce indole under the conditions of a low rate of its spontaneous
+formation during cell growth in the tryptophan-free
+medium and decelerates the rate of indole accumulation in the
+medium supplemented with tryptophan. Indole biosynthesis
+in E. coli is positively regulated by the signaling molecules
+(p)ppGpp and cAMP at substrate limitation. This gives us
+reason to conclude that (p)ppGpp-dependent indole production
+is mediated through changes in the level of cAMP in
+cells. The results obtained demonstrate the modulatory effect
+of (p) ppGpp
+on the expression of genes of the tryptophanase
+operon regulated by means of the cAMP-CRP-dependent
+mechanism of catabolite repression, the removal of which is
+induced in response to glucose depletion.
+
+The authors declare no conflict of interest.
+
+Amato S.M., Orman M.A., Brynildsen M.P. Metabolic control of persister
+formation in Escherichia coli. Mol. Cell. 2013;50(4):475-487.
+DOI 10.1016/j.molcel.2013.04.002
+
+Arenz S., Abdelshahid M., Sohmen D., Payoe R., Starosta A.L., Berninghausen
+O., Hauryliuk V., Beckmann R., Wilson D.N. The stringent
+factor RelA adopts an open conformation on the ribosome to
+stimulate ppGpp synthesis. Nucleic Acids Res. 2016;44(13):6471-
+6481. DOI 10.1093/nar/gkw470
+
+Balsalobre C., Johansson J., Uhlin B.E. Cyclic AMP-dependent osmoregulation
+of crp gene expression in Escherichia coli. J. Bacteriol.
+2006;188(16):5935-5944. DOI 10.1128/JB.00235-06
+
+Bansal T., Englert D., Lee J., Hegde M., Wood T.K., Jayaraman A.
+Differential effects of epinephrine, norepinephrine, and indole on
+Escherichia coli O157: H7 chemotaxis, colonization, and gene expression.
+Infect. Immun. 2007;75(9):4597-4607. DOI 10.1128/IAI.
+00630-07
+
+Botsford J.L., Harman J.G. Cyclic AMP in prokaryotes. Microbiol. Rev.
+1992;56(1):100-122. DOI 10.1128/mr.56.1.100-122.1992
+
+Chant E.L., Summers D.K. Indole signalling contributes to the stable
+maintenance of Escherichia coli multicopy plasmids. Mol. Microbiol.
+2007;63(1):35-43. DOI 10.1111/j.1365-2958.2006.05481.x
+
+Chu W., Zere T.R., Weber M.M., Wood T.K., Whiteley M., Hidalgo-
+Romano B., Valenzuela E.J., McLean R.J.C. Indole production promotes
+Escherichia coli mixed-culture growth with Pseudomonas
+aeruginosa
+by inhibiting quorum signaling. Appl. Environ. Microbiol.
+2012;78(2):411-419. DOI 10.1128/AEM.06396-11
+
+Dalebroux Z.D., Svensson S.L., Gaynor E.C., Swanson M.S. ppGpp
+conjures bacterial virulence. Microbiol. Mol. Biol. Rev. 2010;74(2):
+171-199. DOI 10.1128/MMBR.00046-09
+
+Dalebroux Z.D., Swanson M.S. ppGpp: magic beyond RNA polymerase.
+Nat. Rev. Microbiol. 2012;10(3):203-212. DOI 10.1038/
+nrmicro2720
+
+Datsenko K.A., Wanner B.L. One-step inactivation of chromosomal
+genes in Escherichia coli K-12 using PCR products. Proc. Natl. Acad.
+Sci. USA. 2000;97(12):6640-6645. DOI 10.1073/pnas.120163297
+
+Deutscher J., Francke C., Postma P.W. How phosphotransferase system-
+related protein phosphorylation regulates carbohydrate metabolism
+in bacteria. Microbiol. Mol. Biol. Rev. 2006;70(4):939-1031.
+DOI 10.1128/MMBR.00024-06
+
+Duysak T., Tran T.T., Afzal A.R., Jung C. Fluorescence spectroscopic
+analysis of ppGpp binding to cAMP receptor protein and histonelike
+nucleoid structuring protein. Int. J. Mol. Sci. 2021;22(15):7871.
+DOI 10.3390/ijms22157871
+
+Gosset G., Zhang Z., Nayyar S., Cuevas W.A., Saier M.H. Transcriptome
+analysis of Crp-dependent catabolite control of gene expression
+in Escherichia coli. J. Bacteriol. 2004;186(11):3516-3524. DOI
+10.1128/JB.186.11.3516-3524.2004
+
+Gutierrez-Ríos R.M., Freyre-Gonzalez J.A., Resendis O., Collado-
+Vides J., Saier M., Gosset G. Identification of regulatory network
+topological units coordinating the genome-wide transcriptional response
+to glucose in Escherichia coli. BMC Microbiol. 2007;7:53.
+DOI 10.1186/1471-2180-7-53
+
+Hauryliuk V., Atkinson G.S., Murakami K.S., Tenson T., Gerdes K.
+Recent functional insights into the role of (p)ppGpp in bacterial
+physiology. Nat. Rev. Microbiol. 2015;13(5):298-309. DOI 10.1038/
+nrmicro3448
+
+Hengge R., Häussler S., Pruteanu M., Stülke J., Tschowri N., Turgay K.
+Recent advances and current trends in nucleotide second messenger
+signaling in bacteria. J. Mol. Biol. 2019;431(5):908-927. DOI
+10.1016/j.jmb.2019.01.014
+
+Hirakawa H., Inazumi Y., Masaki T., Hirata T., Yamaguchi A. Indole
+induces the expression of multidrug exporter genes in Escherichia
+coli. Mol. Microbiol. 2005;55(4):1113-1126. DOI 10.1111/j.1365-
+2958.2004.04449
+
+Imamura R., Yamanaka K., Ogura T., Hiraga S., Fujita N., Ishihama A.,
+Niki H. Identification of the cpdA gene encoding cyclic 3′,5′-adenosine
+monophosphate phosphodiesterase in Escherichia coli.
+J. Biol. Chem. 1996;271(41):25423-25429. DOI 10.1074/jbc.271.
+41.25423
+
+Irving S.E., Corrigan R.M. Triggering the stringent response: signals
+responsible for activating (p)ppGpp synthesis in bacteria. Microbiology.
+2018;164(3):268-276. DOI 10.1099/mic.0.000621
+
+Isaacs H., Chao D., Yanofsky C., Saier M.H. Mechanism of catabolite
+repression of tryptophanase synthesis in Escherichia coli. Microbiology.
+1994;140(8):2125-2134. DOI 10.1099/13500872-140-8-
+2125
+
+Ishizuka H., Hanamura A., Inada T., Aiba H. Mechanism of the downregulation
+of cAMP receptor protein by glucose in Escherichia coli:
+role of autoregulation of the crp gene. EMBO J. 1994;13(13):3077-
+3082. DOI 10.1002/j.1460-2075.1994.tb06606.x
+
+Kashevarova N.M., Akhova A.V., Khaova E.A., Tkachenko A.G. Role
+of alarmone (p)ppGpp in the regulation of indole formation depending
+on glucose content in Escherichia coli. Acta Biomedica Scientifica. 2022;7(3):162-168. DOI 10.29413/ABS.2022-7.3.17 (in Russian)
+
+Kawamura-Sato K., Shibayama K., Horii T., Iimuma Y., Arakawa Y.,
+Ohta M. Role of multiple efflux pumps in Escherichia coli in indole
+expulsion. FEMS Microbiol. Lett. 1999;179(2):345-352. DOI
+10.1016/S0378-1097(99)00433-4
+
+Kim D., Sitepu I.R., Hashidokoa Y. Induction of biofilm formation in
+the betaproteobacterium Burkholderia unamae CK43B exposed to
+exogenous indole and gallic acid. Appl. Environ. Microbiol. 2013;
+79(16):4845-4852. DOI 10.1128/AEM.01209-13
+
+Kwan B.W., Osbourne D.O., Hu Y., Benedik M.J., Wood T.K. Phosphodiesterase
+DosP increases persistence by reducing cAMP which
+reduces the signal indole. Biotechnol. Bioeng. 2015;112(3):588-600.
+DOI 10.1002/bit.25456
+
+Lee J., Jayaraman A., Wood T.K. Indole is an inter-species biofilm signal
+mediated by SdiA. BMC Microbiol. 2007;7:42. DOI 10.1186/
+1471-2180-7-42
+
+Maisonneuve E., Gerdes K. Molecular mechanisms underlying bacterial
+persisters. Cell. 2014;157(3):539-548. DOI 10.1016/j.cell.2014.
+02.050
+
+Mechold U., Potrykus K., Murphy H., Murakami K.S., Cashel M. Differential
+regulation by ppGpp versus pppGpp in Escherichia coli.
+Nucleic Acids Res. 2013;41(12):6175-6189. DOI 10.1093/nar/
+gkt302
+
+Oh Y.T., Lee K., Bari W., Raskin D.M., Yoon S.S. (p)ppGpp, a small
+nucleotide regulator, directs the metabolic fate of glucose in Vibrio
+cholera. J. Biol. Chem. 2015;290(21):13178-13190. DOI 10.1074/
+jbc.M115.640466
+
+Potrykus K., Cashel M. (p)ppGpp: still magical? Annu. Rev. Microbiol.
+2008;62:35-51. DOI 10.1146/annurev.micro.62.081307.162903
+
+Rickenberg H.V. Cyclic AMP in prokaryotes. Annu. Rev. Microbiol.
+1974;28:353-369. DOI 10.1146/annurev.mi.28.100174.002033
+
+Ro C., Cashel M., Fernández-Col L. The secondary messenger ppGpp
+interferes with cAMP-CRP regulon by promoting CRP acetylation in
+Escherichia coli. PLoS One. 2021;16(10):e0259067. DOI 10.1371/
+journal.pone.0259067
+
+Sanchez-Vazquez P., Dewey C.N., Kitten N., Ross W., Gourse R.L.
+Genome-wide effects on Escherichia coli transcription from ppGpp
+binding to its two sites on RNA polymerase. Proc. Natl. Acad. Sci.
+USA. 2019;116(17):8310-8319. DOI 10.1073/pnas.1819682116
+
+Stewart V., Yanofsky C. Evidence for transcription antitermination control
+of tryptophanase operon expression in Escherichia coli K-12.
+J. Bacteriol. 1985;164(2):731-740. DOI 10.1128/jb.164.2.731-740.
+1985
+
+Traxler M.F., Chang D.E., Conway T. Guanosine 3′,5′-bispyrophosphate
+coordinates global gene expression during glucose-lactose diauxie
+in Escherichia coli. Proc. Natl. Acad. Sci. USA. 2006;103(7):
+2374-2379. DOI 10.1073/pnas.0510995103
+
+Traxler M.F., Summers S.M., Nguyen H., Zacharia V.M., Smith J.T.,
+Conway T. The global, ppGpp-mediated stringent response to amino
+acid starvation in Escherichia coli. Mol. Microbiol. 2008;68(5):
+1128-1148. DOI 10.1111/j.1365-2958.2008.06229.x
+
+Wood T.K., Knabel S.J., Kwan B.W. Bacterial persister cell formation
+and dormancy. Appl. Environ. Microbiol. 2013;79(23):7116-7121.
+DOI 10.1128/AEM.02636-13
+
+Yanofsky C., Horn V., Gollnick P. Physiological studies of tryptophan
+transport and tryptophanase operon induction in Escherichia
+coli. J. Bacteriol. 1991;173(19):6009-6017. DOI 10.1128/jb.173.19.
+6009-6017.1991
+
+Yoshimura-Suzuki T., Sagami I., Yokota N., Kurokawa H., Shimizu
+T. DOS(Ec), a heme-regulated phosphodiesterase, plays an
+important role in the regulation of the cyclic AMP level in Escherichia
+coli. J. Bacteriol. 2005;187(19):6678-6682. DOI 10.1128/
+JB.187.19.6678-6682.2005
+
+Zhang T., Zhu J., Wei S., Luo Q., Li L., Li S., Tucker A., Shao H.,
+Zhou R. The roles of RelA/(p)ppGpp in glucose-starvation induced
+adaptive response in the zoonotic Streptococcus suis. Sci. Rep.
+2016;6:27169. DOI 10.1038/srep27169
+
+Zhou X., Meng X., Sun B. An EAL domain protein and cyclic AMP
+contribute to the interaction between the two quorum sensing
+systems in Escherichia coli. Cell Res. 2008;18(9):937-948. DOI
+10.1038/cr.2008.67

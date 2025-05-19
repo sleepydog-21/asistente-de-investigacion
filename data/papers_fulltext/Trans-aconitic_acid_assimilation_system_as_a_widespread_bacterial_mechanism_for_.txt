@@ -1,0 +1,113 @@
+Carbon accounts for about half of the dry weight of microbial cells [
+
+In addition to these traditional carbon sources, there are likely many other important components that play a role in driving the exchange between microorganisms and the environment. For example, the natural product
+
+Genetic validation of the
+
+From 1961 to the present, research on TAA has focused almost exclusively on revealing its remarkable natural occurrence and biological effects, such as killing of plant-parasitic nematodes [
+
+
+
+The bacterial strains and plasmids used in this study are listed in
+
+To construct the
+
+Total RNA of
+
+For purification of TarB membrane protein, a transformed
+
+For Western blot assays, cell lysis and centrifugation methods were similar to those described above. The supernatant and pellet collected after ultracentrifugation at 200 000 rpm (Beckman Coulter Optimal XE-100, USA) for 1 h were samples of the cytoplasm fraction and membrane fraction, respectively.
+
+Chemical standards of CAA and TAA (purity >98%) were purchased from Aladdin (Shanghai, China) and Tokyo Chemical Industry (Japan), respectively. During the preparation of the reaction system, the final concentration of each test enzyme was adjusted and normalized to 1 μM. When TarA activity was set to 100%, the relative AI activities of 16 TarA homologs were calculated based on the ratio of the peak area of product formed by TarA homologues to the peak area of product formed by TarA.
+
+The coding sequences (CDSs) of
+
+FZB42 and Δ
+
+The procedure was done according to the instructions of the Monolith His-Tag labeling kit (NanoTemper Technologies, Germany). Generally, TarB or TarR protein (800 nM) and dye (100 nM) were mixed evenly, incubated for 30 min, and then centrifuged to obtain the supernatant. One micromolar TAA ligand was set as the highest concentration, followed by the preparation of 16 gradient concentrations. Finally, 10 μl of labeled protein was added to each tube and loaded onto a model with a standard capillary. The scanning parameters are MST Power: 40% and LED Power: 80%. Fluorescence was measured using a Monolith NT.115 and data analyzed using MO. Affinity Analysis V2.3
+
+The promoter DNA was fluorescently labeled (
+
+In a 200-μl reaction system, 1 000 ng of 5′-FAM-labeled
+
+Soil was collected from the vegetable field of Hubei Engineering University (30°94′N and 113°91′E), subjected to physical and chemical characterization (
+
+FZB42 or Δ
+
+For genomic data acquisition, a total of 16 986 complete bacterial genomes were obtained from the RefSeq database (updated to March 2023) of NCBI (National Center for Biotechnology Information).
+
+To search for homologous proteins of TarA, TarB, and TarR in bacterial genomes, we used the hmmsearch tool of the HMMER (Version 3.3.2) software package to create an hmm seed file. The specific operations are as follows: Taking TarA, TarB, and TarR protein sequences as query sequences, blastp (Version 2.13.0+) was used to search for homologous proteins in the NCBI database, and the 100 sequences with the highest scores were selected as original sequences. These sequences were then aligned using MAFFT software (Version 7.505), and the hmmbuild tool was used to create an hmm file. Next, blastp was used to align the potential Tar proteins screened from the genomes with the corresponding TarA, TarB, and TarR protein sequences, and proteins with a similarity >30% were defined as Tar homologous proteins.
+
+To construct the phylogenetic tree of TarA and its homologous proteins, all TarA homologous proteins were first clustered at 50% sequence identity using the CD-HIT tool (Version 4.8.1). Then, the protein sequences were aligned using MAFFT software, and the maximum likelihood trees were constructed using Fasttree (Version 2.1.11). Finally, the phylogenetic trees were modified using the ggtree package (Version 3.8.2) in the R language (Version 4.3.1).
+
+A total of 32 environmental samples were collected from Xiaogan city (32°92′N and 113°91′E) and Wuhan city (30°48′N and 114°37′E) in Hubei Province, China (
+
+Twelve out of sixty-six bacterial isolates representing different living environments, including plant-associated (beneficial and pathogenic), animal-associated (pathogenic), and free-living (neutral), were selected for whole-genome sequencing by Bioyi Biotechnology Co., Ltd (China). Each genome sequence of the 12 strains was aligned with the TarA protein sequence using the tblastn tool to identify AI homologous genes.
+
+All our experiments were conducted in three biological replicates and three technical replicates for each treatment, and values are expressed as mean ± standard deviation. One-way ANOVA was conducted using Tukey’s honest significant difference test with an error probability of
+
+AI was proposed as a new enzyme as early as 1961 [
+
+To test whether the
+
+These results genetically confirmed that the operon composed of
+
+To confirm the AI activity of the TarA protein, the interconversion activity of the recombinant TarA-His
+
+AI activity of the TarA protein. (A) HPLC analysis of AI activity of TarA in an
+
+These results demonstrated that
+
+TarB is predicted as a MFS transporter with 12 transmembrane helices via bioinformatics. To verify its function as a cell membrane importer of TAA, the membrane subcellular localization of the TarB protein was first determined. Through a microscope, we observed a strong green fluorescent signal on the cell membrane of the FZB42-TarB-GFP strain, indicating the localization of TarB-GFP fusion protein on the membrane. In addition, only a weak green signal was observed in the cytoplasm due to the dynamic balance of production and loss of TarB-GFP protein (
+
+Characterization of TarB as a TAA membrane importer. (A) Fluorescence micrograph of TarB-GFP fusion protein in the FZB42-TarB-GFP strain, and (B) GFP protein in the FZB42-GFP strain. Scale bar, 2 μm. (C) Western-blot confirmed the presence of TarB in the cell membrane fraction. M: membrane fraction, C: cytoplasmic fraction. (D) MST revealed the binding effect and constant between TarB protein and TAA substrate. (E) LC-Q-TOF-MS analysis of the presence of TAA in the intracellular fractions of FZB42 and Δ
+
+Then, the intracellular contents of FZB42 and Δ
+
+Taken together, these results demonstrate that TarB is a membrane importer of TAA molecules in
+
+We noticed that one gene,
+
+Regulatory properties of TarR. (A) Secondary structure analysis of TarR using the PROSITE tool of the Expasy database. The helix-turn-helix (HTH) motif and DNA-binding site at the N-terminus, and substrate binding region at the C-terminus are indicated. (B) Relative expression of
+
+To test the regulatory function of
+
+As mentioned before, the TarR protein belongs to the LysR transcriptional factor family, and its members usually regulate cellular functions by binding to certain small signaling molecules [
+
+TAA directly binds to TarR protein. (A) MST analysis of the interaction between TarR and TAA, with citric acid (B) as a control. (C) EMSA tests the effect of TAA molecules on enhancing TarR-
+
+In summary, the above results illustrate that the TarR protein first binds to TAA signaling molecules and then binds to
+
+To define the phylogenetic distribution of TAA-assimilation function in bacteria, we screened for the presence of
+
+Phylogenetic distribution of TAA assimilation genes in bacteria. The numbers above each column are the total number of targets in the phylum, including
+
+To further reveal the coverage of TAA assimilation ability within a phylum, the analysis of the ratio of target species within a phylum to total sequenced species of the phylum is also shown (
+
+We collected 32 samples (
+
+Together, these results suggest that TAA assimilation was active and prevalent in bacterial carbon utilization and underscore the importance of TAA as a natural carbon nutrient.
+
+Based on experimental results, we deduced that the function of the TAA assimilation system is to confer a survival advantage to assimilators in natural environments where TAA is present. To test this hypothesis, we examined the growth rate and final populations of the TAA-assimilating strain FZB42 and the non-assimilating strain Δ
+
+Individual and competitive colonization of the TAA assimilator FZB42 and its mutant Δ
+
+To further determine the competitive advantage conferred by the TAA assimilation system in FZB42 when competing with Δ
+
+Here, by studying the model strain
+
+Proposed models for how TAA assimilation confers survival advantage on bacteria in natural environment. TAA metabolites can be secreted by bacteria (such as
+
+The
+
+To our knowledge, all bacterial AIs identified to date exhibit the same enzymatic properties
+
+AI enzyme holds promise for industrial production of TAA via biosynthesis. Novel AI sequences distinct from TarA have the potential to be isolated from bacterial species clustering in Classes I, II, or III in the AI evolutionary analysis (
+
+The identification of the TarB importer following the discovery of the
+
+As early as 1961, it was discovered that TAA metabolism is inducible in bacteria [
+
+The widespread distribution of TAA assimilation systems in the bacterial domain reflects that TAA is a common and important component of the carbon source pool in nature. In addition to free-living or plant-associated environments, TAA molecule was also detected in animals [
+
+Metabolic adaptation, especially to the carbon sources, is a critical determinant of bacterial growth, colonization, and ecological function in different environments [

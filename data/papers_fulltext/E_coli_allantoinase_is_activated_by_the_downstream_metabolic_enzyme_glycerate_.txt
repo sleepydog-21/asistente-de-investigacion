@@ -1,0 +1,109 @@
+Allantoin is abundant in bacteria, fungi, animals and plants as an intermediate of purine degradation via uric acid
+
+Extracellular allantoin is converted to glyoxylate in five steps. The first step involves a putative allantoin transporter YbbW (TC# 2.A.39.3.8), which belongs to the Nucleobase:Cation Symporter Family (TC# 2.A.39), all characterized members of which are transporters.
+
+The allantoin degradation pathway in
+
+The genes encoding the proteins of allantoin utilization are organized in 4 operons within a single gene cluster in
+
+The glyoxylate branch point in allantoin utilization may provide a connection between purine catabolism and amino acid recycling through transamination between the unstable ureidoglycine and glyoxylate. Such an aminotransferase (PucG) has been biochemically characterized in
+
+We have collaboratively investigated the existence of a network of protein–protein interactions (the interactome) in
+
+When the cytoplasmic concentration of the AllR repressor’s effector, glyoxylate, increases, and the AllR-dependent
+
+Here we characterize the allantoin transport activity, catalyzed by YbbW, which we have renamed as AllW, in the presence and absence of AllB. Stability and activity of the AllW transporter were both lost in the absence of AllB. An immunoprecipitation assay showed that no intact AllW protein could be detected following its overexpression in the absence of interaction with AllB, but a large peptide (30 KDa), derived from AllW, was present, providing evidence for proteolysis. An immunoprecipitation assay showed that the presence of glyoxylate stabilizes the interaction between AllW and AllB. AllW-His could be recovered in an intact form when binding AllB, but the same sample in the absence of AllB showed only the 30 kDa sized fragment of AllW.
+
+AllB has an extremely high
+
+To measure allantoin uptake in
+
+To prevent (1) catabolic degradation of allantoate, and (2) any additional protein–protein interaction effects the Δ
+
+Strains and primers used in this study.
+
+As shown in Fig.
+
+AllB activates AllW-mediated allantoin transport. All strains used in this experiment were deleted for the
+
+To examine the AllB-AllW interaction in vivo, we expressed AllW-His from a plasmid, and AllB-Flag using its native chromosomal promoter (Fig.
+
+AllB binds to and stabilizes AllW. FLAG-tagged AllB (AllB-Flag) was detected in total lysates (
+
+Flag-tagged AllB was detected using anti-Flag-tag antibody in a total lysate (Fig.
+
+The AllB protein was overproduced in
+
+For the immunoprecipitation assay, showing the AllB-GlxK interaction, AllB was labelled with a Flag-tag, and the His-tagged GlxK was overproduced from the ASKA collection (Fig.
+
+AllB and GlxK interact in the presence of glyoxylate and allantoin. The interaction of His-tagged GlxK and FLAG-tagged AllB in the presence of glyoxylate or allantoin is shown by immunoblotting. (
+
+Next, we examined the effect of glyoxylate on AllB_Zn activation in the presence of 0.3 μM GlxK (Fig.
+
+GlxK and glyoxylate synergistically activate AllB. (
+
+The AllB kinetics were also measured for the His-tagged purified protein, overproduced in the presence of 2 mM MnSO
+
+Kinetic parameters of AllB_Mn with respect to allantoin in the presence and absence of GlxK and glyoxylate or glycolate.
+
+The V
+
+The effects of a metal ion present in the assay mixture (Mn
+
+Kinetic parameters of GlxK with respect to glycerate in the presence and absence of 0.2 mM MnSO
+
+The V
+
+We used the available structures of the
+
+Docking model showing possible binding site of GlxK in the inter-subunit clefts of the tetrameric AllB. (
+
+Interacting residues for the proposed GlxK–AllB interaction.
+
+GlxK (cyan) 328, 331, 332, 334, 336, 337, 338, 339, 340, 341, 342, 343, 364, 367, 368, 375, 377, 378, 379, 380
+
+AllB:A/C (light green) 128, 129, 165, 166, 167, 168, 191, 194, 195, 198, 201, 202, 226, 230, 318, 319, 320, 323, 330
+
+GlxK (cyan) 296, 299, 300, 326, 328, 329, 330, 331, 332, 333, 334, 336, 345, 350, 351, 352, 353
+
+AllB:D/B (dark green) 128, 129, 131, 148, 149, 163, 165, 166, 167, 168, 170, 189, 191, 222, 226, 230, 320
+
+N-terminal lysine residues 11 and 18 in GlxK are proximal to the active site in AllB, shown as white spheres (Fig.
+
+While the active centre of GlxK is highly conserved (Fig.
+
+In this study we demonstrated protein–protein interaction-dependent regulation of allantoin transport in
+
+Allantoin can be used as a nitrogen source by
+
+Glyoxylate is utilized through a glycolate/glyoxylate interconversion pathway and is an intermediate in the carbon-conserving glyoxylate shunt pathway (Fig.
+
+Poor growth of a
+
+The work described here expands our understanding of how the purine degradative pathway in
+
+Our data suggest that protein–protein interactions provide an important mechanism of metabolic control. In this case, we see how one protein can protect another when bound, and that a downstream enzyme in a pathway can activate a key upstream enzyme by increasing its substrate affinity, accelerating the rate of substrate degradation. In this case, GlxK may be a sensor for the level of the product of metabolism, glyoxylate. If so, it not only functions as a regulatory protein, it also serves as a sensor of the cellular metabolic state. Further studies are likely to reveal many more protein–protein interactions in the regulation of metabolism in all living cells. Elucidation of these interactions is expected to reveal complex networks interrelating many aspects of cellular physiology
+
+Recombinant genes were overexpressed in
+
+For the determination of allantoin uptake, AW11, AW12, and AW13 deletion mutants were constructed (see below and Table
+
+Strains and primers used in this study are described in Table
+
+To construct
+
+Glycerate-2 kinase (GlxK) (homology model, based on 58% sequence identity with PDB id 3CWC:A) was docked to monomeric
+
+Glycerate kinase produces ADP, detected by assay with coupling enzymes, pyruvate kinase (PK) and lactate dehydrogenase (LDH). Oxidation of NADH was followed by measuring the decrease in the absorbance at 340 nm. We added GlxK (10 ng) to 100 μl of a reaction mixture containing 50 mM Tris–HCl buffer, pH 7.4, 10 mM MgSO
+
+The AllB_Mn and AllB_Zn purified protein was assayed by measuring the hydrolysis of allantoin as described
+
+This work does not contain any studies with animals performed by any of the authors.
+
+
+
+Supplementary Information 1.
+
+Supplementary Information 2.
+
+Supplementary Information 3.

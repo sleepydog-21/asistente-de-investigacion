@@ -1,0 +1,155 @@
+The
+
+Phage N4 is the best-studied member of the family
+
+This study focuses on the
+
+Leveraging the power of cryogenic Electron Microscopy (cryo-EM), single particle analysis (SPA), and localized reconstruction
+
+We purified the
+
+Map and model refinement statistics
+
+9BGN/
+
+EMD-44518
+
+9BGM/
+
+EMD-44517
+
+9BGO/
+
+EMD-44519
+
+9COD/
+
+EMD-45776
+
+8VXQ/
+
+EMD-43629
+
+R.M.S. deviations
+
+Bond Length (Å) / Angles (°)
+
+0.002 (1) /
+
+0.6 (15)
+
+0.007 (0) /
+
+0.7 (46)
+
+0.002(0) /
+
+0.6(0)
+
+0.002(0) /
+
+0.6(0)
+
+0.004(3) /
+
+0.7(23)
+
+Phage DEV is ~1,200 Å in length, consisting of an ~800 Å icosahedral capsid with triangulation number T = 9 and a thin ~400 Å tail (Fig.
+
+DEV reconstructions obtained from HF particles and FF virions were identical from the outside, with superimposable coat protein structures. However, HF particles had peculiar rings of density laying against the capsid interior, which we termed cables, but lacked bulk dsDNA inside the capsid and the protein density surrounding the portal perimeter (Fig.
+
+The C12 localized reconstructions of the unique vertex for FF virions and HF particles yielded 3.1 Å and 3.5 Å resolution (Supplementary Fig.
+
+DEV portal protein, gp80 adopts a conserved portal fold
+
+We also identified and de novo built residues 2 to 244 of DEV head-to-tail adapter gp83 (HT-adapter) (Fig.
+
+DEV tail tube, the gene product of ORF75 (gp75, 321 aa), is the last tail factor we built in the C12 localized reconstruction map (Fig.
+
+Both low-resolution C1 density (Supplementary Fig.
+
+Deciphering how the long-tail fiber gp53 attaches to the dodecameric tail tube was challenging. Gp53 is DEV’s equivalent to phage N4 appendages that follow the tail C12 symmetry in this phage
+
+To model the long-tail fiber, we docked 15 copies of gp53 NTB (Supplementary Fig.
+
+To characterize the function of DEV gp53 long-tail fiber and discern its role in phage adsorption, we generated a DEV
+
+The initial localized reconstruction of the FF virion revealed tubular density surrounding the portal wings (Fig.
+
+The hallmark of ejection proteins is that they exist in a pre-ejection conformation in the virion, before genome ejection, and a post-ejection conformation inside the host cell envelope: we referred to these proteins as conformational gymnasts in a recent review
+
+In phage T7 and many
+
+Phage ejection proteins form a channel in the bacterial cell envelope spanning the outer membrane (OM), periplasm, and inner membrane (IM) projecting into the host cytoplasm
+
+The membrane protein gp73 forms a cap onto which gp72 inserts (Fig.
+
+A phage ejectosome requires a continuous channel from the phage head to the bacterium cytoplasm. The cryo-EM structure of gp73 revealed a hollow nonameric channel with an internal diameter wide enough to accommodate DNA ( ~ 25 Å) and hydrophobic helices flowering outbound to gp72 and extensive basic residues, possibly involved in binding lipid A phosphate groups in the bacterial outer membrane (Fig.
+
+DEV’s largest gene,
+
+To identify the region of gp71 that is associated with gp72, we subcloned gp71-N (res. 1–820), gp71-N-RNAP (res. 1–1890), and gp71-C (res. 1891–3398) coding regions (Fig.
+
+To evaluate the possible conservation of the phage ejection machinery described here for DEV, we performed bioinformatics analyzes using the existing annotations from 234 schitovirus genomes available in Genbank as of April 23, 2024. We selected genomes that were assembled as a single contig and for which the best BlastP hit for DEV gp71 and DEV gp73 or N4 gp52 were encoded on the same strand and with an intergenic interval of 2500 nt or less. We subsequently focused on 191 genomes (Supplementary Table
+
+Gp71 homologs are highly divergent, with multiple short blocks of conserved sequence and many large (10-50 aa) indels between clusters of gene products. Around 500 amino acid positions were identified as unambiguously aligned and subjected to phylogenetic analysis under the maximum likelihood criterion (LG substitution model with one invariable and four gamma-distributed variable substitution rate categories). The recovered topology consistently, but not universally, clusters gp71 homologs according to bacterial host annotations (at both the genus and class levels) (Fig.
+
+Gp73 homologs (recovered by similarity to DEV gp73/N4 gp52) show high overall levels of sequence diversity but high levels of conservation within the groups defined by the gp71 tree, consistent with vertical coinheritance with gp71. As for gp71, the C-terminal region, which is proximal to gp72 and exposed above the OM in our model (Fig.
+
+Finally, putative gp72 equivalents are the most divergent of the three ejection proteins. For about 30% of the genomes, candidate gp72 homologs could not be identified by similarity with DEV gp72/N4 gp51. However, a relatively long ORF is consistently annotated between
+
+It has previously been suggested that a lack of cysteine residues in certain phage proteins might reflect the requirement for passage through the host periplasm, which contains proteins that catalyze disulfide bond formation
+
+Infections caused by the Gram-negative pathogen
+
+The mechanisms of
+
+In previous work, we postulated that DEV adsorption to
+
+The results presented in this paper allow us to formulate a model for how DEV attachment to the
+
+Step 1 (Fig.
+
+Three proposed steps of infection are shown: each step is accompanied by distinct conformations of the long and short-tail fibers.
+
+Step 2 (Fig.
+
+Step 3 (Fig.
+
+In summary, we have deciphered the architecture and design principles of a prototypical N4-like phage used in an experimental phage therapy cocktail. We propose that the structural principles elucidated in this work are conserved in other
+
+DEV was prepared for cryo-EM analysis as described
+
+To extract the proteins from phage particles, 0.5 ml of phages purified on double CsCl
+
+20 µg of DEV virion proteins extracted as described above from phages purified on CsCl
+
+A culture of
+
+The constructs were expressed in the LOBSTR
+
+2.5 µl of DEV mature virions at 1 × 10
+
+All steps of SPA were carried out using RELION 3.1.2
+
+All de novo atomic models presented in this paper were built using Coot
+
+Genome sequences labeled schitovirus, as well as associated off annotations and protein sequences, were downloaded from Genbank (23/04/2024) using the NCBI datasets API (
+
+All renderings of protein structures and map surface representations were generated using ChimeraX
+
+Lipid bilayer experiments were performed using a silicon chip with a SU-8 aperture of 100 µm diameter
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review File
+
+Reporting Summary
+
+
+
+Source data

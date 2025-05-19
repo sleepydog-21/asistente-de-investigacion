@@ -1,0 +1,73 @@
+Tetracycline is a broad-spectrum antibiotic, and it is widely used for human therapy, veterinary purposes, and agricultural purposes (
+
+Cyclic diguanylate (c-di-GMP) is a ubiquitous bacterial second messenger that regulates diverse physiological processes (
+
+In
+
+Previous studies have revealed that surface growth activates the Wsp system, resulting in elevated c-di-GMP levels and biofilm formation (
+
+Previous studies showed that antibiotics (such as tetracycline) at sub-MICs stimulated biofilm formation in
+
+Tetracycline treatment increases biofilm formation and c-di-GMP level. (
+
+The genome of
+
+The effects of c-di-GMP metabolism-related genes on the tetracycline-mediated biofilm promotion. Photos of biofilm on glass tubes in The absence and presence of tetracycline were shown above. The biofilm on glass tubes was assayed 10 h after adding 6 µg/mL tetracycline or an equal amount of control solvent (ethanol). The biofilm change rate of indicated strains after tetracycline treatment (below) was calculated based on crystal violet stain assay results. The results are the average of three independent assays. The data represent mean values with standard deviations. The asterisk above the column represents a significant difference between the indicated mutant and wild-type strain analyzed by Student’s
+
+To investigate how WspR was involved in the tetracycline-mediated biofilm promotion, we made two hypothesizes: (i) tetracycline-treatment induces the expression of
+
+Tetracycline treatment promotes
+
+To further test the effect of tetracycline on
+
+According to the gene annotation in the Pseudomonas Genome Database (
+
+The effect of tetracycline treatment on the activity of
+
+To test if internal promoters existed in the
+
+To figure out how tetracycline promotes
+
+Our previous study revealed that the deletion of the sigma factor RpoS decreased
+
+RpoS directly and positively regulates the activity of P
+
+To investigate the role of RpoS in the tetracycline-mediated P
+
+RpoS is required for the tetracycline-mediated biofilm increase. (
+
+Biofilms are assemblages of surface-attached microbial cells embedded in a self-produced extracellular matrix (
+
+The Wsp signal transduction system is a conserved and dominant c-di-GMP-producing system involved in biofilm formation and several other cellular processes in
+
+Our previous results demonstrated that deletion of the stress-responsive sigma factor RpoS caused a decrease in
+
+In conclusion, our results showed that tetracycline treatment induced the expression of the Wsp system via RpoS in
+
+The strains and plasmids used in this study are listed in
+
+Strains and plasmids used in this work
+
+The routine cloning of DNA fragments into plasmid followed a T5 exonuclease-dependent method (
+
+Primers used in this work
+
+The protective bases and restriction site regions of the primers are indicated by underlining.
+
+Total RNA from exponentially growing cells was extracted with a total RNA extraction reagent (Vazyme R401-01, China) as recommended by the manufacturer. Contaminated genomic DNA digestion and reverse transcription were performed using a PrimeScript RT reagent kit (Takara RR047A, Japan). Primers used for RT-PCR were designed at the junction between two genes (
+
+Total RNA extraction, contaminated genomic DNA digestion, and reverse transcription were performed as described above. When tetracycline was involved in the qPCR assay, strains were precultured in LB medium without tetracycline for 6 h. Then, tetracycline (final concentration 6 µg/mL) was added to the culture, and strains were incubated for another 3 h before the cells were harvested for RNA extraction. An equal amount of solvent (ethanol) was added to the culture for the control group. Primers used for qPCR are listed in
+
+Overnight cultures harboring a promoter-
+
+The biofilm-forming ability was quantitatively analyzed using crystal violet (CV) staining. Briefly, overnight cultures of
+
+The flow chamber system was assembled by modifying the previously described method (
+
+Overnight
+
+Overnight culture of
+
+EMSA was used to test the interaction between RpoS and promoter DNA. Fragments of
+
+To analyze the significance of differences in biofilm biomass, gene expression, LacZ activity, and c-di-GMP level, Student’s

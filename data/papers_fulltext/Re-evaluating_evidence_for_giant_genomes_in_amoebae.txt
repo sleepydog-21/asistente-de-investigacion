@@ -1,0 +1,49 @@
+An amoeba is a unicellular organism with the ability to dynamically alter its shape and movement. These plastic movements are executed by pseudopods, a temporary extension of the cytoplasm promoted mostly by an actin-myosin network (
+
+
+
+Some amoebae are familiar to the general biologist audience, featuring as exemplary single-celled organisms in biology text-books:
+
+Measures of genome size have varied historically. Most sources agree that a useful standard measure is the total amount of DNA contained within the haploid complement of a given genome, canonically termed the C-value (
+
+There are two kinds of issues when estimating amoeba genome sizes. The first kind relates to intrinsic biological characteristics of the organisms. The second kind stems from methodological problems. In this section, we will summarize the main empirical works and their approaches, while pointing out methodological concerns. Further, we will address biological aspects that are common to all approaches.
+
+Carl T. Fritz provided some of the first measurements of amoeboid genomes using the weighted fraction measurement method (
+
+An important context regarding amoeba names deserves mentioning: the taxonomic identification of amoeboid organisms is a centuries-old challenge. This is because cultures are unstable, and there are no reliable methods to preserve useful long-term name-bearing types, or vouchers (
+
+Currently, Fritz’s experimental method is widely considered inaccurate and has been abandoned, at the same time, the specific interpretation given by the author was called into question by many others and reviewed in Byers (
+
+Byers and others (
+
+Further, amoebae are predatory organisms. With few exceptions (
+
+In conclusion, the original estimates of amoeboid genome size that were based on DNA weight methods are overestimations most likely due to contaminant endosymbiont and prey DNA, but are also biased due to intrinsic genomic architecture mechanisms such as full-genome polyploidization, or copy number variation of a specific chromosome encoding the ribosomal operon.
+
+Historically, chromosome number served as a secondary, independent method for estimating genome size in amoebae. This is a historical issue: perhaps earlier researchers reasoned that more chromosomes should mean a larger genome. Importantly, many of these reports were executed long before the concept of a C-value was established, as such, the possibility that many chromosomes could also mean high ploidy has not been taken into account in most works. Some reports suggested that
+
+To address these challenges and conflicting reports, Mariia Berdieva and colleagues employed new techniques to karyotype Amoeba proteus (
+
+Perhaps the most insidious aspect of this historical sequence of inaccurate estimations of amoeboid genome sizes, is their introduction into educational material and scientific popularization books. Unfortunately, this is a much harder trail to reconstruct. These types of sources are not as well indexed as peer-reviewed scientific articles. The most relevant of them will be undergraduate or high-school level text-books printed in a variety of native languages, and access to them is quite complicated, even in the era of hyper communication. We can find examples over recent decades, such as in scientific popularization magazines in Spain (
+
+
+
+We estimate that this myth originates in the early 21st century. The first traceable popular reference is from a science dissemination book originally printed in 2005 (
+
+A high number of foreign gene acquisitions have been putatively identified in Amoebozoa genomes. Amebae are grazers of environmental bacteria and also have obligatory, transient and permanent associations with bacteria that participate in their metabolism (
+
+Another source of genomic alteration via lateral gene transfer in amoebae are their relations with viruses, notably giant viruses. Since the discovery of mimivirus, numerous giant viruses associated with free-living amoebae have been described. The genome of giant viruses can be more than 2.5 megabases, and virus particles can exceed the size of many bacteria. The main hosts of giant viruses (e.g., tupanvirus, faustovirus and kaumoebavirus, (
+
+A number of species of amoebozoans have been sequenced in the past 2 decades, but genomic analyses have been mostly limited to model organisms or medically important lineages. Consequently, the vast diversity of Amoebozoa genomes still remain largely unexplored, and an effort into sequencing diverse amoebae would be more than welcome (
+
+
+
+After much controversy over the years, the vast amounts of sequenced genome data enabled the characterization of a strong linear relationship between number of protein coding genes and genome size for eukaryotic organisms (
+
+
+
+With a model in hand, we estimated the number of genes in the
+
+Using this data in the above formula we estimated the genome size of
+
+We have demonstrated here that there is no factual reason to think amoebozoa genomes should be exceptionally large. Firstly, all amoebozoans with a fully sequenced genome have a C-value between 14.40 and 52.37. Further, taking into account the natural history of ameba species as predators of bacteria and hosts of a wide variety of endosymbionts (including both bacteria and giant viruses), indicates that direct measures of DNA weight from amoebal cells will inevitably overestimate the amoeba’s genome size. Additionally, most amoebae are autopoliploid, and all amoebae that have a fully sequenced genome encode their ribosomal operon in a single smaller and circular chromosome that is copied many times. These observations indicate that measures of genome size based on isolated nuclei are also compromised. Finally, we present a statistical projection based on protein-coding gene numbers extracted from transcriptomic studies. Our projections indicate that the genome size of the classical

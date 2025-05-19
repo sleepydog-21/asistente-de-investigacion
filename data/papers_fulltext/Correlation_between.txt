@@ -1,0 +1,49 @@
+Bile acid (BA) metabolism is an important pathway involved in regulating metabolic homeostasis and is modulated by intestinal microbiota. These regulations include lipid and glucose metabolism, energy production, and inflammatory signaling [
+
+In the distal portion of the gastrointestinal tract, the microbiota plays a crucial role in two essential metabolic functions related to conjugated and unconjugated BAs that escape reabsorption: the deconjugation of glycine- and taurine-conjugated bile acids; and the conversion of primary to secondary fecal unconjugated bile acids (fUBA) [
+
+Dysmetabolism of BAs has been linked to chronic enteropathy (CE) in dogs [
+
+In this retrospective study, leftover fecal samples from a previously published study were used [
+
+As previously described by Pilla et al. [
+
+The DNA from fecal samples was isolated using the MoBio Power Soil Kit (MO BIO Laboratories, Inc., Carlsbad, CA, USA), following the manufacturer’s instructions. The DNA concentration used for the assays was 5 ng/µL, and the qPCR assay was performed using SsoFast EvaGreen
+
+The specificity of the
+
+Using a ten-fold dilution of the purified plasmid, the standard curve for the DNA quantification was conducted. The log amount of DNA (number of copies) per 10 ng isolated from total DNA was used to express the qPCR results. The amplicon length, melting peak temperature, efficiency of the qPCR assay, and the coefficient of determination (R
+
+The concentration of primary fUBA (CA and CDCA) and secondary fUBA, (LCA, DCA, and ursodeoxycholic acid (UDCA)) were measured using the gas chromatography with mass spectrometry method (GC-MS), as previously described by Blake et al. [
+
+Shapiro–Wilk’s test was used for the normality assessment of the data. Spearman’s test was employed to assess the correlation between the abundance of
+
+The abundance of
+
+The relative concentration of secondary fUBA (LCA and DCA) decreased during the period when animals were receiving the antibiotic (
+
+Spearman’s rank correlation was computed to assess the relationships between
+
+The effects of the oral metronidazole and hydrolyzed protein diet on the assessed variables (secondary fUBA relative concentration and abundances of both
+
+The correlation between
+
+Unlike many other metabolic pathways, where distinct bacterial species share the same function (for example, the bile salt hydrolase activity), the
+
+In our study, dogs exhibiting higher levels of secondary fUBA relative concentration and lacking
+
+Regarding the specificity of the
+
+Although the hypothesis of conversion from other bacterial species was not excluded in our study, the strong correlation suggests that
+
+Reduced secondary fUBA levels have been found in puppies with physiological dysbiosis due to an immature microbiome in the first few months of life, in dogs with CE, and in dogs receiving antibiotics such as tylosin and metronidazole [
+
+The hydrolyzed protein diet did not affect secondary fUBA relative concentration or
+
+Among the limitations present in our study, we chose to use healthy dogs with antibiotic-induced dysbiosis due to the consistent and severe changes in the microbiota observed in those animals treated with metronidazole. However, antibiotic-induced dysbiosis may lead to slightly different changes in the intestinal microbiota composition when compared to CE. In dogs, CE is typically subdivided into phenotypes based on the animal’s response to the therapy. Typically, these animals exhibit more pronounced degrees of changes—for example, increased permeability and increased production of pro-inflammatory cytokines—due to the chronic nature of this disease, which is not observed in antibiotic-induced dysbiosis in healthy animals [
+
+Bile acid conversion seems to be a field that requires further development in veterinary medicine. Bile acid conversion in vivo is an intricate and complex metabolic process that can involve several different pathways, such as the 3α-hydroxysteroid dehydrogenase, 7α-hydroxysteroid dehydrogenase, 12α-hydroxysteroid dehydrogenase, and 7 α-dehydroxylation pathways [
+
+Although the
+
+In summary, our study confirms the strong correlation between

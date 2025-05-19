@@ -1,0 +1,117 @@
+Roughly one-fourth of the world population has been infected with
+
+Gene expression in bacteria is primarily regulated at transcription initiation, beginning with the formation of the RNA polymerase (RNAP) holoenzyme, which requires the binding of the core RNAP to a σ factor. This complex recognizes promoter DNA, initiating gene expression programs that enable the bacterium to respond to different conditions.
+
+Beyond σ factors, transcription in
+
+Another critical factor influencing transcription in
+
+This interplay between σ factors, transcription regulators, DNA topology, and promoter architecture is particularly relevant for rRNA transcription, a process that governs protein synthesis and cellular energy balance (
+
+To better understand how σ factor identity, promoter usage, transcription factors like CarD and RbpA, and DNA topology collectively regulate rRNA transcription, we measured steady-state transcription rates across hundreds of reconstituted conditions using a real-time fluorescent-aptamer-based assay (
+
+The mycobacterial rRNA operon belongs to the
+
+Here, we systematically examined the effects of σ
+
+The data show that σ
+
+We also asked whether there may be cooperative effects on the steady-state rate of transcription due to the presence of both promoters,
+
+Sigma-factor concentration and availability varies subject to cell growth phases and environmental signals (
+
+Given the stark decrease in V
+
+Both factors alone and together repress σ
+
+In an effort to determine the underlying features that bring about the large changes in V
+
+We first looked at the approach to equilibrium in the forward direction by mixing DNA and RNAP in the absence of NTPs and tracking the fluorescence increase (
+
+We also noted that the σ
+
+Given the nearly two-orders of magnitude in reduction of the steady-state rate for the σ
+
+By the process of elimination, these data suggest that in addition to slower open complex formation (
+
+Above, we showed that σ
+
+To test these two possibilites, we performed our kinetic stopped flow assays for each σ factor-containing holoenzyme in the presence of CarD and RbpA individually and combined (
+
+Knowing that DNA topology dramatically affects the energy landscape of DNA unwinding (
+
+We first measured basal rates with either σ
+
+In the presence of CarD, and agreeing with previous observations (
+
+CarD has a limited effect on the transcription rates of σ
+
+Given the stark disparity in rRNA transcription rates between σ
+
+Using a mutant version of σ
+
+The expression of ribosomal rRNA genes is tightly regulated in response to environmental signals. Both the housekeeping sigma factor A (σ
+
+Our steady-state measurements show that
+
+Taken together, our results suggest that despite observations of σ
+
+Our kinetic measurements revealed that σ
+
+We also note work showing that N terminally tagged σ
+
+In the context of superhelical templates, the presence of CarD and RbpA exert opposite effects on σ
+
+To distinguish between these models, we examined the effects of the CarD and RbpA on three key aspects of initiation kinetics using a fluorescence stopped-flow assay as previously described (
+
+Thus, we are left with a mixture of the two models. Overall, the direction of the regulatory outcome arises from a shared transcription factor mechanism modulated by the basal initiation kinetics of each promoter/holoenzyme system. Quantitatively, there also appears to be molecular specificity, with RbpA showing a preference for enhancing σ
+
+Negatively supercoiled DNA is maintained during growth by a balance between ATP-dependent DNA gyrase and other topoisomerases (
+
+Given the influence of supercoiling on transcription, we investigated how superhelical density affects transcription driven by each σ factor. Consistent with early
+
+To understand how the intersection of superhelicity and transcription factors influence rRNA transcription, we examined the effects of CarD and RbpA across different σ factor and superhelical contexts. Remarkably, we found that each factor individually, or both factors combined, generated a flip in the dependency of σ
+
+In the case of σ
+
+On a practical experimental level, we emphasize the need to carefully control for DNA template topology in
+
+Finally, to explore potential structural determinants of the observed differences between σ
+
+Under the conditions explored in this paper, truncation of the first 205 amino acid residues of the σ
+
+Given the dramatic effect of the N-terminal extension on basal and regulated kinetics measured here, we stress that σ factor comparisons made throughout this work utilized untagged proteins to avoid potential artefacts of non-native sequences. Clearly, the N-terminus has the potential to alter the complex energetics and kinetics of interactions between σ factors, the RNAP core, and the DNA template.
+
+It is tempting to hypothesize about the regulatory advantage provided by the N-terminal extension into
+
+In conclusion, ribosomal transcription in
+
+For all final DNA construct sequences used in this work, see
+
+For the preparation of topologically different DNAs, the plasmid purified from the Qiagen Maxi Prep Kit (12963) was more than 90% supercoiled, estimated by the relative abundance of the bands on the agarose gel (
+
+A Linear 150 bp template containing the
+
+A summary of all expression constructs used can be found on the
+
+To obtain the
+
+Co-expression/purification of the
+
+All sigmas were then dialyzed into storage buffer as described for RNAP core and concentrated to ~40 μM (5 kDa MWCO Vivaspin filters, Sartorius, F27335) using extinction coefficients of 35,410 M
+
+For all experiments, data was collected using a CLARIOstar Plus Microplate reader (BMG LabTech) in a 384 well, low volume, round-bottom, non-binding polystyrene assay plate (Corning, 4514) with the corresponding Voyager analysis software. To measure multi-round and single-round transcription kinetics in real-time, we monitored the change in DFHBI fluorescence upon binding to a transcribed, full-length RNA sequence containing the iSpinach D5 aptamer. DFHBI fluorescence was measured with a monochromator excitation of 480 ± 15 nm, and the resulting emission signal was monitored at 530 ± 20 nm. To measure dissociation of promoter-bound complexes, Cy3 fluorescence was measured with a monochromator excitation of 535 ± 30 nm, and the resulting emission signal was monitored at 585 ± 30 nm. All reactions were at 10 μl final volume following initiation with 2.5 μl (single- and multi-round experiments) or 5 μl (dissociation experiments) from automated reagent injectors (BMG LabTech). Based on the volumes added for each corresponding buffer addition and concentrated stock component, the final solution conditions were 20 mM Tris (pH 8.0 at 37°C), 40 mM NaCl, 75 mM K-glutamate, 10 mM MgCl
+
+Transcription reactions were performed with rNTPs (Thermo Scientific, R0481) at 1 mM, 3,5-difluoro-4-hydroxybenzylidene imidazolinone (DFHBI) dye (Sigma Aldrich, SML1627) at 20 μM, and RiboLock RNase inhibitors (Thermo Scientific, EO0381) at 0.4 U/μl. DFHBI concentration was determined using an extinction coefficient at 420 nm of 31,611 M
+
+To promote single-round conditions by preventing dissociated/terminated RNAPs from rebinding the promoter template, salmon-sperm DNA (Thermo Fisher Scientific, 15632011) was used as a competitor. Competitor DNA was buffer exchanged in transcription buffer and concentration was determined by A
+
+Dissociation of RNAP-promoter bound complexes experiments were adapted from previous methods described using stopped-flow rapid mixing (
+
+For all experiments, data was collected at 37°C using a SX-20 stopped-flow spectrophotometer (Applied Photophysics) with excitation provided by a 535 nm fixed-wavelength LED light source with a 550 nm short pass cut-off filter (Applied Photophysics), while monitoring emission using a 570 nm long pass cut-off filter (Newport Optics), as previously described (
+
+For experiments comparing the basal kinetics of
+
+100 nM σ
+
+Concentrations used for monitoring RNAP dissociation are identical to those described above for dissociation measurements using the plate-reader assay. Here an equal volume of 50 μg/ml salmon-sperm competitor DNA was mixed with the co-expressed/purified holoenzyme, and the linear

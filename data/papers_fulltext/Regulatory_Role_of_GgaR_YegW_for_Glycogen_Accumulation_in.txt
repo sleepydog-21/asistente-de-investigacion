@@ -1,0 +1,55 @@
+Glycogen accumulation occurs in
+
+In
+
+In transcriptional regulation, full-length
+
+To understand the overall picture of genomic transcriptional regulatory mechanisms, it is necessary to understand the functions of a set of
+
+A ChIP assay was used to measure the chromosome-wide DNA-binding profile of GgaR using the experimental protocols described by Shimada et al. [
+
+The plasmid (pGgaR) for the purification of GgaR was constructed as described by Shimada et al. [
+
+A gel shift assay was performed according to standard procedures [
+
+Total RNA was extracted from
+
+The intracellular accumulation of glycogen was qualitatively detected using staining cell pellets with an iodine solution (0.01 M I
+
+Glycogen measurements were performed according to the method described by Iijima et al. (2021) [
+
+Crystal violet staining was performed as described previously [
+
+A single
+
+RT-qPCR was performed according to standard procedures [
+
+Western blot analysis was performed using a standard method, as described previously [
+
+To reveal the regulatory role of the transcription factor GgaR (renamed YegW), we used ChIP to identify the binding of GgaR across chromosomes of growing
+
+Using in vivo ChIP–chip screening, we identified two adjacent GgaR-binding sites in the
+
+Next, we analyzed the binding of GgaR to various segments of the
+
+Based on the in vivo ChIP–chip and in vitro gel shift assay results, the involvement of GgaR in the regulation of the
+
+To date, GgaR is a functionally unknown transcription factor; however, this study shows that it is a repressor of the
+
+In this study, we investigated the effect of
+
+Glycogen is an energy storage compound that plays an important role in bacterial environmental viability. Wang et al. [
+
+In
+
+To verify the effect of GgaR activity in vivo, the amount of GgaR target mRNA was measured using RT-qPCR. First, to confirm the validity of the experimental method, the target mRNA levels in the wild-type and
+
+In this study, the effects of GgaR on glycogen accumulation were tested using KM, a rich medium that promotes glycogen accumulation in
+
+GgaR is a single-target TF that senses ADPG and represses the
+
+Understanding the regulatory networks of genome transcription involving all seven sigma factors and all 300 TFs and identifying the association between each of these regulatory proteins and their direct targets is a major issue. We have previously elucidated the functions of more than 10 TFs of unknown function based on the identification of genomic transcriptional regulatory networks [
+
+Although no clear function is known for any of the genes of the
+
+Although screening for the genes involved in the glycogen metabolism has been conducted several times for all genes in

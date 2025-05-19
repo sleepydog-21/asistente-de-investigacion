@@ -1,0 +1,11 @@
+{
+  "id": "40021638",
+  "title": "Transcriptional diversification in a human-adapting zoonotic pathogen drives niche-specific evolution.",
+  "doi": null,
+  "authors": "Ghosh S, Wu CJ, Moller AG, Launay A, Hall LN, Hansen BT, Fischer ER, Youn JH, Khil PP, Dekker JP",
+  "journal": "Nature communications",
+  "year": "2025",
+  "abstract": "Bacterial pathogens can undergo striking adaptive evolutionary change in the context of infection, driven by selection forces associated with host defenses and antibiotic treatment. In this work, we analyze the transcriptional landscape associated with adaptation in an emerging zoonotic pathogen, Bordetella hinzii, as it evolved during a 45-month infection in an IL12Rβ1-deficient immunocompromised host. We find evidence of multiple niche-specific modifications in the intravascular and gastrointestinal compartments, involving the superoxide dismutase system, glutamate and ectoine metabolism, chaperone-mediated protein folding, pilus organization, and peptide transport. Individual blood lineages displayed modifications in glutathione, phenylacetate, and 3-phenylpropionate metabolism, iron cluster assembly, and electron transport, whereas individual gastrointestinal lineages demonstrated changes relating to gluconeogenesis, de novo pyrimidine synthesis, and transport of peptides and phosphate ions. Down regulation of the flagellar operon with corresponding loss of flagellar structures occurred in multiple lineages, suggesting an evolutionary tradeoff between motility and host immune evasion. Finally, methylome analysis demonstrates alteration of global genome methylation associated with loss of a Type III methyltransferase. Our findings reveal striking plasticity in how pathogen transcriptomes explore functional space as they evolve in the context of host infection, and demonstrate that such analysis may uncover phenotypic adaptations not apparent from genomic analysis alone.",
+  "source": "PubMed",
+  "pmcid": "PMC11871327"
+}

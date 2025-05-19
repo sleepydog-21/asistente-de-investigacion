@@ -1,0 +1,11 @@
+{
+  "id": "39792952",
+  "title": "A Helicobacter pylori flagellar motor accessory is needed to maintain the barrier function of the outer membrane during flagellar rotation.",
+  "doi": null,
+  "authors": "Rosinke K, Tachiyama S, Mrásek J, Liu J, Hoover TR",
+  "journal": "PLoS pathogens",
+  "year": "2025",
+  "abstract": "The Helicobacter pylori flagellar motor contains several accessory structures that are not found in the archetypal Escherichia coli and Salmonella enterica motors. H. pylori hp0838 encodes a previously uncharacterized lipoprotein and is in an operon with flgP, which encodes a motor accessory protein. Deletion analysis of hp0838 in H. pylori B128 showed that the gene is not required for motility in soft agar medium, but the mutant displayed a reduced growth rate and an increased sensitivity to bacitracin, which is an antibiotic that is normally excluded by the outer membrane. Introducing a plasmid-borne copy of hp0838 into the H. pylori Δhp0838 mutant suppressed the fitness defect and antibiotic sensitivity of the strain. A variant of the Δhp0838 mutant containing a frameshift mutation in pflA, which resulted in paralyzed flagella, displayed wild-type growth rate and resistance to bacitracin, suggesting the fitness defect and antibiotic sensitivity of the Δhp0838 mutant are dependent on flagellar rotation. Comparative analysis of in-situ structures of the wild type and Δhp0838 mutant motors revealed the Δhp0838 mutant motor lacked a previously undescribed ring structure with 18-fold symmetry located near the outer membrane. Given its role in formation of the motor outer ring, HP0838 was designated FapH (flagellar accessory protein in Helicobacter pylori) and the motor accessory formed the protein was named the FapH ring. Our data suggest that the FapH ring helps to preserve outer membrane barrier function during flagellar rotation. Given that FapH homologs are present in many members of the phylum Campylobacterota, they may have similar roles in protecting the outer membrane from damage due to flagellar rotation in these bacteria.",
+  "source": "PubMed",
+  "pmcid": "PMC11756786"
+}

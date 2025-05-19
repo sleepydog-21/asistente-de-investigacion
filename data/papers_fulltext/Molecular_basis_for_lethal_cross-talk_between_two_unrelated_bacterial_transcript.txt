@@ -1,0 +1,107 @@
+Control of bacterial gene expression is one of the most intriguing examples of biological plasticity in response to changing environmental conditions (
+
+The TFs comprise a fairly high fraction of the entire gene set in
+
+In a recent report, we studied the TF-controlled Csp231I restriction-modification (R-M) system, during transfer to a new host, in real-time (
+
+Model for horizontal gene transfer event (HGT) of the TF-linked R-M operon into a new host. If entering foreign TF (red) interferes with one or more host TFs (blue), there may be negative consequences for the recipient cell, up to and including lethality. In our model, the C regulatory protein from an R-M system participates in cross-talk with the RacR repressor, from the defective
+
+
+
+The genes for selected TFs were cloned downstream of the arabinose-inducible P
+
+For the C-terminally-His-tagged C protein (WT, or Cmut with A33G R34E Q37A, unable to bind its target site), as well as the RacR repressor, overproduction and purification were performed as before (
+
+DNA substrates (271 bp) were PCR-amplified using fluorescently Cy5-labeled primer at one end (
+
+Protein-DNA binding reactions were performed with 20 nM DNA in 20 μl of the following buffer: 10 mM Tris–HCl (pH 8.0), 10mM MgCl
+
+
+
+Transcription start points of the
+
+Single round
+
+The C protein gene was fused to the mVenus fluorescent protein gene, and tested for use in SMT technology (
+
+We showed previously that operon transfer of the Csp231I R-M system, carrying the C regulator as TF, heavily affected the expression of several genes within the
+
+C protein cross-talk in the context of TF effects on the
+
+The same set of TFs was used in an identical approach to test the
+
+We next tested if the observed
+
+The C protein and RacR bind to the
+
+In addition, we also performed competitive EMSA reactions with one repressor pre-bound to DNA, in order to detect a possible interference in binding between these two repressors (Figure
+
+To reinforce the binding assay results, and to confirm that the reduction in RacR expression was due to direct C protein binding to the
+
+Mapping of the C protein off-target (Rac) site by DNaseI footprinting. (
+
+In addition, we also performed DNaseI footprinting of C protein within the
+
+To verify and further investigate the process of induction of cell toxicity
+
+Mapping of the transcription start sites within the
+
+The positions of identified promoter sequences were confirmed by directed mutagenesis of −10 boxes followed by
+
+In contrast, the same approach identified only a single primer extension product for the
+
+In addition, we also asked how RacR repressor exerts its TF inhibiting property by binding to its promoters under
+
+We tried to determine a distinct sequence motif within the protected sequence (Figure
+
+RacR repressor homologs and their putative operators within the
+
+Next, we performed
+
+We found, that P
+
+The effect of C protein and RacR on transcription initiating from the P
+
+In contrast, the C protein inhibits all P
+
+It has recently been shown that mobility of DNA binding proteins is largely determined by non-specific DNA interactions, and that the size of the proteins has very little influence on their diffusion properties (
+
+A typical TF’s action relies on a mixture of free diffusion and scanning of the cellular DNA
+
+Different genetic contexts were designed to test the dynamics of C protein mobility: (a) the natural context of a single C-box target site in the ∼5 Mbp
+
+Single molecule tracking of C protein::mVenus reveals considerable changes in mobility in the context of the target and off-target sites. (
+
+These experiments suggest that C protein is strongly bound to the RM gene C-box locus, which is duplicated into two loci following DNA replication. Of note, any freely diffusing molecule can stay without motion for some time, so confinement will be somewhat convoluted with non-bound molecules, or molecules staying bound in a non-specific manner for some period of time. In
+
+An off-target site in
+
+As a further means to characterize target DNA-binding binding versus off-target binding, we used squared displacement (SQD) analysis, in which the probability of a certain jump distance (JD) is plotted, and data are fit with Rayleigh distributions that explain a probability distribution for nonnegative-valued random variables. JDs observed for C protein could not be explained by a single Rayleigh fit, but quite well by two distributions (
+
+SQD analyses revealed that in the
+
+In any event, the presence of a genomic off target site leads to a decrease in freely diffusing molecules, and an increase in medium – and slow-diffusing C protein. Of note, experiments were performed in rich medium, such that there are likely two to 4 off target sites on average in the growing culture (overlapping rounds of replication). Constrained motion (as derived from the medium mobile population) further increased by the addition of target sites on plasmids, and likewise slow/static motion. Thus, changes in binding-site availability lead to considerable, but not drastic changes in C protein mobility. Our data also suggest that specific binding sites on the chromosome (in this case the ‘off target’ sites) increase low protein mobility (specific DNA binding) to a similar extent as specific binding sites on several plasmids (C protein ‘target’ sites), or even more so in the
+
+Full knowledge of a complete bacterial transcriptional genetic network does not exist. While
+
+In the course of our previous work, we noticed that upon
+
+It has been suggested that the transcriptional cross-talk is more likely to occur for TFs recognizing shorter DNA sequences or partially degenerate ones, where there is a high chance that many less specific sites are present at genome (
+
+Guided by the RNA-seq data we obtained earlier (
+
+The cross-talk spot in the context of rac prophage region of
+
+We predict the C protein dimer rather than a monomer to interact with its off-target site, which is in accordance with the DNaseI protection region (Figure
+
+Theoretical models have tried to outline possible scenarios for cross-talk interactions and to test whether gene misregulation can affect adaptive gene expression (
+
+The finding that the C protein binds with high affinity to both the promoter region of the R-M system as well as to the
+
+The Rac prophage was the first defective lambdoid prophage discovered in
+
+Based on the analogy to the intergenic region of λCI and λCro, as well as other observations indicating possible three binding sites for RacR repressor (
+
+Recent studies on the
+
+Click here for additional data file.

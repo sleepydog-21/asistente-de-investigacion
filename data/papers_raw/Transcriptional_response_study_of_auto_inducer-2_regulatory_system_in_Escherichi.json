@@ -1,0 +1,11 @@
+{
+  "id": "40181275",
+  "title": "Transcriptional response study of auto inducer-2 regulatory system in Escherichia coli harboring bla",
+  "doi": null,
+  "authors": "Deshamukhya C, Ahmed S, Das BJ, Chanda DD, Bhattacharjee A",
+  "journal": "BMC microbiology",
+  "year": "2025",
+  "abstract": "The emergence of carbapenem resistance in gram-negative bacteria such as Escherichia coli is one of the world's most urgent public health problems. E. coli, which encounter a diverse range of niches in host can rapidly adapt to the changes in surrounding environment by coordinating their behavior via production, release and detection of signal molecules called autoinducers through a cell density dependent communication system known as quorum sensing. Here, in this study we investigated whether imipenem, and acyl homoserine lactone quorum sensing signal molecules influence the transcriptional response within lsr and lsrRK operon which are associated with auto inducer-2 mediated quorum sensing in E. coli. Two E. coli isolates carrying bla The findings of this study highlight the distinct effects of imipenem and AHL on the transcriptional responses of the lsrB,lsrR, and lsrK genes in native type, plasmid cured type, transformant, and E. coli DH5α. This study provides a basis for further research to elucidate different inducing conditions including antibiotics and autoinducers that could switch on the quorum sensing circuit in carbapenem non-susceptible E. coli, one of the world's most urgent public health threats.",
+  "source": "PubMed",
+  "pmcid": "PMC11967149"
+}

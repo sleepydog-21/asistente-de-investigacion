@@ -1,0 +1,133 @@
+Colistin, a polycationic peptide, serves as a last-resort antimicrobial, which can be used to treat infections caused by multidrug-resistant (MDR), extensively drug-resistant (XDR), and pan-drug-resistant (PDR) Gram-negative bacteria (
+
+The binding of colistin to bacterial cells is initiated by an electrostatic attraction between the colistin cationic head group and the anionic phosphate group on the lipid A of the bacterial lipopolysaccharide (LPS), which displaces Ca
+
+
+
+Some Gram-negative bacteria (e.g.,
+
+Interestingly, MCR proteins share a high degree of sequence and structural similarity with i-PET enzymes present in many Gram-negative bacteria (
+
+As of April 2022, ten major groups of MCR proteins have been defined based on their AA identities/similarities (termed MCR-1 to -10, which are encoded by
+
+While MCR proteins share a conserved overall structure (
+
+Here, we aim to provide further insight into the evolutionary relationships between
+
+A representative amino acid (AA) sequence from each published MCR family (i.e., at the time of the search, MCR-1 to -9, accessed April 23, 2019;
+
+Overall, this initial BLASTP search yielded a total of 9,836 MCR and MCR-like AA sequences, which were used in subsequent steps (
+
+NCBI RefSeq Assembly accession numbers for all genomes associated with ≥1 MCR or MCR-like protein in NCBI’s IPG database were acquired via rentrez (see section “Acquisition of MCR and MCR-like amino acid sequences” above). Latest assembly versions for all RefSeq genomes were then downloaded via NCBI’s FTP site (
+
+To assign each genome to a species using a standardized taxonomic framework, all 59,121 genomes were assigned to a marker-gene based operational taxonomic unit (mOTU) using classify-genomes (accessed June 3, 2020;
+
+Of the 69,814 MCR and MCR-like proteins identified in 59,121 genomes from NCBI’s RefSeq database (see section “Acquisition and characterization of genomes harboring MCR-like proteins” above), we identified 321 MCR-like proteins, which were located on the same contig as (i) ≥1 plasmid replicon (detected via ABRicate and the PlasmidFinder database) and (ii) ≥1 additional AMR gene (detected via ABRicate and the NDARO), with contigs harboring previously described
+
+Closed representative genome sequences of 147 reference species known to harbor
+
+Maximum likelihood (ML) phylogenies were inferred from the nucleotide sequences of (i) all
+
+AA sequences of the MCR, putative novel MCR-like, and i-PET proteins (
+
+The number of polymorphic sites, nucleotide diversity per site, average pairwise nucleotide differences per sequence, number of synonymous substitutions (S) and non-synonymous substitutions (N), and the
+
+The Recombination Detection Program (RDP5) was used to detect homologous recombination events within the NT
+
+The Datamonkey server (
+
+The resulting partitioned dataset produced by GARD (with suffix ".best.gard") was supplied as input to the following (both accessed January 27, 2022): (i) FUBAR (Fast, Unconstrained Bayesian AppRoximation;
+
+Structural modeling of MCR-1 was done using the Phyre2 server (accessed June 20, 2021) (
+
+An NT
+
+An AA-based MSA of MCR, putative novel MCR-like, and i-PET proteins (
+
+To characterize the genomic context surrounding different PET-encoding genes, genomic regions 5 Kb upstream and downstream of all PET-encoding genes were extracted from each PET-harboring genome (i.e., all genomes in which MCR and MCR-like proteins were detected, and all i-PET-harboring genomes used in this study;
+
+Colistin minimum inhibitory concentration (MIC) data were collected from the literature (
+
+The EndNote library was searched for each known
+
+Colistin MIC values reported for native
+
+A protein BLAST (BLASTP)-based search for MCR and MCR-like proteins in NCBI’s nr and IPG databases showed that MCR- and MCR-like proteins were distributed across a wide range of Gram-negative bacterial taxa (
+
+As
+
+A maximum likelihood (ML) phylogeny inferred from the NT
+
+Maximum likelihood (ML) phylogeny inferred from a nucleotide back-translation-based multiple sequence alignment (NT
+
+Consistent with the wide range of genetic diversity observed among nucleotide sequences of
+
+Based on AA sequences, MCR alleles shared a relatively low degree of AA similarity with EptB and CptA, ranging from 46% to 58% and 42% to 49%, respectively (
+
+To further characterize the diversity and evolution of PET-encoding genes, we constructed an ML phylogeny using the nucleotide sequences of the 98 known
+
+Maximum likelihood (ML) phylogeny inferred from a nucleotide back-translation-based multiple sequence alignment (NT
+
+Clade II-B represented subclades II-B-1 and II-B-2; alleles belonging to the
+
+Our phylogeny also provided further evidence that some
+
+To identify additional criteria that may aid in
+
+The 99 putative novel
+
+Sequence analysis of EptA, EptB, CptA, and known MCR proteins showed that five disulfide bonds, which were identified in the EptA structure (
+
+Through the literature search conducted here, colistin MIC values were obtained for 70 of 98
+
+Heatmap showcasing colistin minimum inhibitory concentration (MIC) values reported for MCR alleles in their native strains and in heterologous expression systems. MIC values were obtained from a review of the literature (see the Materials and Methods section for details). Heatmap cell colors correspond to base-2 logarithm-transformed MIC values, where white cells denote a value of 1 (i.e., the log2-transformed colistin resistance breakpoint of 2 mg/L, established by the Clinical and Laboratory Standards Institute [CLSI]); blue shading denotes MIC values below this breakpoint, and red shading denotes MIC values above. MCR alleles with no data reported for a given species (due to the allele not being present in the species, or due to an MIC not being reported) are denoted in the heatmap by black shading. For individual species with multiple MIC values reported for a single MCR allele, the median MIC value is reported (
+
+Varying colistin MIC values were also reported among different genera expressing the same
+
+Notably, multiple
+
+Thirteen potential recombination events were initially identified in an NT
+
+Recombination event 9, which included
+
+The role of positive selection in the evolution of genes can be assessed by estimating the non-synonymous to synonymous substitution rate (
+
+While an overall
+
+Identification of amino acid (AA) residues under branch-specific positive selection. A phylogeny of 98 known
+
+While MEME did not identify evidence of positive selection for AA residues involved in zinc and pEtN binding, the analysis predicted that several structurally critical residues evolved under positive selection (
+
+Structural localization and conservation of amino acid (AA) residues under branch-specific positive selection.
+
+To further assess the novelty of the 125 putative novel
+
+Notably, five PET families (encompassing 26 putative novel MCR-like proteins) resembled known MCR families, not only by AA identity and phylogenetic relatedness, but also based on genomic context (
+
+As no hard AA identity cutoff has been proposed for defining novel MCR families (
+
+Overall, our data show that (i) PET proteins can be detected across a wide range of Gram-negative bacterial species and are genetically and functionally diverse; (ii) the evolution and diversification of
+
+Previous studies have shown that PET-encoding genes are distributed across a range of Gram-negative bacteria (
+
+Consistent with previous studies (
+
+In addition to being genetically diverse, increasing evidence suggests that PET-encoding genes are functionally diverse (
+
+Our data suggest that multiple factors might be involved in the evolution and functional diversification of
+
+Moreover, it was shown that a transposon insertional element has horizontally transferred the
+
+Additionally, our data suggest that positive selection likely contributed to the diversification of specific
+
+Similarly, the diversification of Gln
+
+The identification of novel
+
+In addition to providing insight into the genetic and functional diversity of
+
+As demonstrated here, comprehensive bioinformatic approaches are necessary to facilitate the initial identification of AMR genes, as inferring AMR phenotypes from bacterial WGS data is often challenging (
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/
+
+AG and LC performed all computational analyses. AG, MW, and LC designed the study and co-wrote the manuscript. All authors contributed to the article and approved the submitted version.

@@ -1,0 +1,91 @@
+
+
+The gut microbiota in inflammatory bowel disease is dysbiotic with increased
+
+Alteration of gut microbiota composition associated with chronic diseases, sometimes referred to as dysbiosis, has been best characterized for intestinal inflammatory disease states that are mediated immunologically, such as in inflammatory bowel diseases (IBDs), as well as in infections such as
+
+The etiology of the dysbiotic microbiota is partially dependent on enhanced anaerobic respiration and tolerance of oxidative stress by
+
+The function of acylcarnitines has been well characterized in mammalian physiology. Fatty acids are esterified to coenzyme A (CoA) to form acyl-CoAs upon cellular uptake. Long-chain acyl-CoAs (>C12) are converted to acylcarnitines at the outer mitochondrial membrane via the activity of carnitine palmitoyltransferase in the presence of the quaternary amine, carnitine, which allows for their transport into the mitochondrial matrix where β-oxidation occurs. Hepatically produced acylcarnitines can be either transported into the plasma for systemic circulation or secreted into bile for excretion. Increased levels in blood and urine serve as biomarkers for inborn errors of fatty acid metabolism and are monitored in newborn screening panels.
+
+IBD is associated with alterations in intestinal fatty acid metabolism.
+
+Herein, we provide a detailed characterization of both carnitine and acylcarnitines associated with pediatric IBD. Levels were correlated positively with both dysbiosis and disease activity, as quantified by fecal calprotectin levels. Using mouse models, we provide evidence that the increase of carnitine and acylcarnitines in the gut lumen are the result of host-dependent factors, including an increase in biliary secretions and possibly the release of host cellular material into the gut lumen resulting from intestinal damage. A comparative analysis of conventionally housed and germ-free mice, as well as in a human subject intervention study, suggests that carnitine and acylcarnitines are consumed by the gut microbiota. A bacterial screen of several facultative and obligate anaerobic bacterial strains showed species-specific patterns in carnitine and acylcarnitine consumption. In particular, carnitine, which was consumed by
+
+Fecal acylcarnitine levels recently were shown to be a robust biomarker for IBD in which strong associations were observed consistently between numerous acylcarnitine species and dysbiosis, the exception being C20:4 carnitine, which was associated negatively.
+
+Demographics of Patient Population in the DYNAMIC Cohort
+
+Clinical Characteristics of Pediatric Patients with Inflammatory Bowel Disease in the DYNAMIC Cohort
+
+GI, gastrointestinal; IQR, interquartile range.
+
+Linear Mixed-Effects Modeling of Time-Dependent Alterations in the FARMM Study Comparing Alterations in the Relative Abundance of Genes in the
+
+FDR, false discovery rate. See
+
+We previously provided evidence in batch culture that a specific acylcarnitine, palmitoyl carnitine (C16), can be consumed by a complex gut microbial community.
+
+Statistical Analyses for Time- and Diet-Dependent Alterations in Fecal Carnitine Acylcarnitine Levels in the FARMM Study
+
+DC, decarboxylated; FDR, false discovery rate; OH, hydroxylated. For additional details see
+
+Given the positive association of
+
+Linear Mixed-Effects Modeling of Diet-Dependent Alterations in the FARMM Study Comparing Omnivore With Either EEN or Vegan Diets in the Relative Abundance of Genes in the
+
+FDR, false discovery rate. For additional details see
+
+To characterize the effect of the gut microbiota on carnitine and acylcarnitine availability throughout the length of the intestinal tract, as well as in bile and plasma, we quantified their abundance in conventionally housed and germ-free mice (
+
+The mechanism(s) leading to increased fecal levels of carnitine and acylcarnitines in patients with IBD (
+
+Consumption of carnitine and acylcarnitines by the gut microbiota (
+
+The positive correlation between
+
+Because acetylcarnitine is the most abundant acylcarnitine in the cecum and colon of mice (
+
+There are numerous examples in which host interactions with its gut microbiota are altered in the setting of intestinal inflammation via the metabolome. In many cases, alterations in the composition of the gut microbiota in the disease state, that we describe as dysbiosis, provide insights into the mechanistic underpinnings responsible for these alterations in fecal metabolites. Examples include a reduction in fecal secondary bile acids and SCFAs associated with a dysbiotic microbiota in patients with IBD owing in part to a loss in
+
+By characterizing the relationship between fecal levels of carnitine and acylcarnitine in pediatric IBD, we show that previous results
+
+The mechanism(s) by which IBD leads to increased levels of fecal carnitine and acylcarnitines have not been characterized. Because very few bacterial species are capable of de novo carnitine synthesis and the generation of acylcarnitines via carnitine palmitoyltransferase is a mitochondrial function not observed in prokaryotic organisms, these metabolites must be delivered into the gut lumen by the mammalian host, including through biliary secretions.
+
+Although SCFAs are the preferred substrate used by the colonic epithelium for fatty acid oxidation, we have shown that acylcarnitines can be an alternative source of energy for oxidative metabolism.
+
+Although additional investigation will be needed to characterize the mechanism(s) associating DSS colitis with increased plasma and biliary levels of acylcarnitines, an unanticipated finding, possible explanations include direct enterohepatic signaling similar to the regulation of hepatic bile acid synthesis via the activation of intestinal Farnesoid X receptor.
+
+Our goal was to examine whether these increased levels have a functional effect on the gut microbiota. Indeed, by studying fecal samples collected from healthy human subjects in whom the gut microbiota has been depleted, as well as comparing levels in germ-free and conventionally housed mice, we provide evidence that carnitine and acylcarnitines are consumed by the gut microbiota. Particularly notable are the high levels of fecal carnitine and acetylcarnitine in the feces of human subjects on a Western diet after a gut purge compared with subjects consuming a vegan or EEN diet in our FARMM study. This agrees with the previously proposed suggestion that diet regulates the luminal concentrations of these metabolites within the context of cardiovascular disease pathogenesis.
+
+The association between fecal levels of carnitine on a Western diet and the robust induction of
+
+Carnitine is a quaternary amine that is known to be used by a variety of bacteria as a carbon and/or nitrogen source, osmoprotectant, or electron acceptor.
+
+Facultative anaerobes such as
+
+Using
+
+In total, the enhanced delivery of carnitine and acylcarnitines from the host into the luminal environment of the gut in IBD serves as metabolic substrates for a wide range of bacterial taxa in the gut microbiota where their utilization is complex and taxon-specific. As a high-dimensional analytic feature, the pattern of fecal acylcarnitines, perhaps together with bacterial taxonomy, may have utility as a biomarker for the presence or prognosis of IBD. In addition, based on currently available information about the impact of carnitine on the biology of
+
+The pediatric IBD fecal metabolomic analysis was performed as part of the DYNAMIC study that has been described previously.
+
+Acylcarnitine levels from a dietary intervention study in healthy adults were obtained from the FARMM study.
+
+All experiments were approved by the Institutional Animal Care and Use Committee at the University of Pennsylvania Perelman School of Medicine. C57BL/6J mice were obtained from the Jackson Laboratory. Germ-free mice were obtained from the University of Pennsylvania Gnotobiotic Mouse Facility. All animals used in experiments were 6- to 12-week-old female mice. Animals were kept on 12-hour light/12-hour dark cycles. In the DSS colitis model, mice were fed an irradiated AIN-76 diet (D10001i; Research Diets, Inc, New Brunswick, NJ) and treated with 2.5% DSS (J63606.22; Thermo Fisher Scientific) in their drinking water. Blood was collected from the submandibular vein and then mice were killed by carbon dioxide asphyxiation followed by cervical dislocation when mice reached humane end point criteria based on body condition scores.
+
+Swiss-rolled portions of mouse cecum and colon were fixed with 4% paraformaldehyde and then paraffin-embedded, sectioned, and stained with H&E. Slides were analyzed and scored by a blinded pathologist for disease activity according to the multiparametric semiquantitative scoring system developed for
+
+For studies on anaerobic growth of
+
+To analyze acylcarnitines in intestinal contents and fecal pellets they were first taken up in ultrapure water at a concentration of 100 mg/mL. Samples then were subjected to 3 freeze/thaw cycles and 1 round of sonication to fully liberate the acylcarnitines from the solid material. Then, as with plasma, bile, and bacterial samples, acylcarnitines were extracted with ethanol and added to tubes containing stable isotope-labeled internal standards (NSK-B; Cambridge Isotope Laboratories). Ethanol extractions were dried down under a stream of nitrogen and acylcarnitines were derivatized to their butyl ester forms by incubating with butanolic hydrochloric acid (Regis Technologies) at 65°C for 15 minutes. The dried samples were reconstituted with acetonitrile/water (80:20) and 5 μL sample was delivered to a Xevo TQ-XS tandem mass spectrometer (Waters Corporation) through direct flow injection. Data were acquired in multiple reaction monitoring and focused on collecting the parent compounds of fragment mass m/z 85. Quantitation was against the nearest chain-length stable isotope–labeled internal standard. The mobile phase was acetonitrile/water (80:20, v/v). The flow rate was 0.1 mL/min. The source temperature was 150°C and the desolvation temperature was 200°C, with gas flow of 550 L/h. The cone and capillary voltage were 50 V and 3.2 kV, respectively. The mass spectrometer was operated in positive ion mode with resolving power of 140,000 at m/z 200, with a mass scanning range of m/z 140–600. Unless otherwise stated, statistical analysis of acylcarnitine levels was performed in GraphPad Prism 9 (GraphPad Software, San Diego, CA).
+
+Shotgun metagenomic data were analyzed using Sunbeam version 2.1.1.
+
+The dysbiosis score was calculated for each sample as the median Bray–Curtis distance to the samples from healthy subjects as previously described.
+
+Untargeted metabolomics identified 37 metabolites that belong to acylcarnitine metabolism. Linear mixed-effects models were used to estimate the difference in log10 transformed metabolite levels between nondysbiotic and dysbiotic samples. Antibiotic use was added as a covariate and subject identification was added as a random effect.
+
+Spearman correlation was calculated between log10-transformed bacterial abundances and log10-transformed metabolite levels for each time point. Only the bacteria that have a mean relative abundance of 1% across all samples have been tested.
+
+The

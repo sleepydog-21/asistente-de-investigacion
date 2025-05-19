@@ -1,0 +1,53 @@
+Bacterial cellulose (BC) has been recently a hallmark of several important biomedical products including vessel implants (tubes), wound care dressings, surgical threads, biocompatible implants, tissue reinforcement matrices besides other conventional industries like paper, food products, electronics, and cosmetic products [
+
+In cellulose-producing bacterial strains, most prominent of which is
+
+Genetic organization of
+
+The mass production of BC in different plasmid-based systems has been addressed in several studies [
+
+The cloning efficiency of
+
+List of primers used for screening of
+
+The bacterial growth rate of both
+
+Several conditions including the selection of culture media, pre/post-induction incubation temperature, the final concentration of isopropyl
+
+One milliliter of induced cultures was centrifuged, and the pellet was first washed with nuclease-free water twice and then was mixed with 2 × sample buffer and boiled for 5 min to denature the proteins. The 11–245 kDa marker and the samples were loaded into the wells of 14% SDS polyacrylamide gels. Separation of proteins based on size was achieved by allowing them to run at 120 V for approximately 90 min [
+
+BC-producing cultures were first filtered to recover the BC particles. The filtered BC was treated with 1% NaOH solution (w/v) at 70 °C for 20 min to remove bacteria and other impurities, then rinsed with deionized water several times until reaching a neutral pH, and then dried in micro-centrifuge tubes at 50 °C to constant weight to obtain dry weight [
+
+Before analysis, recombinant BC was dried until constant weight is reached and placed onto double-sided carbon tape mounted onto an aluminum stub. They were gold-coated for 2 min at 20 mA using an
+
+All numerical results were analyzed for unpaired parametric
+
+The cloned individual fragments were visualized at the expected molecular weight for each gene in all tested colonies, where
+
+Screening of
+
+Both
+
+The growth kinetics of recombinant
+
+For a preliminary assessment of our expression system, we followed the design that was previously proposed by Buldum et al. [
+
+SDS-PAGE (14%) showing the profile of resolved recombinant
+
+As confirmed by scanning electron micrograph, the
+
+Scanning electron micrograph showing the morphology and microstructure of recombinant BC produced by
+
+The challenges facing the mass production of bacterial cellulose (BC) are mainly related to the characteristics of the producing strains which include, slow growth kinetics relative to many other bacteria (such as
+
+In general, the introduction of a recombinant plasmid into
+
+Results also revealed that recombinant plasmid was generally more stable in DH5α cultures compared to BL21, which is typical given that DH5α is genetically engineered to be
+
+Although the four
+
+Altogether, and contradicting with the findings of Buldum et al. [
+
+In this report, we developed a new stable, efficient plasmid-based expression system of recombinant bacterial cellulose in
+
+Results of this report would have been better in terms of BC productivity if DH10β strain was used, particularly that it is more suitable for large plasmids which would have enabled simultaneous cloning of the four genes in a single plasmid; avoiding potential problems of preferential transformation/expression of the two

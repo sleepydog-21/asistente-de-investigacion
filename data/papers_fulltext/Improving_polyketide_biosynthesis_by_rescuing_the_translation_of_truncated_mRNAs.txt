@@ -1,0 +1,111 @@
+Modular polyketide synthases (mPKSs), the largest proteins in bacteria, are multidomain enzymes that are responsible for the biosynthesis of a variety of pharmaceutically important compounds, including antibiotics, immunosuppressants, insecticides, and anticancer drugs
+
+Truncated messenger RNAs (mRNAs) are produced by premature termination of transcription or degradation by RNases
+
+In this work, to understand the transcriptional and translational characteristics of mPKS genes, we examine the expression of butenyl-spinosyn PKS genes in
+
+To study the effects of truncated mPKS mRNAs on polyketide biosynthesis, we chose the mPKS genes for biosynthesis of butenyl-spinosyn, which is a highly potent natural insecticidal compound and the fermentation yield which needs to be improved for industrial production. The five PKS genes for butenyl-spinosyn biosynthesis,
+
+These splitting strategies necessitated removing the linkers between the two BusA modules. Therefore, to maintain module organisation in this PKS megasynthase, the C-terminal docking domain (
+
+Previously, we achieved heterologous production of butenyl-spinosyn (2.36 mg L
+
+To examine whether this splitting approach works for other megasynthases, we chose the mPKS for the biosynthesis of the avermectin
+
+The megasynthase for epothilone biosynthesis is composed of 1 single-module NRPS and 5 mPKSs consisting of one to four modules
+
+Above results suggested that splitting a large mPKS into smaller, separately translated subunits can improve biosynthetic efficiency of both mPKS and mPKS-NRPS hybrid megasynthases.
+
+Given that the mPKS splitting approach was found to increase polyketide synthesis, we next aimed to determine the underlying mechanism. Therefore, we measured the transcription and translation of wild-type
+
+The
+
+This has shown that truncated mRNAs constitute the majority of mPKS mRNAs, and mRNA sequences closer to the start of an operon are more abundant than those farther from the start due to mRNA truncation. We next measured the GusA (β-glucuronidase) activity of the
+
+Because GusA was fused at the C-terminus of the above native and split BusA proteins, we next measured the abundance of the peptide fragment translated from the 5’-end of mRNAs transcribed from the
+
+Given that a considerable amount of truncated mRNA and PKS protein was produced in mPKS gene expression, we next aimed to determine the effects of mPKS gene overexpression on the ribosome rescue system in
+
+To measure the production rates of the wild-type and split BusA proteins, the
+
+Within 160 min, the concentration of BusA-2-1-GusA was greater than that of BusA-1-1-GusA, which was greater than that of BusA-GusA. Moreover, the β-glucuronidase activity of BusA-2-1-GusA and BusA-1-1-GusA was detectable at 20 min of induction, whereas that of BusA-GusA was not detectable until 60 min of induction (Fig.
+
+The
+
+The above results suggest that splitting the
+
+The transcript levels of
+
+mPKSs synthesise numerous compounds that are important sources of pharmaceuticals. mPKS genes are usually larger than 10 kb. Understanding the transcription and translation characteristics of these large genes is important for the engineering of biosynthetic pathways. In this study, we compared the transcription and translation of native and split 13-kb
+
+Splitting large PKS genes by inserting the
+
+In addition to the protein concentration and production rate measured in this study, the smaller PKS subunits may be more soluble and stable. Large multidomain or multimodule proteins have more complex folding processes than small proteins and are, therefore, more prone to misfolding
+
+The average density of translating ribosomes is nearly constant on mRNAs
+
+In bacteria, the transcript abundance of genes is regulated at both transcriptional and post-transcriptional levels. The type of exponentially distributed truncated
+
+Endonuclease cleavage within the intergenic region of a polycistronic mRNA can dissect a transcript into two separate ones with different stability
+
+In summary, we split large BusA, AveA2, or EpoD mPKSs into smaller proteins and improved the biosynthetic efficiency of corresponding natural products. The truncated PKS mRNA translation rescue strategy developed in this study enriches the toolbox for PKS pathway engineering. This approach can be combined with known engineering strategies to improve the biosynthesis efficiency of polyketide or polyketide-nonribosomal peptide hybrid natural products. In addition, this approach could be applied to other large proteins composed of multiple modules or domains to enhance their functions.
+
+The RedEx seamless mutagenesis experiments were performed using
+
+The HAL-
+
+Five hundred nanograms of the HAL-
+
+A 200-ng sample of PacI-digested pBAC-phiC31-bus-ampccdB (or pBAC-phiC31-ave-ampccdB) was reacted in 1 × ABclonal MultiF Seamless Assembly Mix (ABclonal, cat. no. RK21020) in a 20 µL reaction system, which was incubated at 50 °C for 1 h and then held at 4 °C in a thermocycler. The reaction mixture was transferred to a Millipore membrane filter (Merck-Millipore, cat. no. VSWP01300) and dialysed against ddH
+
+The 80-kb avermectin gene cluster
+
+The p15A-epo-IR-Tps-bsd-oriT-IR-kan plasmid carries the epothilone operon for heterologous expression in
+
+The seed culture of each
+
+The seed culture of each
+
+The
+
+High-resolution mass spectrometric analysis of butenyl-spinosyn A, epothilone A, and avermectin B1a prepared above was performed on an Impact HD micro TFF-Q III mass spectrometer (Bruker Daltonics, Bremen, Germany) using a standard ESI source operating in centroid mode (100 to 1500
+
+The
+
+Colonies of
+
+Colonies of
+
+The
+
+Colonies of the
+
+The mobile phase solvent A was 0.1% (v/v) formic acid in H
+
+The raw data were analysed with Skyline (MacCoss Lab, University of Washington) to derive the peak area of each AALVADDEPK target peptide segment (Supplementary Figs.
+
+The
+
+The
+
+Statistical analysis comparing two groups was performed using a two-tailed unpaired
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review file
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Reporting Summary
+
+
+
+Source Data

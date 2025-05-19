@@ -1,0 +1,145 @@
+
+
+Organization of the
+
+Among all the proteins within the
+
+Wild-type
+
+Several studies have demonstrated that IS
+
+There are various ways by which the IS
+
+Here we show that IS
+
+
+
+Bacterial strains were routinely grown in LB media at 30°C or 37°C. To test a propanediol growth positive (PPD
+
+In the
+
+To determine if operon activation is IS
+
+The 177-bp IB (internal bent DNA) region, located in the 3′ end of IS
+
+The left-side end of IS
+
+To determine if the chromosomal region upstream of CTAG, two short upstream regions, Up1 and Up2, located at −107 to −1 and −208 to −108, respectively, relative to the beginning of IS
+
+Upon insertion, IS
+
+To see if other portions of IS
+
+In PPD
+
+To determine the effect of Crp on P
+
+There is one Crp-binding site (O
+
+To examine if and how FucR affects P
+
+To further confirm the dependence of P
+
+To see if the upstream Crp-binding site O
+
+IS
+
+A β-galactosidase (LacZ) assay can be separated into two main parts: sample preparation and the enzymatic assay. For sample preparation, a fresh colony of the reporter strain was cultured in 5 ml of LB medium at 37°C with shaking for about 6 hours. The culture (30 μl) was transferred to another tube containing 3 ml of minimal M63 media with 0.5% glycerol or 0.5% fucose as the sole carbon source. The M63 culture (preculture) was then left to grow overnight at 37°C with shaking. The next day, a specific amount of overnight culture (preculture) was inoculated into 5 mL of the same M63 media to OD600 of 0.03, and the culture was grown at 37°C with shaking. During the exponential growth phase, at least four samples were collected in an OD600 range of 0.2 to 1.0. Collected samples were immediately frozen at −20°C prior to the assay.
+
+For the assay, the previously frozen samples were first thawed at room temperature. Around 200 μl of sample, 800 μl of LacZ-buffer, and 25 μl of chloroform were combined in a small glass tube and vortexed twice for 10 s each. The sample tubes were placed into a water bath incubator and warmed to 37°C. To initiate the reaction, 200 μl of o-nitrophenyl-β-D- galactopyranoside (β-ONPG) was added to each sample. After the yellow color had visibly developed, 0.5 ml of 1M sodium carbonate was added to each sample and vortexed to stop the reaction. The reaction mixture was appropriately diluted and then centrifuged for 2.5 min at 15 000 rpm. Absorbance values of the prepared reaction mixture were measured at 420 and 550 nm. The β-galactosidase (LacZ) activity for each sample was then calculated using the formula: β-galactosidase (LacZ) activity (Miller units) = [1000 x (OD
+
+To prepare total RNA, the strain of interest was shaken at 37°C in M63 minimal media with 0.5% glycerol as the carbon source. When the OD
+
+mRNA was extracted using a MICROB
+
+5′ RACE was performed using the SMARTer® RACE 5′/3′ kit (Takara Bio USA). To synthesize first-strand cDNA, the extracted mRNA sample was combined with a random hexamer mixture that binds to the mRNA. The mixture was incubated at 72°C for 3 min and then at 42°C for 2 min. A buffer containing RNase inhibitor, Reverse Transcriptase, and SMARTer II Oligonucleotide (all provided) was added to the mixture which was subsequently incubated at 42°C for 90 min and then 70°C for 10 min. The resulting mixture (first-strand cDNA) was diluted with tricine-EDTA buffer. After dilution, the first-strand cDNA was combined with a PCR master mix, 5′ gene-specific primer, and the universal primer mix for amplification. PCR products (that is, amplified cDNA) were purified by gel electrophoresis, and the purified cDNA was subsequently sequenced. The first nucleotide immediately downstream of the SMARTer II Oligonucleotide sequence is the transcriptional start site (+1) of the target gene.
+
+All β-galactosidase activity data are expressed as the mean ± standard deviation (SD). The data points (represented by orange dots) used for mean and SD calculation are attached to bar graphs. Statistical significance was tested by either two-sample t-test (for two treatments) or 1-way ANOVA followed by Tukey Kramer's post hoc test (for ≥ 3 treatments). All figures and β-galactosidase activities were generated using Microsoft Excel (Version 16.66.1) or RStudio (Version 2023.12.0 + 369 “Ocean Storm” Release for Windows). Details of the statistical tests used are indicated in the figure legends. Sample size details are described in Section "β-galactosidase (LacZ) activity assay". ns denotes no significance and indicates a
+
+In the absence of fucose, the
+
+IS
+
+To determine if the nucleotide sequence of IS
+
+The IS
+
+The operon activities were measured in these strains cultured in glycerol minimal medium, and the results are summarized in Fig.
+
+As mentioned before, the
+
+The internal DNA bend (IB) region of IS
+
+Since the downstream IB region is dispensable in
+
+Effects of the IS
+
+Using the standard assay, the operon activities within these reporter strains were measured, and the results are summarized in Fig.
+
+Since Up1 and P
+
+As described above, the proposed fusion promoter (P
+
+The fusion promoter alone is sufficient to activate the
+
+The promoter activities were quantitated for strains ZZ233 and ZZ234 using our standard assay. As seen in Fig.
+
+To further confirm that P
+
+The experiments described above provided evidence for the formation of a fusion promoter (P
+
+We first used a GSP, GST-fucA-R (
+
+The above observations suggest two criteria for determination of the TSS using the Takara kit: a small cDNA product (preferentially 0.2 to 0.3 kb in length), and the use of a non-IS
+
+Determining the transcriptional start site (TSS) for P
+
+The P
+
+IS
+
+Global regulator Crp-cAMP and the upstream Crp-binding site O
+
+We next determined which Crp-binding site(s) is/are involved in
+
+To determine if O
+
+Based on the above findings, it is highly likely that the binding of Crp-cAMP to O
+
+To further confirm that the
+
+The previous section demonstrated the Crp-dependence of the fusion promoter P
+
+P
+
+The lower-than-expected promoter activity (i.e. 1248 units) observed with fucose grown cells compared with glycerol grown cells (1880 units) may be due to the presence of a lower amount cAMP due to catabolite repression. To indirectly confirm this assumption, the same cells were cultured with glucose minimal medium, under which cAMP is known to be synthesized at a low level [
+
+At the
+
+It is known that with IS
+
+Active FucR can enhance
+
+When this double mutant was cultured with glycerol (FucR is not activated), an operon activity comparable to that of the original PPD
+
+We have demonstrated that activation of the otherwise silent
+
+Forming fusion promoters is a commonly used mechanism for other IS elements to positively affect expression of target genes/operons, especially for those conferring multidrug resistances in bacteria. IS
+
+The TSS and the −10 motif of the fusion promoter identified in this study correspond to those previously proposed for the IS
+
+Our study employed the 5′RACE method in contrast to the primer extension method utilized in the prior research to discover the TSS. Given that our TSS is located merely one nucleotide downstream of the proposed “C” TSS, it is plausible that inaccuracy may have occurred during the initial identification of this TSS using the primer extension method. Alternatively, the TSS identified in the current study might represent a new one specifically for the newly generated fusion promoter.
+
+Fusion promoters generated upon insertion of transposable elements are usually constitutively active, and their activities do not rely on any known transcriptional activators from the host [
+
+In summary, the functionality for the fusion promoter identified in this study depends on the following molecular properties: (i) the presence a Crp-binding site O
+
+Crp activated promoters are categorized into three classes. In Class I promoters, Crp binds upstream of the promoter at sites centered to positions −61.5, 71.5, 82.5, or 92.5 with respect to the TSS. For these promoters, Crp activates transcription by directly interacting with the C-terminal domain of RNAP α subunit (α-CTD) [
+
+Our results show that the fusion promoter alone exhibits 15% greater activity than the complete IS
+
+Besides Crp, FucR is the only other activator known for the
+
+With IS
+
+While our study has successfully identified the molecular mechanism responsible for IS

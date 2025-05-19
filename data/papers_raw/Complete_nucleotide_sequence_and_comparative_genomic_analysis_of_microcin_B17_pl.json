@@ -1,0 +1,11 @@
+{
+  "id": "38440924",
+  "title": "Complete nucleotide sequence and comparative genomic analysis of microcin B17 plasmid pMccB17.",
+  "doi": null,
+  "authors": "Ajeigbe M, Childs S, Paget TA, Bingle LEH",
+  "journal": "MicrobiologyOpen",
+  "year": "2024",
+  "abstract": "We present a comprehensive sequence and bioinformatic analysis of the prototypical microcin plasmid, pMccb17, which includes a definitive sequence for the microcin operon, mcb. Microcin B17 (MccB17) is a ribosomally synthesized and posttranslationally modified peptide produced by Escherichia coli. It inhibits bacterial DNA gyrase similarly to quinolone antibiotics. The mcb operon, which consists of seven genes encoding biosynthetic and immunity/export functions, was originally located on the low copy number IncFII plasmid pMccB17 in the Escherichia coli strain LP17. It was later transferred to E. coli K-12 through conjugation. In this study, the plasmid was extracted from the E. coli K-12 strain RYC1000 [pMccB17] and sequenced twice using an Illumina short-read method. The first sequencing was conducted with the host bacterial chromosome, and the plasmid DNA was then purified and sequenced separately. After assembly into a single contig, polymerase chain reaction primers were designed to close the single remaining gap via Sanger sequencing. The resulting complete circular DNA sequence is 69,190 bp long and includes 81 predicted genes. These genes were initially identified by Prokka and subsequently manually reannotated using BLAST. The plasmid was assigned to the F2:A-:B- replicon type with a MOBF12 group conjugation system. A comparison with other IncFII plasmids revealed a large proportion of shared genes, particularly in the conjugative plasmid backbone. However, unlike many contemporary IncFII plasmids, pMccB17 lacks transposable elements and antibiotic resistance genes. In addition to the mcb operon, this plasmid carries 25 genes of unknown function.",
+  "source": "PubMed",
+  "pmcid": "PMC10912980"
+}

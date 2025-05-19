@@ -1,0 +1,97 @@
+Native cholera toxin (CTx), produced by the host
+
+The widespread interest and applications of bacterial toxin derivatives, as neuronal tracers and vaccine components, have to be complemented with a high-yield manufacturing process, to make these pharmaceutical approaches economically viable. The production of the CTxB component alone has been proven productive, achieving yields up to 1 g/L (Dukoral
+
+A prerequisite for obtaining high yields of A2-CTxB tracer is a detailed understanding of the native-expression process. During homologous (
+
+Our rCTC construct design (
+
+The toolbox of the rCTC construct was expanded for multiple growth-decoupling
+
+Original rCTC construct (pTRBAB5-G1S) [
+
+For the pET30a<MBP-A2_CTxB>Cer plasmid, high production of rCTC was further optimized, by lowering the Ribosome Binding Site (RBS) strength of MBP-A2 from the original pMALp5x-derived construct (pTRBAB5-G1S), to reduce expression of MBP-A2 and maintain the ratio close to the 2:5 rCTC subunit ratio [
+
+An antibiotic-free plasmid-selection system was achieved with auxotrophic strains (V1
+
+Carbon-limited fed-batch-like high-throughput µ-bioreactor cultivations can provide adequate screening conditions for the identification of optimal induction parameters, delivering high-product yields. The µ-bioreactor system used, called Biolector
+
+In these small-scale screening cultivations, we varied the amount of IPTG (0.01–1 mM) and arabinose (0.25–100 mM) added to the cultures, and we analyzed the influence of induction on cell growth, cell leakiness, and product formation. In
+
+The End of Fermentation (EoF) samples were analyzed via flow-cytometry analysis using propidium-iodide (PI) staining, for testing membrane integrity and cell leakiness, during rCTC production (
+
+The shift of PI staining in a flow cytometry assay (
+
+An ELISA was implemented to determine the yield of the active, and soluble complex (
+
+The same set of experiments was performed for all other variants (
+
+Optimal expression of rCTC requires an in-depth understanding of transcriptional/translational machinery operating in the selected production strain. The expression levels of a selection of genes expected to be responsible for the extracellular expression of rCTC were measured with qPCR. In its native host,
+
+Here, we decided to assess the capabilities of B (wt BL21(DE3)) and V1 (mutant BL21 (DE3)) strains, carrying pET30a <MBP-A2_CTxB>Cer plasmid, to express rCTC product extracellularly. Extracellular expression of proteins can be determined for B strain mutants, by screening the expression level of GspD [
+
+V1 strain showed overall higher expression of rCTC and upregulation of
+
+rCTC was expressed for 25 h (with 0.5 mM IPTG/100 mM Ara induction for V strains; 0.5 mM IPTG for B strain), purified by two-step affinity chromatography (IMAC and amylose column), and, then, concentrated by centrifugal ultrafiltration (
+
+pO2, pH, Air, Temperature (Temp), Base Flow, Agitation, and Feed Flow parameters were measured during a fed-bath process in the Dasgip
+
+An analysis of the process parameters was implemented, to investigate the viability of cells during rCTC production. Determining the point at which rCTC production should be stopped, before toxicity, limits the viability of cells and has a direct consequence on the purification process. Lysing cells influence the overall viscosity of cell suspension, which results in a more demanding separation of media supernatants from the cell biomass. In
+
+Determination of formulated rCTC concentrations was complemented with SDS-PAGE gels (
+
+Those results, also, suggest that initiation of earlier EoF for the V1 pET30a T70.09 variant will lead to substantially lower rCTC yields, due to delays in the process of CTxB production (
+
+The best performing producers, V1 pET30a T70.09 and V1 Δ
+
+Overall, the delivery of holotoxin into periplasm at a higher rate can affect the T2SS secretory machinery (GspD OM protein) [
+
+The volumetric yields (mg rCTC/L) and specific yields (mg rCTC/g CDM) at EoF were measured and compared between variants (
+
+A comparison, of all variants produced for 25 h and purified with the two-step purification method, is listed below in
+
+rCTC was tested for its ability to bind to membrane-bound GM1, by measuring the interaction of rCTC to GM1 liposomes, with an Octet Bio-Layer Interferometry (BLI) device (
+
+The GM1 receptors exposed on the surface of Jurkat cells allow the determination of rCTC binding, in a cellular environment [
+
+Characterization of the intracellular uptake of rCTC in Jurkat cells was, also, investigated (
+
+Incubation at 37 °C in immunofluorescence assays revealed that the rCTC is internalized and accumulates inside the cells over time, where it can be observed for up to 3 h. The MBP-tag signal is detected with primary and secondary fluorescent antibodies and shows a similar pattern after intracellular transport. The Golgi compartment was visualized utilizing a CTR433 antibody, which stains cis and medial Golgi. The fluorescence signals of rCTC AF647 and MBP-tag overlapped in this intracellular compartment, thus leading to the conclusion that rCTC is taken up by Jurkat cells, and its MBP cargo is delivered, partially, to the Golgi compartment.
+
+The extracellular production in
+
+A total of four
+
+pTRBAB5-G1S was prepared from pSAB2.1, as described in [
+
+Selected variants for qPCR analysis were cultivated in a 100 mL volume shake flask in emi-synthetic media, as described in [
+
+The Biolector
+
+The batch (600 mL) and adjacent fed-batch production were carried out in the Dasgip
+
+Two-step purification was performed by ÄKTA™ start (Cytiva, Uppsala, Sweden) starting with HisTrap™ FF (5 mL) (Cytiva, Uppsala, Sweden) and a self-made column with Amylose Resin High Flow (New England Biolabs, Ipswich, MA, USA; 5 mL). The binding/wash buffer for each purification was: Hepes 50 mM, 150 mM NaCl, pH 7.4. Product purified with HisTrap™ FF was eluted with binding buffer + 300 mM Imidazole (Sigma Aldrich, 56749, Vienna, Austria) and Amylose Resin with binding buffer + 20% Glucose (Sigma Aldrich, D9559, Vienna, Austria). The final product was rebuffered with Amicon
+
+ELISA quantification analysis was carried out in Phosphate Buffered Saline (PBS): 10 mM Na2 HPO4, 1.8 mMKH2PO4, 137 mM, NaCl, 2.7 mM KCl, pH 7.4 with the addition of 0.05% TWEEN20, called PBS-T (Sigma Aldrich, Saint Louis, MO, USA). Blocking Buffer was
+
+Analytical Size Exclusion Chromatography (SEC) was performed, using the Äkta Purifier FPLC system (Cytiva, Uppsala, Sweden) at 4 °C. All protein samples applied were filtered through a 0.2 µm Sartorius Minisart filter (Sartorius, Goettingen, Germany). Then, 200 µL of 30 µM rCTC sample was injected onto a HiLoadTM 10/300 SuperdexTM 200 column (Cytiva, Uppsala, Sweden), and the protein was eluted with 50 mM HEPES, 150 mM NaCl, pH 7.5, at a flow rate of 1 mL/min (Sigma Aldrich, Saint Louis, MO, USA). The protein content of the elution fractions was measured via UV/vis absorbance at 280 nm.
+
+Analytical SEC was coupled with multi-angle light scattering (MALS). The molecular weight of the constructs was analyzed by SEC, coupled with right-angle light scattering (RALS), using an OMNISEC RESOLVE/REVEAL combined system (Malvern Panalytical, Malvern, UK). Sample solutions were filtered through 0.45 μm pore size hydrophilic PVDF centrifugal filters (Millipore, Darmstadt, Germany), before analysis. Proteins were separated on a Superdex S200 increase 10/300 GL column (Cytiva, Uppsala, Sweden), maintained at 25 °C, using PBS as an isocratic mobile phase, at a flow rate of 0.5 mL/min. The autosampler chamber was maintained at 25 °C. The injection volume varied between 20 μL and 100 μL. The detectors were maintained at 25 °C. Protein concentration was measured online, by using the refractive index detector. A refractive index dn/dc of 0.185 was taken. Data were analyzed using the OMNISEC software (version 11.30).
+
+Mass spectrometry was performed on a Bruker Daltonics maXis impactMass Spectrometer with electrospray ionization (ES)MS. The equivalent of 40 pmol rCTC was injected onto the machine, and the deconvolution of multiple charge states was analyzed using Bruker Compass Data Analysis software (version 4.3, Bruker Daltonik GmbH, Bremen, Germany).
+
+LC-ESI-MS/MS TSQ Vantage Triple Quadrupole (Thermo Fisher Scientific, San Jose, CA, USA) analysis of peptides, originating from protease treatment, was performed by Universitat fur Bodenkultur Core Facility for Mass Spectrometry. Target MBP-A2, CTxB, and HCPs were detected in the automated search with MS/MS ion X!-Tandem (
+
+Preliminary activity measurements were performed by Octet
+
+ITC was performed using the MicroCal ITC200 (Malvern Panalytical, Malvern, UK), with 1 µM of the rCTC complex in the cell and approximately 50 µM GM1 pentasaccharide in the syringe (10 times the concentration of available GM1 binding sites). The ITC parameters were: 750 RPM stirring, thermosetting to 25 °C, one sacrificial injection of 0.5 µL followed by 19 injections of 2 µL each, 120 s between injections, with injections lasting 4 s each. Each sample was utilized for two titrations, to enable global analysis, which was performed using NITPIC (version1.2.2, Brautigam–UT Southwestern, Dallas, TX, USA), SEDPHAT (version 14.0, National Institutes of Health, Bethesda, MD, USA) and GUSSI (version 1.4.1, Brautigam–UT Southwestern, Dallas, TX, USA) software. The error analysis was conducted using ‘Generate 1-dimensional error surface projection’. Error analysis was done (independently) for the Log
+
+The reagents were obtained from commercial sources: RPMI 1640, PBS (−/−), FCS, and L-glutamine were purchased from Gibco (Thermo Fisher Scientific Inc., Rockford, IL, USA). The human T lymphocyte Jurkat cell line (American Type Culture Collection, TIB-152, Thermo Fisher Scientific Inc., Rockford, IL, USA) was cultured in Roswell Park Memorial Institute (RPMI) medium, supplemented with 10% fetal calf serum (FCS), 2 mM L-glutamine, 5 μg/mL Penicillin and Streptomycin, 1% HEPES, and 50 μM 2-mercaptoethanol, under sterile conditions at 37 °C and 5% CO2. Cells were stimulated with indicated final concentrations of rCTC in the medium, for the indicated time points.
+
+Alexa Fluor 647 dye (Thermo Fisher Scientific Inc., Rockford, IL, USA) mono-reactive NHS ester was used to label rCTC, in accordance with the instructions of the manufacturer. Fluorescent dye was dissolved at a final concentration of 1 mg/mL in water-free DMSO (Carl Roth GmbH & Co. KG, Karlsruhe, Germany), aliquoted, and stored at −20 °C before usage. For the labeling reaction, 100 µL of protein (3 mg/mL) was supplemented with 10 µL of a 1 M NaHCO3 (pH 8.5) solution. The molar ratio between dye and protein was set to 6:1, and the final ratio resulted in 4:1. The labeling mixture was incubated at 4 °C for 90 min under continuous stirring, and uncoupled dyes were separated using Zeba Spin desalting columns (7 k MWCO, 0.5 mL, Thermo Fisher Scientific Inc., Rockford, IL, USA). Labeled protein was stored at 4 °C, protected from light.
+
+For flow cytometry analysis, 1 × 10
+
+Between 5 and 6 × 10
+
+The following antibodies were obtained from commercial sources: Maltose Binding Protein/MBP Rabbit Polyclonal Antibody (Thermo Fisher Scientific Inc., Rockford, IL, USA, Cat. No. BS-2967R), Goat Anti-Rabbit DyLight488 (Thermo Scientific/Pierce, Waltham, MA, USA, Cat. No. #35552), and Goat Anti-Mouse Alexa546 (Jackson Immunoresearch, West Baltimore Pike. West Grove, PA, USA, Cat. No. A11030). The medial Golgi was detected by a custom-made mouse CTR433 antibody (Institute Curie, Paris, France). RPMI 1640, PBS (−/−), FCS, and L-Glutamine were all purchased from Gibco (Thermo Fisher Scientific Inc., Waltham, MA, USA). The following chemicals were obtained from Roth (Carl Roth GmbH & Co. KG, Karlsruhe, Germany): BSA, DAPI, glycerol, NH

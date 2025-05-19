@@ -1,0 +1,427 @@
+Since bacterial resistance mechanisms were first described, considerable efforts have been devoted to revealing the underlying molecular machinery involved in developing antimicrobial resistance. Understanding the cellular pathways involved is essential for addressing the growing threat looming over modern medicine–an era where previously effective antibiotics are increasingly unable to treat resistant infections (
+
+Exposure to beta-lactam antibiotics such as amoxicillin is known to trigger a range of stress responses in bacterial cells, including the SOS and oxidative stress response [
+
+DNA polymerase IV, encoded by the
+
+This increase in ROS is hypothesized to result from increased metabolic rates, causing perturbations of the TCA cycle [
+
+In this context, the enzyme KatE (catalase HP2) plays a crucial role in
+
+In this study, we investigated the genetic and transcriptomic alterations in
+
+Consistent mutations in the
+
+Furthermore, the role of
+
+The
+
+Bacterial cultures were grown in lysogeny broth (LB) containing 10 g/L NaCl, either in liquid or solid form. All strains were initially cultured to an OD600 of 0.1 and incubated at 37°C with shaking at 200 rpm overnight. For longer weekend incubations, the starting OD600 was reduced to 0.01, and the incubation temperature was adjusted to 30°C. Amoxicillin was supplied by Merck KGaA. A stock solution (10 mM) was prepared which was stored at 4°C and used within three days of preparation and filter sterilization.
+
+Minimum inhibitory concentrations (MICs) were measured twice a week in duplicate for each strain using the broth microdilution method [
+
+Evolution experiments were conducted as described previously [
+
+Genomic DNA was isolated from each culture at both the start and end of the evolution experiment using the PureLink Genomic DNA Mini Kit (Thermo Fisher Scientific), with some modifications to the manufacturer’s protocol. Cultures were pelleted by centrifugation at 12,000 × g for 1 minute, and the resulting pellet was resuspended in 300 μL of TE buffer. Then 40 μL of 10% SDS, 3 μL of 0.5 M EDTA, and 20 μL of proteinase K were added. Cell lysis was achieved by incubating the samples at 65°C for 5 minutes in a heating block. Following lysis, 20 μL of RNase A was added, and the samples were incubated at room temperature for 3 minutes. After RNase addition, the protocol was followed as recommended by the supplier.
+
+The quality and quantity of the isolated genomic DNA were assessed using a NanoDrop spectrophotometer (Thermo Fisher Scientific) to measure absorbance at 260/280 nm. The integrity of the DNA was further confirmed by running the samples on a 1% agarose gel. The purified genomic DNA was then used for library preparation according to the manufacturer’s protocol for the NEBNext Ultra II FS DNA Library Prep Kit for Illumina (New England BioLabs). The libraries were subsequently sequenced using the Illumina sequencing platform.
+
+Frozen cultures were thawed on ice, followed by overnight inoculation in LB with the appropriate antibiotic concentration (
+
+The entire transcriptomics workflow was designed as a Nextflow pipeline v21.10.6 [
+
+Like the transcriptomic workflow, the genome analysis was also performed using Nextflow. Pair-end genomic reads were quality controlled, and adapters were removed the same way as for the RNA-Seq data. To identify mutations, as well as their frequency in the bacterial population, Breseq v0.37.1 [
+
+The data analysis was performed using Python v 3.11.8 or R v4.3.2 in combination with Jupyter Lab v 4.0.11 (
+
+Protein structure changes resulting from the mutated genes were predicted using DDMut [
+
+We investigated the adaptation rate of the wild-type compared to the
+
+Comparative analysis of the adaptation to amoxicillin across multiple transfers in three bacterial strains: MG1655 (black/grey), ΔkatE (purple), and ΔdinB (green) with three biological replicates for each strain. On the left: The y-axis represents the antibiotic concentration in micrograms per milliliter on a logarithmic scale, while the x-axis represents the number of transfers. The Venn diagram illustrates the overlapping mutations found in the three bacterial strains. Only mutations with >60% frequency and occurrence in at least 2 replicates are displayed. All strains shared a mutation in frdD. MG1655 and ΔdinB had a mutation between ampC/frdD in common. More detailed information can be found in
+
+Whole genome sequencing of the adapted cultures revealed that the strains only gained a small set of partially overlapping and even identical mutations (see
+
+The table provides detailed information on the mutations identified in the three strains. It includes the frequency of each mutation, the type of mutation, the specific position within the gene, the effect of the mutation, at what position in the genome the change occurred as well on what strand the gene is located. The genome position is relative to each samples corresponding reference genome. NC_000913.3 for MG1655 and NZ_CP009273.1 for ΔdinB and ΔkatE. We observed that some mutations occurred at the same positions across different strains, highlighting the potential importance of these specific genetic changes in the adaptive response to amoxicillin.
+
+All three strains acquired a mutation in
+
+Gene copy analysis revealed that all three strains amplified the same collection of genes after adaptation to amoxicillin (
+
+The graph illustrates the number of genes that are amplified ≥ 1.5 times. The rhomboid shape represents the bootstrapped values. The transparent circles represent the corresponding lower and upper bounds.
+
+The deletion of the
+
+The figure illustrates the proportion of significant transcriptomic changes across the knockout mutants. The size of the data points relates to the proportion of significant changes, whereas the colour code indicates p-values. NT stands for non-treated, while T means treated with ¼ MIC during overnight incubation and before RNA isolation.
+
+All three strains—wild type (MG1655), Δ
+
+Blue dots illustrate significant downregulation, red dots significant upregulation.
+
+The Δ
+
+Across all strains, there was a general trend of more upregulated pathways than downregulated during amoxicillin adaptation. The Δ
+
+In the Δ
+
+The Δ
+
+Overall, comparing the evolved knockout strains to the evolved wild-type disclosed that both Δ
+
+To better understand the potential impact of the mutation in
+
+Wild-Type D445 left, Mutant V445 right. Interactions are illustrated with the following colour code. Ionic (yellow), polar (orange), hydrogen bond (red), VDW (light blue).
+
+The generally assumed roles of
+
+Some mutations in
+
+Furthermore, our data show that the
+
+Additionally,
+
+Although producing more superoxide anions might seem counterintuitive during oxidative stress, it can be beneficial for two reasons. First, superoxide production can aid as a signal to activate stress response pathways, helping cells adapt to environmental changes. Superoxide is metabolized into oxygen and hydrogen peroxide by superoxide dismutase, and hydrogen peroxide is subsequently transformed by catalases and peroxidases [
+
+The recurrent
+
+The D445V mutation has been highlighted in recent literature, in a study involving a Chron’s disease-associated
+
+Given the D445V mutation’s position in region 2 and the predicted changes to the protein structure, it seems likely that this mutation affects the sigma factor’s ability to bind to RNA polymerase. RpoD and RpoS (Sigma 30) share several binding sites [
+
+One replicate of MG1655 and one replicate of Δ
+
+Our findings give rise to several hypotheses (
+
+Key genetic factors in amoxicillin resistance acquisition in E. coli. Created in BioRender.com.
+
+The graph illustrates the frequency distributions of mutations across the samples.
+
+(TIF)
+
+(DOCX)
+
+(DOCX)
+
+
+
+PONE-D-24-43795Genetic Adaptation to Amoxicillin in Escherichia coli: The Limited Role of dinB and katEPLOS ONE
+
+Dear Dr. Kuile,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by  Jan 12 2025 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at
+
+Please include the following items when submitting your revised manuscript:
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see:
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Bashir Sajo Mienda, PhD
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+
+
+2. Thank you for stating the following financial disclosure:
+
+“This study was financed by The Netherlands Food and Consumer Product Safety Authority”
+
+Please state what role the funders took in the study. If the funders had no role, please state: "The funders had no role in study design, data collection and analysis, decision to publish, or preparation of the manuscript."
+
+If this statement is not correct you must amend it as needed.
+
+Please include this amended Role of Funder statement in your cover letter; we will change the online submission form on your behalf.
+
+3. Thank you for stating the following in the Acknowledgments Section of your manuscript:
+
+“This research was financed by the Netherlands Food and Consumer Product safety Authority. The authors thank Stanley Brul and Meike Wortel for stimulating discussions. “
+
+We note that you have provided funding information that is currently declared in your Funding Statement. However, funding information should not appear in the Acknowledgments section or other areas of your manuscript. We will only publish funding information present in the Funding Statement section of the online submission form.
+
+Please remove any funding-related text from the manuscript and let us know how you would like to update your Funding Statement. Currently, your Funding Statement reads as follows:
+
+“This study was financed by The Netherlands Food and Consumer Product Safety Authority”
+
+Please include your amended statements within your cover letter; we will change the online submission form on your behalf.
+
+4. We note that your Data Availability Statement is currently as follows: All relevant data are within the manuscript and its Supporting Information files.
+
+Please confirm at this time whether or not your submission contains all raw data required to replicate the results of your study. Authors must share the “minimal data set” for their submission. PLOS defines the minimal data set to consist of the data required to replicate all study findings reported in the article, as well as related metadata and methods (
+
+For example, authors should submit the following data:
+
+- The values behind the means, standard deviations and other measures reported;
+
+- The values used to build graphs;
+
+- The points extracted from images for analysis.
+
+Authors do not need to submit their entire data set if only a portion of the data was used in the reported study.
+
+If your submission does not contain these data, please either upload them as Supporting Information files or deposit them to a stable, public repository and provide us with the relevant URLs, DOIs, or accession numbers. For a list of recommended repositories, please see
+
+If there are ethical or legal restrictions on sharing a de-identified data set, please explain them in detail (e.g., data contain potentially sensitive information, data are owned by a third-party organization, etc.) and who has imposed them (e.g., an ethics committee). Please also provide contact information for a data access committee, ethics committee, or other institutional body to which data requests may be sent. If data are owned by a third party, please indicate how others may request data access.
+
+5. Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+[Note: HTML markup is below. Please do not edit.]
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: N/A
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The
+
+Reviewer #1: Yes
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+**********
+
+5. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: Dear Author,
+
+Thank you for your effort to share your research findings with the scientific community through this manuscript entitled, “Genetic Adaptation to Amoxicillin in Escherichia coli: The Limited Role of dinB and katE” and submitting it for publication in PLOS ONE. I have gone through the manuscript draft and found it quite interesting. The manuscript data is technically sound and supports the conclusions drawn. The description of the experiments conducted indicated that it was rigorously carried out, with appropriate controls, replication, and sample sizes. There is adequate evidence that shows data underlying the findings in manuscript are made fully available and presented in an intelligible fashion and written in standard English. The paper is clear and well-composed. The dataset therein is very useful. There is sufficient justification to affirm the originality of the work, numerical figures of the various analytical factors have been reported with a reasonable degree of accuracy. The objectives of the work as outlined in the introductory part of the manuscript have been reasonably achieved. Thus, the work could be adjudged complete within its limitations. In a nutshell, this is a high-quality manuscript that clarified the contributions of DNA polymerase IV (dinB) and catalase HP2 (katE) genes in E. coli's adaptation to beta-lactam resistance. In particular, the work has established that dinB and katE may not be as critical for beta-lactam adaptation as generally assumed. This could be quite thought-provoking to the scientific community However; I have outlined some comments that could help improve the quality of the manuscript.
+
+Comments:
+
+1. Line 155. There may be no need of a hyphen between 5 and minute, also the word ‘minutes’ should be written in the plural form, to make it consistent with the other usage elsewhere in the manuscript.
+
+2. L192. The concentration of the antibiotic used needs to be specified.
+
+3. L196. Specify the concentration of the agarose used
+
+4. L439 - 440 The direct involvement of frdD should be further elaborated to adequately discuss its role based on the findings of this study.
+
+**********
+
+6. PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool,
+
+Submitted filename:
+
+
+
+Response to the reviewer PONE-D-24-43795
+
+Teichmann et al.,: Genetic Adaptation to Amoxicillin in Escherichia coli: The Limited Role of dinB and katE
+
+Reviewers comments:
+
+Thank you for providing me the opportunity to review this manuscript titled, “Genetic Adaptation to Amoxicillin in Escherichia coli: The Limited Role of dinB and katE” for publication in your journal (PLOS ONE). I have gone through the manuscript draft and found it quite interesting. The paper is clear and well-composed. The dataset therein is very useful. There is sufficient justification to affirm the originality of the work, numerical figures of the various analytical factors have been reported with a reasonable degree of accuracy. The objectives of the work as outlined in the introductory part of the manuscript have been reasonably achieved. Thus, the work could be adjudged complete within its limitations. In a nutshell, this is a high-quality manuscript that clarified the contributions of DNA polymerase IV (dinB) and catalase HP2 (katE) genes in E. coli's adaptation to beta-lactam resistance. In particular, the work has established that dinB and katE may not be as critical for beta-lactam adaptation as generally assumed. This could be quite thought-provoking to the scientific community However; I have outlined some comments that could help improve the quality of the manuscript.
+
+Comments:
+
+1. Line 155. There may be no need of a hyphen between 5 and minute, also the word ‘minutes’ should be written in the plural form, to make it consistent with the other usage elsewhere in the manuscript.
+
+Accepted and corrected accordingly
+
+2. L192. The concentration of the antibiotic used needs to be specified.
+
+Accepted and corrected accordingly
+
+3. L196. Specify the concentration of the agarose used
+
+Accepted and corrected accordingly
+
+4. L439 - 440 The direct involvement of frdD should be further elaborated to adequately discuss its role based on the findings of this study.
+
+Frankly, we found this comments slightly confusing. The Involvement of frdD is extensively discussed in line 414-46. The combined authors came up with the following ideas to address this comment:
+
+1. "Mutations in the frd operon have been described to boost ampC amplification and contribute to beta-lactam resistance”: Here, I guess we could compare the expression of ampC in strains with and without these mutations to add to the data in the cited papers
+
+These data turned out very hard to compare, confusing instead of clarifying the issue.
+
+2. "changes in energy availability and cellular redox status, influenced by frdD expression, may affect the efficiency of cell wall synthesis, and by extension, bacterial susceptibility to beta-lactam antibiotics.”: This is a long-shot, but could we look at expression of e.g. cell wall synthesis pathway genes in relation to the frdD expression? If we see an association, I guess that would strengthen this case, but this might be hard as I know energy metabolism is affected by a bunch of different things.
+
+This association didn’t materialize either.
+
+3. We already analysed the fumarate reductase/succinate dehydrogenase relationship in detail, so this cannot be expanded.
+
+4. "Superoxide dismutase activity has been linked to antibiotic resistance by activating the stringent response, upregulating efflux pumps, downregulating of the outer membrane porin OmpF, and co-regulation of the multidrug-resistant locus mar”: Do we see these upregulations together with increased frdD levels in our data?
+
+Turns out that this is not the case either.
+
+5. "elevated superoxide levels can increase mutagenesis”: We have the transcriptomics data from the final strains. It might be interesting to compare the frdD levels at the mid-point to the number of mutations in the corresponding final evolved strains. However, this may be comparing apples to oranges.
+
+Indeed, when this analysis was tried, the outcome was an uninterpretable mess.
+
+In short, since the involvement of frdD has already been discussed extensively in the framework oh the literature (lines 414-46), we have decided not to add to that. We hope to have convinced you that this is not out of disrespect for the reviewer or lack of will to make the effort.
+
+Submitted filename:
+
+
+
+Genetic Adaptation to Amoxicillin in Escherichia coli: The Limited Role of dinB and katE
+
+PONE-D-24-43795R1
+
+Dear Dr. KUILE,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice will be generated when your article is formally accepted. Please note, if your institution has a publishing partnership with PLOS and your article meets the relevant criteria, all or part of your publication costs will be covered. Please make sure your user information is up-to-date by logging into Editorial Manager at
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact
+
+Kind regards,
+
+Bashir Sajo Mienda, PhD
+
+Academic Editor
+
+PLOS ONE
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+
+
+1. If the authors have adequately addressed your comments raised in a previous round of review and you feel that this manuscript is now acceptable for publication, you may indicate that here to bypass the “Comments to the Author” section, enter your conflict of interest statement in the “Confidential to Editor” section, and submit your "Accept" recommendation.
+
+Reviewer #1: All comments have been addressed
+
+**********
+
+2. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+**********
+
+3. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: I Don't Know
+
+**********
+
+4. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The
+
+Reviewer #1: Yes
+
+**********
+
+5. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+**********
+
+6. Review Comments to the Author
+
+Please use the space provided to explain your answers to the questions above. You may also include additional comments for the author, including concerns about dual publication, research ethics, or publication ethics. (Please upload your review as an attachment if it exceeds 20,000 characters)
+
+Reviewer #1: (No Response)
+
+**********
+
+7. PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1: No
+
+**********
+
+
+
+PONE-D-24-43795R1
+
+PLOS ONE
+
+Dear Dr. ter Kuile,
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now being handed over to our production team.
+
+At this stage, our production department will prepare your paper for publication. This includes ensuring the following:
+
+* All references, tables, and figures are properly cited
+
+* All relevant supporting information is included in the manuscript submission,
+
+* There are no issues that prevent the paper from being properly typeset
+
+If revisions are needed, the production department will contact you directly to resolve them. If no revisions are needed, you will receive an email when the publication date has been set. At this time, we do not offer pre-publication proofs to authors during production of the accepted work. Please keep in mind that we are working through a large volume of accepted articles, so please give us a few weeks to review your paper and let you know the next and final steps.
+
+Lastly, if your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact
+
+If we can help with anything else, please email us at
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. Bashir Sajo Mienda
+
+Academic Editor
+
+PLOS ONE

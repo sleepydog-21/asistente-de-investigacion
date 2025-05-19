@@ -1,0 +1,11 @@
+{
+  "id": "40245090",
+  "title": "Membrane-associated σ factors disrupt rRNA operon clustering in Escherichia coli.",
+  "doi": null,
+  "authors": "Ho K, Harshey RM",
+  "journal": "PLoS biology",
+  "year": "2025",
+  "abstract": "Chromosomal organization in Escherichia coli as examined by Hi-C methodology indicates that long-range interactions are sparse. Yet, spatial co-localization or \"clustering\" of 6/7 ribosomal RNA (rrn) operons distributed over half the 4.6 Mbp genome has been captured by two other methodologies-fluorescence microscopy and Mu transposition. Our current understanding of the mechanism of clustering is limited to mapping essential cis elements. To identify trans elements, we resorted to perturbing the system by chemical and physical means and observed that heat shock disrupts clustering. Levels of σH are known to rise as a cellular response to the shock. We show that elevated expression of σH alone is sufficient to disrupt clustering, independent of heat stress. The anti-clustering activity of σH does not depend on its transcriptional activity but requires core-RNAP interaction and DNA-binding activities. This activity of σH is suppressed by ectopic expression of σD suggesting a competition for core-RNAP. A query of the other five known σ factors of E. coli found that elevated expression of FecI, the ECF σ factor that controls iron citrate transport, also perturbs clustering and is also suppressed by σD. We discuss a possible scenario for how these membrane-associated σ factors participate in clustering of distant rrn loci.",
+  "source": "PubMed",
+  "pmcid": "PMC12037070"
+}

@@ -1,0 +1,75 @@
+The genus
+
+Recently,
+
+Multidrug-resistant
+
+Accurate differentiation of
+
+The emergence of multidrug-resistant bacteria is complicating the provision of healthcare in low- and middle-income countries (LMIC) including Ethiopia [
+
+A multicentre cross-sectional study was conducted between October 2019 and September 2020 among patients investigated for sepsis at four Ethiopian referral hospitals located in central, southern, and northern parts of the country. These hospitals were Tikur Anbessa Specialized Hospital (TASH) and Yekatit 12 Specialized Hospital Medical College (Y12HMC) in the central, Hawassa University Comprehensive Specialized Hospital (HUCSH) in the southern and Dessie Referral Hospital (DRH) in the northern parts of Ethiopia. The details of each hospital can be accessed from previous work [
+
+All patients with suspected cases of sepsis and who sought medical service at the four hospitals were included in the study. The attending physician’s decision was applied to identify eligible patients as sepsis cases. Patients in all age groups were included however those who had been on antibiotic treatment within the preceding ten days were excluded from the study. The sociodemographic and clinical data of eligible patients were gathered using a standardized pretested questionnaire. From all hospitals, a total of 1416 clinically diagnosed cases of sepsis from different wards were enrolled in this study.
+
+A single blood culture bottle system was processed for each patient. All blood culture bottles were incubated aerobically at 37°C for seven consecutive days and inspected daily for signs of bacterial growth. Blood samples that grew turbid before the seventh day and blood samples that were non-turbid on the seventh day were sub-cultured on blood agar (Oxoid Ltd, UK) and MacConkey agar (Oxoid Ltd, UK) at 37°C for 24 h. Bacterial identification was performed with standardized laboratory protocols and all bacteria were characterized by their colony characteristics, gram staining, and conventional biochemical tests. Triple sugar iron, indole, urea, citrate, lysine decarboxylase, motility, and malonate biochemical media were used for the identification of
+
+The antimicrobial susceptibility testing (AST) of
+
+All
+
+Genome assembly was done using SPAdes (version 3.9) and using the assembled genomes, Basic Local Alignment (BLAST) search for all
+
+The data was prepared using Microsoft Office Excel and imported to SPSS version 28 for analysis. Descriptive statistics (count, mean, percentages or frequency and standard deviation) were calculated. The frequencies of acquired AMR, plasmid replicons, and virulence genes were calculated. Chi-square was used to determine associations of sociodemographics with
+
+This study was approved by the Department of Microbiology, Immunology and Parasitology Ethical Review Committee (DEREC/18/19/01-H) and Institutional Review Board (AAUMF 01–008) of College of Health Science, Addis Ababa University. It was also approved by AHRI/ALERT Ethics Review Committee (protocol number: P050/18) of the Armauer Hansen Research Institute and National Ethical Review Committee (Ref No. MoSHE//RD/14.1/690/19).
+
+In this study, a total of 1416 patients investigated for sepsis at the four hospitals were included. The frequency of sepsis patients at TASH, HUCSH, DRH, and Y12HMC was 501, 316, 301, and 298, respectively. The proportion of male participants was 55.3% while females were 46.7%. Patients’ ages ranged from half a day to 90 years with a mean age of 8.85 years. Detailed patient characteristics can be accessed from previous work [
+
+Among 1416 patients investigated for sepsis, a total of 74
+
+Frequency of
+
+TASH, Tikur Anbessa Specialized Hospital; Y12HMC, Yekatit 12 Specialized Hospital Medical College; DRH, Dessie Referral Hospital, HUCSH, Hawassa University Comprehensive Specialized Hospital; * Patients who were transferred from other healthcare facilities to the study sites.
+
+At each study site, most
+
+The antibiotic susceptibility patterns of all
+
+Antimicrobial susceptibility patterns and frequencies and distributions of antimicrobial resistance genes carried by
+
+AST, antimicrobial susceptibility testing; S, sensitive; R, resistance; I, intermediate; AMK –amikacin; AMP, ampicillin; AMC, amoxicillin/clavulanate; SAM, ampicillin-sulbactam; ATM, aztreonam; FEP, cefepime; CTX, cefotaxime; CRO, ceftriaxone; CAZ, ceftazidime; CXM, cefuroxime; CIP, ciprofloxacin; C, chloramphenicol; DO, doxycycline; GEN, gentamicin; MEM, meropenem; TZP, piperacillin/tazobactam; SXT, trimethoprim-sulfamethoxazole; TE, tetracycline; TASH, Tikur Anbessa Specialized Hospital; DRH, Dessie Referral Hospital, HUCSH, Hawassa University Comprehensive Specialized Hospital.
+
+Many
+
+Among all
+
+At DRH, the most frequently detected resistance genes were
+
+The core genome maximum likelihood tree constructed for the 74
+
+Maximum-likelihood tree generated from the core genome of 74
+
+Most of the
+
+From the central part of the country, only two
+
+The SNP pair count matrix revealed that two major clonal groups within the sequence types circulated at study sites (Supplementary Figure 1). The first group is located in the upper-right quadrant of the matrix (white areas), with internal SNP differences ranging from 0 to 30, indicating recent clonal expansion or dissemination at DRH (Supplementary Figure 1). The second group, positioned in the lower-right quadrant (light pink area), shows a higher internal SNP variation (18,000–20,000 SNPs), suggesting some level of genetic divergence within this clonal population (Novel ST(Nearest 973)) identified at HUCSH (Supplementary Figure 1). Additionally, the novel ST (DRH_Novel ST(Nearest 2466)) appears in the matrix with a burgundy colour with a substantial SNP difference (approximately 60,000 SNPs) from other sequence types may indicate a more distantly related lineage or an evolutionary separation (Supplementary Figure 1).
+
+Among the 28
+
+At TASH, one isolates carried IncFIB(K) and IncFII(K) while the other isolate harboured Col(BS512), IncFIA, IncFIB(AP001918), IncFIB(K), and IncY together with IncFIB(K) and IncFII(K) (
+
+All
+
+All
+
+Similar to previous studies done elsewhere [
+
+In this study, many
+
+The phylogeny analysis revealed that two groups of
+
+Interestingly, many
+
+The identification and report of MDR

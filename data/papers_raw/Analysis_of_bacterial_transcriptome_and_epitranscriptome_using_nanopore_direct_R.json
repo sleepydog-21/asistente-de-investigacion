@@ -1,0 +1,11 @@
+{
+  "id": "39011882",
+  "title": "Analysis of bacterial transcriptome and epitranscriptome using nanopore direct RNA sequencing.",
+  "doi": null,
+  "authors": "Tan L, Guo Z, Shao Y, Ye L, Wang M, Deng X, Chen S, Li R",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Bacterial gene expression is a complex process involving extensive regulatory mechanisms. Along with growing interests in this field, Nanopore Direct RNA Sequencing (DRS) provides a promising platform for rapid and comprehensive characterization of bacterial RNA biology. However, the DRS of bacterial RNA is currently deficient in the yield of mRNA-mapping reads and has yet to be exploited for transcriptome-wide RNA modification mapping. Here, we showed that pre-processing of bacterial total RNA (size selection followed by ribosomal RNA depletion and polyadenylation) guaranteed high throughputs of sequencing data and considerably increased the amount of mRNA reads. This way, complex transcriptome architectures were reconstructed for Escherichia coli and Staphylococcus aureus and extended the boundaries of 225 known E. coli operons and 89 defined S. aureus operons. Utilizing unmodified in vitro-transcribed (IVT) RNA libraries as a negative control, several Nanopore-based computational tools globally detected putative modification sites in the E. coli and S. aureus transcriptomes. Combined with Next-Generation Sequencing-based N6-methyladenosine (m6A) detection methods, 75 high-confidence m6A candidates were identified in the E. coli protein-coding transcripts, while none were detected in S. aureus. Altogether, we demonstrated the potential of Nanopore DRS in systematic and convenient transcriptome and epitranscriptome analysis.",
+  "source": "PubMed",
+  "pmcid": "PMC11347139"
+}

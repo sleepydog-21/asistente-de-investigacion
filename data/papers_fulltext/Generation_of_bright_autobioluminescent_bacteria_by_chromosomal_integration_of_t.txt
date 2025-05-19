@@ -1,0 +1,105 @@
+Cellular light emission by the process of bioluminescence can be conveniently used to image living cells. Due to its independence from external light, bioluminescence can be easily imaged with a low-complexity optical system while background signal is virtually absent. Therefore, bioluminescence is in particular superior to fluorescence imaging in samples with high autofluorescence such as tissues. In addition, bioluminescence imaging can be used for long-term measurements without phototoxicity or photobleaching and also enables the observation of light-sensitive cells
+
+The bioluminescence system from bacteria is of particular interest since it allows imaging without external substrates. This is due to the fact that both the light-producing enzyme, the luciferase, and its substrates can be synthesized by the cell itself by simultaneous expression of the following genes:
+
+One specific application of the bacterial bioluminescence system is the highly sensitive detection of bacteria in different environments. For example, it can be used to image the spreading of bacterial infections within the living host
+
+Since numerous applications of bioluminescence imaging would benefit from a genetically encodable bioluminescence system with high light output, we previously optimized the brightness obtained with the
+
+In our previous approach, we expressed all
+
+To explore this second possibility further, a mathematical model of the bioluminescence reaction was developed in order to determine the screening conditions under which the screening is most sensitive (i.e., even small changes in enzyme activities can be detected). Since the only observable in the screening is the bioluminescence signal rather than the enzyme activities themselves, this implies that the relative increase of the bioluminescence signal with an increase in activity of the iLux proteins should be maximized. For this purpose, the rate of light emission B as a function of the substrate concentrations was first qualitatively calculated by assuming the reaction scheme in Fig.
+
+Reaction scheme of the bacterial bioluminescence reaction. LuxAB: luciferase, RCHO: fatty aldehyde, RCOOH: fatty acid, FMN: flavin mononucleotide, FMNH
+
+As shown in Fig.
+
+Qualitative model of the bioluminescence signal. (a) Bioluminescence signal B as a function of the concentrations of the substrates RCHO (aldehyde) and FMNH
+
+Starting from the previously described
+
+Mutagenesis and screening of
+
+Mutagenesis and screening of
+
+Mutagenesis and screening of
+
+Screening of the third component frp required special consideration. Whereas Frp activity needed to be low in comparison to LuxAB and LuxCDE for a screening that was sensitive by the above considerations, it simultaneously had to be sufficiently high to be distinguishable from the activity of other cellular flavin reductases. Using the same plasmid combinations for screening as for
+
+Mutagenesis and screening of
+
+Overall, the brightness of
+
+To analyze potential changes in aldehyde chain length specificity of iLux2CDE in comparison to iLuxCDE, it was attempted to purify the LuxCDE proteins to measure their activity with different fatty acids in vitro. According to our previous work
+
+Octanoic (C8), hexadecanoic (C16) and octadecanoic acid (C18) did not produce signal discriminable from the background signal caused by production of aldehydes from cellular substrates. For octanoic acid, this is likely due to the fact that aldehydes of eight or fewer carbon atoms are poor substrates for bacterial luciferase
+
+To test if iLux2CDE increases the brightness also in bacteria other than
+
+Next,
+
+Comparison of bioluminescence emission from the chromosomally expressed operons
+
+The
+
+Imaging with the AI 600 RGB was performed at room temperature instead of 37 °C, where bioluminescence levels are 2–3 times higher
+
+Imaging of single Top10 cells with
+
+Finally, the
+
+Growth of
+
+By optimization of the screening conditions, it was demonstrated that light emission from the bacterial bioluminescence system can be improved under certain expression conditions compared to the previously engineered
+
+The enhanced light emission of the
+
+The increased brightness of
+
+To determine the optimal conditions for the screening, a mathematical model was set up based on the reaction scheme in Fig.
+
+Based on the reaction scheme, the emitted bioluminescence B is proportional to the concentration of the LFOA complex:
+
+Under cellular steady-state conditions, the concentrations of LA, LF, LFO and LFOA remain constant. Therefore, the following rate equations can be deduced from Fig.
+
+In addition, the concentrations of all intermediates must equal the total cellular concentration of luciferase [L]
+
+This set of six equations was solved with a custom-written Matlab (The MathWorks, Inc., Natick, Massachusetts) script. Since the rate constants k
+
+From this equation, it is evident that the bioluminescence signal increases less than proportionally with the substrate concentrations [F] and [A], i.e., an increase in [F] or [A] results in a smaller percentage change of B. For optimal sensitivity in the screening, the relative signal change with varying concentrations of the reactants (F, A and L, respectively) must be maximal. This was calculated as the derivative of B with respect to the screened reactant and normalized to B, yielding for F:
+
+The vector pGEX(−) for tagless expression of the Lux proteins was generated as described previously
+
+For low-level expression, the tac promoter in pGEX(−) was exchanged against a lac promoter by PCR of the vector with the primers pGEX(−) + lac BamHI rev and pGEX(−) BamHI fwd and digestion with BamHI, followed by ligation without an insert.
+
+To maintain two plasmids in the same cell during the screening, the ColE1 origin of replication in pGEX(−) was exchanged against the p15A origin of replication (p15Aori). For this purpose, the p15A origin of replication was PCR amplified with the primers p15Aori BglII fwd and p15Aori AvrII rev, whereas the vector backbone was amplified with the primers pGEX(−) BglII rev and pGEX(−) AvrII fwd. Both parts were digested with BglII and AvrII and subsequently ligated.
+
+For mutagenesis of
+
+For mutagenesis of
+
+For chromosomal insertion,
+
+Insertion of the transgenes from pGRG25 into
+
+To compare the brightness of different variants, bacteria were transformed with the indicated plasmids and grown on LB agar plates containing the appropriate antibiotics overnight. The following day, single colonies were spread out onto a new LB agar plate. If not stated otherwise, plates were incubated at 37 °C overnight. The following day, plates were imaged with the AI 600 RGB to quantify the bioluminescence signal using the lower tray position and exposure times ranging from 1 s to 10 min.
+
+The number of detectable cells of stable Top10 strains containing
+
+Imaging of single
+
+Movies of the stable
+
+
+
+Supplementary Video 1.
+
+Supplementary Video 2.
+
+Supplementary Video 3.
+
+Supplementary Video 4.
+
+Supplementary Video 5.
+
+Supplementary Information 1.

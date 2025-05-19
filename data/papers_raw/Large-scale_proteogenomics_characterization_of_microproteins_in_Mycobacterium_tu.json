@@ -1,0 +1,11 @@
+{
+  "id": "39732784",
+  "title": "Large-scale proteogenomics characterization of microproteins in Mycobacterium tuberculosis.",
+  "doi": null,
+  "authors": "de Souza EV, Dalberto PF, Miranda AC, Saghatelian A, Pinto AM, Basso LA, Machado P, Bizarro CV",
+  "journal": "Scientific reports",
+  "year": "2024",
+  "abstract": "Tuberculosis remains a burden to this day, due to the rise of multi and extensively drug-resistant bacterial strains. The genome of Mycobacterium tuberculosis (Mtb) strain H37Rv underwent an annotation process that excluded small Open Reading Frames (smORFs), which encode a class of peptides and small proteins collectively known as microproteins. As a result, there is an overlooked part of its proteome that is a rich source of potentially essential, druggable molecular targets. Here, we employed our recently developed proteogenomics pipeline to identify novel microproteins encoded by non-canonical smORFs in the genome of Mtb using hundreds of mass spectrometry experiments in a large-scale approach. We found protein evidence for hundreds of unannotated microproteins and identified smORFs essential for bacterial survival and involved in bacterial growth and virulence. Moreover, many smORFs are co-expressed and share operons with a myriad of biologically relevant genes and play a role in antibiotic response. Together, our data presents a resource of unknown genes that play a role in the success of Mtb as a widespread pathogen.",
+  "source": "PubMed",
+  "pmcid": "PMC11682046"
+}

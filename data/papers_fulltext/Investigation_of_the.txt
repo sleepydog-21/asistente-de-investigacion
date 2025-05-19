@@ -1,0 +1,49 @@
+Multiple examples of natural endosymbiotic events suggest a propensity for the nitrogenase (
+
+The commonly occurring nitrogenase enzyme is composed of two metalloproteins: the MoFe protein (dinitrogenase, NifDK) and the Fe protein (dinitrogenase reductase, NifH) (
+
+In our earlier work, we demonstrated the feasibility of expressing the native 24 gene
+
+In the
+
+Expression levels of nitrogenase structural genes affect nitrogen fixation activities in engineered
+
+Three promoters characterized in an earlier study (
+
+To find the essential genes for nitrogenase activity, we used a bottom–up strategy to build operons containing the genes from the native
+
+Rebuilding the functional nitrogenase enzyme in
+
+Of the 24 genes in the native
+
+As direct electron donors to Fe protein, ferredoxins are known to significantly affect nitrogenase activity (
+
+Ferredoxins affect nitrogenase activity in engineered
+
+The ferredoxins tested had a diverse effect on nitrogenase activity (
+
+Of the 16 annotated genes in strain RC5, only the structural genes
+
+Deletion analysis of the genes shown in the re-constructed
+
+As anticipated, deletion of
+
+Members of the genus
+
+In order to convert N
+
+In this work, we have described the minimal set of
+
+All cyanobacterial strains were cultured in 100 mL flasks with fresh BG11 medium and appropriate antibiotics (20 µg/mL kanamycin, 3 µg/mL gentamycin, or 20 µg/mL spectinomycin). Cells were pre-cultured at 30°C under 50 µmol photons⋅m
+
+Plasmids and strains used in this study are listed in
+
+Plasmids based on pUC118 and pCB-SC101 vectors were all transformed by natural transformation (
+
+All PCR amplifications were performed using Phusion high-fidelity DNA polymerase (Thermo Scientific). Plasmids and PCR products were purified using the GeneJET (Thermo Scientific) plasmid miniprep and gel extraction kits, respectively. Oligonucleotides were designed using SnapGene software (GSL Biotech LLC) and synthesized by IDT (Coralville, IA). All of the plasmids constructed in this study were checked by sequencing to confirm the correct DNA coding information (Genewiz, NJ).
+
+Fluorescence intensities were measured as described earlier (
+
+Nitrogen fixation activity was measured by an acetylene reduction assay modified from a previously published method (
+
+Total protein levels were determined on a plate reader (Bio-Tek Instruments, Winooski, VT) using a bicinchoninic acid assay kit (Pierce, Rockford, IL) according to the manufacturer’s instructions. Cell dry weight was determined from cell pellets of 100 mL culture aliquots that were centrifuged for 15 min at 4°C and 9,000 ×

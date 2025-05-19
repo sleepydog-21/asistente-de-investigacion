@@ -1,0 +1,59 @@
+Carbamoyl phosphate (CP) is an essential metabolite involved in the biosynthesis of pyrimidine nucleotide and arginine/urea and also in the synthesis of antibiotics [
+
+CP is produced in various pathways using several unique enzymes. The first pathway is irreversible formation of CP by carbamoyl phosphate synthetase (CPS) from ammonia (or glutamine), bicarbonate, and ATP, observed in most organisms. In the urea cycle of mammalian mitochondria, CP is formed from inorganic ammonium and bicarbonate by CPS catalysis, which consumes 2 ATP (reaction 1). This CPS using inorganic ammonia as the nitrogen donor is called CPS I:
+
+
+
+The biosynthesis of arginine and pyrimidine uses CP produced by CPS to catalyze the transfer of ammonia from glutamine to bicarbonate and also requires 2 ATP (reaction 2). This type of CPS using glutamine as the nitrogen donor is called CPS II:
+
+
+
+The best studied example of CPS II is in
+
+The second path of CP formation is catalyzed by carbamate kinase-like CPS (CK-like CPS) and occurs in only a few organisms that inhabit unusual environments. For example, in some hyperthemophilic archaea such as
+
+
+
+
+
+The third case of CP generation uses a degradation (catabolic) pathway rather than a biosynthetic (anabolic) pathway. Shi
+
+To produce a concentrated cell suspension,
+
+Using RNAprotect bacteria reagent (76506, Qiagen, Germany) and an RNeasy mini kit (74104, Qiagen), total mRNA was isolated from
+
+The
+
+Culture supernatants were analyzed using an Hitachi LaChrom Elite HPLC System (Hitachi High-Tech Corp., Japan), equipped with a pump (L-2130), column oven (L-2350), autosampler (L-2200), and an Aminex HPX-87H ion-exclusion column (300 × 7.8 mm; Bio-Rad, USA). The mobile phase was 4 mM H
+
+The
+
+Elution fractions were analyzed with sodium dodecyl sulfate–polyacrylamide gel electrophoresis (SDS-PAGE) and western blotting. Samples were subjected to SDS-PAGE (Bio-Rad) using a 12% running gel. Electrophoretic transfer was performed on an Amersham Hybond P western blotting membrane (GE Health, USA) with a Trans-Blot SD Semi-Dry Transfer Cell (Bio-Rad). After blotting (15 V, 1 h 20 min), the membrane was blocked for 1 h at room temperature. Then, the membrane was incubated overnight at 4°C with 6X His-tag monoclonal primary antibody (MA1-21315, Invitrogen, USA), which was diluted 1:2000. Subsequently, horseradish peroxidase–coupled goat anti-mouse secondary antibody (G21040, Invitrogen) was diluted 1:100000 and incubated with the membrane at room temperature for 1 h. Dyne ECL Pico Plus (GBE-P200, Dynebio, Republic of Korea) was used to detect peroxidase activity. Development was performed using an ImageQuant800 (USA).
+
+The carbamate kinase activity assay was measured the production of ATP during the conversion of ADP (adenosine 5’-diphosphate sodium salt, A2754, Sigma-Aldrich, USA) and CP (carbamoyl phosphate di-lithium salt, C5625, Sigma-Aldrich). For this, 2 mM ADP, 2 mM CP, and 100 nM YbcF (or lysate) were added to the reaction mixture containing 20 mM Tris-Cl (pH 6.0, 7.0, or 8.0), 30 mM MgCl
+
+To determine the concentration-dependent kinetics, CK activity was measured using 100 nM YbcF by varying the concentration of CP from 0 to 3 mM while holding ADP fixed at 2 mM, and vice versa. After 60 min at 28°C, the ATP concentration in the reaction mixture was measured with an ATP Determination Kit (A22066, Molecular Probes Inc., USA). The ATP standard (10 μl) or carbamate kinase assay sample (10 μl) was added to the Standard Reaction Solution (90 μl, 0.5 mM D-luciferin, 1.25 μg/ml firefly luciferase, 25 mM tricine buffer, pH 7.8, 5 mM MgSO
+
+The Michaelis-Menten constant (
+
+Statistical analyses were performed using PASW Statistics 18 (SPSS, Inc.). Data were analyzed using unpaired two-tailed Student’s
+
+The possible promoter regions for gene clusters in the
+
+We investigated and found that
+
+Because
+
+During anaerobic allantoin degradation, oxalurate is degraded into CP and oxamate by OXTCase (
+
+First, the CK activity of YbcF was evaluated using crude cell lysate (
+
+The optimal temperature and pH value for the CK enzyme assay were determined with purified YbcF. The overproduction and purification of YbcF were confirmed by SDS-PAGE and Western blotting (
+
+The CK kinetics of YbcF were investigated at 28°C and pH 8 for 60 min, and we calculated the amount of ATP produced as U/mg YbcF protein. CK has two substrates in the forward direction for allantoin degradation: CP and ADP. Thus, CK activity was measured depending on the concentration of those two substrates. Keeping ADP fixed at 2 mM, activity was measured as we changed the concentration of CP from 0–3 mM, and vice versa (
+
+We found in this study that catabolic CK is encoded by the
+
+The
+
+Supplementary data for this paper are available on-line only at

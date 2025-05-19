@@ -1,0 +1,45 @@
+Multidrug-resistant
+
+Polymyxin antibiotics, mainly colistin, are currently used as a last-line defense against MDR
+
+Consequently, the growing clinical reliance on colistin for the treatment of infections has led to a surge of colistin resistance among clinical strains [
+
+In this review, we discuss the colistin-resistant mechanisms of
+
+Colistin exerts its antibacterial activity on the outer membrane, which harbors lipopolysaccharides that constitute the cell surface [
+
+The genes
+
+The modification of lipid A moieties, such as the addition of molecules like 4-amino-4-deoxy-l-arabinose (L-Ara4N), phosphoethanolamine (PEtN), or galactosamine to lipid A, is another common mechanism of colistin resistance in
+
+In addition, the overexpression of the
+
+Plasmid-mediated transferable colistin resistance is mainly caused by mobile colistin resistance (
+
+When bacteria become resistant to antibiotics due to genetic mutations, they often incur a "biological cost." This cost manifests as a decrease in overall fitness, pathogenicity, and virulence compared to non-resistant bacteria [
+
+Mutations in the
+
+The whole-genome sequencing (WGS) data of four clinical
+
+The increase in Col-RAB is a major global concern due to the rise of multidrug-resistant strains resulting from the overuse of colistin. This worrisome development threatens to regress clinicians and patients to a time with limited treatment options akin to the pre-antibiotic era [
+
+The combination of colistin with other drugs has been proposed as an effective strategy to fight against MDR
+
+Adjuvants are non-antibiotic molecules that boost the effectiveness of antibiotics such as colistin. They help lower the necessary treatment dose and reduce its harmful effects. These compounds function by enhancing the antibiotic’s penetration into bacterial cells or blocking its expulsion, thus restoring susceptibility in extensively drug-resistant (XDR) strains. This method can be applied to address infections resistant to conventional therapies, presenting a hopeful tactic to tackle drug-resistant bacteria by enhancing the efficiency of current antibiotics.
+
+Drug repurposing is a potential approach in drug discovery that identifies new therapeutic uses for existing drugs to treat resistant infections. This strategy enhances the discovery process by leveraging the known pharmacological properties of these drugs, leading to faster and more cost-effective development compared to developing new drugs. By skipping preclinical trials and moving directly to Phase 2 to test drug efficacy, this approach offers economic advantages and rapidly expands the range of available infection treatments [
+
+Antimicrobial peptides (AMPs) are an important substitute for antibiotics that affect a wide range of microbes. AMPs offer a potential avenue to fight against MDR, XDR, and Col-RAB through a variety of mechanisms [
+
+Nanotechnology offers a promising approach to combat drug resistance by providing new treatment options and helping to conserve our antibiotic resources [
+
+In
+
+Antimicrobial photodynamic therapy (APDT) has emerged as a cutting-edge technique in modern healthcare systems, offering a promising alternative to traditional antibiotic therapy for photo-inactivating a wide range of bacterial pathogens [
+
+CRISPR-associated gene editing could offer a new solution to combat PDR
+
+Phage therapy is one of the most potent therapeutic approaches gaining momentum to address Col-RAB infections. A lysin from bacteriophage PMK34 in combination with colistin resulted in up to a 32-fold reduction of the MIC of colistin and reverted colistin-resistant strains to susceptible in both Mueller–Hinton broth and 50% human serum [
+
+Taken together, Col-RAB poses a significant challenge to healthcare systems. To address this threat effectively, a comprehensive alternative strategy is necessary. Col-RAB strains often incur a fitness cost, resulting in reduced virulence due to growth defects and impaired infection capabilities. Understanding these fitness costs could provide insights into managing antibiotic resistance by exploiting the increased susceptibility to other antibiotics through combination therapies [

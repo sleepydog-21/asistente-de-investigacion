@@ -1,0 +1,37 @@
+In a wide variety of organisms, improved results have been obtained using other portions of the rDNA operon, such as the internal transcribed spacer (ITS) region, composed of the 5.8S rDNA flanked by ITS-1 and ITS-2, or the large subunit (LSU) of rDNA, particularly its domains I and II [
+
+One lineage that would be interesting to analyse in more detail is that of
+
+In a previous study [
+
+The complete rDNA operon of
+
+In order to reliably confirm the sequence identification and to draw a basic tree topology, first, an analysis was performed on the 18S rDNA. The consistency of the relationships was then analysed for the other parts of the rDNA operon. Sequences of T4 species were used as outgroups. Multiple alignments were performed using MAFFT v. 7 (L-INS-I option) [
+
+Most of the 18S sequences included in the analysis are nearly complete (>2200 bp). However, several of them contain indels and/or modified sites, probably due to sequencing errors. These are indeed incompatible with the 2D reconstructions of the regions concerned because they result either in mismatches between the paired stems (e.g., strain EI5) or in the loss or insertion of parts of one or more of their components (e.g., EFW strains). For the sequences newly recovered from soil metadata, the 18S portion is about 1670 bp (75% of the complete sequence), which includes most of the hypervariable regions allowing their identification.
+
+Phylogenetic analysis shows five distinct lineages within T2/T6, generally well supported and differing from each other by approx. 4%, although their precise relationships remain unclear (different results depending on the tree method and/or outgroup used). Two of them correspond to the T2 and T6 genotypes, while the others could be putative new genotypes, as previously suggested [
+
+The OX1-like sequences show >97.7% similarity with OX-1, while the T6-like sequence is 96.2% similar to strain 2802, and all differ by 4.2–5.3% from
+
+The LSU portion of the new OX1- and T6-like sequences is approximately 3000 bp long and spans domains I to IV (up to stem 71) (numbering after Petrov et al. [
+
+Partial LSU similarity values between the three OX1-like sequences range from 97.2 to 99.4% and from 98.2 to 99.6% between them and group A. The T6-like sequence, Ac_9385, has a higher similarity (98.2%) to the 01582 sequence (group C) than to group B (<95%), which forms a distinct lineage. The values between OX1 and T6 types are 94.1–94.7% and 94.6–95.6% between these and
+
+It has been previously shown that in
+
+Phylogenetic analysis based on 5.8S rDNA plus ITS-2 fully confirms the results obtained with LSU, showing even better resolution and stronger statistical support for internal nodes with high intragroup similarities (>95%).
+
+The overall structure of the ITS-2 of
+
+Helix II is recognisable by the typical C/U mismatch, producing a bulge near the base of the stem. Helix III is particularly long, about 380–500 nt, and has an additional small helix IIIa at its base of about 20 nt. Within T6, however, group C differs in having a relatively short helix III of only 140 nt and no helix IIIa (
+
+Inspection of the terminal portion of helix III, particularly the last 30 nt on the 5′ side, reveals strong variation between lineages (
+
+The
+
+Analyses based on 18S (
+
+ITS-2 is used as a barcode and guide to delimit species, usually on the basis of compensatory base changes in homologous parts of the molecule that otherwise have identical sequences. In many organisms, even a few changes are correlated with reproductive incompatibility [
+
+The ITS-LSU portion undoubtedly provides useful data for the phylogenetic analysis of

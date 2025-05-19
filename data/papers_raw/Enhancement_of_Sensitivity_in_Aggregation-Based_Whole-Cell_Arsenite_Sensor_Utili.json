@@ -1,0 +1,11 @@
+{
+  "id": "40256515",
+  "title": "Enhancement of Sensitivity in Aggregation-Based Whole-Cell Arsenite Sensor Utilizing Arsenic Metabolism Regulation.",
+  "doi": null,
+  "authors": "Abe S, Ayuba R, Ouchi K, Tanaka YK, Fujimoto A, Kitamura A, Ogra Y, Kimura Y, Umeno D, Kawai-Noma S",
+  "journal": "ACS omega",
+  "year": "2025",
+  "abstract": "Arsenite [As(III)] is a toxic substance widely present on Earth, and the development of low-cost and simple microbial-based As(III) sensors has been attracting attention. Recently, we discovered that the protein LuxR, which contains multiple cysteine residues with high affinity for As(III), forms an insoluble structure upon binding to As(III) and exhibits OFF-switching properties as a quorum sensing transcriptional activator. Based on this property, the LuxR sensor operates on a new principle distinct from conventional whole-cell As(III) sensors; however, its sensitivity remains a challenge. In this study, we aimed to improve the sensitivity of the whole-cell OFF-type As(III) sensor by increasing the frequency of intracellular interactions between the sensor protein and As(III). We utilized the super-repressor properties of ArsR, a transcriptional repressor of the As(III)-metabolizing",
+  "source": "PubMed",
+  "pmcid": "PMC12004184"
+}

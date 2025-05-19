@@ -1,0 +1,11 @@
+{
+  "id": "36271797",
+  "title": "Molecular basis for lethal cross-talk between two unrelated bacterial transcription factors - the regulatory protein of a restriction-modification system and the repressor of a defective prophage.",
+  "doi": null,
+  "authors": "Wisniewska A, Wons E, Potrykus K, Hinrichs R, Gucwa K, Graumann PL, Mruk I",
+  "journal": "Nucleic acids research",
+  "year": "2022",
+  "abstract": "Bacterial gene expression depends on the efficient functioning of global transcriptional networks, however their interconnectivity and orchestration rely mainly on the action of individual DNA binding proteins called transcription factors (TFs). TFs interact not only with their specific target sites, but also with secondary (off-target) sites, and vary in their promiscuity. It is not clear yet what mechanisms govern the interactions with secondary sites, and how such rewiring affects the overall regulatory network, but this could clearly constrain horizontal gene transfer. Here, we show the molecular mechanism of one such off-target interaction between two unrelated TFs in Escherichia coli: the C regulatory protein of a Type II restriction-modification system, and the RacR repressor of a defective prophage. We reveal that the C protein interferes with RacR repressor expression, resulting in derepression of the toxic YdaT protein. These results also provide novel insights into regulation of the racR-ydaST operon. We mapped the C regulator interaction to a specific off-target site, and also visualized C protein dynamics, revealing intriguing differences in single molecule dynamics in different genetic contexts. Our results demonstrate an apparent example of horizontal gene transfer leading to adventitious TF cross-talk with negative effects on the recipient's viability. More broadly, this study represents an experimentally-accessible model of a regulatory constraint on horizontal gene transfer.",
+  "source": "PubMed",
+  "pmcid": "PMC9638921"
+}

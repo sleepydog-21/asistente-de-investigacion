@@ -1,0 +1,11 @@
+{
+  "id": "40052347",
+  "title": "Insight into the environmental cues modulating the expression of bacterial toxin-antitoxin systems.",
+  "doi": null,
+  "authors": "Ostyn E, Augagneur Y, Pinel-Marie ML",
+  "journal": "FEMS microbiology reviews",
+  "year": "2025",
+  "abstract": "Bacteria require sophisticated sensing mechanisms to adjust their metabolism in response to stressful conditions and survive in hostile environments. Among them, toxin-antitoxin (TA) systems play a crucial role in bacterial adaptation to environmental challenges. TA systems are considered as stress-responsive elements, consisting of both toxin and antitoxin genes, typically organized in operons or encoded on complementary DNA strands. A decrease in the antitoxin-toxin ratio, often triggered by specific stress conditions, leads to toxin excess, disrupting essential cellular processes and inhibiting bacterial growth. These systems are categorized into eight types based on the nature of the antitoxin (RNA or protein) and the mode of action of toxin inhibition. While the well-established biological roles of TA systems include phage inhibition and the maintenance of genetic elements, the environmental cues regulating their expression remain insufficiently documented. In this review, we highlight the diversity and complexity of the environmental cues influencing TA systems expression. A comprehensive understanding of how these genetic modules are regulated could provide deeper insights into their functions and support the development of innovative antimicrobial strategies.",
+  "source": "PubMed",
+  "pmcid": "PMC11951105"
+}

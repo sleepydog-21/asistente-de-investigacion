@@ -1,0 +1,59 @@
+Many bacteria have flexible and branched respiratory chains that allow them to obtain energy through aerobic and anaerobic respiration under diverse conditions (
+
+Most redox reactions catalyzed by respiratory enzymes involve metal centers containing iron (as heme and iron-sulfur clusters) and copper. The HCO enzymes use a catalytic heme-copper binuclear center. In contrast, the cytbd enzymes contain heme but not copper ions (
+
+Cytochrome
+
+We screened a
+
+The
+
+ince a
+
+The cytochrome
+
+The importance of the
+
+The cytochrome
+
+CioR is predicted to be a GbsR-type transcriptional regulator on the basis of sequence homology (
+
+The
+
+Because CioAB confers
+
+The
+
+In addition, we evaluated by EMSA whether cyanide or other stressors were capable of inactivating CioR
+
+In this work, we demonstrated the regulation of the
+
+Our screen of a
+
+In this work, we have identified different conditions and transcriptional regulators controlling the expression of the
+
+We have previously demonstrated that the MarR family regulators OhrR and OsbR coordinate responses against oxidative stress in
+
+Many bacterial pathogens require cytochrome
+
+Bacterial strains and plasmids used in this work are described in
+
+Strains and plasmids
+
+Kan, kanamycin; Tet, tetracycline; Amp, ampicillin; NAL, nalidixic acid; R, resistance.
+
+Protein sequences of cytochrome
+
+A previously obtained
+
+All null-mutant strains were derived from the
+
+Siderophores were detected using the universal chrome azurol S (CAS) agar plate assay (
+
+The
+
+The region upstream of the
+
+The coding region of
+
+A DNA 6-FAM-labeled probe containing the promoter region of the

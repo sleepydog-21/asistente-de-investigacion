@@ -1,0 +1,77 @@
+The arabinose regulon was the first system in which positive control of gene expression was genetically demonstrated [
+
+The α subunit of RNA polymerase, encoded by the
+
+At the arabinose P
+
+We have used a genetic approach to search for functional suppressors that compensate for the detrimental effects of mutations in the RpoA α-CTD. Random mutagenesis of
+
+The
+
+Maspin (SERPINB5, P70124) is a member of the ovalbumin-related protease inhibitors family [
+
+The
+
+The original pBAD24-derived plasmids (AraC
+
+A complete deletion of the
+
+The chimeric protein PAI2::PhoA contains the signal sequence of murine PAI-2 fused to the mature portion of PhoA. Expression of this chimeric protein from the arabinose P
+
+The randomly selected
+
+The
+
+Colonies grown on McConkey-melibiose indicator plates were scored as R (red), identical to those of
+
+Both AraC and Crp promote transcription from the P
+
+To genetically define whether the interactions defective in the RpoA α-CTD mutants can be functionally suppressed, we carried out a suppressor screen. We used Δ
+
+We isolated four plasmids that contain mutations in the P
+
+We isolated four mutations in
+
+While induced expression mediated by wild-type AraC is strongly decreased in an
+
+These
+
+To determine whether any specificity could be observed between the AraC suppressors and other α-CTD mutated residues, we compared the K271E substitution with substitutions at the two flanking residues, L270 and A272 (
+
+In a different approach, using a mutagenic PCR protocol on a plasmid harboring the wild-type
+
+The observed functional suppression of RpoA α-CTD mutations and the lack of allele specificity of the AraC mutations are compatible with at least two models. Firstly, the suppressors could create or improve an interaction between the AraC-NTD and the RNA polymerase core. Alternatively, RpoA α-CTD could contact a specific site of AraC that remains to be identified. In this first scenario, functional suppression would not depend on the RpoA α-CTD. To discriminate between these two possibilities, we expressed either wild-type RpoA or an RpoA deletion that lacks the α-CTD (residues 243–329). Both proteins were expressed from the P
+
+In
+
+Since none of the AraC mutants described above suppressed the
+
+Since R251H also strongly increased expression in the
+
+In conclusion, we have characterized mutations in AraC that functionally compensate for the deleterious effect of
+
+The RpoA α-CTD domain is a pleiotropic hub required for transcription activation in multiple systems [
+
+Considering the number of
+
+The RpoA K271 substitutions affect CysB and MelR activity in addition to AraC [
+
+The properties of the
+
+We first isolated two types of suppressors. Mutations in the P
+
+The
+
+The positions of the
+
+Several residues identified here must affect the conformation of the AraC-NTD. I51 and I71 are in the core of the N-terminal domain, on the side of the β-sheet that faces the two α-helices promoting dimerization, with A152 being part of one of these helices. The other residues (D7, S14, and N16) are in the arm of the AraC-NTD, and their lateral chains face the outside of the N-terminal domain. Although it is possible that these residues contact the α-CTD, the major argument against a direct interaction of the flexible arm with the α-CTD lies in the absence of allele specificity between pairs of
+
+Alternatively, the AraC-NTD could interact with the RNA polymerase core. If this were the case, the activity of the AraC mutant proteins would be maintained in the presence of an RpoA protein lacking its C-terminal domain. Since this deletion is not viable, we expressed the RpoA deletion protein in strains carrying the
+
+The suppressors that localize to the AraC-NTD suggest a new function for this domain. In the absence of arabinose, the arm domain binds to the DNA-binding domain to ensure DNA looping and P
+
+The first evidence that the α-CTD domain binds DNA was observed with the UP element, upstream of the
+
+Transcription activation at P
+
+Distribution of the AraC suppressors on the structures of the AraC N-terminal domain dimer (PDB 2ARC) [

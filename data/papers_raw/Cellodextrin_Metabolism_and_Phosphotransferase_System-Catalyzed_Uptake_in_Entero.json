@@ -1,0 +1,11 @@
+{
+  "id": "39948710",
+  "title": "Cellodextrin Metabolism and Phosphotransferase System-Catalyzed Uptake in Enterococcus faecalis.",
+  "doi": null,
+  "authors": "Combret V, Rincé I, Cochelin R, Desriac F, Muller C, Soussan D, Hartke A, Deutscher J, Sauvageot N",
+  "journal": "Molecular microbiology",
+  "year": "2025",
+  "abstract": "Two PTS transporters involved in the uptake of cellobiose and short cellooligosaccharides were identified in Enterococcus faecalis. Genes coding for the different EII proteins are found in a locus composed of three operonic structures expressing two distinct EIIC (CelC1 and CelC2), two identical EIIB (CelB1 and CelB2) and a unique EIIA (CelA1). The EIIA plays a central role in β-glucoside uptake because it is required not only for β-homodiholosides but also for the diheteroside N-acetylglucosamine-L-asparagine. Depending on their size, cellooligosaccharides are preferably transported either by CelC1 (di-saccharides) or by CelC2 (4 glycosidic residues and more), with tri-saccharides being taken up by both EIIC transporters. Moreover, CelA1B2C2 require CelGHI to be functional, three small proteins, the function of which remains unknown. CelA1B1C1 is the main but not exclusive transporter of cellobiose and chitobiose. It is involved in the transport of other β-glucodisaccharides, such as laminaribiose and sophorose. This PTS can be complemented by other transporters highlighting the existence of a network for β-glucoside uptake. This locus is under the control of CelR, a LevR-like transcription activator.",
+  "source": "PubMed",
+  "pmcid": "PMC11976118"
+}

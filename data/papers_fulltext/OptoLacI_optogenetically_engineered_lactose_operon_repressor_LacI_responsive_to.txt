@@ -1,0 +1,97 @@
+
+
+Light-inducible systems offer several advantages over conventional chemical induction methods, including low toxicity, low cost, excellent reversibility, and high spatial and temporal resolution. These characteristics make them ideal tools for gene induction, cell function research, and disease therapy (
+
+With the advancement of optogenetics, an increasing number of photosensitive elements have been developed and applied in cell engineering, finding utility in various biological chassis (
+
+In this study, we strategically inserted the LOV2 domain into LacI, generating OptoLacI variants capable of direct control by blue light. Leveraging OptoLacI, we developed two light-controlled gene expression systems in
+
+The oligonucleotides used in this study were obtained from GENEWIZ (Azenta Life Sciences, Tianjin, China) (
+
+We cloned the super-fold green fluorescent protein (sfGFP) gene into the commercially available pET-28a vector using the NheI and XhoI restriction sites to construct the plasmid pZH37 (Control-1). The LacI and
+
+The pZH99 derived plasmid pML308 (carrying OptoLacI
+
+Plasmid pJH10, designed for 1,3-propanediol production, was constructed by cloning the genes of glycerol dehydrogenase (
+
+CRISPR-Cas9-based genome editing tool pEcCas/pTargetF system (
+
+The linearized patch fragments from plasmids pZH76 and pZH78, along with the pTargetF-
+
+Freshly transformed single colonies were selected and inoculated into 10 ml LB medium containing 50 μg/ml kanamycin. The incubated cultures were incubated at 37 °C in an orbital shaker (Zhichu Instrument Co., Ltd, Shanghai, China) under blue light condition (60 μmol m
+
+BL21(DE3) was used for the screening of light-responsive LacI variants. Plasmids, including pZH37, pZH35 and its derivatives harboring different candidate LacI variants, were individually transformed into BL21(DE3) competent cells. A single colony was picked cultured for overnight at 37 °C. Subsequently, the cultures were inoculated into two 24-well plates (NEST, 702001, China), each well containing 1 ml LB medium containing kanamycin (50 μg/ml). One plate was exposed to blue light (60 μmol m
+
+To optimize the induction intensity of the Opto
+
+To investigate the impact of
+
+To assess the influence of different intensities of blue light on the Opto
+
+To characterize the impact of various blue light pulse modes on the tunability of the Opto
+
+For the Opto
+
+To evaluate the spatial control performance of the Opto
+
+To assess protein production using the Opto
+
+Plasmid pJH10 was transformed into BL21(DE3) competent cells to construct the IPTG-induced 1,3-PDO synthesis strain, while plasmid pJH11 was transformed into OptoBL21
+
+At the end of fermentation, 800 μl of the culture supernatant was centrifuged at 12000 rpm for 10 min to collect the clarified lysate, and 1,3-PDO concentration was measured using a Waters HPLC system equipped with a refractive index detector, and an organic acid analytical column (Aminex HPX-87H, 300 mm × 7.8 mm, 9 μm; Bio-Rad) was used for separation. The column was eluted with 5 mM sulfuric acid at a flow rate of 0.6 ml/min at 55°C.
+
+Plasmid pYJ111 was transformed into BL21(DE3) competent cells to construct the IPTG-induced EGT synthesis strain. Plasmid pYJ165 was transformed into OptoBL21
+
+At the end of fermentation, the fermentation broth from each well was collected and subjected to incubation at 100 °C for 10 minutes. Subsequently, the samples were centrifuged at 12 000 rpm for 5 min. For further purification, the samples were then filtered through a 0.22 μm membrane filter prior to analysis by HPLC according to the previous research (
+
+The OptoLacI
+
+Harvested 2 × 800 ml cells for ultrasonic disruption (50 Hz, 1 s on, 3 s off, 40 min). The cell lysate was centrifuged at 12 000 rpm for 1 hour and the precipitate was discarded. DNAse I was added to the supernatant at a final concentration of 0.1 mg/ml and incubated at 30 °C for 1.5 h. Centrifuge again at 12 000 rpm for 1 h. Two Ni-NTA affinity chromatography (using a HisTrap FF column, 5 ml, Cytiva) followed by size exclusion chromatography (using a Superdex 200 Increase 10/300 GL column, Cytiva) was performed to obtain purified OptoLacI
+
+To achieve direct optical control of the transcriptional regulator LacI, we hypothesized that insertion of a photosensory module into LacI could allosterically alter the conformation of its DNA binding surface, thereby disrupting DNA recognition and binding through light-induced conformational changes. The N-terminal domain of LacI is responsible for its specific binding to operator DNA, while the C-terminal domain plays a critical role in facilitating the dimerization and tetramerization of LacI (Figure
+
+Design and construction of the light-controlled repressor OptoLacI. (
+
+The BL21(DE3) strains carrying various chimeras were cultured under dark and blue light conditions, respectively. Strains harboring variants LacI
+
+The Opto
+
+The Opto
+
+To further characterize the blue light control performance of the Opto
+
+Subsequently, we explored the tunability of the Opto
+
+To assess the impact of the induction starting time on the Opto
+
+The Opto
+
+The Opto
+
+To further investigate the leakage of the Opto
+
+To assess the effect of when to start induction in the Opto
+
+In addition, we explored the tunability of the Opto
+
+To date, we have successfully developed two light-controlled
+
+The light-controlled gene expression systems provide a crucial cost-saving advantage by eliminating the need for expensive IPTG, making protein production more affordable and efficient. To validate the effectiveness of the Opto
+
+Application of the Opto
+
+In light of the promising prospects of optogenetics in metabolic flux control, we explored the application of the Opto
+
+To assess the broad applicability of optogenetics in metabolic flux control, we conducted another investigation focused on harnessing the Opto
+
+The blue light-sensitive LOV2 domain has been employed to engineer several proteins through fusion and insertion techniques, resulting in light-responsive properties that induce conformational and functional changes within the targeted proteins (
+
+Incorporating the LOV2 domain into the target protein to achieve light-driven conformational changes stands a direct and efficient strategy for optogenetic protein engineering. The OptoLacI
+
+Supplying adequate light to large-scale reactors poses a substantial challenge in the practical application of optogenetic technology within the field of metabolic engineering. To address this issue in production applications, dark-induced optogenetic systems prove to be more suitable. In this context, microbial cell factories are cultivated under blue light to repress the expression of target genes and ensure biomass accumulation, followed by the production of the target product in the absence of blue light. Our Opto
+
+Tunability stands out as a prominent advantage of the opto-proteins and the optogenetic systems. The functions of optogenetic proteins can be rapidly activated or deactivated at the protein level. Through the application varying intensities and pulse patterns of blue light, the Opto
+
+The structural distinction between OptoLacI
+
+OptoLacI variants and the Opto

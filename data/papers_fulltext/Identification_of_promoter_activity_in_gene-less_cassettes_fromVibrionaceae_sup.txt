@@ -1,0 +1,109 @@
+Integrons are bacterial genetic elements that capture and rearrange genes embedded in structures known as integron cassettes (ICs) (reviewed in (
+
+All integrons are composed of a stable and a variable region. The stable region is a genetic platform that contains the integrase-coding gene (
+
+Typical structure of an integron. Integrons are composed of the integrase-coding gene (
+
+Cassettes typically consist of a single promoterless gene and a recombination site, named
+
+Although ICs generally contain a single ORF that occupies most of the cassette, some studies have reported the presence of cassettes that do not contain such ORFs, and hence seem to have a biological role other than encoding a protein. It has been proposed that these gene-less cassettes may act as regulatory elements within an integron, including features like binding sites for regulatory proteins, small RNAs, or promoters, facilitating the evolution of genomes (
+
+In this study, we tested whether gene-less cassettes act as internal promoters within cassette arrays in SCIs in
+
+All bacterial strains and plasmids used in this study are listed in Table
+
+Strains and plasmids used in this study
+
+An
+
+Primers used in this study are described in
+
+To evaluate the promoter activity of the selected cassettes, the pDProm backbone was amplified by PCR using primers bb_pSU38_F and bb_pSU38_mCherry_R. Subsequently, all synthesized cassettes-containing fragments were cloned between the two reporter genes following the previously described Gibson assembly protocol. As an additional control, three fragments derived from the
+
+All pDProm plasmids, containing the gene-less cassettes or
+
+Electrocompetent cells (40 μl) were mixed with 1 μl of each purified plasmid in a prechilled Eppendorf tube and transferred to a 0.1-cm electroporation cuvette (MBP). Electroporation was performed at 1400 V for a 5 ms pulse using the Eporator (Eppendorf). Sequentially, cells were cultured with 1 ml of LB for 1 h at 37°C. Selection of
+
+To determine promoter activity, bacterial strains carrying the pDProm plasmids were cultured on LB supplemented with kanamycin (75 μg/ml) for 20 h at 37°C. Samples were diluted 1:400 on filtered NaCl (0,9 M) in 96-well plates (Nunc, Thermo Scientific) and analysed with a CytoFLEX-S flow cytometer (Beckman Coulter). The 488- and the 661-nm lasers were used for GFP and mCherry excitation, respectively. GFP and mCherry fluorescence intensity was detected through 525/40 nm (FITC) and 610/20 nm (ECD) band pass filters, respectively. At least three biological replicates and two technical replicates were used, and 30 000 events per sample were recorded. Flow cytometry data were analysed with the CytExpert software (version 2.4; Beckman Coulter).
+
+Total RNA was extracted from
+
+Raw reads from both studies were trimmed using Trim Galore v0.6.6 (
+
+Total RNA was extracted, as previously described, from three biological replicates of strains B118, B012, B014, B079, B016, B017, B084, and B088, grown in LB at 37°C for 20 h. To eliminate any residual DNA, the extracted RNA was treated using the TURBO DNA-free™ Kit (Invitrogen). RNA concentration was measured using a BioSpectrometer (Eppendorf). Prior to cDNA synthesis, a DNA wipe-out step was conducted using the QuantiTect® Reverse Transcription Kit (QIAGEN), following the manufacturer's instructions. Subsequently, cDNA synthesis was carried out using the same kit with the following temperature steps: 42°C for 15 min, followed by 95 °C for 3 min. The obtained cDNA was diluted 10-fold and served as template in the qPCR.
+
+RT-qPCR was performed in an Applied Biosystems QuantStudio 3 using the QuantiTect® Multiplex PCR Kit (QIAGEN). The primers and probes used are listed in
+
+Two micrograms of previously isolated RNA from strains B079, B016, B017, B084 and B088 were used to identify transcription start sites using the 5′ RACE System for Rapid Amplification of cDNA Ends, version 2.0 (Invitrogen), in accordance to the manufacturer's protocol. The sequences of the primers used are listed in
+
+To inhibit the activity of the Rho termination factor, a bicyclomycin assay was performed. Strains B118, B012, B014, B017, B079, B088, B084 and B016 were cultured on LB supplemented with kanamycin (75 μg/ml) for 20 h at 37°C. Samples were diluted 1:100 and bicyclomycin was added to the cultures at a concentration of 50 μg/ml at early exponential phase. After 2 h-incubation at 37°C, cultures were diluted 1:400 on filtered NaCl (0.9 M) in 96-well plates (Nunc, Thermo Scientific) and analysed with a CytoFLEX-S flow cytometer (Beckman Coulter), as above described.
+
+In order to test the inducibility of antibiotic resistance due to the presence of promoter-containing gene-less cassettes, the resistance cassette
+
+For the cloning of cassettes F1 and C7 downstream the
+
+The MICs to trimethoprim of
+
+We explored the data bases and selected four different genomes belonging to four different
+
+We selected all cassettes lacking annotated genes, further focusing on those not encoding ORFs exceeding 210 bp (70 amino acid-long proteins) (see discussion section). According to these constrains, a total of 29 cassettes within the four selected species did not contain protein encoding genes. The distribution of these gene-less cassettes was as follows: nine in
+
+We designed a bidirectional reporter
+
+Structure and validation of the pDProm reporter plasmid.(
+
+We synthesized the 30 gene-less cassettes identified previously with their respective
+
+Using pDProm, cassettes containing a promoter on the sense strand will show an increase in GFP intensity, while those with a promoter on the antisense strand will present an increment in the mCherry fluorescence intensity. We have defined as
+
+Determination of promoter activity of
+
+To validate our findings, we introduced three control DNA fragments from the
+
+pDProm has a p15A origin of replication with 9–17 copies of the plasmid per cell (
+
+To demonstrate promoter activity at a transcriptional level, we performed RT-qPCR from a selected subset of strains, chosen for their diverse range of
+
+Validation of gene-less cassettes expression levels by RT-qPCR. (
+
+Having confirmed promoter activity in specific
+
+Transcription start sites (TSS) of
+
+Next, we wanted to understand whether spurious transcription is at play, and the potential role of the transcriptional terminator Rho -a terminator of spurious transcription (
+
+Given the number of gene-less cassettes with promoter activity, we wanted to know whether this could have been accurately predicted
+
+Our results show that chromosomal integrons in
+
+In order to investigate the levels of expression within the
+
+Expression levels of
+
+Our data show that—in addition to TA systems that contain their own promoter—, many cassettes are expressed at detectable levels. TPM values show broad variation along the array, with 210-fold and 500-fold differences between the most and least expressed cassettes in exponential (Figure
+
+To reveal the role of gene-less cassettes in their natural context we took a closer look at the mapping of transcripts of the 6 cassettes with expression levels similar to PcW (C2 to C6 and C8). Our analysis found technical and biological limitations. Cassettes C5 and C8 contained repeated regions and were discarded to avoid mapping biases; and cassette C3 could not be clearly interpreted (Figure
+
+Representation of reads from the RNAseq of
+
+Given the possibility that mobile integrons recruit cassettes from SCIs with promoter activity, we aimed to investigate their potential role in promoting antibiotic resistance when located upstream of a silent resistance gene. To test this, we selected the plasmids containing the gene-less cassettes with the highest promoter activity from each
+
+Promoter-carrying gene-less cassettes induce trimethoprim resistance. (
+
+Since ICs can be mobilised and transferred through horizontal gene transfer among unrelated species, we were interested in the effect that these gene-less cassettes may have in the resistance levels when present in a different species. To address this, we transformed these plasmids in
+
+Given that promoter activity was also detected on the antisense strand of some cassettes, we decided to test their influence on the expression of upstream cassettes. We hypothesize that if antisense promoters are functional, we would observe a decrease in trimethoprim resistance if cloned downstream
+
+Gene-less cassette carrying a promoter on the antisense strand act as a transcriptional terminator. (
+
+The
+
+The general integron model posits that the P
+
+An important aspect of this and previous works is the definition of gene-less (or ORF-less) cassettes. Here, we have defined them as cassettes lacking annotated genes and not containing ORFs longer than 210 bp. A limitation of our work (and others) is that we have not experimentally proven that smaller ORFs do not encode proteins (nor small RNAs for that matter). However, there are several reasons why we believe our definition is sensible. First, cassette architecture is generally very compact, with ORFs occupying most -if not all- of the cassette sequence, sometimes even overlapping the
+
+We have attempted to show the promoter activity of cassettes in their natural context by analyzing transcription rates of these cassettes in
+
+Our 5′-RACE results show that some cassettes contain a small subset of well-defined TSSs, while others exhibit multiple TSSs distributed throughout the cassette structure, including the
+
+In summary, our results indicate that gene-less cassettes in

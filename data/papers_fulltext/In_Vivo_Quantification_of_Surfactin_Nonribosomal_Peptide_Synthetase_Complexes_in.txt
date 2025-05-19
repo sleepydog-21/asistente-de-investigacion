@@ -1,0 +1,61 @@
+Fluorescence reporters are commonly used for quantitatively studying the behavior of natural and engineered target proteins [
+
+Exemplarily, non-ribosomal peptide synthetases (NRPSs) are large multifunctional enzyme complexes responsible for the biosynthesis of non-ribosomally produced secondary metabolites in various organisms, including bacteria and fungi. These enzymes incorporate a diverse range of amino acids, including unusual ones, leading to a wide variety of natural structures and bioactivities, such as antibacterial, antiviral, and especially antifungal properties [
+
+Surfactin, a cyclic lipopeptide produced by an NRPS encoded by the
+
+This study presents the establishment of an in vivo quantification system for surfactin-forming NRPS complexes, aiming to estimate the production rate of NRPS complexes during bioprocesses. Therefore, a fusion protein system was developed using functional NRPS subunits coupled with the fluorescence protein mEGFP. In this way, quantitative insight into NRPS complexes could be achieved.
+
+The plasmids and strains used in this study are listed in
+
+Afterward, constructed plasmids pMAV22 (
+
+Main cultivations for surfactin bioproduction were performed in a chemically defined mineral salt medium, as previously described in [
+
+The constructed
+
+Bacterial cells were cultivated for 33 h in 1 L baffled shake flasks using a filling volume of 10% for the cultivation medium. All cultivations were carried out in biological triplicate and were performed at 37 °C, with 0.4 g, and at 120 rpm in an incubation shaker (Innova 44
+
+The concentration of surfactin produced during the shake flask cultivation was measured as previously described in [
+
+The fluorescence signals emitted by the mEGFP protein were measured using a fluorescence plate reader (FLUOstar Omega, BMG LABTECH GmbH, Ortenberg, Germany). During shake flask cultivation, at each sampling time point after 9 h, 100 µL samples were transferred in triplicate to a 96-well plate, and the fluorescence signal was measured with the following settings. For the kinetic experiment, the fluorescence signal was measured directly in each well during cultivation. A GFP filter set was used with excitation at 485 nm (12 nm width) and emission at 520 nm. The fluorescence signals of mEGFP were measured with a gain of 1000 and 21 flashes using bottom optics. Each well was scanned as an orbital average with a diameter of 4 mm. The measured signals were corrected for background fluorescence caused by autofluorescence according to [
+
+The relative fluorescence unit RFU is given by the FI
+
+Plasmid pET-28a was used for the construction of pMAV35, encoding a his-tagged
+
+Next, the purification of mEGFP was performed by immobilized metal ion affinity chromatography (IMAC) using an automated chromatography system (ÄKTA
+
+The calibration of fluorescence data sets obtained using the fluorescence plate reader FLUOstar (BMG Labtech, Ortenberg, Germany) was performed as previously described in detail in [
+
+The function get_conc_ECmax() produced linear models fitted for each correction method between dilution and predicted protein concentrations. In a final step, generate_cfs() was used to calculate a conversion factor (cf) based on a model that relates protein concentrations to relative fluorescence units. Consequently, the calculated cf was used to convert corrected relative fluorescence units (RFUs or FI
+
+For visualizing cells from exponentially growing cultures, bacteria were grown in mineral salt medium, and samples were taken after 16 h. The cells were washed twice in phosphate-buffered saline (PBS, 137 mM NaCl, 2.7 mM KCl, 10 mM Na
+
+With the use of mannose-counterselection for the construction of markerless mutant strains, the parental
+
+In this context, all mutant strains revealed cell growth patterns comparable to the parental strain BMV9 over a 12 h period of cultivation, suggesting no detectable impact of the mEGFP protein tag on bacterial physiology (
+
+In the next step, the
+
+All constructed
+
+In the next step, an approximate estimate of the availability of surfactin-producing NRPS in the
+
+The application of the calibration allowed a prediction of the dynamic availability of the individual surfactin-forming NRPS subunits represented by the mEGFP-mediated fluorescence in the different
+
+The productivity of NRPS enzyme complexes was estimated by calculating the relative number of NRPS subunit molecules, which were equivalent to mEGFP (MEFP). Surfactin concentrations measured during the cultivation process were compared with these calculated MEFP values.
+
+In more detail, comparable productivities were calculated for all of the SrfA subunits in a range between 1270 and 14,348. Interestingly, a slight gradual decrease in NRPS productivity was observed during the exponential phase with lowest productivity values after 24 h of cultivation, which corresponds to the entry into the stationary growth phase. Accordingly, an average reduction in the SrfA productivity of 72% could be found between the mid-exponential growth phase (12 h) and the stationary phase (33 h) (
+
+The improved bioproduction of surfactin has been addressed in a large number of studies [
+
+In all strains, surfactin was rapidly degraded when nutrients were limited, as was observed previously in one of our last studies [
+
+The fluorescence-emitting nature of the mEGFP-coupled sensor construct was utilized to perform FPCountR-based calculations to determine an approximate molecular quantity of 4855. This amount was enhanced by increasing cell growth until the mid-exponential phase before it remained relatively constant over a wide range of cultivation (
+
+Fluorescence microscopy analyses allowed the visualization of fluorescent
+
+In addition to the insights gained in this work,
+
+This study provides insights into the dynamics of non-ribosomal peptide synthetase (NRPS) complexes in

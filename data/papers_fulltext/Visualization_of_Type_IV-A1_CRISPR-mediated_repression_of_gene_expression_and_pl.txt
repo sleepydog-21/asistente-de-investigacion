@@ -1,0 +1,71 @@
+Microorganisms exhibit high levels of adaptability through gene transfer mechanisms that include transformation, transduction and conjugation (
+
+Regional effects of Type IV-A1 CRISPR–Cas activity in
+
+The Type IV-A1 CRISPR–Cas system of
+
+The range of Type IV-A1 CRISPRi effects was not explored in detail, which hinders its applications as a gene regulation tool. Therefore, this study analyzes the interference activity of the Type IV-A1 CRISPR–Cas system of
+
+
+
+The insertion of the
+
+Derivatives of the pSEVA424 vector (
+
+To tag the C-terminal domain of DnaX, we integrated the gene for the fluorescent protein mScarlet at the chromosomal
+
+Genes in the histidine operon in
+
+CRISPRi assays were also carried out with cells containing the recombinant Type IV-A1 CRISPR–Cas system targeting genomic
+
+BL21-AI:
+
+SMM experiments were performed on an automated Nikon Ti2-Eclipse microscope equipped with an Abbelight SAFe 180 3D nanoscopy module with appropriate dichroic filters (ET488/ET561/75 bandpass, Croma) and a Nikon CFI Apo TIRF 100× oil objective (NA 1.49). All lasers (488 Oxxius, 561 Oxxius) were combined into a single output via an Oxxius L4Cc combiner. Fluorescence was detected with an ORCA-Flash4.0 V3 EMCCD camera (Hamamatsu Photonics) using a pixel size of 512 nm, frame transfer mode and the following readout parameter settings: EM-gain 300, pre-amp gain 2 and 30 MHz readout speed. The imaging process was controlled using NEO SAFe software (Abbelight). Single-particle tracks were recorded using slimfield microscopy (
+
+To analyze the SMM data, the cell meshes were determined with Oufti 1.2 (
+
+In this study, dwelling tracks representing movements of slow-population DnaX-mScarlet molecules were plotted for each cell analyzed. The resulting movies were saved as TIFF images within the same folder containing data related to Type IV-A1-mNeonGreen tracks. Using the distance measurement tool provided by SMTracker 2.0, all foci from the DnaX-mScarlet dwelling images were used as reference points. After plotting the tracks from the three populations of the mNeonGreen-tagged crRNPs onto each cell, we measured their distances from the nearest DnaX-mScarlet focus. To this end, we identified the five points in the track that represented the positions of the molecule at different times. We then specified a single point in the center of the focus as a fixed reference position and calculated the distance from this point for each of the five points in the track, using the distance formula
+
+Total RNA was extracted using TRIzol from pellets previously treated with 0.8 ml of lysis buffer (2% sodium dodecyl sulfate and 4 mM ethylenediaminetetraacetic acid) and heated for 2 min at 90°C. Total RNA was purified using acid–phenol:chloroform (Invitrogen) extraction. The extracted RNA was treated with DNase I (NEB) and purified with the Monarch RNA clean-up kit (NEB). cDNA was prepared from 1 μg of RNA, using SuperScript II Reverse Transcriptase (Invitrogen) according to the manufacturer’s instructions.
+
+Quantitative reverse transcription PCR (RT-qPCR) was performed following a previously described protocol (
+
+RNA quality and integrity was inspected in 1% agarose gels and a 2100 Bioanalyzer (Agilent). Ribosomal RNA depletion, library preparation and sequencing (Illumina Nova Seq X – Paired End Mode – 150 nt reads) were performed by Novogene, Inc. Data quality was assessed using FastQC (v0.11.9,
+
+CRISPRi assays, RT-qPCR and RNA-seq were performed in triplicate (
+
+We previously showed that recombinant Type IV crRNP complexes (indicated as ‘crRNPs’ throughout the text) can be used to target the reporter gene
+
+The
+
+Our observations support previous findings showing that (i) the Type IV-A1 system of
+
+To analyze the CRISPRi effects observed in
+
+Interference of the recombinant Type IV-A1 CRISPR–Cas system on the histidine operon. (
+
+RNA-seq analyses of additional CRISPRi targets. (
+
+An analysis of the coverage plots of the different CRISPRi strains revealed striking differences in the range over which the abundance of transcripts was reduced. The dCas9-mediated targeting of the coding strand of
+
+The downregulation of
+
+Next, we aimed to visualize Type IV-A1 interference
+
+Spatiotemporal dynamics of Type IV-A1 crRNP complexes targeting the genome or plasmids, studied by SMM in the native and a recombinant system. (
+
+Monitoring the behavior of plasmid-targeting crRNPs is challenging as their activity inhibits target plasmid replication. To achieve this goal, we generated recombinant
+
+Quantification of fluorescent particles revealed 58–83 recombinant crRNPs in cells with different targets (
+
+The relocation of crRNPs in response to the presence of plasmids suggests that they possibly interact with components involved in plasmid replication. One potential interactor is DnaX, an essential component of the clamp loader complex in the DNA replisome (
+
+Spatiotemporal dynamics of DnaX-mS with and without Type IV-A1 crRNPs targeting plasmids. (
+
+The marked reduction in the diffusion rate of DnaX-mS in the presence of a target plasmid could be the result of replication fork stalling due to a Type IV crRNP roadblock (
+
+In conclusion, Type IV-A1 CRISPR–Cas activity was visualized at the transcriptome and cell biological level. The transcriptomics analyses highlighted long-range gene repression effects that rely on the processivity of the CasDinG helicase. We hypothesize that CasDinG may initiate the unwinding of the non-target DNA strand upon target recognition, potentially encountering and stalling RNA polymerases. We also showed that CasDinG is not required for Type IV-A1 activity if its target is a promoter sequence. Consistent with recently reported similar observations (
+
+Native Type IV-A1 CRISPR–Cas systems most often contain spacers against plasmid targets. Our SMM analysis supports this preference for plasmid targets as evidenced by (i) the reduced diffusion rate of crRNPs if plasmid targets were provided and (ii) the polar redistribution of crRNPs in the presence of high-copy plasmids. CasDinG is likely recruited to the target, and it remains to be investigated if this helicase leaves the crRNPs to translocate along the DNA or reels in DNA while remaining attached to the complex.
+
+While dCas9 serves as a highly popular engineered tool to inhibit the activity of RNA polymerases (

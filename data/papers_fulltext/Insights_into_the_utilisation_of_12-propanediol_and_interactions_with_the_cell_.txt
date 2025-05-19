@@ -1,0 +1,119 @@
+The human gastrointestinal ecosystem plays a crucial role in maintaining homeostasis and influences host health. Infants experience dynamic shifts in gut microbiota composition that are influenced by various factors including mode of birth delivery, antibiotic exposure, and diet [
+
+Utilisation of 1,2PD is catalysed by enzymes encoded by the
+
+Genome arrangement of the
+
+1,2PD utilisation has been reported for enteropathogens such as
+
+It was the aim of this study to investigate the impact of 1,2PD on the metabolism and cell envelope of
+
+
+
+Genome characteristics of
+
+The genome of FMT 1006 had a size of 3.2 Mbp and a GC content of 28.5% similar to the other strains (3.0-3.6 Mbp) (Table
+
+Annotations of all genomes were performed with Prokka and refined with InterProScan [
+
+We conducted additional BLASTp (v. 2.11.0+) analysis using previously functionally characterised PduP of
+
+Similar to FMT 1006, the genomes of the other assessed
+
+As
+
+In YC-G50,
+
+
+
+Turbidity, substrate utilisation and metabolite formation of
+
+Fermentative activity of
+
+As we could not recover the expected metabolites from the liquid phase, we examined levels of 1-propanol, propanal and other potential metabolites in the headspace using proton-transfer-reaction mass spectrometry (PTR-TOF-MS) and estimated the concentrations in liquid media according to Henry’s law assuming air-water equilibrium. The detection of 1-propanol and propanal was confirmed by gas chromatography-MS (GC-MS). Smaller amounts of 2-ethyl-2-butenal and 2-methyl-pentanal were detected by both PTR-MS and GC/MS. Propanal levels were estimated 4.4-times higher based on headspace measurement than levels determined with HPLC-RI, and estimates for 1-propanol were 1.6-fold higher (Suppl. Table
+
+Taken together, our data show that
+
+Based on cultivation studies and genome characterisation,
+
+In YC-PD50, genes of the
+
+
+
+Differential expression of selected genes of
+
+We conducted additional quantitative PCR (qPCR) analysis to determine expression levels of
+
+
+
+Relative expression of selected
+
+As we observed that the addition of 1,2PD did not support growth of FMT 1006 and that the intermediate propanal was detected after 24 h of incubation, we determined if glucose addition improved biomass formation and the metabolism of 1,2PD when supplied at different concentrations. We combined glucose and 1,2PD at equimolar concentrations (YC-PD10-G10 and YC-PD50-G50) and compared to YC-PD50. FMT 1006 was cultured for 24 h at 37 °C, and turbidity was determined using a McFarland densitometer. HPLC-RI was used to determine substrate utilisation and metabolite formation.
+
+Final turbidity was low in YC-PD10-G10 (1.9 ± 1.4 McFarland units, MF), YC (1 ± 0.4 MF), YC-PD10 (0.7 ± 0.2 MF) and YC-PD50 (1.4 ± 1 MF). When glucose was supplemented to YC-PD50 (YC-PD50-G50, 9 ± 1 MF), turbidity was similar to YC-G50 (10.7 ± 0.6 MF) (Fig.
+
+Impact of glucose on 1, 2PD metabolism of
+
+
+
+Genome based pathway reconstruction supported by gene expression analysis and metabolite data. Suggested schemes of metabolic pathways in the presence of 1,2PD and glucose in
+
+To investigate further whether 1-propanol formation depended on the concurrent formation of acetate and/or lactate, we evaluated the impact of addition of 1,2PD (50 mM) to cultures grown in YC-G50 at early exponential (3 h), late exponential (6 h) and during stationary growth phase (12 h). After 24 h growth, highest turbidity was achieved when 1,2PD was added at 3 h (10.6 ± 0.6 MF), followed by 12 h (9.4 ± 0.2 MF) and 6 h (7.5 ± 0.2 MF) (Fig.
+
+When 1,2PD was added after 3 or 6 h, levels of acetate and lactate were similar, and the ratio of acetate: lactate was 0.6:1.0 compared to 2.9:1.0 at 12 h (Fig.
+
+These differences in recovery of 1,2PD metabolites again suggest that the conversion of pyruvate to acetate or lactate plays a role in the production of 1-propanol. In the presence of glucose, acetate formation can deliver ATP (Fig.
+
+At the provided cultivation conditions,
+
+Addition of PE significantly increased (
+
+
+
+Impact of 1,2PD on the membrane fluidity and composition of
+
+Exposure to alcohols might not only affect membrane fluidity but can also cause alterations in lipid composition. We therefore evaluated membrane composition of
+
+Membrane lipids were mainly composed of diacylglycerols (DAG), monoacylglycerols (MAG), triacyclglycerols (TAG), and glycerophosphoethanolamines (GPE) (Fig.
+
+There were little difference in the composition of the MAG and DAG fractions when incubated in YC-G50 and YC-PD50 (data not shown) while the composition of GPE lipids shifted (Fig.
+
+As we observed changes in membrane lipid composition, we investigated expression of genes of the fatty acid biosynthesis cluster
+
+Composition of the intestinal microbiota of infants and its fermentation activity is increasingly recognised as contributor to health outcome in later life, yet the role of the alcohol 1,2PD during breastfeeding has been little studied. Our results suggest that
+
+Materials were purchased from Merck unless stated otherwise.
+
+Colonies were transferred to a 10 mL Hungate tube containing anaerobically prepared, modified yeast extract-casitone (YC) medium as described by Huertas-Díaz et al. [
+
+To determine growth behaviour and to collect samples for RNA isolation and analysis of membrane lipids, working cultures were inoculated (2%) in YC in serum flasks in YC, YC-G50 and, YC-PD50. Growth was monitored as optical density at 600 nm (OD
+
+To test for the impact of glucose on 1,2PD metabolism, working cultures were inoculated (2%) in Hungate tubes containing YC-G50, YC, YC-PD10, YC-PD10-G10, YC-PD50, YC-PD50-G50. Additionally, we investigated how 1,2PD addition affected the fermentation activity of
+
+DNA was extracted from working cultures following the instructions from manufacturer (Genomic DNA purification kit GeneJET, Thermo Scientific for Gram-positive bacteria). Purified DNA was suspended in 40 µL of TE buffer. Libraries were prepared and sequenced using MiSeq (Department of Biology, Aarhus University) and Oxford Nanopore Technologies (Plasmidosaurus) and standard library preparation protocols. For quality filtering and assembly, the following process was used: FitLong (v0.2.1) was used to remove 5% of the lowest quality reads and to reduce the reads to 250 Mb [
+
+To isolated RNA, we followed TRizol procedure. TRizol (1 mL) was added to the pellets and incubated at room temperature for 5 min. Chloroform (0.2 mL) was added, mixed by shaking, and the sample was incubated for 3 min, followed by centrifugation for 15 min at 12 000 × g at 4 °C. The aqueous phase was transferred into a new 1.5 mL tube and mixed with an equal volume of 70% ethanol. The sample was transferred to a RNeasy spin column and processed according to the manufacturer’s instruction (RNeasy Mini Kit, Qiagen). Chromosomal DNA was removed using the TURBO DNA-free™ Kit (Thermo Fisher) and the absence of DNA was confirmed using quantitative PCR (qPCR) with primers targeting the 16 S rRNA gene as described [
+
+Probes for the
+
+To investigate changes in the fluidity of the cell membrane, a Laurdan staining method was adapted taking into account the requirements for anaerobic conditions of FMT 1006. All procedures were performed in an anaerobic chamber and all chemicals and materials were pre-heated to 37 °C to avoid membrane-associated thermal changes. Laurdan stock (1 mM) in acetone was kept at -20 °C.
+
+Samples (0.5 mL) were withdrawn from a 24 h culture in YC-G50 and mixed with PBS buffer (pH 7.4) to a final density of 0.5 OD
+
+After incubation, cells were washed twice with PBS buffer and pellets were resuspended in the same treatment solutions without Laurdan. Cell suspensions (200 µL) were added to a 96-well black clear bottom plate and fluorescent intensity was determined using a fluorescence microplate reader (CLARIOstart Plus, BMG LABTECH) at excitation 350 nm and emission 380 nm to 600 nm at 37 °C. The experiment was repeated three times, and each sample was analysed in technical duplicates.
+
+The Generalised Polarisation (GP) values were calculated using fluorescent emission intensity values at 440 nm and 490 nm as follows: GP=(I
+
+To extract membrane lipids, we followed the SIMPLEX method for lipidomics as described [
+
+Substrate levels and fermentation metabolites present in supernatants were analysed by high performance liquid chromatography coupled to a refractive index detector (HPLC-RI) using a 1260 Infinity II LC System (all Agilent). Compounds were separated using a Hi-Plex H column (300 × 7.7 mm) attached to a guard (50 × 7.7 mm) column. The samples (10 µL injection volume) were eluted with 5 mM H
+
+PTR-TOF-MS measurements were performed as previously reported [
+
+DESeq2 analysis was used both for microarray analysis and for lipidomics comparison [
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

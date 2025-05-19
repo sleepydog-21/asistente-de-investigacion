@@ -1,0 +1,189 @@
+The production of non-degradable plastics from fossil oil poses a significant threat to global ecosystems [
+
+
+
+Biosynthesis of polyhydroxybutyrate (PHB) in
+
+First, two acetyl-CoA units are condensed to form acetoacetyl-CoA by the β-kethothiolase PhaA. In the next step, acetoacetyl-CoA is reduced by the NADPH-dependent acetoacetyl-CoA reductase PhaB to form 3-hydroxybutyryl-CoA. Subsequently, the 3-hydroxybutyryl-CoA monomers are polymerized to PHB by the PHB synthase PhaC [
+
+Currently, heterotrophic bacteria like
+
+PHB production by cyanobacteria was recorded since 1966, with the first report demonstrating the presence of PHB in
+
+Under nitrogen depleted condition, the unicellular cyanobacterium
+
+This study aimed to overcome the problem of low PHB yield during autotrophic growth conditions of cyanobacteria by implementing the continuous PHB synthesis machinery from
+
+Single colonies of recombinant
+
+Plasmids were constructed via Gibson assembly [
+
+Fluorescence microscopy was performed on a LeicaDM5500B (Leica Microsystems, Germany) with objective lenses and filter cubes listed in Table
+
+
+
+LeicaDM5500B microscope components
+
+BODIPY signal detection was performed using the GFP channel, while cyanobacterial autofluorescence was detected by using the CY3 channel.
+
+PHB granules within cells were stained with the fluorescent dye BODIPY. For this purpose, 1 µL of a BODIPY solution (1 mg/ml dissolved in DMSO) was added to 100 µL of cyanobacterial culture. After 5 min of incubation in the dark, cells were centrifuged (3500 ×g, 5 min, room temperature (RT)), washed with 100 µL PBS buffer and resuspended in 10 µL PBS buffer. Then, the resuspended cells were applied on microscopic slides coated with a mixture of 1% (
+
+Sample preparation was performed as described by Fiedler et al. 2002 [
+
+The method described in [
+
+To prove the suitability of
+
+
+
+Microscopic images of wild type and NosPHB1.0 strain
+
+Indeed, PHB granules could be detected inside some cells of filaments, as shown exemplary in the microscopic image in Fig.
+
+To validate that the observed BODIPY-stained granules consist indeed of PHB and to gain first insights into the recombinant PHB producer strain NosPHB1.0, initial cultivation experiments in BG11 medium and first PHB quantifications were performed with one recombinant strain as a proof of principle (Fig.
+
+Under standard growth conditions, NosPHB1.0 showed a slower growth in comparison to the wild-type
+
+In order to examine PHB accumulation in the recombinant
+
+
+
+Microscopic images of NosPHB1.0 after
+
+Strikingly, PHB accumulation occurred heterogeneously in the filament during the entire course of the experiment, while remarkable growth morphologies of NosPHB1.0 could be noted (Fig.
+
+For further characterization of the recombinant
+
+Cultures were either cultivated under dimmed light of 20 µmol m
+
+These experiments reinforced the previous observations on PHB graveyard formation. While the number of PHB producing filaments decreased, most PHB granula were detected in apparently deteriorating single cells as seen by the accumulation of “PHB graveyards” (Fig.
+
+In order to integrate the PHB operon into the genome of
+
+
+
+Microscopic images of NosPHB2.0 of single colonies
+
+Prolonged screening for double-crossover mutants via sucrose selection resulted in a delay of approximately 21 days before first cultivation experiments could be performed, in contrast with the more rapid screening for positive mutants in conjugation experiments with replicative plasmids. Exemplary microscopic pictures from exconjugants showed a more distributive, uniformly PHB production in NosPHB2.0 (Fig.
+
+To potentially prevent toxic effects of heterologously produced PHB biosynthesis, the PHB operon in pPF08 was expanded with phasin gene
+
+NosPHB2.0 and NosPHB3.0 were grown in a semi-continuous “seed” culture in BG11 medium, where growth behaviour and PHB accumulation were observed over a prolonged period of cultivation time (Additional file 11 Fig.
+
+For the following experiments, samples of the bacterial seed cultures were withdrawn, and the volume was refilled with BG11 medium with the respective antibiotics (Additional file 11 Fig.
+
+
+
+Microscopic images of
+
+The signal for PHB granules in filaments of NosPHB2.0 was mostly abolished again during the prolonged cultivation (Fig.
+
+In order to further characterize and subsequently optimize PHB production in NosPHB3.0, different shaking conditions and light intensities were tested. Cultures were either cultivated under dimmed light of about 5 µmol m
+
+
+
+Growth curve of the wild-type strain, NosPHB2.0 and NosPHB3.0 and PHB production quantified in the latter two strains under different conditions. Growth curve of
+
+While the growth curve of NosPHB2.0 resembled the wild-type strain (Fig.
+
+
+
+Overlay of microscopic images of
+
+Similar as described above for one culture of NosPHB2.0, two independent cultures (NS and DS) of NosPHB2.0 displayed decreased PHB signals under all tested growth conditions (Fig.
+
+In order to visualize the effects of phasin PhaP1 utilization in the recombinant
+
+
+
+TEM pictures of (
+
+The TEM pictures confirmed the higher amounts of PHB in NosPHB3.0 than in NosPHB2.0 (Fig.
+
+In this study, constitutive PHB production introduced into
+
+Hence, the need to stabilize PHB production in a third generation of PHB-producing
+
+Thylakoid membranes are well-structured, internal membrane systems housing proteins of the light harvesting complex, the respiratory and the photosynthetic electron transport [
+
+Traditionally, nitrogen limitation is one of the best studied conditions for PHB accumulation in PHB-producing cyanobacteria [
+
+In a recent study, phototrophic PHB production was genetically engineered in the non-producer
+
+In this study, for the first time, successful constitutive PHB production was shown in a recombinant
+
+As previously described, the first two Nostoc mutant generations NosPHB1.0 and NosPHB2.0 were characterized by an abundance of filaments lacking PHB production. Contrastingly, the most recent recombinant
+
+One of the most intriguing yet insufficiently explored issue of genetically engineered cyanobacteria is the occurrence of genetic instability [
+
+This study showed for the first time the recombinant, continuous PHB accumulation in
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1
+
+
+
+Supplementary Material 2
+
+
+
+Supplementary Material 3
+
+
+
+Supplementary Material 4
+
+
+
+Supplementary Material 5
+
+
+
+Supplementary Material 6
+
+
+
+Supplementary Material 7
+
+
+
+Supplementary Material 8
+
+
+
+Supplementary Material 9
+
+
+
+Supplementary Material 10
+
+
+
+Supplementary Material 11
+
+
+
+Supplementary Material 12
+
+
+
+Supplementary Material 13
+
+
+
+Supplementary Material 14
+
+
+
+Supplementary Material 15
+
+
+
+Supplementary Material 16
+
+
+
+Supplementary Material 17

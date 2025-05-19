@@ -1,0 +1,73 @@
+Toxin/antitoxin (TA) systems are encoded in the genomes of nearly all archaea and bacteria and are classified into eight main types based on how the antitoxin inactivates the toxin (
+
+The MqsR/MqsA TA system was discovered as induced in a biofilm transcriptome study (
+
+In contrast to these myriad results with MqsR/MqsA, a report based on negative results claimed that the
+
+Based on these inconsistencies, we hypothesized that a better approach, due to heterogeneous gene expression (
+
+We first investigated whether deleting an unmarked
+
+Using single cells, we further investigated the role of MqsR/MqsA during oxidative stress by comparing the wild-type strain vs the unmarked
+
+Impact on gene expression after inactivating the MqsR/MqsA TA system in
+
+Genes with the highest and lowest expressions in the single-cell transcriptomic analysis are indicated after treating exponentially growing cells with 20 mM H
+
+Based on the single-cell transcriptome results, we tested 10 knockouts of the most highly induced genes and found that the
+
+Phenotypes of BW25113 (WT) and BW25113 Δ
+
+SD indicates standard deviation
+
+(
+
+Since RpoS also controls the heat (
+
+Note that LfgB does not play a role in persister cell formation since, for survival after 3 h with ampicillin at 10× the minimum inhibitory concentration, there was little difference in cell viability (0.8% ± 0.4% viable for wild type vs 0.4% ± 0.2% viable for
+
+LfgB is a poorly characterized protein of cryptic prophage CP4-57 whose production previously led to a mutator phenotype (
+
+We also considered the possibility that MqsA regulates the
+
+To gain further insights into how LfgB interacts with the MqsR/MqsA TA system, we analyzed the protein structure of
+
+Further proof of MqsA degradation by LfgB was shown by the threefold induction of
+
+Here, using the single-cell transcriptome for the first time to study TA systems, we determined additional insights into how the MqsR/MqsA Type II TA system is physiologically important for the growth of
+
+Cryptic prophage CP4-57 has been linked to
+
+Our results also add another facet to MqsA regulation by finding a new protease that degrades MqsA. As previously demonstrated, Lon protease can degrade MqsA as well as other antitoxins under oxidative stress (
+
+Our proposed mechanism is shown in
+
+Scheme for the MqsR/MqsA TA/LfgB protease stress response mechanism and its relationship with MqsA. Green arrows indicate activation, and red lines indicate inhibition.
+
+Therefore, the type II TA system MqsR/MqsA is a multi-faceted regulator that facilitates growth of
+
+The
+
+Bacterial strains and plasmids used in this study
+
+Km
+
+BW25113 and its unmarked isogenic mutant Δ
+
+Cells were cultured in LB to a turbidity of 0.8 at 600 nm and then exposed to 20 mM H
+
+Overnight cultures were grown to a turbidity of 0.8 at 600 nm, and then cells were resuspended in LB-ampicillin (100 µg/mL, 10 MIC) and incubated for 3 hour. Cells were washed twice with PBS, and viable cells were quantified using serial dilution and spot plating onto LB agar plates. Experiments were performed with at least three independent cultures (
+
+The RNA-predicted structures and palindrome search were obtained using the NCBI
+
+Overnight cultures of Δ
+
+Purified Lon, α-casein, MqsA, and LfgB were mixed in an enzyme reaction buffer (40 mM HEPES-KOH, 25 mM Tris-HCl, 4% sucrose, 4 mM dithiothreitol, 11 mM magnesium acetate, and 4 mM ATP) and incubated at 37°C for 3 h for α-casein degradation and overnight for MqsA degradation. SDS-PAGE was conducted using 5% stacking and 18% acrylamide resolving sections and staining following the manufacturer’s instructions (Pierce Silver Stain Kit, Thermo Scientific).
+
+The
+
+This assay was conducted as reported previously (
+
+LfgB was produced in exponentially growing cells (turbidity of 0.1 at 600 nm) using 1 mM IPTG for 1 hour. For the effect of RpoS, cells were contacted with 20 mM H
+
+Mass spectroscopy was used to identify the sequences of purified LfgB as previously described (

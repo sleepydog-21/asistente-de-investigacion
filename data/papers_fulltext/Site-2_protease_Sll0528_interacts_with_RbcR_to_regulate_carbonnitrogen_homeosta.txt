@@ -1,0 +1,81 @@
+Cyanobacteria are ancient and important photosynthetic organisms in the global ecosystem. They serve as useful models for studying metabolic and physiological processes conserved across photosynthetic organisms and hold potential as renewable resources for producing valuable chemicals (
+
+Studies focusing primarily on nitrogen depletion have revealed a coordinated control of carbon and nitrogen homeostasis by a sophisticated network, in which the widespread signaling protein PII acts as a major regulatory hub (
+
+Overuse of NO
+
+Site-2 protease (S2P) is named after the human S2P, which performs intramembrane proteolysis of the precursor of transcription factor SREBP-2 after site-1 protease (S1P) to regulate lipid metabolism (
+
+Coimmunoprecipitation (Co-IP) has been successfully applied to identify a wide range of interacting proteins. For example, Co-IP revealed that the ammonium, nitrate, and urea transporters interact directly with PII (
+
+In this study, we applied TurboID to explore the directly interacting proteins of cyanobacterial S2P. In addition to its critical role in salt stress response, Sll0528 of
+
+The
+
+The plasmids p0528 and pTBYPC were constructed to generate recombinant
+
+Proximity labeling using TurboID was mainly conducted according to a previous report (
+
+Biotinylated proteins were enriched using a Streptavidin Beads 6FF gravity column according to the manufacturer’s instructions with some modifications. The gravity column was first equilibrated with RIPA lysis buffer, and the protein samples were loaded onto the column and incubated overnight at 4°C with rotation for 1 h overnight. The column was washed with RIPA lysis buffer, and the enriched proteins were eluted with 3 × protein loading buffer supplemented with 2 mM biotin and 20 mM DTT (Dithiothreitol) at the desired temperature for 10 min. The input, flow-through, and eluate samples were analyzed by SDS-PAGE and Western blot to confirm the depletion of biotinylated proteins from the flow-through and their enrichment in the eluate. The eluate was lyophilized and stored at −80°C.
+
+Protein samples in 1 x protein loading buffer were boiled at 95°C for 10 min and separated electrophoretically on a 12% SDS-PAGE gel. The proteins were then transferred to a PVDF membrane. The membrane was stained with Ponceau S solution to confirm transfer quality and protein loading, destained with deionized water, and washed three times for 10 min each with TBST (0.05 M Tris, 0.15 M NaCl, 0.05% Tween 20). It was blocked overnight at 4°C with 5% (w/v) nonfat milk powder in TBST while constantly rotating. After blocking, the membrane was washed three times for 10 min each with TBST to remove any residual nonfat milk, then incubated with Streptavidin-HRP in TBST containing 3% BAS for 30 min at room temperature or overnight at 4°C. The membrane was washed three times for 10 min each with TBST, and the signal was developed using ECL western blot substrate for the necessary duration and imaged.
+
+The protein samples were dissolved in triethylammonium bicarbonate buffer (TEAB) and digested overnight with trypsin at 37°C. After trypsin digestion, the peptides were vacuum-dried, reconstituted in trifluoroacetic acid, desalted, and vacuum-dried again. The peptides were analyzed using liquid chromatography–tandem mass spectrometry (LC–MS/MS) with the NanoElute UPLC system (Bruker, Germany), incorporating a capillary ion source and were analyzed with the timsTOF Pro2 mass spectrometer (Bruker, Germany). The electrospray voltage was set to 1.5 kV. Following nanoscale HPLC separation, the samples were analyzed by data-dependent acquisition (DDA) mass spectrometry, utilizing high-resolution TOF to detect and analyze peptide parent ions and their secondary fragments. The secondary MS scanning range was set to 100–1700 m/z. Data were acquired using the parallel accumulation serial fragmentation (PASEF) acquisition mode on the timsTOF Pro2, with the second MS stage recorded using the 10 PASEF mode.
+
+The raw MS/MS spectral data were searched against the
+
+The bacterial two-hybrid vectors pUT18 and pKT25, containing the genes for either the T18 or T25 subunit of adenylate cyclase CyaA (
+
+Total RNA was extracted as previously described (
+
+Total RNA was extracted using TRIzol® Reagent (Invitrogen, Carlsbad, CA, USA) according to the manufacturer’s instructions, and genomic DNA was removed using DNase I (Takara, Osaka, Japan). RNA quality was assessed with the 2,100 Bioanalyzer (Agilent, Santa Clara, CA, USA) and quantified using the ND-2000 (NanoDrop Technologies, Waltham, MA, USA). High-quality RNA samples were used to construct sequencing libraries with the TruSeq™ RNA sample preparation kit (Illumina, San Diego, CA, USA). Ribosomal RNA (rRNA) was depleted using the Ribo-Zero Magnetic kit (Epicenter), and total mRNAs were fragmented into short segments of approximately 200 nt with TransNGS® RNA Fragmentation Buffer (TransNGS, Beijing, China). Double-stranded cDNA was synthesized with random hexamer primers using a SuperScript double-stranded cDNA synthesis kit (Invitrogen, Carlsbad, CA, USA). Libraries were size-selected for cDNA target fragments of approximately 200 bp and subjected to PCR amplification using Phusion DNA polymerase (Finnzymes, Espoo, Finland) for 15 cycles. After quantification, the paired-end RNA sequencing libraries were sequenced with Illumina HiSeq×TEN at a read length of 2 × 150 bp. The Illumina GA Pipeline (version 1.6) processed original images into sequences, performed base-calling, and calculated quality values to obtain 150 bp paired-end reads. After removing low-quality sequences, clean reads of each sample were mapped to the reference genome using Bowtie2.
+
+The experiments were conducted in at least triplicate. The data presented are the mean values along with standard deviations. To assess statistical significance, a one-way analysis of variance (ANOVA) followed by an LSD test at a significance level of
+
+Although ammonium is the preferred nitrogen source for
+
+Knockout or overexpression of the
+
+To investigate the underlying mechanism of Sll0528 during ammonium acclimation, the gene encoding the modified biotin ligase TurboID was fused in-frame downstream of the
+
+Ammonium-induced synchronous expression of
+
+The optimization of TurboID-based proximity labeling initially involved examining the effects of labeling temperature, biotin concentration, and labeling time. SDS-PAGE analysis of total protein indicated that there was no significant difference between WT and P0528T before or after biotin labeling. However, their biotinylated protein patterns were remarkably different, as revealed by a western blot using streptavidin-HRP as an antibody against biotinylated proteins (
+
+Optimization of biotin labeling and enrichment of biotinylated proteins. Biotinylated proteins were revealed by the antibody streptavidin-HRP in a western blot.
+
+The enrichment of biotinylated proteins was optimized in P0528T and control lines, TBYPC (
+
+In the following proteomic analysis, approximately 2.2 mg to 4.3 mg of biotinylated proteins purified from TBYPC (TB), P0528T without ammonium stress (Pt), and P0528T with ammonium stress (PtN) were subjected to 4D label-free proteomics (
+
+Identification of biotinylated proteins from P0528T and TBYPC lines.
+
+Other than the exclusively detected proteins in the P0528T line, some proteins were significantly enriched in PT/TB or PtN/TB (FC ≥ 2,
+
+A total of 175 proteins were enriched in Pt and/or PtN (
+
+Representative proteins enriched in P0528T without or with ammonium stress. A scatterplot of the log
+
+To validate the interaction of Sll0528 with the identified proximate proteins, a bacterial two-hybrid assay (BACTH) was utilized based on adenylate cyclase reconstitution from T18 and T25 fragments in
+
+Bacterial two-hybrid interactions on X-Gal plates of Sll0528 with different proximate proteins. The interaction of leucine zippers of GCN4 from the plasmids pKT25-zip and pUT18C-zip was used as a positive control. Dimerization of the leucine zipper motifs appended to the T25 and T18 fragment results in the positive association of T25 and T18 (1st column). Positive interactions are indicated as blue colonies. Interaction of pUT18C-sll0528 with an empty pKT25 vector was used as a negative control in the 2nd (T18 appended to the N terminal of Sll0528) and 3rd (T18 appended to the C terminal of Sll0528) columns. Different combinations of plasmids included T18 appended to the C terminal of Sll0528 (4th and 5th columns) or T18 appended to the N terminal of Sll0528 (6th and 7th columns) co-expressed with T25 appended to the N terminal (4th and 6th columns) or C terminal (5th and 7th columns) of different proximate proteins (X).
+
+The transcriptomic analysis of the
+
+Transcriptomic level of
+
+M, Δsll0528. OE, OEsll0528. WT, wild type.
+
+RuBisCO, ribulose-1,5-bisphosphate-carboxylase/oxygenase.
+
+Meanwhile, the downregulation vanished or diminished in
+
+In this study, TurboID-based proximity labeling was applied, revealing a robust set of putative interacting proteins of Sll0528 for functional characterization. Among the interactions verified by BACTH, the transcriptional regulator RbcR, which controls the transcription of the
+
+RbcR positively controlled the RuBisCO encoding genes, as well as several other genes encoding components of C
+
+PacR was first discovered as a global regulator of photosynthetic carbon assimilation in
+
+NtcA was identified as the proximity protein of Sll0528, and its interaction with Sll0528 was confirmed using BACTH (
+
+Our study here establishes the site-2 protease Sll0528 as an essential regulator of ammonium stress acclimation in

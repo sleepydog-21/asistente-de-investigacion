@@ -1,0 +1,131 @@
+Iron is an essential trace nutrient, necessary for several enzymes that use it as a cofactor. It can bind to proteins in the free Fe
+
+Bacterial iron homeostasis is mainly a result of transcriptional regulation mediated by Fur, a Fe
+
+RyhB negatively regulates the mRNA of many [Fe-S]-using proteins (
+
+The increased expression of the
+
+While there is a lot of detailed information about the regulation of Isc and Suf in
+
+In this work, we show that in
+
+The
+
+Eventually, after RNA sequencing, we realized that the wt NA1000 strain clone used for these experiments had spontaneously lost the genomic island corresponding to a mobile element (
+
+Bacterial cultures were grown under aerobic conditions at a temperature of 30°C in PYE rich culture medium (
+
+Protein structures were predicted using AlphaFold2 through the ColabFold platform (
+
+The in-frame deletion of
+
+Different fragments of the
+
+Strains containing these reporter plasmids were grown in PYE/Tet and expression was analyzed at logarithmic phase (OD
+
+The streptonigrin (SNG) sensitivity tests were carried out as described in
+
+For RT-qPCR assays, cultures were grown in PYE medium up to exponential phase (OD
+
+Three independent biological replicates from strains
+
+A DNA fragment containing the coding region of the
+
+The protocol was followed essentially as described by (
+
+After obtaining the DNA-ChIP fraction, purification was carried out using the Qiaquick PCR purification kit (Qiagen) following the manufacturer’s instructions and eluted using 50 μL of MilliQ H
+
+The
+
+Reddish fractions containing IscR-His were combined, diluted 10-fold in buffer C (50 mM HEPES, 100 mM NaCl, pH 7), and loaded onto a pre-equilibrated 2 mL HiTrap SP FF column, maintaining a flow rate of 2 mL.min
+
+The electrophoretic mobility shift assay was performed using a 442 bp probe from the
+
+RNA and DNA sequencing data were processed using the frtc pipeline
+
+We used uniquely aligned RNA-Seq reads for gene differential expression analysis as in (
+
+We used uniquely aligned ChIP-Seq reads as input for peak-calling with MACS2 (v2.2.6) (
+
+We used the Integrative Genomics Viewer (IGV) (
+
+All experiments were conducted using a minimum of two independent biological replicates for each experimental condition, and in the qRT-PCR experiment two technical replicates were also employed. Mean and standard deviation were calculated from the data obtained from biological replicates, and to determine the statistical significance between different experimental conditions, the Student’s
+
+Organization of the
+
+The other genes downstream of
+
+The protein encoded by CCNA_01942 possesses all the conserved structural features of IscR orthologs, which include the winged HTH motif for DNA recognition and the four residues that form the 2Fe-2S cluster binding (Cys
+
+Sequential and structural characterization of the
+
+To characterize the role of IscR, we generated a strain with an in-frame deletion of the
+
+Phenotypic analysis of the
+
+IscR has been reported to regulate the
+
+Regulation of the
+
+To evaluate the transcription levels when cells are exposed to oxidative stress, the wt and Δ
+
+Regulation of the
+
+To determine the importance of IscR as a transcriptional regulator in
+
+Global transcriptomic analysis of the IscR regulon.
+
+Selected differentially expressed genes in the
+
+Among the upregulated genes there were operons encoding enzymes for arginine biosynthesis (CCNA_00617–00620), maltose transport (CCNA_02365–02370), and two operons for purine metabolism (CCNA_02687–02690 and CCNA_02699–02701) (
+
+A very intriguing result was that almost none of the genes belonging to the
+
+To try to map a little more precisely where this regulation is occurring, we have designed 4 primer pairs for the beginning, middle and end of the
+
+To determine the IscR binding sites in the whole
+
+The IscR regulator has been described to bind to distinct DNA sequences when in the apo-or holo-form, showing a [Fe-S] cluster-dependent DNA sequence discrimination (reviewed in
+
+Mapping the IscR-binding sites in the
+
+While several peaks were present in both treatments, we considered peaks with more reads in PYE as sites predominantly occupied by holo-IscR and peaks with more reads in PYE+ DP as sites predominantly occupied by apo-IscR. However, although a 2 h treatment with DP has been shown to lead to iron depletion (
+
+To confirm the ChIP-seq results
+
+The EMSA showed that IscR-His bound to several DNA regions that showed peaks in the ChIP-seq experiment (
+
+IscR binds to regulatory regions of several targets identified by ChIP-Seq.
+
+We identified several relevant genes involved in iron homeostasis and other stress responses as direct targets for IscR binding (
+
+A very interesting result was the IscR binding to the
+
+The genes differentially expressed in the mutant as determined by RNA-seq can be either directly or indirectly regulated by IscR. Twenty-two differentially expressed genes with an IscR binding site upstream identified by the ChIP-seq were considered as being directly regulated. A comparison between the IscR regulon and the Fur regulon (
+
+In this work, we have characterized the IscR regulon, to evaluate the role of IscR in controlling the expression of genes encoding proteins using iron or [Fe-S] clusters as cofactors, as well as others important to iron homeostasis. The important role of [Fe-S] clusters as prosthetic groups in many enzymes has long been recognized, and more recently it was proposed that Fur also binds a [2Fe-2S] cluster (
+
+Previously, it was found that the
+
+Strikingly, unlike the
+
+In
+
+We determined the
+
+Besides regulating the iron–sulfur clusters biosynthesis genes, several genes belonging to the IscR regulon in
+
+A summary of the most important effects of IscR and Fur in
+
+Schematic representation of some of the processes regulated by IscR and/or FUR. The effect of the regulator in gene expression is indicated as activation (arrow heads) or repression (blunt heads). Traced lines indicate that the result of the regulation (activation or repression) is unknown. The red and yellow circles symbolize the Fe-S clusters. Note that although IscR is showed without the Fe-S group, it may bind as a holo-protein to some operators. Created in BioRender. Santos, N. (2024)
+
+Interestingly, several IscR-binding sites identified in the ChIP-seq experiment were in regulatory regions where other transcriptional regulators bind (
+
+In some genes the effect is antagonistic, probably by IscR binding interfering with the binding of other regulators (
+
+We observed in the EMSA that IscR binds to the promoter region of the
+
+The FixK regulation by IscR is an important point of intersection between iron homeostasis and oxygen concentration and may be relevant to the diversity of environments faced by this free-living bacterium. The Fix signaling module consists of the two-component phosphorylation system FixL-FixJ, and signal transduction is inhibited by the FixT protein when bound to a [Fe-S] cluster (
+
+Here we showed that

@@ -1,0 +1,69 @@
+Bioluminescence is the phenomenon of light emission resulting from enzyme-catalyzed oxidation reactions in living organisms. Light emission in marine bacteria catalyzed by bacterial luciferase involves the oxidation of long-chain fatty aldehydes and FMNH
+
+Genes encoding light-emitting enzymes and proteins exist on one operon, forming a group in bioluminescent bacteria. This
+
+We found that various genes related to riboflavin (vitamin B
+
+The complete catalytic reactions and proteins involved in light emission by
+
+Gene organization of the
+
+Comparison of amino acid sequences of lumazine protein (LumP) and riboflavin synthase (RibE) from
+
+It is inferred that the lumazine protein functions as an optical transponder in light-emitting reactions of bioluminescent bacteria [
+
+In this study, we employed plasmid pRFN4 [
+
+We inserted the gene encoding the N-terminal half domain of lumazine protein (N-LumP) into this plasmid to increase the fluorescence intensity, as lumazine binds to the lumazine protein with high affinity and functions as a chromophore (
+
+It has been reported [
+
+We also performed PCR to insert
+
+First, we examined the fluorescence intensity of
+
+A previous study [
+
+The fluorescence intensity of
+
+We also measured the excitation spectrum (
+
+Paulus et al. reported [
+
+It is known that riboflavin competes with lumazine for binding to the lumazine protein [
+
+We also measured the excitation spectrum for emission at a wavelength of 530 nm by riboflavin (
+
+A comparison of fluorescence intensities from
+
+However, the fluorescence spectroscopic results for
+
+The identities of lumazine and riboflavin in cell free extracts were finally confirmed by silica gel of TLC developed with 3% ammonium chloride. Lumazine and riboflavin were visualized by fluorescence upon excitation using a long-wavelength UV lamp. As shown in
+
+We tested whether a single fluorescent
+
+There has been a significant interest in luminescence and fluorescence for cellular and molecular imaging, and fluorescence is now the dominant methodology applied in biotechnology, flow cytometry, DNA sequencing, and genetic analysis [
+
+Our previous study [
+
+In a series of studies regarding the generation of fluorescent bacteria, we initially started to work with pRFN4 plasmids by inserting the lumazine protein gene from
+
+Additionally, we conducted an imaging study with
+
+Recently, bacterial bioluminescence has been used as a reporter system in plant protoplasts and single-cell imaging systems [
+
+We used
+
+DNA was amplified via PCR using the pT7-5 PpEE plasmid as a template. This plasmid contained the DNA of
+
+We then loaded and electrophoresed the products on 1.0% agarose gels. After electrophoresis, we identified the recombinant plasmids with the pRFN4-Pp
+
+The ligated DNA was transferred into competent
+
+We dissolved each cell extract in 25 mL of buffer solution A (pH (7.2) consisting of 50 mM Tris-HCl (Tris-hydrochloride), 0.5 mM DTT (dithiothreitol), and 0.5 mM EDTA (ethylenediaminetetraacetic acid)). The supernatant from each solution was collected via ultrasonication (3 × 30 s) and centrifugation.
+
+Using a LS 45 fluorescence spectrophotometer (PerkinElmer, Llantrisant, UK), we scanned the emission spectrum of each supernatant at fixed excitation wavelengths of 410 and 450 nm, and scanned the excitation spectra at emission wavelengths of 490 and 530 nm, respectively. Lumazine and riboflavin in cell free extracts were confirmed by silica gel (Baker, NJ, USA) of TLC developed with 3% ammonium chloride. The authentic lumazine was a gift from Prof. Fischer’s lab at the University of Hamburg and riboflavin was purchased from Sigma-Aldrich. The reference compounds of lumazine and riboflavin, as well as those from
+
+Poly-L-lysine was smeared onto glass slides and incubated for at least 1 h. We then placed the
+
+Using modified pRFN4 plasmids containing the

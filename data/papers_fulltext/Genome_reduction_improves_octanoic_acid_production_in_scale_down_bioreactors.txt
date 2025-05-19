@@ -1,0 +1,81 @@
+A successful bioprocess depends on coordinating strain engineering, feedstock preparation, bioreactor operation and downstream processing. In combination, these unit operations can leverage organisms to create sustainable alternatives to traditional petrochemical processes (Pfleger & Takors,
+
+One approach to reducing the impact of the reported environmental heterogeneities at scale is genome reduction. In this context, genome reduction refers to the removal of unnecessary or costly genes from the host organism to prevent wasteful expenditures during, often transient, stress responses seen at scale. Genome reduced strains may be more efficient, in that the saved energy and carbon could instead be used for either biomass accumulation, expression of heterologous genes or synthesis of more product (Ziegler & Takors,
+
+In this study, we explore the impact of the genome reduced strain RM214 on microbial oleochemical production in a fed batch environment with glycerol as a substrate. We reasoned that the more efficient RM214 background may provide excess energy and potentially improve heterologous chemical production in industrially relevant cultivation modes. Glycerol as a byproduct of biodiesel, has already been used to produce microbial lipids, showing its potential as a substrate for fatty acid derived products or oleochemicals (Kosamia et al.,
+
+Media used based on previously reported experiments (Ziegler et al.,
+
+The trace element solution consisted of 4.175 g/L FeCl
+
+For carbon limited cultivations, the fed‐batch solution consisted of 125 g/L glycerol, 10 g/L NaH
+
+For the nitrogen limited cultivation, batch phase media (NH
+
+Strains of
+
+(A) Overview of octanoic acid synthesis. Glycerol is converted to acetyl‐CoA in central metabolism. Acetyl‐CoA is incorporated into acyl‐ACPs as intermediates in fatty acid biosynthesis (FAB). Double arrows indicate multiple reactions. Expression of a heterologous thioesterase (CupTE) catalyses the hydrolysis of octanoyl‐ACP to octanoic acid. Octanoyl‐ACP is also a precursor of longer‐chain acyl‐ACPs that are substrates for synthesis of membrane lipids. CoA ligase (FadD) activates fatty acids including octanoic acid to acyl‐CoAs. Acyl‐CoAs are the initial compounds in the β‐oxidation (β‐Ox) pathway that liberates acetyl‐CoA units and produces NADH while catabolizing acyl‐chains. Deletion of
+
+To mimic the large‐scale heterogeneities, we performed experiments in a bioreactor system composed of a stirred tank reactor (STR) coupled to a plug flow reactor (PFR). The two reactors, linked by a loop connection, provided a perfectly mixed zone (STR) and a stressed zone (PFR), mimicking the heterogeneities faced by cells in large‐scale tanks. A fraction of the cell culture in the STR was pumped to the PFR using a fixed pump rate, allowing a defined mean residence time in the PFR. These cultivations were set as described previously (see Figure
+
+The results obtained are reported in Table
+
+Setup and results obtained by the system characterization.
+
+Mean of three replicates and the relative standard deviation.
+
+A Bo >10 is generally associated with a plug‐flow behaviour of the system, this was calculated according to (Octave,
+
+For flask cultivations, pre‐cultures were inoculated from a freezer stock and grown in 5 mL of LB‐miller media overnight at 30°C. Experimental cultures were inoculated from the pre‐culture to an OD
+
+For scale‐down bioreactor cultivations, pre‐cultures were inoculated from a freezer stock scrape and grown in 5 mL of LB‐miller media overnight at 30°C. After 16 h, the whole preculture was inoculated into a 2 L flask containing 200 mL of minimal media and grown for 24 h. STR‐PFR bioreactor cultivation began starting OD
+
+The fed‐batch phase was controlled via an exponential feed based on Equation (
+
+Samples for optical density (1 mL) and analyte analysis (5 mL) were taken throughout the culture except for batch flask cultivations which were sampled at 24, 48 and 72 h at 3 mL each. Optical density was measured through dilution of the culture with 9 g/L NaCl to the linear range of a spectrophotometer (Amersham Biosciences/GE Healthcare, Amersham, United Kingdom). Dry well weights were measured in triplicate at the end of each cultivation by centrifuging and washing 10 mL of cell culture in a glass tube with 10 mL of 9 g/L NaCl. Cell pellet weight was noted after drying for 48 h in a 105°C oven. Conversion to carbon moles was based on the literature value from the following reference (Duboc et al.,
+
+For 700 mL STR fermentations, octanoic acid quantification was completed with 2.5 mL of culture, acidified via 100 μL of glacial acetic acid, 25 μL of 50 g/L nonanoic acid internal standard and extracted with 3 mL of hexane to ensure extra volume and dilute the octanoic acid for GC–MS analysis. For GC–MS analysis, an Agilent FatWax UI 30 m 0.25 diameter with the following temperature protocol: 120°C hold for 2 min, increase to 140°C at a rate of 5°C/min and hold for 3 min, increase to 250°C at a rate of 20°C/min and hold for 6 min. Glycerol and acetate for baseline 700 mL STR fermentations with a Shimadzu HPLC with an isocratic method of 0.6 mL/min 5 mM sulfuric acid as a mobile phase and detection by refractive index detector. Various standards of glycerol and acetate were run at the beginning and end of the analysis to verify the linear range.
+
+For 1400 mL STR batch and fed‐batch fermentations, octanoic acid was quantified by a Shimadzu, Model GC‐2010 gas chromatography equipped with an AOC‐20i autoinjector and flame ionizing detector. Octanoic acid was captured via hexane extraction from the culture. Using 1 mL of cell culture, 0.5 mL of hexane was added and vortexed for 10 min. 40 μL of nonanoic acid from a 10 g/L stock in ethanol was added as an internal standard. External standards for octanoic acid production were made by dosing in a known amount of octanoic acid from a 25 g/L stock in ethanol into 4 mL of batch media, diluted to various concentrations, and extracted the same as experimental samples. For GC‐FID analysis, an Agilent FatWax UI 30 m 0.25 diameter with the following temperature protocol: 120°C hold for 2 min, increase to 140°C at a rate of 5°C/min and hold for 3 min, increase to 250°C at a rate of 20°C/min and hold for 6 min. Glycerol and acetate were quantified with Boehringer Mannheim/R‐Biopharm Enzymatic BioAnalysis/Food Analysis for start and end points of the fermentation. Preliminary samples for the STR‐PFR cultivations were run on an HPLC for identification of primary fermentative products including pyruvate, formate, citrate, acetate, lactate and ethanol. Only acetate remained as an accumulated product during cultivation (data not shown). Note that while 10 carbon fatty acid products were observed in GC traces, their abundance was often small (<50 mg) compared to the eight carbon products. We elected to ignore these compounds in our analysis (data not shown). Total glycerol feed to the reactor was measured by either monitoring the mass of the feed bottles or using feed pump calibration values. The total feed glycerol was calculated using the density of the feed solution and the known concentration glycerol in the feed. Total carbon balance was calculated considering the balance of the inputs from starting glycerol, glycerol fed and starting optical density with the outputs of the final biomass, octanoic acid, acetate and carbon dioxide produced. Each component was converted to carbon moles and the remaining balance was marked as unknown. Assumptions regarding total carbon produced from carbon dioxide were calculated based on previously published methods (Chmiel et al.,
+
+Strains, Plasmids, and Primers used in this study.
+
+To build the octanoic acid producing strains, we replaced the
+
+Relevant process parameters for experiments conducted in this paper.
+
+
+
+To further evaluate RM214 and wild‐type strains in a more industrially relevant scenario, we cultivated each strain in bioreactors while applying a carbon limited exponential feeding strategy (Figure
+
+(A) Experimental setup for the carbon limited fed‐batch. (B) OD
+
+Given WG02 had a higher biomass yield on glycerol, we reasoned that an alternative nutrient limitation, such as nitrogen, could potentially shift carbon and energy flux to octanoic acid or potentially other byproducts rather than biomass (Rajpurohit & Eiteman,
+
+(A) Experimental setup for the nitrogen limited fed batch including a feed and batch phase media with a combined molar C:N ratio of approximately 8.5:1. (B) OD
+
+In a final experiment, we grew WG01 and WG02 in a scale‐down reactor mimicking an intermittent carbon starvation stress (Figure
+
+(A) Experimental setup for the carbon limited fed‐batch cultivation including both an STR and PFR reactor to simulate poor mixing conditions. (B) OD
+
+The overall carbon balance of the STR and STR‐PFR cultivations inform how the scale‐down stress and genome reduction alters cellular expenditures. During carbon starvation, WG01 appears to shift acetate accumulation primarily to CO
+
+Carbon balance of the STR and STR‐PFR cultivations including glycerol fed in the batch and fed‐batch phase, and octanoic acid, DCW, acetate and total carbon dioxide produced by the end of the cultivation. See Appendix
+
+In comparing RM214 and wild‐type strains for octanoic acid production, we first showed that in batch flask WG02 had a reduced titre but slightly more biomass and acetate in a batch‐flask cultivation after 72‐h (Figure
+
+Finally, we evaluated the effect of an intermediate carbon starvation for WG01 and WG02 strains. Surprisingly, we found that a starvation stress did not affect biomass accumulation but instead led to a modest increase in product titre, reduced acetate accumulation, and a similar OD
+
+Assessing the carbon balance between WG01 and WG02, with approximately 80–85% of the carbon moles accounted for, WG02 appears to produce more carbon dioxide and octanoic acid, whereas WG01 produces relatively more acetate (Figure
+
+Within these experiments, we found that the cost or benefit of genome reduction greatly depends on the cultivation mode. Other than a small increase in biomass yield, WG02 provides no substantial benefit when compared to WG01 in batch‐flask cultivations. However, depending on the fed‐batch bioreactor conditions, WG02 may primarily benefit either biomass yield (in a carbon limitation) or octanoic acid yield (in a nitrogen limitation). Furthermore, when exposed to intermittent carbon starvation conditions, WG02 maintained both a higher biomass and octanoic yield compared to WG01. Whether through intermittent carbon starvation stress or nitrogen limitation, we showed that genome reduction can improve heterologous product accumulation on glycerol. It is worth emphasizing however that WG02 is not superior in all cultivation conditions, stressing that future applications of genome reduced strains should always be compared to their parent strains to confirm improvements or shortfalls if any.
+
+
+
+No funding information is provided.
+
+The authors declare no competing interests.
+
+Appendix S1
+
+Figures S1–S4

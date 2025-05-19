@@ -1,0 +1,143 @@
+Bacteria are under constant assault from their viruses, bacteriophages (phages), and have evolved sophisticated mechanisms to protect themselves
+
+Antiphage systems must rapidly sense phage infection and transduce an activation signal to an effector protein to stop virion production. Recent progress cataloging antiphage systems has identified that many systems transduce their activation signal through nucleotide-derived second messengers. The cyclic oligonucleotide-based antiphage signaling system (CBASS) synthesizes cyclic di– and trinucleotides
+
+Nucleotide-derived second messengers are also a vulnerability because viruses use phosphodiesterases and “sponge proteins” to interrupt signaling
+
+Here we investigated a two-gene operon (
+
+We investigated a candidate two-gene Panoptes operon from
+
+We selected the best characterized T-even phage, phage T4, for additional characterization. We confirmed that
+
+To better understand the possible enzymatic function of the OptS protein, we expressed and purified an ortholog from
+
+The protomer of
+
+Purified
+
+Based on conservation with diverse nucleotidyltransferases, we expected that OptS Asp6 and Asp57 would be involved in catalysis as they likely coordinate Mg
+
+Phage T4 formed irregular plaques in soft-agar overlays of
+
+Acb2 was recently discovered as an anti-defense protein that antagonizes antiphage immunity by acting as a nucleotide “sponge,” sequestering CBASS-derived cyclic oligonucleotide signaling molecules
+
+We tested whether Acb2 was necessary for OptSE-mediated defense by challenging empty vector (EV) or
+
+We next explored whether
+
+Using the same co-expression assay, we found that the mutant
+
+Given that Acb2 activates the OptSE system and is a phage “sponge” that binds a wide array of nucleotide-derived products, we confirmed that Acb2 can bind the
+
+Our findings were initially paradoxical. Phage defense systems such as CBASS, Pycsar, and Thoeris each generate nucleotide second messengers to activate defense. OptS and OptE are predicted to generate and respond to cyclic oligonucleotides, respectively. Yet Acb2 nucleotide binding activated, rather than inhibited, OptSE signaling. To explain these observations, we hypothesized that rather than OptS-derived nucleotides
+
+We tested this hypothesis using plasmids that expressed
+
+To further confirm our hypothesis, we measured OptS synthesis of 2′,3′-c-di-AMP
+
+Phages encode a wide variety of genes that allow evasion of bacterial immune pathways that use nucleotide-derived signaling molecules. Thoeris anti-defense proteins 1 (Tad1) and 2 (Tad2) sequester both glycocyclic ADP-Ribose (gcADPR) molecules synthesized by TIR domains during Thoeris defense and cyclic oligonucleotides synthesized by CBASS systems
+
+We co-expressed four Tad1 alleles from diverse phages with
+
+mCpol-containing systems are relatively rare but widely distributed across the two prokaryotic superkingdoms (
+
+Beyond coupling with the S-2TMβ, 40% of the mCpol genes are coupled in operons with a gene coding for a protein with a 2TM segment coupled with a CARF domain and a smaller set with a comparable gene encoding a similar 2TM protein with a SAVED domain in lieu of the CARF domain (
+
+Here we discovered that the Panoptes antiphage system flips the liability of a nucleotide-derived second messenger in immune signaling against the phage by detecting the activity of counter-defense proteins. OptS constitutively synthesized 2′,3′-c-di-AMP to hold OptE in an inactive state. During phage infection, Acb2 or similar immune evasion proteins are produced that sequester the OptS-derived signaling molecule, leading to a population of OptE that is no longer bound to cyclic dinucleotide and is free to become activated, in turn aborting infection. While both OptE and Cap15 are closely related members of the S-2TMβ family, they appear to use opposite signaling modalities. OptE inhibited growth in the absence of cyclic nucleotide, whereas Cap15 inhibited growth in the presence of cyclic nucleotide. We anticipate that the growth-inhibiting state of both proteins is the oligomer, which disrupts membrane integrity, but that subtle differences alter whether nucleotide binding stabilizes that monomer or oligomer.
+
+The Panoptes system forces a dilemma for phage: should the phage lose Acb2 and be susceptible to CBASS or evade CBASS and risk agonizing Panoptes. Phage T4 has maintained a wild-type Acb2, however, Phage T2 encodes a mutation that likely selectively disrupts the Acb2 cyclic dinucleotide binding site and the related
+
+Panoptes joins a growing list of antiphage systems that detect immune evasion, such as PARIS and PrrC
+
+Like bacteria, eukaryotes also guard immune pathways by surveying for immune evasion often in a process called “effector-triggered immunity”
+
+The Panoptes system represents a novel reformulation of basic functional units that are used in other antiphage systems. However, subtle molecular changes have enabled a new mechanism for sensing phage infection through detecting immune evasion. Although the phage would appear to be powerless to escape the combination of CBASS and Panoptes, future research will surely uncover the inevitable phage-encoded anti-anti-anti-defense.
+
+All
+
+The plasmids used in this study are listed in
+
+For the
+
+For all vectors using the pTACxc backbone, pAW1608 was amplified and purified from OmniPir. Purified plasmid was then linearized using BamHI-HF and NotI-HF, or EcoRV-HF and PstI-HF. Gibson ligation was used to circularize the plasmid with the new insert.
+
+For all vectors using the pBAD30 backbone, pAW1640 was amplified and purified from OmniPir. Purified plasmid was then linearized using EcoRI-HF and NotI-HF. Gibson ligation was used to circularize the plasmid with the new insert.
+
+For all vectors using the pET16SUMO2 backbone, pAW1123 was amplified and purified from Sure1. Purified plasmid was then linearized using BamHI-HF and NotI-HF. Gibson ligation was used to circularize the plasmid with the new insert.
+
+Plasmid sequences were verified with Sanger sequencing (Quintara Biosciences, Azenta, and/or Plasmidsaurus). Reads were mapped to the predicted plasmid sequence using the Map to Reference feature of Geneious Prime (default settings).
+
+The phages used in this study are listed in
+
+Phage infection assays and phage titer quantifications were performed using a modified double agar overlay technique
+
+The resulting phage titer was quantified in PFU/mL for each phage lysate tested. PFU were enumerated based on the lowest phage dilution spot with individual, quantifiable PFU. The dilution at that spot was used to calculate the PFU/mL appropriately. When there was a hazy zone of clearance rather than identifiable plaques, the lowest phage concentration at which this was seen was counted as ten plaques. When there was no clearance observed, the least dilute spot was counted as 0.9 plaques, and this was used as the limit of detection for the assay. Phage infection data was reported as PFU/mL ± standard error of the mean (S.E.M) of n = 3 biological replicates.
+
+Bacterial strains containing the indicated plasmid were grown overnight in 25 mL MMCG media plus appropriate antibiotics. Cultures were diluted to an
+
+T4 escaper phages were generated from three unrelated, clonal T4 lysates (“parents”) that were separately plate amplified on wild-type
+
+The genomes of the parent and escaper T4 phages were purified as previously described
+
+The purified phage genomes were prepared for Illumina sequencing using a modification of the Nextera kit protocol as previously described
+
+T4 knockout phages were generated as previously described
+
+Homologous repair templates encoded 250 bp of homology on either side of the target gene. In-frame deletions retained the first and last 6 amino acids of the target gene, but deleted the intervening sequence. Two 31 nt spacers were selected to target the beginning of each gene and induced as needed using anhydrotetracycline at 5 nM in the top agar of the soft agar overlay.
+
+The
+
+The
+
+The double knockout was created by doing the Δ
+
+Bacterial growth inhibition was tested using colony formation assays. Bacterial strains with indicated plasmids were grown overnight in MMCG media plus appropriate antibiotics. The cultures were then 10-fold serially diluted in fresh MMCG media (without antibiotics) and 5 μL of each dilution was spotted onto an MMCG agar plate containing the appropriate antibiotics, as well as IPTG (500 μM; induced condition) as indicated. Data in
+
+The vector expressing WT 6xHis-hSUMO2-Acb2 was transformed into Rosetta2 expressing the pRARE2 plasmid and plated onto 1.6% MMCG agar plates + 100 μg/mL carbenicillin and 20 μg/mL chloramphenicol. An individual colony was picked the following day and inoculated into 100 mL of M9ZB media (47.8 mM Na
+
+Cultures were harvested by centrifugation for 30 minutes at 5,000 rpm and 4 °C in an Avanti JXN-26 Floor Centrifuge using the JXN 12.500 rotor (Beckman). The resulting pellets were resuspended in 40 mL Lysis buffer (20 mM HEPES pH 7.5, 400 mM NaCl, 10% v/v Glycerol, 20 mM Imidazole, 0.1 mM Dithiothreitol (DTT)). After resuspension, cells were lysed by sonication at 80% amplitude, with 15 second on, 45 second off pulses for a total processing time of 10 minutes using a Q500 sonicator (Qsonica). Cellular debris was removed from sonicated lysates by centrifugation for 45 minutes at 4 °C and 16,000 × g in an Avanti JXN-26 Floor Centrifuge using the JA 25.50 rotor (Beckman). The soluble lysate was then decanted and protein was purified using immobilized metal affinity chromatography. Briefly, the soluble lysate was run over 2 mL of HisPure cobalt slurry (Fisher Sci) equilibrated in Lysis Buffer. The resin was then washed with 2 × 25 mL of Wash Buffer (20 mM HEPES pH 7.5, 1 M NaCl, 10% v/v glycerol, 20 mM Imidazole, 0.1 mM DTT) and protein was eluted in 10 mL of Elution Buffer (20 mM HEPES pH 7.5, 400 mM NaCl, 10% v/v glycerol, 300 mM Imidazole, 0.1 mM DTT). Proteins were then dialyzed against 2 × 1 L of Dialysis Buffer (20 mM HEPES pH 7.5, 250 mM KCl, 0.1 mM DTT), overnight at 4 °C using 3.5 kDa MWCO Snakeskin Dialysis Tubing (VWR). The 6×His-SUMO-tag was cleaved using 6×His-hSENP2 (produced in-house; final concentration of 1:100 hSENP2:protein w/w) during the overnight dialysis step. After dialysis, proteins were run over 2 mL HisPure cobalt slurry equilibrated in dialysis buffer to remove any 6×His-SUMO tagged proteins.
+
+After dialysis, the protein was concentrated as needed using 3 kDa MWCO Nanosep spin concentration columns (Pall Labs) and stored 200–500 μL aliquots in Dialysis Buffer at −70 °C. Protein concentrations were measured using A
+
+ITC assays were adapted from the protocol described in Huiting et al., 2023. Briefly, the K
+
+The vector for expressing 6×His-hSUMO2-AbCap5 was transformed into Rosetta2 expressing the pRARE2 plasmid and plated onto 1.6 % LB agar plates (plus 100 μg/mL carbenicillin and 20 μg/mL chloramphenicol). The plate was allowed to dry and was incubated at 37 °C overnight. The next day, an individual colony was picked to inoculate 25 mL of liquid LB media (plus 100 μg/mL carbenicillin and 20 μg/mL chloramphenicol), which was then grown overnight shaking at 220 rpm and 37 °C. The following day, the overnight culture was diluted 1:100 into fresh media plus antibiotics, then grown to an
+
+The next day, cultures were harvested by centrifugation for 30 minutes at 5,000 rpm and 4 °C in an Avanti JXN-26 Centrifuge using the JXN 12.500 rotor (Beckman Coulter). Each bacterial pellet was resuspended to a total volume of 40 mL lysis buffer (20 mM HEPES pH 7.5, 400 mM NaCl, 10% v/v glycerol, 30 mM imidazole, and 1 mM dithiothreitol (DTT)) plus 1 μL of Pierce Universal Nuclease (Thermo Fisher Sci.). The resuspended bacterial pellets were kept chilled and were lysed by sonication at 80% amplitude, with 30 seconds on, followed by 30 seconds off, for a total processing time of 30 minutes using a Sonicator 4000 (Misonix). The lysed bacteria were centrifuged at 4 °C for 1 hr at 14,000 xg in a 5910 R tabletop centrifuge (Eppendorf) to pellet cellular debris left over from sonication.
+
+The resulting soluble lysate was transferred to a new conical tube and kept on ice. To purify protein, the entire soluble lysate was run over 1 mL of lysis buffer-equilibrated Ni-NTA resin (Thermo Fisher Sci.). The flow through was collected and reapplied to the resin. The resin was then washed with 5 × 25 mL of wash Buffer (20 mM HEPES pH 7.5, 1 M NaCl, 10% v/v glycerol, 30 mM imidazole, and 1 mM DTT). The protein was eluted in 10 mL of elution Buffer (20 mM HEPES pH 7.5, 400 mM NaCl, 10% v/v glycerol, 300 mM imidazole, and 1 mM DTT). The eluted protein was added to 10 kDa MWCO tubing (VWR) and then dialyzed in 1 L of Dialysis Buffer (20 mM HEPES pH 7.5, 250 mM KCl, and 1 mM DTT) for 1 hr at 4 °C. Afterwards, the dialysis tubing and protein were placed into 1 L of fresh Dialysis Buffer and allowed to dialyze overnight at 4 °C. The 6×His-SUMO-tag was cleaved from the N-terminus of AbCap5 using 6×His-hSENP2 (purified in-house; final concentration of 1:100 hSENP2:protein w/w), which was added to the purified protein immediately before it was placed in the dialysis tubing. After dialysis and 6x-His-SUMO cleavage, the purified proteins were applied to 1 mL of dialysis buffer-equilibrated Ni-NTA and the flow through was collected and reapplied to the resin to remove any uncleaved 6×His-SUMO tagged proteins.
+
+The purified AbCap5 was concentrated as needed using 30 kDa MWCO Macrosep spin concentration columns (Pall Labs) and stored in 1 mL aliquots in 50% glycerol v/v at −20 °C. A Nanodrop OneC (Thermo Fisher Sci.) was used to measure A
+
+Bacterial strains expressing either the
+
+Nucleotides were extracted from bacterial lysates using a modified version of a previously described phenol-chloroform/chloroform extraction protocol
+
+Commercially available 2′,3′-c-di-AMP (Enzo) was used to make a standard curve by 2-fold serially diluting the nucleotide in nuclease-free water. A dilution series of nucleotide extracts from the tested bacterial strains were made by 2-fold serially diluting the extracts in nuclease-free water. For each 25 μL reaction, AbCap5 (final concentration 50 nM) was incubated with 500 ng of linear PCR-amplified DNA and 5 μL of one dilution of nucleotide extract, 2′,3′-c-di-AMP, or water in Reaction Buffer (final concentrations: 10 mM Tris-HCl pH 7.5, 25 mM KCl, and 10 mM MgCl
+
+The concentration of intracellular 2′,3′-c-di-AMP (
+
+The genes for full-length
+
+Transformant colonies were grown overnight at 37 °C on MDG media (0.5 % glucose, 25 mM Na
+
+Conventional nickel-affinity chromatography was carried out using gravity flow at 4 °C. Briefly,
+
+Apoprotein crystals for OptS from
+
+X-ray diffraction data for
+
+Enzymatic reactions were performed in 100–600 μL total volume with typically 250 μM total equimolar ribonucleotide triphosphates (ATP, GTP, CTP, UTP), 1 mM MnCl
+
+Synthetic cyclic dinucleotide ligands used for HPLC and mass spectrometry analysis were purchased from Biolog Life Science Institute: 3′,3′-c-di-AMP (cat no. C 088), 2′,3′-c-di-AMP (cat no. C 187), 2′,2′-c-di-AMP (cat no. C 188), 3′,3′-c-di-GMP (cat no. C 057), 2′,3′-c-di-GMP (cat no. C 182), 2′,2′-c-di-GMP (cat no. C 162), 3′,3′-cGAMP (cat no. C 117), 2′,3′-cGAMP (cat no. C 161), 3′,2′-cGAMP (cat no. C 238), 2′,2′-cGAMP (cat no. C 210), pppA(2′,5′)pA (cat no. T 073).
+
+The structure of
+
+Each experiment presented was performed in independent biological duplicate or triplicate using bacterial cultures grown on two or three separate days, respectively. Data was plotted using Graphpad Prism 9 at an n = 2 or n = 3 with error bars indicating the standard error of the mean. Illumina sequencing results were analyzed using Geneious Prime Software.
+
+Extended Data Table 1. X-ray crystallography data collection and refinement statistics
+
+Extended Data Table 2. T4 phage escaper mutations
+
+Supplementary Table 1. Bacterial strains, plasmids, phages, and proteins used in this study

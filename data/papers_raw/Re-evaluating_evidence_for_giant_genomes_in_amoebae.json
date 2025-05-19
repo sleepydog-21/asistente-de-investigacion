@@ -1,0 +1,11 @@
+{
+  "id": "39873136",
+  "title": "Re-evaluating evidence for giant genomes in amoebae.",
+  "doi": null,
+  "authors": "Barzilay D, Alcino JPB, Ribeiro GM, Sousa ALP, Lahr DJG",
+  "journal": "Genetics and molecular biology",
+  "year": "2024",
+  "abstract": "Here we reassess available evidence for the long-held misconception of amoebae possessing exceptionally large genomes. Traditionally, estimates relied on inaccurate methods like DNA weight measurements, leading to inflated sizes. These methods failed to account for contaminating DNA from prey, endosymbionts, and intrinsic genomic features like ribosomal operon amplification. Modern sequencing techniques unveil a different picture. Fully sequenced amoebozoa genomes range from 14.4 to 52.37 mega basepairs, well within the typical single-celled eukaryote expectation. While the whole genome of the historically relevant Amoeba proteus has not yet been fully sequenced, we provide here a statistical analysis using protein-coding genes from transcriptomic data, suggesting that the genome size is consistent with this range, far smaller than previously claimed. The misconception likely originated in the early 21st century and perpetuated through popular science materials. We conclude that there is no longer reason to reaffirm that amoeba genomes are giant.",
+  "source": "PubMed",
+  "pmcid": "PMC11773323"
+}

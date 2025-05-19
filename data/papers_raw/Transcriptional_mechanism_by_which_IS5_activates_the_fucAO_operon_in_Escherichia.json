@@ -1,0 +1,11 @@
+{
+  "id": "40066878",
+  "title": "Transcriptional mechanism by which IS5 activates the fucAO operon in Escherichia coli.",
+  "doi": null,
+  "authors": "Zhou H, Zhang Z, Velo J, Huo J, Smith S, Ho A, Saier MH",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "The silent E. coli fucAO operon can be activated by IS5 insertion upstream of its regulatory region, allowing cellular growth on L-1,2-propanediol. Little information is available concerning the transcriptional mechanism behind IS5-mediated fucAO activation. In this study, we demonstrate the formation of a unique \"fusion\" promoter (Pfsn) following IS5 insertion, which drives expression of the downstream fucAO operon. Our findings indicate that this functional σ70 fusion promoter is generated using a DNA sequence carrying a Crp-binding site directly upstream of the IS5 element, followed by the otherwise inactive IS5 transposase promoter. Under non-inducing conditions, this fusion promoter contributes to full operon expression while the native operon promoter PfucAO remains silent. As a typical Class I promoter, Pfsn is independent of the fuc regulon activator FucR, but its activity is exclusively reliant on the binding of Crp-cAMP to the upstream Crp-binding site. Under inducing conditions, the presence of functional FucR can further elevate fucAO operon expression by activating the native operon promoter, PfucAO. In the latter case, Pfsn and PfucAO function independently, and contribute to operon expression to nearly the same extent. Thus, we have discovered a novel IS-dependent fusion expression system that is modulated by a transcriptional factor in bacteria.",
+  "source": "PubMed",
+  "pmcid": "PMC11894529"
+}

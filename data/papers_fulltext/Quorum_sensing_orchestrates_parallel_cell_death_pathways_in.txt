@@ -1,0 +1,61 @@
+Quorum sensing (QS) is a process of bacterial cell–cell communication that depends on the production, release, accumulation, and detection of extracellular signal molecules called autoinducers (AIs) (
+
+The bacterial type 6 secretion system (T6SS) is a contact-dependent nanomachine that delivers toxic molecules into other cells (
+
+Certain bacteria, including
+
+Some
+
+Surprisingly, we find that, in
+
+Simplified model of
+
+It was previously reported that some variants recovered from
+
+QS control of T6SS-mediated killing activity in
+
+To understand whether T6SS-mediated killing activity tracks with level of expression of
+
+HapR resides at the bottom of the
+
+The above results show that HapR does not regulate overall
+
+Time-series images demonstrating the two phases of spatiotemporal cell death in
+
+The
+
+A mechanism enabling variants in
+
+In addition to Vps blocking incoming attacks, in
+
+Transcriptomic analysis of
+
+The
+
+Overexpression of
+
+The role of
+
+The obvious conclusion from the above findings is that expression of the
+
+The
+
+Given that overexpression of
+
+Here, we find that QS-regulated spatiotemporal cell death in
+
+Our epistasis analyses show that HapR does not regulate
+
+The two cell death pathways in
+
+Chromosomal alterations in
+
+The cell death assay was previously reported (
+
+Strains were cultured on LB agar medium exactly as described for the cell death assay. Subsequently, colonies were resuspended in PBS, 4 mm glass beads were added, and the suspensions subjected to vortex for 5 min to disperse aggregates. The resulting cell suspensions were treated for 15 min at room temperature with RNAProtect reagent per the manufacturer’s instructions. Thereafter, RNA isolation was performed as described previously (
+
+Colonies were plated as described above for the cell death assay. Images of growing colonies were acquired with a Cytation 7 imaging plate reader (Biotek) as reported (
+
+Appendix 01 (PDF)
+
+Dataset S01 (XLSX)

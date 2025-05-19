@@ -1,0 +1,11 @@
+{
+  "id": "39990427",
+  "title": "Recombination and retroprocessing in broomrapes reveal a universal roadmap for mitochondrial evolution in heterotrophic plants.",
+  "doi": null,
+  "authors": "Cai L, Havird JC, Jansen RK",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "abstract": "The altered life history strategies of heterotrophic organisms often leave a profound genetic footprint on energy metabolism related functions. In parasitic plants, the reliance on host-derived nutrients and loss of photosynthesis in holoparasites have led to highly degraded to absent plastid genomes, but its impact on mitochondrial genome (mitogenome) evolution has remained controversial. By examining mitogenomes from 45 Orobanchaceae species including three independent transitions to holoparasitism and key evolutionary intermediates, we identified measurable and predictable genetic alterations in genomic shuffling, RNA editing, and intracellular (IGT) and horizontal gene transfer (HGT) en route to a nonphotosynthetic lifestyle. In-depth comparative analyses revealed DNA recombination and repair processes, especially RNA-mediated retroprocessing, as significant drivers for genome structure evolution. In particular, we identified a novel RNA-mediated IGT and HGT mechanism, which has not been demonstrated in cross-species and inter-organelle transfers. Based on this, we propose a generalized dosage effect mechanism to explain the biased transferability of plastid DNA to mitochondria across green plants, especially in heterotrophic lineages like parasites and mycoheterotrophs. Evolutionary rates scaled with these genomic changes, but the direction and strength of selection varied substantially among genes and clades, resulting in high contingency in mitochondrial genome evolution. Finally, we describe a universal roadmap for mitochondrial evolution in heterotrophic plants where increased recombination and repair activities, rather than relaxed selection alone, lead to differentiated genome structure compared to free-living species.",
+  "source": "PubMed",
+  "pmcid": "PMC11844532"
+}

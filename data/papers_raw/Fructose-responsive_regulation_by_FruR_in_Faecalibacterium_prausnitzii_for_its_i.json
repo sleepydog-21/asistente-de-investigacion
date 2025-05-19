@@ -1,0 +1,11 @@
+{
+  "id": "40082586",
+  "title": "Fructose-responsive regulation by FruR in Faecalibacterium prausnitzii for its intestinal colonization.",
+  "doi": null,
+  "authors": "Choi H, Cho SH, Park JH, Seok YJ",
+  "journal": "Communications biology",
+  "year": "2025",
+  "abstract": "Faecalibacterium prausnitzii, a dominant member of healthy human gut microbiota, exhibits a strong positive correlation with fecal fructose levels, suggesting fructose as a key energy source for its colonization and persistence. This study explores the regulatory mechanisms governing the fru operon in F. prausnitzii, responsible for fructose uptake and metabolism. Here, we demonstrate that FruR, a DeoR family transcriptional regulator, orchestrates fru operon expression through interactions with fructose-1-phosphate (F1P) and HPr2, the histidine-containing phosphocarrier protein. The F1P-HPr2(Ser-P)-FruR complex enhances RNA polymerase binding to the fru promoter, with stronger affinity for specific operator motifs compared to apo-FruR. F1P induces structural modifications in FruR that strengthen its interaction with HPr2 and alter its DNA recognition pattern, facilitating RNA polymerase access to the promoter. In vivo experiments in mice demonstrate increased F. prausnitzii abundance alongside upregulated fru operon expression in fructose-rich environments. This study provides new insights into how fructose availability modulates fru operon regulation and promotes F. prausnitzii colonization in the host intestine.",
+  "source": "PubMed",
+  "pmcid": "PMC11906611"
+}

@@ -1,0 +1,83 @@
+Iron is an essential cofactor for many enzymes that are involved in maintaining cellular homeostasis and function (
+
+Ten
+
+Clinical information of the 10
+
+The 10
+
+Genome characteristics of the 10
+
+The integrative and conjugative elements (ICEs) of
+
+The pan-genome of the 10
+
+Pan-genome analysis of 10
+
+Functional annotation of the genes in the pan-genome was performed using the COG and KEGG databases and revealed a distribution of functional categories among three pan-genome sets (
+
+Nine AMRs were predicted among the 10 strains, including β-lactam resistance genes (
+
+Presence/absence pattern of AMRs and VFs in each
+
+Antimicrobial susceptibility of the 10
+
+S, susceptible; R, resistant; I, intermediate.
+
+A total of 117 VFs were predicted among the 10
+
+Since the most unique genes in the NT06 strain (139, 30.55%) were encoded by contig4, that contig was used as the reference to compare all contig sequences of the other nine strains (
+
+An identical Wzy-dependent capsular polysaccharide synthesis (
+
+The
+
+Comparative analysis of the
+
+The GR5 was the largest GR in contig4 of the NT06 strain, containing mobilization relaxosome genes (
+
+The sequences of SZ28, NT01, and NT05 strains were used as representative sequences to compare against the NT06 sequence (
+
+Comparative genomic analysis of the genetic context of
+
+The modeling of the YclQ-like protein was based on the published iron complex transport system substrate-binding protein (template number A0A4R7CYS8.1.A) and petrobactin-binding protein YclQ (template number 3gfv.1.A), with sequence identities of 99.03% and 39.64% by BLASTp and global model quality estimation (GMQE) scores of 0.9 and 0.72, respectively. The secondary structures of the YclQ-like protein and its homologs in
+
+The secondary structure of YclQ-like protein and its homologs in
+
+The YclQ-like protein was similar to proteins in other strains, such as
+
+A phylogenetic tree was constructed using the 139 YclQ-like proteins in 137 strains (
+
+Maximum likelihood tree based on 139 YclQ protein sequences from 137 strains. The protein sequences were aligned using MAFFT, and the alignments were trimmed using trimAl. The tree was made using IQ-TREE, and
+
+One hundred and twenty-two YclNOPQ-like proteins in 122 strains were used to construct a concatenated protein tree. The concatenated protein tree was almost the same as the one based on the YclQ protein, with the genus
+
+In this study, we identified 10
+
+The development of next-generation sequencing (NGS) technologies has made the pan-genome a new tool for analyzing pathogenic bacteria (
+
+Integrative and conjugative elements (ICEs) are capable of horizontal transfer between bacteria via conjugation (
+
+Plasmid sequences were not detected, and nine resistance genes were detected as core genes on the chromosome of all 10 strains. β-lactamase genes (
+
+Seventeen different
+
+The mobilization genes (
+
+Many iron uptake-related genes were detected in
+
+The
+
+By comparative analysis, we found that YclNOPQ-like proteins were not only observed in
+
+In summary, by pan-genome and comparative analyses, we studied the distribution of AMRs and VFs among 10
+
+Ten clinical
+
+The genomic DNA of the 10
+
+The extracted genomic DNA was sequenced using the Illumina MiSeq system (Sanigen, South Korea). After genome sequencing, the qualified raw sequence reads were used for genome assembly using Unicycler v0.5.0 (
+
+The whole-genome ANI between pairwise
+
+Twenty-two representative sequences of the 16S rRNA gene of

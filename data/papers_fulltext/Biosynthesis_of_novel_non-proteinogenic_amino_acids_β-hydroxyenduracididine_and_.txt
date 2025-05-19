@@ -1,0 +1,83 @@
+Proteins, the architects of life’s complexity, are traditionally composed of 22 standard amino acids. Yet nature extends beyond this limited set, encompassing a diverse array of non-proteinogenic amino acids (npAAs) that are not customarily encoded by the genetic code. These non-standard amino acids are pivotal in numerous biological functions and hold immense potential in pharmaceuticals, agriculture, and bioengineering. They play critical roles in a variety of biological processes and possess promising applications. Furthermore, npAAs represent a frontier for innovative chemical exploration, poised to enhance the versatility of biological systems.
+
+NpAAs include molecules that are precursors in biosynthesis, post-translationally modified, specially synthesized for non-ribosomal peptide synthesis (NRPS) or hybrid polyketide synthesis (PKS), and chemically synthesized. NpAAs can be found in bacteria, fungi, and plants and can act as secondary metabolites (
+
+The vast repertoire of amino acid structures in nature is astounding, with hundreds of unique variants across many organisms (
+
+However, there are numerous challenges when it comes to synthetic biology and the aim of harnessing these unique compounds. Many organisms that naturally produce these npAAs are not suitable for laboratory manipulation for increased production due to the absence of refined genetic engineering techniques. Additionally, the complexity of isolating and purifying these novel metabolites, coupled with the obstacles in maintaining such organisms under standard lab conditions, further complicates their use.
+
+
+
+Here, we engineered
+
+These npAAs were selected as BmePhe displays an array of medicinal properties, which include being antiarthritic (
+
+The enduracididine family of molecules is known for its integration into large bioactive molecules, including antibiotics enduracidin (
+
+
+
+Synthetic operon expression in
+
+Five proteins, organized into two distinct pathways as illustrated in
+
+Among the proteins influencing the internal pools of arginine or phenylpyruvate, only a few selected proteins show significant differences in expression between the
+
+Differential expression of proteins that synthesize or deplete phenylpyruvate
+
+Acid hydrolysis of mannopeptimycin α standard, depicted in
+
+LC–MS/MS analysis of standards generated from mannopeptimycin acid hydrolysis.
+
+The MRM method detected the presence of BmePhe and BhEnd parent mass ions and fragment mass ions in
+
+Based on our relative comparison, the levels of BhEnd and BmePhe were quite low in
+
+During the exponential growth phase, cultures grown in LB, LB supplemented with arginine and alanine, or LB supplemented with glucose exhibited similar growth rates, as shown in
+
+Growth of
+
+BhEnd and BmePhe were detected again in standard LB culturing and in cultures with phenylalanine and glutamic acid, as shown in
+
+In the presence of phenylalanine and glutamic acid, relative levels of BhEnd are 75% of the levels observed in LB-only fermentations. However, this difference in concentration was not statistically significant. The most drastic changes in production were seen for BmePhe; supplying the precursors for the pathway with as little as 2 mM of phenylalanine and glutamic acid increased production by 2.5 times, but the addition of arginine and alanine resulted in no difference in the amount of BmePhe produced. Enduracididine peaks were also found in LB cultures and cultures fed with phenylalanine and glutamic acid. Although not detected against an MRM method, the peaks that contain End were verified by the daughter fragment ion patterns of a 173 m/z SIM against those of the standard (
+
+As we saw an unexpected decrease in production for strains that were grown in alanine and arginine, we decided to further interrogate the effect of these amino acids on the growth of our
+
+
+
+
+
+Based on the LCMS results throughout these studies, there appears to be less flux through the BhEnd pathway compared to the BmePhe pathway. This could be because the BmePhe pathway only has two proteins, one of which is heterologously expressed, compared to BhEnd’s four proteins. All of the proteins were codon optimized for expression in
+
+Although the lack of BhEnd could be due to the lack of pathway optimization, BhEnd production could be toxic to
+
+In a larger context, the npAAs produced from
+
+Overall, the engineering of
+
+Strains and plasmids used in this paper are summarized in
+
+Restriction enzyme reactions utilized enzymes from NEB following the manufacturer’s recommendations. Golden Gate Assembly mixture was made by reacting equimolar fragments and the desired backbone using T4 ligase (0.5 µL; NEB), buffer (2 μL; NEB), and appropriate type IIS restriction enzyme (1.5 µL; NEB). Gibson Assembly of fragments with >10 bp overlapping arms was conducted as described by
+
+The transformation of
+
+Proteins encoding npAA synthesis, MppJ, MppQ, MppR, MppS, and MppO, were codon optimized for expression in
+
+pTOP and pCas9 (
+
+
+
+To increase the flux through the engineered pathways,
+
+As a growth burden was seen for feed cultures with alanine and arginine,
+
+Proteomics samples were taken in biological triplicates from shake flasks, pelleted, and frozen for analysis.
+
+Digested peptides were analyzed by liquid chromatography–mass spectrometry (LCMS). Initially, 2 µL of sample was loaded onto the Thermo Fisher Acclaim PepMap C18 trap reversed-phase column (300 μm × 5 mm nano viper, 5 µm particle size, 100 Å pore diameter) at a rate of 15 µL/min. Peptides were separated with mobile phase solutions of H
+
+Data analysis was performed with Spectronaut (
+
+Frozen cell pellets were thawed on ice and transferred to 5 mL of screw cap tubes, and approximately 200 µL of 0.5 µm glass beads (11079101; BioSpec Products) were added. The bead beater Precellys 24 (Bertin Technologies) was pre-chilled to −1°C using ethanol and dry ice. Samples were pulsed at a speed of 4.00 m/s, with 5 × 45 s pulses, 30 s interval, and max tube speed of 8. To purify the metabolites, 1 mL of phenol:chloroform:isoamyl (25:24:1) was added to samples and vortexed to mix. To separate the organic layers, samples were centrifuged at 16,000 RCF for 5 min at 4°C. The aqueous layer was transferred to a new 2-mL Eppendorf tube, being careful not to disturb the interface layer containing proteins. Samples were evaporated in a rotary evaporator at 30°C until the sample volume was approximately 400 µL to remove most of the methanol. To further dilute any residual methanol, 1 mL of water was added to extractions. Samples were freeze-dried overnight and then reconstituted in 100 µL of 2% of ACN.
+
+To generate a standard for npAAs β-methylphenylalanine and β-hydroxyenduracididine, a purified mannopeptimycin-α standard was acid-hydrolyzed. Purified mannopeptimycin-α was provided by Zoetis. A sample containing 1 µg was reacted with 200 µL of 6 N HCl at 110°C for 24 h. This reaction was dried under N
+
+For quantification, samples were diluted 1/100 with 2% of ACN, and 10 µL of each sample was injected for analysis on a Shimadzu Nexera HPLC system coupled to an 8060 MS/MS and separated on a Shim-pack Scepter PFFP-120 (3 μm, 2.1 × 150 mm) with a flow rate of 0.3 mL/min. The mobile phases used were 0.1% of HFBA, 0.05% of FA in water (A), and 0.1% of FA in acetonitrile (B). Gradient conditions are as follows: 100% A for 3.5 min, increased to 98% B from 3.5 to 9 min, isocratic for 3 min, returning to 100% A within 0.1 min, and holding at 100% A until 15 min. Single ion monitoring (SIM) was conducted at a micro scan width of ± 0.3 amu on the positive ionization mode. Initial spectral scans were run within tightly defined mass windows to capture the molecular weights of desired products: BmePhe, m/z = 179.82–180.18; enduracididine, m/z = 172.83–173.17; BhEnd, m/z = 188.81–189.19. MRM methods were developed for BmePhe with a precursor mass (Q1) of 180.10 m/z and MRM tracking of fragments 134.10, 117.20, and 163.35 m/z on the Q3. For BhEnd, a Q1 mass was set at 189.10 m/z with MRM fragments of 84.15, 114.15, and 68.10 m/z on Q3. These fragment ions were verified against the CFM-ID 4.0 online tool (

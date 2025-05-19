@@ -1,0 +1,65 @@
+Uncontrolled growth of cancerous tissues requires a supply of metabolic substrates [
+
+The depletion of amino acids using systemically delivered enzymes as an approach to cancer therapy is an ongoing area of investigation [
+
+In addition to fueling cancer cell growth, amino acid metabolism is also linked to immunosuppression [
+
+The therapeutic potential of targeting tryptophan metabolism for the treatment of cancer is well-recognized [
+
+Tumor-targeted bacteria is an area of interest in delivering therapeutics through intratumoral gene expression of tumor-localized bacteria [
+
+Bacterial Strains Used in the Study.
+
+Bacterial cultures were grown overnight in LB-0 (LB media without salt [
+
+Cloning Tryptophanase and Detecting Tryptophanase Activity. In
+
+A TnaA fusion with superfold GFP (
+
+Determination of intracellular localization of tryptophanase. The VNP20009-EV and VNP20009-
+
+Quantitative Indole Determinations. High-purity indole (99+%, ACROS Organics, Geel, Belgium) dissolved in 70% ethanol was used to create a standard curve (from 0 to 100 μM) in LB-O culture media. The 250 μL samples were mixed with an equal volume of Kovács reagent (isoamyl alcohol, para-dimethylaminobenzaldehyde and concentrated HCl; Remel) to generate a fuchsia-colored complex with para-dimethylaminobenzaldehyd. The samples were vortexed for 10 sec, centrifuged 17,000×
+
+Tryptophan Conversion by VNP20009-EV and VNP20009-
+
+Determining the Relative Rates of Tryptophanase Activity with and Without Antibiotic Treatment. Tryptophan conversion with and without 100 μg/mL gentamycin [
+
+Separation of Indole from Tryptophan. Tryptophan and indole share the same heterocyclic aromatic rings, which makes it difficult to distinguish each of them in the presence of the other. We investigated whether indole could be separated from tryptophan by organic extraction in order to quantify the tryptophan residue. In preliminary studies, indole was found to be removed from aqueous solution by extraction with chloroform, while tryptophan remained in the aqueous phase. Indole was extracted from 1.5 mL of the sample by the addition of 0.5 mL chloroform, vortexed for 10 s, centrifuged at 17,000×
+
+Measurement of Tryptophan Following Extraction of Indole. Tryptophan in tris buffered saline (TBS) pH 7.4 was scanned with the Spectramax M3 using matched quartz cuvettes of between 200 and 300 nm, and found to have peak adsorptions at 218 and 280 nm, with 218 nm having the higher readings. Following chloroform extraction, the spectra shifted slightly but the peaks remained at 218 and 280 nm. OD
+
+Tryptophan Depletion. Tryptophan was adjusted to 80 μM final concentration in TBS in order to match the concentration in DMEM cell culture media, and VNP20009-
+
+Tryptophan Depletion of Tumor Cell Culture Media. To generate tryptophan-depleted media based upon the 4 h data, 1 × 10
+
+Tumor Cells. MDA-MD-468 human breast carcinoma ATCC HTB-132 were grown in Dulbecco’s Modified Eagle Medium (DMEM) containing 4.5 g/L glucose (Gibco, Grand Island, NY, USA) with 10% (
+
+Effect of Conditioned Tissue Culture Media on Tumor Cell Growth. We compared five different groups of MDA-MB-468 tumor cells consisting of untreated media, media with the 80 μM of combined indole, ammonia and pyruvate (the maximum theoretical concentrations for conversion of 80 μM of tryptophan in the media), VNP20009-EV conditioned media, VNP20009-
+
+Effect of Conditioned Tissue Culture Media on Tumor Cell Growth and Kynurenine Production. Kynurenine was measured in the same groups as above. Cells were stimulated with interferon gamma (IFNγ; Pierce Biotechnology, Rockford, IL, USA) 1000 u/mL, as described by [
+
+Statistical Analysis. Data from SoftmaxPro were exported to Microsoft Excel for initial data analysis, and then imported into Prism 6.0 (GraphPad) for statistics using one-way ANOVA and two-tailed
+
+Direct transformation into
+
+Light and the fluorescent microscopic images of the control
+
+We found that measurement of the Kovács reagent resulted in a linear curve of over 0 to 100 μM indole. Treatment with gentamycin had no observable effect on tryptophanase activity (
+
+A tryptophan standard curve ranging from 1 to 50 mM was generated using the peak absorbance of 218 nm, which resulted in a linear curve with an R
+
+Using different amounts of bacteria, ranging from 1 × 10
+
+The comparison of five different MDA-MB-468 tumor cell groups is shown in
+
+In the kynurenine assay, we recognized that the depletion of tryptophan could alter the cell growth, and thereby indirectly show a lower level of kynurenine production. We used the resazurin viability assay to normalize all the groups when we graphed kynurenine production (
+
+We expressed tryptophanase in the
+
+We have identified an approach to modifying bacteria with the potential to enhance antitumor activity that we believe merits future studies in murine models of cancer. Indoleamine 2,3-dioxygenase (IDO) is the first enzyme involved in the kynurenine pathway (KP). IDO initiates the metabolism of tryptophan to N-formylkynurenine, which is subsequently further metabolized to kynurenine, kynurenic acid, 3-hydroxykynurenine, 3-hydroxyantrhanilic acid and picolinic acid. These specific metabolites are important in immune tolerance, with IDO conversion to N-formylkynurenine being the rate-limiting step in their production [
+
+Amino acid catabolism causes immunosuppressive effects that promote tumor growth, while the depletion of amino acids is known to suppress tumor growth. Aspariginase (Erwinase and Crisantaspase), derived from
+
+Because tryptophan is the catabolic substrate for IDO, expression of the
+
+Tryptophanase was cloned from

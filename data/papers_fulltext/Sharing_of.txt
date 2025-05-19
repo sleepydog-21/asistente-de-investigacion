@@ -1,0 +1,65 @@
+Increased antimicrobial resistance (AMR) in
+
+Resistance–nodulation–cell division (RND) efflux systems, such as CmeABC, enhance resistance to bile salts and synergize with other resistance determinants, contributing to increased resistance to various antimicrobials (
+
+Given the widespread resistance across antibiotic classes (
+
+Human
+
+Poultry fecal samples were obtained from two distinct sampling events. The first one (study D) took place between August and December 2019. Households in Santa Clara de Nanay (a periurban community in Iquitos, Loreto, Peru) were surveyed for the presence of chickens by local field workers. Specifically, households that had chickens in their backyards (“chacras”) or inside the living domain of the household were identified by asking the household owner. Of these, a random sample was selected, and between three and five fecal samples from backyard poultry (crossbreed,
+
+Human fecal samples from the first cohort, as well as poultry fecal samples, were cultured using
+
+Sequencing of genomic DNA from
+
+All genomes were assembled using the Spades assembler plugin for Geneious Prime (v.2023.2.1) (
+
+Multilocus sequence types (STs) and associated clonal complexes (CCs) were automatically determined using the PubMLST database (
+
+To assess how each of the
+
+Genomes were mined for antimicrobial resistance chromosomal point mutations and antibiotic resistance genes using the Comprehensive Antibiotic Resistance Database, ResFinder and PointFinder, and NCBI AMRFinder databases (
+
+Single-gene phylogenies were constructed for each protein of the
+
+The consistency of the phylogenetic tree with patterns of variation in sequence alignments for each gene of interest was calculated (
+
+Most alleles in the
+
+PubMLST is a curated database (
+
+A total of 252
+
+We constructed a phylogeny by aligning nucleotide sequences from all core genome genes (
+
+Spread of high resistance RE-cmeRABC genotypes among
+
+Despite clear clustering of lineages in both species, there was little clustering of the RE
+
+A comparison of the isolates (
+
+Individual phylogenies of genes from the cmeRABC locus are different. (A) Principal component analysis (PCA) of 252
+
+Single-gene phylogenies were constructed based on the protein sequence of the product for each gene independently (
+
+We also compared the amino acid sequences of the CmeB and RE
+
+We further analyzed the
+
+Assigning high resistance-associated RE-
+
+Introgression across the species boundary between
+
+To provide context to our observation that RE
+
+Global, source, sequence type, and time distribution of the high-resistance
+
+As we observed in our Peruvian data set,
+
+Despite the global predominance of
+
+Several
+
+Our findings hint at a broader, widespread acquisition of MDR elements that can compromise oral antibiotic treatment, particularly in low-resource settings where there is the greatest need for effective antimicrobial treatment. We also highlight the need to incorporate more subtle gene mutations into
+
+While our work provides a snapshot of the current spread of AMR in Peru, improved global sampling efforts help provide context to our findings. Improved genomic epidemiology and pathogen surveillance from a broader range of countries and continents will provide a greater understanding of the evolution and spread of AMR in

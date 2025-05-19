@@ -1,0 +1,11 @@
+{
+  "id": "24501652",
+  "title": "Genome sequence of Phaeobacter daeponensis type strain (DSM 23529(T)), a facultatively anaerobic bacterium isolated from marine sediment, and emendation of Phaeobacter daeponensis.",
+  "doi": null,
+  "authors": "Dogs M, Teshima H, Petersen J, Fiebig A, Chertkov O, Dalingault H, Chen A, Pati A, Goodwin LA, Chain P, Detter JC, Ivanova N, Lapidus A, Rohde M, Gronow S, Kyrpides NC, Woyke T, Simon M, Göker M, Klenk HP, Brinkhoff T",
+  "journal": "Standards in genomic sciences",
+  "year": "2013",
+  "abstract": "TF-218(T) is the type strain of the species Phaeobacter daeponensis Yoon et al. 2007, a facultatively anaerobic Phaeobacter species isolated from tidal flats. Here we describe the draft genome sequence and annotation of this bacterium together with previously unreported aspects of its phenotype. We analyzed the genome for genes involved in secondary metabolite production and its anaerobic lifestyle, which have also been described for its closest relative Phaeobacter caeruleus. The 4,642,596 bp long genome of strain TF-218(T) contains 4,310 protein-coding genes and 78 RNA genes including four rRNA operons and consists of five replicons: one chromosome and four extrachromosomal elements with sizes of 276 kb, 174 kb, 117 kb and 90 kb. Genome analysis showed that TF-218(T) possesses all of the genes for indigoidine biosynthesis, and on specific media the strain showed a blue pigmentation. We also found genes for dissimilatory nitrate reduction, gene-transfer agents, NRPS/ PKS genes and signaling systems homologous to the LuxR/I system.",
+  "source": "PubMed",
+  "pmcid": "PMC3910554"
+}

@@ -1,0 +1,75 @@
+Ubiquitination is a multi-step enzymatic cascade in which ubiquitin or a ubiquitin-like protein (Ubl) becomes covalently linked to a target - typically a lysine side chain or other amine group - through the sequential action of E1, E2, and (usually) E3 proteins
+
+In eukaryotes, Ubls typically comprise a single small domain with a fold termed “β-grasp”
+
+To comprehensively characterize the architectural diversity of bacterial Ubls, we took advantage of recent studies that identified hundreds of bacterial operons encoding different combinations of ubiquitination-related proteins, particularly those that encode a predicted Ubl. These operons fall into two major groups termed Bil (
+
+We used protein sequence alignments and structure predictions from ESMFold
+
+As in Type II Bil, Ubls from Type I and II Bub operons Ubls show diverse predicted architectures: 218 (40%) contain a single predicted β-grasp domain, 38 (7%) contain two β-grasp domains, and 286 (53%) contain three β-grasp domains (
+
+We performed size exclusion chromatography coupled to multi-angle light scattering (SEC-MALS) on six Ubl proteins with different predicted architectures: two encoding two predicted β-grasp domains (Ubl
+
+Bacterial Ubls predicted to contain three β-grasp domains (Ubl
+
+We next crystallized and determined a 3.0 Å resolution crystal structure of
+
+Within the crystallographic asymmetric unit, two
+
+Our structures of
+
+To further explore the role of divalent cations in Ubl
+
+To determine the molecular basis for Ca
+
+The cryoEM structure of
+
+The cryoEM structure of
+
+Close inspection of the cryoEM maps of both
+
+We observe two inter-dimer Ca
+
+To directly link Ca
+
+It is now understood that bacteria possess a range of biochemical pathways related to eukaryotic ubiquitination, which mediate protein conjugation in a variety of contexts including antiphage immunity
+
+While bacterial Bil and Bub pathways encode Ubls with high structural similarity to eukaryotic ubiquitin, Ubl-target conjugation in bacteria is unlikely to constitute a degradation signal as it does in eukaryotic cells. Therefore, the functional consequences of Ubl-target conjugation in bacteria remains a key unanswered question. For one Type I Bil system, specific Ubl conjugation to phage central tail fiber proteins was shown to disrupt assembly of virions and also impair infectivity of fully-assembled virions
+
+A widespread group of bacterial Ubl proteins found in both Type II Bil and Type I/II Bub pathways is the Ubl
+
+Bacterial Ubls show high diversity, possessing one to three β-grasp domains and N-terminal domains with unknown functions, some of which are predicted to mediate oligomerization. Just as bacterial ubiquitination-related pathways show high diversity and likely act in many stress-response contexts, bacterial Ubls likely have many roles that depend on their diverse architectures. Notably, a large proportion of bacterial Bub operons are associated with known DNA damage-responsive transcriptional regulators, including the WYL domain protein CapW/BrxR
+
+To analyze bacterial Ubl diversity, Type II Bil operons identified by Chambers et al.
+
+All proteins used in this study are listed in
+
+For characterization of oligomeric state by size exclusion chromatography coupled to multi-angle light scattering (SEC-MALS), 100 µl of purified proteins at a concentration of 5 mg/ml were injected onto a size exclusion column (Superdex 200 Increase 10/300 GL, Cytiva) in size exclusion buffer, then light scattering and differential refractive index (dRI) profiles were collected using miniDAWN TREOS and Optilab T-rEX detectors (Wyatt Technology). SEC-MALS data were analyzed using ASTRA software version 8 and visualized with Prism version 10 (GraphPad Software). For analysis of divalent cations’ role in oligomerization, proteins were pre-incubated in size exclusion buffer plus supplemented with 5 mM EDTA, 5 mM MgCl
+
+For crystallization of
+
+For crystallization of
+
+For ICP-MS, we purified
+
+For ITC,
+
+For structure determination of
+
+Grids were mounteds into standard AutoGrids (Thermo Fisher Scientific) for imaging. An initial dataset was collected on a Talos Arctica transmission electron microscope (Thermo Fisher Scientific) operated at 200 kV and equipped with a Gatan K3 direct electron detector. Movies were collected at a magnification of 130,000x and a pixel size of 0.95 Å, with a total dose of 55 e-/Å
+
+All data processing was performed using cryoSPARC version 4
+
+The final dataset was collected on a Titan Krios G4 transmission electron microscope (Thermo Fisher Scientific) operated at 300 kV and configured for fringe-free illumination, equipped with a Falcon 4 direct electron detector with Selectris X energy filter. The microscope was operated in EFTEM mode with a slit width of 20 eV. Automated data acquisition was performed using EPU (Thermo Fisher Scientific). Movies were collected at a magnification of 130,000x and a pixel size of 0.935 Å, with a total dose of 45 e-/Å
+
+Particle picking in the final dataset was performed using templates generated from the 3.4 Å map from the initial dataset, in the Filament Tracer job. The filament diameter was set to 200 Å and the separation distance between picks was set to 0.14 diameters, enabling picking of adjacent asymmetric units along the helical filament. Particles were picked with a 320×320 pixel box size and Fourier cropped to 80×80 pixels for initial processing. 1,634,973 particles were subjected to four successive rounds of 2D classification (in rounds 1 and 2, the data were split into three batches), yielding a final set of 892,949 particles.
+
+For modeling, initial models of each β-grasp domain generated by AlphaFold 2 were manually placed, then the model was manually rebuilt in COOT with manual addition of ordered Ca
+
+For structure determination of
+
+Grids were mounteds into standard AutoGrids (Thermo Fisher Scientific) for imaging, and a 1074 movie dataset was collected on a Titan Krios G3 transmission electron microscope (Thermo Fisher Scientific) operated at 300 kV and equipped with a Gatan K3 direct electron detector. Movies were collected at a magnification of 130,000x and a pixel size of 0.95 Å, with a total dose of 50 e-/Å
+
+All data processing was performed using cryoSPARC version 4. From the initial dataset, particle picking was performed using the Filament Tracer job with an estimated filament diameter of 120 Å. 1,303,971 initial particles were extracted with a box size of 400 pixels and Fourier cropped to 100 pixels. These particles were subjected to multiple rounds to 2D classification, yielding a dataset of 216,012 particles that were used for
+
+An initial model from the x-ray crystal structure was manually placed, then the model was manually rebuilt in COOT with manual addition of ordered Ca

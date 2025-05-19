@@ -1,0 +1,75 @@
+Vancomycin is a bactericidal glycopeptide antibiotic that targets peptidoglycan of the bacterial cell wall
+
+An increasing number of
+
+Here we investigate an outbreak of vancomycin resistant
+
+Phylogenetic analysis of the clinical
+
+Metadata includes the sample type (Blood culture, Rectal swab or Reference strain) and the presence or absence of antibiotic resistance genes. The scale bar indicates the number of substitutions per site. The green circle indicates the VVE isolate OI25.
+
+RT-qPCR analysis was used to compare the transcriptional response of the vancomycin resistance operons
+
+RT-qPCR analysis of the change in expression of the vancomycin resistance gene operons
+
+A genome assembly, incorporating both long- and short reads, of isolate OI25 was generated to analyse the vancomycin resistance region, in order to identify a possible mechanism that abolished vancomycin resistance in this isolate. The vancomycin resistance genes of OI25 were located on a completely assembled 36,651 bp plasmid. Compared to the prototypical Tn
+
+The Tn
+
+Isolate OI25 was exposed to 8 μg/ml vancomycin to investigate whether it could revert to a vancomycin-resistant phenotype in the presence of a low concentration of vancomycin. Growth was observed within the OI25 culture after 48 h. Two isolates taken from this culture had a vancomycin MIC of 512 μg/ml, thus showing that isolate OI25 could revert to a vancomycin resistant phenotype under vancomycin selection. The frequency of reversion of OI25 from a vancomycin-susceptible to vancomycin-resistant phenotype was determined to be 1.0 × 10
+
+Variant calling between OI25 and the revertant isolates (OI25rev1 and OI25rev2) was implemented to identify differences that may have been responsible for the switch from a vancomycin-susceptible to resistant phenotype. Compared to OI25, OI25rev1 had a non-synonymous P69L mutation in a copy of IS
+
+As the insertion of the plasmid DNA into the chromosome did not restore the
+
+The genomic insertion site was inspected in both the revertant and parent isolates to determine a mechanism behind the constitutive expression of the
+
+To determine whether the
+
+It was hypothesised that co-transcription of the vancomycin resistance genes with the ribosomal RNA genes would impose a high fitness cost in the revertant isolates. However, when the wildtype isolate OI25 and its revertants were grown in the absence of vancomycin selection (Fig.
+
+Stability of the vancomycin resistance phenotype in the absence of vancomycin as measured by the percentage of resistant cells within the total population over a seven-day period. At day 0, cultures were inoculated with a single colony and stability was assayed on subsequent days by determining colony forming units on BHI agar with and without vancomycin. Points represent the mean value and error bars represent the standard error of the mean. Experiments were carried out with biological and technical triplicates.
+
+The present study aimed to investigate a VRE outbreak in a haematology ward. The isolates in this study belonged to 8 different sequence types within the hospital-associated clade A1
+
+An isolate (OI25) belonging to ST787 was identified that was genotypically resistant to vancomycin but phenotypically susceptible. Long-read sequencing uncovered multiple IS element insertions into the vancomycin resistance regions compared to the wildtype transposon Tn
+
+Although vancomycin-variable enterococci are phenotypically susceptible to vancomycin, these isolates can revert to a resistant phenotype under antibiotic selection. Several mechanisms have been uncovered including the use of alternative promoters driving
+
+Our findings highlight the diversity of mechanisms that enable VVE isolates to revert to their resistant state. While vancomycin-variable
+
+DNA extraction and whole genome shotgun sequencing (WGS) using Illumina technology was carried out by MicrobesNG (
+
+High molecular weight DNA was extracted from isolate OI25 and its revertants using the Monarch® HMW DNA Extraction Kit for Tissue (New England Biolabs) according to the manufacturer’s protocol with the addition of 50 μg/ml lysozyme (Sigma Aldrich) to weaken the cell wall during the lysis step. The DNA libraries were prepared using the ligation sequencing kit SQK-LSK109 (Oxford Nanopore Technologies) and sequenced on the MinION platform (Oxford Nanopore Technologies) using a R9.4.1 flowcell (Oxford Nanopore Technologies).
+
+Adaptors were removed from the short-read data and quality trimmed using fastp v.0.20.1
+
+Core genome alignments were created with Panaroo v.1.2.2
+
+Antibiotic resistance genes were identified in the
+
+All outbreak isolates were tested for their antibiotic susceptibility using the VITEK2 system (Biomérieux). A subset of the isolates was also tested using the broth microdilution method
+
+Snippy v.4.6.0 (
+
+A colony of isolate OI25 was inoculated into 5 ml of Brain Heart Infusion (BHI) broth (VWR) and grown at 37 °C for 16 h with shaking (200 rpm). The culture was then diluted 1:100 into 5 ml of BHI broth containing 8 µg/ml vancomycin. The culture was grown at 37 °C (200 rpm) and observed every 24 h for growth. When growth was observed, the culture was diluted 10
+
+RNA was extracted from cultures collected in mid-log phase (OD
+
+The cDNA of isolate OI25rev1 and OI25rev2 was also used to perform RT-PCR assays across the rRNA-
+
+The rho-independent terminator of the ribosomal RNA gene operon was identified in isolate OI25 by analysing 100 nucleotides downstream of the 5S rRNA gene stop codon via RNAfold Web Server
+
+Bacterial fitness was evaluated by comparing the maximum growth rate (µ
+
+Tests for determining statistical significance were performed as described in the text and implemented in GraphPad Prism v.9.4.1.
+
+This study did not require ethical approval as it was part of a hospital infection control investigation into a local outbreak.
+
+Further information on research design is available in the
+
+
+
+Supplemental Materials
+
+Reporting Summary

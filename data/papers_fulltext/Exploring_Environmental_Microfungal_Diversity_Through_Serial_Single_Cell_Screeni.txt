@@ -1,0 +1,69 @@
+Fungi, estimated to comprise between 2.2 and 3.8 million species, have successfully colonised nearly every habitat on earth (Blackwell
+
+Like in terrestrial environments, fungi can be detected in most surface and subsurface systems (i.e., lakes, streams, rivers, oceans and aquifers) that have been sampled. It is well established that fungi are key components of aquatic biodiversity (Ittner, Junghans, and Werner
+
+In fungal ecology studies, both classical (cultivation, microscopy and characterisation of morphological features) and molecular methods (sequencing of extracted DNA and taxonomic markers) have been widely used for the identification and characterisation of fungal species in various habitats (Nikolcheva, Bourque, and Bärlocher
+
+Dark fungal lineages are often found in aquatic habitats (Grossart et al.
+
+Considering the limitations and challenges of both classical and modern methods employed in mycology so far, in this work, we aim to provide a framework to explore and study the vast diversity of so far enigmatic aquatic fungi. Ideally, the framework should prove equally useful in the study of other eukaryotic lineages. Here, we would like to extend the single cell genomics platform recently introduced by Ciobanu and colleagues (Ciobanu et al.
+
+Here, we present a comprehensive framework that allows barcoding single cells or conidia, by extracting their DNA with a subsequent molecular analysis from aquatic environmental samples. This single cell genomics platform is based on laser dissection microscopy and thus integrates visual inspection, precise dissection, collection, targeted amplification and sequencing of ribosomal DNA (
+
+Overview of the methodological framework to identify and resolve the taxonomy and phylogeny of aquatic fungi. (a) Fungal cells are concentrated on membrane filters or directly applied to membrane slides (b) and placed in the laser dissection microscope. (c) The images of the fungal cells are acquired and documented, and the single cells, spores, or conidia are cut and collected in the collection tubes (d) for whole genome amplification using multi‐displacement amplification (MDA). (e) PCR amplification of fungal barcoding regions of amplified single cells (MDA product) and subsequent amplicon sequencing on the MinION (Oxford Nanopore Technologies) platform. The obtained sequence data is pre‐processed to generate fungal short (ITS) and long (
+
+After initial experimentation with fungal cells from pure cultures, we tested the potential of the workflow for environmental samples and screened several freshwater‐derived fungal cells after conidia retrieval (Table
+
+Distinct morphology of environmental conidia (
+
+Overview of the workflow success rates across different work steps: microdissection (cells cut), dissection recovery (cells fallen), ITS amplification (ITS PCR), and
+
+Abbreviations: %, percentage of successfully treated cells per step; FF, fresh filters (collected from the environment);
+
+After sequencing a selection of the barcodes from long (
+
+Despite effectively amplifying both
+
+We selected a subset of cells representative of samples with and without successful
+
+For the ITS barcode, we could identify 62 fungi at the species level, out of which 56 cases matched with the morphological identification using taxonomic keys (Table
+
+Maximum likelihood phylogenetic tree based on the complete fungal ribosomal operon (SSU‐ITS1‐5.8S‐ITS2‐LSU) of fungal rDNA. The tree was rooted with the
+
+The coupling of microscopy with molecular biology on the genome scale enables genomics and potential other single cell based molecular analyses of dark fungal taxa, and thorough documentation of cells from the environment. By fusing classic taxonomic knowledge, molecular biology, and bioinformatics, this workflow paves the way for advancements in the exploration of fungi and other microeukaryotes. Furthermore, whole genome amplification allows the long‐term storage of DNA for each of the dissected cells for later genomic analysis or other molecular biology procedures. The workflow theoretically allows the discovery and dissection of the cells automatically via fluorescence labelling and automatic detection of shapes. However, a manual inspection by a specialist (in this case, a mycologist or a plankton analyst) is still the most efficient way to identify new, non‐redundant species and avoids spending resources on the whole genome amplification step.
+
+While laser dissection microscopes are able to dissect even very small cells such as bacteria (Gloess et al.
+
+The identification of fungal cells and spores was facilitated by the staining of the cells with a fluorescence dye (similar to planktonic samples that are screened for micromanipulation (Nakanishi et al.
+
+Moreover, the status of the cell itself influences the whole genome amplification success rate, as it could be a dead cell in which we would expect a higher degree of DNA fragmentation. This may also explain why the success rates for ITS amplification of the environmental samples were higher than for the
+
+Microbial ecologists have recently been able to adapt and combine a variety of tools previously developed in other fields (Grujcic, Taylor, and Foster
+
+Accurately identifying freshwater fungi by morphology, specifically conidia, is a challenging task that requires extensive taxonomical expertise and is associated with a high degree of uncertainty (Bärlocher
+
+Similar to previous studies, the ITS region worked as expected for the aquatic hyphomycetes in our samples. As previously reported, the genera
+
+Here, we used the ecological group of aquatic hyphomycetes as an example to set up and showcase the single‐cell screening with laser dissection. The development and further use of this workflow has the potential to bridge the gaps in the fungal reference sequence databases not only by morphological characterisation of previously DNA‐documented unknown species but also by discovery, characterisation and documentation of new dark fungal species. Small adjustments linked to mainly sample preparation and staining would allow the visualisation, isolation and collection of sequencing data for other dark fungal lineages inhabiting distinct environments (e.g.,
+
+Initial tests were performed with resuspended single cells derived from fungal pure cultures (belonging to the genera
+
+Cells were either distributed on PPS‐Membrane slides (4.0 μm, Molecular Machines & Industries, Germany), which were pre‐treated with UV‐irradiation using a UVP Ultraviolet Crosslinker CL‐100 for 30 min at a dosage of 11.7 J/cm
+
+For contact‐free laser microdissection of single cells, the laser, equipped in an LMD7 microscope, was first calibrated using LMD software (Leica Microsystems, Wetzlar Germany, v 8.2.7603), and later the cutting was performed. The cells were cut at a slow speed and optimum power to minimise the cell and DNA damage with the laser beam. For every cutting session, four 0.2 mL tubes (Multiply‐Pro, SARSTEDT, Nümbrecht, Deutschland) or eight collection caps (Optical Flat 8‐Cap strips for 0.2 mL tube strips/plates, BIO RAD, California, USA) with PCR plates (Twin.tec 96‐Well‐PCR‐plates, Eppendorf SE, Hamburg, Germany) were used. First, the slides were subjected to an overview scan to find the fungal cells of interest using either the bright field or fluorescence feature of the microscope and marked for laser microdissection at either 200×, 400× or 630× magnification. After cell dissection, the collection caps were inspected to count the successfully dissected target cells. Cells were imaged at all stages (i.e., before and after laser dissection) in order to allow cell size measurements and documentation.
+
+Six μl of Advanced storage buffer (REPLI‐g Advanced DNA Single Cell Kit—Qiagen) were transferred to each cell/conidia. Fungal cell walls were digested by adding 5 units of Zymolyase (Zymo Research, CA, USA) and subjected to further incubation for 60 min at 37°C. The Zymolyase was deactivated by incubation at 65°C for 10 min. This was followed by alkaline lysis from the REPLI‐g kit using the Advanced Buffer DLB (reconstituted in nuclease free water), 1 M dithiothreitol (DTT), and HCl (Stop solution) following the manufacturer's instructions, followed by a genome amplification via MDA, with a prolonged incubation period of 4 h at 30°C (Stepanauskas et al.
+
+The fungal ITS and ribosomal operon sequence was targeted using the primers described in (Gardes and Bruns
+
+The raw fast5 files were basecalled and converted to fastq files employing the high accuracy basecalling mode of guppy (v6.1.7). To increase the quality, the duplex read pairs were merged using ONT's duplex tools (
+
+Multiple reference sequences were retrieved by blasting the consensus sequences from the single cells with megaBLAST against the NCBI nucleotide database (BLAST+ v.2.15.0 (Camacho et al.
+
+The genomic DNA of 11 randomly selected cells that produced an amplicon for ITS and/or rrn was subjected to Illumina short‐read sequencing. The WGA amplified DNA was purified with 0.8 v/v AMPure XP beads as described above, and approximately 50 ng served as input for a Nextera XT library preparation for Illumina NextSeq or MiniSeq sequencing following the manufacturer recommendations. The resulting fastq files were demultiplexed using the Bcl2Fastq (v2.19.0) software (Illumina), and adapter and low‐quality sequences (< Q25) as well as reads shorter than 36 bases were trimmed and removed using Trimmomatic (v0.39) (Bolger, Lohse, and Usadel
+
+
+
+The authors declare no conflicts of interest.
+
+Appendix S1.

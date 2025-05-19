@@ -1,0 +1,105 @@
+The hallmark of bacterial gene regulation is that a group of genes within an operon can be regulated in a coordinated manner by a single process of transcription initiation and termination. In a previous study, we found that 665 of 805 operons of interest use the Rho protein to terminate transcription at the end of the operon (
+
+The
+
+RDT is involved in the generation of
+
+In this study, we investigated RDT at the first cistron junction of the
+
+RDT downstream of the first cistron junction in the
+
+Throughout this study, we introduced nucleotide changes into intact
+
+The 3′ RACE assay of total mRNA isolated from MG1655 cells revealed that the major 3′ end of the
+
+A hairpin structure, E-hairpin, at the 3′ end of the
+
+In
+
+We presumed that there might be “invisible”
+
+DNA sequences surrounding the E-hairpin and the double-hairpin mutant
+
+Close examination of the
+
+We reasoned that treatment of the
+
+RDT at position 1,183, about 10 nucleotides downstream from the 3′ end of the
+
+We performed an
+
+The cistron junction between
+
+A failure of
+
+We generated a series of
+
+From these results, we expected a gradual increase in
+
+To determine the effect of
+
+Removal of
+
+We further reasoned that the number of 3′ ends at positions 1,169 to 1,166 in the
+
+Transcription pausing by RNA polymerase is a prerequisite for transcription termination (
+
+Transcription could pause at various sites. (A) RNA transcripts generated in a single-round
+
+DNA template for the single-round of
+
+The intensity of terminated RNA bands produced in the
+
+The
+
+Previously, we found that RDT at the end of the
+
+To test our hypothesis, we changed the C at the −1 position of the
+
+A transcriptional pause at position 1,170 is required for RDT at position 1,183. (A) Nucleotide sequence of the pause sequence at position 1,170 and nucleotide changes (red) in the pausing mutants. Changes were made in the pausing mutants −1G−10A and −1A−10A, at position 1,142 from G to T to keep the E-hairpin stem intact. The consensus nucleotide residues of the pausing sequences are indicated in different colors: the −10, −1, and +1 residues are indicated in red, green, and blue, respectively. (B) 3′ RACE assay of
+
+In addition to the changes at the −1 position, we changed the −10C to −10A in the
+
+We demonstrated that at the
+
+Measuring the termination efficiency of the
+
+Recently, we reported that the same principle operates at the next downstream cistron junction of the
+
+In
+
+Our results suggest that the nucleotide sequences at cistron junctions or other locations, such as promoters, might have evolved to enable stochastic failure in the initiation of translation of downstream genes. Further experiments to fully uncover the cause of the stochastic failure in
+
+A long pause in transcription is required for RDT in the 5′-leader region of the
+
+Base pairing (nine nucleotides) between consensus pausing sequences of transcript RNA and template DNA in the active site of RNA polymerase makes the transcription complex go into a paused state (
+
+Analyses of nucleotide sequences upstream of the pausing sequence revealed that a hairpin structure with five consecutive G·C base pairings and one G·U base pairing could form starting one nucleotide upstream from the −10 residue of the pausing sequence. This single-nucleotide distance from the stem of the pausing hairpin to the −10 residue of the pausing sequence is conserved in the well-known
+
+The
+
+In the cryo-electron microscopic structure of the ribosome and RNA polymerase complex known as the “expressome,” the distance between the active site of the RNA polymerase and the decoding center of the ribosome is about 30 nucleotides (
+
+NusG is a transcription factor that physically couples transcription to translation by connecting the ribosome to the RNA polymerase (
+
+When the lead ribosome terminates translation at the stop codon of
+
+If the 30S ribosome subunit attached to the paused RNA polymerase binds to the SD sequence of
+
+NusG has been demonstrated to activate RDT (
+
+The
+
+Chromosomal deletion strains of
+
+Primers used in this study and usage. Download
+
+Plasmid construction. Download
+
+Total RNA was purified from clarified cell lysates using the Direct-zol RNA MiniPrep kit (Zymo Research, Irvine, CA, USA). To generate cell lysates, 2 × 10
+
+Total RNA (10 μg in 10 μg/mL ethidium bromide) was resolved by 1.2% (wt/vol) formaldehyde-agarose gel electrophoresis at 8 V/cm for 2 h. After its integrity was evaluated under a UV light, the RNA was transferred overnight to a positively charged nylon membrane (Thermo Fisher Scientific, USA) using a downward transfer system (Whatman TurboBlotter, USA). The RNA was fixed to the nylon membrane by baking at 80°C for 1 h. Northern blot probes were prepared as follows. First, a 500-bp DNA fragment from the
+
+Contaminant DNA in the RNA preparation was removed using Turbo DNase I (Thermo Fisher Scientific, USA). To amplify the 3′ RNA ends (3′ RACE), we set up an RNA ligation in a 25-μL reaction volume containing 1 μL 100-nM synthetic RNA oligonucleotide (27-mer;
+
+The pHL1277 plasmid (pGal) was used as a DNA template for

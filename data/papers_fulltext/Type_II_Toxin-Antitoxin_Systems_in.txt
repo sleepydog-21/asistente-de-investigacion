@@ -1,0 +1,61 @@
+TA systems are small genetic modules widely distributed in bacterial and archaeal genomes. Typically, the TA system is composed of toxins and antitoxins, and toxins are in most cases proteins that can influence DNA replication, transcription, protein synthesis, et al. Antitoxins may be RNA or proteins,
+
+Of these, type II TA systems are the most abundant and extensively studied, and each type II TA system is encoded by two small genes, which usually overlap by a few bases.
+
+Thousands of type II TA sites have been found in
+
+Type II toxin-antitoxin (TA) locus of
+
+Currently, type II toxins are classified into nine superfamilies based on their structural features:
+
+Targets of Action of Toxins and Their Mechanisms of Action
+
+The activity of toxins in the TA system. (
+
+The TA system is normally tightly regulated to maintain a balanced “neutralized” state in the body. Under normal growth conditions, this regulation ensures that under stable conditions, the antitoxin exceeds the amount of its cognate toxin to inhibit its action.
+
+Antitoxins of the type II TA system commonly contain DNA-binding and toxin-neutralizing domains.
+
+In a few cases, the antitoxin of the type II TA system is the only factor affecting the transcription of the operon. For example, in the
+
+Typically, antitoxin alone binds the operon with low affinity, and the toxin acts as a co-deterrent to enhance the binding affinity of the antitoxin to the operon to form a more stable complex. In the
+
+The toxin can affect the binding of the antitoxin to the promoter DNA of the TA system.
+
+In some cases, inhibition of the TA system depends on the molar ratio between toxin and antitoxin. When the molar ratio of toxin to antitoxin is in the right proportion, for example in the Phd/Doc system the ratio of toxin to antitoxin is about 1:1, the antitoxin-toxin complex binds tightly to the DNA. Excessive toxins can induce the formation of saturated complexes and release inhibition of the TA system. When toxin levels exceed antitoxin levels, inhibition is relieved, allowing the antitoxin to be transcribed and translated from scratch. This negative feedback loop is called ”conditional synergy.
+
+Typically, the antitoxin gene is located upstream of the toxin gene, but in some TA systems the antitoxin gene is located downstream of the toxin gene, and such TA systems with reversed gene order include the HicAB system, where the HicAB system consists of two promoters that turn on transcription.
+
+This complex regulatory network demonstrates the multiple mechanisms employed by the TA system in maintaining the delicate balance between toxins and antitoxins, highlighting the adaptability and complexity of this genetic module.
+
+In
+
+Shows the rationale for the role of TA modules in their biological functions. (
+
+Bacterial persistence refers to the presence of rare cells insensitive to antibiotics even in fast-growing bacterial populations. It is a phenomenon that causes bacterial cells to resist multiple antibiotics and other environmental damage
+
+Another related to persistence is the RelBE family, with the RelBE locus in
+
+In addition, mathematical modeling indicated that the TA system is uniquely characterized by two distinct bacterial populations: a dormant population and a fast-growing type.
+
+Biofilms are formed in aquatic environments through bacterial attachment to underwater surfaces, air–liquid interfaces, and each other. Biofilms attach via appendages such as hyphae,
+
+The RelBE locus of
+
+The well-studied MazEF system is the first system described to regulate and be responsible for bacterial programmed cell death. MazF encodes the stabilizing toxin, MazF, and MazE encodes the unstable antitoxin, MazE. ATP-dependent ClpPA serine proteases can degrade MazE. MazF is a ribonucleic acid endonuclease that cleaves the mRNAs on the ACA sequence in a ribosome-independent manner.
+
+Bacteria are often infected by many phages, and host bacteria have evolved diverse molecular strategies in the race with phages, one of which is abortive infection (Abi). In TA-mediated abortive infection, phage infection triggers loss of antitoxin or release of toxin from the toxin-antitoxin complex, which inhibits phage multiplication (
+
+In 2004, Hazan and Engelberg-Kulka et al demonstrated that the type II chromosome MazF/MazE system inhibits phage P1.
+
+In 2011, the type II RnlA/RnlB system was shown to inhibit T4 phages in
+
+Recent bioinformatics analyses indicate that DarTG family members of TA systems are frequently encoded in defense islands, leading to the prediction that these systems are phage defense elements. Although
+
+Interestingly, phages have developed many mechanisms to combat abortive infections by interfering with TA module induction or function. For example, phage T4 encodes a “master key” antitoxin that inactivates several RnlA family toxins, and the ADP-ribosyl transferase Alt inhibits the type II toxin MazF in
+
+While some studies have shown that TA systems can and do prevent phage predation, it is not clear whether most TA systems play such a role. Notably, the RnlAB system only protects phages lacking dmd T4 phage, so other
+
+This paper focuses on the modulation and biological functions of the type II toxin-antitoxin system in
+
+With the development of toxin-antitoxin systems, exploring how these systems move between replicons and bacterial species and what drives their evolutionary success is necessary. A better understanding of the mechanisms behind bacterial toxin-antitoxins may lead to the design of drugs that can combat chronic and recurrent infections. In addition, combining TA systems with other biological systems to develop novel bioregulatory elements will also hold promise in the field of synthetic biology.

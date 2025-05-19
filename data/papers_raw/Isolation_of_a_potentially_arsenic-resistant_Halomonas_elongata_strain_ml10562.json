@@ -1,0 +1,11 @@
+{
+  "id": "40238807",
+  "title": "Isolation of a potentially arsenic-resistant Halomonas elongata strain (ml10562) from hypersaline systems in the Peruvian Andes, Cusco.",
+  "doi": null,
+  "authors": "Pila-Lacuta S, Pauccar D, Rojas-Vargas J, Rodríguez-Cruz UE, Sierra JL, Castelán-Sánchez HG, Quispe-Ricalde MA",
+  "journal": "PloS one",
+  "year": "2025",
+  "abstract": "Halomonas elongata strain ml10562, was isolated from hypersaline that was collected from Acos Peru. Average Nucleotide Identity (ANI) and dDDH (digital DNA-DNA Hybridization) values between strain ml10562 and type strains of Halomonas elongata species were 71.0-78.4% and 18.8-21.5%, respectively. The draft genome, spanning 4,075,440 base pairs, has a GC content of 64.2% and contains 3,912 genes. Functional characterization revealed the strain's ability to tolerate and resist increasing concentrations of sodium arsenate, with a minimum inhibitory concentration of 25 mM. Bioinformatic analysis revealed the presence of two operons, arsR-arsH-arsB and arsJ-gapdh-arsC, in the genome of strain ml10562, which could play a crucial role in arsenic resistance through transporter-mediated mechanisms. Overall, these results emphasize the potential adaptability of H. elongata ml10562 to arsenic-containing environments and extend our understanding of bacterial arsenic resistance mechanisms, allowing promising applications in bioremediation.",
+  "source": "PubMed",
+  "pmcid": "PMC12002479"
+}

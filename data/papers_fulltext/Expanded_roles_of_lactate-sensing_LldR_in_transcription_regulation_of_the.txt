@@ -1,0 +1,317 @@
+The gSELEX data of LldR were deposited in to the ‘Transcription factor profiling of
+
+Lactic acid is produced by a range of gut bacteria, including traditional probiotic species such as lactobacilli. As a result, other gut bacteria are thereby exposed to this acid. Clearly, these other bacteria persist in the gut; however, the exact mechanism by which they adapt to the acid stress induced by lactic acid remains unclear. By using the gSELEX-chip method, we identified the genomic regulatory role of the lactate-responsive TF LldR as an activator of genes involved in utilising lactate as a carbon source, glutamate-dependent acid resistance and altering the composition of membrane lipids. In fact, LldR was found to play an important role in the growth of
+
+Lactate is a significant product of anaerobic carbon metabolism that also serves as a carbon and energy source for both anaerobic and aerobic microorganisms.
+
+Transcriptional regulation of
+
+Thus,
+
+Lactic acid-producing bacteria such as lactobacilli are often used as probiotics [
+
+
+
+The construction of the plasmid (pLldR) for expressing LldR and procedures for expression and purification followed previously described procedures [
+
+gSELEX screening was performed as previously described [
+
+The gel shift assay was performed according to a standard procedure [
+
+A set of LldR-binding sequences, identified using the gSELEX-chip, was analysed with the MEME SUITE programme [
+
+RT-qPCR analysis was performed according to standard procedures [
+
+The
+
+Total RNA was extracted from exponential phase
+
+
+
+
+
+To identify LldR binding sequences from the entire genome, we performed gSELEX screening [
+
+DNA fragments enriched by LldR were labelled with Cy3 and the original genomic DNA library with Cy5. A mixture of fluorescently labelled samples was hybridised onto an
+
+Identification of LldR-binding sites on the
+
+LldR-binding sites on the
+
+gSELEX was used to search for the binding sites in LldR. Eight binding sites were identified by setting the cutoff level to 6. Column ‘LldR site’ shown in green represent the LldR-binding sites inside spacer regions, whereas those shown in orange represent the LldR-binding sites inside ORFs. Column ‘D’ shows the direction of the transcription unit. The potential target genes or operons of LldR were predicted based on adjacent genes and gene orientation (shown with bold words). Grey shading indicates genes that are not potential targets. Consensus sequences explored in each target region using MEME Suite and their conservation are shown on the right side.
+
+LldR box: AAnTGGTCnGACCAnTT
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+
+
+
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>
+
+
+
+
+
+
+
+
+
+
+
+
+
+The novel target genes of LldR included functions related to acid tolerance (
+
+To confirm the binding activity of LldR
+
+Gel shift assay of LldR-DNA complex formation. (
+
+Multiple LldR-probe complexes were observed for all tested probes in gel shift assay, suggesting the presence of multiple LldR-binding sequences in the LldR target regions. The resolution of the tiling array used in this study is approximately every 100 bp for the genome sequence; however, the spacing is biassed in some regions. In addition, the genomic DNA fragments used are 200–300 bp, and targets with multiple binding regions are detected as peaks spanning multiple probes. Therefore, to analyse the LldR binding sequence in the target region, a collection of 500 bp sequences from the LldR targets was analysed using the MEME Suite programme [
+
+The palindromic consensus sequence of LldR-box. Sequences of all probes with LldR-binding activity were analysed using the MEME Suite (
+
+To examine the possible influence of LldR on the target promoters detected
+
+
+
+The mRNA level of LldR itself was confirmed to be increased by approximately 70-fold in the LldR-overexpressing vector carrying the wild-type strain compared to the control strain, which harboured an empty vector. Furthermore, as a result of LldR overexpression, the genes that constitute the
+
+To date, it has not been observed that LldR changes its affinity with target DNA via effectors. Therefore, we reevaluated the effectors of LldR
+
+Search for inducers of LldR. (
+
+Next, to observe the effect of these organic acids on the regulation of LldR
+
+In
+
+Influence of
+
+Since the effect of lactate on
+
+Two sets of wild-type
+
+
+
+The newly identified GAD system, the major acid tolerance mechanism in
+
+Sensitivity test against
+
+In the human intestinal environment, where
+
+Growth of wild-type
+
+
+
+In this study, we observed the influences of some organic acids on the activity of LldR
+
+Although the
+
+This study identified a set of genes involved in acid stress tolerance as new members of the LldR regulon (
+
+We propose that LldR is an
+
+Model of regulatory network of lactate-sensing transcription factor LldR in
+
+Click here for additional data file.

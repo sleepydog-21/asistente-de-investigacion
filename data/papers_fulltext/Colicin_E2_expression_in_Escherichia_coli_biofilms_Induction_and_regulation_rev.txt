@@ -1,0 +1,65 @@
+In a mixed environment, bacterial populations use diverse competitive strategies in order to dominate the competition for nutrients and space (
+
+Colicins are the most extensively studied bacteriocins produced by the gram-negative bacterium
+
+Transcription of the colicin operons, as well as many Gram negative bacteriocins, is strongly regulated by the LexA and RecA proteins. These proteins are involved in the host's SOS regulatory system and therefore, the transcription of these proteins mainly happens under stress conditions (
+
+Colicin production is often dependent on host regulatory pathways, mainly the SOS regulation, and therefore principally occurs under times of stress (
+
+Most studies of colicin expression, ecology and evolution have been performed in planktonic environments. Yet, genome-wide analyses have demonstrated marked differences (5–10% of the genome) between the transcriptome of
+
+All experiments were performed with
+
+In the experiments described below biofilm and planktonic populations were cultured in M9 minimal medium (Sigma, St. Louis, MO, USA) supplemented with 4 g L
+
+Anaerobic 10 mL cultures were introduced in duplicates to a vinyl anaerobic chamber (Coy Laboratory Products, Grass Lake, MI, USA). The anaerobic chamber operated under an atmosphere of 90% N
+
+For colicin induction experiments, the medium was supplemented with 50 ng mL
+
+To visualize aerobic/anaerobic and induced biofilm cultures, the flow-cells were opened and the slides were removed. The biofilm was visualized as previously described (
+
+The qPCR primers of the respective targets (Table S1) were designed using Geneious (
+
+Total RNA was extracted from two biological replicates of about 10
+
+The reads were mapped to the genome of
+
+Colicinogenic cell cultures grown in planktonic and biofilm environments are depicted in
+
+Colicin expression in planktonic and biofilm cultures depicted from CLSM images of colicin expressing E. coli cells in planktonic (grey bar) and biofilm (black bar) cultures. The cells were enumerated when induced with the DNA damaging agent, Mitomycin C, and the DNA fragmenting antibiotic, ciprofloxacin. Different letters signify significant difference at p < 0.05 between treatments using Tukey's range test pairwise comparison test.
+
+Expression levels of colicin E2 genes
+
+The expression activity and the downstream lysis genes are tightly regulated by the SOS response system. The immunity genes have two promoters, the SOS promoter of the colicin operon and their own constitutive promoter ensuring the cells from self-toxification (
+
+List of differentially expressed SOS-related genes in planktonic compared to biofilm culture of
+
+Colicin expression differed between planktonic and biofilm populations in response to sub-inhibitory concentrations of the DNA damaging agents MitC and ciprofloxacin. In planktonic cultures application of MitC and ciprofloxacin significantly increased (p < 0.05) colicin expression (
+
+In comparison to uninduced controls, colicinogenic genes were upregulated by 1 – 1.5 orders of magnitude in planktonic cultures in response to both ciprofloxacin and MitC (
+
+Expression levels of the SOS genes
+
+To test the effect of oxygen availability on colicin expression, colicin E2 operon expression in planktonic and biofilm cultures was monitored under aerobic and anaerobic conditions. Gene expression profiles were measured in anaerobic planktonic cultures grown to stationary phase and in six-day-old anaerobic biofilms (
+
+Expression levels of colicin E2 genes
+
+We further tested SOS regulated genes expression under aerobic and anaerobic conditions expecting an increase in expression. However, oxygen depletion had negligible effect on the expression of SOS regulated genes in planktonic cultures (Table S2), while in biofilms the expression was generally reduced (Table 2; Table S3).
+
+List of differentially expressed SOS related genes in anaerobic compared to aerobic cultivated
+
+Many studies have explored colicin expression in planktonic cultures (
+
+Since colicin expression is tightly regulated by the SOS response system (
+
+Following the link between colicin and SOS genes’ upregulation in biofilms (
+
+To further explore other SOS regulated genes response to DNA damage, we tested the expression of the key SOS genes,
+
+Anaerobic conditions were shown to upregulated colicin expression in planktonic cultures (
+
+For over half a century, induction of colicinogenic
+
+BB and OG designed the experiments that were performed by BB and LG. BB, DT and OG analysed the data. BB, DT, LG and OG wrote the manuscript.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,109 @@
+The lactose (
+
+The
+
+Characteristics of the 21 previously identified codons demonstrated to be important for β-gal function through site-directed mutagenesis or protein structure analyses
+
+Beal et al. 2020.
+
+Historical data curated in this study.
+
+Y designates that an SNV can lead to the reported mutation in the
+
+Computational approaches have advanced substantially to enable predictions of protein structure using the amino acid sequence
+
+Here, we curated data from published
+
+We have previously used NGS
+
+Composition of the complete dataset used in this study
+
+We examined a total of 6,465 independent mutations in the
+
+Missense mutations represented ∼42% of all independent mutations (2,732 out of 6,465) and 33% of all unique mutations (895 unique out of 2,732) detected (
+
+Locations of
+
+Mutations from historical data identified by Sanger sequencing are shown in the bottom panel; mutations identified by NGS in the present study are shown in the middle panel; the top panel shows all missense mutations from both datasets combined. The domains of the protein are labeled. Mutations were observed within all domains as well as outside the domain regions. The y axis shows the number of independent mutations that were observed.
+
+Next, we evaluated whether missense, nonsense, and silent mutations were associated with specific mutation types. We found that all mutation types are associated with missense mutations in equal proportions; however, there are biases for the recovery of silent and nonsense mutations (
+
+Mutations affecting β-gal function occur every 2.4 codons on average throughout the length of the
+
+Distribution of mutation types along the
+
+Nonsense mutations were distributed throughout the gene, whereas some missense mutations were observed repeatedly at locations of functionally important codons. Both deletions and insertions are distributed evenly throughout
+
+We used Swiss-PdbViewer
+
+Visualization of functional missense mutations within the β-Gal homotetramer
+
+Far left image shows the complete homotetramer (subunits colored blue, yellow, green, and red). Second image zooms in on one subunit. Third image only shows the 263 amino acids with at least two independent mutations. The last image on the right only shows the active site and the 33 most highly substituted amino acids from this study (which are high-confidence mutations in codons presumed to be functionally important). Previously characterized amino acids known to be important for β-Gal function are aqua, and highly mutated residues from this study are yellow. The allolactose substrate is colored in blue. Image was created using PyMOL.
+
+Nucleotide positions were considered hotspots for SNV formation if the position had a mutation count that was one standard deviation above the mean number of mutations per nucleotide position. The hotspot with the most mutations was at position 1,169 with 112 independent SNVs. This corresponds to the second position of the Ser390 codon (T
+
+As suggested by the trinucleotide context of the two most frequently mutated codons, CpG sites were common among the hotspots, with 45 of 74 (60.8%) of mutation hotspots occurring at the motif N
+
+As for SNVs, codons were considered hotspots for mutations if they had a missense count that was one standard deviation above the mean number of mutations per amino acid position. These 33 codons are shown in
+
+Highly mutated codons with strong evidence of importance for β-gal function identified by sequencing
+
+Codons were included if the codon had more mutations (i.e., 19) than one standard deviation of the mean number of mutations per codon (mean 5.5 mutations per codon plus one standard deviation, 13.1; excluding codons where no mutations were detected).
+
+We examined the distribution, and types, of amino acid changes in the context of structural features of the β-gal enzyme. Our dataset contains 895 unique missense SNVs that resulted in 861 different amino acid changes at 492 codons. We used Grantham distance to estimate the impact of a given amino acid substitution. We found that the degree of conservation of amino acid change may be correlated with the type of secondary structure in which the substitution occurred. The π-helix had a significant positive coefficient in our model, suggesting that radical substitutions within this secondary structure is associated with a mutant phenotype (
+
+We further examined the specific types of amino acid substitutions observed in our dataset to determine whether some substitutions were differentially represented between types of secondary structures. First, we observed that the most frequently substituted wild-type residue was glycine (
+
+The wild-type and mutant residues for each of the 862 unique amino acid changes observed in this study
+
+Some of the specific substitutions are present in different proportions based on the type of secondary structure. Glycine (G) is the most commonly mutated wild-type residue (i.e., within columns); conversely, arginine (R) is the most common mutant residue observed (i.e., within rows), although this pattern is not as visually striking, because the majority are G > V.
+
+We used a mathematical approach to explore whether some functional amino acids were not identified in our study (see
+
+We identified a set of 2,732 independent missense mutations in the
+
+Our results reaffirm the importance of the 21 amino acids previously identified by site-directed mutagenesis, as loss-of-function mutations were detected within each of these residues. Most importantly, sequencing revealed hundreds of additional residues that have a functional role in β-gal. Since most of these codons were mutated across multiple biological replicates, we have high confidence that they represent amino acids residues that are critical for β-gal function. Here, we highlight 33 codons with the most missense mutations observed in our data. For simplicity, those codons are referred to as highly mutated codons or amino acid residues. As expected, the 3-dimensional structure of these sites revealed that the previously characterized amino acid residues (
+
+A notable example of one of the 33 highly substituted amino acid residues is Arg786 in the β-gal small chain domain, which had a total of 143 independent mutations (142 missense; 1 silent). There is currently no known function for Arg786 in β-gal, even though it occurs in a region that is relatively conserved among five β-gal homologues.
+
+There are some differences in the distribution of mutations that we observed when compared with previously characterized amino acid substitutions that affect function and those identified by our study. For example, we found comparatively few missense mutations in the active site loop (codons 794–804), despite the fact that this region is known to be important for enzymatic function. This suggests that the individual amino acids in the loop are not as important as the loop as a whole. Indeed, Wheatley et al.
+
+We found that the magnitude of the Grantham distance for a given substitution was not strongly determined by the region of secondary structure in which it occurred, although we did identify a potential weak correlation with π-helix, β-strand, and β-bridge features, in which a higher Grantham distance was observed. All secondary structures, when compared with the coil, had positive coefficients in our linear modeling (although not all were significant or large effect sizes); this indicates that the coil regions were most likely to contain conservative amino acid substitutions, whereas regions of secondary structure in β-gal require more radical substitutions to disrupt function. Similarly, the magnitude of the Grantham distance is weakly negatively correlated with solvent accessibility. A possible conclusion is that residues with a high solvent accessibility do not require a large Grantham distance to be detected in the functional assay, suggesting that they may be less tolerant of conservative substitutions. Overall, the degree of conservation for substitutions does not have a striking correlation with any structural features we could identify, suggesting that substitutions are mostly randomly distributed.
+
+In our data, turns in secondary structure are correlated with an increase in side chain volume and hydropathy for substitutions. Furthermore, glycine was the most frequently substituted residue. These observations are consistent because glycine is a common residue at turns
+
+An objective of this work was to determine the proportion of the 3,096 bases in the lacZ gene that were functional targets for mutagenesis. Rarefaction curves (
+
+In summary, our study has assembled the largest number of sequenced
+
+A limitation of this study is that we did not undertake a biochemical characterization of the mutants recovered here. By virtue of the positive selection assay for the mutant
+
+
+
+Further information and request for resources should be directed to and will be fulfilled by the Lead Contact, Francesco Marchetti (
+
+The present study used published data obtained using the MutaMouse or LacZ plasmid mouse models.
+
+
+
+All data regarding the mutations reported in study are shown in supplementary material and available in Mendeley Data (see
+
+RMarkdown scripts are available at GitHub (see
+
+No new laboratory data were generated, and all previously published sequencing data are listed in the
+
+We curated thousands of
+
+Swiss PDB Viewer
+
+We obtained the secondary structure and degree of solvent exposure at each residue from the PDB file in R using the bio3d package (version 2.4.4)
+
+We built regression models in R (using the glm() function from the stats package, version 4.3.1) to test if the degree to which conservative amino acid substitutions are tolerated (or not) may be related to whether a residue is solvent exposed, or it is found in a region of secondary structure. We built two models using the formulas: ‘Grantham distance ∼ class of secondary structure, and ‘Grantham distance ∼ solvent accessible amino acid’. We used the quasipoisson distribution to account for overdispersion.
+
+To test whether specific amino acid changes were over- or under-represented in regions of secondary structure, we performed a logistic regression using the binomial distribution and the formula ‘class of secondary structure ∼0 + amino acid change’, where the secondary structure variable was a factor specifying the region of secondary structure for a given substitution, and the amino acid change variable was the specific observed substitution (e.g., R > C). The odds ratio was calculated as the exponent of the estimated coefficient of the model.
+
+There are 9,288 possible SNVs that can be observed in the lacZ gene (3,096 positions × 3 SNVs/position), and 7,162 of these have the potential to affect function (missense, nonsense, or loss of start mutations). Our study identified 895 unique missense mutations out of 2,732 characterized. Extending the analysis to all SNV types (including nonsense and silent mutations) shows that there were 1,399 unique SNVs out of 5,147 total. To explore how many functional
+
+All statistical analyses and simulations were done using the R programming language.
+
+There are no additional resources.

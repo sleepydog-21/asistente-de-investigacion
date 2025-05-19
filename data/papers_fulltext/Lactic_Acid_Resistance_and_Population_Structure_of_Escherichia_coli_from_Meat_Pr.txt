@@ -1,0 +1,79 @@
+To address concerns regarding the microbiological safety of meat, various physical and chemical antimicrobial interventions are implemented at beef plants in North America (
+
+Lactic acid at 4 to 5% is one of the most effective chemical interventions for reducing the microbial load of carcasses, including
+
+To determine whether processing stages in beef slaughter select for acid-resistant
+
+Lethality (log
+
+To determine the effect of the source of isolation and antimicrobial interventions on the susceptibility of
+
+To gain insight into the relationships between the genotypic and phenotypical characteristics in relation to acid resistance and phylogeny of
+
+Phylogeny of
+
+Proportions of phylogroups and serogroups of generic
+
+Prevalence of genes over-represented in acid-resistant
+
+Differences of gene prevelance among different processing stages or phylogroups were indicated by a single or double asterisk(s), respectively.
+
+The 178
+
+There were 55 O groups and 32 H types predicted for the 178
+
+Summary of serogroups
+
+O groups or H types with less than 2% prevalence are not shown.
+
+Of the 20 genes overrepresented in acid-resistant
+
+Genes overrepresented in acid-resistant
+
+NA, not applicable.
+
+To elucidate the effects of beef processing on the genome diversity of
+
+Boxplots of average nucleotide identity (ANI) for genomes of
+
+The O groups and H types were dispersed across the phylogeny; however, some serotypes clustered in lineages, i.e., O8:H21 and O8:H10 (
+
+Boxplots of average nucleotide identity (ANI) for genomes of
+
+The efficacy of the lactic acid treatment depends on its concentration and is also affected by other factors in commercial plants, e.g., the operation condition and bacterial physiological state (
+
+Acid stress induces cellular damage in multiple ways, such as high turgor pressure impairing the stability and activities of enzymes, which disrupts the electron transport chain for cellular repair, leading to the accumulation of reactive oxygen species (ROS) (
+
+The present study found that genes involved in short-chain fatty acid (SCFA) degradation (
+
+In addition to the two full operons
+
+Although host associations are poorly correlated with the phylogeny of
+
+In contrast with the higher prevalence of the
+
+The population structure of meat plant
+
+In conclusion, the beef processing environment did not select for a lactic acid-resistant population but led to variations in serotypes, phylogenetic distribution, and acid resistance in
+
+A total of 700
+
+Each
+
+The overnight culture of
+
+The isolates for sequencing were selected to include different acid phenotypes and represent populations from different processing stages.
+
+DNA was isolated from overnight cultures of
+
+The serotype of each genome was predicted, and the species of
+
+The antigens O8, H21, H8, and H10 were among the most commonly occurring O- and H- serogroups of
+
+Core genome alignments of the 178
+
+Of the 178 isolates sequenced, 45 had log reductions <1 from the lactic acid treatment, and 1 strain had a reduction >5. The remaining 132 isolates had reductions between 1 and 5 log units. To screen for genes potentially contributing to the survival of
+
+Cell counts were log-transformed, and the reduction of cell counts was calculated as log
+
+Genome data are available under BioProject

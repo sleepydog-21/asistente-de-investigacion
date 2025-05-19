@@ -1,0 +1,189 @@
+The global protein production market, currently valued at approximately 400 billion USD annually, attributes nearly a third of this revenue to protein production in
+
+Central to the T7 system is the coupling of the cellular machinery that governs the
+
+The two most widely employed inducers for T7 expression system, IPTG (Isopropyl ß-D-1-thiogalactopyranoside) and lactose utilized in auto-expression protocols, activate T7 RNA polymerase expression through
+
+Given that auto-expression proves generally more effective and less stressful for the cells, particularly when expressing cytotoxic proteins
+
+We hypothesized that auto-expression using BB can be measured and monitored using eGFP fluorescence. Using fluorescence as a proxy for the expression of a GFP fusion protein, especially when utilizing auto-expression, can be a robust readout within
+
+To evaluate and compare the capacity of BB media to produce proteins, BB was tested in comparison to ThermoFisher’s MagicMedia™ (MM), Terrific Broth (TB), Lysogeny Broth (LB), and Studier broth (ZYM). Expression of the target protein in BB media is induced by 0.055 M galactose. The other media contain alternative inducers such as 0.2% lactose (ZYM), 1 mM IPTG (LB and TB), or proprietary contents (Magic Media). In addition, glucose is added to repress POI expression during early bacterial growth in BB and ZYM. BB’s full recipe can be found in Materials and Methods.
+
+
+
+Improved eGFP production in BB. (
+
+We hypothesized that the increased yield of eGFP in BB or LB compared to ZYM, TB, and MM resulted from improved solubility of the recombinantly expressed protein
+
+We next investigated BB’s performance in a challenging co-expression scenario, where the target protein needs to be produced along with an essential accessory factor. We chose human cytochrome
+
+To confirm that proteins expressed in BB were active, functional enzymes, we measured peroxidase activity of the purified Hu-Cyt
+
+
+
+Co-expression of Hu-Cyt
+
+BB might outperform other media in dual-expression systems by several mechanisms, including maintaining a higher number of protein-producing cells in the culture, achieving higher protein output per cell, or allowing efficient simultaneous expression of two proteins rather than skewing production to a single dominant protein. To understand which potential scenario best describes BB’s enhanced Hu-Cyt
+
+We followed the published growth conditions for mStayGold
+
+
+
+BB allows a higher percentage of dual-expressing cells. (
+
+BB relies on galactose to induce the T7 system, although galactose is not the canonical inducer of the
+
+
+
+eGFP production from both auto-induction and auto-expression media in BL21(DE3) and SHuffle T7 Express
+
+We used eGFP fluorescence as a readout for POI production in all experiments, allowing on-plate expression measurements. Robust eGFP expression was observed on plates containing lactose, galactose, and IPTG for BL21(DE3) (Fig.
+
+Having established that the SHuffle T7 Express
+
+Following confirmation that BB can be used for auto-expression in the SHuffle T7 express strain, we used this system to produce isolated agonist binding domains (ABD) from GluN1 and GluN2A subunits within N-methyl-D-aspartate (NMDA) receptors
+
+To test whether the proteins produced in BB achieve correct folding and disulfide bonding, we purified the two ABDs separately and crystallized the GluN1/GluN2A ABD-heterodimer complex. The crystal structure of the GluN2A-GluN1 ABD heterodimer in complex with the competitive GluN1 antagonist 7-chlorokynurenic acid (7-CKA) and the GluN2A agonist glutamate was solved at a 2.05 Å resolution (Fig.
+
+
+
+Production of disulfide bond-containing NMDA receptor agonist binding domains in BB. (
+
+Having established that BB improves protein production for a broad range of systems, we focused on validating the combination of using BB media and tracking protein expression through fluorescence for optimizing recombinant expression of one of the critical production targets,
+
+
+
+Production of enzymatically active SpCas9 in BB. (
+
+
+
+Comparison of purified apo-Cas9 yields per liter of culture.
+
+Among numerous Cas9 purification reports, those listed in the table were selected based on approaching ~ 90% apo-SpCas9 purity.
+
+*Purity level not suitable for gene therapy applications or high-cost model organism engineering due to inherent editing failure risks associated with contaminants.
+
+We validated the activity of BB-expressed SpCas9-siriusGFP by targeting the
+
+In this study, we report the development of an auto-expression broth (named BB) that facilitates recombinant protein production without the necessity to add an acute inducer, thus improving upon the classic IPTG induction protocols. The refinement of media formulations for protein production in
+
+The key feature facilitating protein production in BB is its capacity to support high bacterial culture density, while maintaining robust output of the target protein (Fig.
+
+Single-cell analysis of
+
+Surmounting another protein production challenge, BB in conjunction with
+
+Our study expands the potential use of BB beyond the commonly utilized BL21(DE3) strain of
+
+Notably, auto-expression media containing galactose as the inducer (as used in BB) led to a more robust expression in SHuffle T7 Express than that induced by lactose. The genetic background of SHuffle T7 Express, which lacks the
+
+The use of galactose as an inducer sets BB apart from most other popular media, which typically use lactose or IPTG. Lactose is cheaper than galactose, and IPTG is more expensive than both. Although BB uses the moderately more expensive galactose as the inducer, the significant improvement in production and broad-spectrum applications make it economically superior. Furthermore, galactose offers greater strain usage diversity than lactose and can be used in Good Manufacturing Practices (cGMP) facilities – unlike lactose. This advantage exists primarily because the market offers very few non-animal derived lactose options, which are more expensive than their animal-free galactose counterparts.
+
+CRISPR-Cas9 and the genome editing process that is enabled by this protein has revolutionized molecular biology and biotechnology
+
+Using multi-step protocols to improve SpCas9 purity typically leads to significant losses of the protein; therefore, in our yield comparisons we focused on the studies reporting ~ 90% enzyme purity (Table
+
+A recent report described an alternative expression and purification protocol for efficient production of SpCas9 in complex with sgRNA (Cas9 RNP)
+
+Overall, we report that Bosco Broth not only addresses longstanding challenges of protein production in
+
+The DNA sequence harboring the 6x Histidine tag, the T7 peptide leader, a TEV proteolytic cleavage site, and eGFP (6xHis-T7Leader-TEV-eGFP) was isolated from Addgene construct (#54762). eGFP was cloned into a pET21a(+) vector (EMD Millipore #69740) backbone by restriction enzyme digest followed by T4 DNA ligation. DNA sequence was confirmed via Sanger Sequencing (Eurofins).
+
+The DNA sequence harboring the 6x Histidine tag, the T7 peptide leader, an X-press affinity tag, and mStayGold (6xHis-T7Leader-XpressTag-mStayGold) was amplified from Addgene construct (#212017). The DNA sequence harboring the 6x Histidine tag, the T7 peptide leader, a TEV proteolytic cleavage site, and mTagBFP2 was amplified from Addgene (#54572). The fragments were assembled via Gibson assembly into the pRSETB vector backbone (Addgene #212017)
+
+The BB recipe used for all experiments in this study consists of the following:
+
+12 g/L tryptone (Millipore Sigma T9410)
+
+24 g/L yeast extract (Millipore Sigma Y1625)
+
+KH
+
+Na
+
+NH
+
+Na
+
+MgSO
+
+Glycerol (0.54 M)
+
+D-glucose (0.03 M)
+
+D-galactose (0.055 M)
+
+Na
+
+FeCl
+
+CaCl
+
+MnCl
+
+ZnSO
+
+CoCl
+
+CuCl
+
+NiCl
+
+Na
+
+FeSO
+
+(NH4)
+
+H
+
+EDTA (0.05 M)
+
+CuSO
+
+The pH of the media is adjusted to the neutral range (7.3–7.6).
+
+In-cell eGFP fluorescence intensity measurements were conducted as previously described with minor changes
+
+Cells from a single replicate each of the five
+
+To detect 6xHis-eGFP in the soluble and insoluble fractions, bacterial lysates either from the soluble fraction of clarified lysate, or from resolubilized insoluble fractions from the cell pellets (8 M urea with buffer exchange back to 1x PBS) were separated on a 4–20% SDS-PAGE gel (Bio-Rad), and proteins were transferred to Immobilon-P PVDF membrane (EMD Millipore). After blocking in TBS/0.1% Tween 20/5% non-fat dry milk, the blots were probed with mouse anti-6xHistidine primary antibody (Sigma) followed by the secondary goat anti-mouse IgG2a labeled with HRP (Southern Biotech) diluted in blocking solution. Blots were developed using Luminata Crescendo Western HRP substrate (EMD Millipore) and recorded on ChemiDoc MP Imaging System (Bio-Rad).
+
+Human cytochrome
+
+The peroxidase activity of human cytochrome c (Hu-Cyt
+
+BL21(DE3) competent cells were transformed and cultivated with carbenicillin resistance
+
+Samples were analyzed with the Attune NxT (Life Technologies, Grand Island, NY, USA) flow cytometer. Forward and side scatter properties were displayed on a logarithmic scale with the forward scatter threshold set to 1000 for all samples analyzed. mStayGold green fluorescent protein was measured with the BL1 laser line, excitation at 488 nm with emission detection at 530 nm with a 30 nm bandpass filter. mTagBFP2 was measured by the VL1 laser line excitation at 405 nm with emission detection at 440 nm with a 50 nm bandpass filter. Thawed
+
+Live-cell imaging of the bacterial cells was performed on a Zeiss LSM 880 laser scanning confocal microscope with a Plan-Apochromat 63x/1.4 NA DIC M27 oil immersion objective. A 405 nm laser was used to excite mTagBFP2 with fluorescence detected from 410 to 498 nm. The excitation for mStayGold was a 488 nm laser with fluorescence being detected from 498 to 598 nm. All cultures were imaged using the same settings in ZenBlack 2.3. Maximum intensity projections were generated from z-stacks of
+
+All M9 minimal media combinations were prepared following the base recipe
+
+The GluN1 and GluN2A agonist binding domains (ABDs) were purified using a similar protocol to previously described with several adjustments
+
+Purified GluN1A and GluN2A ABD proteins were mixed at a 1:1 ratio and incubated O/N at 4 °C before the GluN1/N2A complex was subjected to another round of purification using a Superdex 200 10/300 GL size exclusion column (Cytiva) in 10 mM HEPES-NaOH, 100 mM NaCl, 1 mM glycine, 1 mM L-glutamate, pH 7.0. Complexed proteins were concentrated to 4–7 mg/mL and used to set 1:1 drops against a reservoir consisting of 0.2 M ammonium acetate, pH 6.8 with 14–18% PEG 4000 using the hanging drop diffusion method. Following 48 h of crystal growth, two rounds of crystal soaking were conducted. In the first round of soaking, drops were soaked with reservoir solution including 100 µM glutamate, and 100 µM 7-Chlorokynurenic acid (7-CKA). After at least 24 h of soaking, the drops were then soaked for a second time with reservoir solution including 100 µM glutamate, and 300 µM 7-CKA for a minimum of 24 h prior to harvesting. Crystals were cryoprotected in reservoir solution containing 20% (v/v) glycerol and flash-frozen in a 100 K nitrogen gas stream. Diffraction data were collected at the Stanford Synchrotron Radiation Lightsource (SSRL-SMB) on the 12 − 2 beamline. Images were processed using autoPROC
+
+Recombinant nuclease was purified according to a previously published protocol with minor modifications
+
+For an injection preparation, 11.9 µg Cas9-siriusGFP in 25mM Tris, 300mM NaCl, 2 mM MgCl
+
+Full sgRNA sequence (IDT) with complementary crRNA underlined:
+
+5′
+
+Wildtype Canton-S flies were maintained in 6 oz bottles (Flystuff #32-130) with 50 mL standard fly food. Approximately 300 adults aged 2–5 days were transferred to embryo collection chambers (Flystuff #59-105) with 2% apple juice agar collection plates (35 mm petri dish) topped with yeast paste for 30 min. Embryos were collected, washed with ddH
+
+Individual injected surviving adults were crossed to 3 double balanced
+
+Canton-S embryos were injected with Cas9-siriusGFP. Injected embryos were mounted on a glass slide (VWR #16005-106) in halocarbon 27 oil, overlaid with a coverslip sealed with nail polish and imaged using a Zeiss LSM 880 laser scanning confocal microscope with a Pln Apo 20x/0.8 NA air objective. Excitation wavelength of 488 nm was used to image with detection wavelength range of 493–530 nm. Images were acquired using ZenBlack 2.3 software and pseudo colored turquoise in FIJI.
+
+Adults were imaged using a Sony a7R III camera mounted on an Olympus BH-2 microscope with Olympus 4xDPlan 0.10 160/0.17 objective and M2XNEX 2x Sony E-mount adapter. The specimens were lit bilaterally with Hera AKOD20/CW 5-Watt LED Luminaire lamps. Flies were decapitated and mounted on glass slides (VWR #16005-106) with clear Gorilla Super Glue Gel. Images were stacked using manual fine-focus increments and combined in Helicon Focus 7.6.1 Pro using Method C with smoothing set to 2.
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

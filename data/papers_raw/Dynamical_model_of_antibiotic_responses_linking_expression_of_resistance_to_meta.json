@@ -1,0 +1,11 @@
+{
+  "id": "37790326",
+  "title": "Dynamical model of antibiotic responses linking expression of resistance to metabolism explains emergence of heterogeneity during drug exposures.",
+  "doi": null,
+  "authors": "Stevanovic M, Carvalho JPT, Bittihn P, Schultz D",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2023",
+  "abstract": "Antibiotic responses in bacteria are highly dynamic and heterogeneous, with sudden exposure of bacterial colonies to high drug doses resulting in the coexistence of recovered and arrested cells. The dynamics of the response is determined by regulatory circuits controlling the expression of resistance genes, which are in turn modulated by the drug's action on cell growth and metabolism. Despite advances in understanding gene regulation at the molecular level, we still lack a framework to describe how feedback mechanisms resulting from the interdependence between expression of resistance and cell metabolism can amplify naturally occurring noise and create heterogeneity at the population level. To understand how this interplay affects cell survival upon exposure, we constructed a mathematical model of the dynamics of antibiotic responses that links metabolism and regulation of gene expression, based on the tetracycline resistance",
+  "source": "PubMed",
+  "pmcid": "PMC10542528"
+}

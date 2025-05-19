@@ -1,0 +1,97 @@
+
+
+RfaH is an antiterminator that directly binds to RNA polymerase (RNAP) and modifies it into a processive, pause-resistant state, thus reducing transcriptional pausing at certain positions and increasing RNAP processivity (
+
+Numerous genetic factors contribute to the pathogenicity and virulence of
+
+In this study, we showed that the deletion of
+
+Bacterial strains and plasmids used in this study are listed in
+
+Bacterial strains and plasmids used in this study.
+
+The primers for construction of mutant and complementation strains are listed in
+
+NTUH-K2044, Δ
+
+
+
+The string test was carried out by stretching a mucoviscous string from the colony grown on a blood agar plate using a sterile loop as previously described (
+
+NTUH-K2044 and Δ
+
+Capsule was extracted as previously described (
+
+LPS was extracted by the hot-phenol water method with minor modifications (
+
+The biofilm formation assays were performed as previously described (
+
+The serum bactericidal assay was performed as described previously with minor modifications (
+
+2 ml of NTUH-K2044 and Δ
+
+Animal experiments were approved by the Southwest Medical University Institutional Animal Care and Use Committee (Project license: swmu20220089). Four- to six-week-old BALB/c mice (SPF Biotechnology Co., Ltd, Beijing, China) were used in this study. Before and following inoculation, mice had unlimited access to food and water.
+
+To detect whether the virulence of Δ
+
+For the phagocytosis assays, mice (five per group) were lightly anesthetized with isoflurane and then inhaled with 50 μl of bacterial suspension (~ 1 × 10
+
+In the intranasal infection model, mice were intranasally infected with NTUH-K2044 or Δ
+
+For the organ burden assay in the intraperitoneal infection model, mice (twelve per group) were injected with 100 μl of bacterial suspension (~ 1 × 10
+
+Data were presented as means ± standard deviation (SD) and were analyzed with GraphPad 9.0 software. Two tailed unpaired student’s
+
+RfaH protein of
+
+Construction and morphology characteristics of Δ
+
+A distinct colony morphology was observed between NTUH-K2044 and Δ
+
+The morphology changes of bacterial cells and colonies are most likely attributed to the impaired CPS biosynthesis in Δ
+
+Δ
+
+It has been shown that RfaH enhances the transcription of a select group of operons controlling bacterial surface features, including LPS. Therefore, we quantified the LPS and found that its content in Δ
+
+To investigate whether the deletion of
+
+Δ
+
+Despite the obvious difference in colony morphology, Δ
+
+Growth ability and stress resistance assays.
+
+To assess the impact of
+
+Biofilm formation facilitates bacterial colonization and has been associated with reduced susceptibility to host immune responses (
+
+
+
+It was shown that type 3 fimbriae strongly promote biofilm formation in
+
+To examine the involvement of RfaH in bacterial survival under serum exposure, serum bactericidal assays were performed. We found that the survival rate of Δ
+
+
+
+To assess the role of RfaH in contributing to the pathogenesis of
+
+
+
+To further decipher the basis for the attenuation of mutant Δ
+
+
+
+Histopathology examination showed that NTUH-K2044 infection caused moderate infiltration of inflammatory cells in bronchi and adjacent tissues, along with dilated alveoli and sporadic signs of hemorrhage in the lung of mice. In contrast, mice infected by Δ
+
+RfaH is well studied as an important pathogen virulence factor in
+
+In this study, we confirmed that RfaH contributes to CPS biosynthesis by directly promoting the transcription of
+
+A previous study revealed that the transcription of
+
+In stress-response assays, Δ
+
+Biofilm formation is a critical factor in the pathogenesis of
+
+Complement proteins are important components of host innate immunity, and both CPS and LPS play crucial roles in bacterial resistance to complement-mediated killing in human serum (

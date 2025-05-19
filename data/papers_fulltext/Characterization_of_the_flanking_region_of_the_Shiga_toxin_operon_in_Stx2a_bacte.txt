@@ -1,0 +1,85 @@
+According to the virulence factors acquired, pathogenic
+
+The genes encoding the Stx toxins are carried by bacteriophages (Stx phages) integrated into the bacterial chromosome. These phages are usually called lambda-like because the analyses of the first genomes sequenced showed a similar genetic organization (comprising recombination, early regulation, replication, late regulation, lysis and structural gene regions) and many homologous genes to those of the bacteriophage lambda
+
+The
+
+Stx2a-encoding phages (Stx2a phages) are the most studied prophages of STEC, as they are located in the genomes of the strains most frequently associated with severe clinical outcomes. Studies performed on groups of Stx2a phages show a high level of genomic diversity also within the Stx2a phage family. For example, differences among Stx2a phages from O157:H7 STEC strains were observed in genes in the replication and early regulatory regions
+
+Phages, including Stx phages, have played a significant role in the evolution and diversity of STEC strains
+
+Considering that the Stx2a phage family is a group of diverse members, this study aimed to perform a comprehensive analysis of the
+
+DNA sequences of Stx2a phages and prophages were retrieved from the GenBank database using the BLASTN program (
+
+The nucleotide sequences from anti-terminator Q to holin S encoding genes (named
+
+Sequence alignments of NanS-p and corresponding domains were performed using Muscle implemented in MEGA
+
+A group of 13
+
+Primers DS-forward (5′-CCTTATGGTAGTGCGCTGATT-3′) and DS-reverse (5′-AGTCCCTCACCGTATGACA-3′) were designed to allow the amplification of the DUF-SASA region of
+
+Each reaction contained 4 µL of 1/10 diluted cDNA sample, 10 µL of 2X SYBR Green Master Mix (FastStart Universal SYBR Green Master, Roche) and either the pair of primers DS-forward/DS-reverse (400 nM each) to amplify
+
+NA: not available in database record or associated reference.
+
+† Accession number to phage genome or bacterial genome where the prophage sequence was obtained.
+
+*Best matching
+
+* Positions correspond to amino acids 100, 102, 104, 124, 209, 241 253, 257 and 275 in 933W NanS-p sequence. Differences with SASA1 are highlighted in bold.
+
+** Differences were not only restricted to these positions.
+
+In order to investigate if NanS-p is encoded by phages carrying
+
+Fifty-nine DNA sequences of Stx2a (pro)phages were obtained for the study (
+
+The analysis of
+
+The predicted sequences of Q proteins mostly clustered into two major clades (
+
+Downstream
+
+The
+
+Comparative analyses of NanS-p identified 20 different amino acid sequences among Stx2a phages (
+
+For a detailed analysis of the different NanS-p proteins, domains were identified in 933W NanS-p and used for subsequent sequence comparisons. Three sequences corresponding to the N-terminal domain (DUF1737, IPR013619/PF08410, amino acids 3-53 in 933W NanS-p) were recognized and named D1 to D3 (
+
+NanS-p sequences shared with the bacterial NanS, from
+
+Between
+
+Regarding predicted holins encoded by the S genes, most sequences obtained from the Stx2a phages were identical to that encoded by phage 933W or differed in one amino acid. Only one holin sequence, present in only one phage, differed 4 aa from that in phage 933W. According to the search we performed on the Transporter Classification Database (TCDB), the predicted holins for the Stx2a phages of the present study are pinholins. They showed a high identity (92.6 to 95.6%) with the bacteriophage H-19B pinholin, which belongs to the P21 holin S family (holin II superfamily).
+
+To perform a more detailed study of NanS-p, we evaluated the expression of
+
+Additionally, we carried out a genome analysis of twenty-four (pro)phages harboring
+
+Shiga toxins (Stx), the main virulence factor of STEC strains, are encoded in the genome of phages integrated into the bacterial chromosome (prophages). S.O.S induction of Stx prophages and consequent Stx expression have been demonstrated to be required for disease in animal models
+
+Advances in sequencing technologies have provided an excellent opportunity to study Stx phages. However, the number of studies on Stx phage genomes is still limited
+
+This study aimed to analyze the
+
+We retrieved 59 genomic sequences of Stx2a (pro)phages from databases and performed a comprehensive analysis of a region we named
+
+The
+
+On the other hand, the sequences of the S gene, encoding putative holins, shared high identity. Holins are part of phageś lysis system and control endolysin-mediated degradation of the bacterial peptidoglycan layer. They can be canonical holins or pinholins
+
+All Stx2a phage genomes harbored the
+
+The conserved genome localization of
+
+Our study also showed that
+
+The sialate O-acetylesterase function has been demonstrated in Neu5,9Ac2 utilization for different NanS-p proteins encoded by prophages in the strains O157 EDL933 and O104 LB226692, suggesting that NanS-p could provide advantages for bacterial growth in the gut
+
+The analysis of the
+
+We identified sequence differences in each of the three domains of NanS-p esterases encoded by Stx2a phages and other Stx phages. Therefore, future studies will be necessary to evaluate if NanS-p variants differ in their activity. Our findings also suggest that phages that encode some Stx subtypes do not carry the
+
+Click here for additional data file.

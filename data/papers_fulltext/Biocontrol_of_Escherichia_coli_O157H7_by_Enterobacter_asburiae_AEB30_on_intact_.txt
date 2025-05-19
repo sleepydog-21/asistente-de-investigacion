@@ -1,0 +1,81 @@
+
+
+To prevent the contamination of produce in the pre‐harvest environment, good agricultural practices must be strictly adhered to, including properly composting manure (if used), testing irrigation and other waters used (i.e. water used for pesticide and fertilizer application), ensuring wild animals are excluded from crop fields and minimizing the proximity of produce fields to confined animal feeding operations (Iwu & Okoh,
+
+In recent years, the use of biocontrol agents such as antagonistic bacteria and bacteriophages to control the growth and survival of pathogens on produce in both the pre‐ (Rabiey et al.,
+
+Methodology used to identify produce‐associated bacteria (PAB) that inhibit
+
+The protocol to isolate PAB was previously described by Tran et al. (
+
+The method to identify PAB that could inhibit the growth of
+
+The ability of the most inhibitory PAB isolate, later identified as
+
+Inhibition of 12
+
+Abbreviations: CADHS, California Department of Health Services; CDPHE, Colorado Department of Public Health and Environment; CPK201, Canadian Paediatric Kidney Disease Research Center; NA, not applicable; OSPHL, Oregon State Public Health Laboratory; SDDOH, South Dakota Department of Health.
+
+Zone of inhibition size shown as the mean value ± standard deviation from three independent experiments.
+
+
+
+The ability of
+
+The persistence of
+
+For
+
+
+
+To resolve
+
+A transposon was inserted into
+
+To complement
+
+All experiments in this study were performed using a completely randomized design. Experimental data were analysed with one‐way
+
+We constructed a PAB library containing 7768 isolates and screened it for the ability to inhibit the growth of
+
+Fluorescence inhibition of
+
+Abbreviations:
+
+To identify AEB30, we sequenced its 16S rRNA gene (GenBank accession number MW826273) and compared it to sequences in GenBank via BLAST and found that it was >99% similar to several species within the genus
+
+To determine if
+
+
+
+We examined the ability of
+
+
+
+We performed in silico analysis of the
+
+Because the inhibition of
+
+Two partial and one complete type Vb secretion system (T5bSS) operons in
+
+
+
+Abbreviation: RFU, relative fluorescent units of
+
+Fold difference between the fluorescence of
+
+Sized of the zone of inhibition formed by
+
+At a minimum, a bacterial biocontrol agent should be able to grow and persist on the target produce in both the pre‐ and post‐harvest environments and prevent the target pathogen's growth (Linares‐Morales et al.,
+
+Previous studies have demonstrated that strains of
+
+We demonstrated that the growth inhibition of
+
+This study describes the use of the bacterium
+
+
+
+This work was supported by the USDA, Agricultural Research Service, National Program 108: Food Safety (Animal and Plant Products).
+
+The authors declare no conflict of interest.

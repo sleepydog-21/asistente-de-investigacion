@@ -1,0 +1,53 @@
+Sucrose, the main compound in table sugar, is widely used and primarily produced from sugar beet and sugar cane [
+
+The level of cAMP can be modulated by Crr, which is the glucose-specific EIIA (EIIA
+
+In this study, we examined the impact of sucrose on
+
+The bacterial strains and plasmids utilized in this study are detailed in
+
+Bacterial strains and the plasmids used in this study.
+
+The biofilm quantification procedure was conducted following the method in the previous study [
+
+The
+
+The OD
+
+The OD
+
+The
+
+After the bacterial lysate was analyzed by 12 % SDS polyacrylamide gel (SDS-PAGE), the total bacterial proteins were transferred to a nitrocellulose membrane. The observation of bacterial proteins, MrkA and ManA, by Western blotting followed the method in the previous study [
+
+The transcriptional levels of
+
+The results of biofilm quantification, bacterial growth, and quantification of the band intensity from Western blotting were expressed as the mean±standard deviation (SD) from three independent tests. The data were analyzed using a student's t-test, and the significant difference of the data was considered at
+
+To study the effects of sucrose on biofilm formation by
+
+Since the gene
+
+Since these results indicate that
+
+Since we observed that sucrose reduces the biofilm of
+
+Type 3 fimbriae facilitate bacterial attachment to surfaces. To investigate the effect of sucrose on the type 3 fimbrial shaft protein, MrkA, Western blotting and RT-qPCR was performed. The results showed that the amount of MrkA protein and
+
+It has been reported that ScrA relies on the Crr protein, also known as Enzyme IIIA, for the transportation and phosphorylation of sucrose. However, this was demonstrated using an
+
+To investigate the impact of Crr on biofilm formation by
+
+Crr positively modulates the activity of adenylyl cyclase (AC), which elevates the intracellular cAMP level in
+
+The effects of capsular polysaccharide (CPS) on the biofilm of
+
+Previous studies have shown that a 1 % concentration of sucrose had no effect on some bacteria (staphylococci,
+
+The spatial interaction between ScrA and the upstream DNA region of
+
+In addition to ScrA (sucrose-specific EIIBC), Crr also serves as the cognate EIIA of PtsG, which is the glucose-specific EIIBC in Enterobacteriaceae [
+
+All data generated or analyzed in this study are included in the published article.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,71 @@
+The feedback between soil carbon (C) and climate change is fraught with uncertainty in Earth System Models due to the vast variation in model structure, parameter values, and initial conditions
+
+Growth of organisms, which integrates morphology with physiological processes, is a fundamental ecological and evolutionary trait
+
+Community aggregated microbial traits, like community-weighted means of traits proposed for plants
+
+Here, we investigated the potential growth rate of the soil microbiome using an
+
+In this work, microbiomes in resource-rich (high organic matter and nutrients) and acid-neutral soils from cold and humid regions exhibit high potential growth rates. Conversely, microbiomes in hypersaline soil from dry and hot regions display lower potential growth rates. The potential growth rate of soil microbiomes positively correlates with genome size and the number of ribosomal RNA operons but negatively correlates with optimum temperature, biomass carbon-to-phosphorus and nitrogen-to-phosphorus ratios. Overall, the spatial variation of microbial growth rates, driven by climate, edaphic properties, microbial resources, community structure, and genome traits, aligns with macroecological theories of the latitudinal/temperature compensation hypothesis, the trade-off between growth and stress survival, and the growth rate hypothesis. Our study also offers a robust benchmark for microbial-explicit soil C models, because microbial growth rate is a key parameter in these models.
+
+The potential G
+
+Despite the weak correlation between potential G
+
+Microbial C:P and N:P adversely affected the potential G
+
+The potential G
+
+There are expected positive correlations between potential G
+
+Our measurements of microbial growth aggregate responses from thousands of individual microbial species, each growing at different rates. Understanding individual taxonomic groups may provide insights into how these microorganisms will impact soil C cycling under future climate change scenarios
+
+Partial least squares path modeling showed that microbial community structure (dominant phyla of fungi and bacteria) influenced potential G
+
+The partial least squares path model depicts factors influencing microbial potential growth rates through direct and indirect pathways. Blue and red arrows indicate positive and negative effects, respectively, while the indicated values on the arrows are the path coefficients for the inner model. The path coefficients for outer models of the partial least squares path modeling are shown in Supplementary Table
+
+Spatial isolation is another important factor limiting microbial growth in soil matrices
+
+Our national-scale study had several limitations. First, our calculation of genome size was based on species-specific traits from NCBI and GTDB datasets (see Methods). However, the genome sizes of many microbial species were not reported in current datasets. Second, our measurements of microbial growth were conducted under optimal conditions, which may differ from patterns observed in the field. Although the
+
+The spatial variation of microbial growth, driven by climate, edaphic properties, microbial resources, community structure, and genome traits, aligns with several macroecological theories. These include the latitudinal/temperature compensation hypothesis, the trade-off between growth and stress survival, and the growth rate hypothesis. While omics datasets have been extensively utilized to quantify traits associated with microbial life history strategies, such as the competitor-stress tolerant-ruderal
+
+Microbial growth rate is a key parameter in biogeochemical models of C flux
+
+Complying with all regional laws and regulations for research sampling, we sampled a total of 112 sites, comprising 49 grasslands and 63 forests, across China from June to August 2022, including 11 desert grasslands, 15 temperate grasslands, 23 alpine grasslands, 8 tropical forests, 19 subtropical forests, 18 temperate forests, 10 boreal forests, and 8 alpine forests. At each site, we established three sample plots within well-protected areas to minimize the effects of anthropogenic disturbance. The plots in grasslands measured 5 × 5 m and were spaced more than 10 m apart, while the plots in forests measured 20 × 20 m and were spaced more than 30 m apart. We collected topsoil samples from the upper 0–20 cm layer at ten random locations within each plot. These samples were then combined to form a composite sample for each plot, yielding a total of 336 soil samples across China (Fig.
+
+Soil pH was determined in a 1:2.5 soil-to-deionized water mixture and analyzed using a pH electrode (FE28-Standard, Mettler, Switzerland). Soil texture was measured with a Malvern laser particle size analyzer (MS2000; Malvern Instruments, Malvern, UK). Soil organic C was measured using a Multi N/C 2100 s analyzer (Analytik Jena AG, Germany) after the removal of inorganic C by hydrochloric acid. Soil available N (ammonium and nitrate) was extracted with 2 M potassium chloride. Soil total N was extracted by digesting the soil sample with sulfuric acid and adding copper sulfate and potassium sulfate, while total P was extracted by digesting the soil sample with sulfuric acid and perchloric acid. All extracted solutions were analyzed for N and P concentrations with an Auto Analyzer (BRAN + LUEBBE-AA3, Germany).
+
+The funnel-filter paper-drainage method was used to measure the maximum water holding capacity
+
+Microbial biomass C, N, and P were measured using the chloroform fumigation extraction method
+
+We determined microbial growth using the substrate-independent method, which involves the incorporation of
+
+After 24 h of incubation at 25 °C in the dark with 60% water-holding capacity, we extracted DNA from both labeled and unlabeled soils using a DNA extraction kit (FastDNA™ SPIN Kit for Soil; MP Biomedicals). We determined the DNA concentration via the picogreen fluorescence assay. The remaining DNA extracts were pipetted into silver cups, dried at 45 °C for 5 h to remove all water, and folded into silver capsules for analysis. We measured the abundance of
+
+Microbial DNA production was estimated by multiplying sample O content by the
+
+For the bacterial community, we amplified the 16S rRNA genes using primers 338 F (ACTCCTACGGGAGG CAGCAG) and 806 R (GGACTACHVGGGTWTCTAAT). For the fungal community, we amplified the ITS1 regions using primers ITS1F (CTTGGTCATTTAGAGGAAGTAA) and ITS2R (GCTGCGTTCTTCATCGATGC). We conducted PCR using TransStart Fastpfu DNA Polymerase (TransGen Biotech, Beijing, China) in a GeneAmp 9700 thermal cycler (Applied Biosystems, Foster City, CA, United States). The thermal cycling protocol included an initial denaturation step at 95 °C for 3 min, followed by 35 cycles for fungi and 27 cycles for bacteria of 95 °C for 30 s, 55 °C for 30 s, and 72 °C for 45 s, with a final extension at 72 °C for 10 min. We extracted the PCR products from 2% agarose gels and concentrated them using the AxyPrep DNA Gel Extraction Kit (Axygen Biosciences, Union City, CA, USA). We sequenced the purified amplicons on an Illumina Novaseq PE250 platform (Illumina, San Diego, CA, USA) at Shanghai Personal Biotechnology Co., Ltd. (Shanghai, China). We demultiplexed, quality-filtered, and processed reads using QIIME2. We determined the taxonomic assignment of the 16S rRNA and ITS sequences based on the bacterial SILVA reference database and fungal UNITE reference database using RDP Classifier.
+
+We downloaded the datasets associated with genome size at the species level from NCBI and Madin et al.
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review file
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Supplementary Code 1
+
+Reporting Summary
+
+
+
+Source data

@@ -1,0 +1,521 @@
+The expression of recombinant protein from the microbial host strains can be considered a major step in microbiological techniques, enabling the high production of protein products for industry and biopharmaceuticals without purifying it from raw materials or using chemical synthesis. The host strain
+
+From our understanding, protein expression predicting methods could be divided into methods based on statistical algorithms, such as the ones used in the highly expressed genes prediction tool in the High Expression Gene Database (HEG-DB) [
+
+Currently, traditional supervised machine learning methods have been widely used in biological prediction and microbiology to solve predicting and clustering expression levels problems. Particularly, there have been protein expression prediction tools integrating from K-Nearest Neighbor (KNN), Linear Regression and its derivative algorithms, to Random Forest and Support Vector methods (SVM or SVR) [
+
+The translation was largely regulated at the start of translation in eukaryotes, but this was not entirely true in prokaryotes such as
+
+The objective of this paper is two-fold; the first objective is applying machine learning methods to calculate a new translation rate parameter (termed “New_TR”) from Transim’s initiation and elongation rate on different
+
+The process of building a model to predict the amount of protein in
+
+4739 CDS sequences of every gene in
+
+The 5’-UTR annotations of the first genes were also extracted from the UTR_5_3_sequence file provided by the Regulon database. However, the database’s definition of 5’-UTR was just the upstream sequence of an mRNA. Since the translation of different genes can happen simultaneously on a polycistronic mRNA, it is necessary to consider the “in operon 5’-UTR” of genes inside the operons since they might also contribute to translation efficiency. Therefore, gene annotation data from the Ecocyc database was used to retrieve 5’-UTR sequences of “internal genes” and combine them with CDS and protein sequences to extract features needed for subsequent machine-learning steps. 1556 “first gene” 5’-UTR sequences (1) and 1069 “in operon” 5’-UTR sequences (2) were collected from 2 datasets, which were then combined with information on CDS to create 2089 mRNA sequences information with both 5’-UTR and CDS sequences. Ecocyc database was chosen as it is a manually curated biological database dedicated to
+
+Two data sets of protein expression and mRNA expression were used to evaluate the Transim model [
+
+In addition, microarray data of mRNA expression from the E COLI EXPRESSION 2 database, which has been acquired and processed since 2019 [
+
+The Transim model is a biophysical model that calculates the translation rate based on initiation rate, which embodies the rate of ribosome binding to the start codon, and elongation rate, which is a translation speed of each ribosome simulated by the model’s totally asymmetric exclusion process (TASEP). First, initiation rate, elongation rate, and translation rate were calculated by the Transim model, with a text file consisting of names, mRNA sequences (UTR+CDS), and start site positions, using the recommended format of Transim. Sequences with the RBS that were too short for the model to calculate the initiation rate were discarded in the final file. Initiation rate and elongation rate data will then be used as the basis input of machine learning models for calculating a new translation rate with a higher correlation to the expression level compared to the original Transim’s translation rate.
+
+The secondary structure around the starting codon was able to be predicted using minimum free energy (MFE), which was calculated using the RNAfold program from the Vienna RNA package. The regions under investigation were from the -30 to +30 of the mRNAs, and only the region with less than 15% data loss from insufficient length in the 5’-UTR region would be qualified as a feature for the prediction model.
+
+The types of start codon and stop codon were analyzed to see their potential as predictive features for the model. The presence of upstream UAG in the 5’-UTR was also assessed, which was classified into three scenarios: in-frame (corresponding to the ORF), out-of-frame, and no uUAG found in the 10-base upstream of the start codon in each mRNA sequence. The codon adaptation index (CAI) and tRNA adaptation index (tAI) were calculated using the webtools CAIcal and stAIcalc, respectively.
+
+Since prokaryote’s signature protein synthesis mode is polycistronic translation, the effect of gene positions in an operon was considered. Particularly, in this model, we focus on whether it was the first gene of an operon or not.
+
+The stability
+
+Six traditional machine learning models, namely LR, Ridge, Lasso, Elastic Net, Random Forest (RF), and Support Vector Regression (SVR) are analyzed to choose the most suitable for estimating protein expression. The Scikit-learn library provided these algorithms on the Python platform [
+
+In order to represent features or outputs in real, continuous values, Spearman’s Rank correlation coefficient was used to evaluate their correlation with protein abundance (PA) or protein abundance produced by one mRNA (PA/mRNA). Such a measure was chosen for its simplicity in usage and effectiveness in assessing monotonic relations. Also, using the same metric as the one used in Tuller’s report would give us a clear comparison of the performance of the two paper’s methods.
+
+For categorical features like uAUG or types of start and stop codons, we used Student’s t-test to determine the two-tailed significance of the difference between groups of genes. The statistical analysis is conducted by the Scipy library running on a Python environment.
+
+Our first objective was to evaluate whether the calculated translation rate from Transim was like the value previously reported. Thus, we calculated the translation rate of the first genes, similar to the data set used to evaluate the Transim model. The correlation test of translation rate showed the Spearman coefficient with protein expression per mRNA was R = 0.3810, equivalent to the result in the paper of Tuller
+
+Since the RegulonDB dataset used to evaluate the Transim model only included the first gene of each operon, we sought to improve the original dataset as there are still many genes inside the operon that might possess valuable information for the model. The subsequent genes in the operon were thus collected of their mRNA sequences and determined if the 5’-UTR sequence region of the genes inside the operon had the same properties as the first genes data from RegulonDB. Then, Nucleotide usage in the -15 to +15 region was analyzed.
+
+Sequence logo of the region from -30 to +30 in (A) first genes and (B) genes in the operon.
+
+At the same time, when evaluating the correlation of translation rates, the Spearman correlation of these sequences was R = 0.3546 (only a 3% decrease compared to the correlation considered with the first gene). Still, the dataset was 30% more abundant than the original dataset (
+
+However, an unexpected result was observed when the output was PA instead of PA/mRNAseq. This time, the correlation of the translation rate increases by more than 20% and reaches R = 0.5623 (
+
+The correlation between translation rates and (A) PA/mRNA with mRNA expression level from normalized microarray data and (B) PA.
+
+Even though Spearman’s rank coefficient improved with mRNA microarray output, the correlation was still not satisfactory, which led us to extract more mRNA and protein sequential features that could contribute to different translation regulation steps. In the end, a total of 6 groups of features were collected, namely: the position of genes in the operon (first gene or in-operon gene), 5’-UTR feature (upstream AUG—uAUG), CDS (start codon, stop codon, CAI, and tAI), folding energy (+1 to +30 region), protein-sequence (N-terminal half-life, Instability index, length), and translating rate (initiation rate and elongation rate calculated by Transim model).
+
+First, the influence of the gene’s position in the operon on the PA/mRNA level was measured (
+
+Factors affecting expressions in the 5’-UTR region, such as the folding energy or the interaction between the SD region and the ribosomal subunit, were already included in the folding energy and translation initiation rate feature groups, so we only considered a type of sequential motif that might affect the expression here—the AUG-type start codon in the upstream region (uAUG). Based on previous research on the impact of the expression of uAUG on yeast, the study only investigated the occurrence of uAUG in the region from -12 to +1. Out of all the examined genes, 90.9% did not possess uAUG motifs, while 2.8% of genes existed with an inframe uAUG, and the rest were genes with uAUG out of frame with the correct reading frame of the gene.
+
+The presence of uAUG has been shown to affect 6% of the yeast protein output if the uAUGs were in a frame different from the open reading frame. However, studies on uAUG are still focused on eukaryotes such as yeast [
+
+In addition to the commonly used codon ATG,
+
+Similarly, when considering the effect of the stop codon types on expression, we also see the emergence of a codon that was more dominant and was also the codon with the highest expression rate. TAA was the choice for the stop codon of 69.70% of genes, and the group using this codon had a much higher protein production efficiency than TGA and TAG (P<<10
+
+Codon and tRNA usage were two quantifiers that characterize codon bias in genes and have been associated with elongation rates. Therefore,
+
+Finally, the study considered the effect of the secondary structure around the start codon. After the process of calculation and statistics, our research would only retain the folding energy of the region from +1 to +30 since the other assessed regions missed from 17% to 33% of the data to insufficient lengths. However, this would not significantly affect the model strength since the folding energy of the region -35 to +35 was already included in the calculation of the initiation rate. Surprisingly, the folding energy of this region had almost no impact on the amount of protein per mRNA (R = 0.0039) (
+
+First, the effect of protein or mRNA length was minimal on the protein expression (R = 0.0867) (
+
+Effect of A. Protein sequence length, B. Protein half-life based on N-terminal rules, and C. The instability index (II) of protein.
+
+Our research examined the correlation between the individual components of the translation rate, namely the initiation rate and elongation rate, and the protein expression per mRNA in
+
+The correlation between PA/mRNA and (A) initiation rates and (B) elongation rates.
+
+In an attempt to increase the correlation between the translation rate and protein per mRNA level, we first try to create a “new translation rate” (New_TR) metric by six traditional supervised machine learning methods with the same initiation rate and elongation rate input as the Transim one to predict PA and PA/mRNA.
+
+First, 1660 input samples were divided into two training and test sets with a ratio of 8:2. Then, the Spearman correlation between New_TR of genes with PA and PA/mRNA is presented in
+
+Correlation between new translation rate calculated by different machine learning models and PA/mRNA or PA on A. Testing dataset and B. Total dataset.
+
+The computed results showed that the “new translation rate” improved the prediction of protein expression to R = 0.6536 and R = 0.6699, with the output being PA/mRNA and PA, respectively (
+
+The improved correlation between “New translation rate” and (A) protein expression and (B) protein expression per mRNA.
+
+From the analysis in the previous section, 11 sequential features were used to train the SVR model, including new translation rate (New_TR), positions of the gene at the beginning or in the operon (Type); the appearance and relative position of the codon AUG before the open reading template (uAUG); codon usage (CAI) and tRNA usage (tAI); Type of start codon (Start) and Type of end codon (Stop); sequence length (Length); the half-life of the protein was based on the N-terminal (N-terminal) and the protein instability index (Instability); and the folding energy ranges from +1 to +30 (+1 to +30).
+
+New_TR is the original feature to combine with other features because this was a feature that could generalize both the initiation rate and the elongation rate at the translation level, and the goal of our research was to improve the translation rate from the Transim model.
+
+After training the model with New_TR and each remaining feature separately, we evaluated the Spearman correlation of the prediction results on the test set with the outputs PA/mRNA and PA.
+
+Performance of SVR when predicting (A) protein expression and (B) protein expression per mRNA while integrating every single feature.
+
+The study combined 2 to 10 features for the new translation rate prediction model, and the best-performed combination to predict PA and PA/mRNA is presented in
+
+The best Spearman correlation when combining from 0 to 10 sequential features to the model to predict A. PA/mRNA and B. PA.
+
+With the output as PA/mRNA, combining six features: folding energy of +1 to +30 region, N-terminal Half-life of protein, Start, Stop, Length, and Type gave the best correlation, reaching R = 0.6260 and improving the model’s prediction by 0.82% (
+
+Then, to compare with the Transim model, the study used two models for the best correlation on the test set for two outputs, PA/mRNA and PA, to predict all 1660 samples. The results showed that the Spearman coefficient of both cases increased sharply compared to the results on the test set, reaching a correlation of RPA/mRNA = 0.6660 and RPA = 0.6729, respectively. The model, however, only improved by 1.9% with PA/mRNA output and 0.5% with PA output (RPA/mRNA increased by 0.0124 and RPA increased by 0.0030) when incorporating more features compared with the original New_TR. It is still about 55% better than the 2018 study by Tuller et al. (RPA/mRNA increased by 0.2344 and RPA increased by 0.2398), although also based on the input of initiation rate. The initiation and elongation rates were calculated using the Transim model. At the same time, the influence of codon choices, the sequence length, and especially the gene’s position in the operon (which appears in all the best combinations) on translation levels were highlighted in this model.
+
+In order to build a model capable of predicting the protein expression of
+
+Next, the mRNA sequences can be used to obtain 13 features, including the position of the gene at the beginning or in the operon; the appearance and relative position of the codon AUG before the open reading template (uAUG); CAI and tAI indexes; type of start codon and type of stop codon; sequence length; half-life of protein that based on N-terminal and protein instability index, folding energy region from +1 to +30 (+1 to +30), initiation rate, elongation rate, and translation rate from Transim. Then, our research evaluated the correlation of each of these features with the amount of PA/mRNA and found that the correlation of translation rate from Transim had a lower Spearman coefficient (R = 0.4316) than that of the elongation rate (R = 0.6538), even if it was a combination of the initiation rate (R = 0.1350) and the elongation rate. Therefore, our research has calculated the new translation rate (New_TR) using six supervised machine learning models with the same input as the initiation and elongation rates calculated by the Transim model. As a result, with output PA and PA/mRNA and considering the test set, Lasso was the best model for correlation with PA/mRNA (RPA/mRNA = 0.6194), and SVR gave the best correlation with PA (R = 0.6392). When considering the whole mRNA sequence, SVR gave the best predictive ability with both PA and PA/mRNA outputs, reaching Spearman correlation coefficients of RPA = 0.6699 and RPA/mRNA = 0.6536, respectively. Since it showed the ability to give New_TR with better correlation than the remaining models in 3/4 of the cases, SVR was considered the appropriate algorithm to build the expression prediction model. In addition, the original goal of using the amount of protein expressed per mRNA as an evaluation criterion was that the authors who built the Transim model wanted to negate the impact of mRNA-dependent regulatory factors [
+
+In summary, our model improved the accuracy in predicting gene expression in
+
+The dataset used here was based on the publication paper of the Transim model (Tuller et al., 2018).
+
+(TIF)
+
+Click here for additional data file.
+
+From A to D, the Spearman’s rank coefficient between PA/mRNA and folding energies in the -30 to +30, -15 to +15, -30 to +1, and +30 to +1 regions of the mRNAs. The sequential data here were the same for each analysis, which was 33% less than the total dataset, and hence the difference in Spearman’s coefficient of +1 to +30 folding to PA/mRNA level.
+
+(TIF)
+
+Click here for additional data file.
+
+The first column on the left showed the nucleotide frequency for the first genes in the operons, while the second column on the right showed the frequency from subsequent genes in the operons. The putative Shine-Dalgarno regions were noted in bold, while the color indicated occurrence percentage, with red cells being more used nucleotides and blue cells being less commonly used nucleotides.
+
+(DOCX)
+
+Click here for additional data file.
+
+(DOCX)
+
+Click here for additional data file.
+
+(RAR)
+
+Click here for additional data file.
+
+This paper was transferred from another journal. As a result, its full editorial history (including decision letters, peer reviews and author responses) may not be present.
+
+
+
+PONE-D-23-08391Analyzing the correlation between protein expression and sequence-related features of mRNA and protein in Escherichia coli K-12 MG1655 model
+
+Correlation between protein expression and sequential featuresPLOS ONE
+
+Dear Dr. Nguyen,
+
+Thank you for submitting your manuscript to PLOS ONE. After careful consideration, we feel that it has merit but does not fully meet PLOS ONE’s publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process.
+
+Please submit your revised manuscript by Jun 12 2023 11:59PM. If you will need more time than this to complete your revisions, please reply to this message or contact the journal office at
+
+Please include the following items when submitting your revised manuscript:
+
+A rebuttal letter that responds to each point raised by the academic editor and reviewer(s). You should upload this letter as a separate file labeled 'Response to Reviewers'.
+
+A marked-up copy of your manuscript that highlights changes made to the original version. You should upload this as a separate file labeled 'Revised Manuscript with Track Changes'.
+
+An unmarked version of your revised paper without tracked changes. You should upload this as a separate file labeled 'Manuscript'.
+
+If applicable, we recommend that you deposit your laboratory protocols in protocols.io to enhance the reproducibility of your results. Protocols.io assigns your protocol its own identifier (DOI) so that it can be cited independently in the future. For instructions see:
+
+We look forward to receiving your revised manuscript.
+
+Kind regards,
+
+Asma Haque, Ph. D
+
+Academic Editor
+
+PLOS ONE
+
+Journal Requirements:
+
+When submitting your revision, we need you to address these additional requirements.
+
+1. Please ensure that your manuscript meets PLOS ONE's style requirements, including those for file naming. The PLOS ONE style templates can be found at
+
+
+
+2. We note that you have stated that you will provide repository information for your data at acceptance. Should your manuscript be accepted for publication, we will hold it until you provide the relevant accession numbers or DOIs necessary to access your data. If you wish to make changes to your Data Availability statement, please describe these changes in your cover letter and we will update your Data Availability statement to reflect the information you provide.
+
+3. Please upload a copy of all Figures, to which you refer in your manuscript or PDF file. If the figure is no longer to be included as part of the submission please remove all reference to it within the text.
+
+4. Please upload a copy of Supporting Information Figure/Table/etc. S1 Figure, S2 Figure, S1 Table and S2 Table which you refer to in your text on pages 14 and 15.
+
+5. Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+Reviewers' comments:
+
+Reviewer's Responses to Questions
+
+
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+**********
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+**********
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+**********
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+**********
+
+5. Review Comments to the Author
+
+Reviewer #1: Title
+
+The title provides a clear and concise summary of the topic and scope of the study. It effectively communicates the main focus of the research, which is to investigate the correlation between protein expression and sequence-related features of mRNA and protein in Escherichia coli K-12 MG1655 model. The title also specifies the organism and model used in the study, which adds to its specificity and relevance. Overall, the title is well-written and effectively conveys the main topic and scope of the research.
+
+Material and Method
+
+Workflow
+
+In work flow section "While simultaneously used" should be changed to "while also being used" or "while being used simultaneously."
+
+Expression data
+
+"Taniguchi et al." should be referred to as [11].
+
+Calculating translating rate
+
+It might be helpful to provide additional context or information to fully understand the significance of calculating the initiation rate, elongation rate, and translation rate using the Transim model.
+
+Discussion
+
+Then, our research evaluated the correlation of each of these features with the amount of PA/mRNA and found that the correlation of translation rate from Transim had a lower Spearman coefficient (R=0.4316) coefficient of the elongation rate (R=0.6538)," the word "coefficient" is repeated unnecessarily.
+
+When considering the whole mRNA sequence, SVR gave the best predictive ability with both PA and PA/mRNA outputs, reaching Spearman coefficients of RPA=0.6699 and RPA/mRNA=0.6536, respectively," the term "Spearman coefficients" should be replaced with "Spearman correlation coefficients”.
+
+“the term "New_TR" is undefined and should be explained earlier in the paragraph.
+
+------------------------------------
+
+Reviewer #2: The study presented by the authors is interesting, but the manuscript requires major revisions to improve the precision and simplicity of the sentences. The authors should replace non-scientific language such as "popular" and "great" with appropriate scientific terms. Additionally, the authors should be consistent in their use of algorithm or method names.
+
+Introduction:
+
+The introduction should include references to previous studies to provide relevant literature. The authors should also provide more details about the Gilad Shahman and Tamir Tuller model. In the last paragraph of the introduction, the authors should clearly mention the objects and results and explain the novelty of their work.
+
+In the sentence "The expression of recombinant protein from the microbial host strains can be considered a great step forward in microbiology," the word "great" should be replaced with a more appropriate word.
+
+The sentence "However, there still has not been a convenient optimization method or tools that could" should use the plural form "methods" instead of "method." The word "convenient" should be clarified to reflect its meaning.
+
+The sentence "However, the model's translation rate did not have a sufficient Spearman's rank correlation with protein level (reported to be up to 0,36)" should use a decimal point instead of a comma to represent the correlation coefficient, i.e., "0.36."
+
+Material and methods:
+
+The material and methods section requires serious rearrangement and more details about the data and methods. The authors should describe the dataset before the workflow to enable readers to understand the algorithms' application on the data.
+
+The sentence "The CDS sequences of every gene in E. coli were retrieved from Gene_sequence.txt from the Regulon database" should explain why the Regulon database was preferred over Genbank, provide a reference for the database, and indicate the number of sequences retrieved.
+
+The authors should provide a reference for the Ecocyc database and explain why it was chosen.
+
+The authors collected sequence and expression data from two different resources, and they should clarify the experimental conditions under which the gene expression data was collected. The authors should also acknowledge that their conclusion/finding might be limited to the conditions under which the gene expression data was generated.
+
+The authors should justify their decision to use microarray data instead of bulk RNA seq datasets. Additionally, the authors should indicate whether they used any evaluation measures when generating features and the validation measures used for machine learning models.
+
+In the sentence "Then, the capabilities of typical machine learning algorithms, including Linear Regression (LR), Ridge, Lasso, Elastic net, Random Forest (RF), and Support vector regression (SVR)," the authors should use the same abbreviation pattern throughout the manuscript.
+
+Results:
+
+Although the results are reasonably organized and structured, the technical shortcomings in the methodology could largely affect the results.
+
+I hope these suggestion will help to improve your research contribution. Looking forward to your revisions.
+
+**********
+
+6. PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+**********
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+While revising your submission, please upload your figure files to the Preflight Analysis and Conversion Engine (PACE) digital diagnostic tool,
+
+
+
+Jun 12 2023 11:59PM
+
+Comments to the Author
+
+1. Is the manuscript technically sound, and do the data support the conclusions?
+
+The manuscript must describe a technically sound piece of scientific research with data that supports the conclusions. Experiments must have been conducted rigorously, with appropriate controls, replication, and sample sizes. The conclusions must be drawn appropriately based on the data presented.
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+________________________________________
+
+2. Has the statistical analysis been performed appropriately and rigorously?
+
+Reviewer #1: Yes
+
+Reviewer #2: No
+
+________________________________________
+
+3. Have the authors made all data underlying the findings in their manuscript fully available?
+
+The PLOS Data policy requires authors to make all data underlying the findings described in their manuscript fully available without restriction, with rare exception (please refer to the Data Availability Statement in the manuscript PDF file). The data should be provided as part of the manuscript or its supporting information, or deposited to a public repository. For example, in addition to summary statistics, the data points behind means, medians and variance measures should be available. If there are restrictions on publicly sharing data—e.g. participant privacy or use of data from a third party—those must be specified.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+________________________________________
+
+4. Is the manuscript presented in an intelligible fashion and written in standard English?
+
+PLOS ONE does not copyedit accepted manuscripts, so the language in submitted articles must be clear, correct, and unambiguous. Any typographical or grammatical errors should be corrected at revision, so please note any specific errors here.
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+________________________________________
+
+5. Review Comments to the Author
+
+Reviewer #1: Title
+
+The title provides a clear and concise summary of the topic and scope of the study. It effectively communicates the focus of the research, which is to investigate the correlation between protein expression and sequence-related features of mRNA and protein in Escherichia coli K-12 MG1655 model. The title also specifies the organism and model used in the study, which adds to its specificity and relevance. Overall, the title is well-written and effectively conveys the main topic and scope of the research.
+
+Material and Method
+
+Workflow
+
+In work flow section "While simultaneously used" should be changed to "while also being used" or "while being used simultaneously."
+
+Response: Thank you for your correction, we have fixed the issue.
+
+Expression data
+
+"Taniguchi et al." should be referred to as [11].
+
+Response: Thank you for your correction, we have fixed the issue.
+
+Calculating translating rate
+
+It might be helpful to provide additional context or information to fully understand the significance of calculating the initiation rate, elongation rate, and translation rate using the Transim model.
+
+Response: Thank you for your constructive and helpful suggestion. To elaborate the context of calculating translating-reated rates, we have include an explanation: “First, initiation rate, elongation rate, and translation rate were calculated by the Transim model, with a text file consisting of names, mRNA sequences (UTR+CDS), and start site positions, using the recommended format of Transim. Sequences with the RBS too short for the model to calculate the initiation rate were discarded in the final file. Initiation rate and elongation rate data will then be used as the basis input of machine learning models for calculating a new translation rate with higher correlation to the expression level compared to the original Transim’s translation rate.”
+
+Discussion
+
+Then, our research evaluated the correlation of each of these features with the amount of PA/mRNA and found that the correlation of translation rate from Transim had a lower Spearman coefficient (R=0.4316) coefficient of the elongation rate (R=0.6538), the word "coefficient" is repeated unnecessarily.
+
+Response: Thank you, we have corrected the issue.
+
+When considering the whole mRNA sequence, SVR gave the best predictive ability with both PA and PA/mRNA outputs, reaching Spearman coefficients of RPA=0.6699 and RPA/mRNA=0.6536, respectively," the term "Spearman coefficients" should be replaced with "Spearman correlation coefficients”.
+
+Response: Thank you, we have corrected the issue.
+
+“the term "New_TR" is undefined and should be explained earlier in the paragraph.
+
+Response: Thank you for your constructive and helpful suggestion. To clarify the term “New_TR”, we added an explanation in the introduction: the first objective is applying machine learning methods to calculate a new translation rate parameter from Transim’s initiation and elongation rate on different E. coli genes (termed “New_TR”), aiming to improve the original “Transim translation rate”.
+
+------------------------------------
+
+Reviewer #2: The study presented by the authors is interesting, but the manuscript requires major revisions to improve the precision and simplicity of the sentences. The authors should replace non-scientific language such as "popular" and "great" with appropriate scientific terms. Additionally, the authors should be consistent in their use of algorithm or method names.
+
+Response: Thank you for your suggestion. Based on that, we have changed “popular machine learning models” to “traditional machine learning models”, “popular microbial host” to “extensively used microbial host”, “a great step forward” to “a major step”
+
+Introduction:
+
+The introduction should include references to previous studies to provide relevant literature. The authors should also provide more details about the Gilad Shahman and Tamir Tuller model. In the last paragraph of the introduction, the authors should clearly mention the objects and results and explain the novelty of their work.
+
+Response: Thank you for your constructive comments. In order to state the novelty of this research, we have included the statement: “From our knowledge, there has not been a machine learning-based model integrating both translating rate-related features (based on Transim), codon types, and protein stability-related features.”
+
+For the clarification of Gilad Shahman and Tamir Tuller model, we have provided the elaboration “Specifically, the model consists of three calculation step: (1) calculate the translation initiation rate: as the rate at which the ribosome approaches the start codon, this initiation rate is calculated based on mRNA’s interaction with ribosomal RNA; (2) Calculation of translation elongation rate: based on the translation speed of each codon from the ribosomal profiling data to estimate the elongation rate on all codons of a gene; (3) Using the TASEP algorithm with high resolution to simulate the translation using the starting and elongation rates calculated in steps (1) and (2). TASEP provides the ability to predict translation rate, ribosome density, amount of translation termination, and the occurrence of ribosomal jamming. However, the Spearman’s coefficient correlation from this model’s output with the “true” protein abundance was only 0.36 [2].”
+
+In the sentence "The expression of recombinant protein from the microbial host strains can be considered a great step forward in microbiology," the word "great" should be replaced with a more appropriate word.
+
+Response: Thank you for the comment. We have changed it from “great” to “major”.
+
+The sentence "However, there still has not been a convenient optimization method or tools that could" should use the plural form "methods" instead of "method." The word "convenient" should be clarified to reflect its meaning.
+
+Response: Thank you for the comment. We have used a clearer word “ease-of-use” to replace “convenient”
+
+The sentence "However, the model's translation rate did not have a sufficient Spearman's rank correlation with protein level (reported to be up to 0,36)" should use a decimal point instead of a comma to represent the correlation coefficient, i.e., "0.36."
+
+Response: Thank you, we have corrected the error.
+
+Material and methods:
+
+The material and methods section requires serious rearrangement and more details about the data and methods. The authors should describe the dataset before the workflow to enable readers to understand the algorithms' application on the data.
+
+Response: To clarify the microarray dataset, we have described the process of collecting said data: “We processed this data by keeping only the expression profiles of wild-type E. coli MG1655(WT) and removed all the rest containing the mutant strain profiles. For each profile (equivalent to one culture condition), we calculated the mean value of all the replicates. The mean values of all conditions will then be normalized by the quantile normalization method using preprocessCore library in R programming language. Finally, the topic will obtain the mean value (mean) of each gene calculated from all microarray experiments, called mRNA expression data from microarray experiment (referred to as mRNAmicroarray).”
+
+The sentence "The CDS sequences of every gene in E. coli were retrieved from Gene_sequence.txt from the Regulon database" should explain why the Regulon database was preferred over Genbank, provide a reference for the database, and indicate the number of sequences retrieved.
+
+Response: Thanks for the kind and specific response. We have included the explanation in the Material and methods session: “This is a primary database focusing on E. coli transcriptional regulation, which would ensure the validity and the specificity of the data, compared to general sequence databases such as Genbank [16]”
+
+The authors should provide a reference for the Ecocyc database and explain why it was chosen.
+
+Response: Thanks for the review, we have provided the explanation “Ecocyc database was chosen as it is a manually curated biological database dedicated to E. coli K-12 that has its data synchronized to RegulonDB. Therefore, it is feasible to combine sequential information from the two databases [15].”
+
+The authors collected sequence and expression data from two different resources, and they should clarify the experimental conditions under which the gene expression data was collected. The authors should also acknowledge that their conclusion/finding might be limited to the conditions under which the gene expression data was generated.
+
+Response: Thank you for the suggestion, we have provided an acknowledgement on the shortcoming of our research data. About the experimental condition, we have added the information accordingly “Wild-type E. coli was grown on M9 glucose medium (2 g1-1) under aerobic and anaerobic conditions for gene profiling experiments and the measurements were done in triplicate. We processed this data by keeping only the expression profiles of wild-type E. coli MG1655 (WT) and removed all the rest containing the mutant strain profiles. For each profile (equivalent to one culture condition), we calculated the mean value of all the replicates [23].”
+
+The authors should justify their decision to use microarray data instead of bulk RNA seq datasets. Additionally, the authors should indicate whether they used any evaluation measures when generating features and the validation measures used for machine learning models.
+
+Response: Thank you for your comment. To clarify the reason behind using microarray data, we have added the explanation: “Microarray has been used as a method to measure mRNA abundance on a genome scale, and thus could be used as an alternative for RNAseq, especially since only protein transcripts were examined in this research.”
+
+For translating-related features, we calculated using the Transim model, and the results were checked for their correlation with protein abundance and protein abundance per mRNA. There were sequences discarded due to not having RBS motifs for calculation of initiation rates.
+
+For measures to evaluate features, we have provided the context of choosing uAUG based on the position of the ORF: “in-frame (corresponding to the ORF), out of frame, and no uAUG found in the 10-base upstream of the start codon in each mRNA sequence”.
+
+In the sentence "Then, the capabilities of typical machine learning algorithms, including Linear Regression (LR), Ridge, Lasso, Elastic net, Random Forest (RF), and Support vector regression (SVR)," the authors should use the same abbreviation pattern throughout the manuscript.
+
+Response: We have fixed the inconsistency in using abbreviation.
+
+Results:
+
+Although the results are reasonably organized and structured, the technical shortcomings in the methodology could largely affect the results.
+
+I hope these suggestion will help to improve your research contribution. Looking forward to your revisions.
+
+________________________________________
+
+6. PLOS authors have the option to publish the peer review history of their article (what does this mean?). If published, this will include your full peer review and any attached files.
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Do you want your identity to be public for this peer review? For information about this choice, including consent withdrawal, please see our Privacy Policy.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+Submitted filename:
+
+Click here for additional data file.
+
+
+
+Analyzing the correlation between protein expression and sequence-related features of mRNA and protein in Escherichia coli K-12 MG1655 model
+
+Correlation between protein expression and sequential features
+
+PONE-D-23-08391R1
+
+Dear Dr. Nguyen ,
+
+We’re pleased to inform you that your manuscript has been judged scientifically suitable for publication and will be formally accepted for publication once it meets all outstanding technical requirements.
+
+Within one week, you’ll receive an e-mail detailing the required amendments. When these have been addressed, you’ll receive a formal acceptance letter and your manuscript will be scheduled for publication.
+
+An invoice for payment will follow shortly after the formal acceptance. To ensure an efficient process, please log into Editorial Manager at
+
+If your institution or institutions have a press office, please notify them about your upcoming paper to help maximize its impact. If they’ll be preparing press materials, please inform our press team as soon as possible -- no later than 48 hours after receiving the formal acceptance. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information, please contact
+
+Kind regards,
+
+Asma Haque, Ph. D
+
+Academic Editor
+
+PLOS ONE
+
+Additional Editor Comments (optional):
+
+Reviewers' comments:
+
+
+
+PONE-D-23-08391R1
+
+Analyzing the correlation between protein expression and sequence-related features of mRNA and protein in
+
+Dear Dr. Nguyen:
+
+I'm pleased to inform you that your manuscript has been deemed suitable for publication in PLOS ONE. Congratulations! Your manuscript is now with our production department.
+
+If your institution or institutions have a press office, please let them know about your upcoming paper now to help maximize its impact. If they'll be preparing press materials, please inform our press team within the next 48 hours. Your manuscript will remain under strict press embargo until 2 pm Eastern Time on the date of publication. For more information please contact
+
+If we can help with anything else, please email us at
+
+Thank you for submitting your work to PLOS ONE and supporting open access.
+
+Kind regards,
+
+PLOS ONE Editorial Office Staff
+
+on behalf of
+
+Dr. Asma Haque
+
+Academic Editor
+
+PLOS ONE

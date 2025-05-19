@@ -1,0 +1,351 @@
+According to the World Health Organization (WHO), more than 10,000 diseases have emerged with unique characteristics, causes, and symptoms [
+
+Among the four major disease categories, infectious and non-communicable diseases have a wider range of treatment possibilities. These options encompass traditional medications and cutting-edge therapies, including Proteolysis Targeting Chimeras (PROTACs) and RNA-based approaches [
+
+Following the need of a more effective treatment for genetic diseases, Doudna et al. [
+
+Adaptation of CRISPR system for DNA editing. In the very first step, target regions are identified with the selection of an appropriate CRISPR system. Afterward, CRISPR, trans-activating, and gRNA are designed to help Cas proteins cleave at the desired site. The complete complex is then delivered inside the cell with the help of a vector (virus)
+
+Figure
+
+Notably, all these tasks are usually performed through wet-lab experiments that are expensive, time-consuming, and error-prone. Following the success of artificial intelligence (AI) in diverse fields and with an aim for transitioning from wet-lab to AI-driven applications for CRISPR-based therapies development, researchers are trying to develop AI-driven applications for all 10 tasks [
+
+With an aim to bridge the gap between both fields and provide a unique platform encompassing biological foundations and AI advancements related to all 10 tasks, the contributions of this manuscript are manifold. 1) First, it equips AI researchers with biological foundations of 10 distinct tasks of CRISPR. 2) It presents details of the existing 80 public datasets related to 10 distinct tasks and provides overview of 10 public CRISPR databases for the development of new datasets. 5) In the context of all 10 tasks, it provides an in-depth analysis of the representation learning methods and classifiers/regressors employed in the existing AI predictors. 6) It discusses experimental settings and evaluation strategies utilized to evaluate existing AI-driven applications across 10 distinct tasks. 7) Finally, it provides performance values of 50 predictive pipelines across 80 public benchmark datasets of 10 distinct tasks. AI researchers can utilize this information to find predictors’ architectural details and current state-of-the-art performance values of predictors for each task.
+
+AI researchers often lack a deep understanding of the biological foundations of CRISPR and generally show little interest in the development of AI-driven CRISPR applications. In addition, the alignment of CRISPR tasks with AI paradigms may require extensive effort for understanding CRISPR tasks background knowledge. However, AI researchers can be facilitated by aligning CRISPR tasks with their familiar AI paradigms-such as binary classification, multi-class classification, or regression. In this context, we aligned 10 different CRISPR-related tasks from an AI perspective with their associated AI paradigms. Figure
+
+Categorization of CRISPR related applications/tasks
+
+Figure
+
+To enhance the integration of AI approaches into CRISPR, 13 distinct review articles have been published in the last four years. The primary focus of these articles is to summarise insights of existing AI predictors that have been developed to empower CRISPR. Table 1 provides a comparative overview of these reviews, including the number of research articles they covered, their overall scope, and limitations.
+
+A high-level analysis of the scope of 13 existing review articles in Table
+
+Leveraging insights from Fig.
+
+The overall objective of existing review papers was to consolidate AI predictors related to all tasks of CRISPR into a single platform. Additionally, these review papers attempted to bridge the gap between AI researchers and the complex biology associated with the various facets of CRISPR. However, there are two significant problems with the existing review papers. First, none of the review papers provide a complete and comprehensive picture of all CRISPR-related tasks. Secondly, these reviews inadequately capture the current landscape of datasets, feature extraction methods, and ML and DL models across various CRISPR tasks. Consequently, the bridge between AI and CRISPR remains incomplete due to the limitations of the current literature. For example, Wang et al. [
+
+Components of AI predictive pipelines for CRISPR tasks involve several key steps. Initially, datasets are generated from publicly available databases. These sequences are then transformed into numerical vectors using statistical methods, one-hot encoding (OHE), or embedding techniques. The resulting datasets are divided into training and testing sets through cross-validation or independent testing. Subsequently, AI predictors are trained and tested, with evaluation scores calculated to determine their predictive performance
+
+
+
+CRISPR and Machine Learning/Deep Learning related reviews
+
+This section explains different stages of preferred reporting items for systematic review and meta-analysis (PRISMA) strategy [
+
+Figure
+
+With an aim to retain papers related to CRISPR-Cas, title, and abstract-based screenings are carried based on following criteria:
+
+Studies, that make use of ML or DL techniques.
+
+Studies exclusively focus on CRISPR problems.
+
+Studies with open access.
+
+This figure depicts the workflow of searching and screening articles, with ’n’ representing the number of papers at each stage
+
+
+
+Problem distribution of reviewed papers
+
+This section provides a concise overview of 10 distinct CRISPR tasks. These tasks encompass on/off-target activity prediction, acr proteins prediction, gene editing outcome prediction, CRISPR arrays analysis, acr associated proteins prediction, and Cas proteins identification. Additionally, it presents sample statistics and details of various public benchmark datasets pertinent to each task, facilitating the development of innovative AI tools. This section also discusses the distribution of AI predictors for each task and the types of datasets utilized in their experimental setups.
+
+CRISPR originates from bacteria and develops inside the bacterial genome as a defense mechanism through past encounters with the foreign genetic material of viruses or plasmids [
+
+The foundation of CRISPR system is based on a CRISPR array, consisting of three essential components: a leader sequence, repeats, and spacers [
+
+Viral DNA is integrated into the bacterial genome, forming spacers. tracrRNAs guide Cas9 to process and mature crRNAs. Cas9, directed by crRNAs, cleaves viral DNA upon reinfection, preventing further infection. (Image created using Biorender.com)
+
+The purpose of this section is to summarise the distribution of AI predictors across 10 different CRISPR tasks. Predictor distribution analysis under individual tasks offers insights into the most active CRISPR tasks. This consolidated distribution provides a centralized platform for researchers to access valuable information about their area of interest.
+
+Table
+
+Among 10 distinct CRISPR tasks, the prediction of on/off-target activity and acr proteins emerge as prominent trends in current CRISPR research [
+
+Cas and CRISPR arrays prediction [
+
+Benchmark datasets for CRISPR arrays prediction
+
+Figure
+
+The arrangement of CRISPR loci and CRISPR arrays. (Image created using Biorender.com)
+
+Table
+
+The CRISPR locus consists of the CRISPR array and the Cas genes that form an operon as shown in Fig.
+
+Nethery et al. [
+
+Russel et al. [
+
+The CRISPR-associated protein has the purpose of cleaving at the DNA target site. Over the years different Cas proteins have been discovered and designing a CRISPR/Cas system with specific Cas proteins aids in the precise performance of the cleavage [
+
+Yang et al. [
+
+Viral genome contains information about various acr proteins. Once translated, these proteins can interact with Cas complexes and inhibit them from cleaving the viral genome. (Image created using Biorender.com)
+
+Anti-CRISPR (acr) proteins act against the CRISPR mechanism. Figure
+
+Benchmark Datasets for ACR protein prediction
+
+Anti-CRISPRdb [
+
+Table
+
+Etzinger et al. [
+
+Zhu et al., [
+
+Wang et al. [
+
+Benchmark datasets for acr-Cas protein interaction prediction
+
+Table
+
+Murmu et al. [
+
+In the CRISPR gene editing process, the single guide RNA (sgRNA) directs the Cas9 protein to the precise location for the intended genetic modification as shown in Fig.
+
+3 different types of off-target effects. A) corresponds to the normal gene editing process. B) refers to the bulge of RNA, C) shows the mismatch case, where the target is not fully recognized and a cleavage is made at the wrong location, and D) a bulge of the DNA
+
+Off target activity datasets
+
+HEK293T
+
+K562V
+
+U2OS
+
+
+
+Off target activity datasets
+
+A375
+
+BV2
+
+HT29
+
+EGFP
+
+U2OS
+
+HCT116
+
+HEK293T
+
+HL60
+
+Kbm7
+
+K562
+
+U2OS
+
+Table
+
+Lin et al. [
+
+6 independent gRNA-target pairs based off-target activity datasets do not incorporate mismatches and indels together, but rather focus on only mismatches i.e., II/1
+
+From the pool of the studies selected for the review in this paper, multiple datasets have been utilized for off-target activity prediction. Störtz et al. [
+
+Toukifuzzaman et al. [
+
+Neu et al. [
+
+When Guide RNA along with CRISPR system is directed for a specific DNA sequence, the Cas9 protein induces double-stranded breaks at that specific genomic location. Subsequently, these breaks are repaired by the cell’s DNA repair mechanisms such as non-homologous end joining (NHEJ) and homology-directed repair (HDR) [
+
+In the era of CRISPR, numerous datasets have emerged to assess on-target activity that stem from various origins such as in vitro experiments, or in vivo studies. This diversity underscores the necessity for novel algorithms to benchmark against these datasets. Considering a similar notion, researchers have recently endeavored to gather disparate on-target activity datasets onto a unified platform. For instance, Haeussler et al., [
+
+On-target activity datasets based on U6 and T7 promoters and bacteria
+
+These datasets are available under following repositories
+
+Counts of train and test samples for each CRISPR variant
+
+Samples statistics of protospacer and PAM combinations for on-target activity
+
+Datasets with ’*’ are reported in earlier tables as well
+
+As the CRISPR field is burgeoning, a steady stream of new datasets continues to emerge regarding CRISPR’s on-target activity. For instance, Wang et al. [
+
+Kim et al., [
+
+As the influx of datasets continues to grow, researchers endeavor to establish a consensus by proposing various categorizations of datasets. For instance, Zhang et al. [
+
+On-target activity prediction datasets for epigenome editing
+
+Like gRNA’s role in gene editing, it also exhibits activity in epigenome editing as shown in Fig.
+
+The effects of epigenetic modifications and the potential for reversal using dCas9. The top part shows that epigenetic modifications can cause gene repression. The bottom part demonstrates how dCas9 can be used to perform epigenetic editing to reverse these modifications, leading to gene activation. (Image created using Biorender.com)
+
+Number of sequences with high and low on-target activities for the four crops. These datasets can be downloaded from
+
+Niu et al. [
+
+Overall, 27–39 unique CRISPR on-target datasets can be considered to design and benchmark novel on-target activity prediction tools/applications based on the problem setting. Inside each dataset, a sample contains nucleotide PAM sequence along with a numerical on-target activity value.
+
+Over the past three years, 6 different studies have been conducted to enhance the accuracy of on-target activity predictions. Each study utilizes a specific set of datasets to train and evaluate the performance of ML and DL models. For instance, Xiao et al. [
+
+Dimauro et al. [
+
+Previous studies have shown that PAM-distal region has a high tolerance for sequence mismatches (Kim et al., 2016; Kleinstiver et al., 2016). To be specific, gRNAs with two mismatches in the first two positions from the 5’ end has little influence on cleavage efficiency (Doench et al., 2014; Doench et al., 2016). Inspired by these studies, Chuai et al. applied a data augmentation procedure by changing each gRNA into a new one with two mismatches in the PAM distal region (Chuai et al., 2018). Consequently, a 23-nt gRNA sequence can be expanded into 16 gRNAs with identical cleavage efficacy. The augmented dataset was generated from  15,000 gRNAs with known on-target cleavage efficacy. By adopting this data augmentation strategy, they obtained 180,512 non-redundant gRNAs. Each observation in the data contains a 23-nt gRNA sequence and its corresponding cleavage efficiency. In this work, we used this augmented dataset as the benchmark data for model selection and pre-training.
+
+Ham et al. [
+
+Noshay et al. [
+
+Sample statistics of benchmark datasets for gene editing outcome prediction
+
+9 types statistics of the
+
+repair outcomes
+
+such as average
+
+insertion length.
+
+K562, RPE1,
+
+iPSC, CHO, HAP1,
+
+mESCs
+
+Upon locating the target site and inducing a double-stranded break, the cell’s DNA repair mechanisms are activated (Fig.
+
+DNA cleavage is repaired by two different pathways i.e., NHEJ and HDJ. NHEJ repairs DNA breaks by directly joining the broken ends, often resulting in small insertions or deletions. HDR uses a homologous sequence as a template to accurately repair DNA breaks which ensures high-fidelity restoration. (Image created using Biorender.com)
+
+Upon completion of the repair process, various disease-related mutations may occur, including insertions, deletions, frameshifts, inversions, translocations, and point mutations. This field encompasses predicting gene editing outcomes [
+
+A handful number of approximately 5 tools for gene editing outcome prediction tools have been developed till now, out of which 3 proposed novel benchmark datasets. For instance, Shen et al. [
+
+The acr-associated (aca) protein can be described as a defense mechanism of the bacterial cell against acr proteins [
+
+While the genomic locations of acr proteins are diverse, they often coexist near the gene loci of aca-proteins. Their genes oftentimes form an operon with the genes encoding for acr proteins [
+
+Although Yang et al. [
+
+While tasks like on-target and off-target effects, anti-CRISPR (Acr) proteins, and CRISPR arrays have garnered significant attention, there are other topics within the CRISPR research landscape that remain less explored. These tasks include CRISPR-Cas system identification, and crRNA classification. These topics have been covered in detailed earlier, therefore, hereby we only discuss their relevant datasets.
+
+[
+
+[
+
+A pool of CRISPR related databases
+
+This section provides an overview of databases that can be used to develop novel CRISPR-related benchmark datasets. Additionally, it entails the types and quantities of data available in 17 different databases which can help researchers to identify valuable resources for compiling comprehensive and diverse datasets necessary for effective CRISPR research.
+
+The rapid advancements in CRISPR technology have generated a vast amount of data, leading to the creation of numerous databases. Table
+
+Databases such as CRISPRBank [
+
+Databases such as AcrHub [
+
+The CasPDB [
+
+Databases such as crisprSQL [
+
+In conclusion, the diverse and extensive CRISPR-related databases provide a rich source of data for the development of novel benchmark datasets. These datasets can significantly advance AI tools in CRISPR research, improving the understanding and application of CRISPR technology. By leveraging these opportunities, researchers can enhance the accuracy, functionality, and safety of CRISPR-based applications, driving forward the fields of genetics and biotechnology.
+
+Features and feature engineering methods used in the reviewed papers
+
+This section provides an overview of the most commonly utilized feature extraction methods. First, we categorize these feature extraction methods into groups and then explore their distribution across 10 different CRISPR tasks.
+
+Table
+
+A deeper analysis of Table
+
+In acr proteins and their activity prediction, protein-based features like pre-trained models (e.g., ESM), secondary structure features, and dipeptide compositions are vital for understanding protein structure and function, which is key for predicting acr proteins and their activity. Evolutionary features such as position-specific scoring matrices provide insights into conserved sequences and structural stability, enhancing Acr protein prediction accuracy. For gene editing outcomes prediction, structural and physicochemical properties like insertion/deletion frequencies and MH length/GC fraction are essential because they directly influence the types and frequencies of CRISPR edits. Embeddings and learned representations, such as GloVe and positional embeddings, capture contextual and positional information, improving editing outcome predictions. In CRISPR array prediction, sequence-based and miscellaneous features like repeat length, spacer similarity, and AT richness are important as they are specific to the structure and composition of CRISPR arrays, aiding in their identification and classification. For CRISPR Loci, sequence-based and structural features like k-mer counts and palindromic index help characterize the loci where CRISPR systems are integrated, facilitating their identification. In Cas Proteins, protein-based features such as di-peptide composition, amino acid composition, and advanced methods like adaptive skip dipeptide composition (ASDC) and quasi-sequence order (QSO) are crucial for capturing detailed information about protein sequences and structures, essential for predicting Cas protein functions. Overall, sequence-based features and protein-based features are fundamental across multiple tasks, while epigenetic and genomic features are vital for on/off target activity, and structural properties are crucial for acr protein prediction, demonstrating the importance of capturing diverse biological patterns for accurate CRISPR-related predictions.
+
+Though the mentioned and general DL approaches gain more and more popularity, the feature extraction procedure remains a black box for researchers using these approaches in genomics, leading to a lack of interpretability of models [
+
+This section presents insights into distinct types of classifiers and regressors that have been utilized to develop AI-driven applications for 10 distinct CRISPR tasks. It thoroughly examines emerging trends of classifiers and regressors across distinct CRISPR tasks.
+
+Table
+
+Overall count of classification/regression methods used to develop CRISPR-related applications
+
+These methods can be broadly classified into three different categories i.e., ML, DL, and generic which includes methods from statistics, and reinforcement learning (RL). A deeper analysis of Table
+
+Figure
+
+Figure
+
+Out of 10 CRISPR tasks, 23 unique AI predictors have been utilized in on-target activity. Particularly, DL models such as CNN, RNNs, LSTMs, and ML models such as LR, RF, and XGBoost have been employed commonly as compared to other models. In spite of on-target activity prediction being a regression task, traditional models have not been explored properly such as ridge, lasso, and elastic regression. In terms of off-target activity prediction, RNN and LSTMs have been more commonly used. It is noteworthy to mention here that only for off-target activity prediction [
+
+Distribution of AI predictors across different CIRSPR tasks
+
+In the evaluation of AI predictors for CRISPR tasks, predictors are typically trained and tested in two different experimental settings: cross-validation [
+
+In the realm of CRISPR tasks, along with these two experimental settings researchers have employed various evaluation metrics to measure predictor effectiveness. Table
+
+For classification tasks, ACC measures the proportion of true results (both true positives and true negatives) among the total number of samples [
+
+For regression tasks, MSE measures the average of the squares of the errors [
+
+Although a plethora of evaluation measures exist for the performance evaluation of AI predictors, it is important to recognize that each evaluation measure has its pros and cons. For instance, metrics like ACC provide a straightforward measure of overall predictor correctness but may not account for class imbalances [
+
+It is essential to highlight that some studies did not use a sufficient number of evaluation metrics, which can result in potential issues in the evaluation of AI predictor. For instance, Rafid et al. [
+
+Overall, it can be concluded that utilizing limited metrics can lead to an incomplete understanding of predictor performance, especially in imbalanced datasets. Therefore, employing a comprehensive evaluation approach is crucial. For classification predictors, combining metrics such as accuracy, precision, recall, F1-score, AUROC, and AUPRC captures various performance aspects, ensuring robustness across scenarios. For regression predictors, using MSE, Pearson, Spearman, and Kendall Tau evaluate both prediction error magnitude and the strength of relationships, offering a holistic view of predictive power and reliability. This comprehensive evaluation strategy is vital for advancing CRISPR research and developing effective gene-editing tools.
+
+Evaluation metrics used by the reviewed papers
+
+
+
+Count of evaluation measures used to assess the predictive performance of classifiers and regressors
+
+This section compiles detailed information on open source predictors and the libraries they leverage in various CRISPR tasks. By providing this comprehensive overview, researchers can build upon existing tools, promote collaboration and advance the development of effective CRISPR prediction predictors.
+
+Table
+
+A detailed analysis of these open source codes reveals that the majority of these tools have been developed using well-established libraries, promoting a standardized approach while also fostering innovation. This integration of well-established libraries contributes to the robustness and effectiveness of CRISPR prediction models within the research community.
+
+The selection of a specific library for CRISPR tasks is inherently subjective and depends on factors such as the preferred development platform, the choice of prediction models, and the specific research questions at hand. Therefore, recommendations are made based on the variety of models and evaluation measures each library offers. For Python, TensorFlow and Keras are highly recommended due to their extensive support for DL models and user-friendly APIs [
+
+Source links and libraries
+
+This section presents the predictive performance values of 37 AI predictors across 10 different CRISPR tasks, evaluated on 77 benchmark datasets. In-depth analyses of these predictors using evaluation measures such as precision, recall, F1-score, SCC, PCC, and AUC, offer insights into the strengths and weaknesses of various feature extraction and classification methods specific to different CRISPR tasks. This comprehensive analysis aids in selecting the most suitable classifiers and feature extraction methods, optimizing experimental design. Additionally, it identifies tasks for improvement, promoting innovation in AI predictor development and facilitating cross-disciplinary research.
+
+Table
+
+For CRISPR array identification, the predictor by [
+
+In the domain of CRISPR loci classification, the predictor by [
+
+For Cas protein prediction, two approaches stand out. The predictor developed by [
+
+In the area of acr protein prediction, the work by [
+
+In the domain of gene editing outcome prediction, the study by [
+
+The prediction of on/off-target activity presents unique challenges due to significant variability in datasets and predictive models. Each study often uses different datasets, making direct comparisons difficult and limiting the generalizability of findings. For instance, [
+
+Performance values of 39 different predictors across 76 different benchmark datasets related to 10 different CRISPR tasks
+
+Hart HCT116,
+
+Chari 293T,
+
+Hart HeLA,
+
+Xu HL60,
+
+Finally, here we make some recommendations related to CRISPR tasks and the use of feature extraction methods and AI predictors. Feature extraction methods such as k-mer counts, PSSM, structural features from RaptorX, OHE, and random and transformer embeddings consistently show high performance across various CRISPR tasks. These methods should be prioritized because they capture essential biological and sequence-specific information. Ensemble methods (e.g., gradient boosting, XGBoost), LSTM/BiLSTM, and attention-based neural networks prove effective due to their ability to handle complex patterns and integrate diverse features.
+
+The integration of AI has markedly enhanced the efficiency and accuracy of CRISPR systems, particularly in the identification of target sites, prediction of off-target effects, and optimization of gene editing outcomes. Our analysis reveals that while AI predictors have been developed for 10 different CRISPR tasks, there is a notable emphasis on the prediction of on/off-target activities and acr proteins. These tasks are critical due to their direct impact on the specificity and safety of CRISPR-based genome editing. The ability to predict and minimize off-target effects is paramount in ensuring the precision and efficacy of CRISPR interventions [
+
+In terms of 10 different CRISPR tasks, 80 distinct benchmark datasets have been developed i.e., CRISRP arrays: 2, CRISPR loci:2, Cas-proteins: 2, acr proteins: 9, acr proteins activity: 2, off-target activity: 15, on-target activity: 39, gene editing outcomes: 4 and others: 5. In the current research landscape of AI in CRISPR tasks, the majority of studies rely on public datasets rather than proprietary in-house data. This trend ensures fair performance comparisons between new predictors and existing models. Despite the vast array of available datasets, only a few are commonly utilized. This heterogeneity among different studies for a single application can result in models that perform well on certain datasets but poorly on others, limiting their applicability in real-world scenarios. For instance, off-target activity prediction models like DeepCRISPR has been evaluated on 2 cell lines datasets, such as K562 and HEK293T [
+
+To address these challenges, it is recommended to develop and use standardized, publicly available benchmark datasets and establish consistent evaluation protocols. This would enable more reliable comparisons and enhance reproducibility. By addressing this issue, the field can move towards more robust and generalizable predictive models for CRISPR tasks, advancing both research and clinical applications.
+
+In developing AI predictors for CRISPR tasks, the selection of feature extraction methods and classifiers or regressors should be done carefully, as these choices can significantly impact the model’s performance and interpretability. Inappropriate feature extraction methods may fail to capture crucial genomic information, while suboptimal classifiers or regressors can lead to poor prediction accuracy and generalization issues. In terms of CRISPR tasks, methods such as k-mer counts, OHE, and advanced embedding techniques have proven effective in capturing the complex details of DNA, RNA, and protein sequences. However, the potential of 29 different types of embedding methods has yet not been explored in CRISPR tasks, such as DANE [
+
+The evaluation of AI-driven CRISPR models has predominantly relied on a range of evaluation measures, including accuracy, precision, recall, and the area under the ROC curve. These metrics provide a comprehensive assessment of model performance, but the variability in evaluation strategies across studies underscores the necessity for standardized usage of evaluation measures. Such standardization would facilitate the comparison of different models and accelerate the development of accurate and better CRISPR applications [
+
+In summary, the integration of AI with CRISPR technology holds immense promise for advancing genetic research and therapy. To fully harness this potential, future research must focus on developing more interpretable AI predictors, standardizing evaluation metrics, and creating comprehensive benchmarking datasets. By addressing these challenges, researchers can enhance the precision, safety, and effectiveness of CRISPR-based interventions, paving the way for groundbreaking advancements in genetic medicine.
+
+This review paper has several limitations, particularly in its coverage of technical aspects essential for understanding core AI concepts. Notably, it lacks an in-depth discussion on representation learning methods, which are crucial for converting CRISPR-related biological data into formats compatible with AI models, as highlighted in some existing studies [

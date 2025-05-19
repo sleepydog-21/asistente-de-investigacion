@@ -1,0 +1,11 @@
+{
+  "id": "39890997",
+  "title": "Superior Resolution Profiling of the Coleofasciculus Microbiome by Amplicon Sequencing of the Complete 16S rRNA Gene and ITS Region.",
+  "doi": null,
+  "authors": "Marter P, Freese HM, Ringel V, Brinkmann H, Pradella S, Rohde M, Jarek M, Spröer C, Wagner-Döbler I, Overmann J, Bunk B, Petersen J",
+  "journal": "Environmental microbiology reports",
+  "year": "2025",
+  "abstract": "The filamentous cyanobacterium Coleofasciculus chthonoplastes is the key primary producer of marine microbial mats. We elucidated the microbiomes of 32 non-axenic Coleofasciculus isolates using PacBio-based amplicon sequencing of the complete 16S rRNA gene and the internally transcribed spacer (16S-ITS). The length of authentic amplicon sequence variants (ASVs) ranged from 1827 to 3044 nucleotides (median: 2267 nt). The results, which were complemented by metagenome analyses and cultivation approaches, revealed the presence of more than 70 associated heterotrophs in the culture of Coleofasciculus sp. WW12. The great bacterial diversity in the cyanosphere is dominated by Pseudomonadota (59%) and Bacteroidota (23%). Allelic ribosomal operon variants were detected in 18 Coleofasciculus strains and our analyses proposed the presence of at least four different species. A comparative analysis of cyanobacterial microbiomes documented complementary advantages of amplicon sequencing versus metagenomics with an individual strength of the 16S-ITS approach in terms of (i) ribosomal target sequence quality, (ii) contaminant detection and (iii) identification of rare bacteria. The characterisation of the Coleofasciculus microbiome showed that long-read amplicon sequencing of the 16S-ITS region is the method of choice for rapid profiling of non-axenic cyanobacteria. Its superior resolution allows a reliable differentiation of even very closely related strains.",
+  "source": "PubMed",
+  "pmcid": "PMC11785472"
+}

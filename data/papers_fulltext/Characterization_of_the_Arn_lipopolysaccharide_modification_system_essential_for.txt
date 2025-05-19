@@ -1,0 +1,117 @@
+
+
+In addition to their role as phytotoxins, zeamines are also potent antimicrobial agents with broad‐spectrum activity against bacteria, fungi, nematodes, and oomycetes (Hellberg et al.,
+
+The
+
+To elucidate the uncharacterized zeamine resistance mechanisms in
+
+To identify zeamine resistance genes in
+
+Genetic organization and characterization of the
+
+Minimal inhibitory concentrations (MICs) of zeamines and polymyxin B for
+
+
+
+Bioinformatics analysis showed that in the
+
+To further validate the role of the
+
+Our previous study unveiled that the RND efflux pump DesABC plays a key role in zeamine resistance in
+
+Our previous work indicated that expression of
+
+Expression pattern of the
+
+Given that the Arn
+
+Virulence assay of
+
+During the construction of
+
+The
+
+To further elucidate the roles of Arn
+
+The roles of
+
+To determine how ArnB
+
+The role of
+
+To decipher the molecular mechanism by which ArnB
+
+We firstly conducted detailed bioinformatics analyses on the 291 genes that were significantly up‐regulated in mutant ∆
+
+Transcriptomics analysis revealed the genes regulated by Arn
+
+In
+
+We then analysed the 367 genes down‐regulated in the mutant ∆
+
+Zeamines are phytotoxins produced by the phytopathogen
+
+The
+
+We recently reported that the RND efflux pump DesABC is involved in zeamine resistance (Liang et al.,
+
+In addition to validation of the role of the Arn
+
+In summary, this study unveils a new zeamine resistance mechanism mediated by the Arn
+
+The bacterial strains and plasmids used in this study are listed in Table
+
+Construction of in‐frame deletion and complementation strains was performed following a previously described method (Liang et al.,
+
+To identify the genes that are involved in zeamine resistance in
+
+Zeamines used in this study were purified with the absorbent resin XAD7 (Sigma‐Aldrich) and confirmed by liquid chromatography–mass spectrometry (LC–MS) following a previously described method (Liang et al.,
+
+The MIC assay was performed using the previously described broth microdilution method (Liang et al.,
+
+Determination of bacterial pathogenicity against rice seeds, Chinese cabbage, and potato tubers was performed following previously described methods (Zhou et al.,
+
+Bacterial cultures at the exponential phase were streaked on MM agar plates supplemented with 5% (wt/vol) sucrose. After inoculation at 28°C for about 48 h, the plates were photographed.
+
+The biofilm formation assay was performed following a previously described method (Chen et al.,
+
+The reporter plasmid pArn
+
+The swimming motility of
+
+Fresh bacterial cell cultures at an OD
+
+For transmission electron microscopy analysis, a copper grid was floated on a drop of bacterial cell culture for 1 min. After the adsorption process, the copper grid was rinsed three times with double‐distilled water and then stained with TI blue (Nisshin EM Co., Ltd) for 1 min. Samples were imaged by Talos L120C (Thermo Fisher) and at least three representative cells of each sample were photographed.
+
+Total RNA of bacterial cells was extracted with the SV Total RNA Isolated System kit (Promega). RNA density was measured by a NanoDrop 2000c spectrophotometer (Thermo Fisher Scientific), and RNA integrity was analysed using the RNA Nano 6000 Assay Kit and an Agilent 2100 Bioanalyzer system (Agilent Technologies). For transcriptomics analysis, the libraries were prepared using the TruSeq PE Cluster Kit v3‐cBot‐HS (Illumina) following the manufacturer's instructions and sequenced using an Illumina Novaseq platform. Two biological replicates were applied in this assay. Data were aligned by Bowtie v. 2‐2.2.3. Differential expression analysis was performed using the DESeq R package (v. 1.18.0), and genes with log
+
+All experiments were individually performed at least twice with three replicates each time. Statistical comparison was performed using the two‐tailed unpaired Student's
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.
+
+
+
+Click here for additional data file.

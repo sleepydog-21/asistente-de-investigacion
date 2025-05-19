@@ -1,0 +1,67 @@
+
+
+The virulence plasmid has a pathogenicity island (PAI) that is thought to be acquired by horizontal transmission; PAI contains multifamily genes that encode virulence-associated proteins (Vaps) [
+
+The transcriptional regulation of
+
+LTTRs are the largest regulatory family in prokaryotes and are involved in regulating biological activities, such as metabolism, quorum sensing, oxidative stress response, motility, and virulence [
+
+In this study, we identified the VirR-binding site upstream of the
+
+
+
+The
+
+The fragment containing the
+
+Total bacterial RNA was isolated from 5-mL cultures grown to midlogarithmic phase (optical density at 600 nm [OD
+
+In total, 200-ng RNA was reverse transcribed to cDNA using 6-mer oligonucleotide primers and a PrimeScript RT-PCR kit (TaKaRa), according to the manufacturer's instructions. When the expression of
+
+To determine transcriptional initiation site of the
+
+PCR-mediated mutagenesis was used to introduce point mutations into the coding sequence of
+
+Cells were cultured overnight at 30°C in BHI broth with shaking. Cultures were diluted 1:10 with 60 mM Tris-buffered BHI (pH adjusted to 6.5 or 8.0). Cultures were grown to OD
+
+DNA extracted from
+
+The
+
+Probes were obtained by PCR using a combination of FITC-labeled and FITC-unlabeled primers (
+
+Circular permutation analysis was performed to assess DNA bending by VirR using the pBend2 vector, as described [
+
+A bacterial two-hybrid system was used to identify interactions between VirR and RpoA. This system is based on functional complementation between two fragments (T18 and T25) of the catalytic domain of adenylate cyclase from
+
+
+
+VirR has a positive effect on the transcription of the
+
+The N-terminal region (∼80 residues) of LTTR is relatively conserved across the LTTR family [
+
+Because the
+
+In the upstream region out of the two regions protected in DNase I footprinting, we identified a 17-bp region of partial dyad symmetry from position −74 to −58 in the top strand containing T–N
+
+Although the region from −51 to −29 was protected by VirR, no LTTR box was found within this region. To examine the effect of this region on VirR binding, gene fragments lacking the region from −51 to −34 were subjected to EMSA. Complex formation was concentration-dependent; however, compared with the wild-type fragments (
+
+The presence of hypersensitive sites between the two VirR-protected regions suggests that VirR bends the
+
+Most LTTRs bind DNA by forming homotetramers [
+
+VapA expression is regulated by temperature and pH [
+
+Many LTTRs bind to a small molecule called the coinducer, which leads to structural changes, thereby controlling transcription [
+
+The
+
+The results of EMSA and DNase I footprinting showed that VirR binds to the upstream region of P
+
+In the bacterial two-hybrid experiment, high
+
+In other LTTRs, conformational changes in the complex between regulator and DNA caused by the coinducer–regulator binding are detected as changes in mobility in EMSA and protected regions in DNase I footprinting. In AtzR of
+
+Another possible explanation for this discrepancy is that mutant VirR activates P
+
+In conclusion, this study revealed that VirR binds to the

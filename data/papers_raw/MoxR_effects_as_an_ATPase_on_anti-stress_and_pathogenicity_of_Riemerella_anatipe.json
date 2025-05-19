@@ -1,0 +1,11 @@
+{
+  "id": "39962505",
+  "title": "MoxR effects as an ATPase on anti-stress and pathogenicity of Riemerella anatipestifer.",
+  "doi": null,
+  "authors": "Zhang Y, Zhang Y, He Y, Hou Y, Li X, Yang X, Zhou Z, Li Z",
+  "journal": "Veterinary research",
+  "year": "2025",
+  "abstract": "Duck infectious serositis is a septicemic disease caused by the bacterium Riemerella anatipestifer (R. anatipestifer), which affects ducks, geese, turkeys, and other poultry. While outbreaks have been reported worldwide, the exact mechanisms of infection and disease progression remain unclear. Our previous research identified the two-component system PhoPR within the genome of R. anatipestifer and demonstrated its association with the bacterium's pathogenicity. Through multi-omics analysis, we found that PhoP directly regulates the expression of several genes, including moxR, within the Bacteroides aerotolerance (Bat) operon. However, the function of MoxR in R. anatipestifer has not yet been reported. To investigate the impact of MoxR on the expression of the bat operon and the pathogenicity of R. anatipestifer, we constructed ΔmoxR and other derivative strains. Our findings revealed that overexpression of MoxR inhibits the transcription of the bat operon. Conversely, deletion of moxR, along with exposure of R. anatipestifer to thermal or oxidative stress, results in increased transcription levels of the bat operon. By measuring the survival ability of each strain under stress, we discovered that MoxR is closely associated with the resistance of R. anatipestifer to thermal and oxidative stress by influencing the expression of the bat operon. Duckling infection experiments, along with adhesion and invasion assays, showed that deletion of moxR in R. anatipestifer led to decreased pathogenicity, and lower bacterial load in various tissues. Collectively, our findings collectively demonstrate the significant role of MoxR in the anti-stress and pathogenicity of R. anatipestifer, providing new insights into its pathogenic mechanisms.",
+  "source": "PubMed",
+  "pmcid": "PMC11834572"
+}

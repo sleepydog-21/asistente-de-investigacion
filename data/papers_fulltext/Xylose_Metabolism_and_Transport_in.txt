@@ -1,0 +1,31 @@
+Xylose present in lignocellulosic biomass is the second abundant mono-sugar in nature. As the substrate for valuable materials production, it is widely used in foods, cosmetics, human health and chemical industries. Also, xylose is able to be used as a carbon source for microbial cell growth and metabolite production.
+
+For understanding the xylose metabolism in
+
+In the general CCR mechanism of
+
+Unlike
+
+Bacteria able to use xylose inherently possess the xylose metabolizing enzymes such as xylose isomerase (EC 5.3.1.5) and xylulokinase (EC 2.7.1.17). Genes involved in xylose metabolism are mostly assembled into the xylose operon which contains one promoter controlling its genes expression. Firstly, a fragment of
+
+Cytoplasmic membrane transporters consist of one or more protein components, but typically they include at least one protein that spans the membrane with multiple transmembrane a–helical segments. Sugar transport proteins in
+
+Several Gram-positive bacteria can take up D-xylose by their specific D-xylose transport systems. Batch culture of
+
+As described before,
+
+D-Ribose is a five-carbon sugar with C
+
+The formation of NADPH and D-ribose-5-phosphate plays a key role in the pentose phosphate (PP) pathway in
+
+Various methods have been investigated and established for the large-scale production of D-ribose. D-Ribose was obtained by the chemical hydrolysis or the enzymatic hydrolysis of yeast ribonucleic acid (RNA), of which a component is D-ribose. Bacterial nucleosidases and some chemical catalysts were used to hydrolyze 5-amino-4-imidazole-carboxamide riboside for production of D-ribose [
+
+Microbial production of D-ribose has been developed mostly using bacteria including
+
+Many research efforts have been made to establish the fermentation processes for the mass production of D-ribose from xylose and other sugars by the transketolase mutants of
+
+Except for xylose, the most popular carbon source of glucose has been used as the main carbon source for D-ribose production [
+
+Other technologies of genetic engineering and enzymatic conversion have been also applied for D-ribose production. By genetic engineering, the chromosomal
+
+Xylose metabolim in

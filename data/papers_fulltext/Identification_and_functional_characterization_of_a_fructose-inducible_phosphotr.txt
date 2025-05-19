@@ -1,0 +1,105 @@
+Bacteria transport sugars primarily via phosphoenolpyruvate (PEP): carbohydrate phosphotransferase systems (PTS), which phosphorylate sugars when they are transported inside the cell (
+
+Since fructose feeds directly into glycolysis without isomerization or epimerization, it is considered an important sugar in the early evolution of the carbohydrate metabolic pathway in bacteria. It is also the first hexose synthesized through gluconeogenesis (
+
+Bacteria of the genus
+
+In many proteobacteria such as
+
+In order to identify the proteins expressed in
+
+Upregulated proteins that are part of an operon or that are involved in a specific pathway and perform a common function
+
+In addition, several proteins TssA, TssL, TssK, TssJ, TssB, TssC, TssHcp, TssF, VasG, and VgrG, which are known to constitute a T6SS were upregulated. We also found chemotaxis proteins, including CheR, CheA, CheW, and CheY of the Che1 system, CheB, MCP, and CheA of the Che4 system, and CheA and CheW of the Che2 system, a 28 kDa flagellin protein, the flagellar motor proteins MotA and MotB, and at least seven methyl-accepting chemotaxis proteins (
+
+We also found upregulation of three proteins of the cytochrome c-oxidase operon, two proteins of the glycolate oxidase operon, the PQQ biosynthesis protein PqqBCD, two ABC transporters, six proteins of the xanthine dehydrogenase operon, four proteins of the molybdenum ABC transporter operon, the TonB system transporters ExbB, ExbD, and TonB, and two tripartite tricarboxylate transporters (
+
+Analysis of the proteome of
+
+Organization of the genes encoding two putative fructose phosphotransferase systems (Fru-PTSs) in the genome of
+
+In order to identify the PTS involved in fructose utilization, we inactivated
+
+When we carried out experiments to examine the ability of
+
+Comparison of the growth of the WT (pAK002),
+
+Since overexpression of
+
+(
+
+To elucidate the role of FruR, a LacI family transcription regulator, which was located divergently to the gene encoding FruB1, we inactivated the gene encoding FruR (AMK58_25890) and compared its growth with that of
+
+Comparison of the growth of
+
+(
+
+In order to examine the regulation of expression of
+
+To identify the promoter elements of
+
+(
+
+The intergenic region between the start codons of
+
+(
+
+The full
+
+Our proteomic data show that several proteins including a flagellin of 28 kDa, and proteins of chemotaxis systems Che1, Che2, and Che4 are upregulated in
+
+Comparison of chemotaxis of
+
+We also compared chemotaxis of
+
+Comparison of chemotaxis of WT (pAK002),
+
+Our proteomic data show that several proteins that constitute T6SS were upregulated by fructose. These proteins were encoded by genes that were part of a large cluster of genes (an island) involved in the biogenesis of T6SS (
+
+(
+
+Fructose-induced contact-dependent inhibition of
+
+In order to examine if the T6SS of
+
+Role of T6SS in fructose-induced inhibition of
+
+In this study, we have identified fructose-inducible proteins which showed that out of the two putative fructose PTS encoded by
+
+When we found an additional set of genes encoding a fructose-PTS2 in the genome
+
+These observations suggested that the copy number of the FruA (EIIBC) protein present in the inner membrane of
+
+Like many other bacteria, the gene encoding FruR is organized divergently to the
+
+Since malate is preferred over fructose as a carbon source by
+
+Notable among the fructose upregulated proteins were several proteins that are involved in the making of a multiprotein machine, the T6SS (T6SS), which is deployed by numerous Gram-negative bacteria to deliver toxic effectors into both prokaryotic and eukaryotic cells (
+
+In this study, we have shown that the genome of
+
+Bacterial strains and plasmids
+
+To compare the growth of
+
+The amino acid sequences of
+
+For insertional inactivation of
+
+Primers used in this study
+
+For identifying proteins that were expressed in
+
+For complementation studies and for creating
+
+To study the regulation of expression of the two Fru-PTS in
+
+The WT and recombinant strains of
+
+The TSS or 5′ end of
+
+For chemotactic assay,
+
+For demonstration of the fructose-specific and contact-dependent killing of
+
+Experiments on the measurement of growth and

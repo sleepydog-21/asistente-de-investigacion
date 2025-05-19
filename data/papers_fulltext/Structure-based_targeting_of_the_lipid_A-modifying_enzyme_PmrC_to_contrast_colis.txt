@@ -1,0 +1,53 @@
+The ESKAPE group of pathogens (
+
+Currently, colistin (also known as polymyxin E) is prescribed as a last resort for the treatment of MDR Gram-negative infections, including
+
+Two primary mechanisms that provide colistin resistance have been described in
+
+In
+
+A scheme of the desired strategy, the inhibition of all PetN transferases independent of their transcriptional regulator. PmrC transcription is regulated by PmrA, whereas transcription of homologous PetN transferases (EptA, EptA-1, and EptA-2) is regulated by a different promoter, ISAbaI, at different genome location (
+
+In this study, we focused on investigating structural features of the PetN transferase PmrC by combining computational and biophysical studies. Using molecular modelling and virtual screening approaches, we opted to identify ligands of PmrC, which could potentially block its biological action. We identified a potential ligand, which we experimentally proved to bind recombinant PmrC with μM affinity. This ligand can drastically reduce colistin MIC in
+
+The gene sequence encoding the membrane protein PmrC was cloned into the pETM13 expression vector. The recombinant vector was transformed in ClearColi BL21(DE3) - Biosearch Technologies competent cells to overpopulate the protein. The ClearColi cells, which have a genetically modified lipopolysaccharide (LPS), were grown in 2.5 L of Luria Bertani (LB) medium (Applichem) medium containing 50-μg ml
+
+Circular dichroism (CD) spectra were measured using a Jasco J-810 spectropolarimeter with a Peltier temperature control system (Model PTC-423-S, Jasco Europe, Cremella (LC), Italy). Far-ultraviolet (UV) measurements at a protein concentration of 0.2 mg/ml were carried out at 20°C in 20-mM phosphate buffer pH 7.4 using a 0.1-cm optical path length cell and varying the wavelength from 260 to 198 nm at 20 nm min
+
+The three-dimensional (3D) structure of the whole PmrC protein was obtained using homology modelling and the MODELLER 9.22 program
+
+The selection of potential PmrC binder candidates was performed by high-throughput docking of the LifeChemicals commercial molecular database on the PmrC 3D model. The protein 3D structures were prepared using the Protein Preparation Wizard tool of the Schrödinger Suite 2015–4 (Schrödinger, LLC, New York, NY, USA). The binding site occupied by DODECYL-BETA-D-MALTOSIDE (Anatrace) in the 5fgn PDB structure was used as a guide to define the PmrC pocket to target after superimposing the two proteins. The grid box was built using DODECYL-BETA-D-MALTOSIDE as the centre and as a dimensional reference. The LifeChemicals database,
+
+The thermophoretic measurements were conducted using the Monolith NT.115 device (NanoTemper Technologies, Munich, Germany) equipped with a red detection channel. For MST analysis, recombinant PmrC was labeled with the fluorescent dye RED-NHS 2nd Generation (NanoTemper Technologies) provided by Protein Labeling Kit RED-NHS (NanoTemper Technologies) (NanoTemper Technologies). This fluorescent dye carries a reactive NHS-ester group that reacts with primary amines to form a covalent bond. Briefly, 90 μl of a 10-μM PmrC solution in labeling buffer (130-mM NaHCO
+
+MIC values for s-Phen and colistin against planktonic bacteria were assessed using a manual microdilution method in accordance with the guidelines suggested by the European Committee for Antimicrobial Susceptibility Testing (
+
+Checkboard assays were carried out to test the MIC of the combination of colistin and s-Phen (
+
+For reverse transcription polymerase chain reaction (RT-PCR) analysis, 1,000 ng of total RNA was reverse transcribed using the QuantiTect Reverse Transcription Kit (Qiagen), according to the manufacturer’s instructions. The quantitative RT-PCR was performed using the SYBR Green master mix (Thermo Fisher Scientific) as previously described (
+
+The haemolytic activity of s-Phen was evaluated as previously described (
+
+PmrC is long been recognised as a major responsible for colistin resistance in
+
+PmrC is a stable protein with α-β fold. (A) Domain borders of PmrC, computed using the Pfam database (
+
+We homology modelled PmrC using MODELLER (
+
+The best characterised PetN transferase catalytic mechanism is that of MCR-1 of
+
+The selected compounds were solubilised for experimental assessment of their ability to interact with PmrC. The majority of soluble molecules under conditions compatible with binding experiments were F3320-0359, F3205-0035, F6761-7637, F6523-3945, and F6231-0947 (
+
+Binding of s-Phen in the binding pocket of PmrC. (A) Binding isotherm for MST signal versus s-Phen concentrations. (B) Localisation of s-Phen in PmrC binding pocket. S-Phen is drawn in stick representation, and PmrC is in the cartoon. s-Phen contacting residues are drawn in line. (C) 2D protein-ligand interaction diagram. The hydrophobic cavity is represented in green, polar residues are shown in cyan, and charged residues are depicted in red. Hydrogen bonds are indicated by violet arrows.
+
+The efficacy of s-Phen in contrasting colistin resistance was tested in the two colistin-resistant clinical isolates, Ab60537 (
+
+The relative expression of
+
+MIC values of s-Phen, colistin, and s-Phen/colistin combinations against colistin-resistant clinical isolates.
+
+Haemolysis assay. The samples were incubated for 60 min at 37°C with either PBS (negative control), 1% (v/v) Triton X-100 (positive control), or different concentrations of s-Phen. The data are expressed as the mean ± standard deviation (SD) of three replicates. ***
+
+Colistin is one of the few therapeutic options for treating multiresistant
+
+Sequence alignment of clinically isolated PetN transferases, performed with Clustalw (

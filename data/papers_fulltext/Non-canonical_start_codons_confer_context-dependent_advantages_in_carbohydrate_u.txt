@@ -1,0 +1,89 @@
+The gastrointestinal tract harbours a dense and complex microbial community termed the gut microbiota. At the phylum level, the composition of the microbiota tends to remain relatively constant over time
+
+Protein translation is a complex cellular process shared by all living organisms. This multilayered phenomenon starts with an initiation phase orchestrated by a dynamic interplay between mRNAs, ribosomal subunits, the initiator tRNA and initiation factors. Together, they ensure the precise recognition of the start codon and delineate the open reading frame of the transcripts
+
+Here we aimed to explore the role of the non-canonical start codons in bacterial metabolic adaptation within the context of gut colonization.
+
+Given their direct function in metabolic adjustment, we focused our attention on the start codon sequences found in metabolic gene regulators. We analysed the occurrence of non-ATG start codons within characterized carbohydrate utilization regulator genes in 10,643
+
+Recent studies have presented inconclusive findings on the role of lactose in
+
+In contrast to antibiotic-pretreated SPF 129S6/SvEvTac and C57BL/6 mice, the importance of lactose utilization by
+
+We next deciphered the fitness of the non-canonical GTG start codon in
+
+Given the importance of lactose in supporting
+
+Finally, given the slight alleviation of the
+
+Building upon our functional studies, we next analysed the sequence of the
+
+Non-ATG codons are widespread across genomes, and the evolutionary pressures driving their selection remain debated. Translation from unusual and differently placed start codons in eukaryotic genomes has been proposed to contribute to the generation of protein isoforms
+
+To study the role of the
+
+Besides depicting the in vivo advantage associated with the
+
+All strains, plasmids and oligonucleotides used in this study are listed in Supplementary Tables
+
+Male and female 8- to 12-week-old mice were used in this study and randomly assigned to experimental groups. 129S6/SvEvTac (Jackson Laboratory) and C57BL/6 (Jackson Laboratory) mice were held under SPF conditions in individually ventilated cages at the EPIC mouse facility of ETH Zurich (light–dark cycle 12 h:12 h, room temperature 21 ± 1 °C, humidity 50 ± 10%). C57BL/6 germ-free animals were bred in flexible film isolators under strict exclusion of microbial contamination at the isolator facility (EPIC). All animal experiments were reviewed and approved by Tierversuchskommission, Kantonales Veterinäramt Zürich under licence ZH158/2019, ZH108/2022 and ZH109/2022 complying with the cantonal and Swiss legislation. All mice were maintained on the mouse maintenance diet (SPF diet: Kliba Nafag number 3537). When indicated, mice were shifted to a different diet (germ-free diet: Kliba Nafag number 3302) 1 day before inoculation. For the conditions in which lactose was supplemented, lactose was diluted in 200 ml of drinking water and filtered using syringe filters (0.22 μm). The mouse drinking water was replaced with 3% (w/v) lactose 1 day before inoculation for SPF mice and on the inoculation day for germ-free mice. Lactose was maintained throughout the entire course of the experiment.
+
+Genomes classified as
+
+A total of 10,643
+
+Sequences of the selected 61 metabolic regulators (32 carbohydrate-related regulators, 29 carbohydrate-unrelated regulators; Supplementary Tables
+
+Mice aged 8 weeks to 12 weeks were orally pretreated with streptomycin (25 mg) 24 h before inoculation. Due to the low intestinal colonization resistance properties of germ-free mice, no antibiotic pretreatment was achieved.
+
+Faecal
+
+Mice chow was suspended in PBS and homogenized using a TissueLyser (Qiagen). The lactose concentration in the homogenate was determined using a commercially available lactose assay kit (Sigma-Aldrich, MAK017) following the manufacturer’s instructions.
+
+Individual overnight culture of each strain was initiated 1 day before the experiment, either in LB or minimal media supplemented with glucose (50 mM) at 37 °C. The following day, the cultures were washed with PBS and diluted into the appropriate medium to reach a final concentration of 0.025 uOD
+
+The WT, ATG
+
+The activity of the LacZ β-galactosidase protein was assessed in a WT and
+
+The WT,
+
+SDS-PAGE was performed on Bio-Rad Mini Protean systems using standard protocols with homemade 12.5% polyacrylamide gels. For immunostaining, proteins were transferred onto a 0.2 µm nitrocellulose membrane that was then saturated with 5% milk and probed with primary antibodies (anti-LacI: Sigma-Aldrich-05-503-I, dilution 1:1,000; anti-RNA polymerase beta: ThermoFisher-MA125425, dilution 1:1,000). Mouse secondary antibody coupled with alkaline phosphatase (anti-mouse antibody: Sigma-Aldrich AP124A, dilution 1/1,000) was added and developed using a commercialized alkaline phosphatase substrate (Promega, S3841) containing 5-bromo-4-chloro-3-indoyl phosphate and nitroblue tetrazolium.
+
+Custom oligonucleotides were synthetized using Microsynth and are listed in Supplementary Table
+
+The genomic DNA of the WT, ATG
+
+No statistical methods were used to predetermine sample sizes. The current sample sizes (
+
+Mouse lines used in this study can be obtained from Jackson Laboratories. Gnotobiotic mice are available upon request.
+
+Further information on research design is available in the
+
+
+
+Reporting Summary
+
+Peer Review File
+
+List of bacterial strains and primers used in the study.
+
+
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Raw and statistical source data.
+
+Unprocessed gels.

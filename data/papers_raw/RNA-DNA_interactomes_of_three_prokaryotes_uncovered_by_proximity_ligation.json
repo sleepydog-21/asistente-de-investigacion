@@ -1,0 +1,11 @@
+{
+  "id": "37120653",
+  "title": "RNA-DNA interactomes of three prokaryotes uncovered by proximity ligation.",
+  "doi": null,
+  "authors": "Gavrilov AA, Evko GS, Galitsyna AA, Ulianov SV, Kochetkova TV, Merkel AY, Tyakht AV, Razin SV",
+  "journal": "Communications biology",
+  "year": "2023",
+  "abstract": "Proximity ligation approaches, which are widely used to study the spatial organization of the genome, also make it possible to reveal patterns of RNA-DNA interactions. Here, we use RedC, an RNA-DNA proximity ligation approach, to assess the distribution of major RNA types along the genomes of E. coli, B. subtilis, and thermophilic archaeon T. adornatum. We find that (i) messenger RNAs preferentially interact with their cognate genes and the genes located downstream in the same operon, which is consistent with polycistronic transcription; (ii) ribosomal RNAs preferentially interact with active protein-coding genes in both bacteria and archaea, indicating co-transcriptional translation; and (iii) 6S noncoding RNA, a negative regulator of bacterial transcription, is depleted from active genes in E. coli and B. subtilis. We conclude that the RedC data provide a rich resource for studying both transcription dynamics and the function of noncoding RNAs in microbial organisms.",
+  "source": "PubMed",
+  "pmcid": "PMC10148824"
+}

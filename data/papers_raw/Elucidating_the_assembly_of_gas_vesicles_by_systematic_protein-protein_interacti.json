@@ -1,0 +1,11 @@
+{
+  "id": "39227754",
+  "title": "Elucidating the assembly of gas vesicles by systematic protein-protein interaction analysis.",
+  "doi": null,
+  "authors": "Iburg M, Anderson AP, Wong VT, Anton ED, He A, Lu GJ",
+  "journal": "The EMBO journal",
+  "year": "2024",
+  "abstract": "Gas vesicles (GVs) are gas-filled microbial organelles formed by unique 3-nm thick, amphipathic, force-bearing protein shells, which can withstand multiple atmospheric pressures and maintain a physically stable air bubble with megapascal surface tension. However, the molecular process of GV assembly remains elusive. To begin understanding this process, we have devised a high-throughput in vivo assay to determine the interactions of all 11 proteins in the pNL29 GV operon. Complete or partial deletions of the operon establish interdependent relationships among GV proteins during assembly. We also examine the tolerance of the GV assembly process to protein mutations and the cellular burdens caused by GV proteins. Clusters of GV protein interactions are revealed, proposing plausible protein complexes that are important for GV assembly. We anticipate our findings will set the stage for designing GVs that efficiently assemble in heterologous hosts during biomedical applications.",
+  "source": "PubMed",
+  "pmcid": "PMC11445434"
+}

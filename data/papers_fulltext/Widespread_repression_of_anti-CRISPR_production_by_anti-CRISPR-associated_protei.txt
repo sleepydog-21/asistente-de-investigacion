@@ -1,0 +1,95 @@
+Bacteriophages and other mobile genetic elements (MGEs) such as plasmids and genomic islands have a dynamic relationship with their bacterial hosts (
+
+CRISPR-Cas systems provide adaptive immunity to prokaryotes (
+
+To overcome CRISPR-Cas immunity, some phages produce anti-CRISPR (Acr) proteins. These proteins inhibit CRISPR-Cas activity and allow phages to successfully propagate in their hosts (
+
+(
+
+Some Acr proteins have a HTH domain within the same protein (
+
+As well as for phages, the
+
+Summary of Aca protein characteristics
+
+
+
+
+
+All Aca have predicted HTH DNA-binding domains. However, the HTH domains belong to different Pfam families. For example, Aca3, Aca5, Aca6, Aca7, Aca9, AcrIIA1 have HTH_3 domains whereas Aca2 has a DUF1870 domain. Some of the Aca homologs are associated with known, candidate, or putative
+
+In addition, we computationally analysed the putative regulatory regions of
+
+A Position-Specific Iterative Basic Local Alignment Search Tool (PSI-BLAST) (
+
+An HMM search was performed (e-value cut-off: 10
+
+Reference genomes of RefSeq bacteria were obtained from RefSeq201 (July 2020) [downloaded from
+
+Overview of Aca homologs. (
+
+The HTH domains were predicted by Pfam searches (
+
+Yin
+
+The putative promoter regions of
+
+Common motifs (Electronic Supplement S3 and Figure
+
+Candidate promoters of
+
+The pGR2 plasmids with different candidate promoters and pCDF-1b plasmids with corresponding
+
+Promoter activity was measured with
+
+Previous studies suggested that Aca families had some common, yet distinct, features—in particular a range of HTH domains (Table
+
+To identify Aca homologs across bacterial taxa, HMMs of each Aca (and AcrIIA1) family were built and used to search bacterial genome sequences (Materials and Methods). As HTH domain-containing proteins are ubiquitous in nature (over 2 million proteins have Pfam HTH domains), stringent criteria were used to reduce false-positive hits (Materials and Methods). These models defined each of the Aca families and closely related proteins. The association of the predicted
+
+For the
+
+Yin
+
+We were interested in whether specific Acas are genetically linked to specific Acr families (Figure
+
+It was interesting to observe that specific
+
+To compare the properties of the Aca families, we characterised them by protein length and within-family similarity. Aca proteins associated with Acrs mostly had mean sizes of 60–65 amino acids, indicating proteins with a single HTH domain (Figure
+
+Aca proteins that are Acr-associated versus solo typically differ in length and amino acid identity (blastp). Comparison of length (
+
+Most
+
+There was a group of large Aca9-like proteins (232–273 amino acids) that were not found downstream of known or candidate
+
+At the start of infection, many phages rely on the bacterial RNA polymerase to transcribe early genes. These early phage promoters resemble strong bacterial housekeeping promoters as they need to compete with host promoters for bacterial RNA polymerase (RNAP) (
+
+DNA binding sites within
+
+We found consensus –35 and –10 sequences in each of the ten high-confidence promoter sets (excluding the Aca8 family, since we found no examples in bacterial genomes). The core elements are distinct for each of the Aca proteins. Strikingly, we also observed one or two conserved inverted repeats (IR) sequences within each promoter region. One of the inverted repeats (here termed IR1) was always found within the predicted core promoter (
+
+To determine whether the members of an Aca family repress expression from the
+
+Repression by Aca proteins. (
+
+The corresponding
+
+To test whether the repression was due to each Aca binding to the predicted inverted repeat (IR) sites, we mutated the IR sequences (Figure
+
+This study investigated the regulation of
+
+The expression of
+
+We found that many
+
+We have shown that Aca(s) are distantly related to each other. Although they have a common helix-turn-helix DNA binding domains, these belong to different families. Interestingly, here we show that a few Aca proteins (Aca1, Aca2, Aca5) were associated with many Acr families whereas other Aca proteins (Aca3, Aca6, Aca7, Aca9, Aca10) were associated with few known Acrs. Intriguingly, we observed three out of ten Aca families and HTH containing AcrIIA1 exhibit structural similarities with two HTH containing regulatory antitoxin proteins HigA2 and GraA. These antitoxins are components of type II toxin-antitoxin (TA) systems, in which the toxin gene precedes that of the antitoxin (
+
+Conserved IRs were found within predicted core
+
+The Acr proteins themselves, or the process of their expression might be toxic to the bacterium or phage. Previous studies in
+
+In conclusion, although the Aca regulatory proteins form distinct families, they all have in common that they bind to different target motifs in their promoters to repress Acr production. Our data suggests the broad importance of
+
+Additional data is available at
+
+Click here for additional data file.

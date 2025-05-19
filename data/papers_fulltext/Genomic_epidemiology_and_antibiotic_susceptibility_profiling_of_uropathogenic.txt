@@ -1,0 +1,75 @@
+
+
+UPEC are becoming increasingly resistant to agents commonly used to treat UTI, such as fluoroquinolones, trimethoprim-sulfamethoxazole, and cephalosporins. While the use of fluoroquinolones is much less common among children, fluoroquinolone-resistant
+
+Of the 61 children with UTI who underwent a renal scan, 57
+
+Demographic and clinical characteristics of included children
+
+Five children were included in both columns.
+
+The presence of the full
+
+Layering on information about the disease status of the children from whom these
+
+Though the evolutionary relationship among isolates did not reveal any clear pattern to suggest an association with cystitis or pyelonephritis, the production of P-fimbriae encoded by the
+
+While none of the
+
+All but three of the isolates from children with pyelonephritis (15/18; 83%) featured the
+
+ST131
+
+Of the total set of 48
+
+Antibiotic resistance among ST131 isolates. (
+
+Understanding the extent of antibiotic resistance among ST131 UPEC in children could better inform which treatments are necessary and appropriate, in particular because early antibiotic exposure has been associated with potential long-term effects (
+
+For six of the most clinically relevant antibiotics or combinations, we compared the phenotypic results to the carriage of antimicrobial resistance (AMR) genes identified in our genomic sequencing of isolates in order to understand whether known genetic determinants explain the observed phenotypes (
+
+We found that UPEC from children with pyelonephritis were more likely to have the full suite of coding genes in the
+
+Investigations around P-fimbriae have also identified several classes of the gene coding for their tip adhesin,
+
+Within the data set of
+
+In one of the only studies of pediatric ST131 UPEC isolates to date, we found similar patterns of resistance as observed in other studies and high concordance between microbiological resistance and known resistance determinants. We found that 56% of isolates were resistant to trimethoprim-sulfamethoxazole and 37% were resistant to ciprofloxacin, in accordance with previous reports of 30–60% of ST131 strains resistant to fluoroquinolones (
+
+We found that
+
+Limitations of our study included convenience sampling and a relatively small sample size. Strengths include the prospective design, detailed clinical and laboratory characterization of each patient, use of a dimercaptosuccinic acid (DMSA) renal scan to differentiate pyelonephritis versus cystitis, and a small timescale (2012–2016) in which samples were collected, limiting confounding effects from evolutionary trends.
+
+In conclusion, using whole-genome sequencing, we provide further support for the association between the carriage of the full, 12-gene
+
+Urine cultures were obtained from children presenting with UTI, who were enrolled in two previously described studies (
+
+We screened all 359
+
+Genomic DNA was purified using DNeasy Blood and Tissue kits (Qiagen) and sent to the Broad Institute. Sequencing libraries were generated from 2 ng of input DNA using the Nextera XT DNA Library Preparation kit (Illumina) according to the manufacturer’s recommended protocol. Libraries were sequenced on an Illumina HiSeq 2500 with 151 bp paired-end reads.
+
+Sequencing data were processed using Picard tools (
+
+To assess the presence of sequence contamination from other genera, sequencing data were then aligned to a Centrifuge (
+
+All seven isolates excluded from analysis are noted in
+
+ARIBA (
+
+ST131 isolates were further categorized into their respective subclades by searching for previously published, subclade-specific primer sets (
+
+Genetic sequences distinguishing specific
+
+Because
+
+ARIBA (
+
+The EcVGDB database (
+
+Reads were mapped to the ST131 reference strain
+
+Applying this same protocol, we generated a separate maximum-likelihood phylogeny for the ST131 clade. Based on our large tree, we selected all strains that were part of the clade containing ST131, which included the 27 expected ST131 isolates plus an additional ST2279 isolate, which was nested among the ST131 isolates. The core alignment used for this phylogeny construction contained 2,790 SNP sites. The ST2279 strain was removed from downstream visualization.
+
+The carriage of specific virulence genes was tested for enrichment or depletion within the isolates collected from patients diagnosed with pyelonephritis versus cystitis using the pyseer package (
+
+To assess differences in virulence gene load for different virulence classes between UPEC from pyelonephritis versus cystitis, we used a permutation-based test. Briefly, for each virulence class (Table S4), we performed 10,000 simulations, where designations for UPEC as cystitis or pyelonephritis associated were shuffled. The resulting median gene counts for pyelonephritis and cystitis isolates in simulations were compared to the actual observed values. If the difference for a simulation was greater than or equal to the actual observed difference, a counter was incremented. An empirical

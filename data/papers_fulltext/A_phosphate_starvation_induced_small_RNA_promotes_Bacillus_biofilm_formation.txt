@@ -1,0 +1,85 @@
+Phosphorus (P) is the fifth most abundant element (after C, H, O, and N) on earth and is essential for the growth of all organisms, including microbes. In the natural environment, microorganisms often encounter inorganic phosphorus (Pi) limitation
+
+Biofilms, which are highly structured aggregates formed by microorganisms at two-phase interfaces, are the prevalent form of bacterial communities in nature
+
+The plant beneficial
+
+In a previous study, we detected a putative sRNA encoded in the intergenic region (IGR) between
+
+PhoS accumulates when cells enter the stationary phase in each of the four different media that we tested (8 and 10 h, Fig.
+
+To confirm that
+
+Sequence alignment revealed that
+
+To determine functional roles of PhoS, we first performed studies using the
+
+To test this inference in
+
+We also made assays under other conditions using different media, different temperatures, and different strains (
+
+To understand how PhoS promotes biofilm formation, we conducted transcriptome analysis of wild-type FZB42 and the ∆
+
+To further explore the relationship between
+
+The ∆
+
+We conducted additional experiments to examine the impact of PhoS on the production of EPS in FZB42 and DK1042. Our findings revealed that disrupting
+
+Having unraveled that PhoS has a role in biofilm formation, we are equally intrigued by the mechanisms governing the regulation of PhoS. The proximity of
+
+Pi assimilation in
+
+Salzberg et al. reported that the 3’ UTR of
+
+To validate this interaction, we determined the transcription start site (TSS) of
+
+Additionally, we examined the transcriptome data showing the effect of PhoS on FZB42 gene expression (Supplementary Table
+
+To better understand how the interaction between PhoS and the
+
+We also predicted the interaction between PhoS and the 5’UTR of
+
+We also investigated the interaction between PhoS and
+
+In this study, we identified PhoS, a 3’UTR-derived sRNA that is induced in expression by environmental phosphate deprivation while regulating biofilm formation in
+
+The expression of PhoS requires the transcriptional regulator PhoP, whose translation is promoted by PhoS, which forms an autoregulation loop. PhoP binds to the promoter regions the
+
+However, while it is straightforward to understand the regulation of biofilm formation by PhoS through teichuronic acid biosynthesis, we do not exclude the possibility that other targets of PhoS or other regulatory circuits are also involved. For example, in the PhoP regulon there are more genes which can influence biofilm formation. One is the gene
+
+Currently, we do not know to what extent each of these pathways contributes to the regulation of biofilm by PhoS. We speculate that the signaling pathway mediated by surfactin, Spo0A~P and SinI may be important because it can directly stimulate the expression of the
+
+Within the PhoP regulon, PhoP represses three genes (
+
+Notably, the impact of
+
+The transcriptome analysis also revealed significant changes in the
+
+It should be noted that we used
+
+In summary, as a model organism for gram-positive bacteria,
+
+The bacterial strains constructed in this study are listed in Supplementary Table
+
+The list of DNA oligonucleotides and plasmids used in this study can be found in Supplementary Tables
+
+Chromosomal manipulation of
+
+For target verification in
+
+RNA isolation and Northern blotting were performed with digoxigenin-labeled probes as previously reported
+
+The FZB42 wild-type and FBS22 (∆
+
+Total RNA was extracted using the previously described method
+
+Overnight bacterial cultures were diluted with their corresponding media to an OD
+
+We followed a protocol as previously reported
+
+For each strain, three colonies were randomly selected for preculture overnight and were then adjusted to the same concentration before being inoculated (1%, v/v) into new media for incubation. For visualization and analysis of GFP fluorescence from bacterial colonies, the FluorChem Q imager was used with the excitation light set at 475 nm for excitation and emission light collection at 537/26 nm. For measurement of GFP fluorescence from liquid culture, one mL of bacterial culture was transferred to a 24-well plate, and fluorescence was quantified using a spectrophotometer (Varioskan Flash, Thermo, USA) with excitation at 480 nm and emission at 509 nm. In most cases, the GFP fluorescence intensity of different cultures was directly plotted for comparison since their optical density values at 600 nm (OD
+
+
+
+Supplementary Materials

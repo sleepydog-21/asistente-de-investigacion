@@ -1,0 +1,55 @@
+As the basic unit of proteins, amino acids play an important role in the nutrition and health maintenance of humans and animals (
+
+The metabolic pathway of L-threonine production in
+
+In
+
+Dynamic regulation can prevent metabolic burden on cells caused by constitutive gene expression in L-threonine production. We previously designed a positive feedback strategy to dynamically regulate the expression of threonine transporters, which alleviated the adverse effects of overexpressed transporters on cells and excreted intracellular metabolites (
+
+In this study, we developed a new strategy for dynamic and balanced regulation of the
+
+The strains and plasmids used in this study are listed in
+
+RBS characterization was achieved by monitoring the RFP fluorescence and cell density in real-time using a multiple detection microplate analyzer (SynergyHT, BioTek, Winooski, VT, United States). The details are as follows. The seeds of RBS characterization strains were prepared by transferring a single colony to a 12-well microassay plate containing 2 mL LB medium with 34 μg/mL chloramphenicol. The cells were grown at 37°C for 12 h. Next, 2% (v/v) of the seeds were inoculated into 0.2 mL LB medium with 34 μg/mL chloramphenicol in a 96-well microassay plate to detect red fluorescence. The 96-well plate was incubated at 37°C with oscillation. During RBS characterization, strain growth was measured at 600 nm. The red fluorescence was detected by excitation at 590 nm and emission at 645 nm.
+
+LB medium was used for plasmid construction and RBS strength characterization. L-threonine fermentation medium consists of 15 g/L (NH
+
+The fed-batch culture was carried out in a 5-L bioreactor containing 4L medium (20 g/L (NH
+
+One milliliter of the culture was mixed vigorously, and 0.1 mL was transferred to a 1.5 mL centrifuge tube. One millimolar HCl (0.9 mL) was added to this culture, and the sample was mixed to remove residual CaCO
+
+For the detection of L-threonine, the collected supernatant was deproteinized with 5% trichloroacetic acid. Subsequently, the pretreated supernatant was derivatized with triethylamine and phenyl isothiocyanate, followed by extraction with
+
+In the biosynthesis of L-threonine in
+
+Comparison of the fermentation results of overexpressed
+
+The results showed that different combinations of
+
+The effect of different expression intensities of
+
+The effect of different expression intensities of
+
+In summary, the results showed that when the expression of
+
+As described above, L-threonine production was promoted by carefully regulating the expression levels of
+
+The effect of dynamic regulation of
+
+The effect of dynamic control of the
+
+Although we increased L-threonine productivity by using a stationary phase promoter, the strains with better growth in the early stage also produced a large amount of acetate (
+
+The phosphotransferase system (PTS) is the major glucose transport system in
+
+The growth of the three strains was retarded after deleting
+
+The effect of deleting
+
+To further verify the properties of P
+
+The fed-batch process with P
+
+The reaction catalyzed by ThrC is the rate-limiting step of L-threonine production and overexpression of
+
+L-threonine production using different strategies.

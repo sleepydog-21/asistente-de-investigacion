@@ -1,0 +1,57 @@
+In this study, we isolated a ST45
+
+The
+
+Genomic DNA extraction, sequencing, assembly, correction, and annotation are conducted according to our previous work (
+
+Sequence types were determined based on multilocus sequence typing (
+
+The minimum inhibitory concentrations (MICs) were determined by broth microdilution method according to CLSI M100-S33 documents (
+
+To evaluate the virulence of 18SHX166, we used a mouse infection model in the study to compare the survival rates of the HvKP reference strain NTUH-K2044 (
+
+For the mouse experiment, each mouse was intraperitoneally injected with 100 µL of bacterial suspension containing 10
+
+Growth curve experiments were conducted on 18SHX166 using 0.5 McFarland suspensions prepared in LB medium, diluted 1:100, and incubated at 37°C for 24 hours with OD
+
+The clinical
+
+After the onset of BSI, the patient was immediately admitted to the intensive care unit and treated with a combination of cefoperazone-sulbactam, ceftriaxone, ciprofloxacin, tigecycline, meropenem, linezolid, and daptomycin. The strain 18SHX166 was isolated from blood culture on 25 March 2018, and no
+
+Sequence type and serotype analysis showed that 18SHX166 belongs to ST45 and K43. In order to study the evolutionary relationship between 18SHX166 and other ST45 strains, we downloaded the whole genome sequences of
+
+To reveal the genetic basis of the multidrug-resistant and virulent phenotype, we obtained the complete genome of the clinical isolate 18SHX166 including a 5.3 Mb chromosome, a 207 kb plasmid (pSHX166-Hv), a 128 kb plasmid (pSHX166-KPC), and a 110 kb plasmid (pSHX166-3) (
+
+The genomic characteristics of 18SHX166 (chromosome and three plasmids). (
+
+The genomic characteristics and antimicrobial resistance genotype analysis of the sequences of chromosomes and plasmids of 18SHX166
+
+Sequences of chromosomes end in “chr”; sequences of plasmids begin with “p”.
+
+“/” indicates no relevant gene or plasmid.
+
+There are four antimicrobial resistance genes in the chromosome:
+
+The analysis of virulence-related genes indicated that the chromosome of strain 18SHX166 harbors five types of virulence-related genes, encompassing those encoding aerobic actin synthesis and transport protein (
+
+Genome analysis indicated that 18SHX166 contains one virulence plasmid, pSHX166-Hv, belonging to IncFIB(K) group, which carried five virulence genes (
+
+The plasmids pSHX166-KPC, which contains the carbapenemase resistance gene
+
+The antimicrobial susceptibility test results revealed that the clinical isolate
+
+The minimum inhibitory concentrations (MICs) for 18SHX166 to 16 antimicrobial agents
+
+MIC, minimal inhibitory concentration; S, susceptible; I, intermediate; R, resistant.
+
+After 7 days of infection, the 18SHX166 strain demonstrated a low-virulence phenotype in a mouse model, with an 80% survival rate, which was equivalent to that of QD110 (100% survival rate). In contrast, the NYUH-K2044 strain maintained a 100% mortality rate throughout the entire experiment. Compared to NTUH-K2044 and QD110, 18SHX166 demonstrated a lower virulence phenotype in the mouse survival assay (
+
+The phenotypic characterization of 18SHX166. (
+
+The conjugation experiment showed that pSHX166-KPC plasmid could be transferred to
+
+In this study, we conducted a genetic and phenotypic analysis on a novel ST45-K23 carbapenem-resistant strain of
+
+Previous research in China has shown that ST11 is the predominant clone among bacteremic patients, followed by ST45 (
+
+In conclusion, this study identified a CRKP strain 18SHX166 causing BSIs, which is a strain of ST45

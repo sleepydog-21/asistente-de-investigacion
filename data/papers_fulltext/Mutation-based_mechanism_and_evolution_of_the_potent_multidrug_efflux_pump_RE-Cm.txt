@@ -1,0 +1,79 @@
+The rapid emergence and continued spread of antibiotic-resistant bacteria have compromised the efficacy of antibiotics in treating infectious diseases, which has become a public health crisis worldwide (
+
+Recently, a functionally enhanced variant (
+
+Despite the importance of RE-CmeABC in antibiotic resistance, the molecular and evolutionary mechanisms for its emergence and enhanced function remain unknown. Compared to the typical wild-type
+
+To begin to map the RE-
+
+Transfer of RE-
+
+Antimicrobial MICs (µg/ml) of
+
+Given that there were numerous amino acid changes in RE-CmeABC compared with the typical CmeABC, it was not feasible to analyze their contributions to the enhanced function individually. Thus, we developed a high-throughput method to identify their roles by determining the transferred SNPs in the transformants that gained function in antibiotic resistance. The underlying hypothesis was that the SNPs that are required for the functional gain must be present in all of the transformants that appeared on antibiotic-containing plates. For this purpose, 273 individual transformants (individual colonies) that were selected on MH plates containing 4 µg/ml florfenicol were pooled and their genomic DNA was purified and subjected to whole genome sequence (WGS) analysis by the Illumina MiSeq system. The sequence reads were mapped against the
+
+Frequencies of RE-
+
+Since mutations in the IR were known to inhibit CmeR binding and resulted in overexpression of
+
+To verify the findings obtained from the high-throughput WGS analysis, we further generated a construct in
+
+Overall strategy for targeted gene editing in
+
+Antimicrobial MICs (µg/ml) of
+
+In order to dissect the specific contributions of the promoter mutation (resulting in overexpression) and the SNPs in RE-
+
+RE
+
+Global distribution and genetic diversity of 1,510 RE-
+
+Notably,
+
+From the 82,371
+
+Phylogenetic analysis of RE-
+
+In
+
+Recombination and positive selection analysis of RE-
+
+In this study, we demonstrated that SNPs in RE-
+
+The high-throughput mapping strategy effectively identified function-conferring mutations in RE-
+
+Compared to the typical CmeB in
+
+Previous studies demonstrated that the CmeABC proteins were posttranslationally modified by N-glycosylation, which enhanced the function of CmeABC in antibiotic efflux (
+
+A bottleneck in genetic modifications of
+
+Analysis of the
+
+Phylogenetically, RE
+
+Based on phylogenetic analysis, it appeared that RE-
+
+In summary, findings from this study identified the molecular mechanisms underlying the enhanced antibiotic resistance function of RE-CmeABC in
+
+Electroporation was conducted as described previously (
+
+Commercially available Sensititre
+
+To identify the mutations required for the enhanced function in individual gain-of-function RE
+
+All PCR primers used in this study are listed in
+
+In the promoter region of
+
+To construct 11168RE-
+
+The views expressed in this article are those of the authors and do not necessarily reflect the official policy of the Department of Health and Human Services, the US Food and Drug Administration. The mention of trade names or commercial products in this publication is solely for the purpose of providing specific information and does not imply a recommendation or endorsement by the US Department of Agriculture or the Food and Drug Administration.
+
+Appendix 01 (PDF)
+
+Dataset S01 (XLSX)
+
+Dataset S02 (XLSX)
+
+Dataset S03 (XLSX)

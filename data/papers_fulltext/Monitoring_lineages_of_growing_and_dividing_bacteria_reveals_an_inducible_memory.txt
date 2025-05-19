@@ -1,0 +1,69 @@
+Advances in time-lapse microscopy (
+
+Schematic map of our experimental and analysis approach.
+
+The
+
+Here, we measured activity of the
+
+We used the
+
+We grew cells overnight at 30°C in Luria-Bertani broth (LB) containing 100 μg/mL ampicillin (Sigma Aldrich, St. Louis, MO, United States). We diluted the overnight cultures 1:600 in fresh LB media and harvested cells after an additional 3.5 h at 30°C. The optical density (OD) of the final cultures varied between 0.12–0.15 as measured at 600 nm.
+
+We prepared fresh 3% low melting agarose (Fisher Scientific, Pittsburgh, PA, United States) in LB in a 70°C water bath. We mixed salicylate from a 1 M sodium salicylate (Fluka, Switzerland) stock solution with 100 μL LB and added the mixture to 5 mL LB-agarose and swirled vigorously for 1 min. in order to achieve rapid and homogeneous mixing. We poured 100 μL of this 3% agarose-LB as a 1 cm
+
+For each salicylate inducer condition we measured 10 different linear micro-colonies. Experiments were carried out over different days. For 0 mM we measured 392 mother-daughter pairs, for 0.25 mM 430 pairs, for 1 mM 510 pairs, for 3 mM 457 pairs.
+
+To measure fluorescence from individual cells, we focused blue laser light (Sapphire 488 nm, 20 mW, Coherent, Santa Clara, CA, United States) into a diffraction-limited spot (width = 0.4 μm;
+
+Each scan produced a fluorescence profile of individual cells from a micro-colony. Fluorescent data was binned into 0.4 μm pixels. Because the excitation spot was small (width = 0.4 μm), cell cleavage sites appeared as sharp dips in the fluorescence profile while cell bodies appeared as long, bright fluorescence plateaus. Cell length was the distance between two consecutive cleavage sites. The difference in length between two consecutive measurements was used to estimate the cell growth rate. To produce genealogy trees, we used a visual interface (in house software, Matlab). Using this program, we manually picked cleavage sites from the intensity profiles produced by the scanning and assigned and tracked cell lineages. The intracellular concentration of fluorescent proteins was given by the brightest pixel. The fluorescence intensity was directly related to the intracellular concentration of fluorescent molecules. The promoter activity was the change in fluorescence intensity between two time points corrected for by a dilution factor that accounts for growth. We assigned each cell a single value for promoter activity between divisions.
+
+We binarized promoter activity as either ON (active) or OFF (inactive) using a threshold. Activity was ON if the cell had promoter activity at least two standard deviations above the mean of the distribution of activities of un-induced cells. Activity was OFF if the promoter activity was below this threshold.
+
+For each tree, we defined a sub-tree as two or more cells that were directly connected (through mother-daughter or sister–sister relationships) and all shared the same promoter activity, i.e., ON or OFF. For each tree, we computed the mean sub-tree size of ON and OFF sub-trees,
+
+where
+
+We implemented a discrete-time branching process in which all cells in the population divide simultaneously. Each cell can be in one of two possible states: active (on) or inactive (off). When a cell divides, each of its two daughter cells can be active or inactive depending on the state of the mother cell. To implement the model, four conditional probabilities must be defined. Denoting as DC and MC the daughter and mother cells, respectively, the four conditional probabilities are:
+
+We cloned the full length
+
+The SC101* origin has a very tight regulation of partitioning. Consequently, partitioning governed by SC101* origin is accompanied by much lower plasmid noise than that of higher copy number plasmids (e.g., colE1 origin) that rely on unregulated random partitioning. The fast maturation of the Venus-YFP chromophore allows us to report (
+
+Induction of
+
+Given the increase in CV value for the intermediate inducer value (1 mM) we observed, we wanted to find out whether this variation was a result of random fluctuations in individual bacteria, or if this effect was due to a transmission of cytoplasmic information from a mother cell to its daughters. To characterize how
+
+The [YFP] measurements do not give a direct measure of when the promoter is on or off, as the cells grow and thus accumulate and dilute YFP proteins (
+
+Genealogy trees of
+
+As is apparent in
+
+Inheritance of
+
+A different way of measuring inheritance of promoter activity from mother to daughter cells is to determine the correlation coefficient of the activity, which can also be done without the need to binarize the promoter activity. As can be seen in
+
+If promoter activity switches randomly at each cell division, then the activity across trees would exhibit a “speckled” or “salt and pepper” appearance, and thus a noisy distribution. Alternatively, if cells inherit the ancestral promoter activity state, then trees would display large sub-trees of similar promoter activity. A detailed molecular model of
+
+To test if random switching alone can explain the observed promoter activity distribution, we generated randomized activity trees and calculated their domain size product. In order to render the theoretical result of the genealogy trees as relevant as possible to the experimentally obtained trees, we constructed each tree by randomly placing active and inactive cells on the leaves of the tree while keeping the number of active and inactive cells identical to those from the empirical genealogy trees. For all non-zero inducer concentrations, the randomized trees had a similar domain size product (
+
+Moreover, we asked if the induction patterns observed within genealogy trees could be captured by a simple toy model based on a Markovian stochastic process, wherein the size of the sub-trees is governed by cell switching from “on” to “off” and vice versa. For such a model, we hypothesized that at each generation, a cell has a given probability of switching the
+
+Toy model of
+
+Our experimental technique has shown that phenotypic inheritance is also a measurable quantity in gene regulatory networks with analog output, and not only in bistable genetic networks. We have shown that inheritance may be sensitive to conditions, such as the induction level in the
+
+This inducible inheritance is more subtle and transient than in all-or-none examples, such as the
+
+While single-cell studies have recently have shown that the mar operon controlled efflux system AcrAB-TolC could be a source of heterogeneous phenotypes (
+
+The raw data supporting the conclusions of this article will be made available by the authors, without undue reservation.
+
+CCG and PC designed the research. CCG, LB, and PO performed the research. CCG, LB, PO, MA, and PC analyzed the data. CCG, LB, PC and PO wrote the paper. All authors contributed to the article and approved the submitted version.
+
+This work was supported by NIH P50 award P50GM081892-02 to the University of Chicago, a catalyst grant from the Chicago Biomedical Consortium with support from The Searle Funds at The Chicago Community Trust to PC, and a Yen Fellowship to CCG. MA was partially supported by PAPIIT-UNAM grant IN-11322.
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.

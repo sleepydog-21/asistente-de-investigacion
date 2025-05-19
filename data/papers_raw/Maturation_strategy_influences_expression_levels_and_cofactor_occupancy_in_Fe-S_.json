@@ -1,0 +1,11 @@
+{
+  "id": "36527507",
+  "title": "Maturation strategy influences expression levels and cofactor occupancy in Fe-S proteins.",
+  "doi": null,
+  "authors": "Jansing M, Mielenbrink S, Rosenbach H, Metzger S, Span I",
+  "journal": "Journal of biological inorganic chemistry : JBIC : a publication of the Society of Biological Inorganic Chemistry",
+  "year": "2023",
+  "abstract": "Iron-sulfur clusters are ubiquitous cofactors required for fundamental biological processes. Structural and spectroscopic analysis of Fe-S proteins is often limited by low cluster occupancy in recombinantly produced proteins. In this work, we report a systematic comparison of different maturation strategies for three well-established [4Fe-4S] proteins. Aconitase B, HMBPP reductase (IspH), and quinolinate synthase (NadA) were used as model proteins as they have previously been characterized. The protein production strategies include expression of the gene of interest in BL21(DE3) cells, maturation of the apo protein using chemical or semi-enzymatic reconstitution, co-expression with two different plasmids containing the iron-sulfur cluster (isc) or sulfur formation (suf) operon, a cell strain lacking IscR, the transcriptional regulator of the ISC machinery, and an engineered \"SufFeScient\" derivative of BL21(DE3). Our results show that co-expression of a Fe-S biogenesis pathway influences the protein yield and the cluster content of the proteins. The presence of the Fe-S cluster is contributing to correct folding and structural stability of the proteins. In vivo maturation reduces the formation of Fe-S aggregates, which occur frequently when performing chemical reconstitution. Furthermore, we show that the in vivo strategies can be extended to the radical SAM protein ThnB, which was previously only maturated by chemical reconstitution. Our results shed light on the differences of in vitro and in vivo Fe-S cluster maturation and points out the pitfalls of chemical reconstitution.",
+  "source": "PubMed",
+  "pmcid": "PMC9981529"
+}

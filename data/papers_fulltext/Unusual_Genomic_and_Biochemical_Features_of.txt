@@ -1,0 +1,125 @@
+Ants represent one of the most successful and pervasive taxonomic groups on Earth. The evolutionary history of ants can be traced back to the early Cretaceous period, approximately 140–130 million years ago, when the first flowering plants emerged on Earth. At the present time, there are more than 13,000 species of ants on Earth, which inhabit nearly every region of the planet, with the exception of Antarctica and a few islands. Ants play a pivotal role in the biosphere, influencing the distribution of plants and other animals, as well as soil processes [
+
+The black garden ant (
+
+The current state of knowledge regarding the interaction of
+
+The current systematics of the genus
+
+In this study, we identify a novel species,
+
+The genome assembly of S21 was conducted using the SPAdes assembler, resulting in 145 contigs with an N50 of 291,276 bp and a total length of 4,662,005 bp. The maximum contig length was 713,417 base pairs (bp), and the guanine plus cytosine (G + C) content was 62.8873%. The quality of the genome was evaluated using MiGA [
+
+A preliminary taxonomic analysis conducted using MiGA identified the strain as belonging to Actinomycetota, Actinomycetes, Micrococcales, and Micrococcaceae. The most closely related strains were identified as belonging to the genera
+
+In some cases, the resolution of 16S rRNA sequences is insufficient for unambiguous species classification (e.g., in the genus
+
+The conclusions derived from this analysis are similar to those previously drawn from the analysis of the 16S rDNA gene. The monophyletic groups
+
+The genus
+
+The results of the analysis indicate that the ANI value for strain S21 and any of the six
+
+In addition to constructing the ANI Heatmap, we employed digital DNA–DNA hybridization (dDDH) as an additional criterion for comparing the genomes of bacteria belonging to the genus
+
+In conclusion, based on the formal criteria of ANI and dDDH, it can be stated that
+
+In order to perform genome annotation of the
+
+As a soil bacterium,
+
+Thus,
+
+As we have already noted, many representatives of
+
+Our results show that the genome of
+
+Secondary metabolites synthesized by bacteria determine their ability to assimilate useful substances from the external environment, establish symbiotic relationships with other organisms, and suppress competitors. We used antiSMASH [
+
+If we consider only clusters with similarity equal to or greater than 60% as recommended in the literature [
+
+One of the most crucial aspects of the existence of the majority of bacteria, if not all, is the ongoing battle against bacteriophages. Bacteriophages are in significantly greater numbers than bacteria and are a principal factor limiting their abundance. Consequently, bacteria have evolved a variety of defense mechanisms, including the well-documented restriction–modification and CRISPR/Cas systems, as well as others that have only recently begun to be studied in detail [
+
+As prophages contain a number of “hypothetical proteins,” we employed the DFAST algorithm followed by BLASTP to predict the functions of the proteins encoded in these prophages. The results of the search for prophage 2 are presented in
+
+Subsequently, we employed the CRISPRMiner tool [
+
+Next, a search was conducted using the PADLOC tool [
+
+In the genome of
+
+In a close symbiotic relationship between a eukaryotic host and a prokaryotic symbiont, instances of horizontal gene transfer have been observed. For example, portions of plant genomes can be transferred to their bacterial endophytes (often in a spliced form via mRNA) [
+
+Given the potential of
+
+A search for virulence factors has identified genes encoding the metabolic enzymes isocitrate lyase (
+
+Thus, no specialized genes associated with pathogenicity or antibiotic resistance were identified in the genome of
+
+The presence of antibiotics in the environment has been demonstrated to influence the activity and composition of soil microorganisms, ultimately leading to the emergence of antibiotic resistance. The primary pathways through which antibiotics enter the soil include the use of wastewater on agricultural land and manure fertilization. This hypothesis is supported by growing evidence of the presence of antibiotics used in animal husbandry, plant breeding, medicine, and agriculture in soil samples [
+
+Despite the absence of specialized genes responsible for antibiotic resistance,
+
+The lipidome represents a crucial component of the bacterial cell. Lipids may regulate the essential barrier function of the cellular membrane, thereby mediating resistance to environmental factors, including antibiotics and other organic and inorganic compounds. Consequently, we conducted an analysis of the lipidome of
+
+Among all the signals, 22.84% were annotated as “Unknown”. The remainder were dominated by glycerol phospholipids (41.39%), followed by glycerolipids (16.78%), fatty acyls (5.40%), sphingolipids (5.38%), and so forth. Of particular interest were mono- (MGDG) and digalactosyldiacylglycerol (DGDG) and their esters, which were grouped into the glycolipid category (3.15%), and steroid compounds and their derivatives (1.43%), including stigmasterol, brassicasterol, and sitosterol acylhexosyls, which are more commonly found in plants and algae. An abnormally elevated level of diglycerides was also identified, a finding that demonstrates a strong correlation with the presence of glycerol phospholipids and glycolipids, which function as precursors for the aforementioned diglycerides. The level of free fatty acids and their derivatives was found to be comparatively low, a finding that is consistent with the reduced abundance of other classes of lipids that are derived from fatty acids.
+
+Catalase is the most abundant enzyme present in virtually all living organisms exposed to oxygen (such as bacteria, plants, and animals). It catalyzes the decomposition of hydrogen peroxide to water and oxygen [
+
+Nitrogen assimilation is a crucial bacterial process that provides plants and other host organisms with accessible nitrogen forms [
+
+It is noteworthy that the strain does not produce hemolysin. This finding, in conjunction with the results of the genome analysis, which demonstrated the absence of virulence factors, suggests that this strain is safe for humans.
+
+In the present study, we isolated and comprehensively characterized a novel species of
+
+The genome of
+
+It appears that
+
+An intriguing aspect of the
+
+Sterols are also considered to be primarily lipids of eukaryotes. Cholesterol is a typical component of animal cells, whereas plants possess phytosterols, including β-sitosterol, campesterol, stigmasterol, brassicasterol, and others. Fungi possess ergosterol, fucosterol, and other sterols found in algae. Additionally, various sterols have been described by different protists [
+
+Another potential application of
+
+We identified a novel species,
+
+Strain S21 was isolated from the central region of the anthill of
+
+Prior to the isolation of DNA, the bacterial samples were stored at −80 °C. The total DNA was isolated from the bacteria using the DNeasy PowerSoil Pro DNeasy kit (Qiagen, Hilden, Germany) in accordance with the manufacturer’s instructions. The quantity of DNA was determined using a Qubit
+
+The quality of the raw reads was evaluated using FastQC software, version 0.11.8 (
+
+The assembled genome was annotated using a combination of tools, including DFAST, Prokka on the Proksee server, RASTtk and PATRIC [
+
+The results of the DFAST annotation were primarily utilized for the analyses due to the convenient tabular output format (see
+
+The MiGA and DFAST web services were employed for the preliminary evaluation of the systematic position of the S21 strain, as they identified the most closely related strains based on the ANI value and facilitated the taxonomic affiliation with genus-level precision. To further elucidate the taxonomic affiliation of the S21 strain, 16S rDNA gene sequences of the
+
+An additional phylogenetic tree was constructed using the concatenated sequences of housekeeping proteins. The concatenated protein sequences of
+
+The genomes of bacteria belonging to the genus
+
+The same genomes were subjected to analysis using the dDDH algorithm. For this purpose, the genomes were uploaded to the GGDC website, with each of the genomes used as a reference for comparison with the genome of
+
+Genes related to mineral compound uptake (such as nitrogen, sulfur, phosphorus, sodium, potassium, and magnesium), heavy metal tolerance genes (cobalt, nickel, zinc, and cadmium transporters), and aromatic compound biodegradation genes were identified through manual searching of DFAST annotation results and, to a lesser extent, annotation results from other tools. The antiSMASH bacterial version web service was utilized to identify gene clusters responsible for the biosynthesis of secondary metabolites.
+
+Prophages in the genome were identified using the VirSorter program, which is integrated into the Proksee web server. To identify homologous genes in these regions, the BLASTP algorithm was employed on the NCBI website [
+
+To identify instances of horizontal gene transfer from
+
+Prior to analysis, the samples were stored at −80 °C. The samples were thawed on ice. Following the thawing process, the samples were subjected to a 10-s vortexing procedure. An amount of glass beads (0.1–0.2 mm) equivalent to half the volume of the original sample was then added to the samples. Subsequently, 500 µL of the internal standard solution, containing 1-butanol, was added to the samples. The samples were subjected to homogenization using a bead beater homogenizer for a total of three cycles, each lasting 25 s and operating at maximum speed, with a 1–2 min interval between cycles. Subsequently, the samples were subjected to ultrasonication at room temperature for a period of 30 min at the maximum power setting. Subsequently, the samples were transferred to a thermal shaker and incubated for 10 min at 1200 rpm and room temperature. Subsequently, the samples were subjected to centrifugation at 13,000 rpm for 10 min at 15 °C. Following completion of the centrifugation process, 450 µL of the organic layer was collected, lyophilized to dryness, and subsequently reconstituted in 50 µL of mobile phase B (acetonitrile:isopropanol 1:9 + 10 mM ammonium formate). The samples were then subjected to centrifugation at 13,000 rpm for 10 min at 15 °C. From the resulting solution, 40 µL was extracted and transferred to labeled vials with inserts for subsequent analysis.
+
+A Sciex 6600QTOF time-of-flight mass spectrometer with a calibrant delivery system (CDS) and an Exion 30AD liquid chromatograph were employed for the analysis. The ion source settings were as follows: TEM = 350 °C; GS1 = 45; GS2 = 45; CUR = 35; IS = 5500. Ion detection was conducted in the positive ionization mode of the sample in the TOFMS mode within the range of 350–1700
+
+The components of the test sample were subjected to chromatographic separation in RPLC chromatography mode using a Waters ACQUITY C8 2.1 × 100 mm 1.7 μm chromatography column. The mobile phase consisted of a water–acetonitrile (4:6) mixture with 10 mM ammonium formate in phase A and an acetonitrile–isopropanol (1:9) mixture with 10 mM ammonium formate in phase B. The mobile phase consisted of acetonitrile: isopropanol (1:9) with 10 mM ammonium formate, with an injection volume of 10 μL. The gradient program was as follows: 0 min, 10% B; 4 min, 30% B; 5 min, 48% B; 22 min. The mobile phase consisted of 65% B for 24 min, 99% B for 4 min, 99% B for 28.2 min, and 10% B for 10 min, with a flow rate of 0.25 mL/min and a thermostat temperature of 55 °C. Two technical repetitions were conducted for each sample in positive sample ionization mode.
+
+The results were processed using SCIEX MasterView and Skyline MSDIAL software (version 24.1). The ions selected for further analysis were subjected to a 20-fold prefiltering process against the blank sample. The MSDIAL software was employed for lipid annotation, utilizing a generated lipid library and the MS-DIAL LipidBlast library (version 68). The relative quantification of annotated lipids was conducted by summing the areas under the peaks corresponding to all ions for a given lipid. The data on the relative content of annotated lipids were visualized using a custom script written in Python 3.5.6.
+
+In order to characterize the isolated strain, a series of biochemical tests were performed. The kits utilized for the respective groups of microorganisms facilitate the performance of tests with varying substrates, thereby enabling the assessment of the outcomes of biochemical reactions. The following parameters were subjected to examination: malonate utilization, Voges–Proskauer test, citrate utilization, ONPH, and tests for nitrate reductase, catalase, arginine, sucrose, mannitol, glucose, arabinose, and trehalose metabolism.
+
+The nitrogen-fixing ability of the strain was evaluated by the acetylene reduction technique [
+
+The antibiotic resistance of
+
+The cultures were diluted in sterile distilled water to a turbidity of 0.5 units, in accordance with the McFarland standard, which corresponds to a concentration of 1.5 × 10

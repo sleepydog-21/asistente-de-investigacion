@@ -1,0 +1,11 @@
+{
+  "id": "36987873",
+  "title": "HPr prevents FruR-mediated facilitation of RNA polymerase binding to the fru promoter in Vibrio cholerae.",
+  "doi": null,
+  "authors": "Yoon CK, Lee SH, Zhang J, Lee HY, Kim MK, Seok YJ",
+  "journal": "Nucleic acids research",
+  "year": "2023",
+  "abstract": "Phosphorylation state-dependent interactions of the phosphoenolpyruvate (PEP):carbohydrate phosphotransferase system (PTS) components with transcription factors play a key role in carbon catabolite repression (CCR) by glucose in bacteria. Glucose inhibits the PTS-dependent transport of fructose and is preferred over fructose in Vibrio cholerae, but the mechanism is unknown. We have recently shown that, contrary to Escherichia coli, the fructose-dependent transcriptional regulator FruR acts as an activator of the fru operon in V. cholerae and binding of the FruR-fructose 1-phosphate (F1P) complex to an operator facilitates RNA polymerase (RNAP) binding to the fru promoter. Here we show that, in the presence of glucose, dephosphorylated HPr, a general PTS component, binds to FruR. Whereas HPr does not affect DNA-binding affinity of FruR, regardless of the presence of F1P, it prevents the FruR-F1P complex from facilitating the binding of RNAP to the fru promoter. Structural and biochemical analyses of the FruR-HPr complex identify key residues responsible for the V. cholerae-specific FruR-HPr interaction not observed in E. coli. Finally, we reveal how the dephosphorylated HPr interacts with FruR in V. cholerae, whereas the phosphorylated HPr binds to CcpA, which is a global regulator of CCR in Bacillus subtilis and shows structural similarity to FruR.",
+  "source": "PubMed",
+  "pmcid": "PMC10287919"
+}

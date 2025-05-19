@@ -1,0 +1,11 @@
+{
+  "id": "38123018",
+  "title": "Development of a bacterial gene transcription activating strategy based on transcriptional activator positive feedback.",
+  "doi": null,
+  "authors": "Yu G, Duan Q, Cui T, Jiang C, Li X, Li Y, Fu J, Zhang Y, Wang H, Luan J",
+  "journal": "Journal of advanced research",
+  "year": "2024",
+  "abstract": "Transcription of biological nitrogen fixation (nif) genes is activated by the NifA protein which recognizes specific activating sequences upstream of σ Development of an efficient gene transcription activating strategy in bacteria based on positive transcription regulatory proteins and their regulating DNA sequences. We designed a highly efficient gene transcription activating strategy in which the nifA gene was placed directly downstream of its regulating sequences. The NifA protein binds its regulating sequences and stimulates transcription of itself and downstream genes. Overexpressed NifA causes transcription activation by positive reinforcement. When this gene transcription activating strategy was used to overexpress NifA in Pseudomonas stutzeri DSM4166 containing the nif gene cluster, the nitrogenase activity was increased by 368 folds which was 16 times higher than that obtained by nifA driven by the strongest endogenous constitutive promoter. When this strategy was used to activate transcription of exogenous biosynthetic genes for the plant auxin indole-3-acetic acid and the antitumor alkaloid pigment prodigiosin in DSM4166, both of them resulted in better performance than the strongest endogenous constitutive promoter and the highest reported productions in heterologous hosts to date. Finally, we demonstrated the universality of this strategy using the positive transcriptional regulator of the psp operon, PspF, in E. coli and the pathway-specific positive transcription regulator of the polyene antibiotic salinomycin biosynthesis, SlnR, in Streptomyces albus. Many positive transcription regulatory proteins and their regulating DNA sequences have been identified in bacteria. The gene transcription activating strategy developed in this study will have broad applications in molecular biology and biotechnology.",
+  "source": "PubMed",
+  "pmcid": "PMC11674765"
+}

@@ -1,0 +1,67 @@
+
+
+Integration host factor (IHF) belongs to nucleoid-associated proteins and was first identified as a λ-phage accessory protein involved in the site-specific recombination process (
+
+In this study, we found that deletion of
+
+The wild-type strain used in this study was high-alcohol-producing
+
+Growth curves of W14, Δ
+
+LB cultured strains were incubated overnight, and the supernatant was taken by centrifugation at 12,000 rpm to measure alcohol concentration. The level of alcohol in all strains was determined by headspace gas chromatography (Agilent 6850) with flame ionization detection (Headspace) in both aerobic and anaerobic conditions.
+
+W14, Δ
+
+To better analyze the effect of IHF on biofilm formation, confocal laser scanning microscope (CLSM) was used to analyze biofilm production. The cultured strains were incubated overnight and diluted at a ratio of 1:100 with fresh LB. A total of 1 mL of the diluted solution was added to a 15-mm glass bottom cell culture dish and incubated at 37°C for 48 h to form biofilm at the bottom. The culture dish was washed thrice with PBS buffer and fixed with 2.5% glutaraldehyde for 1.5 h at 4°C. After washing twice with PBS buffer, 400 µL of 50-µg/mL fluorescein isothiocyanate-conjugated concanavalin A (FITC-conA) solution was added to stain the extracellular polysaccharides at 4°C for 1 h. After washing with PBS again, the bacteria in the biofilm were observed by fluorescent staining with 10-µg/mL propidium iodide (PI) solution at 4°C for 15 min. The resulting solution was then poured and dried at room temperature. A CLSM system was used to digitize all confocal images. Fluorescent intensity, biofilm production, bacterial density, and other analyses were analyzed using ImageJ.
+
+The cytotoxicity of
+
+RNA sequencing was performed using Gene Denovo Biotechnology Co., Ltd (Guangzhou, China). Briefly, total RNA was extracted from late-exponentially growing period of W14, Δ
+
+The bacterial suspension to be tested was first centrifuged at 12,000 rpm, and the obtained bacterial precipitate was resuspended with 1-mL trizol. Then, 0.2-mL trichloromethane was added, and the solution was vortexed for 15 s and centrifuged at 12,000 rpm for 10 min. Equal amounts of the aqueous phase were mixed lightly with isopropanol, and total RNA was extracted using the RNeasy Mini kit (Tiangen Biotech, Beijing, China). Approximately 0.5–1.0 μg of RNA was used for reverse transcription, and cDNA was synthesized by PrimeScript Reverse Transcriptase (TaKaRa, Dalian, China). The quantitative real-time PCR (qRT-PCR) experiment was performed using 20 µL of a mix including the SYBR Premix Ex TaqTM II (TaKaRa), cDNA templates, and specific forward and reverse primers. The experiment was performed using the CFX Connect Real-Time system (Bio-Rad, USA).
+
+Each assay used three biological replicates to ensure accuracy. Data were statistically analyzed by GraphPad Prism (version 5.0, USA) and expressed as mean ± standard deviations. Statistically significant differences were determined by Student’s
+
+IHF typically comprises two subunits, IHFɑ and IHFβ, encoded by
+
+Deletion of
+
+To examine whether IHF affected biofilm formation in HiAlc
+
+Deletion of
+
+Our previous study found that HiAlc
+
+Deletion of
+
+To understand the mechanism of IHF-mediated regulation of bacterial biofilm and virulence, we examined the gene expression profiles of the late-exponentially growing W14, Δ
+
+Profiling gene expression of Δ
+
+CPS are closely related to biofilm formation and bacterial virulence (
+
+Regulatory network of IHF in HiAlc
+
+Deletion of
+
+LPS, cellulose, type I fimbriae, and type III fimbriae are also involved in
+
+LuxS/AI-2 QS system can detect cell density and affect the virulence of
+
+Iron acquisition is vital for bacterial survival and growth. Its absorption depends on a specific outer membrane transporter, in which TonB-dependent transporters (TBDTs) can efficiently bind to the iron-containing substrates. After binding to the substrates, the conformation of TBDTs changes, followed by interaction with TonB via the N-terminal conserved region to obtain energy to complete the transport (
+
+Secretion systems, from type I secretion system to T6SS, are regulated by IHF in
+
+The operon
+
+HiAlc
+
+IHF-regulated genes related to the TCA cycle and fermentation. (
+
+Our previous study found that HiAlc
+
+As a regulator, IHF binds to DNA by recognizing consensus sequences 5′
+
+The function of IHF has been explored in several bacterial species. In
+
+It is worth noting that IHF positively regulates

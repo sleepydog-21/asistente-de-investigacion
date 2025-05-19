@@ -1,0 +1,11 @@
+{
+  "id": "39738018",
+  "title": "Bacteroides expand the functional versatility of a conserved transcription factor and transcribed DNA to program capsule diversity.",
+  "doi": null,
+  "authors": "Saba J, Flores K, Marshall B, Engstrom MD, Peng Y, Garje AS, Comstock LE, Landick R",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "The genomes of human gut bacteria in the genus Bacteroides include numerous operons for biosynthesis of diverse capsular polysaccharides (CPSs). The first two genes of each CPS operon encode a locus-specific paralog of transcription elongation factor NusG (called UpxY), which enhances transcript elongation, and a UpxZ protein that inhibits noncognate UpxYs. This process, together with promoter inversions, ensures that a single CPS operon is transcribed in most cells. Here, we use in-vivo nascent-RNA sequencing and promoter-less in-vitro transcription (PIVoT) to show that UpxY recognizes a paused RNA polymerase via sequences in both the exposed non-template DNA and the upstream duplex DNA. UpxY association is aided by 'pause-then-escape' nascent RNA hairpins. UpxZ binds non-cognate UpxYs to directly inhibit UpxY association. This UpxY-UpxZ hierarchical regulatory program allows Bacteroides to generate subpopulations of cells producing diverse CPSs for optimal fitness.",
+  "source": "PubMed",
+  "pmcid": "PMC11685472"
+}

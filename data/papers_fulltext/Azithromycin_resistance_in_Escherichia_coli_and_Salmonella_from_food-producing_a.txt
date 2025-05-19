@@ -1,0 +1,61 @@
+The macrolide azithromycin is a critically important clinical antimicrobial,
+
+Due to the transmission of antimicrobial-resistant bacteria between animals and humans, the EU has implemented harmonized monitoring and reporting of antimicrobial resistance (AMR) in zoonotic and commensal bacteria from food-producing animals and food since 2014.
+
+Phenotypic azithromycin susceptibility testing is technically challenging and presents reproducibility issues in classifying isolates consistently as susceptible or resistant, which could be overcome by using WGS methods. However, these methods perform with high accuracy only for well-studied AMR determinants. Therefore, elucidating AMR gene patterns to increase the accuracy and effectiveness of WGS approaches is of great importance.
+
+Although the prevalence of azithromycin-resistant
+
+A total of 1276 isolates were examined in this study. These isolates comprised 1007
+
+WGS of the isolates was performed using Illumina paired-end sequencing on MiSeq, HiSeq or NextSeq platforms (Illumina, Inc., San Diego, CA, USA). Sequencing reads were trimmed using Trimmomatic v0.38
+
+Isolates harbouring
+
+Characteristics of
+
+
+
+
+
+
+
+
+
+We screened commensal
+
+Sankey plots showing macrolide resistance genes/mutations and azithromycin MICs in the
+
+Distribution of macrolide resistance genes in
+
+Regarding chromosomal mutations, five non-synonymous
+
+One of the established macrolide resistance genes that confers high-level azithromycin resistance in Enterobacterales is
+
+The
+
+
+
+Among the resistant
+
+Exceptions to the
+
+Comparative analyses of contigs harbouring
+
+Despite exceptions to each of the two most common
+
+The
+
+We first detected
+
+Since
+
+The relevance of the plasmid-borne
+
+The
+
+In addition, we detected
+
+A limitation in our study was that we could not unequivocally determine whether the detected macrolide resistance genes were located on the chromosome or on plasmids due to the nature of the Illumina short-read sequencing technology. Furthermore, the association of AMR genes with IS or Tn elements is not entirely certain, due to the possibility of mis-assemblies, although studies suggest that these tend to be rare for high-coverage data. Both limitations could be overcome by long-read sequencing technologies.
+
+We investigated azithromycin resistance determinants and phenotype–genotype correlation in a collection of 1276

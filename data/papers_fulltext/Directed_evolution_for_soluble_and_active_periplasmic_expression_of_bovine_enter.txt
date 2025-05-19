@@ -1,0 +1,157 @@
+Enterokinase, or enteropeptidase (EC 3.4.21.9), was the first known enzyme to activate other enzymes
+
+EK
+
+Recombinant expression of EK
+
+Directed evolution has previously improved the soluble expression of eukaryotic proteins in
+
+Unless otherwise specified, all reagents and materials were purchased from Sigma-Aldrich UK Ltd (Dorset, UK).
+
+The parent template gene of the Chinese yellow bovine EK
+
+Mutant primers for site-directed mutagenesis.
+
+Preliminary activities for the consensus variants of Cny-EK
+
+A 400 μL aliquot of lysis mixture (1 mg mL
+
+Random mutagenesis was carried out using the GeneMorph II EZClone Domain Mutagenesis kit (Agilent Technologies, UK) with the manufacturer’s instructions. The forward (5’-cgtagaggatcgagatctcg-3’) and reverse (5’-gctagttattgctcagcgg-3’) primers (Eurofins Genomics, UK) for epPCR, flanked the region of the gene containing the T7 promoter,
+
+Variants selected after screening of the random mutagenesis libraries were randomly recombined using DNA-shuffling
+
+Activity detection of variants produced from random mutagenesis and DNA/HITS-shuffling libraries was carried out as described above, except that colony picking was automated with a QPix2 colony picker (Molecular Devices, UK), and liquid-handling was automated using a Freedom Evo TECAN (Reading, UK). BL21(DE3) or C41(DE3) harbouring the empty pET26b + vector were used in triplicate as negative controls in all library screens. The relevant parent variant in BL21(DE3) or C41(DE3) was used in triplicate as positive controls.
+
+The cleavage of the GD4K-na fluorescence substrate was monitored as above, for the reaction plates sealed with aluminium thermowell sealing tape (Costar, UK) and incubated at 25 °C with no shaking. To additionally assess EK
+
+Fermentation conditions and procedures were the same as stated for screening above, except that for 30 °C expression, pre-induction and post-induction growth times were 6 h and 4 h, respectively, while for 37 °C expression, pre-induction and post-induction growth times were 4.5 h and 4 h, respectively. Lysis and assay conditions were the same as used in the screening above. In order to relate the spectrophotometer’s fluorescence unit (FU) signal to the amount of 2-naphthylamine fluorometric product liberated (or GD
+
+A partial least squares (PLS) regression analysis was conducted in OriginPro 2018 (Origin Lab Corp., Northampton, MA, USA) using default settings, to estimate the effects of individual mutations (independent variables) within the 321 unique EK
+
+EK
+
+Initial rates for purified EK
+
+Total activity from the 500 μL shake flask aliquots, was also determined as above, and then the soluble expression levels of functional enzymes were estimated by dividing the total activity of the variants measured in lysates at 0.0625 mM substrate, by their specific activity (initial velocity/enzyme concentration) as determined using the same purified variant with 0.0625 mM substrate. Determination of the soluble expression level was also estimated directly from SDS-PAGE for some variants.
+
+The thermal transition midpoint temperatures (
+
+Unfolding rates at 45 °C (
+
+The pelB secretion peptide
+
+The more widely studied Bovine EK
+
+The relative total activity at 30 °C and 37 °C for each variant-strain combination, is shown in Fig.
+
+Total activity of EK
+
+That the R82P mutation was highly beneficial was consistent with both the expectation that consensus mutations are frequently stabilising
+
+Residue C112 of EK
+
+It was fully expected that DNA-level mutagenesis of the T7 promoter,
+
+The overall library generation strategy, starting with random mutagenesis, is shown in Fig.
+
+Schematic of overall library generation and iteration strategy. Error-prone PCR (EPPCR) generated the initial 3000 variants from libraries with three different mutation rates. DNA shuffling of the 86 identified and ranked mutations led to libraries L1 to L10. Further DNA shuffling of top hits from libraries L1 to L10 led to libraries L11 and L12. Library L13 was then generated from the 11 top hits from L12, plus 20 rare variants from across all libraries. Each library (L1, L2 etc.) is described in more detail in Tables
+
+Three random mutagenesis libraries were constructed and screened. A mutation rate of typically 1–3 base changes, with some containing as many as six base changes, was obtained. Given the high level of
+
+DNA-shuffling of all 86 variants would constitute a library size of 2
+
+Approximately 2400 variants were screened in total from across libraries L1–10, and 370 variants with up to tenfold improvements in total activity, and up to fivefold improvement in residual activity after heat inactivation compared to the V15Q/R82P/C112S parent (Fig.
+
+Distribution of improvements in (
+
+Top variants selected from the first-round DNA-shuffling libraries were further shuffled in three new successive libraries (Supplementary Tables
+
+Overall, approximately 6500 EK
+
+Total activities and stabilities of 321 EK
+
+Particularly interesting variants included WLEK0362, and WLEK0699, and WLEK0779. WLEK0362 was one of the most stable variants with 93–100% retained activity after heat inactivation, compared to just 4.3% for V15Q/R82P/C112S and 0% for V15Q. It also had moderately improved total activity compared to V15Q/R82P/C112S (1.8-fold at 30 °C and 1.4-fold at 37 °C), but was significantly improved over the original WT Cny-EK
+
+The expression temperature did not significantly effect the total activity for most EK
+
+The relationship between total activity and the stability as measured from residual activity after a two-hour heat challenge at 50 °C, is shown in Fig.
+
+Relationship between total activity and the residual activity after a 2-h heat inactivation at 50 °C, for the 321 unique EK
+
+A partial least squares (PLS) analysis was used to deconvolute the effects of individual mutations on EK
+
+The PLS regression ranked the relative effects of all mutations (as independent variables) on the four dependent (response) variables of total activity and residual activity, each when expressed at 30 °C and at 37 °C. A tenfold cross validation resulted in coefficients for each mutation that were obtained from an optimal model (minimum root-mean PRESS) in which 7 components explained 63%, 65%, 70%, and 69% of the variance in activity 30 °C, activity 37 °C, stability 30 °C, and stability 37 °C, respectively, reflected in the Pearson correlations between predicted and actual responses of R
+
+The highest coefficient values indicate mutations that have the largest effects on each response in the model. High VIP values indicate mutations which account for more of the overall variability in the sequences themselves, and are therefore of more importance to the model. Mutations were first ranked by their variable importance in projection (VIP) values, to reject those with VIP < 0.6. The remainder were binned into significant mutations with VIP > 1.0, and moderately significant mutations with VIP 0.6 to 1.0, and their coefficients plotted in VIP rank order in Supplementary Fig.
+
+Silent mutations throughout the promoter,
+
+At the protein mutation level, S38T, I135S/t556g, A129T, S127T, M96L, and M100K were beneficial to both activity and stability. H235N was beneficial to activity, but neutral to stability. Then possibly I135V/T, M100T, Q160L, and M48K were also beneficial, but these mutations had VIP values of 0.84 to 0.95 making them less important to the PLS model. The pelB mutation P5’L had a positive impact but only on the total activity obtained when expressed at 37 °C. Notable mutations with significant to modest negative impacts were D142F, g226a, P162S, I128V, R124G, L74F, c604g and possibly G27S.
+
+Interestingly, the ranking of mutation I135S, and to a lesser extent I135V or I135T, as highly beneficial for both total activity and stability, was consistent with a previous finding
+
+Several variants were purified and then characterised in more detail to identify the broader links between their stability (
+
+Characterisation of EK
+
+Total activity in clarified lysates and specific activity for purified enzyme were each assayed using 0.0625 mM substrate. Soluble expression = Total activity/Specific activity. n.d.—no data.
+
+Characterisation of EK
+
+Total activity in clarified lysates and specific activity for purified enzyme were each assayed using 0.0625 mM substrate. Soluble expression = Total activity/Specific activity. n.d.—no data. * WT activity is rounded up to 1, but the limit of detection was approx 15 mM hr
+
+To determine the kinetic parameters of each variant, initial velocity data were fitted by non-linear regression to a modified Michaelis–Menten equation, to account for any substrate inhibition which was apparent in all variants except the V15Q/R82P/C112S
+
+The relationship between the catalytic turnover rate constant (
+
+Relationship between catalytic turnover rate (
+
+Changing the expression temperature and codon optimisation affected
+
+It was expected that total activity would increase as a function of soluble protein expression level, especially as the specificity constants (
+
+Relationship between soluble expression and total activity in clarified lysates. Variants were expressed at (White Circle) 30 °C or (Black Circle) 37 °C. WLEK0699 is shown separately as triangles from expression at (White Triangle) 30 °C or (Black Triangle) 37 °C.
+
+Comparisons of enzyme kinetic parameters indicated that the proportion of correctly-folded soluble enzyme, was affected by expression temperature and codon optimisation. The thermostability of the purified variants was measured by differential scanning fluorimetry to probe folding quality further, as a possible source for differences in total activity, residual activity, and enzyme kinetics, when expressed under different conditions. The melting temperatures,
+
+A comparison of
+
+The
+
+The 321 unique variants used in the PLS model represented a wide range of activities and stabilities obtained from the libraries, and not just those selected for improvements. The locations and impact of all mutated sites in the protein are highlighted by sequence position and secondary structure type in Supplementary Fig.
+
+Position in EK
+
+As might be expected from the increase in backbone flexibility they can cause, mutations away from proline were detrimental (P162S, P214L), while the only switch to proline was the stabilising consensus mutation R82P. Similarly, mutations towards glycine can increase backbone flexibility, and this may explain the destabilising effect of R124G, although this mutation also removed a salt bridge.
+
+Mutations that broke or formed salt bridges featured highly. Several mutations at charged residues were detrimental (D21N, R124G, D142F, K156R). Except for D142F, These would have all broken salt bridges (D21-K52; R124-E195; K156-D176). Mutations towards charged residues were beneficial (M100K and M48K), although Q137R was beneficial for activity but deleterious to stability. M100K has the potential to produce a new salt bridge to the unpaired residue E99, while M48K has the potential to form a new salt bridge with neighbouring residue E49. Q137 is close to two (9.5 Å and 10 Å) of the aspartate sidechains of the DDDK substrate when bound, and so the mutation to arginine potentially improved substrate binding through increased electrostatic interactions.
+
+Finally, mutations at charged residues not already in salt bridges were also beneficial (E99A, H235N). E99 is a partially buried negative charge which is thermodynamically unfavourable and so the E99A mutation would favourably remove that charge. Alternatively, as discussed above E99 can potentially form a salt bridge in variants with the beneficial mutation M100K. H235 is at the C-terminus and so the impact of H235N in this flexible and solvent exposed region is harder to rationalise.
+
+One minor structural motif was apparent in the beta-strand at residues G123 to G130, with a binary repeat pattern in the sequence. This resulted in positive mutations appearing on one face of the strand and negative mutations on the other, while avoiding mutation of C126 which forms a disulphide bond to C193. Thus improved contacts could be achieved on the face that interacts with the N-terminal loop region (residues D6 to W14), and also the neighbouring strands within the same beta-sheet.
+
+While the mutations with greatest importance (VIP > 0.5) were distributed throughout the structure, the positive or negative PLS coefficients for both total activity and stability were segregated such that mutations with negative coefficients were generally closer to catalytic residues or the substrate. This strongly indicates that mutations most detrimental to total activity were those that impacted structural regions directly involved in catalysis or substrate binding. By contrast, those that improved total activity mostly acted indirectly at a distance from the active site, through improved soluble expression and stability. Thus the best mutations for improved total activity tended to be found at a distance from the active site. This is in contrast to most directed evolution studies which have started with good expression and so focussed on improving catalytic efficiency (eg.
+
+Most of the observed mutations can be rationalised post hoc through the local interactions gained or lost, or through altered backbone flexibility expected for mutations to and from proline (eg. P162S and P214L), as described above. The individual impacts of some of these important mutations are described below in the context of key selected variants.
+
+Variant WLEK0779 (V15Q/R82P/M96L/C112S/R124G/N169D) exhibited the highest total activity when expressed at 30 °C, and yet only moderate total activity when expressed at 37 °C, and just 11% residual activity after pre-incubation at 50 °C for 2 h. Examination of Fig.
+
+WLEK0362 (V15Q/S38T/L74F/R82P/M100K/C112S/S127T/N169D) was the most stable variant with 93–100% retained activity, and the highest
+
+WLEK0488 (V15Q/S38T/L74F/R82P/M100K/C112S/S127T/P162S/H235N) had slightly lower stability, higher total activity in lysates, and fivefold lower
+
+Finally, WLEK0699 (P5'L/A19'V/V15Q/R82P/E99A/C112S/A129T/I135S) had improved stability (84–89% retained activity) and a high total activity (5 to sixfold improved over V15Q/R82P/C112S). As discussed above, this variant was the only one which increased catalytic effciency, such that
+
+The improved catalytic efficiency of WLEK0699 was driven mainly through a decrease in
+
+The E99 sidechain makes van der Waals contacts with the hydrophobic M100 and L74 sidechains, which unfavourably partially buries an acidic sidechain charge. E99A would remove this unfavourable charge. It is worth noting that M100K which has positive PLS coefficients as described above, would potentially be stabilising by forming a new salt bridge to E99. E99A and M100K only appear together once (in WLEK0433), out of 72 instances of variants containing M100K and 24 instances containing E99A, highlighting a strong selection against the two simultaneous mutations. WLEK0433 ranked low, with little improvement over the V15Q/R82P/C112S parent.
+
+Cytoplasmic expression of bovine enterokinase light chain (EK
+
+Statistical analysis by PLS allowed the importance and influence of each mutation within the unselected library to be ranked, and then mapped to the protein structure. Mutations detrimental to total activity and stability were clustered around the active site. Thus the overall best mutations for total activity, which is itself improved with increased stability, tended to be found at a distance from the active site. This is in contrast to most other studies where catalytic efficiency (eg.
+
+The final variants obtained now enable efficient expression of active enterokinase directly in
+
+
+
+Supplementary Information.

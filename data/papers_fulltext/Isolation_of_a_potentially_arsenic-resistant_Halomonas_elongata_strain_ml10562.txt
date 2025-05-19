@@ -1,0 +1,75 @@
+The genus
+
+Within this genus,
+
+The ability to tolerate and accumulate heavy metals is of great interest for environmental bioremediation [
+
+The genus
+
+The
+
+However, the
+
+In the present work, we report the isolation and characterization of
+
+Strain ml10562 was isolated from a hypersaline spring, located at 13°57′5″S, 71°44′18″W, 3,088 m elevation, in the Acos district, Acomayo province, Cusco region of Perú. We collected freshwater samples in Acos, an area that is not designated as a protected natural zone by the “Servicio Nacional de Áreas Naturales Protegidas” (Sernanp). The site is publicly accessible, and there are no specific laws or regulations in Peru that restrict sampling in this location. Twenty liters of water were taken from the natural environment, filtered through 0.22 um, and cultured in modified Sea water (SW) agar [Sodium chloride (NaCl) 25%, Magnesium chloride (MgCl
+
+Total genomic DNA was extracted from the strain ml10562, which was cultured in SW medium, using the GenElute kit from Sigma-Aldrich (St. Louis, MO, United States). Sequencing reactions were performed using the Illumina MiSeq platform and the Nextera XT DNA library kit, following the protocol (San Diego, CA, United States). Raw sequences were made available in the SRA database under accession number SRR20740642.
+
+The quality of reads were evaluated using FASTQC [
+
+To conduct the phylogenetic analysis and taxonomic identification, we retrieved twenty-six genomes of the
+
+For the phylogenetic reconstruction, we used Proteinortho v6.0.3 to identify the core genome of the twenty-nine set of genomes, using the -identity=50 option [
+
+For taxonomic identification, a whole genome comparison was performed, between our genome and the genome of the type strain
+
+We also performed genome mining on the selected genomes to identify operons associated with arsenic resistance. Specifically, we targeted the
+
+Strain ml10562 was assembled into 683 contigs with a genome size of 4,075,440 bp and a GC content of 63.25% from 329,142 reads, with a total of 77,677,512 bases sequenced, resulting in a coverage of 10x with an N50 value of 9,225 bp. The genome size and the GC content are similar to the values of the genome of the type strain
+
+Genome annotation reveals the presence of genes critical for arsenic resistance in two operons (
+
+The phylogenetic tree of
+
+To confirm whether the isolated bacteria was
+
+We used genome mining to identify genes responsible for arsenic resistance encoded by operons in 29 bacterial genomes. Our analysis focused on seven proteins that are encoded by the genes:
+
+Our results show that the proteins encoded by the
+
+The ArsK protein, which is involved as an arsenic transport protein in the detoxification of arsenic [
+
+These results suggest a diversity of genetic strategies for arsenic resistance within the genus
+
+Primers targeting to arsenite transporter gene (
+
+The fragment of arsenate reductase (
+
+Strain ml10562 had growth from 8 h with 5 mM, while 10 mM and 15 mM had exponential growth after 32 hrs.
+
+The 25 mM and 30 mM curves show a die-off phase, as evidenced by decreased absorbance values. This suggests that the minimum inhibitory concentration of sodium arsenate is 25 mM, as this is the lowest concentration that prevents bacterial growth.
+
+The results show that the strain ml10562 tolerates and is resistant to increasing concentrations of sodium arsenate (Na
+
+Arsenic contamination represents a severe ecological and health hazard, exacerbated by industrial activities such as mining that release arsenic into water and soil. Bacteria play a crucial role in the biogeochemical cycling of arsenic, acting as both mobilizers and sinks in these contaminated ecosystems. Understanding the genetic basis of arsenic resistance in bacteria provides insights into their potential applications in bioremediation and makes arsenic-tolerant microorganisms valuable resources for the mitigation of arsenic pollution [
+
+The Peruvian mining sector, particularly in regions such as Cerro de Pasco, has contributed to significant arsenic contamination in interconnected aquifers, some of which include hypersaline and freshwater systems in the Andes [
+
+Genome sequencing and assembly confirmed that strain ml10562 belongs to
+
+Interestingly, we identified the
+
+Previous studies on arsenic resistance in
+
+In conclusion, the genomic analysis of
+
+Overall, these findings highlight the adaptability of
+
+Our study identified two operons,
+
+Strain ml10562 showed growth from 8 hours at 5 mM, while at 10 mM and 15 mM exponential growth was observed after 32 hours. The data are presented on a logarithmic scale to emphasize the differences in growth patterns.
+
+(TIF)
+
+(XLS)

@@ -1,0 +1,104 @@
+There have been several reports about human patients infected with
+
+Differentiation of
+
+Timoney
+
+Thirty
+
+REP, repetitive extragenic palindromic sequences; ERIC, enterobacterial repetitive
+intergenic consensus sequences;
+
+DNA was extracted from the isolates by suspending them in Tris-EDTA buffer and boiling
+them at 97°C for 10 min. We performed a
+
+The ID TEST HN-20 Rapid system (Nissui Pharmaceutical Co., Ltd., Tokyo, Japan) was used
+to assess the biochemical reactions because this kit is commonly used in Japanese clinical
+settings [
+
+ID TEST HN-20 Rapid system (Nissui Pharmaceutical Co., Ltd., Tokyo, Japan) was used
+to assess the biochemical reactions.
+
+We conducted genotyping using REP- or ERIC-PCR fingerprinting, as previously reported
+[
+
+Based on the PCR product images generated after agarose gel electrophoresis, the
+unweighted pair group method with arithmetic mean (UPGMA) dendrograms were constructed
+using the Jaccard index for polymorphic DNA fingerprinting data obtained from the primer
+sets to randomly amplify REP and ERIC sequences. For this, we used the DendroUPGMA
+(http://genomes.urv.cat/UPGMA/index.php) and NJplot (http://doua.prabi.fr/software/njplot)
+programs. Cluster clades were determined based on the dendrogram findings. The results
+from trehalose fermentation analysis were combined with the dendrogram findings.
+
+The complete circular whole-genome sequences (WGSs) of five available Korean
+
+To determine the full-length nucleotide sequences, we designed PCR amplification primer
+sets (forward/reverse) with sequencing primer(s) using Primer3Plus
+(https://www.primer3plus.com) online. The specificity of the primer sequences was examined
+by inserting them into the nucleotide basic local alignment search tool on the NCBI
+website (https://blast.ncbi.nlm.nih.gov/Blast.cgi). To assess the accuracy of the primer
+sequences within the genome sequences encoding the enzyme, we conducted simulation PCR
+analysis using Serial Cloner 2.6 (http://serialbasics.free.fr/Serial_Cloner.html) using
+WGSs, as previously described [
+
+We used PCR-based amplification primer sets that were identical to the simulation
+PCR-based primer sets. During the PCR assay with the isolates, a DNA sample extracted from
+PA42 or PA57 having the determined WGSs was used as a positive control. Direct sequencing
+was performed using the Applied Biosystems 3730xl DNA Analyzer with a BigDye Terminator
+V3.1 (Thermo Fisher Scientific, Waltham, MA, USA). We obtained direct sequencing data for
+all PCR-positive products using the same amplification and sequencing primers. The results
+of biotype analysis based on trehalose fermentation were compared with the nucleotide
+sequence data.
+
+To assess the similarities among the deduced amino acid (AA) sequences from the
+nucleotide sequences of Korean and Japanese
+
+Five ethical committees from Kitasato Institute Hospital, Kitasato University Medical
+Center, Sanritsu Zelkova Veterinary Laboratory, Sanritsu Laboratory, and Chiba Kaihin
+Municipal Hospital reviewed and approved the study design to maintain the privacy of human
+patients, diseased dogs, and cats (approval numbers 21061, 2021033, SZ20220525, 22-01, and
+2021-02, respectively).
+
+Background information (host species, isolation source, collection date, and geographic
+location) regarding the WGSs is available on the NCBI website.
+
+We performed two-sided Fisher’s exact test to analyze the significant relationships
+between the biotypic results/human population and clades using REP- or ERIC-PCR
+fingerprinting. A web-based statistical application 2-way Contingency Table Analysis
+(http://www.grade-jpn.com/2x2.html) was applied. Statistical significance was set at
+
+In contrast, the two related subspecies
+
+Unweighted Pair Group Method with Arithmetic mean dendrograms based on polymorphic
+DNA fingerprinting date using repetitive extragenic palindromic sequence-based
+polymerase chain reaction (PCR) [
+
+We found no association between the trehalose-positive prevalence or human population and
+the two (A–1/–2) clades on the REP-dendrogram or three (B–1/–2/–3) clades on the
+ERIC-dendrogram. There was also no association between the glucosidase-positive or nitrite
+reduction-positive prevalence and the two clades or three clades on the dendrograms.
+
+To search for nucleotide sequence of
+
+Genome structures containing trehalose-6-phosphate hydrolase gene
+(
+
+Many individuals have pet animals, including dogs and cats, in their homes. Medical
+hospitals and nursing homes have introduced animal-assisted therapy as a mental health
+service for hospitalized patients and elderly residents [
+
+Mutters
+
+Repetitive sequence-based PCR fingerprinting has been applied only to a small number of
+
+Trehalose, a disaccharide, plays a role in osmotic stress protection in many
+microorganisms. These two glucose molecules are linked 1–1 alpha-glycosidically. Thus,
+trehalose is non-reducing and possesses the unique ability to maintain membrane fluidity
+under extracellular conditions of dryness and desiccation [
+
+We obtained limited host demographics (i.e., host species, isolation source, collection
+date, and geographic location) for the
+
+Thus, our observations suggest that
+
+The authors declare that they have no conflicts of interest.

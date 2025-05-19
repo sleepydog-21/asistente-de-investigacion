@@ -1,0 +1,11 @@
+{
+  "id": "39887566",
+  "title": "DNA Polymerase IV dinB Favors the Adaptive Fitness of mcr-carrying Bacteria Through a Negative Feedback Regulatory Mechanism.",
+  "doi": null,
+  "authors": "Zhang H, Xiao X, Wang C, Zhao Y, Chen B, Ji X, Gu L, Wang J, Wang Z, Liu Y",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "year": "2025",
+  "abstract": "The plasmid-borne resistance gene mcr drastically undermines the effectiveness of colistin, posing a substantial threat to public health. Although several key plasmid elements that balance mcr-1 persistence and bacterial growth are identified, the regulatory interactions between mcr-1 and host bacteria remain poorly understood. Using a genome-wide CRISPRi crRNA library, it is identified that DNA polymerase IV, dinB, is essential for controlling the fitness cost associated with mcr-1 in Escherichia coli. The absence of dinB operon enhances mcr-1-mediated colistin resistance but simultaneously compromises bacterial growth and competitiveness. Meanwhile, dinB deficiency mitigates inflammatory response in RAW267.4 cells and enhances bacterial colonization in murine tissues. Further investigation reveals that mcr-1 actively upregulates dinB expression, with the increased reactive oxygen species induced by mcr-1 being crucial for this activation.   These findings suggest that dinB modulates mcr expression and bacterial fitness via a negative feedback regulatory mechanism. Leveraging this regulatory relationship, a Toxin-Intein is engineered under the control of dinB promoter to selectively target and kill mcr-positive E. coli both in vitro and in vivo. Overall, the work uncovers a novel adaptive mechanism underlying mcr persistence and provides a precise antimicrobial strategy to combat antibiotic-resistant pathogens.",
+  "source": "PubMed",
+  "pmcid": "PMC11948064"
+}

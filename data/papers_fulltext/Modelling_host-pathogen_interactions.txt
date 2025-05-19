@@ -1,0 +1,69 @@
+The innate immune response is the body’s first line of defence against infections, providing immediate protection against pathogens. Among the strategies of the innate immune response, nutritional immunity involves the manipulation of the concentration of essential nutrients to control the growth and virulence of invading micro-organisms [
+
+The capacity of
+
+Conversely,
+
+The strategies of
+
+This work aimed to investigate whether
+
+Bacterial strains used in this work are listed in Table S1 (available in the online Supplementary Material) and were plated on
+
+Fragments spanning ~200–300 bp upstream of the coding sequences of
+
+Overnight LB cultures of
+
+The
+
+The number of viable bacteria from the hemolymph of infected larvae was evaluated at 14, 18, 24 and 40 h post-infection (hpi). The abdomen of each larva was surface sterilized with a cotton swab dipped in 70% ethanol and pricked with a sterile needle to collect 10 µl of hemolymph. Serial dilutions of the hemolymph were plated on PIA and incubated at 37 °C for 18 h for colony counting.
+
+For competition assays,
+
+At specific time intervals, the larvae injected with
+
+RNA concentration was determined with a NanoDrop™ Lite Spectrophotometer (Thermo Fisher Scientific). From each sample, 1 µg of RNA was reverse transcribed with the PrimeScript RT Reagent Kit and gDNA Eraser (Takara Bio Inc.). The primers used for real-time quantitative PCR (qPCR) were designed using Primer3 (Table S2) [
+
+Statistical analyses were performed using GraphPad Prism Software v.10.1.1. Student’s t-test and Mantel–Cox test were calculated as specified in the figure captions.
+
+Preliminary experiments were performed to analyse the colonization of
+
+A survey in the National Center for Biotechnology Information (NCBI) genome data set (NCBI
+
+The correspondent gene IDs, a brief description and homologs are reported for each gene (from CSIRO_AGI_GalMel_v1).
+
+The expression of two
+
+As expected, the activity of the
+
+The responsiveness of the reporter systems to Zn fluctuations prompted us to use the PA14 P
+
+At 24 hpi, the hemolymph from larvae was collected and plated for bacterial counts. No difference in the number of bacteria was observed (~10
+
+To support this hypothesis, bacterial RNA was extracted from PA14 wt colonizing
+
+To investigate whether
+
+A comparison between PA14 wt and
+
+A deeper analysis of the contribution of the ZrmABCD and ZnuABC Zn uptake systems was performed by competition experiments between pairs of
+
+Our results indicate that the response of
+
+Animal models are crucial in studying bacterial pathogenesis and developing treatments for infectious diseases. Research on
+
+Over the past decade,
+
+This study aimed to determine whether
+
+The induction of a systemic remodelling of Zn distribution in
+
+Our experiments also revealed strong activation of the
+
+Time-to-death infection experiments highlighted the critical role of Zn import systems in
+
+To further investigate this concept, we explored the use of
+
+Our data confirmed that
+
+In conclusion, our findings highlight that

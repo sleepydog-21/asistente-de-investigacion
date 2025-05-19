@@ -1,0 +1,11 @@
+{
+  "id": "37845007",
+  "title": "Selective RNA Processing and Stabilization are Multi-Layer and Stoichiometric Regulators of Gene Expression in Escherichia coli.",
+  "doi": null,
+  "authors": "Liu D, Lv H, Wang Y, Chen J, Li D, Huang R",
+  "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+  "year": "2023",
+  "abstract": "Selective RNA processing and stabilization (SRPS) facilitates the differential expression of multiple genes in polycistronic operons. However, how the coordinated actions of SRPS-related enzymes affect stoichiometric regulation remains unclear. In the present study, the first genome-wide targetome analysis is reported of these enzymes in Escherichia coli, at a single-nucleotide resolution. A strictly linear relationship is observed between the RNA pyrophosphohydrolase processing ratio and scores assigned to the first three nucleotides of the primary transcript. Stem-loops associated with PNPase targetomes exhibit a folding free energy that is negatively correlated with the termination ratio of PNPase at the 3' end. More than one-tenth of the RNase E processing sites in the 5'-untranslated regions（UTR） form different stem-loops that affect ribosome-binding and translation efficiency. The effectiveness of the SRPS elements is validated using a dual-fluorescence reporter system. The findings highlight a multi-layer and quantitative regulatory method for optimizing the stoichiometric expression of genes in bacteria and promoting the application of SRPS in synthetic biology.",
+  "source": "PubMed",
+  "pmcid": "PMC10667835"
+}

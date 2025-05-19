@@ -1,0 +1,11 @@
+{
+  "id": "35737166",
+  "title": "Stable, efficient, and cost-effective system for the biosynthesis of recombinant bacterial cellulose in Escherichia coli DH5α platform.",
+  "doi": null,
+  "authors": "Al-Janabi SS, Shawky H, El-Waseif AA, Farrag AA, Abdelghany TM, El-Ghwas DE",
+  "journal": "Journal, genetic engineering & biotechnology",
+  "year": "2022",
+  "abstract": "Owing to its remarkable mechanical properties that surpass the plant-based cellulose, bacterial cellulose production has been targeted for commercialization during the last few years. However, the large-scale production of cellulose is generally limited by the slow growth of producing strains and low productivity which ultimately makes the commercial production of cellulose using the conventional strains non cost-effective. In this study, we developed a novel plasmid-based expression system for the biosynthesis of cellulose in E. coli DH5α and assessed the cellulose productivity relative to the typically used E. coli BL21 (DE) expression strain. No production was detected in BL21 (DE3) cultures upon expression induction; however, cellulose was detected in E. coli DH5α as early as 1 h post-induction. The total yield in induced DH5α cultures was estimated as 200 ± 5.42 mg/L (dry weight) after 18 h induction, which surpassed the yield reported in previous studies and even the wild-type Gluconacetobacter xylinum BRC5 under the same conditions. As confirmed with electron microscope micrograph, E. coli DH5α produced dense cellulose fibers with ~ 10 μm diameter and 1000-3000 μm length, which were remarkably larger and more crystalline than that typically produced by G. hansenii. This is the first report on the successful cellulose production in E. coli DH5α which is typically used for plasmid multiplication rather than protein expression, without the need to co-express cmcax and ccpAx regulator genes present in the wild-type genome upstream the bcs-operon, and reportedly essential for the biosynthesis.",
+  "source": "PubMed",
+  "pmcid": "PMC9226222"
+}

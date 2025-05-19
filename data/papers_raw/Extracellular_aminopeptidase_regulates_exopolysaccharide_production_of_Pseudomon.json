@@ -1,0 +1,11 @@
+{
+  "id": "40037286",
+  "title": "Extracellular aminopeptidase regulates exopolysaccharide production of Pseudomonas aeruginosa via quorum sensing.",
+  "doi": null,
+  "authors": "Zhao T, Lei F, Zhang Z, Wang D, Ma LZ",
+  "journal": "The ISME journal",
+  "year": "2025",
+  "abstract": "The biofilm matrix primarily consists of proteins, exopolysaccharides, and extracellular DNA. Pseudomonas aeruginosa aminopeptidase is one of the most abundant matrix proteins in P. aeruginosa biofilms and plays a crucial role in modulating biofilm development. In a previous study, we have revealed that the loss of aminopeptidase enhances the attachment ability of P. aeruginosa. However, the mechanism by which aminopeptidase affects attachment remains unclear. In this study, we demonstrate that aminopeptidase is the primary protein associated with the matrix exopolysaccharide Psl. The loss of aminopeptidase leads to increased production of Psl, resulting in enhanced attachment of P. aeruginosa. Further investigation shows that aminopeptidase represses the transcription of the psl operon through the LasI/LasR quorum-sensing system, rather than via other known psl regulators or the cyclic-di-GMP signaling molecule. Aminopeptidase inhibits the transcription of lasI via the short peptides cleaved from the proform of aminopeptidase during its activation, which results in reduced biosynthesis of the quorum-sensing signaling molecule, N-(3-oxododecanoyl)-L-homoserine lactone, further decreasing the production of Psl. In conclusion, our study reveals an interplay between two key matrix components via quorum-sensing signal, suggesting a mechanism by which bacteria control initial attachment and exopolysaccharide production in response to cell density.",
+  "source": "PubMed",
+  "pmcid": "PMC12034520"
+}

@@ -1,0 +1,128 @@
+Through RNA-seq and DAP-seq analysis, our laboratory previously identified the Bat operon in the genome of
+
+The Bat operon, initially characterised in
+
+Additionally, deleting three genes from the
+
+MoxR AAA ATPase is an enzyme involved in various cellular functions, including protein degradation and refolding. It utilises the energy derived from ATP hydrolysis [
+
+This structure of MoxR consists of an N-terminal α/β subdomain and a C-terminal α-helical subdomain, which are connected by a short loop in the middle [
+
+Research indicates that the MoxR protein may function as a chaperone, with a notable characteristic being its binding to the VWA domain protein [
+
+In
+
+This study focuses on MoxR, an ATPase involved in various cellular activities. Our findings reveal that knocking out MoxR reduced the pathogenicity of
+
+Ten-day-old healthy Cherry Valley ducks were purchased from the Yongsheng Duck Company (Wuhan, China) and housed in isolated animal rooms maintained at temperatures between 28 and 30 °C. The Research Ethics Committee of Huazhong Agricultural University approved all animal experiments and procedures (approval no. HZAUSW-2018-011).
+
+The bacterial strains and plasmids used in this study are listed in Additional file
+
+During the screening of gene complement strains, cefoxitin (1 μg/mL, Macklin, China) was added to both TSA and TSB, while nalidixic acid (50 μg/mL, Macklin, China) was incorporated into the TSA. For the screening of other
+
+The activity of the His
+
+The National Center for Biotechnology Information (NCBI) conducted an analysis of the nucleotide and amino acid sequences of the
+
+The recombinant plasmid pET-28a-MoxR, used for the production of His
+
+The cells were then crushed three times by a pressure cell disruptor followed by 15-min centrifugation at 10 000 ×
+
+His
+
+The suicide plasmid pRE112 was used to construct the gene deletion strain. The pRE112 was linearised via PCR. The left and right homologous arms of the
+
+The shuttle plasmid pRES-JX was used to construct CΔ
+
+The pRES-
+
+Single colonies from each plate were isolated and identified using the primers 16S rRNA-F/R, MoxR-JD-F/R, SPC-JD-F/R, as detailed in Additional file
+
+After culturing the WT bacteria under normal or stress conditions, the bacteria were collected via centrifugation and the medium was discarded. The total RNA was extracted using the RN01-TRIpure Reagent (Keep, China), and the cDNA was obtained via reverse transcription of the RNA using Hifair® III 1st Strand cDNA Synthesis SuperMix for qPCR (Yeasen, China) according to the manufacturer’s instructions.
+
+Total RNA from WT and its derivatives were extracted and then reverse-transcribed into cDNA, as previously described. The primers MD-QP-F/R were designed (as shown in Additional file
+
+The growth curves of the WT, Δ
+
+The survival rates of the WT, Δ
+
+The oxidative stress group contained 10 mmol/L hydrogen peroxide and was incubated at 37 °C. The heat stress group was incubated at 42 °C, while the control group remained at 37 °C. The treated bacteria were diluted by tenfold multiplicity, and the number of viable bacteria was determined using the pour plate method. Each group included three replicates.
+
+The gene expression levels of WT and WT::
+
+According to the experimental protocol, the oxidative stress group was incubated with 10 mmol/L hydrogen peroxide at 37 °C and 200 r/min, while the heat stress group was incubated at 42 °C and 200 r/min. The control group was incubated at 37 °C and 200 r/min. Both the treatment and control groups were cultured until they reached the exponential phase. At the end of the culture period, total RNA was extracted from the samples and analysed by qPCR.
+
+Duck embryo fibroblasts (DEF) in cell vials were digested using trypsin and then spread into 12-well plates for incubation until the cell density reached 5 × 10
+
+Following the colony count, the cells were washed again with PBS, and DMEM F12 containing gentamicin (100 μg/mL, Macklin, China) was added. The medium was incubated for 1 h at 37 °C in 5% CO
+
+The Δ
+
+Ten-day-old Cherry Valley ducks were divided into 10 groups, with 10 ducks in each group, as specified in Additional file
+
+We analysed the survival adaptations of WT and Δ
+
+The LD
+
+Blast analysis results indicated that the
+
+Analyses of conserved domain and protein localisation for MoxR indicate that it contains an ATPase domain at the N-terminus. This domain includes the Walker A, Walker B and Sensor I motifs, which are essential for ATP binding and hydrolysis. The C-terminus features an AAA domain (Figure
+
+To verify the MoxR protein’s ATPase function, we expressed and purified the His
+
+To investigate the function of MoxR in
+
+We then utilised PCR and qPCR methods to identify the candidate strain (Figure
+
+We analysed the effect of MoxR on the
+
+The downregulation of
+
+Pathogenic bacteria encounter various stresses from their host during infection. To investigate the role of MoxR in the anti-stress response of
+
+We found that Δ
+
+We also cultured WT and WT::
+
+To analyse the effect of MoxR on
+
+We assessed the adhesion and invasion efficiencies of both the WT and Δ
+
+The function of MoxR during
+
+The pathogenicity of the WT and the Δ
+
+Statistical analysis determined an LD
+
+In the prevention of duck infectious serositis, vaccines are emerging as a viable alternative to antibiotics. Research has indicated that inactivated vaccines for
+
+On the other hand, attenuated vaccines can induce a strong immune response in the host and are more cost-effective [
+
+It is particularly important to study the virulence factors and pathogenesis of
+
+Additionally, VWA domain proteins typically help localise MoxR to substrate proteins [
+
+The transcription levels of the
+
+To further validate our hypothesis, we overexpressed
+
+To further analyse the inhibitory effect of MoxR on
+
+During
+
+To investigate the role of MoxR in the stress resistance of
+
+We hypothesise that stress conditions lead to the deregulation of MoxR’s inhibitory effect on its own gene. This results in increased expression of
+
+Previous studies have reported that the MoxR, VWA1, and TPR1 proteins encoded by the
+
+Deleting
+
+Experiments on duckling infections, along with adhesion and invasion assays, have demonstrated that MoxR plays a crucial role in the pathogenicity of
+
+Furthermore, the absence of MoxR results in a weakened ability of
+
+Overall, the reduction in pathogenicity of the Δ
+
+In conclusion, our study clearly demonstrates the significant role of MoxR in the growth, stress resistance, and pathogenicity of
+

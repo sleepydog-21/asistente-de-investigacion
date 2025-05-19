@@ -1,0 +1,69 @@
+In the human subgingival biofilm, a richly diverse microbial community hosting over 400 microbial species,
+
+The clinical importance of
+
+The unmarked allelic exchange usually involves two steps. In the first step, two PCR-amplified fragments, which are similar in size and homologous to sequences adjacent to the mutation site, are generated. These fragments are then positioned side by side within a suicide vector, forming an in-frame deletion construct. Integration of this construct into a cell’s chromosome occurs through a single crossover event at one of the homologous fragments. Positive selection, such as antibiotic resistance, is employed to choose integrated clones. In the second step, the integrated clones are allowed to propagate in the absence of antibiotics, facilitating a second crossover between the duplicated homologous regions resulting from insertion (
+
+Sucrose tolerance assays for SacB-expressing
+
+Applying a counterselective strategy necessitates a counterselectable gene marker housed within an in-frame deletion plasmid construct for negative selection. In this context, the gene marker product triggers self-destruction of the cell containing it. As a result, transformed cells that have integrated a suicide vector bearing a counterselectable marker through a single crossover event will retain a chromosomal copy of the marker gene. Subsequently, these cells are eradicated when exposed to either the counterselective compound or the inducer (when the product of the counterselection gene is intrinsically toxic). This implies that only strains that have completed the second crossover to remove the plasmid will remain viable. In this scenario, approximately half of the emerging colonies should exhibit an in-frame deletion, while the rest are expected to be of the wild type. The
+
+To meet this need, we have assessed several prevalent counterselection markers, including
+
+In this study, we report the development of a
+
+Using
+
+To assess the utility of
+
+As demonstrated in
+
+To gain a deeper insight into the underlying mechanism responsible for the lethal effect of
+
+The ectopic expression of
+
+Our experiments revealed that
+
+We randomly picked a thiamphenicol-resistant pZP02-∆
+
+Ten randomly selected sucrose-resistant colonies were tested for antibiotic sensitivity to screen for possible in-frame deletion mutants. Next, colony PCR was used to detect their genotypes using the primer pair ∆
+
+The application of counterselection markers facilitates not only markerless gene deletion but also precise gene knock-in at specific sites (
+
+Construction of
+
+We planned to insert a DNA fragment, including the entire gene sequence of the Luciola red luciferase gene (
+
+In this study, we developed and validated a
+
+SacB, originally from
+
+Compared to the
+
+Bacterial strains and plasmids used in this study are listed in
+
+Bacterial strains and plasmids used
+
+In this study, plasmids were created using the Gibson Assembly Master Mix kit (New England Biolabs, catalog #: E5520S) according to the manufacturer’s guidelines and are listed in
+
+Primers used in this study
+
+Underlined are primer sequences specific to complementary overlapping sequences that correspond to the adjacent ends of the fragments to be fused.
+
+To determine the sucrose sensitivity of the
+
+The pCM-galK suicide plasmid, used for in-frame gene deletion in
+
+To create an in-frame deletion (from the start codon to the stop codon) construction of
+
+The constructed plasmid is designed for the precise insertion of the luciferase gene (
+
+To assess if the
+
+The plasmids pPZ02-Δ
+
+To examine the
+
+We initiated overnight cultures of these strains to study the growth and luciferase activities of
+
+Bacterial cells were mixed with 10-nm diameter colloidal gold beads (used as fiducial markers in image alignment) and deposited onto freshly glow-discharged, holey carbon grids for 1 minute. The grids were then blotted with filter paper and rapidly frozen in liquid ethane using a gravity-driven plunger apparatus as previously described (

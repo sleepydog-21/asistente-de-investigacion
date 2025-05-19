@@ -1,0 +1,107 @@
+
+
+The life cycle of
+
+In this study, we cross-referenced genes from two transcriptomic data sets of
+
+
+
+Proteins expressed in the attack phase were obtained from the transcriptomic data of Lambert and coworkers (
+
+InterPro (
+
+The ExPASy Protopam server at
+
+Putative binding affinities of protein-protein interactions and complexes were estimated using PRODIGY (
+
+Protein association networks were predicted using the STRINGS database (
+
+Protein-protein interaction partners were confirmed experimentally using the Bacterial Adenylate Cylase Two-Hybrid (BACTH) system (Euromedex No. EUK001). Each of the two genes coding for proteins that could interact was inserted into either pUT18C/pUT18 or pKT25/pKTN25 BACTH plasmids. This allows each protein to fuse with BACTH
+
+Primers were designed to amplify nucleotide sequences corresponding to different domains of the Bd0075 and Bd0474 proteins. Engineered proteins that excluded domains were constructed by fusing nucleotide sequences upstream and downstream of the excluded region by Splicing by Extension Overlap (SOE) PCR. The resulting amplicons were cloned directionally into BACTH expression vector pKT25 or pUT18C.
+
+From the transcriptomics data published by
+
+Summary of clustering of orthologous proteins in the three data sets.
+
+Venn diagram shows overlap and cluster among AP hypothetical proteins from RNA expression data sets (Lambert et al. and Karunker et al.) and hypothetical proteins from transposon data (Duncan et al.).
+
+Each of the 43 proteins from the overlap among three datasets was used as a query in the STRINGS database to predict functional protein associations. This resulted in 43 “local” interaction networks containing 169 unique proteins after eliminating redundancy caused by duplications. Using the 169 proteins, a “global” protein interaction network was constructed. To facilitate the identification of potential protein complexes or structures within the global network, we applied the Markov Cluster Algorithm (MCL) with an inflation value of 3. This analysis formed 27 distinct clusters, which were derived based on stochastic flow dynamics. Hypothetical proteins were found in interactions with other proteins across different clusters. Proteins in each cluster are given in
+
+Employing AlphaFold-Multimer, we explored clusters 4, 10, and 12 (
+
+
+
+All interactions within each cluster were assigned interaction scores by STRINGS based on criteria such as gene neighborhood, gene fusions, co-expression, and gene co-occurrence across genomes. STRING-combined Scores above the cut-off ≥0.7, based on the lowest score of a set of experimentally established protein-protein interactions (positive controls), were considered relevant. STRING-predicted interactions above the cut-off were tested for direct protein-protein interaction in AlphaFold-Multimer.
+
+AlphaFold-Multimer ipTM (interface predicted template modeling) scores between 0.6 and 0.8 are confident while iPTM scores >0.8 are highly confident. AlphaFold-Multimer ipTM scores of interactions are given in
+
+Summary of interaction positive by AlphaFold-multimer.
+
+
+
+Bd2723, Bd2724, Bd2725, and Bd2726 in cluster 10 are encoded by genes within an operon, while the genes encoding Bd2209, Bd2210, Bd2211, and Bd2212 in cluster 12 constitute another operon. Each operon encodes for proteins that form predicted protein complexes comprising all four member proteins. Interestingly, the two operons have similar gene arrangement, and corresponding pairs from the two operons have similar sizes (
+
+Similar genomic structure of the Bd2209-Bd2212 and Bd2723-Bd2726 operons. Blast identity scale (grey) shows limited identity in the operons (Bd2209/Bd2723 : 39.14%, Bd2210/Bd2724 : 36.56%).
+
+Blast E-values and percentage identities of corresponding protein pairs from Bd2209-Bd2,212 and Bd2723-Bd2,726 operons.
+
+
+
+From cluster 4, three interactions Bd0075 + Bd0474, Bd0075+ Bd3473, and B0475 + Bd0473 having ipTM >0.6, were selected for further analysis.
+
+The AlphaFold model of Bd0075 shows three distinct domains termed A, B, and C. Using InterPro, Domain-A (Met1 to Glu83), which had no annotation, is predicted to be in the cytoplasm. In contrast, Domain-B (Gly193 to Gly488) and Domain-C (Asp489 to Asn965), containing TPR repeats, are predicted to be extracytoplasmic (
+
+
+
+To check the conservation of residues within each domain in Bd0075, we calculated conservation scores for each aligned position based on a multiple sequence alignment of 14
+
+
+
+We therefore sought the unannotated Domain-A based on structural homology with known protein structures. Using the first 166 amino acids of Bd0075 which corresponds to the cytoplasmic domain region within which the Domain-A is found, a 3D-homology search using SWISS-MODEL shows that the Domain-A shares structural similarities to the glycine-tyrosine-phenylalanine (GYF) domain of the human CD2 cytoplasmic domain binding G protein (CD2BP2) found in the intracellular CD2 binding protein 2 (CD2BP2). This domain has the conserved motif, GP [YF]xxxx [MV]xxWxxx [GN]YF. A multiple sequence alignment of representative GYF-containing proteins from NCBI-CDD, including those from humans, chicken, and yeast, with the GYF-domain of
+
+Using AlphaFold-Multimer, we predicted an interaction between Bd0075 and Bd0474 with an ipTM score of 0.619, interaction model is given in
+
+
+
+Bd0075 also showed a significant interaction (ipTM = 0.676) with the helix-turn-helix domain-containing protein Bd3743. Bd3743 contains an OmpR/PhoB-type DNA-binding domain found in response regulators at its C-terminal but lacks the phosphoacceptor receiver (REC) domain at its N-terminal, it instead possesses a TPR domain. Interestingly, in AlphaFold-Multimer models, Bd3743 binds to Bd0075 at the same sites where Bd0474 binds to Bd0075. The amino acid residues in Bd0075 involved in binding Bd0474 and Bd3743 are shown in
+
+Bd0075 amino acid residues participating in interactions with Bd0474 or Bd3743.
+
+Residues participating in Bd0075 - Bd0474 and Bd0075 - Bd3743 interactions are in bold font.
+
+The proteins Bd0473 and Bd0475 are encoded in the same operon with Bd0470, Bd0471, Bd0472, and Bd0474. In AlphaFold-Multimer, Bd0473 (containing an FHA domain) interacts with Bd0475 (a hypothetical protein) with an ipTM score of 0.604.
+
+Based on their amino acid sequences, we computed physicochemical properties, including instability index, aliphatic index, and GRAVY, for proteins examined in this study. All the proteins in this study except Bd0473, Bd0474, and Bd0475 are predicted to be stable proteins with an instability index below 40 (
+
+Physicochemical properties of examined proteins.
+
+Binding affinities (ΔG), dissociation constant (K
+
+We validated one of the predicted interactions, Bd0075 - Bd0474, using a Bacterial Adenylate cyclase two-hybrid assay (BACTH). The positive control was set up as an interaction between the pKT25-Zip and pUT18C-Zip plasmids, which were co-transformed into
+
+Furthermore, Bd0075 Domain-A alone (Bd0075AnoTM), Bd0075 Domain-A with transmembrane helix (Bd0075 ATM), and Bd0075 with only Domains A and C (Bd0075 A C) were used in BACTH assay with intact Bd0474. Bd0075AnoTM shows no interaction with Bd0474 as indicated by white colonies from the plate. The Bd0075ATM-Bd0474 gave colonies with slightly blue coloration, suggesting a role for the transmembrane helix in the interaction. The Bd0075AC-Bd0474 interaction yielded blue colored colonies comparable with those from Bd0075-Bd0474 interaction showing that the Domain-C is important for the interaction (
+
+Experimental confirmation of protein-protein interaction by BACTH system. From right to left: Bd0075 interacts with Bd0474, Bd0075 Domain-C participates in the interaction, Transmembrane of Bd0075 may participate in the interaction, and Bd0075 Domain-A without transmembrane has no effect on the interaction.
+
+Experiments with different domains of Bd0075 show that using Domain-A alone does not cause the Bd0075-Bd0474 interaction. The inclusion of the Transmembrane helix (TMH) with the Domain-A gave a slight blue color. This could mean that the TMH may contribute to the observed interaction. The interaction tests with engineered Bd0075, containing Domain-C, restored the Bd0075-Bd0474 interaction, showing that, as predicted, the Domain-C participates in the interaction (
+
+As
+
+Only interactions with AlphaFold-Multimer ipTM score above the 0.6 cutoff were considered in this study. IpTM <0.55 has been shown to indicate random predictions, while 0.55–0.85 performs better than random, with increasing accuracy (
+
+Bd0075 and Bd0474 proteins were predicted to interact with an ipTM score of 0.619. These proteins have been previously implicated alongside other proteins as essential for
+
+In addition, Bd0075 can form bonds with Bd3743 at the same binding site in its Domain-C where Bd0474 binds. Since Bd0474 and Bd3743 seem to “compete” for the same site, we modeled interaction dynamics using the three proteins in AlphaFold-Multimer. Our results showed that TPR site of Bd0075 shows a preference for Bd0474. This was corroborated by results from the calculated binding affinities (ΔG). ΔG of Bd0075-Bd0,474 (−19.6 kcal mol
+
+Bd0075 shows three distinct Domains: A, B, and C. The Domain-B and Domain-C located in the extra-cytoplasmic region contain TPR domains. TPR domains are known to participate in protein-protein interactions and facilitation of protein complexes (
+
+We found that the Domain-A of Bd0075, a small-sized independent domain in the cytoplasmic region of the protein, resembles the GYF domain of the human CD2 cytoplasmic domain binding G protein (CD2BP2). The GYF domain has the conserved motif, GP [YF]xxxx [MV]xxWxxx [GN]YF, and can bind sites containing two tandem PPPGHR segments within the cytoplasmic region of CD2. The existence of the eukaryote-associated GYF domain in
+
+Furthermore, we identified two novel complexes in clusters 10 and 12 of our MCL clustered global network. Each of the complexes is constituted by a group of proteins belonging to the same operon. The first complex (Bd2212 complex) is formed by the operon consisting of proteins Bd2209, Bd2210, Bd2211, and Bd2212, while the second complex (Bd2726 complex) is formed by the operon consisting of Bd2723, Bd2724, Bd2725, and Bb2726. These two operons are expressed in the attack phase of predation and comprise mostly unexplored hypothetical proteins. Whereas all proteins in the Bd2212 complex are annotated as hypothetical/unknown proteins, the Bd2726 complex comprises hypothetical/unknown proteins except for Bd2724 (NCBI-Tfp) pilus assembly protein FimT/FimU) and Bd2725 (NCBI- type II secretion system protein). Interestingly, the hypothetical proteins Bd2210, Bd2211, Bd2212, and Bd2723 have been linked with phenotypes with loss of predation in a transposon mutagenesis study (
+
+The Bd2209-Bd2212 and Bd2723-2726 operons have a similar arrangement of genes and form structurally similar complexes (TM-score = 0.80356). However, the corresponding genes from both operons have low BLAST percentage identities, suggesting that these gene clusters have undergone significant evolutionary divergence or were obtained from different origins. Additionally, the RMSD value of 4.17 Å of the matched complexes indicates differences at the atomic level. This divergence in gene sequences could reflect functional specialization or adaptation to different environmental conditions or cellular processes. Studying these types of operons could offer valuable insights into the mechanisms of gene duplication, evolution, and functional divergence in
+
+In AlphaFold-multimer models, Bd2212 interacted with other protein members in its operon, forming a complex with a high ipTM score of 0.852, comparable to the most stringent cutoff, iPTM = 0.85, used in a study by O’Reilly and coworkers in studying protein complexes (
+
+Using two transcriptomics data and genome-wide transposon sequencing data, this study provides a robust functional interaction network comprising 169 proteins relevant to the

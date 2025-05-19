@@ -1,0 +1,113 @@
+The gastrointestinal tract represents a highly diverse and dynamic environment characterized by varying pH levels, contingent on factors such as luminal conditions, digestive states, and individuals’ age and health status
+
+Exposure to a non-lethal acidic environment prompts
+
+The lysine-mediated decarboxylation (Cad) system serves as a pivotal mechanism for acid tolerance in organisms, comprising lysine decarboxylase CadA, lysine/cadaverine antiporter CadB, and pH-responsive transcriptional activator CadC. CadC, a membrane-integrated one-component system protein, features a cytoplasmic DNA-binding N-terminal domain, a transmembrane region, and a periplasmic pH-sensing C-terminal domain
+
+Despite the proposed acid resistance pathway of Cad systems, the molecular mechanisms driving the transition of one-component CadC from an inactive to an active state remain unclear. At pH 7.6, a disulfide bond present in the periplasmic domain of
+
+In this study, we validated the necessity of hydrolytic cleavage of periplasmic structural domain proteins and disulfide bond reduction during CadC activation in
+
+The mRNA levels of
+
+Transcription of
+
+To elucidate the regulation of
+
+The alterations of CadC at the protein level were also measured using western blot analysis under different conditions. A smaller uniform band resulting from proteolytic cleavage of CadC was observed, which was thicker under acidic conditions, while the alkaline condition led to the weakest band (Fig.
+
+To figure out how CadC is activated, we constructed the expression plasmid of pET29b
+
+To identify the protease responsible for CadC cleavage, we employed formaldehyde cross-linking during purification to capture interacting proteins for mass spectrometry analysis. Among the 14 proteins detected, only two, i.e., DegP and DegQ, were identified by mass spectrometry as proteases, designating them as candidate proteins (Fig.
+
+DegP and DegQ are conserved periplasmic bifunctional proteases in Gram-negative bacteria, known for their role in refolding or degrading misfolded proteins and contributing to bacterial stress resistance
+
+To assess the role of DegP and DegQ in lysine decarboxylation metabolism and the significance of cleavage at CadC R184, various strains were constructed, including Δ
+
+Furthermore, the activation of
+
+To delve deeper into the proteolytic cleavage of CadC under acidic stress, western blot analysis of CadC was conducted for Δ
+
+To elucidate the specific cleavage mechanism of CadC by DegP and DegQ, purified CadC, CadC R184Q, DegP, and DegQ were mixed in vitro to explore their interactions. Clear degradation of CadC by DegP or DegQ was observed within 3 hours, while CadC R184Q exhibited high resistance to both DegP and DegQ. Notably, the presence of 2 mM cadaverine significantly inhibited cleavage of CadC by DegP and DegQ (Fig.
+
+Results of size-exclusion chromatography demonstrated a pronounced forward shift in peak upon the addition of CadC for both DegP and DegQ, indicating successful protease assembly in complex with CadC (Fig.
+
+In its role as a transcription factor, CadC is anticipated to possess DNA-binding capability, with stronger binding expected upon activation. To investigate this, the binding affinities of both full-length CadC and the CadC
+
+EMSA results illustrate the interaction between the
+
+Quantitative measurements of these interactions were conducted using the fluorescence polarization (FP) method. The equilibrium dissociation constants (K
+
+Previous studies have emphasized the necessity of breaking the disulfide bond stabilizing the inactive state of CadC for its activation
+
+Six periplasmic disulfide isomerase enzymes, i.e., DsbA, DsbB, DsbC, DsbD, DsbE, and DsbG, have been identified in
+
+qRT-PCR analysis of
+
+Wild-type CadC contains three cysteines, and previous research identified a disulfide bond between Cys208 and Cys272 in CadC
+
+The proteolytic cleavage of CadC was examined in
+
+Finally, ATR assay (a spot assay on low pH agar plates) was performed to evaluate the survival/growth of strains including MG1655, MG1655Δ
+
+In this investigation, we have identified three proteins, i.e., DegP, DegQ, and DsbC, as integral components in the lysine decarboxylation system of
+
+When the pH value is ≥ 7, CadC activity is inhibited by LysP. Conversely, when the pH is < 7 and lysine is present, LysP initiates lysine transport (I). This process concomitantly triggers the opening of the intramolecular disulfide bond in CadC by DsbC (II). The exposed cleavage site allows proteases DegP and DegQ to cleave CadC. This results in the generation of an active N-terminal DNA-binding domain, activating the expression of
+
+One-component signal transduction systems represent a predominant class of signaling pathways in bacteria and archaea, typically located in cytoplasm
+
+CadC
+
+Certain TTRs, including ToxR, VtrA, VtrrA, PsaE, MyfE, TcpP, and YqeI, possess associated proteins that contribute to TTR-mediated signal transduction, either by inhibiting TTR proteolysis or promoting heterodimerization
+
+Bacterial strains used in this study are listed in Table
+
+The plasmids used in this study were constructed using the Gibson assembly method
+
+The CadC R184Q, CadC C172S, CadC C208S and CadC C272S mutant plasmid was constructed using the modified Quick-change method
+
+MG1655 was cultured in LB medium (1 L: 10 g tryptophan, 5 g yeast extract and 10 g NaCl) at 37
+
+For acid stress experiments, the bacteria were grown to OD
+
+Total RNA was extracted using the MiniBEST Universal RNA Extraction Kit (TaKaRa) according to the instructions of the kit. cDNA synthesis was performed using the PrimeScript RTKit (TaKaRa). Primers for qRT-PCR are listed in Table
+
+Bacterial total proteins were heated at 95
+
+Colonies were inoculated in LDC broth medium supplemented with 0.1% l-lysine and bromocresol violet indicator. Sterile mineral oil was layered on the medium to keep the pH above 7 and incubated at 37
+
+For formaldehyde fixation, 37% formaldehyde was added to the medium to a final concentration of 1% and incubated at room temperature for 10 minutes. 2.5 mol/L glycine was added to the mixture of medium and formaldehyde to a final concentration of 125 mM and incubated at room temperature for 5 minutes to terminate the formaldehyde cross-linking reaction. Centrifuge the medium for 15 minutes (4200 ×
+
+The samples were re-solubilized with water after enzymatic digestion and analyzed under LC-MS/MS system
+
+Full-length CadC and CadC
+
+CadC proteins were incubated with proteases DegP and DegQ in buffer (25 mM Tris-HCl, pH 8.0, 200 mM NaCl, 0.1% DDM), respectively, at 37°C. Samples were taken at 0 h, 3 h, and 6 h and examined by SDS-PAGE
+
+Proteins were prepared at 4
+
+The method was performed as described in previous studies with minor modifications
+
+The FAM labeled double-stranded DNA of the
+
+Measurement of the fluorophore FAM-labeled
+
+ATR assay was carried out as reported previously with minor modifications
+
+Each set of data was characterized by three replicates. The data obtained were expressed as mean ± standard deviation (SD). Statistical analysis (mean and standard deviation) was performed using GraphPad Prism8 software.
+
+Further information on research design is available in the
+
+
+
+Peer review file
+
+Description of Additional Supplementary File
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Reporting Summary
+
+Supplementary Figures

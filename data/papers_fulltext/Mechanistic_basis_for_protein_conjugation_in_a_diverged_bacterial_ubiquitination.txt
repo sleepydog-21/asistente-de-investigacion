@@ -1,0 +1,85 @@
+Ubiquitination and related pathways typically involve three proteins termed E1, E2, and E3 (ref.
+
+Ubiquitination pathways are found throughout eukaryotes, but bacteria have historically not been considered to possess ubiquitination-like pathways that perform protein conjugation. Recently, comparative genomics of thousands of bacterial genomes identified several sparsely-distributed families of bacterial operons that encode different combinations of predicted Ubl, E1, E2, E3, and peptidase proteins (termed deubiquitinases or DUBs)
+
+Alongside Type II CBASS and Bil operons, other families of bacterial operons encoding putative ubiquitination-like pathways have been identified bioinformatically but not yet functionally characterized. Here we focus on an uncharacterized operon family previously termed “6E” or “DUF6527”, which encodes combinations of predicted E1, E2, peptidase, and Ubl proteins plus an unknown protein with a DUF6527/Pfam20137 domain
+
+Here, we show that 6E/DUF6527 operons, which we term “Bub” for
+
+Prior bioinformatics studies have defined several families of bacterial operons that encode proteins related to E1, E2, E3, and deubiquitinase/peptidase proteins
+
+Another major group of Ubl-containing operons has previously been termed “6E” or “DUF6527”, and here is termed Bub (
+
+During manual inspection of identified Bub operons, we noticed that a large fraction are associated with transcriptional repressors previously shown to be associated with diverse antiphage immune pathways
+
+To determine the mechanistic basis for Bub operon function, we expressed and purified BubAB, BubCD, and BubE from a Type I Bub operon from
+
+We next determined a 1.8 Å resolution structure of wild-type
+
+All known E1 proteins possess a conserved cysteine residue either in the adenylation domain’s “crossover loop” or in an α-helical domain inserted into the crossover loop, which attacks the adenylated Ubl to form a Ubl~cysteine thioester intermediate
+
+The N-terminal domain of BubCD resembles other JAB/JAMM family peptidase proteins, including the
+
+Next, we separately reconstituted complexes of BubCD
+
+Next, we determined a 2.5 Å resolution structure of BubCD
+
+Instead, BubB proteins possess an invariant serine (S333 in
+
+To visualize a ternary complex of BubCD, BubA, and BubB, we separately purified
+
+Our structural data and sequence alignments suggest that BubCD Y370 could play a catalytic role, but our structures do not reveal how this residue could react with a putative adenylated BubA intermediate. We performed a series of structure predictions using AlphaFold
+
+We sought to reconstitute BubA-target conjugation
+
+To complement
+
+Whereas Type I Bub operons encode a fused peptidase-E1 protein (BubCD), Type II Bub operons encode a predicted E2-E1 fusion protein (BubBD). We used AlphaFold 3 to predict the structures of Type II Bub operon proteins from
+
+To test whether Type II Bub operons mediate Ubl conjugation, we mixed
+
+All Bub operons possess
+
+AlphaFold 3 confidently predicted that both
+
+We tested whether
+
+To determine BubE’s role in BubA-target conjugation, we expressed BubE with His
+
+Bacteria possess a variety of protein conjugation pathways related to eukaryotic ubiquitination pathways, the biochemical mechanisms and biological roles of which are only beginning to be understood. Type II CBASS pathways, along with related Type II Pycsar and MBL pathways, use a fused E2-E1 protein that is related to eukaryotic Atg7 to conjugate their respective signaling enzymes to unknown targets to activate antiphage immunity
+
+Our structural and biochemical data show that Bub operons encode Ubl, E1, E2, and at least one peptidase protein, which together constitute a
+
+All characterized bacterial ubiquitination-related pathways including Type II CBASS/Pycsar/MBL and Type I/II Bil encode a JAB/JAMM family peptidase, which negatively regulates signaling by cleaving substrate-target conjugates
+
+While only Type I Bub operons encode a JAB/JAMM family peptidase, all Bub operons encode BubE. We show that BubE is a novel serine protease with a conserved serine-histidine catalytic dyad. Serine proteases constitute the first and best-documented case of convergent evolution, with at least 15 unrelated protein scaffolds independently evolving this enzymatic activity
+
+Thus far, we have been unable to identify a Bub operon that confers protection against bacteriophage infection in
+
+All proteins used in this study are listed in
+
+Vectors were transformed into
+
+For denatured purification of His
+
+For
+
+For
+
+To the peptidase activity of BubCD, purified
+
+For protein N-terminal sequencing by Edman degradation, cleavage products were separated by SDS-PAGE, transferred to a Bio-Rad ImmunBlot PVDF membrane (Bio-Rad Turbo Transfer Kit, 170–4272), and visualized by staining with Coomassie Blue R-250. The band representing the C-terminal cleavage product of BubAB was excised, the membrane was washed with methanol and deionized water, then loaded onto a Shimadzu PPSQ-53A instrument (Iowa State University Protein Facility) for analysis. Five rounds of Edman degradation were performed, and the “evaluated value” scores for each round were analyzed to obtain the likely N-terminal sequence (
+
+To generate a model substrate for BubE activity assays, BubA was cloned into a vector encoding a C-terminal GFP tag (UC Berkeley Macrolab vector H6-msfGFP, Addgene ID 29725) and purified as above. The BubA-GFP fusion protein (10 μg) was mixed with 10 μg of BubE (wild type or mutants) in 20 μL reaction buffer (10 mM HEPES pH 7.5, 100 mM NaCl, 20 mM MgCl
+
+For western blotting, proteins were separated on 4–20% Mini-PROTEAN TGX gels (BIO-RAD 4561096), then transferred to PVDF membranes (BIO-RAD Turbo Transfer Kit, 170–4272). The membranes were blocked with 10 mL 5% non-fat dry milk in TBST (50 mM Tris-HCl pH 7.5, 150 mM NaCl, 0.1% Tween-20) with gentle shaking at room temperature for 1 hour, following by incubation with a 1:3,000 dilution primary antibody (anti-GFP from mouse lgG; Roche 11814460001) with 10 mL 5% milk in TBST overnight at 4°C or 1 hour at room temperature. After washing three times with TBST, the blots were incubated with 10 mL HRP-linked mouse secondary antibody (Millipore Sigma 12–349) at a 1:4,000 dilution in TBST at room temperature for 1 hour. The membranes were washed three times with TBST, incubated in ECL detection reagent (Cytiva RPN2232) for 1 minute, and then imaged on a Bio-Rad ChemiDoc imager. For the Flag-tagged samples, the same western blot procedure was followed, except the primary antibody was changed to a 1:16,000 dilution anti-Flag mouse lgG (Millipore Sigma, F3165).
+
+For crystallization of
+
+For crystallization of
+
+For crystallization of the
+
+For crystallization of the
+
+For crystallization of

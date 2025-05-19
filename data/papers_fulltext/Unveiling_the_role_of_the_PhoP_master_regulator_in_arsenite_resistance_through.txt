@@ -1,0 +1,85 @@
+Arsenic (As) is a widespread contaminant present in food and drinking water, with its inorganic forms, arsenite [As(III)] and arsenate [As(V)], being the most toxic species found. Many
+
+The Pho regulon is controlled by a two-component signal transduction system (TCS) which consists of a membrane histidine kinase sensor protein (HK) and a cytoplasmic transcriptional response regulator (RR). These two proteins are named PhoB and PhoR in
+
+Information on phosphate metabolism is far more limited in other bacterial groups such as Lactobacillales. Order Lactobacillales is a group of low-GC gram-positive, nonsporulating, fermentative and generally acid tolerant bacteria. The group encompasses relevant pathogens such as
+
+Recently, it has been shown that uptake of arsenate is possibly mediated by the Pst transporter in
+
+This study aims to gain insight into this effect by characterizing the PhoP RR and by a comparative transcriptomic analysis of
+
+Strains used in this study are listed in
+
+Gene
+
+For protein production, cultures (0.5 L) were grown in LB broth supplemented with ampicillin and chloramphenicol at 37 °C with shaking to an OD
+
+For transcriptomic analyses, three RNA samples of each strain grown in LP-MEI to OD
+
+The core Pho sequence identified in
+
+An internal 520 bp fragment of gene
+
+Purified 6 × (His)PhoP (10 µg) was incubated in 20 μl of Tris–HCl 50 mM pH 7.4, NaCl 100 mM, MgCl
+
+Different DNA fragments spanning the putative promoter regions of selected genes were amplified by PCR (Supplementary file 1, Table S4; Supplementary file 2, Figure S7). Binding reactions were carried out in 15 μl of binding buffer (2.5 mM Tris–HCl [pH 7.5], 100 mM NaCl, 25 mM MgCl
+
+We hypothesized that the
+
+Expression analysis of
+
+The transcript levels in
+
+A remarkable number of genes showed significant differences under these conditions, indicating a pleiotropic effect of PhoP in gene expression (
+
+Transcriptional analysis of
+
+An analysis of the gene functional categories affected by the
+
+Enrichment analysis of different gene functional categories upon
+
+The transcriptome data corroborated the previous qPCR findings, showing that the
+
+A search for putative PhoP binding sites in the promoter regions of
+
+Hits found with GLAM2Scan using the motif derived from
+
+* Putative PHO boxes are underlined and in bold for DNA fragments that were tested by EMSA.
+
+** The distance to the translational start site is shown in parenthesis for
+
+*** Only statistically significant fold change values are indicated.
+
+Ery
+
+Subsequently, we selected fragments corresponding to the promoter regions of
+
+Phosphorylated PhoP binds to promoter regions of some PhoP-regulated genes. (A) In vitro phosphorylation of 6 × (His)PhoP by acetyl-phosphate (20 mM). Protein samples were incubated with acetyl-phosphate and resolved in Phos-tag polyacrylamide gels. Some samples were heated at 95 °C before loading, which dephosphorylates the thermolabile Asp∼P bond. Mw, molecular weight (NZYColour Molecular Weight Marker II); (B) EMSA assays of
+
+We decided to focus on the genes that showed the greatest variation as possible candidates to explain resistance to As(III). The
+
+To test the functionality of
+
+Growth of
+
+A characterization of
+
+Our results led us to identify the diminished expression of the
+
+Pyruvate catabolic pathways leading to acetyl-P present in
+
+The mechanism of regulation of PhoP on
+
+Mapping of reads from the transcriptomic analysis in the
+
+This study has also allowed us gaining insight into the Pho regulon of
+
+In
+
+The binding of PhoP∼P to the
+
+In contrast to the weak effect on the expression of the
+
+In summary, our results have identified AckA as the protein responsible for the As(III) resistance phenotype observed in a Δ
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,11 @@
+{
+  "id": "39077947",
+  "title": "Engineered transcription activator-like effector dimer proteins confer DNA loop-dependent gene repression comparable to Lac repressor.",
+  "doi": null,
+  "authors": "Becker NA, Peters JP, Lewis E, Daby CL, Clark K, Maher LJ",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Natural prokaryotic gene repression systems often exploit DNA looping to increase the local concentration of gene repressor proteins at a regulated promoter via contributions from repressor proteins bound at distant sites. Using principles from the Escherichia coli lac operon we design analogous repression systems based on target sequence-programmable Transcription Activator-Like Effector dimer (TALED) proteins. Such engineered switches may be valuable for synthetic biology and therapeutic applications. Previous TALEDs with inducible non-covalent dimerization showed detectable, but limited, DNA loop-based repression due to the repressor protein dimerization equilibrium. Here, we show robust DNA loop-dependent bacterial promoter repression by covalent TALEDs and verify that DNA looping dramatically enhances promoter repression in E. coli. We characterize repression using a thermodynamic model that quantitates this favorable contribution of DNA looping. This analysis unequivocally and quantitatively demonstrates that optimized TALED proteins can drive loop-dependent promoter repression in E. coli comparable to the natural LacI repressor system. This work elucidates key design principles that set the stage for wide application of TALED-dependent DNA loop-based repression of target genes.",
+  "source": "PubMed",
+  "pmcid": "PMC11381355"
+}

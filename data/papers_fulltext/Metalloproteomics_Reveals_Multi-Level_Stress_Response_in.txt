@@ -1,0 +1,47 @@
+Arsenic is a carcinogenic toxin that is ubiquitous in the environment [
+
+Due to its pervasiveness in the environment, organisms have developed resistance and detoxification mechanisms against As
+
+Recent reports have shown that ArsR is involved in regulation beyond that of the
+
+The seminal findings in
+
+Here, we used a differential proteomics approach to identify specific metalloproteins affected by the presence of ArsR under high As
+
+To investigate the changes to the metalloproteome under a sublethal yet significant degree of As
+
+We speculated that protein expression would be altered due to As
+
+To better understand the differences in our proteomics data, we employed a hierarchical clustering analysis (HCA) on the top 30 dysregulated proteins. The results from our PCA were mirrored when the data were assessed in this fashion (
+
+Having seen that molybdenum cofactor B, IscS and IscU were affected by the As
+
+To decipher the effects caused by As
+
+Based on the previous literature [
+
+The goal of this work was two-fold: (1) identify metalloproteins affected by As
+
+The differential proteomics workflow showed these
+
+Recently, it has been demonstrated that ArsR has widespread effects that extend beyond the known
+
+In the presence of ArsR, the
+
+The complete
+
+All
+
+Cell pellets were washed three times with 5 mL of lysis solution (200 mM ammonium acetate, pH 7) by gentle shaking. After each wash, cells were pelleted by centrifugation (1500×
+
+Protein samples were concentration-matched, reduced, alkylated, and cleaned by chloroform/methanol extraction prior to digestion with sequencing grade modified porcine trypsin (Promega, Madison, WI, USA) at the IDeA National Resource for Quantitative Proteomics at the University of Arkansas Little Rock. Tryptic peptides were then separated by reverse phase XSelect CSH C18 2.5 um resin (Waters, Milford, MA, USA) on an in-line 150 × 0.075 mm column using an UltiMate 3000 RSLCnano system (Thermo, Waltham, MA, USA). Peptides were eluted using a 60 min gradient from 98:2 to 65:35 solution A:B ratio. Eluted peptides were ionized by electrospray (2.4 kV) followed by mass spectrometric analysis on an Orbitrap Eclipse Tribrid mass spectrometer (Thermo). MS data were acquired using the FTMS analyzer in profile mode at a resolution of 120,000 over a range of 375 to 1200
+
+To generate the metal-containing protein list, the identified proteins were submitted to the online functional annotation tool on the Database for Annotation, Visualization and Integrated Discovery (DAVID) [
+
+The identified metalloproteins were input into the Metaboanalyst online software suite (version 6.0
+
+Proteomes collected 2 h post arsenic dosing (soluble lysate) were diluted to a protein concentration of 4 mg/mL. A total of 800 µg of protein from each sample was digested in 20%
+
+In all three strains, the molybdenum cofactor and Isc [Fe-S] cluster assembly increased in expression under high As
+
+This work provides important evidence that expands upon hypotheses regarding the bacterial arsenic stress response and the role(s) of ArsR as a transcriptional regulator. Prior RNASeq-based work on this topic concerned the soil bacterium

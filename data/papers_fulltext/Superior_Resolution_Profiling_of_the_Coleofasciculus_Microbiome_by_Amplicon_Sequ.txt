@@ -1,0 +1,180 @@
+average nucleotide identity
+
+amplicon sequence variant
+
+barcode
+
+circular consensus sequencing
+
+digital DNA–DNA hybridization
+
+Deutsche Sammlung von Mikroorganismen und Zellkulturen
+
+genome taxonomy database
+
+internally transcribed spacer
+
+metagenome‐assembled genome
+
+National Center of Biotechnological Information
+
+Pacific Biosciences
+
+scanning electron microscopy
+
+sequence read archive
+
+type (strain) genome server
+
+The morphological diversity of cyanobacteria, ranging from uniform cocci to filamentous strains with highly specialised cell types, is unprecedented in prokaryotic evolution and was the basis for their classification for more than a century. Molecular analyses of marker genes and complete genomes revealed the limitations of this botanical approach, and today the 16S rRNA gene is the gold standard for the initial characterisation of new strains. However, unlike typical bacterial isolates, which are pure cultures, the initially non‐axenic state of new cyanobacterial strains impedes their rapid classification. Routine PCR amplification with universal primers results in a mixture of amplicons that cannot be sequenced directly with the Sanger technique. This problem was solved by the use of specific primers (Wilmotte, Van der Auwera, and De Wachter
+
+The genus
+
+Scanning electron microscopy of four non‐axenic cyanobacteria of the genus
+
+
+
+List of 32
+
+
+
+Abbreviations: unicyano, unicyanobacterial; Ref, reference.
+
+Type strain of
+
+In the current study we investigated 32 non‐axenic
+
+The 32 investigated filamentous
+
+For scanning electron microscopy (SEM) with the Zeiss Merlin field emission scanning electron microscope (Carl Zeiss, Oberkochen, Germany), cyanobacteria were fixed in the cultivation medium with glutaraldehyde (final concentration 2%). The final fixation was achieved after 30 min by adding formaldehyde (Riedel‐de Haën, Seelze, Germany) to a final concentration of 5%. SEM was performed as previously described (Will et al.
+
+DNA extraction of cyanobacterial DNA with the DNeasy Blood and Tissue Kit (Qiagen, Hilden, Germany) was conducted as recently described (Marter et al.
+
+SMRTbell template library was prepared according to the instructions from Pacific Biosciences (PacBio), Menlo Park, CA, USA, following the Procedure & Checklist—Preparing multiplexed amplicon libraries using SMRTbell prep kit 3.0 (PN 102‐359‐000 REV 02 SEP2022). Briefly, amplicons were end‐repaired and ligated to barcoded adapters applying components from the SMRTbell Prep Kit 3.0 from Pacific Biosciences. Reactions were carried out according to the manufacturer's instructions. Conditions for annealing of sequencing primers and binding of polymerase to purified SMRTbell template were assessed with the Calculator in SMRTlink (Pacific Biosciences).
+
+Libraries were sequenced on the PacBio Sequel IIe taking one 10 h movie per SMRT cell. Highly accurate single‐molecule consensus reads (HiFi reads) were obtained using the circular consensus sequencing (CCS) mode on the PacBio long‐read system. Amplicon data was demultiplexed using the demultiplex barcodes application within SMRTlink 11. Hereby, a minimum CCS predicted accuracy of 20 as well as a minimum barcode score of 80 was applied using the symmetric barcoding option.
+
+The circular consensus sequence reads were analysed using the slightly modified DADA2 pipeline in R 4.2.1. with the default parameters if not otherwise specified (Callahan et al.
+
+DNA extracted in 2019 from
+
+Metagenome assembly and binning was conducted using the pipeline developed by Marter et al. (
+
+Initial taxonomic classification of MAGs from the current study was conducted with the type (strain) genome server TYGS (Meier‐Kolthoff and Göker
+
+Genome comparisons were performed with the Genome‐to‐Genome Distance Calculator (GGDC 3.0; (Meier‐Kolthoff et al.
+
+Quantitative taxonomical assessment of 16S‐ITS amplicon sequences was performed at phylum level (
+
+Descriptive statistics of associated bacteria from all 32
+
+16S rRNA gene sequences were aligned with Clustal Omega (Sievers et al.
+
+100 μL culture supernatant of
+
+Our 16S‐ITS sequencing approach was performed for 32 filamentous cyanobacteria of the genus
+
+Metagenome sequencing and binning of four strains (CHI, EBD, SPW, WW12) resulted in up to 40 MAGs with completeness greater than 80% and contamination rates less than 10%, with each metagenome containing a single cyanobacterial MAG of the genus
+
+We compared four independent sequencing experiments of the non‐axenic strain
+
+Comparison of the 16S‐ITS PacBio amplicon sequencing approach with four independent replicates. The Venn diagram shows the distribution of Amplicon Sequence Variants (ASVs) established from the non‐axenic cyanobacterium
+
+Bacterial composition of 32 non‐axenic
+
+The current study was focused on authentic ASVs represented by identical 16S‐ITS sequences from at least two independent sequencing experiments. Additional singleton ASVs detected only in one experiment provide further insights into the composition of the cyanosphere (see below), but these sequences should be treated with caution as they could represent PCR artefacts or sporadic contaminations. However, non‐authentic sequences were rare (Text
+
+A comparison of the ASVs of all 32
+
+PacBio amplicon sequencing allowed the establishment of complete 16S‐ITS sequences from all 34 investigated cyanobacteria. The authenticity of cyanobacterial ASVs from 28 strains was confirmed by identical sequences from at least two sequencing experiments. The comparison of singleton ASVs with deposited reference sequences from strains NCR (ASV‐593, EF654039.1), SAH (ASV‐567, EF654043.1) and ASK5 (ASV‐578, EF654026.1) provided evidence that non‐validated ASVs from the six remaining strains were also free of sequencing errors. A closer look at the
+
+Phylogenetic Maximum Likelihood tree of 16S rDNA sequences from 32
+
+20 of 34 investigated cultures contained two closely related cyanobacterial ASVs (Figures
+
+Metagenome analysis of four non‐axenic
+
+32 cyanobacterial cultures examined belong to the genus
+
+In addition, the two ASVs from
+
+The evolutionary relationships of all 53
+
+The phylogenetic 16S rRNA analysis illustrates the close relationship of
+
+The phylogenetic relationship of all five genome‐sequenced
+
+The composition of associated heterotrophic bacteria in the
+
+16S‐ITS sequencing provided initial insights into the microbiomes of non‐axenic filamentous strains of the genus
+
+Further insights into the
+
+Overall, 16S‐ITS amplicon sequencing indicated that at least 45 heterotrophic bacteria (17 singletons, 28 validated ASVs) are living in the cyanosphere of
+
+Metagenome sequencing and binning of
+
+The absence of a second cyanobacterial MAG in the metagenome of SPW (665‐fold coverage), which represents a mixed
+
+Metagenome assembly and binning of the four investigated non‐axenic
+
+The metagenomic binning results from four
+
+
+
+List of 15 bacteria isolated from the cyanosphere of
+
+
+
+Abbreviation: BC, barcode.
+
+
+
+In the last decade, metagenomics has provided extensive insights into the hidden world of uncultured
+
+The current study exemplified that high‐throughput amplicon sequencing of the complete 16S‐ITS region allows a rapid taxonomic assessment of morphologically indistinguishable cyanobacteria. The established pipeline would be suitable for high‐throughput screening of non‐axenic strains with an automated taxonomic analysis. Sequencing of a median number of more than 10,000 high‐quality 16S‐ITS sequences per barcode provided first insights into the diversity of associated heterotrophic bacteria in the cyanosphere of 32
+
+
+
+The authors have nothing to report.
+
+The authors declare no conflicts of interest.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

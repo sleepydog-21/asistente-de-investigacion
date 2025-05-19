@@ -1,0 +1,11 @@
+{
+  "id": "39178317",
+  "title": "Fitness factor genes conserved within the multi-species core genome of Gram-negative Enterobacterales species contribute to bacteremia pathogenesis.",
+  "doi": null,
+  "authors": "Mobley HLT, Anderson MT, Moricz BS, Severin GB, Holmes CL, Ottosen EN, Eichler T, Gupta S, Paudel S, Sinha R, Mason S, Himpsl SD, Brown AN, Gaca M, Kiser CM, Clarke TH, Fouts DE, DiRita VJ, Bachman MA",
+  "journal": "PLoS pathogens",
+  "year": "2024",
+  "abstract": "There is a critical gap in knowledge about how Gram-negative bacterial pathogens, using survival strategies developed for other niches, cause lethal bacteremia. Facultative anaerobic species of the Enterobacterales order are the most common cause of Gram-negative bacteremia, including Escherichia coli, Klebsiella pneumoniae, Serratia marcescens, Citrobacter freundii, and Enterobacter hormaechei. Bacteremia often leads to sepsis, a life-threatening organ dysfunction resulting from unregulated immune responses to infection. Despite a lack of specialization for this host environment, Gram-negative pathogens cause nearly half of bacteremia cases annually. Based on our existing Tn-Seq fitness factor data from a murine model of bacteremia combined with comparative genomics of the five Enterobacterales species above, we prioritized 18 conserved fitness genes or operons for further characterization. Mutants were constructed for all genes in all five species. Each mutant was used to cochallenge C57BL/6 mice via tail vein injection along with each respective wild-type strain to determine competitive indices for each fitness gene. Five fitness factor genes, when mutated, attenuated mutants in four or five species in the spleen and liver (tatC, ruvA, gmhB, wzxE, arcA). Five additional fitness factor genes or operons were validated as outcompeted by wild-type in three, four, or five bacterial species in the spleen (xerC, prc, apaGH, atpG, aroC). Overall, 17 of 18 fitness factor mutants were attenuated in at least one species in the spleen or liver. Together, these findings allow for the development of a model of bacteremia pathogenesis that may include future targets of therapy against bloodstream infections.",
+  "source": "PubMed",
+  "pmcid": "PMC11376589"
+}

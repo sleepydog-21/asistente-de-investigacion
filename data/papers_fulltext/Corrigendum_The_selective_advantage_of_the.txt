@@ -1,0 +1,1 @@
+In the published article, there was an error in the Funding statement. The funding statement was displayed as “This work was funded by the Fundação para a Ciência e Tecnologia (PTDC/BIA-EVF/3247/2012 and PTDC/BIA-EVL/30212/2017) and iBiMED (UID/BIM/04501/2019, project POCI-01-0145-FEDER-007628).”. The correct Funding statement appears below.

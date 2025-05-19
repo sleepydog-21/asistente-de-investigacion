@@ -1,0 +1,11 @@
+{
+  "id": "36351939",
+  "title": "Generation of bright autobioluminescent bacteria by chromosomal integration of the improved lux operon ilux2.",
+  "doi": null,
+  "authors": "Gregor C",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "abstract": "The bacterial bioluminescence system enables the generation of light by living cells without the requirement of an external luciferin. Due to the relatively low light emission, many applications of bioluminescence imaging would benefit from an increase in brightness of this system. In this report, a new approach of mutagenesis and screening of the involved proteins is described that is based on the identification of mutants with improved properties under rate-limiting reaction conditions. Multiple rounds of screening in Escherichia coli resulted in the operon ilux2 that contains 26 new mutations in the fatty acid reductase complex which provides the aldehyde substrate for the bioluminescence reaction. Chromosomal integration of ilux2 yielded an autonomously bioluminescent E. coli strain with sixfold increased brightness compared to the previously described ilux operon. The ilux2 strain produces sufficient signal for the robust detection of individual cells and enables highly sensitive long-term imaging of bacterial propagation without a selection marker.",
+  "source": "PubMed",
+  "pmcid": "PMC9646698"
+}

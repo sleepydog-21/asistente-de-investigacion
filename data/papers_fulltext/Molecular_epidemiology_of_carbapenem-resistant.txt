@@ -1,0 +1,99 @@
+The
+
+Capsule is another virulence determinant for CRAB (
+
+Out of 1,265 AB-group clinical strains collected from 2015 to 2021, 734 non-bacteremia samples and 39 repetitive samples from the same patient were excluded, yielding a total of 492 non-redundant strains causing bacteremia (either nosocomial or community-acquired) that were included in this study (
+
+Genotyping characteristics of
+
+RNA polymerase β-subunit (
+
+We identified 48.8% of the 492 isolates as carbapenem-resistant, with minimum inhibitory concentrations (MICs) of imipenem (IMP) and meropenem (MER) >4 mg/L, including 237 CRAB strains and three CR-NAB strains. These strains were screened for carbapenemase genes, and
+
+Carbapenemase-producing strains over 7 years in Taiwan. (
+
+The MICs of IMP and MER were compared in four groups, each harboring different carbapenemase genes:
+
+Variations in KL types have been reported in different geographic areas; however, some types are predominant in clinical collections or MDR/CRAB worldwide. A literature search showed a high prevalence of certain KL types of
+
+Here, we selected 11 common KL types with potential clinical significance either in Taiwan or in more than one other country (KL1, KL2, KL3, KL6, KL9, KL10, KL14, KL22, KL47, KL49, and KL52) and developed a multiplex
+
+Multiplex
+
+Oligonucleotides of
+
+Previous study (
+
+The KL typing results of the 492 isolates revealed no obvious trends (
+
+Percentage of variants of capsular types (KL) among 492
+
+Among the 240 CRA isolates, four types (KL2/10/22/52) collectively accounted for 76.6% of the total isolates; KL2 was the most prevalent at 28.3%, followed by KL52 at 22.5%, KL22 at 15.8%, and KL10 at 10%. Less frequently encountered isolates were KL9 (4.2%), KL3 (3.8%), and KL81 (3.3%) (
+
+To explore the correlation between KL types, ST types, and carbapenemase gene patterns, we selected a representative subset of 262 of 492 strains, including 235
+
+The carbapenemase gene patterns showed a correlation with either KL or ST types. For example, all KL1 strains exhibited
+
+The association between KL types and age, gender, hospitals, or carbapenem resistance was evaluated. The results revealed that the distribution of KL types differed based on carbapenem susceptibility and gender (
+
+The difference between nosocomial infections (NIs) versus community-acquired infections (CAIs) was further analyzed across various factors. The results revealed that the distribution of KL types varied between NI and CAI. Notably, KL1 was exclusively detected in NI, while KL10, KL14, KL22, KL47, and KL52 were more frequently observed in NI than in CAI. In contrast, KL6 and KL49 were more commonly found in CAI than in NI. Besides, more strains belong to non-M1/M2/M3 types in CAI (44%) compared with those in NI (28.8%) (
+
+Among our collection, an
+
+Genome features of AS39
+
+RND, resistance–nodulation–cell division antibiotic efflux pump.
+
+MFS, major facilitator superfamily antibiotic efflux pump.
+
+SMR, small multidrug resistance antibiotic efflux pump; ABC, ATP-binding cassette antibiotic efflux pump; MATE, multidrug and toxic compound extrusion transporter.
+
+Genes in parentheses and underlined indicate that they are part of an operon.
+
+"-" means "Undetermined".
+
+Antimicrobial resistance genes were identified using the Comprehensive Antibiotic Resistance Database. Most acquired antimicrobial resistance genes in AS39 were located on the chromosome (
+
+Genome analysis showed that plasmid pAS39-2 has 42.3% GC content and contains 47 ORFs. Plasmid(s) in GenBank with the highest nucleotide similarities are shown in
+
+Comparison of pAS39-2 and other NDM-1-positive plasmids. (
+
+Genbank plasmid(s) with the highest similarity
+
+Owing to its flexible and adaptable genome,
+
+Conjugal transfer of pAS39-2
+
+Shown in gray as a control:
+
+"-" means absence; "+" means presence.
+
+The stability of pAS39-2 in the donor and transconjugants was evaluated over 10 days of serial passage in the absence of carbapenem. Sudden loss of the
+
+Class D β-lactamase was the predominant class of carbapenemases in our CRAB clinical isolates, which is consistent with previous reports in Taiwan (
+
+Previous studies have shown small proportions of class B carbapenemase or MBL genes among CRA isolates (
+
+In our present study, we observed significantly higher MICs to carbapenems (IMP and MER) among CRAB isolates carrying
+
+The capsule was considered a virulence determinant for CRAB (
+
+Previous studies have documented variants of KL types in
+
+Because NDM-1 is rarely found in
+
+Plasmid pM131 was previously shown to be transferred via conjugation. The conjugal transfer efficiency of pM131 into three clinically prominent species (
+
+Isolates of the
+
+Multiplex PCR for
+
+The
+
+Eleven primer pairs designed to detect
+
+The DNA extraction of NDM-positive NAB strain (AS39) and subsequent sequencing were conducted following the detailed methods outlined in the Supplemental Methods section.
+
+A conjugation assay to assess the transmissibility of pAS39-2 from its natural CR-NAB host, AS39, to the clinical
+
+Plasmid stability was assessed as previously described, with minor modifications (

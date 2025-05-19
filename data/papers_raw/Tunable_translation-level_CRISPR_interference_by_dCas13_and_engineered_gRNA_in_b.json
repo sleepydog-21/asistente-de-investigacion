@@ -1,0 +1,11 @@
+{
+  "id": "38909033",
+  "title": "Tunable translation-level CRISPR interference by dCas13 and engineered gRNA in bacteria.",
+  "doi": null,
+  "authors": "Kim G, Kim HJ, Kim K, Kim HJ, Yang J, Seo SW",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "Although CRISPR-dCas13, the RNA-guided RNA-binding protein, was recently exploited as a translation-level gene expression modulator, it has still been difficult to precisely control the level due to the lack of detailed characterization. Here, we develop a synthetic tunable translation-level CRISPR interference (Tl-CRISPRi) system based on the engineered guide RNAs that enable precise and predictable down-regulation of mRNA translation. First, we optimize the Tl-CRISPRi system for specific and multiplexed repression of genes at the translation level. We also show that the Tl-CRISPRi system is more suitable for independently regulating each gene in a polycistronic operon than the transcription-level CRISPRi (Tx-CRISPRi) system. We further engineer the handle structure of guide RNA for tunable and predictable repression of various genes in Escherichia coli and Vibrio natriegens. This tunable Tl-CRISPRi system is applied to increase the production of 3-hydroxypropionic acid (3-HP) by 14.2-fold via redirecting the metabolic flux, indicating the usefulness of this system for the flux optimization in the microbial cell factories based on the RNA-targeting machinery.",
+  "source": "PubMed",
+  "pmcid": "PMC11193725"
+}

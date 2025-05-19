@@ -1,0 +1,103 @@
+Genetic regulatory proteins whose expression is induced by small molecules have been comprehensively used as biological tools for controlling recombinant expression, fine‐tuning metabolic fluxes, dynamically controlling biosynthetic pathways, monitoring metabolite concentrations and high‐throughput screening for the overproduction of value‐added chemicals in cell factories (Xia et al.,
+
+Several studies have tried to explore the relationship between structure and function of LacI repressor (Gordon et al.,
+
+Engineering of regulatory proteins to improve their regulatory properties has broadened their applications in recombinant protein expression, metabolic optimization and biosensing (Bahls et al.,
+
+Herein, we demonstrated the feasibility of engineering the best‐ and longest‐studied regulatory protein,
+
+DNA polymerases were purchased from TaKaRa (Dalian, China). Oligonucleotides were synthesized by Synbio Tech (Suzhou, China). Hieff Clone™ Plus Multi One Step Cloning Kit for DNA sequences assembly was purchased from YEASEN Biotechnology Co., Ltd. (Shanghai, China). Epilactose and 6′‐galactosyllactose were purchased from Carbosynth Limited (Berkshire, UK). Other chemicals and reagents were of high quality and obtained from standard commercial sources. DNA sequencing was performed at Life Technologies (Shanghai, China).
+
+All bacteria were routinely cultured in Luria–Bertani (LB) medium (10 g L
+
+All strains and plasmids used in this study are shown in Table
+
+Strains and plasmids used in this study.
+
+Plasmid pLac7 was constructed in previous research (Wu et al.,
+
+The
+
+Additional copies of
+
+Single‐mutation I79T or N246S was introduced by PCR amplification with primer sets LacI‐I79T‐fwd/rev or LacI‐N246S‐fwd/rev, respectively, using plasmid pLac7 (Wu et al.,
+
+Overlap extension PCR method was used to construct LacI site‐directed saturation library. Gene fragment of
+
+Error‐prone PCR was applied to construct random mutagenesis libraries of LacS. The
+
+The LacI mutagenesis plasmid library (1 × 10
+
+BLGR strain harbouring plasmid pLac7‐M7 was transformed with the LacS plasmid library, and 1 × 10
+
+A single colony of strain BLGR harbouring plasmid pLac7 was cultured for 12 h in LB medium, then diluted to OD
+
+A colony of strain BLGR co‐expressing plasmids pBADLacS‐R and pLac7‐M7 was cultured in LB medium for 12 h, then diluted to OD
+
+All fluorescence data provided in figures were normalized to cell density. All data represent the mean of three independent experiments.
+
+A single colony of strain
+
+Colonies of strain BW25113‐expressing wild‐type LacI or its mutants from plasmid pBADLacI (Wu et al.,
+
+The purity of proteins was assessed with SDS‐PAGE (Figure
+
+A Biacore T100 apparatus (GE Healthcare, Uppsala, Sweden) was used to perform surface plasmon resonance (SPR) assays at 25°C. To compare the binding affinity of purified wild‐type and M7‐mutant LacI for the operator sequence, fragment of
+
+Biacore control software was used to collect the data. The refractive index changes as a function of time under constant flow conditions were monitored. The net increase of refractive index over time, compared with that of running buffer alone, was measured, to determine the relative amount of binding. There is an inline subtraction of reference surface during the run. Biacore T100 evaluation software 2.0.1 was used to calculate kinetic association (
+
+The reaction mixture for GOS production (500 μL) consisted of 50 mM phosphate buffer (pH 6.5), 0.438 M lactose and 50 μL crude or purified 6×His‐LacS enzyme. The reaction was incubated at 37 or 70°C for 12 h. The reaction was stopped by cooling at 4°C instantly.
+
+The reaction products of LacS were quantified by Agilent 1200 system (Agilent Technologies, Palo Alto, USA), equipped with a refractive index detector (RID). Separation was achieved with a Cosmosil sugar‐D column (250 × 4.6 mm, 5 μm), (Nacalai tesque, Japan) working at 60°C with the mobile phase of 80% acetonitrile at a flow rate of 1.5 mL min
+
+The eluted peak assumed to represent GOS was collected and verified using matrix‐assisted laser desorption/ionization time‐of‐flight mass spectrometry (MALDI‐TOF‐MS) on an Applied Biosystems SCIEX TOF/TOF™ 5800 system (Foster, USA).
+
+The LacI protein molecule was selected for the study and its structure was obtained from the website
+
+The molecular dynamics (MD) simulations were conducted using GROMACS software package (Abraham et al.,
+
+Low leaky expression is important for developing a high‐quality regulatory protein‐based biosensor, because a high‐level background of reporter signal greatly interferes with the readout of biosensor response. With high leaky expression, wild‐type LacI failed to behave as a favourable biosensor for effective high‐throughput screening of the β‐galactosidase variants with improved transgalactosylation activity (data not shown). The leaky expression of LacI needs to be greatly repressed to develop an effective biosensor for transgalactosylation activity.
+
+Under allosteric conditions, both the effector and DNA‐binding domains are reported to be potentially related to the regulation of leaky expression without inducer supplementation (Daber et al.,
+
+LacI engineering. (A) GFP expression after 12‐h cultivation of
+
+To evaluate the contribution of single mutations, LacI mutants harbouring each of these two amino acid substitutions were constructed. Figure
+
+In most studies, promoters modified with tandem operators are used to minimize leaky expression (Zhang et al.,
+
+To explore the mechanism underlying the significantly reduced leaky expression regulated by M7 mutant, it was purified, along with the wild‐type LacI, to compare their binding affinities for the
+
+The binding affinities of purified 6×His‐tagged LacI wild‐type (A) and M7 mutant (B) for
+
+As an important GOS synthase, β‐galactosidase catalyses the hydrolysis of lactose and formation of transgalactosylation products, including allolactose (transgalactosylated disaccharides) and GOS. Compared with the hydrolysis, transgalactosylation is a minor activity of β‐galactosidases. Thus, how to improve the transgalactosylation activity is critical for efficient GOS production. The M7 mutant was used to develop a high‐quality in vivo high‐throughput screening tool to engineer β‐galactosidase from
+
+Feasibility of the M7 mutant‐based biosensor used for transgalactosylation activity screening. (A) Scheme of screening for improved transgalactosylation activity using biosensor. Inducing effects of IPTG and/or lactose on (B) wild‐type LacI and (C) M7 mutant. (D) GFP fluorescence of strain BLGR harbouring plasmids plac7‐M7 and pBADLacS‐R supplemented with inducer
+
+The feasibility of the biosensor was explored. As shown in Figure
+
+The biosensor responses were then compared in the presence and absence of LacS expression. As shown in Figure
+
+Four colonies (S4, S5, S19, S21) with the highest GFP fluorescence levels were selected under UV light irradiation (302 nm). Rescreening in test tubes confirmed that the GFP fluorescence emitted by these colonies was induced upon supplementation with lactose, which is not a direct inducer of M7, thereby revealing that fluorescence expression came from allolactose induction, produced by the LacS mutants (Figure
+
+LacS engineering aided by the M7 mutant‐based biosensor. (A) GFP fluorescence and the GOS production (by crude enzyme) of the selected mutants from two rounds of random mutagenesis. A dose of 1 μM arabinose (inducer) and 5 mM lactose (substrate) was supplemented, and the cells were cultured for 12 h at 37°C. The strain expressing wild‐type LacS (WT) was included as reference. Fluorescence in the presence (+) or absence (−) of substrate lactose was determined. Comparison between GOS production (B) and specific activities (C) of purified wild‐type LacS (WT) and mutant S5‐11 at 37 and 70°C. The reaction was incubated at indicated temperatures for 12 h, supplemented with 0.438 M lactose. One unit (U) of enzyme activity was defined as the amount of enzyme required to produce 1 μmol GOS from lactose per hour in (C). Error bars indicate SD of three independent replicates.
+
+The MM‐PBSA approach (Genheden & Ryde,
+
+Nowadays, regulatory protein and promoter DNA engineering constitute two main strategies for altering the transcriptional behaviour of downstream genes. Promoter engineering has found wide applications in metabolic engineering and cellular therapeutic development (Cazier & Blazeck,
+
+Tighter binding of DNA requires a higher concentration of IPTG to release the regulatory protein from DNA. Thus, achieving half‐maximal induction of mutants N246 and M7 required higher concentrations of IPTG than the wild‐type LacI (Figure
+
+To explore the mechanism leading to significantly lowed leaky expression, we demonstrated with SPR that the M7 mutant displayed a higher binding affinity for the operator than wild‐type LacI. Similarly, in the previous study, LacI mutant W220F, displaying 100‐fold wider dynamic range at 37°C and 10‐fold decrease in leakiness, was obtained. This mutant also required higher concentration of IPTG for inducing and was proved to show increased protein stability in the presence of the operator, compared with wild‐type LacI (Gatti‐Lafranconi et al.,
+
+Stringency is an important property of high‐quality, regulator‐based biosensors. In our previous study, the use of wild‐type LacI as a high‐throughput screening tool had failed in effectively selecting beneficial LacS variants with improved transgalactosylation activity because of its high level of leaky expression, which led to a rapid increase in fluorescence intensity in cells, even in the absence of the LacS enzyme (data not shown). Herein, equipped with M7 mutant as a high‐quality biosensor, LacS mutants with improved transgalactosylation activities were successfully selected. Glycosidases are carbohydrate‐processing enzymes that primarily catalyse the hydrolysis of glycosidic linkages in glycosides. Many glycosidases also catalyse transglycosylation reactions (Lombard et al.,
+
+In conclusion, the well‐known regulatory protein,
+
+
+
+The authors declare no competing interest.
+
+This article does not contain any studies involving human participants or animals performed by any of the authors.
+
+Data S1

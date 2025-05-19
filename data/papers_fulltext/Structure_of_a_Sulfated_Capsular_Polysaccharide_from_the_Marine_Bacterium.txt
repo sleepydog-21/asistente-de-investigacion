@@ -1,0 +1,73 @@
+Oceans and seas cover approximately 70% of the Earth’s surface, providing a vital environment for a huge diversity of marine organisms and microbes. Microbial and genomic studies reveal a wide variety of marine bacterial groups throughout the water column and sediments, constituting up to 50% of the biosphere’s biomass [
+
+In recent years, marine bacterial EPSs have attracted considerable interest due to their diverse structural and functional properties [
+
+Gram-negative bacteria of the genus
+
+This study aimed to determine the structure of the simultaneously sulfated and phosphorylated CPS of
+
+The dried bacterial cells of strain KMM 1449 were extracted with saline solution, followed by enzymatic treatment and ultracentrifugation. The resulting CPS was purified by a series of chromatographic procedures, namely hydrophobic interaction chromatography, anion-exchange chromatography, and size-exclusion chromatography. The toluidine blue-stained SDS-PAGE of the purified CPS exhibited a broad smear in the upper part of the gel, which is typical for sulfated polysaccharides. The presence of sulfate groups was confirmed through FTIR spectroscopy, where a characteristic band was observed at 1253 cm
+
+A sugar analysis of the CPS by GC-MS of acetylated alditols showed the presence of rhamnose (Rha), mannose (Man), and a minor amount of glucose (Glc). A ratio of Rha and Man residues of ~1.7:1 (detector response) does not accurately reflect the sugar content, as further studies showed that the CPS is phosphorylated and the monosaccharides are not fully released from their respective phosphates. The D-configuration of Man and L-configuration of Rha were both determined by GC-MS of acetylated (S)-2-octylglycosides using the corresponding authentic samples [
+
+The
+
+Accordingly, the
+
+The
+
+The
+
+Linkage and sequence analyses of the dPCPS were performed using the
+
+Based on the data of the chemical shifts obtained for the dPCPS, the native CPS was studied by 2D NMR spectroscopy, as described above, and additional spin systems for the phosphorylated β-D-Man and Gro residues were detected (
+
+Therefore, the repeating unit of the CPS had the following structure:
+
+The complete genome of strain KMM 1449 was de novo assembled into one chromosome with an estimated size of 4,184,796 bp and an average GC content of 62.5%. Based on the RAST (Rapid Annotation using Subsystem Technology) and NCBI PGAP (Prokaryotic Genome Annotation Pipeline) results, the chromosome contains about 3370 coding gene sequences (ORFs), 21 rRNA genes (seven of 16S-23S-5S operons), and 72 tRNAs. The KMM 1449 genome sequence has been submitted to the NCBI submission portal under accession number CP173426.1.
+
+The genome of strain KMM 1449 codes seven copies of the 16S rRNA gene, showing 100% sequence similarity to each other and to that of
+
+Moreover, the average nucleotide identity (ANI) value between strains KMM 1449 and
+
+The search for CPS-related genes was based on the established composition of the CPS disaccharide fragment (
+
+According to
+
+Chromosome location (
+
+To elucidate the metabolic pathways for the synthesis of activated nucleotide sugars that participate in the formation of the CPS structural unit, the genome of strain KMM 1449 was investigated in detail (
+
+To date, there are only a few publications devoted to establishing the polysaccharide structures from
+
+The comparative analysis allowed us to determine common boundaries for all
+
+Region 1 composes genes responsible for the synthesis and activation of nucleotide sugars, the biosynthesis of a polysaccharide chain (GTs genes), as well as for its modification (ST, pyruvyltransferase, and several P-loop NTPases).
+
+Region 2 contains genes that are specific for the coding of the ABC transporter of group III CPS. Typically, the genomic organization of the CPS III group clusters is represented by conserved regions 1 and 3 and variable region 2 [
+
+Region 3 represents a
+
+Region 4 was predicted to synthesize O-antigen due to the presence of genes encoding activated sugar biosynthesis, GTs, and wzy-dependent pathway. However, a Wzx-flippase was identified only in the
+
+According to the comparative analysis of KMM 1449 CPS-like BGCs of the
+
+Remarkably, the positions of the ST genes adjacent to the genes of RgpF (GT) and RmlB, D, A, and C (dTDP-L-Rha-biosynthesis) also indicate that L-rhamnose will be sulfated at the second position in the CPS in all five
+
+It should be noted that in the KMM 3879 genome, the rhamnose operon was found in the CPS BGC (region 1) and not in the O-antigen BGC (region 4) (
+
+Thus, it can be summarized that using only bioinformatic methods, it is not always possible to predict the exact structure of polysaccharides. In addition, the integration of bioinformatics, spectroscopy, and molecular biology approaches might clarify insight into the basic mechanisms and functions of glycosyltransferases and other proteins involved in polysaccharide assembly.
+
+Strain
+
+Monosaccharides were analyzed as acetylated aldidols using the appropriate authentic samples as a reference. The absolute configurations of the sugar residues were determined through GC-MS of the acetylated (S)-2-octyl glycosides, as described in [
+
+The CPS sample (20 mg) was dephosphorylated with aq 48% HF (0.2 mL, 4 °C, 16 h), HF was evaporated, and dPCPS (9 mg) was isolated in the Toyopearl HW-40 column (120 × 1.5 cm, Tosoh Bioscience, Tokyo, Japan), eluted with aq 0.3% AcOH and monitored as above.
+
+The
+
+Genomic DNA was extracted from strain KMM 1449 using the NucleoSpin Tissue kit (Macherey–Nagel, Düren, Germany), and the nanopore library was prepared using the SQK-RAD002 kit (Oxford Nanopore Technologies, Oxford, UK) and sequenced on MinION (Oxford Nanopore Technologies, Oxford, UK). Genome assembly was performed using Flye, version 2.9 [
+
+Sulfated polysaccharides are found in various microorganisms, particularly in many marine Gram-negative bacteria. These charged biomolecules are thought to enhance the ability to bind with naturally occurring cations. The presence of charged molecules allows for the formation of a rigid network of cross-links, which provides greater resistance to physical stress and helps maintain the proper physiology and functionality of bacterial cells in marine environments. Research has shown that some sulfated polysaccharides can be cytotoxic and inhibit the growth of human cancer cells [
+
+In summary, we characterized the structure of the CPS from

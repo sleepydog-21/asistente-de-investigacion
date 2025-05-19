@@ -1,0 +1,105 @@
+Biofilms are communities of microbial cells surrounded by an extracellular matrix composed of polysaccharides, proteins, surfactants, lipids, extracellular DNA, and other nucleic acids (
+
+Pel is an α-1,4–linked linear polysaccharide that exists in both cell-associated and cell-free (also referred to as matrix-associated) forms (
+
+Interactions between modification enzymes and the periplasmic TPRs of outer membrane porin proteins are a common feature of synthase-dependent exopolysaccharide biosynthetic pathways with the modification and export of poly-β(1,6)-
+
+Herein, we present the crystal structure of PelA from
+
+To gain insight into the structure and function of PelA, we undertook structural studies of
+
+X-ray data collection and refinement statistics
+
+The values in parentheses correspond to the highest resolution shell.
+
+R
+
+R
+
+As calculated using MOLPROBITY.
+
+The N-terminal hydrolase domain, residues 37 to 292, has a β
+
+Previous bioinformatics analyses have suggested that residues 303 to 409 in
+
+The deacetylase domain of
+
+PelA deacetylase activity is essential for
+
+CE4 and CE18 family members have five and four canonical active site motifs, MT1-5 and CM1-4, respectively (
+
+Previous studies of
+
+As CE4 and CE18 enzymes require a divalent cation to stabilize the oxyanion tetrahedral intermediate during deacetylation (
+
+Having confirmed that
+
+Together, these results reveal that
+
+We have previously shown that interaction with
+
+Given that
+
+Under the conditions of the experiment, no oligosaccharide deacetylation was observed. The initial oligosaccharide sample contained a small (<3%) population of GalN residues (
+
+When submitting the structure of
+
+The sequences of
+
+Using BioCyc, we found that only 21% (20/96) and 43% (76/177) of the
+
+We have previously shown that the outer membrane localization of
+
+Examination of the AF2
+
+In keeping with our previous data that had shown that TPRs 9 to 14 of
+
+To gain insight into how Pel is modified and exported, we next built a composite model of the
+
+Our
+
+In this study, we present the structural characterization of the Pel polysaccharide modification enzyme, PelA. We determined the crystal structure of PelA from
+
+Deacetylation of exopolysaccharides is an important modification in Gram-negative and -positive bacterial biofilms (
+
+Our previous studies showed that full-length
+
+While we found that the
+
+Despite being less efficient than the hydrolase domain, the deacetylase domain of
+
+A complete list of bacterial strains and plasmids used in this study can be found in
+
+All basic microbiological and molecular biological techniques were performed using standard protocols. Genomic DNA was isolated using BioRad InstaGene Matrix. Plasmid isolation and DNA gel extraction was performed using purification kits purchased from BioBasic. Restriction enzymes, DNA ligase, alkaline phosphatase, and DNA polymerase were purchased from Thermo Fisher Scientific. Primers used in this study were obtained from Sigma-Aldrich (
+
+The nucleotide sequence of
+
+The site-directed mutants of
+
+Expression and purification of WT
+
+The cell pellet was thawed and resuspended in 40 ml of wash buffer (20 mM Hepes pH 8, 300 mM NaCl, 10% (v/v) glycerol, 1 mM tris(2-carboxyethyl)phosphine, and 20 mM imidazole) containing one SIGMAFAST protease inhibitor ethylenediaminetetraacetic-free mixture tablet (Sigma). The resuspended cells were lysed with the sonicator 3000 (Misonix) for a processing time of 5 min. The pulse was applied on for 5 s and off for 10 s. The output level was 6.5. The insoluble lysate was removed by centrifugation at 25,000
+
+Expression of the SeMet
+
+SeMet
+
+Individual protein and complex structural model predictions were generated using the AF2 and AF3 Protein Structure Database (
+
+The amino acid FASTA sequences of the analyzed CE enzymes (PelA,
+
+This assay was performed as previously described (
+
+This assay was performed as previously described (
+
+For all enzymes, a mix of α-(1,4)-GalNAc oligomers of various degrees of polymerization was used as substrate. Oligosaccharides were prepared as previously described (
+
+The hydrolase activity of
+
+After each digestion, oligosaccharides were purified from the enzymes and salt on Hypersep HyperCarb Sep-pak columns and eluted with 100% CAN. Eluates were dried down under airflow and reconstituted in 10 μl of 0.2% TFA before being spotted onto a MALDI plate in 2,5-dihydroxybenzoic acid matrix as previously reported. Analysis of the oligosaccharide population by MALDI-TOF MS was acquired in positive reflectron mode, accumulating at least 10,000 shots on Bruker UltrafleXtreme equipment. Prism (GraphPad Software Inc) was used for the final analyses.
+
+The coordinates and structure factors for
+
+This article contains
+
+The authors declare that they have no conflicts of interest with the contents of this article.

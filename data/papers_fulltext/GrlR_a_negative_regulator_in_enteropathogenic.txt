@@ -1,0 +1,123 @@
+Enteropathogenic
+
+Most genes required for A/E lesion formation are located within a pathogenicity island known as the locus of enterocyte effacement (LEE) (
+
+The absence of GrlR derepresses the expression of locus of enterocyte effacement (LEE) operons under repressing conditions.
+
+GrlR represses the expression of locus of enterocyte effacement (LEE) genes in the absence of H-NS.
+
+GrlR is the main repressor of locus of enterocyte effacement (LEE) gene expression under repressing conditions.
+
+GrlR and H-NS repress locus of enterocyte effacement (LEE) gene expression by an indirect cooperative mechanism.
+
+Protein secretion profile in the presence of a dominant negative H-NS mutant.
+
+GrlA antagonizes GrlR-mediated repression.
+
+Analysis of GrlR
+
+GrlR and GrlA are expressed under both repressing and inducing conditions and interact to form the GrlR
+
+GrlR represses the expression of
+
+Schematic representation of the locus of enterocyte effacement (LEE) regulatory network.
+
+In A/E bacteria, the LEE pathogenicity island is a distinctive example of a genetic element whose expression is controlled by a complex network of global (ancestral) and horizontally acquired regulatory proteins in response to a wide variety of environmental factors (
+
+The LEE encodes two additional regulatory proteins: GrlA (Global regulator of LEE-activator) and GrlR (Global regulator of LEE-repressor). GrlA shares homology with a small number of predicted uncharacterized proteins in different bacterial species and with CaiF, an activator of genes involved in carnitine utilization (
+
+In contrast, GrlR acts as a repressor by forming a dimeric structure of antiparallel beta-barrel subunits with a molecular mass of 29 kDa, which exerts its function as a negative regulator through the interaction with the HTH motif of GrlA, forming a complex with a molecular mass of 47.3 kDa that prevents the activation of the
+
+Despite the current knowledge, the mechanisms underlying the interplay between GrlA and GrlR in regulating LEE and non-LEE genes under different environmental conditions are still poorly understood. In this work, we show that in addition to the notion that GrlR functions as a repressor by forming a complex with GrlA, it can also act as a repressor of LEE genes independently of this interaction, while GrlA has a dual role as a positive regulator by also antagonizing GrlR through protein-protein interactions. Our data further illustrate that LEE gene expression is negatively regulated at two levels mediated by global (H-NS) and EPEC-specific (GrlR) regulators.
+
+The bacterial strains and plasmids used in this study are listed in
+
+Standard genetic and molecular techniques were applied as described previously (
+
+To construct the pT3GrlR plasmid, a DNA sequence including the RBS and the coding region of
+
+The pDnaK-CAT plasmid was constructed by PCR amplifying a fragment comprising from position −394 to + 127 of the transcription start site of the
+
+Chromosomal DNA from the EPEC E2348/69 strain was used as the PCR template. All plasmids generated were verified by DNA sequencing and evaluated for their ability to complement the corresponding mutants through a profile of secreted proteins or western blotting against virulence proteins.
+
+The
+
+To generate the chromosomally 3xFLAG-tagged strains, a modification of the λRed recombinase system was used as described previously (
+
+Single and double mutants were verified by PCR amplification and DNA sequencing. The tagged strains contain the tag in their native gene chromosomal locations; thus, are expressed from the
+
+Chloramphenicol acetyltransferase (CAT) activity, derived from the expression of the transcriptional fusions to the
+
+EPEC secreted proteins were analyzed as described previously (
+
+Bacteria were grown in DMEM or LB under shaking or static conditions until they reached an OD
+
+The membrane was blocked in 10% non-fat milk and incubated with one of the following primary antibodies: a 1:10,000 dilution of monoclonal anti-Tir, a 1:7,500 dilution of polyclonal anti-intimin (kindly provided by J.A. Giron), a 1:20,000 dilution of polyclonal anti-EspA (kindly provided by J. Kaper), a 1:10,000 dilution of polyclonal anti-EscJ (kindly provided by Dr. Bertha González-Pedrajo), a 1:5,000 dilution of monoclonal anti-FLAG M2 (Sigma-Aldrich, Saint Louis, MO, USA), a 1:15,000 dilution of polyclonal anti-maltose binding protein (MBP) (New England Biolabs, Ipswich, MA, USA), a 1:10,000 dilution of polyclonal anti-DnaK (Invitrogen, Waltham, MA, USA) and a 1:50,000 dilution of monoclonal anti-GroEL (Sigma-Aldrich, Saint Louis, MO, USA). The membrane was washed with 1x phosphate buffer saline (PBS) containing 0.05% Tween 20 and incubated with a 1:10,000 dilution of secondary anti-rabbit or anti-mouse antibodies coupled to horseradish peroxidase (Thermo Scientific, Waltham, MA, USA). The membrane was developed with the commercial kit “Western Lightning Chemiluminescence Reagent Plus” (Perkin Elmer, Waltham, MA, USA) according to the manufacturer’s instructions.
+
+EPEC E2348/69
+
+Total extracts were resuspended in a non-denaturing buffer (50% glycerol, 25 mM Tris-Hcl pH 6.8 and 0.05% bromophenol Blue) and separated by 12% native PAGE at 4°C. The gel was transferred to a 0.45-μm-pore-size PVDF membrane (Millipore) and processed for western blotting.
+
+Simultaneously, aliquots obtained from the same assays were processed for 12% SDS-PAGE and western blotting.
+
+Data analyses were performed by two-way ANOVA followed by Tukey’s multiple comparisons posttest using GraphPad Prism version 8.4.3 (471) for Mac OS.
+
+GrlR represses LEE gene expression mainly under non-permissive conditions such as growth in LB (
+
+The analysis of the T3SS-dependent protein secretion profile of WT, Δ
+
+These results highlight the negative regulatory effect that GrlR exerts on the
+
+H-NS globally represses LEE-gene expression, while Ler acts as an antagonist to overcome this repression; thus, in the absence of H-NS, the role of Ler is dispensable (
+
+Based on such evidence, we hypothesized that overexpression of GrlR in EPEC lacking H-NS, which expresses LEE genes constitutively even under non-permissive growth conditions in a Ler- and GrlA-independent manner, would not affect LEE gene expression. Therefore, we analyzed the transcriptional activity of the
+
+To address this concept, we evaluated the effect of GrlR expressed from a plasmid under growth conditions where GrlA is not the primary activator of Ler expression. When EPEC grows in static DMEM cultures under 5% CO
+
+These data suggested that GrlR can repress LEE gene expression through an alternative pathway, probably independent of its interaction with GrlA.
+
+Ler and GrlA establish a positive regulatory feedback loop that counteracts the repression exerted by H-NS (
+
+To delve deeper into the role of both H-NS and GrlR in the negative regulation of the LEE genes, we analyzed the transcriptional activity of the
+
+The inclusion of the Δ
+
+Taken together, these results indicate that GrlR and H-NS negatively regulate the expression of LEE operons at two independent levels that are indirectly cooperative (see Section “Discussion”).
+
+We previously observed that under inducing conditions, the negative effect of GrlR is counteracted when co-expressed with GrlA in
+
+To evaluate this possibility, we transformed plasmids pT3GrlRA, pT3GrlR, pTEPGrlA1 and the empty vector pMPM-T3 (
+
+To further explore this notion, we took advantage of the phenotype of two GrlA mutants, GrlA/I44A and GrlA/R54A, that cannot activate the
+
+These results are consistent with the notion that GrlA, in addition to its activating effect on the
+
+The results described above further indicated that GrlR has a critical role as a repressor under non-permissive growth conditions for LEE expression, thus implying that EPEC expresses it in both LB and DMEM. To analyze GrlR and GrlA expression and their interaction in more detail, we grew the EPEC
+
+Native PAGE analysis also suggested, based on the banding pattern shown by GrlR and GrlA (as discussed above), that GrlR and GrlA are expressed and interact, although not to the same extent, independently of the growth conditions. To analyze this observation in more detail, we took samples from LB and DMEM cultures of the EPEC
+
+These data allowed us to hypothesize that heterotrimer formation plays a bidirectional role, on the one hand, preventing the activation of
+
+Together, these results further supported the notion that GrlA counteracts the repressor effect of GrlR by interacting with it and showed that the GrlR
+
+To further explore the notion that GrlR can repress the constitutive expression of LEE promoters independently of its interaction with GrlA, we assessed the activity of the
+
+In this study, we further investigated the role of GrlR as a repressor and the function of its interaction with GrlA in modulating LEE gene expression. Our results revealed a novel feature of its mechanism of action as GrlR also seems to act as a repressor independently of its interaction with GrlA; however, it remains to be seen if GrlR exerts this function by directly interacting with Ler-dependent promoters or with Ler-derived transcripts recognizing a common motif or indirectly by interacting with or modulating the function of a conserved element that is also present in
+
+A summary of the events leading to the control of LEE gene expression in response to the growth conditions is shown in
+
+In addition to identifying the role of GrlR as a negative regulator independent of its interaction with GrlA, our findings show that GrlA plays a dual role in the positive regulation of LEE genes by binding to the
+
+How the growth conditions determine whether EPEC induces or represses the LEE genes when both proteins are present and interact needs to be clearly understood; however, current knowledge and the results described here open up interesting possibilities for future investigation. For example, GrlR, in addition to reciprocally antagonizing GrlA through their interaction, may also interact with other proteins to modulate the transcriptional activity of LEE genes or directly with DNA promoter regions or the RNA transcripts derived from Ler-regulated genes. Along with our results, reports showing that GrlA activity in EHEC is mechanoresponsive and modulated by its membrane-bound state (
+
+The presence of the GrlR
+
+The acquisition of a pathogenicity island imposes on bacteria the need to adopt and adapt pre-existent and horizontally acquired regulatory mechanisms to prevent the deleterious expression of recently incorporated genes (
+
+In line with the diversification and opposing effects of GrlR and GrlA functions, a Δ
+
+Overall, LEE regulation is a fine example of the integration of ancestral and horizontally acquired regulators that now comprise a complex and coordinated set of network motifs (
+
+The original contributions presented in this study are included in this article/
+
+CL-O and JP conceived the project, designed the experiments, and wrote the original draft of the manuscript with input and edits from all authors. CL-O, AH-S, WD, and AM-L performed the experiments. CL-O, AH-S, AM-L, WD, BF, YM-L, and JP performed data analysis. BF, YM-L, and JP provided funding. All authors approved the submitted version.

@@ -1,0 +1,113 @@
+The F
+
+The ATP synthase operon consists of nine genes
+
+The expression of the F
+
+The bacterial strains JM101, PB12, and PB12AGD
+
+The energetic level was estimated as reported previously by using the [ATP]/[ADP] ratio based on the method reported by [
+
+For ATPase activity, withdrawn cells were centrifuged as above and resuspended in 2.0 mL of ATP buffer (0.1 M Tris-acetate, pH 7.75, 10 mM potassium acetate, 2.0 mM EDTA) and supplemented with 10 µM MgCl
+
+The energetic level was estimated, as reported previously, by using the [ATP]/[ADP] ratio based on the method reported by [
+
+For ATPase activity, withdrawn cells were centrifuged as above, and resuspended in 2.0 mL of ATP buffer (0.1 M Tris-acetate, pH 7.75, 10 mM potassium acetate, 2.0 mM EDTA) and supplemented with 10 µM MgCl
+
+The specific growth rate (μ, h
+
+Total RNA from the strains was isolated and purified using hot phenol equilibrated with water [
+
+RT–qPCR reactions were performed, as previously, in an ABI Prism7000 Sequence Detection System (Perkin-Elmer/Applied Biosystems) using the Applied Biosystems™ SYBR™ Green SYBR Green PCR Master Mix (Thermo Scientific) [
+
+To elucidate the physiological changes in response to the disruption of the [ATP]/[ADP] ratio in the evolved strain of
+
+Regarding glucose consumption, PB12 depleted glucose at 9 h of cultivation with a q
+
+The energetic level of the studied strains was determined using an analysis of the [ATP]/[ADP] ratio, ATPase activity, and cAMP concentration. All determinations were performed in the analyzed strains growing in aerobic bioreactor cultures when DO
+
+As stated, enzymatic assays were performed from cellular extracts; thus, the ATPase activity encoded with the plasmid-cloned
+
+The previous selection of fast-growing PTS
+
+When
+
+To assess the impact of the energetic disruption in the mutant PB12AGD
+
+In the following sections, we discuss the physiological relevance of the differential upregulation on analyzed genes in response to ATP disruption in the PTS
+
+The total ATPase activity in
+
+The relative transcription level of genes encoding the F
+
+The observed decrement in the [ATP]/[ADP] ratio in the AGD
+
+The previous characterization of the evolved strain PB12 showed that this mutant selected the galactose permease GalP for glucose transport from the periplasm into the cytoplasm and phosphorylated it by Glk from ATP in the Δ
+
+The glycolytic gene
+
+The PPP genes observed upregulated in both PB12 mutants were
+
+The expression of the
+
+The conversion of PEP to oxaloacetate in the reaction catalyzed by phosphoenolpyruvate carboxylase (Ppc), and the conversion of pyruvate to acetyl-CoA (ACoA) catalyzed by the pyruvate dehydrogenase complex (AceE, AceF, and Lpd) feed ACoA into the TCA cycle as substrates of the enzyme citrate synthase (GltA) (
+
+Transcriptomic analysis of most of the genes encoding enzymes of the TCA cycle and the glyoxylate shunt in the PB12 and PB12AGD
+
+Among the analyzed TCA cycle and the glyoxylate shunt genes in the mutant PB12AGD
+
+FumA (fumarase A) is one of the three fumarase isoenzymes in
+
+The sensor histidine kinase ArcB represses genes encoding enzymes that catalyze the reaction of the TCA cycle. The DNA-binding transcriptional dual regulator ArcA is part of the ArcAB two-component system involved in response to respiratory conditions, and growth changes with a role in the anaerobic repression of genes associated with aerobic metabolism [
+
+The fermentative gene
+
+Nevertheless, the PoxB pathway is relevant in synthesizing acetate under aerobic conditions [
+
+The expression of
+
+The respiratory chain of
+
+UbiE (encoded by
+
+The gene
+
+Upregulation of aerobic- and anaerobic-respiratory genes in both PB12 mutants indicates increased respiratory capabilities compared to the parental strain JM101, coupled with a possible higher availability of electron donor compounds from the TCA cycle. Additionally, the upregulation of several analyzed genes results from the proposed ArcAB
+
+We determined the relative transcription of several genes encoding regulatory proteins. As
+
+The Cra (FruR) regulator (DNA-binding transcriptional dual regulator) modulates the direction of the carbon flow through different metabolic pathways [
+
+The GlcC regulator (GlcC-glycolate DNA-binding transcriptional dual regulator, encoded with
+
+The gen
+
+The DNA-binding transcriptional repressor IclR (coded by
+
+Finally, the DNA-binding transcriptional dual regulator Fnr (encoded by
+
+Fnr acts as a dimmer; in the presence of oxygen, the dimeric structure is converted to a monomeric form, reducing its ability to bind target DNA. Additionally, depending on the growth conditions, the proposed number of targets for Fnr and other global regulators varies (e.g., growing on a minimal M9 medium supplemented with glucose vs. growing in LB medium) [
+
+The expression of genes encoding the sigma factors
+
+The DNA binding transcriptional dual regulator
+
+Remarkably, the sigma D regulator
+
+Disruption of normal [ATP]/[ADP] ratio in
+
+The disruption of the [ATP]/[ADP] ratio in the AGD
+
+Finally,
+
+The higher transcription level of
+
+Overexpression of genes encoding the ATP-hydrolyzing component of the ATPase encoded with the
+
+The PTS mutant of
+
+The disruption of the balance of energy production and utilization in the PTS
+
+Upregulation of most genes encoding the TCA cycle and the glyoxylate shunt indicates that the AGD
+
+Finally, the reduction in the intracellular concentration of cAMP in the

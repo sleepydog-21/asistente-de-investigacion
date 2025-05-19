@@ -1,0 +1,59 @@
+The regulation of biofilm formation in
+
+Small molecules that disrupt biofilm formation by interfering with key regulatory pathways have emerged as promising alternatives to conventional antibiotics [
+
+In this study, we aimed to identify and characterize small-molecule inhibitors of BrpT to develop a novel strategy for combating
+
+The strains and plasmids used in this study are listed in
+
+A small-molecule library containing 7,251 compounds was generously provided by the Korea Chemical Bank (
+
+To determine EC
+
+To examine the cytotoxicity of BTI, monolayers of HeLa cells grown in a 96-well tissue culture plate (Nunc, Denmark) were treated with various concentrations of BTI, 1% DMSO (control), or wild-type
+
+Biofilm formation was quantified using the crystal violet staining method as described previously [
+
+For colony morphology analysis, 2 μl of
+
+The 6xHis-tagged BrpT protein was overexpressed in
+
+IVT assays were conducted as described previously [
+
+Data were analyzed using GraphPad Prism 9.0 (GraphPad Software) and presented as mean ± standard error of the mean (SEM) from at least three independent replicates. Statistical significance was determined by Student's
+
+We aimed to target BrpT to find selective and effective inhibitors of
+
+Due to the absence of a previously discovered ligand or a putative ligand-binding site in BrpT, we screened a random chemical library containing 7,251 compounds (at 20 μM) using the
+
+To validate the inhibitory effects of the hit molecules, we used
+
+Consistent with the
+
+The chemical structure of 468F03, 1-{[2-(5-methylfuran-2-yl)-1,3-thiazol-4-yl]methyl}-1,2-dihydropyridin-2-one (C
+
+Notably, 468F03 did not affect
+
+Because BrpT is a crucial transcription regulator for multiple biofilm-associated genes (
+
+We then assessed the impact of BTI on
+
+Furthermore, to examine the effect of BTI on colony rugosity, the parental wild-type and the
+
+To explore the impact of impaired
+
+To elucidate the mechanism by which BTI inhibits BrpT’s activity as a transcription regulator, we conducted in vitro assays using purified BrpT protein. First, the direct interaction between BTI and BrpT was investigated using MST, wherein fluorescently labeled BrpT proteins were reacted with varying BTI concentrations. The result clearly indicates the direct binding of BTI to BrpT, as detected by the shifts in fluorescence intensity representing the changes in the thermophoretic movement of BrpT caused by BTI binding (
+
+Next, the effect of BTI on BrpT activity as a transcription factor was analyzed using an IVT assay. The promoter region of
+
+In this study, we identified BTI, a small molecule inhibitor that effectively inhibits the activity of BrpT, a key transcriptional regulator of biofilm formation in the human pathogen
+
+The alarming rise of antibiotic resistance has necessitated the development of alternative strategies to combat bacterial infections. Targeting virulence and biofilm formation presents a promising approach to mitigate infection without exerting direct selective pressure for resistance [
+
+Another important area for future study is the potential broad-spectrum activity of BTI against other
+
+As a transcriptional regulator, BrpT directly binds to the promoter region of its regulon and facilitates the recruitment of RNA polymerase to promote transcription [
+
+In conclusion, our study identified BTI as a promising small-molecule inhibitor of BrpT that effectively inhibits
+
+Supplementary data for this paper are available on-line only at

@@ -1,0 +1,91 @@
+
+
+In addition,
+
+As we know, expression of those virulence determinants above are affected by environmental cues and coordinated by an array of regulatory proteins (
+
+Among them, SarZ and MgrA are classified as MarR subfamily due to their more sequence similarity to the MarR protein of Gram-negative bacteria than to the other SarA homologs (
+
+In this study, through construction of a
+
+The bacterial strains and plasmids used in this study are listed in
+
+Bacterial strains and plasmids used in this study.
+
+
+
+The primers used in this study are listed in
+
+For complementation of the
+
+To detect the hemolytic activity of
+
+To investigate the effect of
+
+Differential biofilm formation was further observed using scanning electron microscopy (SEM). Briefly,
+
+Crude PSMs were extracted from
+
+Hemolytic activity of the crude PSMs was determined with sheep red blood cells. One hundred microliters of crude PSMs extracts were mixed with 900 μl of 1×PBS buffer containing 3% sheep red blood cells. The mixtures were then incubated at 37°C for 2 hours. After centrifugation, the absorbance of the supernatant was measured at 540 nm to quantify the released hemoglobin in order to evaluate the extent of erythrocyte lysis.
+
+After reduced by 10 mM DTT at 56°C for 1 hours and alkylated by 50 mM IAM at room temperature in dark for 40 min, the crude PSMs were lyophilized to near dryness, and then resuspended in 0.1% formic acid. HPLC-MS/MS experiments were carried out on an Easy-nLC 1000 system connected to an Orbitrap Exploris™ 240 Mass Spectrometer (Thermo Fisher Scientific, USA) equipped with an ESI nanospray source. Chromatographic separation was performed on an in-house made NanoColumn (15cm, ID 150 μm, 3μm, C18) with a flow rate of 600 nL/min. The LC linear gradient was used from 6% to 9% B for 5 min, from 9% to 14% B for 15 min, from 14% to 30% B for 30 min, from 30% to 40% B for 8 min and from 40% to 95% B for 2 min. Solvent A was 0.1% formic acid in water, and solvent B was 0.1% formic acid in acetonitrile/water (80:20, v/v). For ionization, a spray voltage of 2.2 kV and a 320°C capillary temperature was used. Peptides were analyzed in positive mode from 350 to 1,500 m/z, followed by data-dependent higher-energy collision dissociation (HCD) MS/MS scans using a normalized collision energy of 30%.
+
+The raw MS files were analyzed and searched against the UniProt Staphylococcus protein databases using Byonic. The parameters were set as follows: the protein modifications were carbamidomethylation (C) (fixed), oxidation (M) (variable), Acetyl (Peptide N-term) (variable), Formyl (Peptide N-term) (+27.99) (variable); the enzyme specificity was set to trypsin; the maximum missed cleavages were set to 3; the precursor ion mass tolerance was set to 20 ppm, and MS/MS tolerance was 0.02 Da. Only high confident identified peptides were chosen for downstream analysis. The relative quantification of PSMs peptides were performed by integration of extracted ion chromatograms of formylated and deformylated forms.
+
+
+
+The
+
+For EMSA assay, the 5’-biotin-labeled DNA fragments containing the promoter regions of the
+
+A 330-bp fragment (from 735785 bp to 736114 bp), covering the 276-bp of
+
+Experimental data obtained were analyzed using GraphPad Prism8 and compared by the independent-sample t-test or one-way analysis of variance (ANOVA). P< 0.05 were considered statistically significant.
+
+To confirm the regulatory role of SarZ on virulence factors in
+
+Deletion of
+
+To investigate whether SarZ influences the biofilm formation of
+
+Deletion of
+
+Since PSMs in
+
+Qualitative and relative quantitative analysis of the crude PSMs. The crude PSMs peptide were prepared from the
+
+Subsequently, in order to identify the PSMs member whose production is primarily affected by
+
+To confirm the substantial differences in the pattern of PSMs production between the
+
+Disruption of
+
+Obviously increased expression of β-type
+
+Construction and hemolytic activity of the
+
+As a member of the MarR-family proteins (
+
+EMSA analysis of
+
+Since SarZ could directly bind to the promoter region of the
+
+Mapping of the SarZ recognition site in the
+
+
+
+In this study, we successfully constructed the
+
+Traditionally,
+
+Then, in order to determine which kinds of PSMs were affected by SarZ, the composition and content of the crude PSMs extracts was compared between the
+
+Although previous studies have shown that the β-type PSMs are non-cytolytic or have limited cytolytic function, and their contribution to virulence is less pronounced compared with the α-type PSMs (
+
+
+
+Biofilm is another major focus of research on the pathogenicity of
+
+While most of the known winged helix proteins in bacteria such as
+
+In summary, the present study confirmed that SarZ is a key virulence regulator of

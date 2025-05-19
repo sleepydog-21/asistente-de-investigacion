@@ -1,0 +1,129 @@
+Since their discovery, transposable elements (“jumping genes”) have been studied in prokaryotic and eukaryotic models. In both types of organisms, they are best known for their ability to insert into variable locations within an organism’s genome (
+
+One of the best characterized examples of this phenomenon is IS (Insertion Sequence) element insertion into the
+
+The first gene in the operon,
+
+The
+
+While repression of
+
+Two details about this insertional event remain of great interest. First, Bgl
+
+Since mutations are widely considered by the scientific community to be random events rather than environmentally directed, the above facts indicate that the
+
+As noted above,
+
+Since the hydrogen bonds between individual base pairs are relatively weak in a SIDD site, the opening of the DNA may be what allows IS insertion to occur there with increased frequency. This would support previous unpublished findings that H-NS lowers the rate of insertion into the
+
+Integration Host Factor (IHF) is a heterodimeric global histone-like DNA-binding protein involved in several cellular functions including transcriptional regulation, DNA recombination, and chromosome compaction (
+
+Crp is a DNA-binding protein that relies upon cyclic AMP (cAMP) to become activated (
+
+In this work, we provide evidence that two DNA-binding proteins affect the rate of IS insertion into
+
+The first phase of our research was to determine which genes, if any, demonstrated a clear effect on the frequency of IS insertion into
+
+Bgl
+
+The ∆
+
+Effect of
+
+Since the IHF protein has a significantly positive effect on IS insertion upstream of the
+
+PK01_R was constructed, containing the
+
+To create a strain expressing both IHF subunits at even higher levels, a pZA31 plasmid containing P
+
+Overexpression of
+
+Our next goal was to establish a mechanism by which IHF exerts its effect on the expression of
+
+Changing IHF levels does not have a significant effect on
+
+Since our LacZ data did not reveal a substantial change in transcriptional activity within the context of
+
+Deletion of
+
+As when testing
+
+Since our view of IHF’s effect proved to be relevant to other operons, the question remained: What is the mechanism of the IHF effect on transposition? First, we tested whether the DNA-binding ability of IHF was the cause of the observed multi-operon effect. A mutation assay was performed comparing WT and ∆
+
+Binding of IHF is necessary to effectively exert its positive effect on IS insertion upstream of the
+
+To confirm these results, the G62E constructs were also used in mutation assays for the
+
+Research conducted by other laboratory groups had demonstrated that IHF binding sites are present at both ends of IS1 and on one end of IS5 (hereafter referred to as IS5C; IS5A is the end without an IHF binding site) (
+
+IHF does not influence transcriptional activity of IS1 or IS5.
+
+To test whether Crp (when activated by cAMP) affects the rate of insertional mutations in the upstream region, two types of mutation assays were conducted. Simply testing a ∆
+
+cAMP-Crp is a positive regulator of IS insertion into
+
+Next, we compared these WT results to those of a
+
+To observe how loss of
+
+Effects of varying levels of cAMP on Bgl
+
+PK01, which replaced the native promoters of
+
+Another possibility is that this strain is in fact expressing IHF at levels higher than WT, but that this has an overall negative effect on mutation frequency. For example, these increased levels of expression may be toxic to the cell, or the increased binding of IHF to the multitude of its recognized binding sites may have pleiotropic effects that lead to lower growth rates, and consequently less insertion.
+
+A final possibility is related to the fact that IHF levels increase greatly when the cell is starving (
+
+cAMP-activated Crp, which is known to bind in
+
+Crp has a known binding site in
+
+The IS1-
+
+As stated in the Results section, both ends of IS1 and at least one end of IS5 contain IHF binding sites (
+
+In this work, we demonstrate that IHF and Crp are positive regulators of IS1 and IS5 insertion. Without both functional IHF subunits and the ability to bind DNA, a strong decrease in total Bgl
+
+CGSC strains JW3964-1, JW0430-3, JW1702-1, and JW3000-1 (
+
+The
+
+Using plasmid pKDT:P
+
+To make an
+
+To further increase
+
+The Glycine residue at position 62 is required for IhfA to bind to the DNA (
+
+To over express
+
+The promoter region (−55 to +30 relative to the
+
+IS5 carries three open reading frames (
+
+To test the effect of IHF on
+
+β-glucosidase assay was performed as described in our previous study (
+
+To measure β-glucosidase (BglB) activities, test samples were warmed in a 37°C water bath, and 200 μL of
+
+β-glucosidase (BglB) assays were conducted in wild type and ∆
+
+Bgl
+
+For the mutation assays which used differential levels of aTC, the growth media was prepared with different amounts of aTC to obtain several ng/mL concentrations as outlined in Results 2.3.
+
+To determine the effects of other carbon sources on Bgl
+
+Glp
+
+Using the wild-type and Δ
+
+The assay for PPD
+
+The program R was used for all statistical analyses.
+
+The original contributions presented in the study are included in the article/
+
+PK: Data curation, Investigation, Methodology, Writing – original draft, Writing – review & editing. ZZ: Conceptualization, Data curation, Methodology, Supervision, Writing – original draft, Writing – review & editing. MS: Conceptualization, Funding acquisition, Project administration, Supervision, Writing – review & editing.

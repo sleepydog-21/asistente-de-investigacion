@@ -1,0 +1,83 @@
+Microorganisms are crucial in biotechnology for producing bulk chemicals, proteins, biofuels, and pharmaceuticals. During fermentation, these microbes often face stress conditions, such as pH variations, changing temperature, and nutrient levels (Cordell et al.
+
+During the response of bacteria to abiotic stresses, the membrane has an important function, with bacteria frequently adapting their lipid composition (Sohlenkamp
+
+OLs are phosphorus-free membrane lipids that are relatively common in bacteria but are absent in eukaryotes and archaea (Kim et al.
+
+Heterologous production of OLs (uOLs and OLs-OH) in
+
+Wild-type
+
+Bacterial strains used in this study are listed in Table
+
+Plasmids and oligonucleotides used in this study are listed in Tables
+
+The bacterial strains were cultured overnight in 125-mL flasks, each containing 25 mL of MOPS/glucose medium supplemented with 2.6 mM K
+
+For the growth experiments, 600-µL aliquots of each culture with an OD
+
+To determine cell biomass concentration (in dry weight mg/mL), we employed a calibration curve established through linear regression (
+
+To assess growth kinetics in 96-well plates, we employed the algorithm developed by Swain et al. (Swain et al.
+
+The lipid compositions of bacterial strains were analyzed by labeling cells with [
+
+Primary amine-containing lipids (PE, OL, OL-OH) were visualized by spraying the plates with a solution of 0.2% (w/v) ninhydrin in acetone and subsequently heated at 120 °C for 10 min.
+
+Strains were grown in MOPS/glucose medium containing Gm and Amp and incubated at 37 °C overnight. The next day, 1 mL of each culture was harvested by centrifugation, washed three times with culture medium (MOPS/glucose phosphate limitation or MES/glucose), and resuspended in 1 mL of the same solution. Microtubes (1.5 mL) containing 0.6 mL (final volume) of either MOPS/glucose or MES/glucose medium supplemented with 2 g/L tryptophan, 0.01% CAA, and 800 nM IPTG were inoculated with their corresponding preculture to obtain an OD
+
+The RNA-Seq samples were analyzed by Novogene (Sacramento, CA, USA). A total amount of 1 μg RNA per sample was used as input material for the RNA sample preparations. Sequencing libraries were generated using the NEBNext® Ultra™ RNA Library Prep Kit for Illumina® (NEB, USA) according to the manufacturer’s recommendations, and index codes were added to attribute sequences to each sample. After rRNA removal, fragmentation was performed using divalent cations under elevated temperature in NEBNext First Strand Synthesis Reaction Buffer (5X). First-strand cDNA was synthesized using random hexamer primers and M-MuLV reverse transcriptase (RNase H-). Second-strand cDNA synthesis was subsequently performed using DNA polymerase I and RNase H. The remaining overhangs were converted into blunt ends via exonuclease/polymerase activities. After the adenylation of 3’ ends of DNA fragments, the NEBNext adaptor with a hairpin loop structure was ligated to prepare for hybridization. To select cDNA fragments of preferentially 150–200 bp in length, the library fragments were purified with the AMPure XP system (Beckman Coulter, Beverly, USA). Then, 3 μL USER Enzyme (NEB, USA) was used with size-selected, adaptor-ligated cDNA at 37 °C for 15 min followed by 5 min at 95 °C before PCR. PCR was then performed with Phusion High-Fidelity DNA polymerase, Universal PCR primers, and Index (X) Primer. Finally, PCR products were purified (AMPure XP system), and library quality was assessed using the Agilent Bioanalyzer 2100 system. Clustering of the index-coded samples was performed on an Illumina Novaseq sequencer according to the manufacturer’s instructions. After cluster generation, the libraries were sequenced on the same machine, and paired-end reads were generated.
+
+The raw reads were processed for adapter trimming and quality control filtering using Trim Galore (v.0.6.6). The reads were aligned using the R package Rsubread (v.2.2.6) and mapped to the reference genome (GCF_000005845.2). For gene expression quantification, the function feature Counts from the R subread package were used, generating the read counts matrix. We used batch correction ARSyseq and TMM for normalization. Differential expression analysis was performed using DESeq2 (v.1.28.1). The filters used for the DEGs were absolute log
+
+The success of many synthetic biology and biotechnology applications depends on the presence of a robust microbial chassis. We wanted to test if and how the presence of OLs in
+
+First, we constructed a plasmid-borne synthetic operon containing the genes
+
+In bacteria such as
+
+We performed growth experiments of all
+
+The presence of ornithine lipids (uOLs and OLs-OH) in
+
+We wondered if the presence of OLs (uOLs and OLs-OH) would improve growth in MES/glucose medium without phosphate limitation at pH 5.8 in our engineered
+
+Abiotic stresses, including acidic pH, have been reported to affect the transcriptional response in
+
+Total RNA was extracted from exponentially growing cultures (11 h) as, at this time point, a clear difference in growth rate was observed between the strains forming OLs and those lacking them (Fig.
+
+Transcriptional response to OL (uOLs and OLs-OH) formation at neutral and low pH. Perturbations and descriptions
+
+For the transcriptomic analyses, we used the iModulon classification of the differentially expressed genes (DEGs) data, which consists of the clustering of genes sharing an independently modulated signal. iModulons were obtained by independent component analysis (ICA) of 815 sample transcriptional profiles from 422 conditions for
+
+Low pH conditions cause a large transcriptional response, whereas OLs formation causes a mild transcriptional response.
+
+The presence of OLs in
+
+To better understand the specific transcriptional responses that benefit the growth phenotype of the OL-producing strains under low pH, we compared the expression profile of the control strain at neutral pH with that of the OL-producing strain at low pH (perturbation E). Two of the 48 filtered iModulons showed changes in their activity in this perturbation. The differential response to low pH in the presence of OLs showed a few key differences compared with the response of the control strain at neutral pH (Fig.
+
+An increase in the activity of the
+
+Besides the above-mentioned analyses by iModulons, we also analyzed individual genes that are related to ornithine synthesis, the synthesis and turnover of membrane lipids, and the response to acid stress in the four defined perturbations (Fig.
+
+The consistently reduced expression of the
+
+The presence of OLs in
+
+We have shown that the presence of OLs in
+
+One of the main interests in synthetic biology is the design of robust microbial chassis resistant to different stressing conditions during biotechnological processes. One important mechanism of stress resistance is the specific modification of membrane composition (Sohlenkamp
+
+The expression of the synthetic operon
+
+Three of the four strains used in this study are deficient in the gene
+
+Bacteria are frequently exposed to acid stress. To survive these unfavorable conditions, they have evolved a set of resistance mechanisms, which include the pumping of protons out of the cytoplasm, the production of ammonia, proton-consuming decarboxylation reactions, and modifications of the membrane lipid composition (Sohlenkamp
+
+To be able to design specific membrane properties in the future, further experiments are needed to describe and understand the changes in membrane characteristics, such as permeability and fluidity, caused by the presence of different forms of OLs. Another area of opportunity is how the engineering of the bacterial membrane affects the resistance to other types of stresses, such as osmotic pressure, shear stress, or temperature changes that can be present in large-scale fermentations (Wehrs et al.
+
+Our study provides a solid basis to demonstrate that engineering the membrane composition is a viable option to increase bacterial stress resistance, such as to phosphate limitation and to low pH stress. We demonstrate the advantage of the approach by expressing a heterologous metabolite from a costly pathway in proteome-reduced strains of
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PDF 506 KB)

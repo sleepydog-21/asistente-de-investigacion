@@ -1,0 +1,11 @@
+{
+  "id": "39843953",
+  "title": "Integration of vanHAX downstream of a ribosomal RNA operon restores vancomycin resistance in a susceptible Enterococcus faecium strain.",
+  "doi": null,
+  "authors": "McInnes RS, Snaith AE, Dunn SJ, Papangeli M, Hardy KJ, Hussain A, van Schaik W",
+  "journal": "npj antimicrobials and resistance",
+  "year": "2024",
+  "abstract": "During the genomic characterisation of Enterococcus faecium strains (n = 39) collected in a haematology ward, we identified an isolate (OI25), which contained vanA-type vancomycin resistance genes but was phenotypically susceptible to vancomycin. OI25 could revert to resistance when cultured in the presence of vancomycin and was thus considered to be vancomycin-variable. Long-read sequencing was used to identify structural variations within the vancomycin resistance region of OI25 and to uncover its resistance reversion mechanism. We found that OI25 has a reduced ability to positively regulate expression of the vanHAX genes in the presence of vancomycin, which was associated with the insertion of an IS6-family element within the promoter region and the first 50 bp of the vanR gene. The vancomycin-resistant revertant isolates constitutively expressed vanHAX genes at levels up to 36,000-fold greater than OI25 via co-transcription with a ribosomal RNA operon. The vancomycin-resistant revertants did not exhibit a significant growth defect. During VRE outbreaks, attention should be paid to contemporaneous vancomycin-susceptible strains as these may carry silent vancomycin resistance genes that can be activated through genomic rearrangements.",
+  "source": "PubMed",
+  "pmcid": "PMC11702846"
+}

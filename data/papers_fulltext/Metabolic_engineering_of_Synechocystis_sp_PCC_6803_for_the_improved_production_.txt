@@ -1,0 +1,93 @@
+Cyanobacteria as microbial cell factories possess high potential for sustainable production of various industrially relevant chemicals by direct carbon capture and conversion. High production of a target compound requires a significant redirection of metabolic flux for its synthesis, which might be challenging to achieve for the products of interest that are derived from secondary metabolism [
+
+The shikimate pathway is the common metabolic route for synthesis of the three aromatic amino acids L-phenylalanine (Phe), L-tyrosine (Tyr), and L-tryptophan (Trp), as well as of folic acid and vitamins K and E. The pathway starts from condensing erythrose-4-phospate (E4P) and phosphoenolpyruvate (PEP) to yield 3-deoxy-d-arabinoheptulo-sonate 7-phosphate (DAHP) catalyzed by DAHP synthase (Fig.
+
+Schematic overview of the phenylalanine and tyrosine biosynthesis pathway in
+
+The Phe and Tyr terminal branch starts with the enzyme chorismate mutase (CM) that catalyzes chorismate isomerization to prephenate, which is a common precursor for both amino acids. Phe is formed via dehydration of prephenate to phenylpyruvate (PPY) and its subsequent transamination. Tyr synthesis in cyanobacteria is suggested to occur via the arogenate route, where prephenate is directly transaminated to arogenate and converted by arogenate dehydrogenase to Tyr. Arogenate dehydratase activity was not found in multiple cyanobacterial strains tested, suggesting that no Phe is formed from arogenate [
+
+As an alternative to the arogenate route, tyrosine can be formed via HPP, which is common among microorganisms including
+
+Interestingly, the prephenate aminotransferase (PPA-AT) catalyzing the transamination of prephenate to arogenate has not been identified yet in cyanobacteria, whereas in plants it was discovered not so long ago [
+
+We have previously engineered the model cyanobacterium
+
+In this study, we aimed to enhance the
+
+List of plasmids and strains used in this study [
+
+‘-’ indicates that no colonies appeared after transformation. ‘x’ represent combinations not included in the study.
+
+To test the effect of overexpression of aromatic transaminases in
+
+In order to enhance the carbon flux towards Tyr and consequently
+
+Interestingly, for some constructs, we were unable to obtain colonies after transformation. For instance, construct pPPD-BE–C, expressing
+
+Engineered
+
+Western blot analysis (Fig.
+
+Expression of proteins in WT-based engineered
+
+The specific production titer of accumulated
+
+Specific production titer of
+
+Growth of
+
+The productivity of
+
+Overexpression of the CM domain insensitive to Phe inhibition (ΔppdAtCM, Fig.
+
+Enzyme regulation of Phe and Tyr biosynthesis possibly existing in
+
+The overexpression of TyrC alone, which acts only on prephenate and arogenate as substrates resulted in similar
+
+The intracellular tyrosine concentration might be the crucial key to this regulatory puzzle. The study by Hall and Jensen [
+
+Similarly as observed previously [
+
+The strong re-routing of Phe to
+
+Undoubtedly, the regulation of Phe and Tyr synthesis is tight and complex, and their intracellular concentrations is probably maintained in a dynamic equilibrium. Metabolic flux analysis would be important to identify the partitioning of precursors into the Phe or Tyr biosynthetic branch. Jensen and Hall suggested that cyanobacterial control of the aromatic amino acids pathway is endo-oriented, where the pathway regulation is tuned to the endogenous formation of the initial pathway substrates, and thereby the earliest enzyme controlling the flow has the major role in the end-product regulation [
+
+As the next step, we aimed to combine obtained strains with the overexpression of a feedback resistant version of DAHP synthase, the first enzyme in the shikimate pathway, in order to relieve the early-flux controlling node. Yet, the transformation of the AroG150-pEERM3 construct into any of the engineered strains as well as
+
+As an alternative approach, we used PRM8 (Phenylalanine Resistant Mutant #8), obtained from previous study [
+
+Specific production of
+
+Growth of At8 (
+
+In the previous study [
+
+Productivity and growth of PRM8-based strains during high-density cultivation.
+
+Thus, the usage of PRM8 as a background strain did not enhance
+
+The expression of heterologous TAL in the WT or Δ
+
+Appearance of brown color in growth medium of
+
+It is also puzzling that the brown color was present in the cultures of
+
+Altogether,
+
+In this study following the aim to establish the cyanobacteria as microbial cell factories for sustainable production of phenylpropanoids, we engineered previously obtained
+
+A comprehensive investigation of aromatic amino acid metabolism is needed, such as metabolic flux analysis in order to explore the possible existence of alternative routes leading to tyrosine formation as well as the possibility of decoupling the tyrosine synthesis from phenylalanine, which appears to be difficult in
+
+In this study the model cyanobacterial strain
+
+In this study, all overexpressed genes were inserted in the
+
+Schematic representation of vector construction. The base vector pPPD was cut with corresponding restriction site to insert ORF1 (single constructs). The addition of next ORFs was performed by cutting the new vector with BcuI and PstI (or BamHI) and the next insert with XbaI and PstI (or BamHI) and creation a BcuI/XbaI scar. DAHP synthase encoded by
+
+For transformation,
+
+Soluble protein fraction of
+
+Determination of
+
+HPLC–MS analysis was performed using an Agilent 1290 Infinity II HPLC system equipped with a 1290 Infinity II High Speed pump and a 1260 II Infinity DAD HS UV–vis detector, using an InfinityLab POROSHELL SB-120 C18 column with dimensions of 100 mm × 2.1 mm and 2.7 μm particle size. The HPLC was coupled to an InfinityLab LC/MSD equipped with an ESI ionization source. LC separation was performed using a water (A, 0.1% formic acid) and acetonitrile (B) eluent system using the method: 0–1 min 10% B; 1–10 min 10 → 90% B; 10–11 min 90% B; 11–11.1 min 90–10% B, 11.1–12 min 10% B; at a flow rate of 0.3 ml/min. The quantification of

@@ -1,0 +1,11 @@
+{
+  "id": "40196609",
+  "title": "A minimal CRISPR polymerase produces decoy cyclic nucleotides to detect phage anti-defense proteins.",
+  "doi": null,
+  "authors": "Sullivan AE, Nabhani A, Schinkel K, Dinh DM, Duncan ML, Ednacot EMQ, Hoffman CRK, Izrailevsky DS, Kibby EM, Nagy TA, Nguyen CM, Tak U, Burroughs AM, Aravind L, Whiteley AT, Morehouse BR",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2025",
+  "abstract": "Bacteria use antiphage systems to combat phages, their ubiquitous competitors, and evolve new defenses through repeated reshuffling of basic functional units into novel reformulations. A common theme is generating a nucleotide-derived second messenger in response to phage that activates an effector protein to halt virion production. Phages respond with counter-defenses that deplete these second messengers, leading to an escalating arms race with the host. Here we discover a novel antiphage system we call Panoptes that detects phage infection by surveying the cytosol for phage proteins that antagonize the nucleotide-derived second messenger pool. Panoptes is a two-gene operon,",
+  "source": "PubMed",
+  "pmcid": "PMC11974786"
+}

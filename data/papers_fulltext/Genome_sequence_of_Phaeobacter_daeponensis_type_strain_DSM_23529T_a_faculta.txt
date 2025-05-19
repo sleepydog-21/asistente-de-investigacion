@@ -1,0 +1,65 @@
+The genus
+
+Secondary metabolite production is a well-known feature within the
+
+Here we present the draft genome sequence and annotation of
+
+Phylogenetic tree highlighting the position of
+
+Evidence codes - TAS: Traceable Author Statement (i.e., a direct report exists in the literature); NAS: Non-traceable Author Statement (i.e., not directly observed for the living, isolated sample, but based on a generally accepted property for the species, or anecdotal evidence). Evidence codes are from the Gene Ontology project [
+
+A representative genomic 16S rRNA gene sequence of
+
+Scanning electron micrograph of
+
+In addition to the findings reported in [
+
+The utilization of carbon compounds by
+
+For
+
+The principal fatty-acid profile of strain TF-128
+
+This organism was selected for sequencing on the basis of the DOE Joint Genome Institute Community Sequencing Program (CSP) 2010, CSP 441 “Whole genome type strain sequences of the genera
+
+A culture of DSM 23529
+
+The draft genome sequence was generated using Illumina sequencing technology. For this genome, we constructed and sequenced an Illumina short-insert paired-end library with an average insert size of 221 bp, which generated 21,978,034 reads, and an Illumina long-insert paired-end library with an average insert size of 9,327 +/- 1,586 bp, which generated 19,261,756 reads totaling 6,186 Mbp of Illumina data. All general aspects of library construction and sequencing performed can be found at the JGI web site [
+
+Genes were identified using Prodigal [
+
+The genome statistics are provided in
+
+Graphical map of the extrachromosomal element pDaep_B174in strain TF-218
+
+Graphical map of the extrachromosomal element pDaep_A276 in strain TF-218
+
+Graphical map of the extrachromosomal element pDaep_C117 in strain TF-218
+
+Graphical map of the extrachromosomal element pDaep_D91 in strain TF-218
+
+Graphical map of the chromosome (cDaep_3984) in strain TF-218
+
+Genome sequencing of
+
+*Circularity not experimentally validated
+
+#Deduced from automatic annotation
+
+The 276 kb RepC-8 type replicon pDaep_A276 contains an additional DnaA-like I replicase gene (Daep_04147), but the
+
+The 174 kb plasmid pDaep_B174 contains two RepABC-9 type replication modules (
+
+This plasmid contains many transposases and putative phage-derived components including a DNA-primase (Daep_04238) and an RNA-directed DNA polymerase (Daep_04390). The general operon structure of this plasmid seems to be scrambled by transposition or recombination events, as illustrated by the type-IV secretion system. pDaep_B174 contains two copies of the characteristic
+
+Finally, the most conspicuous finding on this plasmid is the presence of a complete or nearly complete phenylacetate catabolon (Daep_04356 to Daep_04367), containing
+
+The 117 kb RepA-I type replicon pDaep_C117 contains a LuxR-type two-component transcriptional regulator (Daep_03918) and a complete rhamnose operon [
+
+Further genome analysis of
+
+Phylogenetic analysis shows that
+
+Even though discrepancies between the current classification of the group and the genomic data apparently exist, it is also obvious that
+
+The description of the species

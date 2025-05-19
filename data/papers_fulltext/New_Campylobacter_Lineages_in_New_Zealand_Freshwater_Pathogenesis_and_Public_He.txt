@@ -1,0 +1,82 @@
+Thermophilic
+
+Water contaminated with faecal material can harbour a variety of human pathogens such as
+
+Phylogenetic analyses have assisted with the typing and source attribution of waterborne pathogens to provide improved human health risk assessments (Lake et al.
+
+Analogous to the identification of the ‘cryptic’
+
+Genetic variation of thermophilic
+
+Accurate microbial freshwater quality assessments for recreational water contact are important to assess public health risk and prioritise investigations by water managers which identify faecal sources and mitigation strategies to reduce pathogen contamination (Till et al.
+
+Field sites for this study are comprised of three separate freshwater catchments as part of the wider Eastern Manawatū River in the lower North Island, New Zealand, close to Dannevirke in the Tararua region (Figure
+
+Sampling sites included in this study. Site 1, Tapuata (red); Site 2, Mangatera (blue); and Site 3, Mākirikiri (green). Land cover data were established from the Land Cover Database (v. 5.0) with visualisation using Dynamic World Classified Imagery for the March 2020—March 2021 sampling period.
+
+The sites were visited on 11 occasions over a 13‐month period from March 2020 to March 2021. On each sampling occasion, surface water was collected from the mid‐point of the stream, stored chilled (< 10°C) and processed within 8 h at the Hopkirk Research Institute (Palmerston North).
+
+Genomic DNA was extracted using the Promega wizard genomic DNA purification kit as previously described (Madison, WI, USA) (Gray et al.
+
+Linear mixed effects models were applied using the lmeTest (Kuznetsova, Brockhoff, and Christensen
+
+Water samples (
+
+Presumptive
+
+A total of 84 isolates were selected for WGS: 41
+
+Maximum‐likelihood tree, visualised using the Interactive Tree of Life tool and rooted at the mid‐point, of the core genome single nucleotide polymorphism phylogeny of
+
+Using PubMLST (Jolley, Bray, and Maiden
+
+Although no sampling occurred in April and May 2020 (southern hemisphere autumn) during the 13‐month study, due to COVID restrictions, preliminary analysis of seasonal effects on the isolation of the STs suggested that
+
+Preliminary SNP analysis of core genomes from the full isolate set (
+
+
+
+Recombination events separated isolates within ST3302 or ST7774 (Figure
+
+Using WGS data from
+
+Comparative analysis of the
+
+Antimicrobial sensitivity testing was undertaken to examine the susceptibility of the
+
+The
+
+Evolutionary analysis of
+
+Several New Zealand studies have closely examined the source attribution of
+
+Water managers use
+
+Overall, New Zealand is a low user of antibiotics in livestock industries (Hillerton et al.
+
+Apart from intrinsic penicillin resistance associated with the presence of beta‐lactamases, overall, the prevalence of AMR genes in isolates from this study was relatively low, with only
+
+With this study, there was a clear relationship between the freshwater
+
+
+
+Compared to the complete core genome SNP analysis across all 84 isolates from within this study, there was an increase in number of core genome SNPs identified from individual pairwise comparisons with the individual
+
+Detailed examination of the
+
+Waterbodies are frequently contaminated by run‐off from various faecal sources, leading to the mixing and transport of both pathogenic and non‐pathogenic contaminants from diverse origins (Cookson et al.
+
+
+
+The authors declare no conflicts of interest.
+
+
+
+
+
+
+
+
+
+
+

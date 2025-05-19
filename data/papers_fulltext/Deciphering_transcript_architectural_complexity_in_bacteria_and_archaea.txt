@@ -1,0 +1,87 @@
+Genomics, genome-enabled technologies, computational biology, and large-scale data mining are essential for rigorous, modern experiments on all organisms. Whole-genome sequencing and protein-based annotation are now routine, low-cost approaches for analyzing bacteria and archaea. But often the annotation, and thus analysis and experimental validation, is limited to predicted protein-coding regions and a few highly conserved non-coding RNAs (ncRNAs) like the rRNAs and tRNAs. Yet, pathogen RNA transcripts, particularly ncRNAs and RNA-mediated regulation, offer an unexplored set of druggable targets, diagnostics, and potential therapeutics (
+
+Overview of transcript, operon, and UTR definitions used. The interrelationship of genomic features described in this manuscript is illustrated, including the relationship of operon, CT region, CDS, mRNA, ncRNA, and proteins for monocistronic/polycistronic transcripts with/without transcript isoforms. The genes and genome are fictitious and used merely to illustrate the definitions of key terms.
+
+In bacteria, transcripts are frequently considered within the paradigm of operons as put forth by Jacob and Monod (
+
+Oftentimes, bacterial transcripts and operons are conflated, but fundamentally, the classical definition of operon is a DNA-based definition, defining a region in DNA that extends beyond the RNA-based transcripts to include the promoter/operator and terminator. Operons can have multiple transcripts due to post-transcriptional processing (
+
+Fundamental biological differences such as a high coding density and polycistronic transcripts in bacterial genetics mean that we cannot merely apply the same laboratory and computational methods that were designed and optimized for humans and eukaryotic model organisms, with the false assumption that they will work because bacteria are “simpler” than humans. Currently most bacterial/archaeal RNA-seq studies are conducted by applying tools designed for eukaryotic transcripts using bacterial coding sequence (CDS) predictions. Even when issues with counting algorithms are mitigated for a CDS-focused analysis of polycistronic transcripts (
+
+In this study, we describe a quick, easy, and reproducible method and algorithm for whole transcriptome sequencing and structural annotation using ONT direct RNA sequencing. We tested the methods on the
+
+We generated ONT direct RNA sequencing data (
+
+Overview of the experimental/analysis workflow. Plus-strand ONT direct RNA sequencing reads (shown as lines) are mapped from 1 bp to 6 kbp in the
+
+Characteristics of predicted transcripts for
+
+The reads for this species frequently do not extend beyond the 5′-end of the CDS, essentially meaning transcripts start where translation is predicted to start. When this happens for a polycistronic transcript, the result is a very long 5′-UTR as seen with the increased median, and when this happens for a monocistronic transcript, the mRNA is erroneously called a ncRNA. While this likely occurs for all of the organisms, it is acute for the
+
+Using the 5,266,309 ONT reads generated for
+
+Of the 3,618 predicted transcripts, 2,484 were predicted to be mRNAs (
+
+Of the 4,494 annotated CDSs, 2,357 were in an annotated transcript while 2,775 were not, suggesting that with these growth conditions we annotated transcripts associated with half of the predicted CDSs, which is consistent with previous results (
+
+Characteristics of transcript predictions. The distribution of the number of instances of CDS by transcripts/CDS (
+
+Using the predicted mRNAs (excluding ncRNAs) and CDSs, we predicted the 5′- and 3′-untranslated regions (UTRs). The median 5′-UTR was 53 bp and the most common length (mode) was 14 bp, while the median 3′-UTR was 72 bp, and the most common length (mode) was 36 bp (
+
+Our predictions detect tremendous bacterial transcript structural variation while confirming previous experimentally verified predictions. For example, in the
+
+Other regions were more complex, like the region from 4,080 to 4,087 kbp encompassing
+
+fdoGHI-fdhE Transcripts. Reads mapping to the minus strand of the
+
+Across the 11 transcripts predicted in the
+
+The 60% fewer reads sequenced for
+
+The transcription of
+
+LEE4 operon. Reads are illustrated that map to the plus strand (
+
+Using existing E2348/69 short read data from the SRA (PRJEB36845/E-MTAB-88804) and the long-read ONT data generated here, we compared differential expression results from EdgeR (
+
+Differential expression of predicted transcripts. Reads are illustrated mapping to the plus strand of the
+
+Through data re-use, we also predicted transcripts using published ONT data for
+
+To develop rigorous methods and algorithms to predict these transcripts, we needed to understand the characteristics of ONT direct RNA sequencing of bacterial transcripts, which we expected to differ from sequencing of eukaryotic transcripts given the differing physical features and stability of prokaryotic and eukaryotic RNA. Overall, transcripts >5 kbp were difficult to obtain in a single read (
+
+ONT sequencing characteristics that informed algorithm development. Size distribution of all of the
+
+To address incomplete reads and preferential sequencing of shorter transcripts, we first predicted transcript start/stop sites in locations where there is an overabundance of reads starting and ending. Subsequently, the actual transcripts were defined by measuring the strength of the connection between those start and stop sites using a model that supports the characteristics of truncated transcripts where smaller transcripts were preferentially sequenced. In this way, we predicted 12–15 kbp mRNAs, despite having a shorter max ONT read length (
+
+ONT direct RNA sequencing uses changes in electrical current to detect RNA modifications including
+
+Chimeric RNA sequencing reads were detected in all samples, including chimeras between the ONT ENO2 calibration strand and sample RNA (
+
+Therefore, based on these characteristics of ONT sequencing described in the previous section, we developed tp.py, for
+
+Potential start and stop sites were predicted at positions where |Δ
+
+Candidate transcripts were predicted using the Cartesian product of all predicted start and stop sites. The total read count (
+
+The algorithm runs in about an hour on a single core computer depending on the parameters and the size of the data set. We attempted to compare the results to assemblies of the ONT direct RNA reads with existing tools, including TAMA (tc_version_date_2020_12_14) (
+
+In most bacteria, transcripts are not characterized and CDSs serve as a proxy, albeit a poor one. Here, we show that bacterial long-read transcriptome data can be used to predict bacterial transcripts using an algorithm we designed for the complexities and nuances of prokaryotic transcripts. Application of this algorithm to ONT data from four species revealed extensive transcript structural variation, transcription of RNA on both strands in some regions, overlapping transcripts, and a diversity of non-coding RNAs. The extent of transcript structural diversity highlights the need for algorithmic and analysis improvements that are important for rigorous differential expression analyses, molecular evolution analyses, and other analyses as well as laboratory experiments like making knock-outs/ins or promoter analysis. This method should enable predictions for one strain using another strain’s data, but given that we have not ascertained how much transcript structural diversity there is between strains, it may be ill-advised. For that reason, we did not, for example, use the SG17M and NN2 data to make available predictions for the research community for the frequently used
+
+There were differences observed between a differential expression analysis using short/long reads as well as using transcripts/CDSs. Discordance between short and long reads may be due to: (i) shorter transcripts being preferentially sequenced relative to longer transcripts in ONT sequencing (
+
+There is still room for improvement for bacterial transcript predictions, both through lab experimentation and bioinformatics. The greatest improvement in the lab would be in obtaining more full-length reads, particularly for long transcripts, which is a challenge for all long-read sequencing platforms. For ONT, the new chemistry may improve the yield and length, and further improvements to length may be possible by altering the reverse transcription method needed to remove RNA secondary structure by changing the enzyme (
+
+When discussing taxonomy, Stephen J. Gould emphasized that “classifications both reflect and direct our thinking” (
+
+Here, we use bacterial long-read transcriptome data and a new algorithm we developed to predict transcripts from this data for two strains of three diverse bacterial species including both Gram-negative and Gram-positive bacteria. Our analysis reveals a tremendous amount of transcript structural variation, transcription of RNA on both strands in some regions, overlapping transcripts, and a diversity of non-coding RNAs, which we provide as new annotation for these genomes. Bacterial transcriptional structural variation has a richness that rivals or surpasses what is seen in eukaryotes and provides a rich new set of therapeutic and diagnostic targets.
+
+Cryogenically preserved
+
+To isolate RNA, the Qiagen RNeasy Mini Kit was used according to Qiagen RNA Protect Reagent Handbook Protocols 4 and 7 with Appendix B on-column DNase digestion (Qiagen, Hilden, Germany). The RNA was assessed with UV-Vis spectrophotometry (Denovix DS-11, Wilmington, DE), Qubit RNA HS Assay Kit (Fisher Scientific, Waltham, MA), and TapeStation RNA Screentape (Agilent, Santa Clara, CA). RNA preparations were stored at −80°C until ready for polyadenylation and sequencing, except for the
+
+RNA was polyadenylated with
+
+FASTQ files were mapped to the reference genome (Table S2) using minimap2 (v2.24-r1122; options: -ax map-ont -t 2) (
+
+The full set of commands are described at:

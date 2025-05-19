@@ -1,0 +1,127 @@
+The core RNA polymerase (RNAP) in bacteria, which is composed of five subunits (
+
+Bacterial metabolism requires the coordinated expression of multiple genes
+
+While specific groups of bacterial operons may have correlated activities simply because they have common regulatory proteins (e.g., alternative sigma factors), there are also proximity-based mechanisms that can couple transcription of adjacent operons. Terminator readthrough, in which the RNAP fails to read a terminator signal and keeps elongating the mRNA molecule, can generate the joint transcription of co-directional neighboring operons. Transcription-coupled DNA supercoiling
+
+Recently, a new mechanism of proximity-based transcription coupling was observed. Using single-molecule microscopy, Harden et al.
+
+In this work, we test whether RNAP post-termination sliding followed by
+
+We model transcriptional coupling between proximal operons using the sliding RNAP mechanism depicted in
+
+For simplicity, we assume that the binding of
+
+In this work we will refer to the complex that is formed by binding of
+
+To quantify how transcriptional coupling by sliding RNAP changes with varying distance between operons and with [
+
+To determine
+
+Here we use uppercase
+
+RNAP terminates transcription of the primary operon at
+
+The distribution of times
+
+Finally, substituting
+
+We can distinguish three different coupling regimes depending on the availability of free
+
+1. When [
+
+In this regime, we can define the
+
+2. When [
+
+and the characteristic distance is
+
+3. For [
+
+In simple terms, the regimes differ by whether most of the diffusional search for the secondary promoter takes place after (regime 1) or before (regime 2) the binding of
+
+To estimate the coupling efficiency
+
+The diffusion coefficient of RNAP post termination,
+
+We performed single-molecule experiments to measure
+
+For experimental convenience, we did not use core RNAP-DNA complexes that were formed after termination of transcription. Instead, we directly formed sequence non-specific RNAP-DNA complexes by adding core RNAP to a DNA that lacks known promoter sequences. The two types of complexes have the same protein composition and have similar properties: both are long-lived, in both RNAP slides on DNA, both are sensitive to the polyanion heparin
+
+To implement these experiments we designed and synthesized a biotinylated, 3,033 bp circular DNA lacking known promoter sequences that was labeled with the red-excited dye Cy5 (we refer to this construct as
+
+We immobilized
+
+Given that these experiments study sequence-nonspecific interactions between RNAP
+
+Example dwell time probability distributions of RNAP
+
+In the absence of promoter sequences in the DNA, the model in
+
+However, the experimental distributions are in fact described not by a single exponential, but by the sum of multiple exponential components with very different rate constants. Specifically, for the experiments in which [
+
+For the experiments with [
+
+To confirm that
+
+Two characteristic rates were observed for the experiment with [
+
+Having established the hyperbolic dependence of the
+
+The model fit well to the data (
+
+Operon coupling cannot be biologically functional if it takes an infeasibly long time for RNAP to find the secondary promoter after terminating transcription at the terminator of the primary operon. To compute the distribution of search times, we used the experimental results for
+
+Inputting the experimental results for
+
+The spacing between the final terminator of an operon and the nearest operon initial promoter has a broad distribution in the
+
+The model makes the simplifying assumption that every encounter of the RNAP-
+
+Using a combination of theory, stochastic simulations, and single-molecule microscopy experiments, we characterized the potential spatial and temporal reach of transcriptional coupling between adjacent operons mediated by diffusive sliding of RNAP that remains bound to DNA following transcription termination. We predict that
+
+To quantitatively define the reinitiation process, we measured three previously uncharacterized rate constants: the second-order rate constant for binding of
+
+The search for target sequences by proteins sliding on DNA has been demonstrated both in vitro and in vivo (e.g.,
+
+Rapid, efficient reinitiation of transcription through sliding of post-termination RNAP over relevant genomic distances may have significant implications for transcription homeostasis and regulation in both natural and engineered genomes. Under particular growth conditions, transcription activity is often concentrated in clusters of genes or operons in confined genomic regions
+
+Plasmid pDT4 is identical to pCDW116
+
+Circular DNA templates
+
+For making template
+
+For making template
+
+His
+
+An N-terminal His
+
+Cy5-
+
+Single-molecule total internal reflection fluorescence microscopy was performed
+
+For the experiments to measure the dwell time of RNAP
+
+The experiments to measure dwell time of
+
+Analysis of CoSMoS video recordings was done using custom software and algorithms for mapping between wavelength channels, spatial drift correction, and detection of spot colocalization as described
+
+The probability distribution of RNAP-DNA complex dwell times measured in each individual experiment was modeled as the sum of two exponential terms
+
+For each distribution, lifetimes of RNAP
+
+To get values for
+
+In this formulation,
+
+To account for non-specific binding of holoenzyme to the glass flow chamber (see
+
+By analogy to
+
+In order to calculate the mean search time ⟨
+
+An RNAP-
+
+Using the promoter and terminator annotations reported by Conway et al

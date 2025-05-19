@@ -1,0 +1,155 @@
+Interspecies interactions within the microbial communities associated with polymicrobial diseases play an important role in disease manifestations and outcomes.
+
+The pathogenic potential of
+
+Recent research has revealed that ExsA may also regulate non-T3SS genes such as
+
+Cell-surface signal systems are tripartite molecular devices that allow Gram-negative bacteria to sense extracellular stimuli and transmit them into a coordinated transcriptional response.
+
+In this report, we present data indicating that the PA1910(
+
+In
+
+Sequence alignment of ExsA-dependent promoters and the model for promoter recognition and recruitment of σ
+
+Highly conserved nucleotides in all ExsA-dependent promoters that are essential for ExsA-dependent activation are shown in bold colors. The predicted interaction between the helix-turn-helix (HTH) DNA-binding motifs of each ExsA monomer is shown. ExsA interacts with the region 4.2 of σ
+
+To examine the interaction between ExsA and the promoter of
+
+EMSA displaying the binding of ExsA to the femA promoter
+
+ExsA was expressed and purified as an amino-terminal histidine-tagged fusion protein (ExsA
+
+To verify the regulatory effect of ExsA on the
+
+The regulation of the Fem system by both FemI and ExsA
+
+(A) Reduction of
+
+(B) Comparison of
+
+To clarify the relationship between this regulator ExsA and the sigma factor FemI and to determine whether ExsA activates
+
+The reported function of the Fem system is the uptake of iron chelators (Mycobactin and Carboxymycobactin) produced by
+
+The effect of mycobactin J and the Fem system on the expression of virulence factors in
+
+(A) Differences in transcriptional activities of virulence factors and regulatory genes in the presence versus absence of mycobactin J. The peak promoter activities of the virulence genes were compared and presented as luminescence normalized to bacterial growth (RLU: cps/OD
+
+(B) Effect of
+
+(C) The effect of sigma factor FemI on virulence factor.
+
+(D) Effect of
+
+Since iron is essential for bacterial survival and iron availability can serve as a signal for
+
+We further examined the effect of the Fem system on
+
+To further elucidate the roles of the Fem system, we carried out two sets of RNA-Seq analyses. First, we performed an RNA-Seq analysis to compare the mRNAs in PAO1 in the presence and absence of mycobactin J. Total RNA was extracted from cultures grown at the mid-exponential phase, cDNA was synthesized to construct the cDNA library. Sequencing was performed using the Illumina HiSeq 2500 platform with pair-end 150 base reads.
+
+As shown in
+
+Gene expression profiling by RNA-Seq analysis
+
+Pie charts showing gene ontology analysis results for the differentially expressed genes outlined in PAO1 without vs. with mycobactin J, and PAO1 vs. PAO1(Δ
+
+Gene expression profiling by RNA-Seq analysis
+
+(A) Venn diagram denoting the number of Differentially expressed genes [DEGs] between PAO1 without vs. with mycobactin and between PAO1(Δ
+
+(B) Pie charts representing the distribution of top 20 KEGG pathways of differentially expressed genes in the two sets of RNA-Seq data.
+
+To further study the role of Fem system in addition to the mycobactin uptake, a second set of RNA-Seq was carried out to determine the regulon of FemI. We compared the transcriptional profiles of PAO1 and PAO1(Δ
+
+Analyzing the expression patterns between PAO1 in the absence and presence of mycobactin J in terms of metabolic pathways, we found that the genes with altered expression included those participating in phenazine biosynthesis pathways, quorum sensing, biosynthesis of antibiotics, bacterial chemotaxis, host-pathogen interaction, and biofilm formation (
+
+Altogether, it is evident that the FemI not only regulates
+
+To verify the effect of the Fem system on
+
+The effect of Fem system and mycobactin on the pathogenicity of
+
+Larvae infected with different
+
+We further checked the effects of mycobactin J on the
+
+The Fem system in
+
+We identified typical ExsA-binding consensus sequences in the promoter of
+
+ExsA’s activation is typically driven by intracellular signals such as calcium, triggering the release of the anti-activator ExsD, which allows ExsA to bind target promoters. The regulation of
+
+In iron-limited conditions, FemA serves as a receptor to sense and transport heterogeneous siderophores such as mycobactin for
+
+However, not all the changes observed in our study could be explained by Fem system’s role in iron transport. The Fem system appears to also regulate virulence factors independent of its iron acquisition role. First, in a
+
+It is known that other regulators of iron acquisition, such PfeR and PirR, are also associated with heterogeneous siderophore uptake in
+
+Several of the virulence factors regulated by the Fem system are involved in inter-species interactions. For instance, the Rhl system controls the synthesis of
+
+Indeed,
+
+In conclusion, our work demonstrates the importance of the Fem system in regulating
+
+Summary diagram outlining the Fem system in
+
+This flow diagram illustrates the Fem system [Fem A-FemR and Fem I] in
+
+While our study provides significant insights into the role of the Fem system in Pseudomonas aeruginosa pathogenicity and its regulation by ExsA, a few limitations should be noted. First, the
+
+Further information and any requests should be directed to and will be fulfilled by the lead contact, Kangmin Duan (
+
+This study did not generate new unique reagents.
+
+
+
+Data reported in this article will be shared by the
+
+This article does not report the original code.
+
+Any additional information required to reanalyze the data reported in this article is available from the
+
+This study was supported by a grant from the
+
+L.Y. and K.D. conceived and designed the study. L.Y., A.B., S.B., M.D., P.Z., and L.C performed the experimentation and data generation. Data analysis and interpretation were performed by L.Y., A.B., S.B., P.Z., M.D., L.C., M.S., and K.D. Article writing was performed by L.Y., A.B., M.S., and K.D. The final version of the article was approved by all authors who are all accountable for the work.
+
+The authors declare no competing interests.
+
+
+
+The
+
+The bacterial strains and plasmids used in this study are described in
+
+To elucidate the regulation of
+
+To determine the binding specificity, EMSA was carried out using the purified ExsA
+
+The plasmid pMS402 containing a promoterless
+
+The knockout mutant was constructed by allelic exchange with the pEX18Tc sucrose counter-selection system as described previously.
+
+Strains were grown overnight at 37°C followed by sub-culturing into fresh medium and grown to mid-exponential phase. Total RNA was extracted by TRIzol-based method (Life Technologies, CA, USA). In brief, the cultures were centrifuged at 12,000 x g for 5 minutes. The cell pellets were resuspended in 1 ml of TRIzol and then incubated at room temperature for 5 minutes to permit complete dissociation of nucleoproteins complex. After adding 0.2 ml of chloroform into the tube and vertex, the samples were centrifuged (12,000 x g at 4°C for 15 minutes). The upper aqueous phase was transferred to a fresh tube and 0.5 ml of cold isopropanol was added to precipitate RNA. After centrifugation (12,000 x g for 10 min), the pellet was resuspended in 1 ml 75% ethanol and centrifuged again. The air-dried RNA pellet was finally dissolved in 50 μL RNase-free water.
+
+RNA integrity was measured using Bioanalyzer 2100 (Agilent, Santa Clara, CA) and rRNA was removed from 1 mg of total RNA with Ribo-Zero Magnetic Gold Kit (Epicentre Biotechnologies, Madison, WI, USA). To construct the RNA-Seq library, TruSeq RNA Sample Prep Kit v2 (Illumina, San Diego, CA, USA) was used. rRNA-depleted RNA was fragmented using Elute Prime Fragment Mix. First-strand cDNA was synthesized with First Strand Master Mix and Super Script II reverse transcriptase (Invitrogen, Carlsbad, CA, USA). Following purification by Agencourt RNAClean XP beads (Beckman Coulter, CA, USA), the second-strand cDNA library was synthesized using Second Strand Master Mix with dATP, dGTP, dCTP, dUTP mix. Purified fragmented cDNA was end repaired (30 minutes at 37°C) prior to ligating sequencing adapters. Amplified RNA-Seq libraries were purified by using AMPureXP Beads. The clustering of the index-coded samples was performed on a cBot Cluster Generation System following to the manufacturer’s instructions, and the sequencing was performed using the Illumina Hiseq TM 2500 platform with pair-end 150 base reads.
+
+The raw data from two independent RNA-seq were filtered following three standards: 1, removing reads with ≥ 10 % unidentified nucleotides (N); 2, removing reads with > 50 % bases having Phred quality scores of ≤ 20; 3, removing reads aligned to the barcode adapter using FASTP (
+
+Pyocyanin was extracted from the culture supernatants after 18 h incubation and quantitated by a previously described protocol.
+
+Biofilm production was quantified as previously described by O’Toole.
+
+The multi-copy-number
+
+The
+
+GraphPad PRISM v9.0 (GraphPad Software, San Diego, CA, USA) was used to perform statistical significance analyses. One-way analysis of variance (ANOVA) was applied to compare more than three groups. An unpaired two-tailed Student’s t -test was used to compare two group data. Wherever applicable, significance levels are indicated as follows: NS (not significant) p > 0.05; ∗∗p < 0.01; ∗∗∗p < 0.001; ∗∗∗∗p < 0.0001.
+
+For gene expression measurements, the results represent the average of three independent experiments performed in triplicates and the error bars indicate standard deviations. Unpaired Student’s t-test was used to analyze the data, and the means and standard deviations are shown. The statistical analysis details can be found in the legends of
+
+For comparison of pyocyanin production and biofilm formation, the experiment was repeated at least three times and unpaired Student’s t-test was used to analyze the data. Error bars indicate standard deviations. The statistical analysis details can be found in the legend of
+
+For
+
+For the RNA-seq data, the edgeR package (

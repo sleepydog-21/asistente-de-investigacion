@@ -1,0 +1,159 @@
+Naphthalene is a hazardous environmental pollutant originating from natural and anthropogenic sources such as oil spills (Lawal
+
+The sulfate‐reducing, highly enriched culture N47 is capable of anaerobic growth with naphthalene as the sole electron and carbon source (Meckenstock et al.
+
+(A) Organisation of the
+
+Expression of a gene‐cluster coding for candidate enzymes of the THN‐CoA reduction and of the downstream pathway was found in 2‐methylnaphthalene‐grown cells of N47 by proteogenomic analyses (Selesi et al.
+
+Here, we aimed to verify the role of the
+
+The enrichment culture N47 (Meckenstock et al.
+
+The genes
+
+Gene expression for His‐tagged proteins was carried out in
+
+Gene expression of proteins with Twin‐Strep‐tag was carried out in
+
+The molecular masses of the purified polypeptides were determined by reducing sodium dodecyl sulfate−polyacrylamide gel electrophoresis (SDS − PAGE) (Bio‐Rad, Feldkirchen, Germany) and Blue Native PAGE was performed to estimate the native molecular weight (Invitrogen, CA, USA) following the manufacturer's protocol. The molecular mass of the native protein complex was furthermore estimated by size exclusion chromatography with an Ekta purifier (GE Healthcare, Uppsala, Sweden), equipped with a Superose 6 column (10 × 300 mm, Cytiva) that was equilibrated with 50 mM Tris/HCl buffer, pH 8.0 and 250 mM NaCl. The column was eluted with the same buffer at a flow rate of 0.5 mL min
+
+A 15.8 μM (0.66 mg mL
+
+The FAD content in the protein was determined with LC–MS (LC 2040C, LCMS 2020; Shimadzu, Duisburg, Germany) (see below) by comparison to an external FAD standard curve. A 158 μM (6.6 mg mL
+
+The preparation of cell free extract was performed in a glove box with an N
+
+Racemic
+
+Enzyme activities were determined under strictly anoxic conditions in 1.5‐mL reaction tubes at 30°C and 900 rpm in a ThermoMixer C inside a glove box with an N
+
+
+
+30 μL samples were taken at different time points and a double volume of methanol was added to stop the reaction. Afterward, the samples were centrifuged for 45 min at 18,200 × g and 4°C before the supernatant was analysed by LC–MS.
+
+Analysis of enzyme reactions was performed by with a Shimadzu high‐performance liquid chromatography LC‐2040C system coupled to a LCMS‐2020 single quadrupole mass‐spectrometer (Shimadzu) (LC–MS). Samples were separated via a Nucleodur C18 Gravity‐SB column (100 × 3 mm, 5 μm particle size, Macherey‐Nagel) at 35°C. Compounds were eluted with an increasing gradient of acetonitrile (buffer B) in a 0.1% (w/v) ammonium formate buffer (pH 6.5) (buffer A) at a flow rate of 0.4 mL min
+
+Steady‐state kinetic analysis of ThnO was conducted by enzyme tests with
+
+Infrared spectroscopy (IR) and vibrational circular dichroism (VCD) spectra of the enantiopure non‐CoA derivative of the real substrate of dehydrogenase ThnO were recorded with a Bruker Invenio‐R/PMA 50 VCD spectrometer. The IR and VCD spectra were simulated from the single‐conformer spectra for final comparison with the experimental data. Additionally, crystals suitable for single crystal X‐ray analysis were obtained after slow evaporation of a solution of the enantiopure non‐CoA derivative of the real substrate, and data were collected on a Bruker D8 Venture at 100(2) K. The structure was subsequently solved. Detailed procedures for VCD spectroscopy and X‐ray crystallography are provided in Data
+
+To identify if the CoA thioester is attached at the carboxyl or the carboxymethyl residue in the isomeric mixture of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters, produced by cell‐free extracts, we selectively removed one of the isomers—occupying the right peak (retention time 9.0 min) of the doublet in the LC chromatogram (Figure
+
+GC–MS measurements were performed with an Agilent 8890 GC system coupled to an Agilent 7010B GC/MS Quadrupole mass spectrometer (Agilent Technologies, Santa Clara, USA). The injection was carried out by an Automated Liquid Sampler (Model: G4567A; Agilent Technologies). One microliter of sample was analysed with a 1:10 split injection and a ZB‐SemiVolatiles column (30 m × 0.25 mm, 0,25 μm; Phenomenex, Aschaffenburg, Germany). The temperature gradient was 0–1 min isothermal at 35°C as initial condition, 1–1.4 min linear to 50°C with 40°C/min, 1.4–55.4 min linear to 320°C with 5°C/min and 55.4–65.4 min isothermal at 320°C, followed by cooling down and a post run of 1 min at 50°C. Helium was used as the carrier gas with a constant flow rate of 1.3 mL/min. The mass spectrometer was equipped with a High‐Efficiency Source (Agilent Technologies). The positive ionisation was carried out at a source temperature of 230°C and an electron energy of 70 eV.
+
+To determine the double bond position of the product of the dehydrogenase reaction, the product peaks with mass of
+
+Amino acid sequences of ThnO homologues were retrieved from SwissProt database using EBI BLAST server and were aligned using Clustal W (genome.jp/tools‐bin/clustalw). A neighbour‐joining tree was constructed based on the alignment using the MEGA11 software and Program iTOL (
+
+The homology model of ThnO was performed using the Swiss‐Model Automated Comparative Protein Modelling Server (
+
+In order to identify the acyl‐CoA dehydrogenase responsible for oxidising the carboxymethyl side chain of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid coenzyme A thioester, ThnO and ThnT were expressed in
+
+ThnO had a UV–vis flavin spectrum with spectral maxima at 380 and 450 nm indicating oxidised flavin (Figure
+
+To investigate the activity of the two acyl‐CoA dehydrogenase candidates, the natural substrate was synthesised biologically with cell‐free extracts of strain N47. THN‐CoA was converted to CoA thioesters of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid with N47 cell free extract by using NADPH as electron donor of THN‐CoA reductase and CoA‐SH as CoA donor for the downstream β‐oxoacyl‐CoA thiolase (Figure
+
+LC–MS chromatograms showing the conversion of substrate 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters produced in cell‐free extracts (mixture of compounds 16 and 17 in Figure
+
+After adding 23 μg of the purified recombinant acyl‐CoA dehydrogenase ThnO to the produced compound, the right peak (retention time 8.7 min) of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters diminished completely within 15 min, whereas the left peak (retention time 8.6 min) decreased only slightly (Figure
+
+Similar results were observed with 53 μg purified recombinant enzyme ThnT (approximately 18 μg of actual ThnT protein based on a purity of 34%) (Figure
+
+The demonstrated enzyme activities of the gene products ThnO and ThnT also proved that the
+
+Theoretically, the dehydrogenase reaction catalysed by ThnO/ThnT could take place at the acetyl‐CoA side chain of the 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters or at the carboxyl‐CoA with a dehydrogenation in the ring (Figure
+
+
+
+In order to elucidate which isomers are converted by the acyl‐CoA dehydrogenases, acyl‐CoA thioesters of
+
+Isomers of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters (compound 14 to 21) and
+
+The four different
+
+LC–MS chromatograms showing the conversion of substrate CoA thioesters of chemically synthesised
+
+To acquire the enantiomerically pure substrate we conducted a derivatization with enantiopure alcohol (
+
+The IR and VCD spectra of the non‐CoA derivative of the real substrate in CDCl
+
+The configuration of the non‐CoA derivative of the real substrate was also established by single‐crystal X‐ray structure determination. The ORTEP representations of the molecular structure are given in Figure
+
+ORTEP‐representation of the asymmetric unit of enantiopure non‐CoA derivative of the real substrate of ThnO ((1
+
+Determination of apparent kinetic parameters of ThnO revealed apparent Km and Vmax values of 61.5 ± 10.3 μM and 1.2 ± 0.1 μmol min
+
+Properties of acyl‐CoA dehydrogenase ThnO and ThnT heterologously expressed in
+
+Molecular mass including Twin‐strep tag.
+
+Not measured because of inhomogeneity of ThnT.
+
+To investigate the conversion of 2‐(carboxymethyl)cyclohexane‐1‐carboxyl‐CoA, the putative CoA transferase gene
+
+LC–MS chromatograms showing the conversion of substrate 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters produced with cell free extract of culture N47 (mixture of compounds 16 and 17 in Figure
+
+We interpret these results as such that ThnP is a CoA‐transferase that catalyses an intramolecular CoA‐transfer between the carboxyl‐ and the carboxymethyl‐residue of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioester. Without the CoA‐transferase ThnP, the dehydrogenase ThnO can only oxidise the 2‐(carboxycyclohexyl)acetyl‐CoA. This leads to the decrease of only the right peak (retention time 9.0 min) of the 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid CoA thioesters in (Figure
+
+To confirm the assignment of the two substrate peaks to isomers with distinct side chains, we selectively removed one of the substrates using a dehydrogenase assay (Figure
+
+The results observed using cell free extract‐derived substrate were in agreement with the results of enzyme assays with the chemically synthesised
+
+LC–MS chromatograms showing the conversion of substrate CoA thioesters of chemically synthesised
+
+Besides the product of the dehydrogenase reaction, 2‐carboxycyclohexylideneacetyl‐CoA with
+
+No CoA transferase activity was observed with either
+
+Cell free extract of naphthalene‐grown cells consumed
+
+The sequence distance relationship of ThnO/ThnT was analysed with selected members from other acyl‐CoA dehydrogenase subclasses, showing that ThnO shares 45% identity with glutaryl‐CoA dehydrogenase from the sulfate‐reducing bacterium
+
+The strictly conserved amino acid regions S/TEP/A
+
+Phylogenetic analysis of ThnP indicated that it belongs to the class I CoA transferase family according to the most enduring classification model (Heider
+
+Modified neighbour‐joining tree of CoA transferase ThnP homologous composed of sequences from studies of Hackmann (
+
+Anaerobic degradation of naphthalene proceeds by activation through carboxylation, CoA‐ligation and successive ring reductions. After the first ring cleavage, the downstream pathway of anaerobic naphthalene degradation continues via β‐oxidation‐like reactions (Figure
+
+The genes encoding THN‐CoA reductases are surrounded by a cluster of genes that encode hydratases, dehydrogenases, hydrolases, CoA‐transferases and thiolases (Selesi et al.
+
+Earlier conversion studies of CoA thioesters of
+
+ThnO had a homotetrameric quaternary structure with one FAD molecule per subunit, consistent with most of the other members of the acyl‐CoA dehydrogenase superfamily (Kim and Miura
+
+The NMR‐based identification of 2‐carboxycyclohexylideneacetyl‐CoA (Figure
+
+The Vmax of recombinant ThnO (1.2 μmol min
+
+ThnO exhibits stereospecific discrimination of one enantiomer of 2‐carboxycyclohexylacetyl‐CoA. To find out the configuration, the active substrate (in form of the non‐CoA derivative) was analysed by crystallography and vibrational circular dichroism (VCD) (Merten, Golub, and Kreienborg
+
+The homology model of ThnO in complex with the substrate (1
+
+The binding cavity for the C3‐C4 atoms of the substrate (1
+
+We demonstrated the activity of the CoA‐transferase ThnP, which performs an intramolecular CoA transfer between 2‐(carboxymethyl)cyclohexane‐1‐carboxyl‐CoA and 2‐carboxycyclohexylacetyl‐CoA. When the CoA thioester of 2‐(carboxymethyl)cyclohexane‐1‐carboxylic acid was prepared in cell free extract, it clearly exhibited a mixture of the two isomers (compounds 16 and 17 in Figure
+
+CoA transferases typically catalyse the intermolecular CoA transfer between disparate CoA donors and acceptors. In contrast, ThnP selectively catalyses an intramolecular CoA transfer but lacks the ability to utilise alternative CoA donors for intermolecular CoA transfer. The intramolecular transfer of the CoA moiety preserves the energy‐rich CoA thioester bond, preventing the release of the free acid or the transfer of CoA to other receptors, thereby avoiding the loss of intermediates and the need for additional ATP to activate the free acid (Pfister, Zarzycki, and Erb
+
+The best‐studied intramolecular CoA transferases are succinyl‐CoA:phenylsuccinate CoA‐transferases (exhibits both inter and intramolecular transfer properties) involved in anaerobic metabolism of auxin in
+
+The absence of the conserved active site glutamate in ThnP, which is typically found in family I CoA transferases, raises questions about its catalytic mechanism. According to the alpha fold model of ThnP, a glutamate E269 is in a topologically similar position with the active site E238 of 4‐hydroxybutyrate CoA‐transferase (Protein Data Bank entry 3GK7) belonging to the Cat1 family (Figure
+
+An alternative explanation for the possibility that E269 facilitates the nucleophilic attack necessary for CoA transfer, ThnP may employ a novel mechanism that involves forming an internal anhydride intermediate, rather than an enzyme‐bound acyl‐glutamyl anhydride. The internal anhydride would be formed through nucleophilic attack by the acetate side chain of the substrate 2‐(carboxymethyl)cyclohexane‐1‐carboxy‐CoA on its acyl‐CoA carbonyl group, followed by the attack of CoA thiolate on the carbonyl of the internal anhydride adduct (Figure
+
+A notable feature of the intermolecular CoA transferase formyl‐CoA: oxalate CoA‐transferase, belonging to family III/Frt group, is the presence of a flexible tetra‐glycine loop (Figure
+
+A similar flexible QXGhG loop (X for any amino acid and h for a hydrophobic amino acid) can be found in the intermolecular CoA transferases of the family I/Cat1 group (Figure
+
+Based on the identification of CoA‐transferase, acyl‐CoA dehydrogenase and its product 2‐carboxycyclohexylideneacetyl‐CoA, we hereby establish a modified metabolic pathway (Figure
+
+Here, we demonstrated that the downstream pathway of anaerobic naphthalene degradation started with 2‐(carboxymethyl)cyclohexane‐1‐carboxyl‐CoA where the intramolecular CoA‐transferase ThnP produces 2‐carboxycyclohexylacetyl‐CoA. The following dehydrogenation is catalysed by ThnO at the acetyl‐CoA thioester. This reaction is probably followed by a hydratase and a novel lyase reaction acting at an intermediate with a tertiary hydroxyl‐group to open the ring. The elucidation of the reactions catalysed by ThnO and ThnP sheds further light on the anaerobic naphthalene degradation pathway at the point initiating the second ring cleavage.
+
+
+
+The authors declare no conflicts of interest.
+
+Data S1.

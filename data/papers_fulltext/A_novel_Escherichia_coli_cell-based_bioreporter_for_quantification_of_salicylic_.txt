@@ -1,0 +1,95 @@
+Salicylic acid (SA) is a critical plant hormone that regulates a wide variety of metabolic pathways in plants, including those for defense against abiotic and biotic stress (Delaney et al.
+
+In addition to its role as a plant hormone, SA and its derivative, aspirin (acetylsalicylic acid), have various applications in different industries. SA is an active ingredient in various medications and personal care products. Moreover, it is used as a food preservative and a plant growth regulator to enhance productivity in the agriculture industry. Owing to its widespread use, SA is found in diverse products, such as foods, medicines, cosmetics, and preservatives (Ekinci et al.
+
+Various techniques, including instrumental analysis and optical sensors based on nanomaterials, can be used to monitor or quantify SA levels (Engelberth et al.
+
+The mar operon, consisting of multiple antibiotic resistance regulator (MarR), MarA, and MarB, is a multidrug resistance genetic system in
+
+The gene encoding MarR was amplified using polymerase chain reaction (PCR) with primers corresponding to the genomic DNA of
+
+List of primers used for cloning
+
+TCG
+
+CGC
+
+ATATA
+
+ATTAT
+
+CTGGGAGCACTG
+
+CCAGCATACG
+
+GACCTGGGAGCACTG
+
+CGATCCAGCATACG
+
+GCTGGGTGGAA
+
+GGGTTCGGCAA
+
+The restriction enzyme recognition sequences and mutated sequences are underlined
+
+List of
+
+A bioreporter assay was performed to verify the sensitivity of the bioreporters, following a previously reported protocol with minor modifications (Jeon et al.
+
+To verify the role of MarR in the mar operon, the responses of the bioreporters, namely, SA1, SA2, SA3, and SA4, to SA were compared. Similar to the procedure described in the “
+
+To validate the effect of the amount of MarR on the performance of the bioreporters, the expression levels of recombinant
+
+To evaluate the effects of MarR mutants on the selectivity and sensitivity of bioreporters, MarR mutants were introduced to
+
+To evaluate the applicability of the newly developed bioreporters, SA levels in artificially contaminated samples were quantified. The samples were prepared by mixing different concentrations of commercial cosmetics with water. As described in the above section, the samples were added to the bioreporters SA2 and SA4 together with 10 μM IPTG. The eGFP fluorescence intensities for the bioreporters were determined, and the SA concentrations were calculated based on standard curves. A standard curve was obtained by spiking with a known concentration of SA, ranging from 0 to 5 mM under the same experimental conditions.
+
+The SA concentrations in the cosmetic samples were quantified using an LCMS-8060 equipped with a Nexera X2 UHPLC (Shimadzu Corporation, Japan) coupled with an Acquity UPLC BEH Shield RP18 column (150 × 2.1 mm, 1.7 µm, Nihon Waters K. K., Japan). The cosmetic samples were serially diluted up to 20,000 times and injected. Separation was performed using gradient programs with 0.1% formic acid in water as mobile phase A and 0.1% formic acid in acetonitrile as mobile phase B; the flow rate was 0.2 mL/min. For the subsequent MS/MS analysis, nitrogen and argon gases were used as the heating and drying and collision gases, respectively. SA was detected in multiple reaction monitoring mode at
+
+Statistical analysis and data validation were performed using R version 4.3.0 and package DescTools version 0.99.59 (Signorell et al.
+
+The SA-responsive bioreporters were constructed by introducing the plasmid pMarO-eGFP carrying
+
+Illustration of salicylic acid (SA) biosensors.
+
+Responses of biosensors based on
+
+In addition to sensitivity, the selectivity toward targets is another critical aspect of bioreporters. To verify selectivity, the bioreporters were exposed to 1 mM SA and its derivatives, including aspirin, ferulic acid,
+
+Since MarR acts as a target sensing module and is a regulator in the
+
+Responses of genetically different biosensors to 1 mM salicylic acid (SA).
+
+The sensitivity of SA bioreporters was enhanced by increasing the level of MarR in
+
+Effect of MarR overexpression by induction with isopropylthio-
+
+The bioreporter with both endogenous and recombinant MarR showed an improved SA response, which was enhanced by IPTG treatment. Under these experimental conditions, the target selectivity of bioreporters was further investigated because SA1, the bioreporter regulated by only endogenous MarR,
+
+Effect of MarR overexpression on the sensitivity and selectivity of biosensors toward salicylic acid.
+
+Since the properties of TF-based bioreporters were determined by the target selectivity and specificity of TFs, the performance of bioreporters could be modulated by genetic engineering on TFs. As shown in Fig.
+
+The structure of MarR dimer and the responses of bioreporter employing MarR mutants as sensing elements to SA and its derivatives.
+
+To verify the applicability of the newly developed SA bioreporters, SA originating from commercially available cosmetics was quantified using the bioreporter SA2 under optimized conditions. Three different skin-soothing products were purchased and used as samples. Based on the description of ingredients, products A and B contained 0.5% and 2.0% (w/w) SA, respectively; however, no such description was available for product C. For quantification, the standard curves were obtained using the bioreporter assay for IPTG-treated SA2, and the induction coefficients were determined after 0–5 mM SA exposure (Fig.
+
+Standard curves for salicylic acid (SA) quantification.
+
+Additionally, it was confirmed that the expression of eGFP was regulated well by MarR because the original fluorescence signals of SA2 without SA exposure showed about 200 arbitrary units (Figure
+
+Quantification of salicylic acid in commercial cosmetics
+
+For LC–MS/MS analysis, the 5 to 100 ppb ranges of standard SA were injected at room temperature, and the peak area was measured to obtain the calibration curve. The relationship between the concentration of SA and the peak area was analyzed by a linear regression fit and obtained a calibration curve with 0.998
+
+Salicylic acid is widely used in various industries, such as agriculture and pharmaceutical industries, and is an ingredient of many personal care products. Although the adverse effects of SA are not considered a severe threat, higher SA concentrations can be present in the upper trophic levels of the food chain through bioaccumulation (Bai and Acharya
+
+As described above, the
+
+To compare the performance of the novel SA bioreporter, the
+
+Comparison of salicylic acid sensing
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PDF 196 KB)

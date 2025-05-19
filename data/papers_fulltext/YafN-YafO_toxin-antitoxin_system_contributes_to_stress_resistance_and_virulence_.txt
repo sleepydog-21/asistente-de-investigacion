@@ -1,0 +1,63 @@
+Avian pathogenic
+
+Toxin-antitoxin (
+
+While at least 19 distinct chromosomal type II TA systems have been identified across various
+
+The
+
+Bacterial strains and plasmids used in this study.
+
+Primers designed and used in this study.
+
+During the study, chickens were provided with food and water ad libitum and were handled according to the Regulations for the Administration of Affairs Concerning Experimental Animals. All experimental procedures were approved by the Animal Welfare and Ethics Committees of Yangzhou University (SYXK [Su] 2021–0027) .
+
+Overnight cultures of APEC E058 were diluted 1:100 into fresh LB and incubated until reaching mid-exponential growth phase (OD
+
+A bacterial adenylate cyclase two-hybrid
+
+The full-length coding region of the
+
+To investigate the interaction of the YafN protein with its putative promoter region, an EMSA was employed. The
+
+The suicide vector pVIK112 was used for the construction of
+
+The
+
+Persister cell formation assays were conducted according to a previously described method (
+
+Bacterial adaptation to environmental stresses was examined as described previously (
+
+Chicken macrophage HD-11 cells were cultured in Dulbecco's modified Eagle medium (
+
+A 1-day-old chick infection model was used to assess APEC virulence as previously described (
+
+To further elucidate the role of the YafNO system in APEC colonization, we examined the
+
+Statistical comparisons between experimental groups were performed by the Mann-Whitney test using Prism version 8.0 (GraphPad Software).
+
+Genomic sequence analysis revealed the presence of the
+
+We investigated the YafN-YafO interaction using a bacterial two-hybrid (
+
+Considering the established self-regulation of antitoxins within type II TA systems, we explored whether YafN also autoregulates its own operon. To test if YafN directly interacts with its promoter, we performed EMSA by incubating a FAM-labeled
+
+To assess the potential toxicity of YafO and the protective role of YafN, we performed growth curve analyses using BL21 cells harboring the plasmids pET28a-
+
+To elucidate the contribution of YafNO to persister cell development, we assessed the survival of wild-type and mutant strains under various stress conditions, including antibiotic treatment, high osmolarity, alkalinity, acidity, and oxidative stress. Deletion of the
+
+To investigate the role of the YafNO TA system in intracellular survival, we infected HD-11 phagocytic cells with the wild-type strain E058, as well as the mutant strains Δ
+
+In the LD
+
+The significant threat posed by APEC to poultry health, coupled with its potential as a zoonotic agent, underscores the necessity for a deeper understanding of its pathogenic mechanisms (
+
+Bacterial persister cells, a subpopulation characterized by enhanced antibiotics tolerance, are increasingly recognized as contributors to treatment failures and chronic infections. Numerous studies have illuminated the diverse protective functions of TA systems in bacterial stress responses (
+
+Although APEC is predominantly considered an extracellular pathogen, given its primary extracellular growth pattern
+
+The higher prevalence of TA systems in pathogenic bacteria relative to non-pathogenic strains implies a potential role for these systems in virulence across various bacterial pathogens. While several studies have shown the involvement of TA systems in bacterial pathogenesis using infection models (
+
+In summary, our study offers insights into the
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.

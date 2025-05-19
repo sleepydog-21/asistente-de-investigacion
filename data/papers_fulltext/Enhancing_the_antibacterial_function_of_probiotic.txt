@@ -1,0 +1,67 @@
+The antibiotic resistance crisis necessitates innovative approaches to manage bacterial infections. Probiotics, which are live microorganisms, have the potential to be used as prophylactic or therapeutic alternatives to antibiotics (
+
+In recent years, various efforts have been made to enhance the inherent antibacterial properties of probiotic bacteria by equipping them with the ability to produce heterologous bacteriocins against a pathogen of interest (
+
+(A) Table summarizing studies in which EcN has been engineered for heterologous bacteriocin production and the promoters used. (B) Schematic representation of the McC operon where the organization of the structural genes (
+
+Microcin C (McC) is a narrow spectrum yet potent translational inhibitor, which is produced naturally by some
+
+Our aim was to confer EcN bacteria the ability to produce different amounts of McC from P
+
+The representative images of Mueller-Hinton agar plates show the “halo,” indicating bacterial growth inhibition, surrounding the disc containing McC. The graphs show the size of the halo produced (radius, in millimeters) on Mueller-Hinton agar plates containing the clinical
+
+Prior to constructing plasmids with
+
+(
+
+Table showing bactrerial strains and plasmids used in this study.
+
+Having established that clade 1 and clade 2 P
+
+(
+
+Next, we replaced the GFP in pEB-P
+
+To determine how producing high and low amounts of McC from pEB-P
+
+(
+
+To enumerate the proportion of viable cells in the population of EcN bacteria making different amounts of McC, we used overnight cultures of EcN to inoculate fresh LB media 2.5 × 10
+
+To determine how producing elevated and reduced amounts of McC affected the fitness of EcN in more depth, we compared the transcriptomes of EcN bacteria containing pEB-P
+
+Having established that producing high amounts of McC imparts a fitness cost on EcN bacteria, we investigated the antibacterial efficacy of EcN bacteria containing pEB-P
+
+(
+
+In the search for new antimicrobials, bacteriocins offer a promising alternative to conventional antibiotics. However, a major challenge with bacteriocins is their delivery in sufficient amounts to the site of infection. However, for infections of the gut, probiotic bacteria retrofitted with heterologous bacteriocin gene cassettes allow
+
+We confirmed that McC is active against clinical
+
+We constructed two variants of P
+
+The production of high amounts of McC has an adverse effect on the overall fitness of EcN bacteria. The transcriptomes of bacteria producing different amounts of McC indicate a strong correlation between the amount of McC produced and the extent of perturbation of metabolism. This could be due to the fact that substantial allocation of cellular resources is needed to support the production of high amounts of McC. Notably, the production of McC leads to the dysregulation of genes associated with acid resistance and degradation of lysozyme—both of which are hallmark features of the gastric environment. Consequently, EcN bacteria producing high amounts of McC do not survive stimulated gastric conditions as well as the EcN bacteria producing low amounts of McC. The compromised fitness of EcN bacteria producing McC is also reflected in the
+
+Overall, this study underscores the proverbial saying “less is more” should be an important consideration when retrofitting EcN and other probiotic bacteria with heterologous gene products for therapeutic, prophylactic, or diagnostic applications. Thus, the use of promoter variants that allow for production of the lowest effective amount of a gene(s) of interest in response to its native regulatory signals might be a robust strategy for future design of engineered probiotics.
+
+A BLAST search was conducted against the RefSeq genomes database using the
+
+
+
+Bacteria were grown in LB at 37°C with shaking (~180 rpm) unless otherwise stated. Strains carrying a plasmid were grown in LB supplemented with 35 µg/mL chloramphenicol (to select for pACYC184 derivatives—see above). Overnight cultures of Δ
+
+For assays done under aerobic conditions, bacteria were grown to mid-exponential phase (OD
+
+Bacterial cultures were set up in a 96-well plate and incubated in a BMG FlourStar Omega plate reader for 6–10 h. Optical density (OD
+
+Overnight cultures of EcN bacteria were centrifuged and washed in fresh LB to remove traces of any antibiotics and were then grown in LB without any antibiotics for 24 h. Subsequently, the supernatant of McC-producing bacteria was harvested and passed through a 0.22-µM sterile filter. Amounts of McC within the supernatant were estimated via growth inhibition assays against the McC-sensitive target EDL933 strain in a 96-well plate. Twofold serial dilutions of supernatant were applied, and growth monitored in a plate reader as described above. All data shown in the figures are from three biological replicates.
+
+Overnight cultures of bacteria were grown to stationary phase in a 50-mL falcon tube and subsequently incubated for 6 days. At each time point, serial dilutions of each culture were plated on LB agar plates containing 35 µg/mL chloramphenicol, and the number of CFU/mL calculated. All data shown in figures are from three biological replicates.
+
+Overnight cultures of EcN bacteria were centrifuged and washed in fresh LB to remove traces of any antibiotics. Co-cultures were set up in 50-mL falcon tubes. For co-cultures, where a ratio of 1:1 EcN:EDL933 or 1:1:1 EcN:EDL933:non-susceptible competitor
+
+Bacteria were harvested during early stationary phase (OD
+
+For initial work to determine the correct bacterial dose of the EcN and EDL933 strains, overnight cultures of the bacteria were harvested and washed twice in PBS. Bacteria were then diluted to a density of 10
+
+For pH measurements, supernatant was harvested during early stationary phase and sterile filtered. The pH was measured using a standard pH meter and recorded. The synthetic gastric juice medium was made as previously described by Booth and Frost, with the pH adjusted to 2.5 and 35 µg/mL chloramphenicol added(

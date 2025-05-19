@@ -1,0 +1,41 @@
+The availability of nutrients is a key element regulating the cell’s entire metabolism; thus, the deficiency of nutrients activates specific adaptation mechanisms. The stringent response is one of the fundamental mechanisms that control and modulate adaptation to stress conditions in bacteria. The stringent response effectors are specific nucleotides, guanosine tetraphosphate and guanosine pentaphosphate, collectively abbreviated as (p)ppGpp. These nucleotides, in
+
+The (p)ppGpp nucleotides, acting as cellular alarmones, regulate various crucial cellular processes such as: transcription, translation, and initiation of DNA replication, directly and indirectly. In
+
+Since the mid-80s TA systems were considered to be linked, along with the (p)ppGpp alarmone, to bacterial persistent phenotype (
+
+To shed some light on the linkage between (p)ppGpp and transcriptional regulation of toxin-antitoxin systems, we performed a complex RNA-seq analysis of
+
+All experiments were conducted using the
+
+Raw
+
+To test the effect of different intracellular (p)ppGpp level on TA operons’ transcriptional regulation, we assessed the whole transcriptome of three
+
+Overview of gene expression changes in
+
+Induction of fatty acid starvation significantly affected the transcription of several TA modules in tested bacteria, including
+
+Changes in Toxin and Antitoxin Transcript Levels Due to Nutritional Stress. The heatmap illustrates the log2 fold change (log2FC) in transcript levels of toxin-antitoxin (TA) systems in cells subjected to various nutritional stresses for 1.5 generations, as assessed by Illumina NGS RNA-seq. Stress conditions: carbohydrate deprivation (Carb.), fatty acid deprivation (FA), and nitrogen (NH
+
+Firstly, the expression of toxin-encoding gene
+
+To sum up, we noted upregulation of the whole
+
+The
+
+After induction of carbon starvation, we observed significant changes (log2FC >3) in expression of several TA modules (
+
+One interesting observation was that the expression of
+
+One the other hand, recently novel biological functions were proposed for another TA system upregulated in our experiment. Namely, it appears that
+
+Besides
+
+Since
+
+To summarize, we observed that transcriptional activation of some TA genes during nutrient limitation seems to be independent of (p)ppGpp availability (
+
+Illustration of the possible analogy between
+
+Overall, our data indicates that the general pattern of

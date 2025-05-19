@@ -1,0 +1,133 @@
+1,2-propanediol (PPD) is a common industrial chemical that has been used in the mass production of important commercial products such as biodegradable plastics and polymer resins [
+
+The
+
+Under aerobic conditions, L-lactaldehyde is oxidized to L-lactate by aldehyde oxidoreductase (AldA), which is further oxidized to pyruvate by an FAD-dependent dehydrogenase (LldD) prior to entry into central metabolism. The other 3-carbon intermediate, dihydroxyacetone-P, is converted to pyruvate, which feeds into the Krebs (TCA) cycle. However, under anaerobic conditions, L-lactaldehyde (an intermediate metabolite of both the L-fucose and the L-rhamnose catabolic pathways) is reduced to PPD by FucO, and PPD is then excreted from the cell as a waste product [
+
+Expression of the
+
+When PPD serves as the sole carbon source, the
+
+Using a predictive computational method, Huerta and Collado-Vides proposed the presence of a σ
+
+Here, we first show that the predicted
+
+We began our studies by determining the
+
+To determine basal
+
+To examine how Crp, FucR, and SrsR affect
+
+As to SrsR’s effects on
+
+△
+
+As shown in
+
+The activities of these three promoters were measured in cells cultured with glycerol. P
+
+To further characterize these promoters, it was necessary to examine their activities under inducing conditions. Since the strains carrying these individual promoters cannot grow on fucose due to disruption of
+
+To see if P
+
+Similarly, the P
+
+As described above, the promoter P
+
+A σ70 promoter should harbor two well-defined short DNA elements that are situated at about 10 bps and 35 bps upstream of the TSS (the −10 element and the −35 element, respectively) [
+
+There are four Crp-cAMP binding sites present in the
+
+As described above,
+
+When these reporter strains were cultured with glycerol, P
+
+We next tested the activities of P
+
+To determine if a promoter unrelated to the
+
+From this section on, all the promoter activities were measured using the
+
+The
+
+The promoter activities of these shorter regions were measured using our standard approaches, as shown in
+
+Under inducing conditions (that is, growing the cells with fucose), P
+
+For P
+
+There are four Crp-cAMP binding sites (O
+
+To see if O
+
+We next mutated the O
+
+Using a high-throughput in vitro protein:DNA binding assay, Baumgart et al. (2021) proposed the binding motif for FucR with the consensus sequence: G(A)C(T)C(G)A(C)A(G)A(TC)A(T)
+
+To determine whether O
+
+Next, we determined the role of the binding site O
+
+The
+
+Wildtype strains of
+
+The
+
+In this work, we confirmed that FucR and Crp are strong dominant regulators that activate the
+
+As described above, the
+
+Crp regulates at least 180 promoters by binding to one or more 22-bp symmetrical sites with the consensus core half-site TGTGA [
+
+Based on these observations, we propose a modulation mechanism as follows: Crp-cAMP is the deterministic regulator, dictating the expression of the
+
+Our work showed that Crp binding to the upstream O
+
+Two FucR binding sites were identified and functionally validated in this study. The second site, O
+
+Our study revealed that the same
+
+In conclusion, we have provided a detailed study on transcriptional regulation of the
+
+Bacterial strains and plasmids used in this study are described in
+
+To genetically modify
+
+The
+
+To test the dependence of
+
+To determine the activity of the main promoter (P
+
+To test the activity of P
+
+To see if the proposed
+
+To further characterize these promoters, the same three promoter
+
+Similarly, seven shorter promoter versions (−480 to +30, −377 to +30, −339 to +30, −270 to +30, −206 to +30, −166 to +30, and −123 to +30 relative to the
+
+To construct P
+
+To construct P
+
+To prepare total RNA, strain BW25113 was shaken at 37 °C in M63 minimal media with 0.5% fucose as the sole carbon source. At OD
+
+mRNA was extracted using a MICROB
+
+5′RACE was performed using the SMARTer
+
+Crp and FucR are the primary regulators activating
+
+The consensus sequence for Crp binding sites is “aaa
+
+The proposed binding motif for FucR has the consensus sequence “G(A)C(T)C(G)A(C)A(G)A(TC)A(T)
+
+To prepare samples for β-galactosidase (LacZ) assay, a fresh colony from the reporter strain of interest was cultured in 5 mL of LB media at 37 °C with shaking for about 6 h. 30 μL of the culture was transferred to another tube containing 3 mL of collection media. In this study, the collection media used were M63 minimal media with 0.5% glycerol (noninducing conditions) and M63 minimal media with 0.5% fucose (inducing conditions). The M63 culture was then left to grow overnight at 37 °C with shaking. The next day, a specific amount of overnight culture (preculture) was inoculated into 5 mL of the same collection medium to OD
+
+To measure the β-galactosidase (LacZ) activities, the previously collected samples were first thawed to room temperature. Then 200 μL of sample, 800 μL of Z-Buffer, and 25 μL of chloroform were combined in a small glass tube and vortexed twice at 10 s each. The sample tubes were placed into a water bath incubator and warmed to 37 °C. To initiate the reaction, 200 μL of prewarmed o-nitrophenyl-β-D-galactopyranoside (β-ONPG) at 4 mg/mL was added to each sample. After a yellow color was visibly developed, 0.5 mL of 1M sodium carbonate was added to each sample and vortexed to stop the reaction. The reaction mixture was appropriately diluted and then centrifuged for 2.5 min at 15,000 rpm. Absorbance values of the prepared reaction mixtures were measured at 420 nm and 550 nm. The β-galactosidase activity (Miller units) for each sample was then calculated using the formula: [1000 × (OD
+
+One fresh colony of the test strain was cultured in LB with shaking for 8 h. 20 μL of the culture was transferred to 3 mL M63 minimal medium with 0.5% fucose. After overnight growth with shaking at 37 °C, an appropriate amount of the culture was inoculated into 5 mL of the same M63 + fucose medium within a glass tube at the initial OD
+
+All β-galactosidase activity data are expressed as mean

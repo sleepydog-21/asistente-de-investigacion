@@ -1,0 +1,27 @@
+DNA replication is a key event in the cell cycle that precedes cell division. It involves various proteins, including DNA-dependent DNA polymerases (Yao & O’Donnell, 2016
+
+Sliding clamps are involved in cell proliferation and are frequently expressed in cancer cells (Chen
+
+The
+
+The cells were harvested, resuspended in 20 m
+
+The eluted protein was concentrated to 100 µl by ultrafiltration using an Amicon Ultra-15 10K centrifugal filter (Merck) and applied onto a HiLoad 16/600 Superdex 75 pg column (Cytiva) pre-equilibrated with 20 m
+
+Purified ApePCNA1 was concentrated to 10 mg ml
+
+The ApePCNA1 crystals were collected and packed into a Universal V1-Puck at 77 K in liquid nitrogen. Diffraction data for ApePCNA1 were collected on BL-1A at the Photon Factory, Tsukuba, Japan. The diffraction images were processed (indexed, integrated, scaled and merged) using
+
+Phases were determined by molecular replacement using
+
+The amino-acid sequence identities between ApePCNA1 and ApePCNA2, between ApePCNA2 and ApePCNA3 and between ApePCNA3 and ApePCNA1 were 28.16%, 21.81% and 28.57%, respectively. The average identity among the three PCNAs was 26.18% (Fig. 1
+
+ApePCNA1 was effectively expressed in an amino-acid-rich medium that differs from the Lennox LB medium (Lennox, 1955
+
+ApePCNA1 crystals diffracted to a maximum of 1.59 Å resolution and the final structure was determined at a resolution of 2.00 Å (Fig. 3
+
+The PCNA rings from other species have an inward α-helix region (Li
+
+In conclusion, we determined the crystal structure of ApePCNA1. A unique interaction via the N-terminus (which contains a PIP-box-like sequence) may be involved in the uncharacterized DNA-replication machinery in thermophilic archaea. We developed a new approach using a modified medium and protocol to express recombinant proteins containing the
+
+PDB reference:

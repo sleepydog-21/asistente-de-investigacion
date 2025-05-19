@@ -1,0 +1,99 @@
+Although
+
+Five genetic variants of
+
+A number of aspects related to the host, the environment and the agent have been incriminated as risk factors for infection of
+
+In Brazil, there are reports of
+
+This study was carried out in the municipalities of Itaguaí and Seropédica (43° 10’ 376” W and 22° 57’133 “S), respectively, located in the metropolitan mesoregion of the state of Rio de Janeiro, from November 2009 to November 2010.
+
+The sampling of dogs in these municipalities was calculated according to a previously described equation [
+
+To determine the occurrence of
+
+A semi-structured questionnaire was applied by interviewing each dog owner to collect information related to the dog and the environment. This information included the following items: sex (female or male); age (<2 years old or ≥ 2 years old); racial definition (defined breed dogs or mixed-breed dogs); dog size as large (50 cm or more) or small/medium (less than 50 cm); history of tick infestation (yes or no); local access of the dog (urban environment/yard/grazing/forest); contact with other animal species (yes or no); acaricide treatment (yes or no); dog habitat as urban or rural (based on the urban perimeter delimited by municipal governments); condition of environment hygiene as unsatisfactory or satisfactory (based on the environment cleanliness and the presence of feces in the location that the dog lives); veterinary assistance (yes or no); tick infestation (presence or absence of ticks at the time of collection of the blood sample); presence of
+
+After obtaining the owner’s consent, the animals were restrained for clinical examination and blood collection. A sample of 5 mL of peripheral blood was drawn from each animal by cephalic venipuncture and placed under a vacuum in sterile tubes containing anticoagulant. Buffy coat samples were obtained after centrifugation at 2,500xg for 5 minutes, placed in 1.5 mL micro tubes and stored at-80°C until DNA extraction.
+
+The entire body of each animal was examined for ticks, with particular attention paid to the auricular pavilion region, the head, the neck, the chest, the armpits, the inguinal region and the region under the tail. In infested animals, the level of tick infestation was categorized as follows: low infestation (< five ticks), moderate infestation (≥ five <15 ticks), high infestation (≥15 <30 ticks) and very high infestations (≥30 ticks). The ticks were preserved in tubes containing isopropyl alcohol. The adult tick species were identified using dichotomous keys [
+
+Ticks were separated according to the species, sexual dimorphism, developmental stage, animal source, collection date and locality of origin.
+
+All dogs sampled were examined for the presence of
+
+The deoxyribonucleic acid (DNA) was extracted from 70 μL of buffy coat using the DNeasy Blood and Tissue kit (Qiagen, Valencia, CA, USA), according to the manufacturer’s recommendations.
+
+Genomic material of adult ticks was extracted from a single specimen, whereas the DNA of nymphs was extracted from a pool of five specimens. DNA was extracted from tick samples according to the protocol described previously [
+
+The positive control of
+
+DNA samples obtained from the dog buffy coat and ticks were analyzed by qPCR with targets in the
+
+The amplification of
+
+The nucleotide sequences of the
+
+The phylogenetic position of
+
+The analytical sensitivity of the assay was determined by evaluating serial decimal dilutions of the amplicon cloned into the pGEM-T plasmid [
+
+The chi-square test or the G test at the 20% level of significance was used to assess whether the presence of
+
+Independent variables with p <0.20 and ρ <0.7 were included in the multiple logistic regression model as a function of the dogs testing positive for
+
+To verify the association level between the positive dogs in qPCR test for
+
+A bivariate analysis was performed using BioEstat, version 5.0 [
+
+These procedures were approved by the Ethics Committee on Research of the Federal Rural University of Rio de Janeiro-UFRRJ (COMEP/UFRRJ), protocol number 124/2011, process number 23083.005908/2011-01.
+
+Inclusions in neutrophils suggestive of
+
+Fifteen positive samples (12 samples obtained from dogs and three from ticks) were cloned and sequenced. All of them showed 100% identity with each other. A single partial sequence of each gene (
+
+Of the 24 blood samples positive in qPCR, only 12 were positive for the
+
+The analytical sensitivity of the qPCR technique was evaluated. The detection limit of the technique was one plasmid copy containing the
+
+No association was found (p > 0.05) between the variables such as sex, breed, age and animal size, and the positive result in the real-time PCR (Table
+
+χ2 = Value of Chi-square Test, P = p value, OR = Odds Ratio, CI = Confidence Interval.
+
+aCategory reference.
+
+b
+
+A higher percent of infected dogs was observed in males (7.21%, n = 15/208) when compared with females (4.74%, n = 9/190).
+
+Variables including acaricide treatment, contact with other species, the dog’s habitat [rural or urban] and veterinary care were not associated (p > 0.05) to infection with
+
+The variable “ectoparasite infestation” was removed from the final logistic regression model because of the high correlation (ρ > 0.7) with the variable “tick infestation”. Ectoparasite infestation was observed in 79.16% (n = 19/24) of the positive dogs diagnosed by qPCR. The presence of ticks was verified in 66.67% (n = 16/24) of the positive dogs; the presence of ticks parasiting dogs had no association (p = 0.19) with
+
+The frequency ratio between the infestation levels by ticks and
+
+The negative result for
+
+The
+
+The partial sequences of the
+
+The current study analyzed characteristics of dog blood samples infected with
+
+At the final logistic regression model, the variable dog size was associated with the presence of
+
+In a study in Sweden, exposure to ticks was observed in 13 of 14 dogs examined [
+
+In the state of Rio de Janeiro, the species of
+
+This is the first report of
+
+The rate of infection in
+
+In the evaluated region, the epidemiology of
+
+CGA: Canine granulocytic anaplasmosis; CI: Confidence interval; Cq: Quantification cycle; DNA: Deoxyribonucleic acid; FAM: 6-carboxy-fluorescein; OR: Odds ratio; qPCR: Real time polymerase chain reaction; TAMRA: 6-carboxy-tetramethylrhodamine.
+
+The authors declare that they have no competing interest.
+
+HAS: Developed the conception and design of the study, carried out the laboratory work, data analysis, intellectual interpretation and writing of the manuscript. SMGT, LAS and CDB: supervised the study, carried out the laboratory work, intellectual interpretation and critical revision of the manuscript for publication. CBS, MPP, MSP, GLVV, RLC, TMS, ICA: collected blood samples from dogs, samples of ticks, applied the epidemiological questionnaire and drafted the manuscript. JLHF and CLM: Supervised the study, and were involved in intellectual interpretation and critical revision of the manuscript for publication. All authors read and approved the final manuscript.

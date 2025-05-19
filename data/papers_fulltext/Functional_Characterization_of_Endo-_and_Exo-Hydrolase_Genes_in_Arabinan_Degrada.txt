@@ -1,0 +1,61 @@
+Bifidobacteria are anaerobic, non-motile, non-spore-forming, and Gram-positive microorganisms. They are the dominant populations in the human gastrointestinal tract, and are considered the representative probiotic microorganisms. The health-beneficial effects of bifidobacteria include alleviating lactose intolerance, irritable bowel disease, antibiotics-associated diarrhea, and inflammatory bowel disease [
+
+To utilize arabinan and its hydrolysates as prebiotic carbon sources, microorganisms possess corresponding gene clusters consisting of endo- and exo-acting arabinan-degrading enzyme genes, carbohydrate transporter genes, and a set of enzymes involved in
+
+The microbial arabinan utilization system was first reported from
+
+From bifidobacteria, gene functions have mainly been characterized for various exo-type hydrolases, including α-
+
+Despite the unique and crucial role of extracellular endo-ABNs in depolymerizing arabinan homopolymers into smaller AOS for cellular uptake, there have been no reports on the characteristics of these hydrolases derived from bifidobacteria to date. The BLAST amino acid sequence homology search revealed that two genes encoding putative ABNs were found in the genome of the
+
+Due to their limited distribution in nature, only a few ABNs have been reported from different genus of
+
+From the tertiary structural aspect, microbial group I endo-ABNs GH43 were shown to possess a core catalytic domain with a five-bladed β-propeller architecture [
+
+Three intracellular exo-type hydrolases, BflsABF43A, ABF43B, and ABF51, encode 710, 344, and 823 amino acids, respectively. BflsABF43A shares much low-sequence identities, less than 13%, with BflsABF43B and the other known ABNs GH43. On the other hand, BflsABF43B showed many high-sequence identities of 48% and 32% with WAraf43 and SaAraf43A, exo-α-1,5-
+
+Due to their versatile functions in hemicellulose degradation and wide distribution in nature, various microbial ABFs, belonging to GH2, 3, 43, 51, 54, and 62 families, have been reported to date. The previous structural studies suggested that ABFs GH43 and ABF51 possess a five-bladed β-propeller fold and a catalytic (β/α)
+
+To investigate the functionality of the hypothetical arabinan hydrolases from
+
+The enzymatic activities of BflsABNs GH43 on debranched arabinan were determined using DNS-reducing sugar assay. BflsABN43A showed the highest activity (51.2 DU/mg) in 50 mM sodium acetate buffer (pH 5.0) at 45 °C. Meanwhile, BflsABN43B exhibited the highest activity (63.3 DU/mg) in 50 mM sodium acetate buffer (pH 6.0) at 50 °C. These hydrolases have a wide optimal pH range from 5.0 to 8.0, but their activities significantly decreased at pH 4.0 and 9.0 (
+
+Most known microbial ABNs have their reaction optima at pH 5.0~8.0 and 40~60 °C. AbnA and Abn2 from
+
+Enzymatic activities of BflsABFs on arabinans and arabinobiose (A2) were also assessed by DNS-reducing sugar assay and
+
+Enzymatic activity of ABFs from various microbes typically falls within the range of pH 5.0 to 8.0 and 40 °C to 60 °C, as reported from previous studies [
+
+To verify the substrate specificity of each arabinan hydrolase, the hydrolytic activity against various substrates was measured and compared with each other. Both endo-type hydrolases, BflasABN43A and ABN43B, exhibited much higher activity against debranched arabinan than against sugar beet arabinan. These ABNs GH43 exhibited much lower hydrolytic activity against linear arabino-oligosaccharides (LAOS), such as A2 with low degrees of polymerization (DPs), demonstrating typical characteristics of endo-hydrolases. However, intracellular BflsABN43B showed detectable hydrolytic activity (9.4 A3U/mg) even against short-chain LAOS like arabinotriose (A3), distinguishing it from extracellular BflsABN43A (
+
+As previously suggested, BflsABN43A, an extracellular endo-hydrolase, is predicted to play a crucial role in degrading arabinan polymers into appropriately sized AOS. Within the bifidobacterial cell, on the other hand, BflsABN43B is able to degrade the transported AOS into the shorter substrates, which can facilitate the successive saccharifying actions of intracellular exo-type ABFs by degrading transported AOS into the shorter substrates.
+
+In the case of exo-BflsABFs, BflsABF43A exhibited hydrolytic activity only against branched substrates and showed higher activity towards branched arabino-oligosaccharides (BAOS) than sugar beet arabinan polymer. This hydrolase is predicted to be a debranching enzyme that hardly hydrolyzes linear substrates such as debranched arabinan and LAOS. In contrast, it was found that BflsABF43B is an exo-ABF that possesses high activity only against linear substrates, specifically acting on α-1,5-linkages. Despite being an exo-type ABF, this hydrolase also showed significant activity against debranched arabinan polymers, about 13% compared to that against LAOS. Meanwhile, BflsABF51 was almost unable to degrade the polymeric arabinan substrates, and its activity towards oligosaccharide substrates was also very low. However, unlike the other two ABFs, it was found to be active towards both LAOS and BAOS. These three types of intracellular ABF enzymes are expected to play synergistic roles in an efficient
+
+To investigate the detailed hydrolytic modes of action for BflsABNs, each enzyme was reacted with 0.5% substrate, and the resulting hydrolysates were analyzed by TLC analysis. Although there were significant differences in degree, both enzymes showed very low hydrolytic activities against the short-chain AOS such as A2 and A3. However, with arabinohexaose (A6) as a longer substrate, both ABNs demonstrated detectable hydrolytic activities to produce A2 and arabinotetraose (A4) at the initial reaction step. As BflsABN43B possesses relatively higher enzyme activity on A4 than BflsABN43A, A2 was gradually accumulated as a major final product. Meanwhile, BflsABN43A could hydrolyze sugar beet arabinan to produce a series of BAOS, whereas BflsABN43B showed relatively low activity on sugar beet arabinan. When debranched arabinan was given as a substrate, it was confirmed that BflsABN43A produces A2, A3, and A4 as the main products, while BflsABN43B further hydrolyzed them to generate A2 as a finally accumulated product (
+
+BflsABF43A specifically hydrolyzed α-1,2- and/or α-1,3-arabinofuranosyl branches in BAOS and sugar beet arabinan to produce LAOS and debranched arabinan, respectively, while it could hardly cleave α-1,5-linked backbones in substrates. Extremely low activity towards α-1,5-linkages can explain the resistance to the hydrolysis of linear substrates. To understand the detailed modes of debranching action, BAOS and AXOS were reacted with BflsABF43A, and the resulting hydrolysates were identified by TLC (
+
+In the case of AA
+
+BflsABF51 could completely hydrolyze BAOS into only
+
+Microbial arabinan utilization systems are composed of (1) various exo- and endo-acting hydrolases for arabinan degradation into
+
+From the genome of
+
+The homologs to BflsABN43A have been found in various bifidobacteria, such as
+
+Restriction enzymes and Pyrobest DNA polymerase were provided from Takara Biomedical (Otsu, Japan) and New England Biolabs (Beverly, MA, USA). Arabinans, various oligosaccharides (AOS, A5B, XOS, and AXOS), and an
+
+Genomic DNA template was isolated from
+
+Each recombinant plasmid was transformed into
+
+The amount of reducing sugar was measured by the 3,5-dinitrosalicylic acid (DNS) method. The enzyme reaction mixture was composed of 50 μL of 5% (
+
+A Merck 60F
+
+Prediction and modeling of enzyme structure was performed by using AlphaFold2 [
+
+Arabinan, a type of hemicellulose polymer, is broken down into

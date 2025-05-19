@@ -1,0 +1,11 @@
+{
+  "id": "38613390",
+  "title": "CRISPR-Cas tools for simultaneous transcription & translation control in bacteria.",
+  "doi": null,
+  "authors": "Cardiff RAL, Faulkner ID, Beall JG, Carothers JM, Zalatan JG",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Robust control over gene translation at arbitrary mRNA targets is an outstanding challenge in microbial synthetic biology. The development of tools that can regulate translation will greatly expand our ability to precisely control genes across the genome. In Escherichia coli, most genes are contained in multi-gene operons, which are subject to polar effects where targeting one gene for repression leads to silencing of other genes in the same operon. These effects pose a challenge for independently regulating individual genes in multi-gene operons. Here, we use CRISPR-dCas13 to address this challenge. We find dCas13-mediated repression exhibits up to 6-fold lower polar effects compared to dCas9. We then show that we can selectively activate single genes in a synthetic multi-gene operon by coupling dCas9 transcriptional activation of an operon with dCas13 translational repression of individual genes within the operon. We also show that dCas13 and dCas9 can be multiplexed for improved biosynthesis of a medically-relevant human milk oligosaccharide. Taken together, our findings suggest that combining transcriptional and translational control can access effects that are difficult to achieve with either mode independently. These combined tools for gene regulation will expand our abilities to precisely engineer bacteria for biotechnology and perform systematic genetic screens.",
+  "source": "PubMed",
+  "pmcid": "PMC11109947"
+}

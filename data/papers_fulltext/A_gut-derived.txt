@@ -1,0 +1,93 @@
+The human gut microbiome comprises trillions of microbes, some members of which coexist while others compete for essential resources that determine their survival (
+
+The genus
+
+Several strains of
+
+A potential target for these novel antimicrobial-producing probiotics is the emerging human gram-negative pathogen
+
+In this study, the intestinal bacterium
+
+An unknown antimicrobial is produced by
+
+The antimicrobial activity of cell-free supernatant (CFS) from an overnight culture of
+
+Sequencing of
+
+Comparison of the nisin G gene cluster found in the genome of
+
+A neighbor-joining phylogenetic tree of mature peptide sequences of natural nisin variants demonstrated broad clustering of respective streptococcal and lactococcal nisin variants, with nisin G grouping more closely with lactococcal variants. The
+
+Genomic analysis identified nisin-related genes on a single-assembled contig from the draft genome of
+
+The spectrum of inhibition of nisin G-producing
+
+Indicators used in the inhibitory activity spectrum assessment of
+
+Antimicrobial activity was measured around single colonies and relative sensitivity determined as the diameter of the zone of inhibition (
+
+The impact of the nisin G-producer
+
+Quantification of
+
+Diversity metrics varied over the course of the experiment, with most significant separations occurring between timepoints. Across all treatments, alpha diversity declined significantly after 6 hours, with a partial recovery by 24 hours, with the inverse pattern seen for dominance (
+
+Taxonomic α-diversity (
+
+Mean relative abundances of
+
+Mean relative abundances of
+
+Abundances were estimated using MetaPhlAn4 taxonomic profiles after compositional transformation and filtering to species level assignments. Mean and SD are presented for three replicates.
+
+Next, we assessed the ecological impact of
+
+Comparison of microbiome diversity after 24 hours of treatment with
+
+Functional profiling of samples after 24 hours. PCoA of functional profiles between
+
+No clustering by treatment group was evident for contributional alpha diversity (Pielou’s evenness index on HUMAnN4 stratified functional pathway abundance profiles;
+
+The use of bacteriocin-producing probiotics to target disease-associated taxa as an alternative to antibiotics is gaining ever more interest (
+
+In this study, a novel nisin variant, designated nisin G, produced by a gut isolate of
+
+Genome sequencing of
+
+CRC-associated
+
+These
+
+Although probiotics that produce bacteriocins with antimicrobial activity against specific microbial pathogens are a potential alternative to antibiotics, narrow-spectrum antimicrobials are especially desirable, as broad-spectrum antimicrobials may negatively impact the gut microbiome (
+
+In conclusion, numerous studies have used nisin as a means of targeting disease-associated taxa (
+
+Fully grown colonies of
+
+Antimicrobial activity of
+
+The stability of the antimicrobial secreted by
+
+Genomic DNA (gDNA) was extracted from
+
+Phylogenetic relatedness between nisin variants was inferred by aligning amino acid sequences using msaClustalW in the msa R package (v 1.30.1; BLOSUM matrix, gap opening penalty = 10, gap extension penalty = 0.2) (
+
+The fecal slurry was prepared using a previous methodology (
+
+A fecal slurry aliquot was defrosted before use and prepared at 10% concentration in fecal fermentation medium (
+
+gDNA was extracted from 1 mL aliquots using the QIAmp PowerFecal ProDNA kit (Qiagen, Crawley, UK). Briefly, the centrifuged samples (4,000 rpm, 10 min) were resuspended in lysis buffer, and extractions were performed according to the manufacturer’s instructions. DNA was quantified using the Qubit 2.0 Fluorometer (Life Technologies, USA), and the purity was checked using the NanoDrop 1000 (ThermoFisher Scientific, Ireland).
+
+The abundance of
+
+DNA was prepared according to the Nextera XT DNA library preparation guide from Illumina and sequenced using 2 × 150 bp paired-end kit on the Illumina NextSeq Platform (Teagasc, Moorepark Sequencing Facility), with base-calling using bcl-convert (v3.8.4). Raw sequencing reads were processed through Trim Galore (v.0.6.1), with adapter and quality trimming performed using Cutadapt (v.2.6) and Fastqc (v.0.11.8), respectively, using default parameters and a Phred score cut-off of 20. Next, human host reads were filtered out by alignment to the human genome (
+
+Taxonomic classification was performed using MetaPhlAn4 (v.4.0, database vJan21_CHOCOPhlAnSGB_202103). Functional profiling was performed on interleaved files (bbmap.v.38.22) using HUMAnN.v.3.6, using the taxonomic profiles from MetaPhlAn4 output with Bowtie2 (v.2.4) and DIAMOND (v.2.0.15). Both bacterial and archaeal reads were considered, with bacteria accounting for >99% of assigned reads in all samples. Additional functional profiling was performed using SUPER-FOCUS (v 0.34).
+
+Significant differences between groups were established using a paired
+
+Analysis was performed in the R statistical programming environment (v 4.2.2) and visualized using ggplot2 (
+
+Dissimilarity matrices of taxonomic profiles were generated for Bray-Curtis and robust Aitchison distance (vegan), as well as weighted and unweighted UNIFRAC distance (phyloseq). These were compared using PERMANOVA (implemented via vegan::adonis2), analysis of similarity (ANOSIM; vegan::anosim), and beta dispersion (vegan::betadisper). Ordination of dissimilarity matrices for Bray-Curtis and robust Aitchison distance was performed using PCoA (vegan), while UNIFRAC distances underwent ordination with non-metric multidimensional scaling (phyloseq), with the exception of weighted UNIFRAC distances at T_24 where low stress was observed (9.9e-0.5), and hence, PCoA was applied (phyloseq).
+
+Dissimilarity matrices were generated for functional profiles using robust Aitchison distance (vegan) and assessed as described above for taxonomic profiles (PERMANOVA, ANOSIM, and beta dispersion). Contributional alpha diversity was computed on HUMAnN4 taxonomy-stratified pathway abundance, using the FuncDiv package (v 1.0.0) (

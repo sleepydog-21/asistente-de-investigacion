@@ -1,0 +1,93 @@
+Ionizing radiation (IR) poses a hazardous impact on all organisms by inducing damage to proteins and DNA. The predominant contributor to toxicity, whether it stems from protein or DNA damage within cells, remains a subject of ongoing investigation (
+
+Bruckbauer
+
+Overview of the experimental design. The parental strain
+
+Bruckbauer
+
+Synonymous mutations in protein-coding genes change only the nucleotide composition, but not the corresponding amino acid. Therefore, the primary structure of the protein is not altered, and synonymous mutations are often considered to be ‘silent’ mutations with no effect (
+
+Therefore, in this study, we adopt a comprehensive approach to characterize variants within the Bruckbauer dataset, encompassing both non-synonymous and synonymous mutations, along with an exploration of the pathways, cellular structures, and mechanisms implicated by these variants. Through this inclusive analysis, we unveil adaptation processes linked to ribosomes. Specifically, our investigation of the detection frequencies of variants in the 17 isolates after 100 cycles of selection highlights a single variant consistently present in the protein-coding sequences across all samples:
+
+The DNA sequences were downloaded from NCBI’s Sequence Read Archive (SRA) using the SRA toolkit 2.11.2 (
+
+The bioinformatic pipeline is adopted from Galaxy Project (
+
+Our bioinformatic approach closely follows the pipeline employed by Bruckbauer
+
+To validate our bioinformatic pipeline, we conducted a comparison of the number of SNPs identified in each isolate with the published SNPs by Bruckbauer et al. (
+
+Number and types of variants after 100 cycles of selection
+
+Characteristics of the gene sets GS
+
+Variants present in all isolates after 100 selection cycles. *: The
+
+We conducted a detailed comparison of allele frequencies, focusing on variants in ribosomal genes in IR9 throughout the entire selection process (see
+
+Overall, both bioinformatic pipelines yielded similar results. There is no clear evidence indicating that one pipeline is more sensitive than the other. Since it cannot be definitively determined which results better reflect the populations, the variants identified by our pipeline and the original can be considered equivalent.
+
+During the annotation step with
+
+To identify variants present in all samples, VCF files of all isolates containing normalized variants were compressed, indexed (
+
+To identify key GO terms, we performed statistical overrepresentation tests using the online version of
+
+The DNA extractions after every even selection cycle were conducted from a mixed population of the evolved subpopulations (
+
+We investigated the duration for which ribosomal variants remained detectable throughout the selection process. Sequencing was performed every even round of selection, resulting in a total of 50 sequencing events for each lineage (
+
+We re-analyzed a sequencing dataset published by Bruckbauer
+
+The effects of a variant can be further characterized based on the region (e.g. downstream, intergenic) and type (e.g. missense, stop gained). It is noteworthy that a single variant may manifest multiple effects. Selected effects and their relative occurrences are summarized in
+
+Relative occurrence of selected variant effects of the analyzed isolates after 100 cycles of selection are shown in the stacked bar chart. Most of the variants are located down- or upstream of a gene. Nonsense variants are very rare (approximately 0.2%). The ratio of transitions to transversions (Ts/Tv) are represented in the bar plot. The first (orange) bar is the Ts/Tv ratio of wildtype
+
+Additionally, we evaluated the ratio between transitions (AT → GC) and transversions (AT → CG/TA, GC → CG/TA). If the probability for each of the six possible events is uniform, the expected transition-to-transversion ratio would be 0.5 (
+
+In a new approach to explore the specific genes modified during the evolutionary process towards IR resistance, the variants were grouped into three different gene sets depending on the context of their appearance, see Table
+
+The generated gene sets underwent GO term overrepresentation tests to explore susceptibility to variants under irradiation as a selective pressure. For GS
+
+PANTHER overrepresentation analysis of GS
+
+The overrepresentation analysis for the gene set GS
+
+PANTHER overrepresentation analysis of the gene set GS
+
+We investigated the presence of shared variants among the isolates, and the distribution of how frequently a single variant appeared among the 17 isolates is depicted in the
+
+Five of these variants are in a predicted G-quadruplex motif region and four of the variants (genomic positions 3781140, 3781145, 3781150, 3781152) in the 5’ UTR of the
+
+Among the variants shared by all isolates, only one variant is located in a protein-coding region: 3466252 A → C, within the gene
+
+Due to the anticipated beneficial effect of the
+
+To gain insight into the frequency and dominance of variants in ribosomal proteins within the population, we compared the allele and detection frequencies of all variants in the protein-coding region of ribosomal proteins. In Figure
+
+Detection and allele frequencies of ribosomal protein variants. Analysis of sequencing data involved every even round of 100 selection cycles, totaling 50 sequencing events in each lineage (
+
+In light of fluctuating allele frequencies, particularly when a variant failed to reach fixation (allele frequency = 1) in the population, we investigated the stability of
+
+Variants detected in protein-coding region of ribosomal proteins. Similar to Figure
+
+Ionizing radiation poses a highly toxic stress to all organisms, and the mechanisms leading to IR-induced cell death are still a subject of investigation. Given the medical applications of ionizing radiation, a comprehensive understanding of cellular reactions becomes crucial. This study analyzes DNA sequencing data from an evolution experiment conducted by Bruckbauer et al. (
+
+In the presented study, we conducted a re-analysis of the sequencing datasets, focusing on all mutations occurring during the evolutionary experiment, including synonymous variants. Within the set of genes impacted by a variant in all 17 isolates across the four subpopulations, over-represented GO terms were exclusively related to ribosomes and translation. Exploring variants common to all isolates, we identified six variants emerging in all 17 samples, despite distinct evolutionary processes between the four subpopulations. Four of these variants were located in a predicted G-quadruplex motif with the ability to switch between G-quadruplex and hairpin structures and thus possibly act as a regulator (
+
+Among the variants found in all isolates, only one variant was located in a protein-coding region: the synonymous variant
+
+The variant
+
+The variant
+
+We cannot speculate on a mechanistic explanation for the impact of the variants on the regulation of the
+
+Furthermore, due to the diverse genetic background in the different isolates, it is unlikely that the variant is a hitchhiking mutation. For a closely linked allele to be considered a hitchhiking mutation, it would need to be present in all isolates and evolve before or at a similar time (
+
+Codon selection can impact mRNA translation efficiency, and the GGG codon is known to be translated more slowly than the GGU codon (
+
+The observed low allele frequency of the variants can be attributed to their assumed reduced growth rate. Prior to sequencing, surviving bacteria underwent two rounds of overnight cultures in a nutrient-rich Luria-Bertani broth (
+
+These considerations suggest a potential contribution to radiation resistance through translational control of ribosomal operons. The early emergence of these adaptations implies that this could be an initial mechanism for surviving environmental stress. However, mutations conferring an equal contribution to the irradiation-resistant phenotype would be favored due to fitness advantages. The described variant could be viewed as a potential mutation that ‘rescues’ the population, enabling the subsequent emergence of true resistance mechanisms (

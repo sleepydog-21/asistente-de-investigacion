@@ -1,0 +1,11 @@
+{
+  "id": "33506108",
+  "title": "Rapid and real-time identification of fungi up to species level with long amplicon nanopore sequencing from clinical samples.",
+  "doi": null,
+  "authors": "D'Andreano S, Cuscó A, Francino O",
+  "journal": "Biology methods & protocols",
+  "year": "2021",
+  "abstract": "The availability of long-read technologies, like Oxford Nanopore Technologies, provides the opportunity to sequence longer fragments of the fungal ribosomal operon, up to 6 Kb (18S-ITS1-5.8S-ITS2-28S) and to improve the taxonomy assignment of the communities up to species level and in real-time. We assess the applicability for taxonomic assignment of amplicons targeting a 3.5 Kb region (V3 18S-ITS1-5.8S-ITS2-28S D2) and a 6 Kb region (V1 18S-ITS1-5.8S-ITS2-28S D12) with the What's in my pot (WIMP) classifier. We used the ZymoBIOMICS",
+  "source": "PubMed",
+  "pmcid": "PMC7820110"
+}

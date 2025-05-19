@@ -1,0 +1,165 @@
+The fitness of cells depends on multiple phenotypes, but it is not always possible to optimize all of them simultaneously due to trade-offs.
+
+Here, we investigated the role of bacterial global regulators in coordinating multiple traits when these face a trade-off, and examined the evolutionary interplay between local and global regulators in the context of such a trade-off. Global regulators are defined as transcriptional factors that bind hundreds of operons, in contrast to local regulators that are dedicated to one or a few.
+
+To investigate the role of global regulators during adaptation to a phenotypic trade-off, we used a model system in which local and global regulators regulate growth and swimming in
+
+Quantification of swimming and growth
+
+(A) Regulatory relationships between the selected panel of transcription factors. Each of these transcription factors was targeted with CRISPRi perturbation, either alone or in combination, and compared with a reference strain (RS) harboring a non-targeting crRNA.
+
+(B) The swimming phenotype was determined through inoculation in the center of soft agar plates and measurement of the diameter up to the swimming front.
+
+(C) The growth phenotype was determined as the change in fluorescence over time of the perturbation strain (cyan fluorescent) grown in competition with a reference strain (red fluorescent).
+
+Phenotypic data for the RS (D) the HNS perturbation (E), and the CsgD perturbation (F). Left shows the direct image of the cells swimming in soft agar with the image analysis of the swimming photograph plotting the intensity of the bacterial signal, with the swimming front indicated by blue dots. The middle shows the growth curve in absorbance at 595 nm, with the exponential growth phase highlighted in light gray. The right shows the change in cyan vs. red fluorescence during the exponential growth phase. The slope is the relative growth phenotype.
+
+Our approach allowed us to analyze the coupled variations of growth and swimming in response to KD of genes with different positions in the regulatory hierarchy (upstream, intermediate, or downstream), alone or in combination. We examined the genetic interactions (epistasis) between pairs of regulators and found that epistasis differs between the two phenotypes and is modulated by the environment, demonstrating higher-order interactions. Despite this complexity, the phenotypic effects of genetic perturbations follow typical patterns when grouping genes by their position in the regulatory hierarchy: mutations in local regulators mostly improve swimming while global regulators adjust the balance between growth and swimming. Based on these measurements, we simulated evolution in variable environments where fitness depends on both phenotypes. We found that genetic changes in local and global regulators both contribute to improving fitness. However, genetic modifications are constrained by regulatory hierarchy: early evolutionary steps typically involve changes in local regulators, which are required to improve poor motility, whereas changes in global regulators tend to occur last, as only these allow fine-tuning the relative contribution of growth and motility.
+
+We used CRISPRi to generate single and double knock down (KD) perturbations of 7 transcription factors (CRP, Fis, HNS, mcaS, CsgD, FliZ, and FlhDC). Cells were transformed with vectors expressing an inducible catalytically deactivated Cas9 (dCas9), mCerulean to fluorescently tag the cells, and a CRISPR RNA (crRNA) that targets the transcription start sequence of the relevant transcription factor (see Methods). CRISPRi represses gene expression by using the dCas9 as a programmable transcription factor.
+
+Swimming was quantified using a migration assay in 0.3% soft agar plates. Mobile bacteria form concentric bands while swimming in soft agar plates (
+
+Swimming and growth were both measured over 9 replicates, consisting of 3 biological replicates (different days and initial colonies), each comprising 3 technical replicates (same day, different wells or plates). The swimming and growth values were taken as the median of all 9 measurements during the exponential growth phase and were highly reproducible (
+
+Growth-swimming phenotype space displays a Pareto front
+
+(A) Median values for growth and swimming fitness, normalized to the reference strain (
+
+(B) The distance that each strain can swim (in 16 h for LB or 24 h for M63) is plotted against the growth rate difference with the RS (squares) for each KD strain (circles). Solid symbols are Pareto optimal strains.
+
+To understand how genetic perturbations impact phenotypes, we examined the distribution of phenotypes within the plane of the growth rate (x axis) and swimming distance (y axis) for all the strains, including single and double KDs (28 KD strains in total), in the 3 environments (
+
+Environments have contrasting effects on the phenotypes. On the one hand, they alter the range of accessible growth values, which varies less for rich media (
+
+Moreover, the distribution of genetic variants in the phenotypic space of
+
+To analyze the relationship between regulatory network structure and phenotypic effects, we first examined whether changes in growth and swimming were associated with the specific genes being perturbed (
+
+Impact of regulatory structure on the magnitude and direction of phenotypic effects
+
+The vectors represent the phenotypic difference in the growth-swimming space for each given KD, where the strain without the KD is at the origin irrespective of its genotype. If the KD is the only perturbed gene in a genotype, it is represented as a solid line (Single). If there is another perturbation in the same genotype, it is represented as a dashed line (Double). The top row contains all the global regulators, the middle row contains the intermediate regulators, and the bottom row contains the local regulators.
+
+KDs yield a varying range of couplings between phenotypes depending on the gene being perturbed. CRP, Fis, and HNS show the most diverse responses to their KD, where different genetic backgrounds and environments lead to changes in growth exclusively, swimming exclusively, or both (
+
+The three classes of responses described above correspond to different positions of the regulators within the regulatory network hierarchy (
+
+This analysis indicates that the downstream local transcription factors mostly modulate swimming, as may be expected. However, the upstream global transcription factors couple growth and swimming in a variety of ways. For example, swimming and growth may both increase or decrease together, move in opposite directions, or vary independently. However, it remains unclear at this stage how the diversity of effects caused by perturbations in global regulators leads to the distribution of phenotypes observed in
+
+To understand the influence of regulatory interactions on phenotypic effects, we first examined the epistasis between each pair of transcription factors,
+
+Epistasis between regulatory gene knock-downs
+
+(A) Additive case (no epistasis, parallel edges): mutation A has the same effect irrespective of the background (RS or mutant B), and mutation B has the same effect irrespective of the background (wild-type [ref] or mutant A). Magnitude epistasis: the effect of mutation A is increased or decreased by the presence of mutation B, but the direction of the effect is the same (same for mutation B in the presence or not of mutation A). Masking epistasis: mutation A has no effect in the presence of mutation B. Sign epistasis: the direction of the effect of mutation A is changed by the presence of mutation B.
+
+(B) Calculated Epistasis for each fitness metric in each growth media, with Growth epistasis above the diagonal and Swimming epistasis below. Epistasis was calculated as described in
+
+(C) Epistasis statistics observed across all perturbation pairs and media.
+
+In total, we categorized 126 epistasis interactions, resulting from 21 gene pairs for two phenotypes across three environments (
+
+The above analysis reveals complex genetic interactions but not any obvious relationship between genes, phenotypes, and environments. However, examining the combined effects of gene KDs in the joint space of growth and swimming (
+
+The insight gained from the hierarchical grouping of genes invites us to re-examine the overall set of perturbations in the phenotypic space (
+
+Relationship between regulatory network structure and response in phenotype space
+
+The trajectories for each perturbation are colored by the group of the transcriptional regulator: Global (yellow), Intermediate (Purple), or Local (blue). The reference strain is represented as a black circle, single perturbations are represented as a square, and double perturbations are represented as a diamond. In all three environments, genotypic modifications in local motility regulators connect poor swimmers (low yvalues) to better swimmers (vertical or nearly vertical blue lines). Genotypic modifications in intermediate regulators typically lead to changes in growth (horizontal purple lines). Genotypic modifications in global regulators either affect growth for poor swimmers (yellow horizontal lines at low yvalues), or jointly modulate growth and swimming (yellow oblique lines for upper yvalues).
+
+Overall, local regulator perturbations mostly connect strains which perform poorly at both phenotypes to strains near the Pareto front, which are either good swimmers or moderate swimmers with large growth. In contrast, global regulator perturbations have a strong effect on growth in the low swimming region, but trade swimming for growth in the Pareto front region. The trajectories of
+
+To investigate the role of local and global regulators during adaptation, we computed evolutionary trajectories in variable environments where fitness depends on the two phenotypes. We consider here the regime where environments vary on timescales longer than the typical time for mutations to fixate. For simplicity, we call ‘mutation’ any genotypic perturbation which may correspond to a loss of function (KD) or a gain of function (KD taken in reverse, or knock-up KU). Mutations perturb the two phenotypic values, growth and motility, which are experimentally found to display trade-offs for all pairs of mutations (
+
+To simulate the evolution over the four mutations and associated phenotypic values, we consider all possible scenarios where growth and swimming may have more or less relative importance for fitness. For this, we vary a parameter λ that linearly weights the contribution of growth and swimming: When λ = 0, only swimming determines fitness; When λ = 1, only growth determines fitness; For intermediate values of λ, both growth and swimming contribute to fitness, but growth contributes more for larger λ. When λ = 0, we defined the positive contribution of swimming to fitness using a sigmoidal function of the swimming distance with parameters s
+
+Evolution in variable environments
+
+(A) Distribution of swimming distance (histogram) and examples of swimming-to-fitness relationships, computed as a sigmoid of the swimming distance parameterized by a steepness parameter k, here centered on s0 = −1 cm.
+
+(B) Example of evolutionary trajectory between the 4 genotypes (RS, ΔL, ΔG, ΔL+ΔG) generated by HNS and FlhDC knock-outs in a variable environment randomly alternating between LB (‘LB’), M63 Glucose (‘glu’) and M63 Lactose (‘lact’) every 200 generations.
+
+(C–E) Mutational trajectories for the HNS-FlhDC in the three environments. Arrow thickness is proportional to the rate of transition during evolution. The fitness landscape is depicted by a gradient of blue.
+
+(F) Proportion of local and global mutations as a function of k and λ (s0 = −1 cm), where the color scale indicates the proportion of ΔG mutations (from blue, with only ΔL mutations, to red, with only ΔG mutations).
+
+We first focused on regimes where the contributions of growth and swimming to fitness are well-balanced. This is realized around λ = 0.3, where the fitness range is similar on the x and y axes (equivalently, isofitness lines are oblique, see
+
+We observe typical trajectories that are reproduced between all mutational landscapes. For instance, in panels, C-E of
+
+In regimes where fitness is dominated by growth or swimming, the local or global regulator may be the ultimate target of adaptation. Fitness is dominated by growth when k is close to 0 or λ is close to 1 (
+
+Transcription factors CRP, HNS, and Fis are global regulators that regulate hundreds of operons in bacteria.
+
+Here, using genetic perturbations in
+
+These findings invite us to reconsider possible explanations for the origin of global regulators. One explanation is that they are regulatory ‘hubs’ that result from a random process of network wiring.
+
+A contrasting explanation of global regulators is that the co-regulation of operons by global and local regulators reflects cellular decision-making. For instance, alternative sugar operons are triggered only in the absence of glucose when CRP is activated. This is the case of the lac operon, which additionally requires the allosteric suppression of LacI repression in the presence of lactose. The underlying rationale is a prioritization between carbon sources depending on their quality to ensure optimal metabolic efficiency.
+
+The present study highlights an additional ingredient central to complex adaptations: the existence of phenotypic trade-offs. Such phenotypic trade-offs are common and have been observed in complex diseases,
+
+Genetic perturbations considered here consist of knock-down. Whether the findings are preserved for mutations with intermediate effects, or for complete knock-out with stronger effects needs to be tested. Other evolutionary may be studied, such as weak selection, in which case the order of mutations is expected to be less constrained. An exciting perspective is to leverage the CRISPRi approach in high-throughput bar-coded screens and examine the generality of the local–global impact of regulators at a genomic scale.
+
+Requests for further information and resources should be directed to and will be fulfilled by the lead contact, Philippe Nghe (
+
+Plasmids generated in this study have been deposited to Addgene, Deposit 85178.
+
+
+
+Codes of simulations and figure production are available for download at Zenodo at
+
+Data for figures can be downloaded at Zenodo
+
+Other resources (including oligonucleotides, strains and chemicals) are available from commercial providers as indicated in the
+
+The authors acknowledge the
+
+Conceptualization: M.D., V.O., S.T., and P.N.; Methodology: M.D., V.O., A.G., and P.N.; Formal analysis: M.D, V.O., and P.N.; Investigation: M.D. and V.O.; Writing–original draft: M.D., V.O., and P.N.; Writing–editing: M.D., S.T., A.G., and P.N.; Visualization: M.D. and V.O.; Supervision, administration, funding: P,N.
+
+The authors declare no competing interests.
+
+
+
+The host strain for all pCRRNA vectors is MG1655 with the pdCas9 vector from Stanley Qi (provided by Lun Cui and David Bikard). Glycerol stocks of each culture were streaked onto individual Lysogeny Broth (LB) agar plates containing 34 μg/mL of Chloramphenicol and 50 μg/mL of Kanamycin. Single colonies were inoculated into 2 mL of selected media (either LB or M63 supplemented with 0.4% Glucose or Lactose) containing 34 μg/mL Chloramphenicol and 50 μg/mL Kanamycin. Cultures were placed in a 37°C incubator for 16 h for LB cultures or 24 h for M63 cultures.
+
+pCRRNA mCherry and pCRRNA EGFP were made by Gibson Assembly. PCR was performed on pMD019 (pGFP) and pMD024 (pmCherry) with primers oMD546 and oMD547, and on pCRRNA with primers oMD545 and oMD548. PCR products were purified with a PCR clean-up kit from Macherey-Nagel. Equal molar concentrations of the PCR product were mixed (one from either pMD019 or pMD024 and one from pCRRNA) and 5 μL of the mix was added to 15 μL of Gibson Master mix to create pCRRNA Green and pCRRNA Red respectively. Golden Gate Assembly was used to replace the TrrnB terminator from pMD019 and pMD024 with B0014 as the TrrnB terminator contained 2 BsaI sites. PCR was done on pCRRNA Green and pCRRNA Red with primers oMD609 and oMD610, and on pCKDL with primers oMD607 and oMD608. PCR products were joined with Golden Gate Assembly using BsmBI enzyme to create pCRRNA EGFP and pCRRNA mCherry. pCRRNA mCerulean was created by Gibson Assembly. PCR was performed on pMD027 (pCerulean) with primers oMD704 and oMD705, and on pCRRNA mCherry with primers oMD706 and oMD707). PCR products were purified with a PCR clean-up kit from Macherey-Nagel. Equal molar concentrations of the PCR product were mixed and 5 μL of mix was added to 15 μL of Gibson Master mix. All vectors were sequenced by GATC Biotech before use.
+
+Assays were performed by diluting 220 μL pCRRNA mCherry NT pre-culture into 22 mL of selected media containing 34 μg/mL Chloramphenicol, 50 μg/mL Kanamycin, and 25 ng/mL anhydrotetracycline. A Greiner, 96 Well, PS, F-Bottom, μCLEAR, Black microplate was filled with 198 μL of diluted culture per well. For each pCRRNA EGFP knock down vector, 2 μL of pre-culture was inoculated into 3 individual wells. For the Non-targeting Control strain ‘RS, 2 μL of pre-culture was inoculated into 15 individual wells. A volume of 60 μL of mineral oil was added to each well of the microplate. The absorbance at 595 nm, as well as fluorescence at 480/510 nm and 580/610 nm (excitation/emission), were recorded every 10 min for 20 h with a SpectraMax i3x. Microplates were incubated at 37°C and shook for 90 s before and after each measurement. The absolute growth rate of the reference strain was determined by the change in the log2(OD595nm)/time of the exponential growth phase (50mins–170mins in LB, 50mins–230mins in M63). To determine the fitness measurement of each knock down, the ratio of the green and red fluorescence of the strain was divided by the median ratio of the green and red fluorescence of the 12 additional wells for the non-targeting control. Fitness measurements for each knock down were made for LB media, and M63 media containing 0.4% of either glucose or lactose.
+
+For each knock down, 10 μL of pre-culture was spotted in the middle of 15 mL of selected media soft agar (0.3%) plates. Plates were then incubated at 37°C for either 16 h for LB plates or 24 h for M63 plates. Plates were then imaged using a USB Camera and Python viewer. An image of a non-inoculated plate was subtracted from each image. The fitness was determined by the ratio of the swimming area diameter of each knock down strain to that of the non-targeting control strain.
+
+We defined our fitness function as:
+
+We simulated the gene dynamics using the following genetic algorithm with mutation and bottleneck, looped through steps 2–4 for N generations.
+
+Initialization: We initialized a population of P individuals, each randomly assigned to one of the four possible genotypes: RS, local KD, global KD, and double KD.
+
+Mutation: 2% of the population was mutated (strong selection regime). For this subset, we randomly chose one of the two genes and knocked its state either up or down.
+
+Evaluation: We computed the fitness for each individual in the population.
+
+Selection: We implemented a selection process by subsampling the population based on the probability of each individual i:
+
+For each KD pair, the environment was randomly changed every 200 generations, for a total of 2000 generations at T = 7.
+
+The code is written in Python version 3.10.9 and has been run on a Linux machine with 20 cores 12th Gen Intel(R) Core(TM) i7. A simulation for a population size of 2000 and 2000 generations takes less than a minute. The code to perform the simulations and reproduce the figures is provided at
+
+The routine evo_loop_env_change from the src/evo_four_states.py script performs the evolutionary simulation. It requires the measured phenotypic parameters located in the data directory. The user can choose the population size, the maximum number of generations, the frequency at which the environment is changed, and the mutation rate in the population.
+
+In the output of the simulation routine, the populations as well as the mutations accepted are recorded for each generation in two variables. In these variables, genotypes are encoded in the following way RS = (−1, −1); Delta Local = (1, −1); Delta Global (−1, 1); and double knock down = (1, 1).
+
+Fitness differences between a mutant and the reference strain (respectively denoted with superscripts ‘m’ and ‘w’) are measured as the slope of the function:
+
+Second, during steady exponential growth at rate
+
+The solution to the above equation is:
+
+The term
+
+The ratio between the intensity of any two fluorescent signals is:
+
+Therefore, the slope
+
+The contribution of
+
+For each condition, 3 independent biological replicates were grown from single colonies. For each biological replicate, 3 independent technical replicates were performed for each experiment, for a total number of replicates for each condition of

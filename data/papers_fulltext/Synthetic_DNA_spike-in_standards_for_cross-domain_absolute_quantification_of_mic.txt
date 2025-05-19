@@ -1,0 +1,69 @@
+High-throughput sequencing of marker gene amplicons is a key technique in contemporary microbiome research. A primary goal of such studies is to identify taxa associated with particular environmental conditions. This is, however, not straightforward because sequence counts alone only capture relative abundances (i.e. microbiome data are compositional [
+
+The above challenges can be mitigated by converting sequence counts to absolute units by normalizing the data to the total microbial load (i.e. the total absolute amount of microbes) in the samples. In its simplest form, this involves multiplying relative taxon abundances measured through sequencing by experimentally determined microbial loads. Techniques for measuring total microbial abundances that have been integrated with sequencing fall into two categories: (i) complementary microbial quantification methods, such as quantitative real-time PCR [
+
+Spike-in controls for microbiome applications can be whole cells [
+
+In this study, we have developed 12 synthetic rRNA operon sequences to serve as spike-in DNA standards for absolute quantitative analysis of fungal/eukaryotic and bacterial abundances by high-throughput amplicon sequencing. These spike-ins, which we termed rDNA-mimics, cover multiple segments of the rRNA operon commonly targeted in fungal/eukaryotic microbiome studies. Two of them also include an artificial segment of the bacterial 16S rRNA gene for quantitative analysis across two domains. Because the rDNA-mimics are added directly to the samples and processed together with the natural sequences in the samples throughout the entire workflow, they act as competitive controls that provide robust references for normalizing read counts to the microbial load in the samples or, equivalently, for absolute quantification of the detected taxa. Here, we describe the design of rDNA-mimics and validate their suitability as internal standards for the absolute quantification of microbiomes across the two domains.
+
+Following our previously described strategy [
+
+Full-length rDNA-mimics were chemically synthesized and cloned into plasmid vectors (pUC19) by Genscript (Tokyo, Japan). For production, plasmids were transformed into ECOS Competent
+
+The bacterial mock community consisted of near full-length 16S rRNA genes of 14 strains cloned into pUC19 plasmid vectors, as we described previously [
+
+Soil sample was collected at the National Institute of Advanced Industrial Science and Technology (Tsukuba, Japan). Extraction of DNA was performed using the FastDNA SPIN Kit for Soil (MP Biomedicals), following the manufacturer’s manual. If applicable, rDNA-mimics were added to the samples after cell lysis by bead-beating.
+
+Amplicon libraries were constructed by two-step tailed PCR, largely following Illumina’s “16S Metagenomic Sequencing Library Preparation” protocol. First-round PCR reactions (20 μl) consisted of 1× KAPA HiFi HotStart ReadyMix, 500 nM each of forward and reverse primer (see
+
+Binary Base Call (BCL) files were converted to FASTQ format using Illumina’s bcl2fastq conversion software (v2.16.0.10; default parameters). Reads were additionally processed with Atropos v1.1.31 [
+
+Data analysis and visualization were performed in R v4.4.1 [
+
+We designed 12 unique synthetic rRNA operons (rDNA-mimics) starting from the sequences of the rRNA operons of two fungi, namely the type strains of the yeasts
+
+
+
+For initial experimental testing, we analyzed an equimolar mixture of all 12 rDNA-mimics (referred to as mix E) using the eukaryotic/fungal primer sets SSU-V9, ITS1, ITS2, and LSU-D1D2, as well as the bacterial primer set SSU-V4 (
+
+We next tested whether the rDNA-mimics exhibited comparable detection efficiencies to diverse natural rRNA gene sequences. For this purpose, we combined mix E with mock communities consisting of plasmid DNA with cloned rRNA genes from 10 fungal or 14 bacterial species, such that all sequences were equally abundant in the combined mixtures. For the fungal primer sets and fungal mock + mix E, we found that the abundance of most rDNA-mimics was within the range of the abundances of the species in the mock community (
+
+To further validate the rDNA-mimics, we evaluated their quantitative performance by spiking them at varying levels (as absolute copy numbers) into DNA extracted from soil, as a representative diverse environmental sample. Specifically, we added decreasing amounts of mix E, between approximately 2 × 10
+
+For all primer sets, the number of reads (after random subsampling to equal depth) assigned to the rDNA-mimics increased consistently with higher spike-in levels (
+
+
+
+To further illustrate this, we also analyzed the ratio of environmental (numerator) to rDNA-mimic (denominator) read counts. After applying a log transformation, these ratios are known as additive log ratios (ALR) in compositional data analysis [
+
+Since differential abundance analyses in microbiome research primarily focus on comparing absolute abundances between samples [
+
+We next evaluated the effectiveness of the rDNA-mimics when incorporated directly into samples before DNA extraction. For this purpose, we added a constant amount of mix E, approximately 4 × 10
+
+As expected, the number of reads (after random subsampling to equal depth) assigned to the rDNA-mimics decreased monotonically with increasing soil biomass, again following the theoretically expected trend (
+
+In view of these results, the estimated microbial loads for both eukaryotes/fungi and bacteria, calculated based on the defined amount of each of the rDNA-mimics added to the samples, showed a strong correlation with soil biomass (
+
+As noted earlier, and unlike most previous studies, we designed a set of multiple spike-ins to offer greater flexibility in their application. As an example, and to further validate the rDNA-mimics, we created a staggered pool containing the eight rDNA-mimics with a GC content of 50% (see
+
+As alluded to above, we assessed the linearity of the measurements by plotting the number of reads, normalized within the sub-composition of the rDNA-mimics, for each of the rDNA-mimics against their copy number (
+
+
+
+Similar to the analysis of the environmental samples described earlier, we again calculated the ratio of the aggregated read counts for the mock communities, representing the total amount of microbial rRNA operons in the samples, to the rDNA-mimic read counts to assess how well these reflected the microbial loads in the samples. For this analysis, we focused on the more abundant rDNA-mimics (i.e. Sc5003, Cn5002, Sc5004) and the two cross-domain rDNA-mimics (Sc5001 and Sc5002). As depicted in
+
+Based on these results, the estimated microbial loads were strongly correlated with the actual values, with Pearson’s correlation coefficients exceeding 0.99 (
+
+Finally, for cross-domain quantification, we calculated the ratio of the estimated absolute loads of bacteria to fungi and compared these to the actual BF ratios. Fungal abundances were calculated based each of the rDNA-mimics individually, whereas bacterial abundances were determined using Sc5001 and Sc5002. We then calculated BF ratios based on Sc5001 and Sc5002, which capture both fungal and bacterial in a single construct, as well as every combination of Sc5001/Sc5002 and the other fungal rDNA-mimics (i.e. Sc5003, Cn5002, Sc5004). As shown in
+
+We have introduced a series of synthetic rRNA operon constructs (rDNA-mimics) to serve as spike-in standards for quantitative analysis of eukaryotic/fungal and bacterial microbiomes. Unlike similar reagents developed in previous studies [e.g.
+
+We demonstrated how rDNA-mimics, when added to extracted DNA or directly to samples prior to DNA extraction, can be reliably enumerated using different PCR primer sets and precisely reflect total fungal and bacterial loads, as total rRNA gene/operon copy numbers, in the samples. Although the mock community results showed discrepancies between actual and estimated microbial loads, this bias was generally consistent across samples and thus canceled out when comparing the resulting absolute-scale abundances between samples. We here note that rDNA-mimics, like any spike-in control, are subject to the same biases as the natural sequences in the samples. Therefore, the inferred microbial loads should better capture the microbial community that is subjected to analysis by sequencing, compared to techniques such as flow cytometry. As suggested by McClaren et al. [
+
+A key feature of the rDNA-mimics is their ability to assess absolute abundances of both eukaryotic/fungal and bacterial microbial taxa, thereby making the taxonomic profiles amenable to integrated analysis. Interactions between fungi and bacteria are thought to play a critical role in the functioning of a wide range of ecosystems [
+
+The availability of 12 unique sequences allows flexibility and enhances the versatility of the rDNA-mimics, beyond absolute quantification. Specifically, following our previous work using synthetic 16S rRNA gene spike-in controls [
+
+While incorporating the rDNA-mimics in existing workflows is relatively straightforward, users should keep several points in mind. First, a preliminary estimate of the expected microbial load in the samples may be required to set the appropriate amount of rDNA-mimics to incorporate into the samples, such that a sufficient number of rDNA-mimic reads are obtained for robust quantification without sacrificing too much sequencing capacity. For simplicity, this could be done by quantifying total microbial loads in representative samples using quantitative PCR, preferably with the same primers as used to prepare the amplicon libraries for sequencing. Such a two-tiered approach may be justified given the benefits of competitive PCR assays, which underlies the rDNA-mimics, to be more accurate in the presence of e.g. PCR inhibitors [
+
+The benefits of absolute quantitative microbiome profiling are increasingly recognized in the microbiome field, and this has spurred efforts to establish frameworks for absolute quantitative analysis. While a number of statistical techniques have been developed for differential abundance analysis of compositional microbiome data, a recent benchmarking study advocated the use of experimental quantitative methods [

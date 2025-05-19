@@ -1,0 +1,173 @@
+Bacteria are constantly exposed to antimicrobial compounds synthesized by other species from surrounding microbiomes or by their plant or animal hosts to defend themselves against competitors and colonisation.
+
+Tartrolon B and its precursor tartrolon A are macrocyclic dilactones (macrodiolides) composed of two identical halves with 23 carbon atoms each. Four hydroxyl groups are oriented towards the centre of the macrocycle in tartrolon A. In tartrolon B, the oxygen atoms of these four hydroxyl groups are bound to a central boron atom [
+
+Homologs of the
+
+To better understand the mechanisms of tartrolon action and compound detoxification, we have performed a screen for tartrolon B resistant suppressor mutants in
+
+To better understand regulation of tartrolon B resistance, we tried to isolate tartrolon B resistant suppressors. To this end, strain LMTE19 (a descendant of strain EGD-e, carrying the
+
+Growth of tartrolon B resistant suppressors (tartB
+
+(A) Growth of
+
+That the resistance against tartrolon B increased whether
+
+Previously published work reported that deletion of
+
+Next, we wondered how deletion/mutation of
+
+The vast majority of the tartrolon-resistant suppressors formed small colonies likely carrying
+
+(A) Suppressor mutations in
+
+We reasoned that tartrolon B could activate ClpP2 and that the E9K/T90I mutations compensate this by reducing ClpP2 activity. Activation of ClpP by natural compounds is not unprecedented as ADEP, an acyldepsipeptide produced by streptococci, is a known activator of ClpP2 proteins from different species [
+
+(A) Effect of tartrolon B (left panels) and ADEP2 (right panels, for control) on ClpP2 and ClpP2 E9K peptidase activity
+
+We noticed that artificial overexpression of
+
+(A) Minimal inhibitory tartrolon B concentrations after
+
+Tartrolon B hyper-resistance of the
+
+ClpP proteases associate with AAA+ ATPases to form functional proteasomes, where the ATPases catalyze ATP-dependent unfolding of substrate proteins and their translocation to ClpP for degradation [
+
+Minimal inhibitory tartrolon B concentrations for
+
+Another tartrolon B resistant suppressor (LMTE66) was isolated from EGD-e and this suppressor carried a frameshift mutation in the middle of the
+
+(A) Inactivation of the
+
+Inspired by these results, we constructed an IPTG-dependent
+
+To further test the idea that SpxA1 accumulation plays a role in tartrolon B hyper-resistance of the Δ
+
+To explain the role of SpxA1 in tartrolon B resistance, we next considered the possibility that SpxA1 could activate
+
+Alternatively, tartrolon B treatment could exert an oxidative stress and SpxA1-dependent induction of oxidative stress genes could mitigate this. We investigated this idea by looking for a possible synergism of tartrolon B with hydrogen peroxide in a checkerboard assay. However, this showed that both compounds did not act in a synergistic way (S9 Fig) and, consequently, this second hypothesis was also rejected.
+
+Further to these possibilities, we assumed that SpxA1 could activate genes encoding potassium importers to compensate for tartrolon-induced potassium leakage. If so, tartrolon B resistance should lose its potassium-dependency upon SpxA1 depletion. However, tartrolon B resistance of SpxA1-depleted cells fully responded to the presence of potassium (
+
+To identify the SpxA1-dependent factor(s) that contribute to tartrolon B resistance, we searched for genes that sensitize
+
+(A) Graphic sketch summarising the most important results of the Tn-Seq experiment. Transposon insertions in the
+
+Tartrolon B is a potassium ionophore [
+
+The data that we present here reveal a higher complexity in the steps needed to establish full tartrolon B resistance. Suppressor screens and follow-up genetic experiments demonstrated that the ClpCP2 and ClpXP2 proteasomes are involved in the detoxification of tartrolon B. Both proteasomes share critical functions in virulence, since deletion of either
+
+Remarkably, the effects observed on tartrolon B resistance upon
+
+The TimAB transporter exports tartrolon B, but
+
+Notwithstanding these open questions, our work has disclosed a so far unknown role for the Clp/SpxA1 pathway and the
+
+All strains and plasmids used in this study are listed in
+
+*The arrow (→) stands for a transformation event and the double arrow (↔) indicates gene deletions obtained by chromosomal insertion and subsequent excision of pMAD/pMiniMAD/pHoss1 plasmid derivatives (see experimental procedures for details).
+
+Standard methods were used for transformation of
+
+Plasmid pSW54 was constructed for overexpression of
+
+Plasmid pPR2 was generated for deletion of
+
+For deletion of
+
+For
+
+For deletion of
+
+Plasmid pTE116 was generated for
+
+For generation of plasmid pTE118, designed to facilitate
+
+Plasmid pTE115 was constructed to facilitate IPTG-inducible
+
+Plasmid pPR5 was generated for IPTG-inducible
+
+To facilitate immunologic detection of TimA, a Strep-tag was introduced at the C-terminus of
+
+Plasmid pSW128 was generated for deletion of
+
+Plasmid pSW129 was generated for deletion of
+
+Derivatives of pIMK3 were introduced into
+
+Chromosomal DNA was isolated using the GenElute Bacterial Genomic DNA Kit (Sigma-Aldrich). 1 ng DNA and the Nextera XT DNA Library Prep Kit (Illumina) were used for library generation. Sequencing was carried out on MiSeq and NextSeq sequencers in paired-end sequencing modes of 2 x 300 bp and 2 x 150 bp, respectively. Reads were mapped to the
+
+An overnight culture of a previously constructed transposon insertion mutant library [
+
+The DNA concentration of each sample was determined using the NanoPhotometer (IMPLEN). 6 µg of chromosomal DNA was digested in a total volume of 200 µl using MmeI (NEB) according to the manufacturer´s instructions. Digestion was performed overnight, and the next day the reaction was inactivated at 65°C for 20 min. Dephosphorylation of the DNA fragments were done using 1.5 µl Quick CIP (NEB) according to manufacturer´s instructions. The dephosphorylated fragments were extracted using the NucleoSpin Gel and PCR clean-up kit (Macherey-Nagel) according to the manufacturer´s instructions. The elution step was performed using 30 µl ddH
+
+Adapters MF38 and MF52, needed for subsequent sequencing were mixed equimolarly to a final concentration of 50 µM and incubated for 10 min at 95°C, and cooled down at room temperature for 15 minutes. Adapters were ligated with the eluted DNA using the T4 DNA ligase according to manufacturer´s instructions at 6°C overnight. The next day, a clean-up was performed using the Size selection kit (QIAGEN) according to manufacturer´s instructions.
+
+Eluted fragments were used as a template in a PCR containing 10 pM of primers MF38/MF53. Fragment amplification was done using the Phusion high fidelity polymerase (NEB) according to manufacturer´s instructions. Products with the desired size of 165 base pairs were extracted from the reaction mix by agarose gel electrophoresis using 1% (w/v) agarose and purified with the NucleoSpin Gel and PCR clean-up kit (Macherey-Nagel).
+
+The adapter-linked PCR products were used as a template to introduce multiplex identifiers for pooled sequencing. PCR was performed with the following conditions: 2.5 μL template (3 ng/μL), 2.5 μL Nextera XT index primer (each N7 and
+
+Sequencing raw reads were processed using a semi-automated pipeline on the RKI Linux Server 07 (Debian GNU/Linux 9.13). Forward and reverse reads were trimmed to remove sequencing primers and transposon sequence using cutadapt (version 1.12), resulting in 13 bp fragments matching the flanking region of the integration side of the transposon. Fragments were mapped on the closed EGD-e genome (NC_003210.1) [
+
+For MIC determination, an overnight culture was diluted to an OD
+
+In order to isolate cellular proteins from
+
+ClpP2-Strep proteins (carrying C-terminal Strep-tag II sequences) were overproduced in
+
+Peptidase reactions were carried out with 20 µM (monomeric) of ClpP2-Strep or ClpP2 E9K-Strep proteins in reaction buffer (100 mM Tris, pH 8.0, 200 mM NaCl) and a final volume of 100 µl and various concentrations of ADEP2 and tartrolon B (final concentrations: 0 µM, 1 µM, 2 µM, 4 µM). ADEP2 and tartrolon B stock solutions were generated with DMSO as the solvent. The reaction was started by addition of 10 µl of 2 mM Suc-Leu-Tyr-7-amido-4-methylcoumarin and fluorescence emission was monitored in black flat bottom 96 well plates (Thermo Scientific Nunc MicroWell) at 32 °C in a Tecan infinite M1000 reader with excitation at 380 nm and emission at 440 nm. Assays were conducted for 3 h with 5 minutes between each measurement step.
+
+Intracellular growth of
+
+Absence of
+
+(TIF)
+
+Resistance of the Δ
+
+(TIF)
+
+Uncropped Western blot images for the experiments shown in Fig 2B (left panel) and Fig 5D (right panel) in the main manuscript.
+
+(TIF)
+
+Growth of
+
+(TIF)
+
+Purity of
+
+(TIF)
+
+Effect of SpxA1 depletion on growth of
+
+(TIF)
+
+Uncropped Western blot images for the experiment shown in Fig 7D in the main manuscript.
+
+(TIF)
+
+Effect of a
+
+(TIF)
+
+Checkerboard assay to test for a possible synergism of tartrolon B and hydrogen peroxide.
+
+(TIF)
+
+Effect of potassium on tartrolon resistance of SpxA1-depleted
+
+(XLSX)
+
+Raw data for the results shown in Table 1 (Genes required for tartrolon B resistance according to Tn-Seq).
+
+(XLSX)
+
+Underlying numerical data for all of our graphs and summary statistics.
+
+(7Z)
+
+Genetic network for tartrolon B resistance of
+
+(TIF)

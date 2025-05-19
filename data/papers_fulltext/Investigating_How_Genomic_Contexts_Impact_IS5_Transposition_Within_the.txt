@@ -1,0 +1,93 @@
+Insertion sequences (ISs) are the simplest transposable DNA elements that are capable of transposition from one location to another within a prokaryotic genome or from a plasmid to the chromosome (or vice versa) in bacterial cells [
+
+Originally discovered from the AT-rich immunity region of coliphage lambda [
+
+IS5 can hop to multiple sites on single chromosomes, and its copy number varies widely, ranging from 0 to 23 per genome among different
+
+During the past decade, it has been established that IS5 transposition usually occurs at greater frequencies in response to stressful environmental conditions. Such a transpositional event is regulated by host proteins, especially nucleoid-associated proteins (NAPs) and transcriptional regulatory proteins [
+
+For a successful transposition event, two key genomic regions are directly involved, namely the recipient site (to receive the incoming IS element) at one chromosomal location and the donor site (to donate the transposing IS element) at another location. Thus far, most of the investigations concerning IS transpositions have been concentrated on how IS elements insert into their recipient sites (target sites or hotspots), such as their dependence on environmental conditions and favorable DNA structures, and their regulation by DNA-binding proteins. Efficient transpositions depend not only on an ideal hotspot (including its surrounding regions) but also on the donor locus (IS element’s native site) for the transposing IS element and its adjacent genomic contexts. However, this latter genomic factor has been overlooked in terms of its role in overall IS transposition. Thus, little information is available concerning how the genomic contexts flanking the transposing elements impact transposition frequencies. This study aims to fill in this gap, focusing on the IS5 element.
+
+As mentioned above, there are 11 copies of IS5 distributed on the chromosome of strain BW25113, each having a distinct genomic region. It has been reported that the endogenous promoters for the transposase gene
+
+Bacterial strains were routinely cultured in LB media at 30 °C or 37 °C. For the β-glucoside growth (Bgl
+
+Using the Lambda Red approach, nine IS5 elements with no point mutations were individually deleted from the chromosome of strain BW25113. For those copies of IS5, flanked by two insertion sites such as CTAA or CTAG, the downstream site was deleted together with the IS5 element. These nine IS5 copies are distributed across the chromosome at the loci of
+
+At the loci of
+
+At the
+
+Using plasmid pKDT:P
+
+In addition to
+
+The “
+
+Bgl
+
+The total numbers of Bgl
+
+The swarming mutation assay was performed following the approach of Barker et al. [
+
+For the PPD+ mutation assay, cell suspensions were prepared as for the Bgl
+
+As mentioned above, there are 11 copies of IS5 on the chromosome of wildtype strain BW25113. These IS5 copies are expected to synthesize various amounts of transposases due to their orientations on the chromosome and the different upstream genomic regions. To see which copies of IS5 can yield detectable
+
+Using the SMARTer
+
+All IS5 insertion frequency data are expressed as the mean ± standard deviation (SD). Statistical significance was tested by either a two-sample
+
+Single bp insertions, two single bp deletions, and 96 mismatches were found (
+
+To see if these mutant IS5 elements can transpose, we first conducted three mutation assays using strain BW25113, including β-glucoside growth (Bgl
+
+Except those two mutant IS5 elements (unable to transpose) described above, the remaining nine IS5 elements were individually deleted from BW25113. Using Bgl
+
+Like IS5 at
+
+To see if there is a combined or synergistic effect among these IS5 elements, these four copies of IS5 were simultaneously deleted from BW25113, yielding a quadruple mutant ZZ255. This quadruple mutant as well as four single mutants were subject to Bgl
+
+Using the Bgl
+
+The SWM
+
+All nine active copies of IS5 are identical in their nucleotide sequences and have no point mutations present within these full elements. However, each IS5 element is flanked by distinct genomic DNA sequences. The
+
+These strains were assayed for standard Bgl
+
+Since the
+
+Wildtype strain BW25113 was cultured with M9 glycerol minimal medium prior to mRNA preparation and purification, cDNA synthesis, and amplification. Amplified cDNA samples were subject to agarose gel electrophoresis, and two cDNA product bands (0.25 kb and 1.4 kb in length) were detected, with the bigger band being brighter (
+
+The 1.4 kb cDNA product was identified to be an
+
+To titrate
+
+Strains ZZ258 (no TetR) and ZZ259 (with TetR), both with P
+
+To assess if the transposase has a trans effect on IS5 transposition, the promoter P
+
+As described above, we demonstrate that the upstream genomic region of IS5 at
+
+Using standard Bgl
+
+There are multiple copies of IS5 per genome in some
+
+A typical IS element transposition process simply involves the production of the transposase, formation of the transpososome, followed by the integration of the element into the target site, with the former two steps being relevant to the native loci of the transposing elements. However, despite extensive efforts devoted to the latter process (IS insertion into the target sites), little information is available as to how IS elements’ native loci (and their surrounding genomic regions) affect their transposition activities. Here, we show that IS5 elements distributed at different loci on the chromosome of
+
+We demonstrate that the IS5 element located within the
+
+IS5 carries an endogenous promoter-like (P
+
+Our work showed that overexpression of
+
+The
+
+It is worthy to note that we tried to directly confirm that most new transpositions are derived from the
+
+In addition to the transposase (Ins5A), IS5 encodes another two small proteins, Ins5B and Ins5C, of unknown functions [
+
+To further explore the possible function of external promoters, a constitutive promoter was added immediately downstream of
+
+As shown in

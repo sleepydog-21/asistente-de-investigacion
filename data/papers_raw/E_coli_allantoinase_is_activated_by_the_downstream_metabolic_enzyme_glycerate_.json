@@ -1,0 +1,11 @@
+{
+  "id": "37147430",
+  "title": "E. coli allantoinase is activated by the downstream metabolic enzyme, glycerate kinase, and stabilizes the putative allantoin transporter by direct binding.",
+  "doi": null,
+  "authors": "Rodionova IA, Hosseinnia A, Kim S, Goodacre N, Zhang L, Zhang Z, Palsson B, Uetz P, Babu M, Saier MH",
+  "journal": "Scientific reports",
+  "year": "2023",
+  "abstract": "Allantoin is a good source of ammonium for many organisms, and in Escherichia coli it is utilized under anaerobic conditions. We provide evidence that allantoinase (AllB) is allosterically activated by direct binding of the allantoin catabolic enzyme, glycerate 2-kinase (GlxK) in the presence of glyoxylate. Glyoxylate is known to be an effector of the AllR repressor which regulates the allantoin utilization operons in E. coli. AllB has low affinity for allantoin, but its activation by GlxK leads to increased affinity for its substrate. We also show that the predicted allantoin transporter YbbW (re-named AllW) has allantoin specificity and the protein-protein interaction with AllB. Our results show that the AllB-dependent allantoin degradative pathway is subject to previously unrecognized regulatory mechanisms involving direct protein-protein interactions.",
+  "source": "PubMed",
+  "pmcid": "PMC10163214"
+}

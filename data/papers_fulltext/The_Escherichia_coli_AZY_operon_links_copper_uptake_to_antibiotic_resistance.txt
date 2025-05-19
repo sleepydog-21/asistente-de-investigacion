@@ -1,0 +1,73 @@
+Copper is an essential metal ion that cycles between the Cu
+
+In gram-positive bacteria, cuproenzymes are embedded in the cellular membrane and thus can obtain copper directly from the environment
+
+A possible candidate for this importer is YebZ, encoded in the
+
+Here we demonstrate that the AZY operon is indeed a copper uptake system, pinpoint specific YebZ residues associated with copper uptake, and probe the functions of YobA and YebY. Furthermore, we show that the AZY proteins are involved in the activation of the
+
+To test whether the AZY operon is involved in copper import, we first employed a reporter gene approach, fusing the genes of the
+
+We then compared the intracellular copper contents of cells with the entire AZY operon deleted (Δ
+
+To determine whether the transmembrane protein YebZ is the copper importer, full-length YebZ was overexpressed in
+
+To probe the functions of YobA and YebY, we overexpressed different combinations of the operon proteins and performed additional in vivo copper uptake experiments. Overexpression of YebZ and YobA in C41(DE3) cells showed a dramatic increase in the basal levels of copper, suggesting that the two proteins together can acquire copper from rich media more effectively than YebZ alone. After addition of 25 nM–5 µM Cu
+
+To begin elucidating the molecular basis for specific copper uptake by YebZ, we generated a structural model using AlphaFold Multimer
+
+Having established that the AZY operon proteins function in copper uptake, we next investigated the possibility that they are involved in activation of the
+
+Since cells lacking the AZY proteins have diminished copper import capacity (Fig.
+
+We next tested the antibiotics tetracycline and chloramphenicol, which target the 30S and 50S subunits of the ribosome, respectively. Since resistance to tetracycline and chloramphenicol was shown to be independent of copper activation of the
+
+Cultures of WT and Δ
+
+The results presented thus far demonstrate that YebZ functions as a copper importer, the activity of which is enhanced by the periplasmic protein YobA and diminished by the periplasmic protein YebY. In addition, we observed that the AZY proteins are essential for activation of the
+
+To assess whether the link between copper import by the AZY proteins and antibiotic resistance could be widespread in gram-negative bacteria, an extensive bioinformatics analysis was performed using ~50,000 CopD family (pfam05425) sequences in the proteobacteria phylum from the Joint Genome Institute/Integrated Microbial Genomes (JGI/IMG) database. Most CopD family members are found in
+
+CopD sequence similarity networks are colored by (
+
+To determine the prevalence of the AZY operon arrangement, we performed an extensive genomic neighborhood analysis of the 5804 proteobacterial CopD-encoding genes included in the SSN analysis. In the 27 common operon types (Supplementary Fig.
+
+While eukaryotes and prokaryotes employ similar copper-specific efflux pumps to avert the toxic effects of copper overload
+
+Copper enters the cell through extracellular porins or chalkophore-mediated pathways. Once in the periplasm, copper can be trafficked by YobA to deliver copper to the inner membrane transporter YebZ or inner membrane enzymes like NDH-2, which is likely a source of cytoplasmic copper under antibiotic or oxidative stress. Once copper is in the cytoplasm, it can be utilized by MarR to trigger activation of the
+
+Unless otherwise stated, the
+
+Unless otherwise stated, for all luciferase activity measurements, cells were cultured in M9 minimal media supplemented with 0.5% glycerol and 0.1% tryptone. Cells were transformed with either the promoter-less Lux plasmid
+
+For growth in the presence of external stressors, cultures were grown in M9 minimal media supplemented with 0.5% glycerol and 0.1% tryptone for 3 h and then diluted to an OD
+
+The codon-optimized genes for YebZ (JGI Gene ID 637001825, Meta Draft AC_000091.cds1796.1926305. 1925433), YebY (JGI Gene ID 637001824, Meta Draft AC_000091.cds1795.1925420. 1925079), and YobA (JGI Gene ID 637001826, Meta Draft AC_000091.cds1797.1926683. 1926309) were obtained from GenScript and were cloned into pET-22b(+), pET-21b(+), and pCDF-Duet 1 plasmids using “EZcutter” restriction sites. Single point mutants of YebZ in pET-22b(+) vectors were generated via site directed mutagenesis and purchased through GenScript. HmtA from
+
+Cultures were grown in the absence of metals at 200 rpm and 37 °C to an OD
+
+All AlphaFold modeling was executed on Jupyter notebooks via Google Colaboratory. Multiple sequence alignments (MSAs) for each modeled sequence were generated using the MMseqs2-based routine implemented in ColabFold, in which sequences were searched in three iterations against the consensus sequences of UniRef30. Hits were accepted with an E-value lower than 0.1. For each hit, the respective UniRef30 cluster member was realigned to the profile generated in the last iterative search, filtered such that no cluster had a higher maximum sequence identity than 95%, and added to the MSA. AlphaFold Multimer was implemented using MMseqs2 to search against PDB70 cluster representatives to generate 20 target templates. Models of YebZ and YobA were then generated through a paired alignment and modification of the residue index to generate the top five most likely structures to be adopted by the sequence as determined by the pLDDT. Since this complex is heterooligomeric, a separate MSA was generated for each component and paired using the pLDDT to determine local structure confidence and pTMscore to determine optimal complex formation. All models were manually inspected and compared. The sequence logo for YebZ was calculated with Jalview and MAFFT.
+
+All gram-negative protein sequences matching the CopD PFAM profile hidden Markov Model (HMM) (PF05245) and associated metadata were obtained from the JGI-IMG database (
+
+Metadata for all genes within five ORFs of
+
+All statistical analyses were performed using GraphPad Prism version 10.1.1. Comparisons between two groups were conducted by an unpaired, two-tailed student’s t-test, and respective p values are reported in the figure captions. For data that contain comparisons between more than two groups, one-way or two-way ANOVA followed by Tukey-Kramer’s multiple comparisons test were performed, with
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Supplementary Data 1
+
+Supplementary Data 2
+
+Supplementary Data 3
+
+Supplementary Data 4
+
+Description of Additional Supplementary Files
+
+Reporting summary

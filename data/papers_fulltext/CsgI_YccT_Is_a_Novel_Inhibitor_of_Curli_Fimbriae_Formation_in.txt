@@ -1,0 +1,75 @@
+In their natural environment, many bacterial species form a biofilm after attaching to a solid surface [
+
+The Gram-negative bacterium
+
+In
+
+Despite considerable progress in terms of the recent identification of the function of
+
+Strains without CsgD—a protein that activates the transcription of the
+
+The BW25113 strain is useful for elucidating gene function as it can use an all-single-gene knockout mutant collection. However, the
+
+To confirm the effects of YccT on curli fimbriae formation, we constructed a YccT overexpression plasmid, pBADyccT. The effects of YccT overexpression on curli fimbria formation were assessed using Congo red plates in WT
+
+To determine whether YccT affected CsgA in the periplasmic region and to elucidate the underlying mechanism, the effects of purified YccT on CsgA fiber formation were examined in vitro using the thioflavin-T (ThT) assay. CsgA amyloid fiber formation involved a nucleation (3–4 h of gradual increase in the fluorescence intensity) and an elongation (4–10 h of a remarkable increase in fluorescence intensity) reaction. The maximal fluorescence intensity was reached after 10 h (
+
+To clarify the effects of YccT overexpression on CsgA expression, we introduced the pBADyccT-FLAG vector into the yccT deletion strain to induce YccT-FLAG fusion protein expression. YccT*-FLAG (mature YccT-FLAG with the signal peptide cleaved by transport to the periplasmic region) was expressed for all arabinose concentrations of >2.0 × 10
+
+To confirm the effects of the deletion of the YccT signal peptide sequence on the repression of curli fimbriae formation induced by YccT overexpression, the yccT deletion strain was transformed with the plasmid containing YccT*. The color of colonies formed by bacteria transformed with the yccT or yccT* expression plasmid (pBADyccT or pBADyccT*, respectively) was investigated using the YESCA agar medium containing Congo red. The strain containing pBADyccT formed white colonies, whereas the strain transformed with pBADyccT* formed red colonies as did bacteria expressing the control vector (pBAD18) (
+
+The YccT-sfGFP and YccT*-sfGFP vectors in which sfGFP was subsequently fused with YccT and YccT*, respectively, were expressed in the BW25113 strain to investigate the localization of YccT in
+
+Next, the transcription of
+
+Numerous transcription factors have been involved in the regulation of
+
+Next, we performed a Phos-tag sodium dodecyl sulfate–polyacrylamide electrophoresis (SDS–PAGE) assay to assess the effects of YccT overexpression on the phosphorylation state of intracellular OmpR. The amount of phosphorylated OmpR was greater in the YccT overexpressing WT and
+
+Owing to the fact that the amount of OmpR in cells increased after YccT overexpression, YccT might be involved in activating OmpR expression or stabilizing OmpR. Therefore, we investigated YccT-sfGFP localization in
+
+In the present study, we aimed to clarify the mechanisms through which the induction of CsgD expression inhibits curli fimbria formation and identified a CsgD-regulated periplasmic protein YccT as a potential inhibitor. Therefore, we propose to rename “YccT” to “CsgI” as the inhibitor of curli synthesis. We confirmed that the expression of curli subunits and YccT was induced by CsgD overexpression, suggesting that YccT inhibited the aggregation or extracellular transport of CsgA in the periplasmic region. Previously, a model in which CsgC specifically inhibits CsgA polymerization in the periplasmic space and facilitates CsgA extracellular secretion has been proposed [
+
+The present data suggest that YccT interacted with CsgA in the periplasmic space and was involved in the inhibition of CsgA extracellular transport and/or degradation. Additionally, CsgC and YccT were simultaneously induced via CsgD overexpression. However, since curli fimbriae formation was inhibited in the
+
+EnvZ regulates the expression of many target genes including genes encoding outer membrane proteins such as OmpF and OmpC by controlling the phosphorylation state of the paired cytoplasmic response regulator OmpR in response to changes in external osmolality. OmpC expression is preferentially induced via high osmotic conditions, whereas OmpF expression is induced by low osmotic conditions [
+
+Thus, the elevated phosphorylated OmpR levels induced by YccT overexpression might promote phosphorylated OmpR binding downstream of
+
+Microscopic analyses of YccT localization in
+
+In
+
+The molecular chaperone DnaK is involved in the transport of stable CsgA into the periplasmic space and the stabilization of CsgD and plays an important role in curli fimbria formation [
+
+In conclusion, our data demonstrate that YccT is a novel inhibitor of curli formation by inhibiting both CsgA polymerization and curli gene expression. Thus, we propose to rename YccT CsgI as an inhibitor of curli synthesis.
+
+For the construction of His-tagged YccT or CsgA expression plasmids, DNA fragments containing the
+
+Overnight cultures were incubated in 30 mL YESCA medium at 28 °C for 16 h to prepare total RNA for Northern blot analysis. RNA purification and Northern blot analysis were performed as described previously [
+
+The expression and purification of His-tagged YccT were conducted following the standard procedure [
+
+First, pETyccT and pETcsgA (
+
+For YccT purification, 5 mL of Bugbuster (Takara bio) per 1 g of pellet, 10 µL of 0.1 M PMSF, 2 µL of DNase (5 U/µL), and 2 µL of RNase (10 mg/mL) were added to the pellet. The samples were rotated for 20 min and then centrifuged at 10,000 rpm for 20 min. The supernatants were mixed with 1 mL of Ni-NTA agarose (QIAGEN, Hilden, Germany) and shaken on a rotator for 1 h. The solutions were then transferred to a column (Muromachi Chemicals, Inc., Tokyo, Japan), washed with 10 mL lysis buffer (50 mM Tris/HCl pH 8.0 at 4 °C and 100 mM NaCl), and eluted with 2 mL lysis/imidazole buffer. A 2-mL sample was transferred to a PD-10 column (GE Healthcare, Chicago, IL, USA) equilibrated with Kpi buffer, and the sample drained with 3.5 mL Kpi buffer was used for the ThT assay.
+
+For CsgA purification, the collected pellet was dissolved in 25 mL of 8 M guanidine hydrochloride (GdnHCl) and 50 mM K2HPO4 and stirred with a stirrer at 4 °C for 2 days. The mixture was centrifuged at 10,000 rpm for 20 min at 4 °C, the supernatant was collected, ultrasonically crushed (Astrason XL2020, MISONIX, Farmingdale, NY, USA), mixed with 1 mL of Ni-NTA agarose, and shaken on a rotator for 1 h. The solution was transferred to a column (Muromachi Chemicals, Inc.), washed with 10 mL of 50 mM Kpi buffer, and CsgA protein was eluted with 2 mL of 125 mM imidazole/Kpi buffer. The eluted sample was passed through an ultrafiltration filter (Millipore; Amicon Ultra-4 Centrifuged Filter Devices 30 KDa) by centrifugation at 7500×
+
+The BWyccT-FLAG introduced with pBADcsgD or pBAD18 were cultured with shaking at 28 °C for 16 h in 10 mL of YESCA medium. These culture solutions were transferred into a 50 mL Falcon tube and collected by centrifugation (4 °C, 5000×
+
+The ThT assay was performed as described previously [
+
+Fi = Fluorescence intensity of each sample
+
+F
+
+F
+
+The
+
+Overnight cultures of
+
+Each plasmid (pBAD18, pBADyccT, or pBADdspyccT) was introduced into BW25113 or JW3367 cells, which were cultured in 10 mL LB medium containing ampicillin (100 µg/mL) to an OD
+
+The Congo red plate assay was performed as described previously [

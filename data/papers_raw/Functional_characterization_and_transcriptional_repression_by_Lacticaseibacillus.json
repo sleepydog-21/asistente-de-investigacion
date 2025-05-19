@@ -1,0 +1,11 @@
+{
+  "id": "36194262",
+  "title": "Functional characterization and transcriptional repression by Lacticaseibacillus paracasei DinJ-YafQ.",
+  "doi": null,
+  "authors": "Bonini AA, Maggi S, Mori G, Carnuccio D, Delfino D, Cavazzini D, Ferrari A, Levante A, Yamaguchi Y, Rivetti C, Folli C",
+  "journal": "Applied microbiology and biotechnology",
+  "year": "2022",
+  "abstract": "DinJ-YafQ is a bacterial type II TA system formed by the toxin RNase YafQ and the antitoxin protein DinJ. The activity of YafQ and DinJ has been rigorously studied in Escherichia coli, but little has been reported about orthologous systems identified in different microorganisms. In this work, we report an in vitro and in vivo functional characterization of YafQ and DinJ identified in two different strains of Lacticaseibacillus paracasei and isolated as recombinant proteins. While DinJ is identical in both strains, the two YafQ orthologs differ only for the D72G substitution in the catalytic site. Both YafQ orthologs digest ribosomal RNA, albeit with different catalytic efficiencies, and their RNase activity is neutralized by DinJ. We further show that DinJ alone or in complex with YafQ can bind cooperatively to a 28-nt inverted repeat overlapping the -35 element of the TA operon promoter. Atomic force microscopy imaging of DinJ-YafQ in complex with DNA harboring the cognate site reveals the formation of different oligomeric states that prevent the binding of RNA polymerase to the promoter. A single amino acid substitution (R13A) within the RHH DNA-binding motif of DinJ is sufficient to abolish DinJ and DinJ-YafQ DNA binding in vitro. In vivo experiments confirm the negative regulation of the TA promoter by DinJ and DinJ-YafQ and unveil an unexpected high expression-related toxicity of the gfp reporter gene. A model for the binding of two YafQ-(DinJ)",
+  "source": "PubMed",
+  "pmcid": "PMC9592637"
+}

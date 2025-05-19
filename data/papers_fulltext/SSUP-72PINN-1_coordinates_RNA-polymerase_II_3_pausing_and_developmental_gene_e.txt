@@ -1,0 +1,85 @@
+Transcription generates gene expression patterns that allow cells to perform specialized roles within an organism, to adapt to a changing environment, and to maintain basic metabolic processes. Protein-coding genes are transcribed by the RNA polymerase II (Pol II). The largest subunit of Pol II harbors an unstructured tail-like C-terminal domain (CTD) composed of repeats of the consensus heptapeptide sequence Y-S-P-T-S-P-S
+
+Pol II is recruited to transcription units (TU) with a hypo-phosphorylated CTD that becomes heavily phosphorylated on serine 5 (CTD S5P) during the transition from initiation to early elongation, and then on serine 2 (CTD S2P) during productive elongation, generating a dual gradient, which temporally and functionally couples transcription and mRNA processing
+
+In
+
+To better understand the role of CDK-12 and CTD S2P during early post-embryogenesis development and to identify additional regulators of SL2
+
+Because CDK-12 is responsible for the bulk of Pol II CTD S2 phosphorylation (CTD S2P), we asked whether the
+
+Together with our previous work on the role of CDK-12 in operon transcription
+
+While SSUP-72 has previously been associated with the mRNA 3′ end processing machinery
+
+The catalytic pocket of the SSU72 family contains a well-studied and typical CX
+
+While SSUP-72 has mainly been described as a CTD S5P phosphatase, it also has CTD-independent substrates associated with physiological functions and pathogenesis
+
+Next, we used quantitative western blotting with synchronized L1 larvae fed for 4 h before protein extraction to determine the levels of CTD S5P. We observed ~35% higher levels in bulk CTD S5P level in the
+
+To better understand the effect of CDK-12as inhibition on transcription at a genome-wide level, we adapted Global run-on sequencing (GRO-seq) to L1 nuclei. Compared to ChIP-seq or RNA-seq, GRO-seq has the advantage of measuring nascent RNA. Worms were synchronized at the L1 stage and cultured in the presence or absence of 3MB-PP1 (2 µM) for 4 h before isolating nuclei and performing the nuclear run-on. The GRO-seq data were used to generate rescaled metagene plots showing Pol II density for all non-operonic
+
+In
+
+To clarify if the suppression of the L1 arrest observed in the
+
+To better understand the effect of CDK-12 and SSUP-72 on operonic Pol II dynamics, we leveraged the GRO-seq data and generated rescaled metagene plots of Pol II occupancies for both +1 genes and 2+ genes (Fig.
+
+We previously reported that the inactivation of CDK-12 causes SL2
+
+These data indicate that the loss of SSUP-72 phosphatase activity counteracts the early transcription termination by Pol II at 2+ genes that occurs when CDK-12as is inhibited, thereby providing a molecular mechanism for the suppression. We next asked whether this effect also occurs in non-operonic genes. We did not see an accumulation of GRO-seq signal downstream of the TES (Fig.
+
+SSUP-72 was previously implicated in stimulating termination at an early polyadenylation signal (PAS) in the ankyrin gene
+
+These data show that while the genome-wide decreased Pol II pausing at the TES resulting from SSUP-72 inactivation does not result in a global termination defect (Fig.
+
+To extend the analysis of how SSUP-72 impacts 3′ pausing and termination at various classes of genes, we used the GRO-seq data to map the occupancy of active Pol II around all TES of protein-coding genes in the presence or absence of SSUP-72 activity. Regardless of where the TES is located (non-operonic genes, +1 genes, or 2+ genes) we observed a drop in the GRO-seq signal at the TES (Fig.
+
+A plausible consequence of the decreased Pol II 3′ end pausing observed when SSUP-72 is inactivated is an altered pre-mRNA cleavage efficiency and/or dynamic. If this is the case, the intergenic region between operonic genes (referred to as SL2 outrons) (Fig.
+
+These data reveal a role for SSUP-72 in regulating Pol II pausing between operonic genes for the coordinated expression of developmental genes arranged in operons.
+
+Lesions in
+
+We used the GRO-seq method to determine the effect of CDK-12 inactivation genome-wide and found that the affects the overall occupancy of Pol II on lone genes, which represent 75% of all genes (Fig.
+
+In
+
+Yeast Ssu72 was initially discovered as a part of the 3′ end processing machinery where it affects in the termination of non-polyA and some polyA RNAs
+
+In Drosophila and mammals, dephosphorylation of CTD S5P facilitates the recruitment of PCF11, which binds to CTD S2P and nascent RNA, ultimately disrupting the elongation complex
+
+This work provides new key insights on the role of CDK-12 and SSUP-72/PINN-1 during transcription and places them in the physiological context of post-embryonic development in
+
+All materials including strains are maintained at the University of Namur and should be requested from the Lead contact, Damien Hermand (
+
+Worms were maintained at 20 °C on Nematode Growth Media (NGM)–agar plates [51.3 mM NaCl, 1 mM CaCl
+
+The screen for suppressors of the L1 arrest induced by the inhibition of CDK-12as was performed as described in refs.
+
+Inhibition was performed on NGM plates, supplemented with 3MB-PP1, which was added to the desired concentration before pouring. For the phenotypical suppression assay, L4 worms were picked onto plates containing the inhibitor, and their progeny was evaluated after 96 h. To measure the length, hypochlorite-synchronized L1s were dropped on plates containing the inhibitor and incubated for 72 h before measurements. The measurements were conducted as described in ref.
+
+Hypochlorite-synchronized L1 worms (~50,000) were grown in liquid culture for 4 h, collected, washed 3× in M9, and flash-frozen in liquid nitrogen in 50 µl in a 1.5 mL centrifuge tube. Frozen pellets were supplemented with 50 µL of lysis buffer composed of 20 mM HEPES (pH 7.5), 125 mM sodium citrate, 0.1% (v/v) Tween 20, 0.5% (v/v) Triton X-100, 2 mM MgCl2, 1 mM DTT, proteases inhibitors (Roche) and phosphatases Inhibitors (Roche). Zirconia beads (100 µL; 11079105Z Cole-Parmer) were added to the worm suspension and homogenized at 4 °C in a FastPrep-24 benchtop homogenizer (MP Biochemicals) for six cycles of 20 s at 6 m/s with a 2-min rest between each cycle. A hole was poked in the microcentrifuge tube, then was inserted into another 1.5 mL microcentrifuge tube and spun at 1000 ×
+
+Hypochlorite-synchronized L1 worms (~100,000) were grown in liquid for 4 h in the presence or absence of 3MB-PP1 (2 µM; 529582-5MG Sigma-Alderich), collected, washed 3× in M9, resuspended in 1 mL TRIzol
+
+Hypochlorite-synchronized L1 worms (~400,000) were grown for 4 h in the presence of food and 3MB-PP1 (2 µM; 529582-5MG Sigma-Alderich), collected, washed 3× in M9, and flash frozen in liquid nitrogen in a 1.5 mL microcentrifuge tube. GRO-seq was performed as previously described
+
+For all high-throughput sequencing experiments, reads were mapped on the
+
+Figures and illustrations were prepared using Inkscape (ver 1.4). Measurements were sampled from individual biological replicates. Micrographs for 3MB-PP1 assays were performed at least five times, and representative micrographs were displayed. RNA-seq experiments, GRO-seq, and Western blots were performed three times. Worm length measurements were performed twice, and data points were pulled together for visualization. The statistical tests used are specified in the corresponding figure legends. No statistical methods were used to predetermine the sample size.
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review file
+
+Reporting Summary
+
+
+
+Source Data

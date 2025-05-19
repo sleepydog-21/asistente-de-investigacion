@@ -1,0 +1,109 @@
+Urinary tract infection (UTI) is one of the most common infectious diseases. Uropathogenic
+
+UPEC invades into the urinary tract cells, where they aggregate and form biofilm-like microbial colonies termed intracellular bacterial community (IBC;
+
+Fimbriae and flagella are major protein structures contributing to the virulence of UPEC. Fimbriae, such as type 1, P and F1C fimbriae, are required for bacterial adhesion to and invasion of host urothelial cells (
+
+We are interested in characterizing proteins involved in the pathogenicity of UPEC including bacterial aggregation leading to IBC formation, thereby contributing to the elucidation of the pathogenesis of this organism and the development of novel therapeutic strategies. PapB and FocB are DNA-binding transcriptional regulators of small size consisting of approximately 100 amino acids. They have been reported to regulate the expression of P and F1C fimbriae (
+
+This study demonstrated that the TosR protein/regulator contributes to UPEC’s ability to aggregate in bladder epithelial cells. The gene deletion mutant had lower motility and flagellar expression and exhibited lower levels of aggregation within the bladder epithelial cells. However, P and F1C fimbriae and hemolysin activity were at the same levels as in the parent strain. The purified TosR protein bound to upstream region of
+
+The bacterial strains and plasmids used in this study are listed in
+
+Bacterial strains used in this study.
+
+Cm
+
+Plasmids used in this study.
+
+Cm
+
+An in-frame deletion mutant of
+
+Primers used in this study.
+
+Levels of biofilm formation on 96-well plates were quantified as described previously with slight modifications (
+
+The ability of UPEC to invade bladder epithelial cells (HTB-9) was assessed by gentamicin protection assay as previously described (
+
+To estimate the activity of type 1 and P fimbriae, we tested the hemagglutination titers of guinea pig and human O-type erythrocytes, respectively, as previously described (
+
+Bacteria were statically grown overnight at 37°C. The bacterial cultures (2 μl) were spotted onto LB medium containing 0.3% agar and incubated for 9 h at 30°C.
+
+Bacteria were cultured for 24 h at 30°C in Heart Infusion medium containing 1.5% agar. Flagella were stained with Victoria blue/tannic acid solution as previously described (
+
+Bacteria were grown to the late-logarithmic growth phase (OD
+
+To detect VSVG-tagged FliC from UPEC, bacteria were grown to early stationary phase and separated by centrifugation. The cell pellets were resuspended in 50 mM phosphate buffer containing 8 M urea and then lysed by sonication. Cell lysate (4.0 μg) proteins were separated on duplicate 10% acrylamide Tris-glycine SDS-PAGE gels. One gel was stained with Coomassie brilliant blue (CBB), and the other was electroblotted onto a polyvinylidene fluoride (PVDF) membrane (Bio-Rad Laboratories, Hercules, CA). VSVG-tagged FliC was detected with the Sigma anti-VSVG antibody (Merck KGaA, Darmstadt, Germany, Catalogue number: V4888) and the Sigma anti-rabbit horseradish peroxidase-conjugated immunoglobulin G (IgG) secondary antibody (Merck KGaA, Darmstadt, Germany, Catalogue number: A6154) using a SuperSignal West Pico kit (Thermo Fisher Scientific, Waltham, MA). VSVG-tagged FliC protein bands were visualized using a LAS-4010 luminescent image analyzer (GE Healthcare Japan, Tokyo).
+
+To measure promoter activities of
+
+C-terminally octahistidine-tagged TosR (TosR-His
+
+We used a 791-bp DNA probe containing the 769-bp region upstream of
+
+HA titers of the wild-type parent and the tosR mutant.
+
+The
+
+To investigate the role of TosR, we constructed a CFT073∆tosR strain lacking
+
+Locus of
+
+Biofilm formation on 96-well plates in the parent strain (CFT073) and its derivatives
+
+The biofilm forming ability of UPEC is closely related to invasion into and aggregation within urinary tract cells (
+
+Internalization in bladder epithelial cells (HTB-9) of the parent strain (CFT073) and the
+
+Aggregation within HTB-9 for the parent strain, the
+
+UPEC fimbriae are important for aggregation in uroepithelial cells. Since the
+
+Transcript levels of flagellum-related and fimbrial genes and
+
+Flagella and flagellum-mediated motility of UPEC contribute to the aggregation of bacteria within urothelial cells (
+
+Motilities and flagellar production for the parent strain, the
+
+We examined the expression levels of flagellin FliC, a major constituent protein of flagella (
+
+FliC expression in the parent strain (CFT073) and the
+
+We measured the transcript levels of
+
+We investigated in more detail the role of TosR in regulating flagellar expression and its regulatory mechanisms. FlhDC also activates the transcription of genes that encode the flagellar components FlgB, FlhB, and FliL while the transcription of
+
+We also compared the promoter activities of
+
+Promoter activities of
+
+We examined the DNA binding ability of TosR by gel shift assay. In the presence of 7.5 pmol of TosR-His
+
+Flagella of UPEC contribute to bacterial aggregation leading to IBC formation in host epithelial cells (
+
+Overview of the regulatory mechanism of
+
+TosR has been characterized as a PapB/FocB family transcriptional regulator that controls the expression of the nonfimbrial adhesin TosA (
+
+Deletion of
+
+The
+
+TosR is known to repress the expression of P fimbria while promoting the expression of Auf fimbria and Curli, amyloid-like fibers (
+
+The region upstream of
+
+Previous studies showed that
+
+In addition to TosR, a number of PapB/FocB family transcriptional regulators, including SfaB, DaaA, FaeB, FanA, FanB, ClpB, PefB, and AfaA, have been characterized in
+
+The original contributions presented in the study are included in the article/Supplementary material, further inquiries can be directed to the corresponding author.
+
+HH, HTA, IK, and HTO designed the research and wrote the manuscript. HH, MS, KN, MT, HM, AT, and KS performed the experiments. HH, IK, and HTO analyzed the data.
+
+This research was funded by the Japan Society for the Promotion of Science (JSPS) “Grant-in-Aid for Scientific Research (B)” (Grant No. 22H02864 to HH and KS), Japan Agency Research and development [AMED] (Grant No. 22fk0108604h0902 and 22wm0225008h0203 to HTO), and Health Labour Sciences Research Grant (Grant No. 21KA1004 to HTO).
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.

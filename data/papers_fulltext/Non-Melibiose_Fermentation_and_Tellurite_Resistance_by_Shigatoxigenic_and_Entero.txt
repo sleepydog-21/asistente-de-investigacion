@@ -1,0 +1,63 @@
+Enterohemorrhagic
+
+The most frequent and pathogenic AE-STEC in humans belong to the following major O:H serotypes: O26:H11, O103:H2, O111:H-, O121:H19, O145:H-, and O157:H7 [
+
+Since 2010, AE-STEC serotype O80:H2 has been emerging in France in humans suffering not only from HC and HUS, but also from systemic infection [
+
+Although AE-STEC and EPEC O80:H2 have been sporadically isolated from healthy cattle and dairy products in some European countries [
+
+The specific aims of this study were to: (i) detect the presence of the
+
+A total of 44
+
+The 40 calf and human AE-STEC and EPEC O80:H2 studied are classified into two main lineages (L) in a Single Nucleotide Polymorphism (SNP)-based phylogenetic tree [
+
+The DNA sequences of the three genes of the
+
+The original DNA sequences of the six genes of the
+
+The 21 calf
+
+The 25 calf and bovine
+
+The MIC of the 25 calf and bovine
+
+Two EPEC and AE-STEC O80:H2 with different MIC to potassium tellurite were grown overnight in lauryl-sulfate enrichment (LSE) broth for enterobacteria (VWR Life Science, Leuven, Belgium). Ten-fold dilutions were performed to obtain bacterial concentrations ranging from 10
+
+One g of 96 fecal samples collected in July 2023 from the rectum of healthy adult cattle at one slaughterhouse in the province of Liège, Belgium were distributed in nine mL of two LSE broths, one containing two µg/mL of potassium tellurite, as in
+
+All 40 calf and human AE-STEC and EPEC O80:H2 strains harbored the
+
+The six genes of the
+
+None of the 21 calf AE-STEC and EPEC O80:H2 studied fermented melibiose on mel-MAC agar plates after overnight incubation at 37 °C (
+
+Regarding the MIC to potassium tellurite, the
+
+One high MIC
+
+After overnight growth at 37 °C in the presence or not of two µg/mL of potassium tellurite, 11 of the 96 (11.5%) enrichment broths (six with and five without tellurite) tested positive with the O80 PCR and were streaked on mel-MAC agar plates. After overnight growth at 37 °C, 13 of the 42 non-MF colonies picked-up (10 from tellurite-containing broths and three from tellurite-non-containing broths) tested positive with the O80 PCR, but none with the H2 PCR.
+
+Healthy cattle are the main reservoir of the major and several minor AE-STEC serotypes worldwide [
+
+Even if
+
+MF is not one of the reasons since the results of the genetic and phenotypic studies are straightforward and identical to those previously obtained on French human AE-STEC [
+
+In contrast, tellurite sensitivity is one reason, at least in part. Indeed, if all but one calf and human AE-STEC and EPEC belonging to L1/SL1.1, L1/SL1.3, and L2 (16 strains) harbor a
+
+A second reason to explain the failure of isolating AE-STEC and EPEC O80:H2 from healthy cattle is that their numbers in feces do not reach the detection limit even after overnight growth, because their ecological niche would not be, in contrast to AE-STEC O157:H7, the recto-anal junction, but small or large intestinal segments, similarly to some other major serotypes, like O26:H- [
+
+A third possible reason is that healthy cattle are not the primary reservoir of AE-STEC and/or EPEC O80:H2, in contrast to the major AE-STEC serotypes [
+
+Finally, the limited sizes of the fecal samples taken at slaughterhouses and farms, including in this study, could also explain the scarcity of positive isolation of AE-STEC and EPEC O80:H2 [
+
+Whatever the actual reason, these results imply that potassium tellurite cannot be used as a selective agent for the isolation of the great majority of AE-STEC O80:H2. This assumption is supported by the observation that two μg/mL potassium tellurite-containing enrichment broths inoculated with all but the lowest CFU concentration of the high MIC (>256 μg/mL)
+
+Besides those results, an interesting parallel observation is the simultaneous presence/absence of the
+
+As far as AE-STEC and EPEC O80:H2 are concerned, the selective isolation procedure based on non-MF and TeR may help to isolate most
+
+Nevertheless, future surveys will be worth performing using either selective with different antibiotics, or non-selective procedures with fecal samples and/or samples taken from different intestinal segments (when possible) not only of healthy cattle in slaughterhouses and farms but also of other domestic and wild animal species in European countries and even of healthy humans [
+
+Finally, future genome and phylogenetic analysis of more AE-STEC and EPEC O80:H2 from calves, humans and other sources should help to decipher and understand the molecular evolution of the different (sub-)lineages of this still emerging serotype.

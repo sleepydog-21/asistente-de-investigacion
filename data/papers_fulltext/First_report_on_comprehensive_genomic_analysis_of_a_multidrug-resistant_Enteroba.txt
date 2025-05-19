@@ -1,0 +1,87 @@
+In the microbial world’s intricate tapestry,
+
+Diabetes mellitus is a major chronic disease with impacts that extend beyond its metabolic origins
+
+Antimicrobial resistance (AMR) has become a significant challenge in global healthcare, altering infection management strategies and driving changes in medical practices. This issue arises from genetic adaptations in microbial populations, rendering previously effective antibiotics ineffective
+
+Whole genome sequencing (WGS) is the procedure of determining the complete or nearly complete DNA sequence of an organism’s genome all at once. This method unveils a comprehensive understanding of the genetic makeup of the organism
+
+In Bangladesh,
+
+The target isolate showed complete resistance in Ampicillin, Fosfomycin, Cefoxitin, Tigecycline, Meropenem, Linezolid and Vancomycin which belongs to seven different categories of antibiotics. Along with that, it showed intermediate resistance in ciprofloxacin and ceftazidime. The isolate was sensitive in imipenem, gentamycin and tobramycin. Thus, the isolate was categorized as multidrug-resistant (MDR) isolate as it showed non-susceptibility to ≥ 1 agent in ≥ 3 antimicrobial categories. Besides, the isolate showed biofilm forming capacity and categorized as weak biofilm former. The ability of the isolate to form biofilms, even as a weak biofilm former, carries critical clinical implications, particularly in the context of DFI and DFU. Biofilm formation is a well-recognized mechanism that facilitates bacterial survival in hostile environments, such as chronic wounds, by creating a protective matrix
+
+The whole genome sequence-based identification through LINbase and KmerFinder confirmed the isolate to be
+
+
+
+Whole genome sequence-based identification of the isolate.
+
+
+
+General features of the assembled whole genome.
+
+
+
+Whole genome mapping of
+
+The antimicrobial resistance genes investigation revealed that
+
+
+
+List of antimicrobial resistance genes.
+
+
+
+Distribution of antimicrobial resistance genes and mobile genetic elements associated genes in the genome of
+
+
+
+Visual representation of two distinct region (
+
+More than 150 virulence factor genes were found in
+
+
+
+Representative virulence factor genes and metal resistance genes harbored by the isolate. (
+
+Several major biosynthetic gene clusters were found in the genome of
+
+
+
+Biosynthetic gene clusters (
+
+Pangenome and comparative genome analyses were performed using 47 whole-genome sequences of
+
+
+
+Pangenome and comparative genome analysis of 47 different strains of
+
+
+
+Result of pangenome analysis.
+
+The genome-wide pathogenicity profiling of all the 47 isolates revealed highly significant insights about
+
+
+
+Pathogenicity profiling of different strains of
+
+As the different strains of
+
+In this intricate exploration, the multidrug-resistant bacterial isolate known as “
+
+The sample was collected from an infected foot wound of a diabetic foot ulcer patient admitted in Bangabandhu Sheikh Mujib Medical University, Dhaka, Bangladesh. The sample was collected by medical professionals using sterilized two cotton-tipped swabs moistened with sterile non-bacteriostatic saline. The sample was immediately brought to the Microbial Genetics and Bioinformatics Laboratory (Lab 109 and 121), Department of Microbiology, University of Dhaka in a cooler with icepacks (below 4
+
+Genomic DNA extraction of the isolate was carried out using Monarch
+
+The assembled sequence undergone annotation through Prokka
+
+Antimicrobial resistance genes were investigated through CARD
+
+A comprehensive evaluation of the pangenome, accompanied by a comparative genome analysis, was performed to elucidate the inherent diversity exhibited by the target strain. This endeavor was further aimed at identifying distinctive variations in the presence or absence of specific genes or gene families, referred to as Presence-Absence Variations (PAVs), across strains originating from diverse geographical regions and sources. 31 whole genome sequences of
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

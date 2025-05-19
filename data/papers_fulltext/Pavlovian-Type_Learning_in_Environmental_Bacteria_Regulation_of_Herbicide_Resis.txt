@@ -1,0 +1,59 @@
+The default view of how expression of bacterial operons is regulated by physicochemical and nutritional cues includes the action of transcriptional factors (TFs, either activators or repressors) that recognize specifically such signals and in turn either enable or curb transcription of often clustered genes whose products build the physiological response to the upstream inputs (Janga, Salgado, and Martínez‐Antonio
+
+The growing availability of bacterial genomes and transcriptomes has revealed a wealth of naturally occurring regulatory architectures whose evolutionary logic is sometimes difficult to grasp (Stormo and Tan
+
+Organization of the two arsenic resistance operons of
+
+One of such genes is
+
+In this work, we have genetically and physiologically dissected the interplay between arsenic tolerance and herbicide resistance in
+
+The high tolerance of
+
+To clarify the regulatory scenario above, we started by inspecting in detail the expression of the
+
+Induction of
+
+To test whether the transcriptional regulatory scenario shown in Figure
+
+Strains and plasmids.
+
+This work
+
+The PPT
+
+To clarify the functional dependence (or lack of it thereof) between herbicide resistance and tolerance to As oxyanions, the genomic region encompassing the
+
+Resistance of wild‐type
+
+PPT resistance and As (III) tolerance in strains with
+
+The scenario that emerges from these data is that expression of the herbicide resistance has evolutionarily become subject to a regulatory mechanism that responds to a signal alien to the function of the
+
+That As tolerance can be genetically and phenotypically separated from PPT resistance says little of the logic behind the regulatory takeover of
+
+The resulting strains were then subject to separate sensitivity tests to either PPT or arsenite. The results of these assays are shown in Figure
+
+Physiological effects of
+
+It has been reported before that overexpression of ArsR of various origins in
+
+The genome of
+
+The scenario for the development of the hereby described
+
+Evolutionary scenarios for emergence of surrogate Pavlovian‐type regulatory nodes. (a) Independent stimuli (S
+
+The bacterial strains and the plasmids used in this work are listed in Table
+
+Seamless deletion mutants of the
+
+Herbicide resistance experiments were done in M9 medium with citrate as sole carbon source, supplemented with uracil as mentioned above and added with the concentration the inhibitory compound indicated in each case. Tests were performed by growing strains under examination in 96‐well plates and with biological triplicates and technical duplicates for each condition tested. Similarly, sodium arsenite (NaAsO₂ from Sigma Aldrich Chemicals) was added to the cultures in the same microtitre plate format at the levels marked for each experiment.
+
+
+
+Density heat maps of Figures
+
+
+
+The authors declare no conflicts of interest.

@@ -1,0 +1,97 @@
+CRISPR-Cas tools have enabled programmable regulation of gene expression in bacteria, allowing control of genomic functions and optimization of biosynthetic production pathways (
+
+Programmable RNA targeting with Cas13 has been applied to a variety of applications in eukaryotic and bacterial systems (
+
+Here, we investigate dCas13 as a tool for programmable gene regulation in bacteria. Using catalytically inactive dCas13, we first systematically characterize translational silencing (tlCRISPRi) in
+
+
+
+All plasmids used in this study are described in
+
+Single colonies from LB plates were inoculated in 400 μl of EZ-RDM (Teknova) supplemented with the appropriate antibiotics and grown in 96-deep-well plates at 37°C with shaking overnight 900 rpm on a Heidolph titramax 1000. 100 μl of the overnight culture were transferred into flat, clear-bottomed black 96-well plates (Corning) and the OD
+
+For kinetic experiments, overnight cultures in stationary phase were subcultured to OD
+
+LNT producing constructs were made using the medium-
+
+Samples were analyzed via Agilent 6530 LC/Q-TOF in negative mode using a Poroshell 120 C18 150 mm column. We previously used HPLC analysis for detection of LNT (
+
+Statistical significance was calculated using two-tailed unpaired Welch's
+
+To repress translation in
+
+tlCRISPRi represses gene expression in
+
+To further investigate the effects of the crRNA alone on translation, we measured tlCRISPRi for a fluorescent reporter as a function of crRNA spacer sequence length both in the presence and absence of dCas13. crRNAs were truncated 2 bp at a time from an initial spacer length of 28 nt. Spacers were truncated from the 5′ end, although previous work has shown that truncations from either the 5′ or 3′ end follow similar qualitative trends (
+
+Having demonstrated simple tlCRISPRi, we sought to further optimize the dCas13 expression levels. Because dCas9 has been reported to be toxic to
+
+We then compared tlCRISPRi from catalytically-inactive dCas13d to the wild-type, nuclease-active Cas13d. We found that dCas13d exhibits stronger mRFP repression than Cas13d (
+
+To better understand crRNA targeting rules for tlCRISPRi, we designed four crRNAs targeting different positions of the mRFP transcript. We found that as the distance from the 5′ end of the mRNA transcript increased, the tlCRISPRi efficiency decreased (Figure
+
+tlCRISPRi dependence on mRNA target site position and transcript abundance. (
+
+In addition to target position, we anticipated that tlCRISPRi efficiency would depend on the mRNA abundance in the cell. We used a pTet- inducible mRFP reporter to measure tlCRISPRi while titrating aTc, effectively titrating the number of target mRNA copies in the cell. tlCRISPRi is most effective at 2 nM aTc. At higher aTc concentrations and correspondingly higher target mRNA abundance, repression may be limited by the amount of CRISPR complexes in the cell (Figure
+
+While transcriptional control systems act on entire operons, RNA targeting with dCas13 may enable independent regulation of single genes in multi-gene operons. The use of dCas13 may greatly improve our ability to regulate bacterial functions, as a large fraction of genes are contained in multi-gene operons. To test whether dCas13 can independently repress one gene while leaving the other unperturbed, we built a synthetic reporter constitutively expressing sfGFP and mRFP in a single transcriptional unit. The dual reporter operon uses a strong constitutive promoter (J23110) to express the sfGFP ORF followed by the mRFP ORF, each translated from a separate synthetic Bujard RBS (
+
+We first tested whether dCas9 repression of the dual reporter operon would produce strong polar effects, in which targeting one gene for repression leads to silencing of both genes (
+
+CRISPRi polar effects for multi-gene operons. (
+
+We then used dCas13 to test tlCRISPRi on each gene in the dual reporter operon. dCas13 was expressed from the medium strength J23107 promoter to produce a large tlCRISPRi effect, according to our previous results (Figure
+
+We next tested whether we could activate a subset of genes in a multi-gene operon by activating transcription of the entire operon and selectively repressing translation for undesired genes. As a proof of concept, we envisioned using a previously described dCas9 txCRISPRa system (
+
+To investigate simultaneous txCRISPRa and tlCRISPRi, we modified the dual sfGFP/mRFP operon used in previous experiments. We replaced the strong constitutive promoter with a weak promoter that could be activated with dCas9. Using the txCRISPRa system alone with dCas9 targeting the promoter and no crRNA for dCas13 targeting, sfGFP and mRFP were activated 10 and 16-fold, respectively (Figure
+
+Multiplexed txCRISPRa/tlCRISPRi in multi-gene operons. (
+
+The strong polar effect leading to equal repression on the downstream mRFP gene when targeting the upstream sfGFP could be due to translational coupling of the two genes (
+
+To test whether translational coupling could explain the observed polar effects, we constructed modified reporters where the RBS had been removed for either sfGFP or mRFP and repeated the multiplexed txCRISPRa/tlCRISPRi experiment. In the absence of tlCRISPRi, the reporter lacking a RBS for the upstream sfGFP showed greatly reduced mRFP levels (
+
+To test if independent repression of the upstream gene in an operon is possible, we needed a reporter with minimal translational coupling between genes. Ribosome read-through is thought to be dependent on the rate of translational initiation at the upstream gene (
+
+We then assessed whether the sfGFP mRNA sequence context could be contributing to the observed translational coupling and polar effects. We replaced the sfGFP reporter with mBFP (mTagBFP2, blue fluorescent protein) under the same
+
+The experiments described above were performed with the broad specificity crRNA DR (Figure
+
+In
+
+One potential disadvantage of the combined txCRISPRa/tlCRISPRi approach is that there may be a growth burden associated with expressing two CRISPR systems. To test whether the cell could support the two systems operating simultaneously, we measured the growth kinetics of a cell expressing either the txCRISPRa, tlCRISPRi or both txCRISPRa/tlCRISPRi machineries. We found that the expression of dCas13 and dCas9 together in the cell imposed no detectable additional burden to the cell compared to expressing the CRISPRa machinery alone (
+
+To test whether a multiplexed dCas9 and dCas13 system could be effective for metabolic engineering, we used bacterial lacto-
+
+Because LNT production requires up- and down-regulation of multiple enzymes, CRISPR-Cas-mediated gene regulation can be useful for tuning and optimizing gene expression levels. We previously used a combinatorial txCRISPRa library to optimize pathway enzyme levels in a
+
+Multiplexed txCRISPRa/tlCRISPRi for improved metabolic engineering. (
+
+We next tested whether dCas13-mediated tlCRISPRi knockdowns could improve LNT production. We targeted
+
+One potential advantage of CRISPR regulation is the opportunity for rapid combinatorial multiplexing. In the strain containing the dCas13
+
+CRISPR-Cas technologies have enabled a range of applications in bacterial systems, including gene editing, biosensing, and bioproduction (
+
+Here, we show that multiplexed DNA- and RNA-targeting dCas9 and dCas13 CRISPR-Cas systems can improve bioproduction in bacteria. These results emphasize that different methods of regulation can yield different and difficult to predict effects when regulating endogenous genes. The use of dCas13, either alone or in addition to dCas9, may offer several advantages for metabolic engineering. Previous HMO metabolic engineering efforts have shown
+
+Many targets for knockdown may not produce the desired effects when repressed with dCas9 due to tight regulation at the transcriptional level. For example,
+
+Operons are often organized with colocalized genes acting in different steps in a shared biosynthetic pathway. The ability to independently regulate genes in such operons could be particularly useful for bioproduction if the target product requires diverting a pathway intermediate. For example, regulation of the
+
+We have also shown that dCas9 and dCas13 can be combined to overcome polar effects in multi-gene transcriptional operons. The ability to independently regulate individual genes in a multi-gene operon depends on sequence context, expression level, and target position within the operon, but we have shown that independent gene regulation can be improved through screening different crRNA targets (Figure
+
+The ability to target individual genes may also be affected by the genetic structure of the operon. Previous work has shown that the distances between the stop codon of the upstream gene and the start codon of the downstream gene affect the degree of translational coupling. Distances less than the footprint of a ribosome (25–30 nt) are thought to promote translational coupling. Our expectation is that as the degree of coupling decreases, the ability to independently repress genes with dCas13 would improve. Therefore, the current tlCRISPRi toolbox will be most effective at targeting single genes in multi-gene operons when there are larger spacings between the ORFs.
+
+To date, there have been few approaches reported for decoupling translation in a multi-gene operon. The use of mutations to introduce premature stop codons or remove Shine-Dalgarno motifs in the upstream gene has been shown to decouple translation in
+
+Further investigation into Cas13 systems has the potential to improve our ability to precisely regulate individual genes at the translational level. In this work, we show that gene regulation with dCas13d provides novel functional properties with immediate applications in metabolic engineering. Several other Cas13 isoforms have been described that could also be effective for translational regulation (
+
+The ability to activate gene expression using dCas13 could also be useful for a wide range of bacterial engineering applications. Our results here suggest that dCas13 mediated activation (tlCRISPRa) could offer advantages over DNA-targeting dCas9 (txCRISPRa) by enabling control of individual genes in multi-gene operons. txCRISPRa is also subject to relatively stringent target requirements that have limited its generalizability to arbitrary gene targets (
+
+Moving forward, the ability to use dCas13 to independently regulate individual genes across bacterial genomes, along with multiplexed regulation using dCas9, may greatly expand the possibilities for basic biology research and applied biotechnology. The key advance in this work is that dCas9 and dCas13 can be used together to achieve functional effects that would be inaccessible using either system alone. We first demonstrate the advantage of combined dCas9/dCas13 through their multiplexed use to independently regulate individual genes in multi-gene operons. Many genes are subject to complex transcriptional regulation, and multi-gene operons are ubiquitous across nature. However, tools to study tightly regulated genes or individual genes within these operons are limited. Therefore, we hypothesize that regulating at the translational level may enable improved control of individual protein levels compared to transcriptional regulation.
+
+Genome-wide dCas13 screens may reveal novel insights into phenotypes from individual ORF perturbations that would be missed from dCas9 knockdown screens that act at the operon level. dCas13 has already proven a useful tool for studying gene essentiality in mammalian and bacterial systems (
+
+An outstanding challenge in synthetic biology is identifying the genetic perturbations that can optimize biosynthetic programs. By implementing dCas13-based translational regulation in bacteria and demonstrating the capabilities of combined translational and transcriptional control, we provide new opportunities to reprogram gene expression in bacteria. Systematic combinatorial perturbations with dCas9 and dCas13 should reveal effective strategies to regulate bacterial systems. These approaches may prove particularly useful for exploring the functional space available to medically- and industrially-relevant microbes.

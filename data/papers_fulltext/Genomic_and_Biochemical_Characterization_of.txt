@@ -1,0 +1,87 @@
+Bifidobacteria are part of the first bacteria that colonize the gut shortly after birth and establish a mutualistic microbe–host interaction, influencing early and late life [
+
+There is an evident lack of knowledge concerning the molecular mechanisms that explain these probiotic traits of
+
+Particularly,
+
+The bacteria isolation from a newborn and identification at the genera level of
+
+According to the manufacturer’s instructions, the total gDNA was isolated using the Wizard
+
+This method is based on sequence comparison of housekeeping genes in the bacterial genome and generated a robust and highly discriminatory super tree that has been used to infer phylogeny in the genus
+
+The samples were sequenced at the Integrated Microbiome Resource (IMR, Dalhousie University, Halifax, NS, Canada) [
+
+The protein-coding genes were functionally annotated using an hmm search (HMMER v3.3.2, November 2020) [
+
+Enzymatic classification in
+
+The putative operons for all CDSs were predicted using the Operon-Mapper tool [
+
+The growth kinetics was followed during 8 h of fermentation at 37 °C, using TPY medium independently added with 1%
+
+The ability to resist antibiotics was determined using the multidisc PT-34 Multibac I.D. (Investigación Diagnóstica, CdMx, México) following the instructions of the supplier, which included β-lactam antibiotics: vancomycin (30 μg), ampicillin (10 μg), dicloxacillin (1 μg), cephalothin (30 μg), penicillin (10 U), cefotaxime (30 μg); inhibitors of protein synthesis gentamicin (10 μg), clindamycin (30 μg), erythromycin (15 μg), tetracycline (30 μg); inhibitors of nucleic acid synthesis ciprofloxacin (5 μg), and others, such as trimethoprim-sulfamethoxazole (25 μg). The profile of
+
+Before the test, the strains were incubated overnight in MRS broth supplemented with sucrose (2 g/L) and cysteine (0.5%). A 1 × 10
+
+The agar well diffusion assay [
+
+BSH activity was qualitatively determined by plate assay. Fresh bacterial cultures were dropped onto TPY agar containing 0.1, 0.2, 0.3, and 0.5% (
+
+This tolerance implied the ability to survive simulated saliva (SS), simulated gastric fluid (SGF), and simulated intestinal fluid (SIF). SS consisted of a sterilized solution of pH 6.2 of phosphate buffer (PBS) and 0.01% (
+
+The 2,2-diphenyl-1-picrylhydrazyl (DPPH, Sigma) radical scavenging activity to test antioxidant activity in intact cells, intracellular cell-free extracts, and cell debris of
+
+The DPPH assay of the strains was analyzed by mixing one milliliter of freshly prepared DPPH solution (0.2 mmol/L in methanol) with 1 mL of sample solution. Then, the mixture was allowed to react for 30 min in the dark. The absorbance was measured with a UV-visible spectrophotometer at 517 nm. The assay was performed by three independent experiments. The DPPH scavenging ability was calculated using the formula:
+
+Caco-2 cells (ATCC
+
+Media and standard deviation were calculated in all the experiments. The results of the experiments were compared by T student or ANOVA using
+
+The multilocus analysis showed that JCLA3 belongs to the
+
+The genome of
+
+The 23.46% of the COG category assignment were of genes with unknown function, 9.79% carbohydrate transport and metabolism, 8.92% amino acid transport and metabolism, 7.34% translation ribosomal structure, and biogenesis, 6.83% transcription and 6.83% replication, recombination, and repair, whereas 5.43% genes were not placed into the COGs (
+
+The genome of
+
+In addition, the
+
+In the case of pantothenate, the gene was found codifying to ketol-acid reductoisomerase (EC 1.1.1.86), acetolactate synthase I/III (EC 2.2.1.6), pantetheine-phosphate adenylyltransferase (EC 2.7.7.3), dihydroxy-acid dehydratase (EC 4.2.1.9), holo-[acyl-carrier protein] synthase (EC 2.7.8.7), dephospho-CoA kinase (EC 2.7.1.24), 2-dehydropantoate 2-reductase (EC 1.1.1.169), phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36), phosphopantothenate-cysteine ligase (EC 6.3.2.5), type III pantothenate kinase (EC 2.7.1.33), and branched-chain amino acid aminotransferase (EC 2.6.1.42). Another important biosynthetic capability found in the genome was secondary bile acid biosynthesis by choloylglycine hydrolase (EC 3.5.1.24).
+
+The kinetics of
+
+Regarding hemolysis,
+
+The tolerance to sequential simulated gastrointestinal solutions showed that
+
+Through genomic annotation, we found that 80 genes could be implicated in the antioxidant potential showed by
+
+A desirable trait for probiotic bacteria is the ability to adhere to the intestinal epithelium or mucus layer, as this may increase the residence time in the GIT and facilitate interactions with host cells. In this study, we observed that the
+
+Genome analysis of the
+
+The genomic and biochemical characterization of microorganisms provides insights into identifying possible human health applications and understanding the mechanism involved. Prior to this study, an isolated bacterium was classified in the genera
+
+Although
+
+Another important biosynthetic capability in the genome was secondary bile acid biosynthesis by choloylglycine hydrolase (EC 3.5.1.24), an enzyme with possible applications in hypercholesterolemia. Some probiotics show hypocholesterolemic effects in animal models due to reductions in lipid and cholesterol levels since BSH can deconjugate bile salts, inducing a de novo synthesis of conjugated salts at the expense of cholesterol, resulting in decreasing serum levels, alterations in energy, homeostasis and the excretion of larger amounts of free bile acids in feces, thus making BSH a clinically significant enzyme [
+
+Probiotics have some proposed mechanisms in the elimination of cholesterol, such as the assimilation of cholesterol by growing cells, the binding of cholesterol to the cellular surface, the incorporation of cholesterol into the cellular membrane, the production of short-chain fatty acids by oligosaccharides, the deconjugation of bile via BSH, and the coprecipitation of cholesterol with deconjugated bile [
+
+Several Bifidobacteria are resistant to β-lactam antibiotics, as reported previously [
+
+Regarding hemolysis,
+
+The tolerance to sequential simulated gastrointestinal solutions showed
+
+Whether Bifidobacteria colonize from birth or are ingested as a probiotic, they will encounter and must overcome stresses in the GIT with bile being the major stress-inducing factor to bacteria, due to its bactericidal properties. Different mechanisms of bile resistance by Bifidobacteria have been set, including the efflux of bile salts by multi-drug transporters, compositional changes of the cell membrane, F
+
+Reactive oxygen species (ROS) are produced by aerobic respiration and the immune defense of organisms. Excessive amounts of ROS can result in cellular damage, which promotes chronic diseases, such as cardiovascular diseases, diabetes, and cancer. Certain probiotic strains present significant antioxidant effects and can act as antioxidants to maintain intestinal redox balance in the gut by adhering to and colonizing the intestinal lumen [
+
+The antioxidative potential of Bifidobacteria has been previously reported using the DPPH free radical scavenging method. We reported that intact cells and cell-free extracts of
+
+The adhesion of probiotics to human GIT Is considered one of the main criteria for the bacteria to benefit health. The adhesion ability of probiotics is dependent and is influenced by physicochemical and biological conditions. It depends on environmental factors, such as pH and temperature, the ionic strength of the medium, as well as characteristics of both the bacteria and substrate, such as surface free energy, the presence of bacterial surface structures, such as specific attachment proteins, and their hydrophobicity or hydrophilicity. The genome of the
+
+The complete genome of

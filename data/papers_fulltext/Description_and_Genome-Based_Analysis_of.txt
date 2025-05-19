@@ -1,0 +1,79 @@
+The genus
+
+The species
+
+In the course of our studies, several marine bacteria
+
+In this study, two new bacterial strains of
+
+The specimens of marine polychaetes
+
+Antibiotic susceptibility of strains studied was examined on MA 2216 plates using commercial paper discs (Research Centre of Pharmacotherapy, St. Petersburg, Russia) impregnated with the following antibiotics (μg per disc, unless otherwise indicated): ampicillin (10), benzylpenicillin (10 U), vancomycin (30), gentamicin (10), kanamycin (30), carbenicillin (100), chloramphenicol (30), neomycin (30), oxacillin (10), oleandomycin (15), lincomycin (15), ofloxacin (5), rifampicin (5), polymyxin (300 U), streptomycin (300), cephazolin (30), cephalexin (30), erythromycin (15), nalidixic acid (30), tetracycline (30), and doxocycline (30). A suspension of cells of the studied strains at a concentration of 0.5 McFarland was applied to a Petri dish with MA 2216 medium, and then discs with antibiotics were placed and incubated at a temperature of 25°C for 48 h.
+
+For polar lipid and fatty acid analyses, strain KMM 8419
+
+The 16S rRNA gene of strains CB1-14
+
+To select KMM-8419
+
+Genomic DNA was extracted from strains CB1-14
+
+The phylogenetic analysis was performed with PhyloPhlAn version 3.0.1 using 400 conserved protein sequences, and an ML tree was reconstructed by RAxML version 8.2.12 under the LG + Γ model with non-parametric bootstrapping of 100 replicates [
+
+To predict carbohydrate-active enzymes (CAZymes), dbCAN3 meta server version 10 with default settings was used (
+
+The 16S rRNA gene sequences of strains CB1-14
+
+Based on the results of the 16S rRNA similarity analysis and MLSA, new strains CB1-14
+
+The phylogenomic tree based on 400 concatenated sequences extracted from the genomes of the closely related type strains of the genus
+
+Moreover, the CB1-14
+
+Taken together, according to the phylogenomic position and OGRI values, the new strains CB1-14
+
+The complete genomes of strains CB1-14
+
+To determine the genetic heterogeneity of the Mediterranei clade, the pan-genome of eight type strains and two new strains was performed (
+
+Moreover, the core, shell, cloud, and unique gene clusters of the Mediterranei clade were annotated into COG classes (
+
+The largest number of unique genes, including paralogs, was observed in genomes of
+
+The genomic comparison of CAZymes repertoires (CAZomes) revealed that CB1-14
+
+The most abundant GHs in the
+
+The second class of enzymes most represented in the
+
+Overall, the number of CAZymes produced by CB1-14
+
+In silico secondary metabolite prediction analysis using the AntiSMASH tool [
+
+Nine putative transport secretion systems (TSS), essential in global cell functions, were detected in the
+
+The cells of the KMM 8419
+
+Strains KMM 8419
+
+The predominant fatty acids contained in strains KMM 8419
+
+Strains KMM 8419
+
+A DNA GC content of 46.1% was calculated from genome sequences of strains KMM 8419
+
+Description of
+
+Gram-negative, aerobic, oxidase- and catalase-positive, with rod-shaped cells, 0.5–0.8 μm in diameter and 1.2–2.0 μm in length, encapsulated, motile by from 2 to 14 polar and/or lateral flagella. On MA 2216, produces cream-pigmented opaque shining colonies. Growth occurs in 0.5–7% NaCl (optimal is 2–3%) and at 10–32 °C (optimal is 23–25 °C), no growth at 40 °C. The pH range for growth is 5–11 with an optimum of 7.0–8.0.
+
+Negative for hydrolysis of casein and chitin; positive for DNA, starch, tyrosine, gelatin, Tween 20, Tween 40, Tween 80 hydrolysis, H
+
+According to the API 20E test, positive for indole production, ONPG, oxidation of D-glucose, D-mannitol, D-sucrose, amygdalin, reduction of nitrates to nitrites; weak reaction for tryptophane deaminase, L-rhamnose; and negative for arginine dihydrolase, lysine decarboxylase, ornithine decarboxylase, citrate utilization, urease production and H
+
+According to the API 20NE test, positive for indole production, reduction of nitrates to nitrites, hydrolysis of esculin, PNPG, and negative for arginine dihydrolase, urease production, fermentation of D-glucose under anaerobic conditions, assimilation of D-glucose, L-arabinose, D-mannose, D-mannitol, N-acetylglucosamine, D-maltose, D-gluconate, caprate, adipate, L-malate, citrate, and phenylacetate.
+
+According to the API ZYM test, alkaline phosphatase, esterase (C 4), esterase lipase (C 8), leucine arylamidase, acid phosphatase, and naphtol-AS-BI-phosphohydrolase activities are present, but valine arylamidase and N-acetyl-β-glucosaminidase are weakly active; α-galactosidase, β-galactosidase, β-glucuronidase, cystine arylamidase, α-chymotrypsin, β-glucosidase, α-mannosidase, and α-fucosidase are not active; activities for lipase (C 14), trypsin, α-glucosidase were strain-dependent (the type strain was active for lipase (C 14), weakly positive for α-glucosidase, and not active for trypsin).
+
+The DNA GC content of 46.1% is calculated from the genome sequence. Major fatty acids are C
+
+The GenBank accession numbers for the whole-genome sequences of strains CB1-14

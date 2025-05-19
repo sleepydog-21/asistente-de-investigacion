@@ -1,0 +1,11 @@
+{
+  "id": "39847144",
+  "title": "Generation of ribosomal protein S1 mutants for improving of expression of difficult to translate mRNAs.",
+  "doi": null,
+  "authors": "Niemelä LRK, Pásztor A, Frey AD",
+  "journal": "Applied microbiology and biotechnology",
+  "year": "2025",
+  "abstract": "Metagenomes present a source for novel enzymes, but under 1% of environmental microbes are cultivatable. Because of its useful properties, Escherichia coli has been used as a host organism in functional genomic screens. However, due to differing expression machineries in the expression host compared to the source organism of the DNA sequences, screening outcomes can be biased. Here, we focused on one of the limiting processes-translation initiation. To that end, we created an operon-like screening system in E. coli to select mutants of the ribosomal protein S1 with more relaxed sequence requirements for 5'-untranslated regions of mRNAs. We created two mutation libraries of the ribosomal protein S1, one covering domains 3 and 4 (D3-D4) and the second covering domains 3 to 5 (D3-D5). Most mutants from library D3-D4 proofed to be specific for a particular UTR sequence and improved only expression from a single construct. Only mutant 3 from library D3-D4 led to increased expression of four different reporters improving fluorescence levels by up to 21%. Mutants isolated from D3-D5 library led up to 90% higher expression compared to the control, though the mutants with highest improvements exhibited a specialist phenotype. The most promising mutant, mutant 4, exhibited a generalist phenotype and showed increased expression in all six reporter strains compared to the control. This could indicate the potential for a more promiscuous translation initiation of metagenomic sequences in E. coli although at the price of smaller increases compared to specialist mutants. KEY POINTS: • An operon-like selection system allowed to isolate generalist and specialist S1 mutants. • S1 mutants improved translation of mRNAs with 5'-UTRs from metagenomic sequences. • Use of S1 mutants could increase coverage from metagenomic libraries in functional screens.",
+  "source": "PubMed",
+  "pmcid": "PMC11759276"
+}

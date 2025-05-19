@@ -1,0 +1,137 @@
+Regulation of gene expression occurs at transcriptional and post-transcriptional levels, and has been studied intensively both experimentally and theoretically [
+
+Colicins are toxic proteins produced by certain
+
+The interaction scheme is a generalized adaption of that presented by Yang [
+
+Other elements:
+
+Each of the three components is encoded by a single gene—the colicin by
+
+Post-transcriptional regulation makes use of many different mechanisms. Recent studies emphasize the particular importance of non-coding sRNAs [
+
+The basic interaction network that controls the ColE2 regulatory network has been studied in great detail in previous works [
+
+M,A,S: molecule numbers of free long mRNA, free CsrA dimers and the free effective sRNA;
+
+For our theoretical analysis, we initially developed a detailed mathematical model for the post-transcriptional regulation of colicin E2 release. To this end, we derived a set of coupled, deterministic rate equations from the interaction network depicted in
+
+As we wished to study the post-transcriptional regulation of colicin E2 expression, we included in the model only those components that are relevant at that stage. The model therefore omits the short mRNA and its products. However, the rate of transcription of the long mRNA is a crucial parameter, which is influenced by the kinetics of activation of the SOS promoter, and thus by the processing of its repressor LexA. Upon DNA damage, RecA promotes auto-cleavage of LexA dimers, thus removing inhibition of the SOS response (marked in red in
+
+CsrB and CsrC regulate CsrA by forming complexes with it. The two sRNAs each have several (on average:
+
+For the analysis of our model, we had to determine production, degradation and binding rates. The particular values used are listed in
+
+We analyzed the reduced post-transcriptional model by first calculating its steady state. In order to obtain a cleaner and simpler result, we derived an approximation (see
+
+The stationary solutions are given as a function of the effective transcription rate
+
+The production rate of CsrA dimers was set to
+
+From the aforementioned analytic solution we calculated the threshold position as a function of the system parameters (
+
+The fluctuations are quantified by the Fano factor (see main text) and depicted as heatmap in the plot. They are most pronounced at the threshold, and fade for parameter sets above the threshold. With an increase in sRNA production (
+
+Apart from the threshold itself, we find that the levels of free CsrA and free sRNA predicted by our steady state analysis are consistent with experimental in-vivo values determined by previous studies [
+
+So far, we have demonstrated that our three-component system is capable of producing a threshold behavior. However, it has been shown previously that a mutually exclusive production of sRNA and a target mRNA is possible with just two components [
+
+After SOS signals, the sRNA controls and accelerates the degradation of CsrA (see section on expression dynamics below), eventually leading to the expression of the lysis protein.
+
+In a next step, we analyzed the stochastic dynamics of the post-transcriptional regulation network. To this end, we switched to a stochastic description, calculated the Fano factor (Var
+
+We found that fluctuations in mRNA were most pronounced close to the threshold position, with the largest fluctuations occurring slightly above the threshold (
+
+To understand why the fluctuations are localized to the region near threshold, one must take the characteristics of this parameter regime into account. Around the threshold, molecule numbers are close to zero, which has a direct affect on the relative size of fluctuations: the lower the abundance, the larger the fluctuations (stochastic regime). Moreover, the threshold is the only regime in which all three components, CsrA, mRNA and sRNA, can coexist and interact with each other: An increase in the level of CsrA will lead to a decrease in the abundance of long mRNA and sRNA, owing to increased complex formation and subsequent degradation. Analogously, an increase in long mRNA and sRNA molecule numbers leads to a decrease in CsrA abundance. Therefore, the abundance of CsrA dimers is anti-correlated with the abundance of both long mRNA and sRNA. It has been shown for a two-component system, that anti-correlated components can create anomalously large fluctuations [
+
+These results show that a third component can reduce intrinsic fluctuations of a hierarchically ordered regulatory network.
+
+To study the dynamical response of the ColE2 system to an SOS signal, we extended the post-transcriptional network by including the LexA-RecA regulatory network [
+
+In our analysis of the ColE2 post-transcriptional regulation network so far (see above), we have assumed the dynamics of SOS promoter activation to be so fast that we could use an effective transcription rate
+
+We simulated the SOS signal by temporarily up-regulating the coupling parameter
+
+We simulated an SOS signal by temporarily up-regulating the LexA auto-cleavage parameter from
+
+Focusing on the dynamics of mRNA transcription, we found that, due to initial simulation parameters, only small numbers of the short mRNA are produced in the uninduced state. After up-regulation of the LexA auto-cleavage parameter
+
+Studying the dynamics of a single stochastic realization, we observed that the number of long mRNA molecules underwent large fluctuations, which were followed by periods of no expression at all. Moreover, the timing of these bursts varied considerably between different realizations. This constitutes a significant qualitative difference compared to the average over 500 realizations and to the deterministic dynamics (
+
+We simulated an SOS signal by temporarily up-regulating the LexA auto-cleavage parameter from
+
+Incorporation of the LexA-RecA regulatory network allowed us to model the colicin E2 expression dynamics in response to a realistic SOS signal, and the results presented above highlight the importance of CsrA for colicin release.
+
+Gene expression is a process that allows for various forms of regulation at all levels. In theoretical studies of post-transcriptional regulation of several biological systems, modulation of mRNA production by proteins or sRNA has been shown to create, for instance, temporal thresholds for mRNA translation [
+
+In our analysis of the model, we used rate constants that were determined from experimental systems (see chapter 2 of
+
+Investigation of the dynamics revealed that the model exhibits a time delay in the production of free long mRNAs. This delay is due to the high abundance of CsrA in the non-SOS state of the cell, which causes CsrA to quickly bind to free long mRNA and thus prevents its transcription. Only during an SOS signal, which indicates external stress for the cell, the level of CsrA gets steadily reduced. The time this process takes to get CsrA levels so low that fluctuations in long mRNA production result in free long mRNA, causes a delay in colicin release. As colicin release is coupled to cell lysis, the delay is therefore a mechanism for filtering out transient SOS signals that might erroneously lead to synthesis of the lysis protein. Moreover, also intrinsic fluctuations, for instance in sRNA production, are filtered out by this mechanism: Even if a large and sudden burst in sRNA were strong enough to drop CsrA abundance close to zero, the CsrA buffer gets restored quickly due to the large production rate of CsrA. This rate is only effectively lowered during a SOS signal, which increases the production of the CsrA-sequestering long mRNA. The fact that lysis is regulated by a threshold mechanism of a global regulator protein like CsrA might also be a guarding mechanism for the cell: only prolongued extreme situations will cause the abundance of these regulators to drop to low molecule numbers.
+
+However, delays and similar threshold behavior also emerge in two-component systems, raising the question why a third component is necessary here. Strikingly, we found that the third component (sRNA) in the post-transcriptional interaction network enables the cell to tune the duration of the delay by sequestering CsrA. In the case of the ColE2 system, this means that cells are able to adjust the (average) time between a SOS signal and the onset of cell lysis leading to colicin release.
+
+Furthermore, previous studies of systems with slow, bursting promoter kinetics have also uncovered a major limitation of two-component sRNA-based regulation compared to regulation based on transcription factors: Two-component systems are subject to significantly higher levels of intrinsic noise [
+
+In bacteria, these mechanisms could have several functions: First, a comparison of different sRNA production rates (
+
+In order to focus on the interplay between the LexA-RecA system and the hierarchical regulation of long mRNA by CsrA and sRNA, we kept the plasmid number constant. If we considered random, Poisson-distributed plasmid numbers instead, the effect would be very small, as shown in
+
+In conclusion, we have provided here the first detailed theoretical description of colicin E2 production and release, and used it to study the dynamical behavior of this system. Moreover, the general three-component model described here should be applicable to many other systems of toxin production in microorganisms.
+
+In most models of prokaryotic gene expression, it is assumed that promoter kinetics are fast compared to RNA production and degradation rates. In that case, the promoter state is well approximated by its steady state [
+
+The two sRNAs CsrB and CsrC regulate CsrA via complex formation. More specifically, each CsrB molecule has approximately 22 binding sites for CsrA, with 9 CsrA dimers being attached on average [
+
+For the calculations of the abundances of the three components (for example, to obtain the plots of
+
+We started the analysis of noise properties by reformulating the simplified three-component system as a Master equation. As Master equations are typically impossible to solve analytically, we performed a general van Kampen expansion in multiple variables (components). Our analysis included all higher orders, and not only lowest order terms as is commonly found in textbooks [
+
+To verify how well our analytical results of the deterministic rate equations coincide with the actual mean molecule numbers, we set up a Gillespie simulation [
+
+Rates are given in molecules per cell volume
+
+(PDF)
+
+Click here for additional data file.
+
+Rates are given in molecules per cell volume
+
+(PDF)
+
+Click here for additional data file.
+
+The interaction scheme is mathematically formulated as
+
+(EPS)
+
+Click here for additional data file.
+
+The stationary solution
+
+(EPS)
+
+Click here for additional data file.
+
+The production rate of CsrA dimers was set to
+
+(EPS)
+
+Click here for additional data file.
+
+(A) shows the lysis time distribution as in
+
+(EPS)
+
+Click here for additional data file.
+
+To illustrate the predictive possibilities of our three component model, we compare the results of numerical simulations using our model with experimental data [
+
+(EPS)
+
+Click here for additional data file.
+
+Detailed derivations of the (simplified) rate equations and the linear noise approximation, as well as the detailed reaction scheme used in the Gillespie simulations.
+
+(PDF)
+
+Click here for additional data file.

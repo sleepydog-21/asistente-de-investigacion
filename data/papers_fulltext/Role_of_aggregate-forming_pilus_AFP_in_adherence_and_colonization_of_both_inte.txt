@@ -1,0 +1,87 @@
+Hybrid-pathogenic
+
+In a recent study, we described the geno- and phenotypic characteristics of one
+
+AFP was initially described in a Shiga-toxigenic
+
+Thus, this study aimed to examine whether AFP and/or another adhesin present in the UPEC-46 strain is involved in intestinal colonization and uropathogenicity using different
+
+All bacterial strains and plasmids used in this study are described in Supplementary Table S1. The strains were grown in lysogeny broth (LB), LB agar, or MacConkey (MC) agar (Difco, USA) for 18 h at 37ºC and stored using LB supplemented with 15% (v/v) glycerol (Sigma-Aldrich, USA) at −80ºC. When necessary, the following antibiotics were added to the media: ampicillin (100 µg/mL), kanamycin (50 µg/mL), apramycin (100 µg/mL), chloramphenicol (25 µg/mL), or streptomycin (100 µg/mL) (Sigma-Aldrich).
+
+Adherence assays were performed according to Schüroff et al. [
+
+The assays were performed using Dulbecco modified Eagle medium (DMEM) (Cultilab, Brazil) for HeLa/HT-29 cells and Roswell Park Memorial Institute (RPMI) (Cultilab) for 5637 cells, supplemented with 2% (v/v) fetal bovine serum (Cultilab), and when necessary, 1% (w/v) D-mannose (Sigma-Aldrich).
+
+The ability of bacteria to adhere to epithelial cell lines were assessed at a multiplicity of infection (MOI) of 1:100 with incubation of 3 h or 6 h at 37ºC under 5% CO
+
+For invasion assays, a quantitative bacterial infection of HeLa, HT-29, and 5637 cells was performed as described above, using incubation periods of 3 h. The cells were then washed with phosphate-buffered saline (PBS) and treated with 1 mL of respective culture medium (DMEM or RPMI) containing 100 µg/mL gentamicin (Sigma-Aldrich) for 1 h and lysed with 1% (v/v) Triton X-100 (Sigma-Aldrich). The bacteria counts were performed using MC agar plates. The invasion index was indicated as the ratio between internalized and total cell-associated bacteria expressed in percentage (%). All assays were performed three times in duplicate.
+
+The EZ-Tn5 <R6K
+
+The strain UPEC-46:
+
+The knockout of TIF in the selected double mutant (UPEC-46:
+
+The streptomycin-treated mouse model [
+
+A mouse model of ascending UTI was performed as previously described [
+
+Tissue fragments obtained from
+
+For Scanning Electron Microscopy (SEM) analyses, tissue fragments were similarly fixed, post-fixed, and dehydrated as described for TEM. After dehydration with 100% ethanol, specimens were submitted to a critical point dry with carbon dioxide, and mounted onto SEM stubs. After receiving a thin layer of gold, specimens were examined under SEM (QUANTA 250 - FEI Company, Netherlands) at 12.5 kV [
+
+The GraphPad Software package (v7.0, GraphPad Software, USA) was used for statistical analyses. The Student’s
+
+Initially, we evaluated the capacity of strain UPEC-46 to adhere to and invade cultivated eukaryotic cell lines from intestinal (HT-29) and urinary (5637) tracts origin. Analyzing the adherence rates of UPEC-46, we observed a higher number of adherent bacteria to HT-29 and 5637 cells, when compared to HeLa cells (
+
+Adherence and invasion of UPEC-46 in different eukaryotic cell lines. (a) Quantitative adherence and (b) invasion assays for UPEC-46 were performed in a 3-h incubation period at 37 °C, without D-mannose, using HeLa, HT-29, or 5637 cells. Experiments were performed in biological triplicates and experimental duplicates. The ANOVA followed by Tukey’s multiple-comparison test was used for the statistical analyses.
+
+In view of results obtained
+
+Colonization of bladders and kidneys mediated by UPEC-46 in a mouse model of ascending UTI. Groups of nine SPF-C57BL/6 mice were transurethrally inoculated with 1.0 x 10
+
+To identify other possible adhesins that could be involved in the adhesiveness of UPEC-46, we generated a transposon library from UPEC-46 strain using the EZ-Tn5 <R6K
+
+Insertion sites of EZ-Tn5 <R6K
+
+TIF have been repeatedly associated with adherence in the urinary tract, contributing to the pathogenesis of UPEC strains [
+
+D-Mannose inhibition of adherence of UPEC-46 on different eukaryotic epithelial cell lines. UPEC-46 was submitted to quantitative adherence assays (incubation period of 3 h at 37°C) using HeLa, HT-29, or 5637 cell lines. Adherence of UPEC-46 to different cells was quantified in the absence or presence of 1% D-mannose. The experiments were performed in biological triplicates and experimental duplicates. The Student’s
+
+TIF mutation was obtained using the UPEC-46:
+
+Additionally, adherence assays for UPEC-46, UPEC-46:
+
+Role of AFP and TIF in the adherence of UPEC-46 on different eukaryotic epithelial cell lines. Quantitative adherence assays for UPEC-46, UPEC-46:
+
+UPEC-46 colonized the intestinal epithelia of mice up to day 14 post-inoculation, with values ranging from 10
+
+Role of AFP and TIF in the intestinal colonization in streptomycin-treated mouse model. Groups of eight SPF-BALB/c mice were orogastrically inoculated with 1.0 x 10
+
+Intestinal fragments (duodenum, jejunum, ileum, and colon) were also analyzed by EM. Bacterial adherence to the epithelium was not observed in the duodenum and jejunum. In the ileum, bacterial adherence was mainly observed in animals infected with UPEC-46:
+
+UPEC-46 colonized the bladder and kidneys, presenting bacterial counts of approximately 10
+
+Role of AFP and TIF in the colonization of bladders and kidneys in a mouse model of ascending UTI. Groups of nine SPF-C57BL/6 mice were transurethrally inoculated with 1.0 x 10
+
+Bladder and kidney fragments of UPEC-46 and derivative strains were also analyzed by SEM and TEM. Bacterial adherence to the bladder cells’ surface was observed in mice infected by UPEC-46, but not in mice infected with the mutants UPEC-46:
+
+Hybrid-pathogenic UPEC/EAEC strains have been recently described as important bacterial infectious agents, isolated from cases of diarrhea and/or UTI [
+
+Adherence and invasion to host cells are important virulence mechanisms of pathogenic
+
+In our previous study, we demonstrated that AFP was associated with the adhesiveness of UPEC-46 on intestinal and urinary cell lines, and the AFP mutant strain (UPEC-46:
+
+The role of TIF in establishing the AA pattern has also been demonstrated in EAEC prototype strain 042 [
+
+UPEC-46 efficiently colonized the intestinal tract of mice, similarly to the EAEC prototype strain 042 [
+
+Analysis of different portions of the intestines of the colonized mice showed that UPEC-46 could colonize the distal parts of the intestinal tract, mainly the colon. EAEC and other pathogenic
+
+The mouse model of ascending UTI has been used to characterize the uropathogenic potential of different
+
+EM analyses confirmed the relationship between adherence and TIF in the bladder. However, no adherence of UPEC-46 was observed in kidneys by SEM. We hypothesized that our inability to detect bacteria in this assay could be attributed to the low bacterial counts in the kidneys and/or to potential bacterial loss during the fragments´ processing. More extended infection periods could also be useful to study bacterial adherence/colonization in kidneys by SEM.
+
+In summary,
+
+Click here for additional data file.

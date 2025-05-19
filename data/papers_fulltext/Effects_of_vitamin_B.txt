@@ -1,0 +1,83 @@
+Cobamides, a group of B
+
+In nature, B
+
+Instead of MetH, some prokaryotes possess the B
+
+Interestingly, the basis of the AI-2 synthesis, as well as other QS compounds such as acyl-homoserine lactones (AHL), is methionine which is synthesized in the activated methyl cycle. Following the B
+
+While it is well known that B
+
+We hypothesize that the accessibility of B
+
+Growth experiments with
+
+Subsamples for bacterial cell enumeration were collected under sterile conditions, fixed with glutardialdehyde (Carl Roth, Germany) at a final concentration of 2%, incubated at 4°C for 30 minutes, and then stored at −20°C until analysis. SybrGreen I (Invitrogen, United Kingdom) as staining solution and TrueCountBeads (BD) for volume verification were added to samples which were then measured using a BD Accuri C6 cytometer (BD Biosciences, USA). Flow cytometer measurement was conducted as previously described (
+
+For the detection of AI-2, subsamples were collected at approximately 10 h intervals. The culture was filtered through a 0.22 µm polyethersulfone filter (Minisart, Sartorius, Göttingen, Germany) and stored at −20°C until analysis. The bioassay was conducted as described elsewhere (
+
+Briefly, reporter strain BB170 was cultured overnight at 30°C until it showed bright luminescence and was then diluted 1:10,000 in fresh AB medium. To each well, 10 µL of the filtered sample was added to 90 µL of the culture of the reporter strain. Samples were measured in biological triplicates every 30 minutes for 7 hours in black 96-well plates (BRANDplates, Brand, Wertheim, Germany) using a TECAN plate reader. In addition, a positive control (cell-free exudate of AI-2-producing
+
+To be mentioned here is the fact that with the AI-2 bioassay, there can be variability due to inconsistent normalization between references by using different media matrices (
+
+Publicly available genomes were downloaded (accessed on 23 November 2022) from the Joint Genome Institute’s Integrated Microbial Genomes with Expert Review database (JGI/IMG/MER,
+
+Cobalamin biosynthesis pathway genes, included in “KEGG-porphyrin and chlorophyll metabolism” and genes of the activated methyl cycle (
+
+For RNA extraction, subsamples were withdrawn under laminar flow in the early exponential phase and pelleted at 2,800 g for 5 min. After removal of the supernatant, the pellet was shock frozen in liquid nitrogen and stored at −80°C until further analysis. Cell pellets were thawed and mixed with 15 mg/mL lysosome and incubated at 20°C for 30 min. RNA was then isolated following the instructions given for the RNeasy kit (Qiagen, Hilden, Germany) and purified using the RNeasy MinElute Cleanup Kit (Qiagen).
+
+The RNA sequencing analyses were carried out by DNASense (Aalborg, Denmark). In short, the concentration of RNA in each sample was measured in duplicate using the Qubit HS RNA assay. RNA quality and integrity were confirmed for each sample using TapeStation with RNA ScreenTape (Agilent Technologies). Depletion of the samples was performed via Illumina RiboZero Plus kit (Illumina). For sequencing preparation, the NEB Next Ultra II RNA library preparation kit (New England Biolabs) was used according to the manufacturer’s instructions. Library concentrations were measured with Qubit HS DNA assay, and library size was estimated with TapeStation D1000 ScreenTapes (Agilent Technologies). Finally, each sample was pooled in equimolar concentrations and paired-end sequenced (2 × 150 bp) on a NovaSeq 6000 system (Illumina, USA).
+
+Illumina reads were quality checked, and low-quality regions, as well as adaptor sequences, were trimmed using Trimmomatic (
+
+Transcriptomic sequences generated in this study were deposited in European Nucleotide Archive (ENA) at EMBL-EBI with the accession number
+
+During mid (42–52 h), late exponential (52–66 h), and early stationary phase (76–90 h), subsamples were withdrawn for the analysis of intra- and extracellular B
+
+In short, extraction of extracellular B
+
+For intracellular analysis, pellets were resuspended in methanol and homogenized in a bead beater. The extraction was repeated twice. After centrifugation, the supernatant was separated from the bacterial cell pellet, and the solvent was evaporated under a stream of nitrogen gas. All other steps were conducted as described in reference
+
+Bacteria that encode both B
+
+Genetic potential of the activated methyl cycle and description of the operon encoding
+
+We discovered a feature in 82% of all
+
+Moreover, we observe significant differences in the B
+
+Growth curve of
+
+Extra- and intracellular B
+
+Our LC-MS analysis also captured the lower ligand of B
+
+The AI-2 in the exometabolome of
+
+Extracellular autoinducer-2 concentrations detected during growth of
+
+B
+
+Illustration of a
+
+In turn, the provision of B
+
+Encoding both
+
+With B
+
+Contrary to previous studies suggesting B
+
+In contrast, B
+
+In our study,
+
+The efficiency of methionine synthesis efficiency strongly depends upon the encoded methionine synthase, as the B
+
+We speculate if less methionine is synthesized upon B
+
+This possible link between B
+
+Multiple studies have shown that increased B
+
+The evolutionary origins of such a relationship between B

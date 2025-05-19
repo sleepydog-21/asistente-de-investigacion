@@ -1,0 +1,11 @@
+{
+  "id": "39020255",
+  "title": "Regulatory role of VvsB protein on serine protease activity of VvsA in Vibrio vulnificus.",
+  "doi": null,
+  "authors": "Kawase T, Debnath A, Okamoto K",
+  "journal": "FEMS microbiology letters",
+  "year": "2024",
+  "abstract": "Vibrio vulnificus NCIMB2137, a Gram-negative, metalloprotease negative estuarine strain was isolated from a diseased eel. A 45 kDa chymotrypsin-like alkaline serine protease known as VvsA has been recently reported as one of the major virulence factor responsible for the pathogenesis of this strain. The vvsA gene along with a downstream gene vvsB, whose function is still unknown constitute an operon designated as vvsAB. This study examines the contribution of VvsB to the functionality of VvsA. In this study, VvsB was individually expressed using Rapid Translation System (RTS system), followed by an analysis of its role in regulating the serine protease activity of VvsA. The proteolytic activity of VvsA increased upon the addition of purified VvsB to the culture supernatant of V. vulnificus. However, the attempts of protein expression using an E. coli system revealed a noteworthy observation that protein expression from the vvsA gene exhibited higher protease activity compared to that from the vvsAB gene within the cytoplasmic fraction. These findings suggest an intricate interplay between VvsB and VvsA, where VvsB potentially interacts with VvsA inside the bacterium and suppress the proteolytic activity. While outside the bacterial milieu, VvsB appears to stimulate the activation of inactive VvsA. The findings suggest that Vibrio vulnificus regulates VvsA activity through the action of VvsB, both intracellularly and extracellularly, to ensure its survival.",
+  "source": "PubMed",
+  "pmcid": "PMC11272048"
+}

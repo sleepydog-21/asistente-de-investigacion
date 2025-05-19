@@ -1,0 +1,105 @@
+Differential gene expression underlies cellular state and manifold vital processes, including development, differentiation and adaptation. By necessity, the transcription of DNA into the coding mRNA and its downstream translation into polypeptide chains at the ribosome are hence subject to finely calibrated regulation mechanisms acting at multiple stages. Not least due to their comparatively simpler subcellular architecture, prokaryotes resort to a different set of gene-regulatory mechanisms than eukaryotes.
+
+Irrespective of the exact mechanism, means of precisely and stringently regulating bacterial gene expression are also of overarching importance for various use cases in microbial biotechnology, ranging from the routine, e.g. the heterologous expression for protein production, to the more complex, e.g. diverse applications in synthetic biology and materials science (
+
+Many of these regulatory mechanisms play out at the mRNA level. As a case in point, certain proteins, e.g. ANTAR receptors, mediate transcriptional antitermination by binding to specific sequence and secondary-structure motifs within the nascent mRNA (
+
+A widely used principal regulatory mechanism involves controlling the access to the RBS/SD region via modulation of the mRNA secondary structure. If this region is sequestered in a base-paired region, ribosome binding is hindered, and expression reduced. For instance, as one mode of action, the RNA-binding protein CsrA employs this strategy to gate translation initiation (
+
+In a similar vein, certain small regulatory RNAs (sRNA) can base-pair to the mRNA in
+
+Biotechnological applications commonly require the precise control of bacterial gene expression upon delivery of a trigger signal. With light as the trigger, expression control can be exerted reversibly, noninvasively, with acute resolution in time and space, and in automatable fashion (
+
+As alluded to above, the most important lever for the optogenetic expression control in bacteria is transcription initiation. Apart from circuits regulating this step by second-messenger formation (
+
+Although the optogenetic regulation of transcription initiation excels in potency and versatility, control points downstream of transcription provide viable alternatives and additions. Integrating several control layers may achieve finer-graded, multi-tiered, and stratified responses, for example for the parallel regulation of several gene products at once. Some years back, the discovery of the LOV receptor PAL in
+
+Beyond utility for optoribogenetics in mammalian cells (
+
+Here, we apply
+
+The earlier pCrepusculo-
+
+The riboptoregulator (RoR) strategy for activating bacterial gene expression at the mRNA level by blue light. (
+
+To develop riboptoregulator circuits with enhanced properties, the RoR0 and RoR12 variants were subjected to random mutagenesis. To this end, the 5′-UTR upstream of the
+
+The response to blue light of the diverse riboptoregulator and pAurora variants was determined by monitoring the fluorescence of a
+
+The light-dose response of select optoribogenetic circuits was probed with a programmable eight-by-eight matrix of blue, green, and red LEDs emitting at (463 ± 12), (521 ± 14) and (624 ± 8) nm, respectively (
+
+where
+
+To determine the kinetics with which gene expression ramps up upon blue-light exposure, triplicate starter cultures of
+
+
+
+To assess the influence of blue light on bacterial growth and expression, triplicate bacterial starter cultures harboring either a pCDF-Duet empty vector or a positive-control plasmid that drives constitutive
+
+For single-cell fluorescence analyses,
+
+To explore novel modalities for optoribogenetic control, we derivatized the earlier pCrepusculo-
+
+Inspired by the seminal riboregulator design (
+
+To install sensitivity to light, we introduced the motif-3 aptamer into this stem loop such that the
+
+To put this design rationale to the test, we devised a first circuit variant with several mismatches, internal loops, and bulge loops (termed MM, IL, and BL, respectively) that deliberately introduce base-pairing defects into the
+
+We next set out to probe and optimize RoR performance by both rational and random approaches. In a first construct series, we individually closed the internal and bulge loops within the
+
+Next, we evaluated the effect of modifying the size of the motif-3 aptamer while maintaining the total length of the
+
+Lastly, we varied the distance between the motif-3 and SD regions within the
+
+We complemented the rational RoR variation by random mutagenesis using error-prone PCR and Gibson assembly (Figure
+
+Optimization of the RoR circuit by rational and random modifications. (
+
+We next applied the residue exchanges identified by random mutagenesis in the RoR0 background to the RoR12 context (Figure
+
+The iterative optimization of the riboptoregulator circuit pinpointed the variants RoRL and RoRH with low and high maximal expression levels, respectively, and both with dynamic ranges of light regulation exceeding 20-fold. To facilitate optoribogenetic deployment, we assessed the response to light of these circuits in more detail. First, we investigated the induction kinetics upon exposure to blue light. To this end, bacteria harboring either circuit were cultured in darkness before transfer to continuous blue light (470 nm, 60 μW cm
+
+Light-dependent regulation of bacterial expression by the riboptoregulators RoRL and RoRH. (
+
+Second, we examined the dose-response relationships of RoRL and RoRH by cultivating bacteria carrying these circuits under different blue-light intensities. The reporter fluorescence increased hyperbolically with half-maximal light intensities
+
+To assess whether blue light impacts on bacterial growth, we inspected the density of the bacterial cultures for the above illumination regimes (
+
+Beyond the above ensemble measurements, we also analyzed the RoRL and RoRH circuits at the single-cell level to assess the homogeneity of the population and its response to light exposure (Figure
+
+While the RoRL and RoRH circuits stringently activate bacterial expression under blue light, the dynamic range of regulation they attain pales in comparison to certain transcription-based optogenetic circuits which often achieve induction by several hundred-fold (
+
+A key advantage of the riboptoregulator strategy is its action at the mRNA level. We reasoned that this aspect might allow the differential control of individual genes within polycistronic operons that are the norm in bacteria. To test this concept, we devised bicistronic operons that combine the YPet and
+
+Integrated and multiplexed optogenetic control. (
+
+Another advantage of expression control at the mRNA level is that transcription is bypassed, and downstream effects may manifest faster than for transcription-based circuits. Moreover, circuits acting at the RNA level, such as pCrepusculo and the riboptoregulator, lend themselves to combinations with setups that target the DNA level. Capitalizing on this principle, we combined riboptoregulator circuits with existing setups for optogenetic expression control to arrive at integrated circuits with emergent and improved regulatory traits.
+
+We thus expanded the recent pREDusk system that downregulates bacterial expression in response to red light (
+
+As illustrated by the above example, circuit integration can benefit (optogenetic) regulation. The fundamental concept also holds true for combinations of circuits responding to the same light color which may be assembled to achieve ever-more stringent optogenetic expression control. This notion finds support in an elegant study that combined blue-light-sensitive circuits controlling target protein levels at the transcriptional, translational, and posttranslational stages to achieve regulatory dynamic ranges much exceeding those possible for the circuits deployed separately (
+
+We tested this concept by inserting the RoRH circuit upstream of the
+
+Not least to overcome this challenge, we analyzed the response of bacteria carrying pAurora2 to blue light at the single-cell level (Figure
+
+Our study adds to the growing arsenal of optoribogenetic circuits for light control at the RNA level (
+
+Regulation at the RNA level, optoribogenetic (
+
+These benefits may come to bear for modern applications of light-regulated bacterial gene expression in theranostics, biotechnology, and materials science (
+
+The riboptoregulator strategy devised at present generally applies to the deliberate tuning of bacterial expression. Put simply, we install light responsiveness in the riboregulators (
+
+
+
+In essence, the riboptoregulator may be regarded as an engineered riboswitch with an integrated aptamer domain that preferentially binds the light-adapted state of
+
+More broadly, the recent years have witnessed the emergence and vigorous refinement of diverse riboswitches, riboregulators, and other RNA-based circuits that can be now applied for gene regulation, synthetic biology, biomaterials, and synthetic cells, among other use cases (
+
+Our present investigation addresses this unmet demand by illustrating how the
+
+In common with other optogenetic technologies (
+
+In closing, we note that light-inducible gene expression represents the predominant modality in bacterial optogenetics (

@@ -1,0 +1,79 @@
+The bacterial Clustered Regularly Interspaced Palindromic Repeat (CRISPR) system and its associated proteins (Cas) are widely used for gene-editing applications (
+
+The microbiome of the human gastrointestinal (GI) tract can exert profound influences on health and disease through changes in microbial composition or metabolic activity (
+
+In the context of the human microbiome, one relevant metabolic activity that has a variable bacterial distribution is β-glucuronidase (GUS) enzymes in Psuedomonadota, Bacillota and Bacteroidota that cleave glucuronic acid from a variety of compounds for use as a carbon source (
+
+Strategy to regulate dCas9 with ligand-responsive transcription factors. (
+
+Here, we develop a strategy to restrict dCas9 activity to relevant bacteria by genetically linking its expression to the metabolic pathway that is the intended target of down regulation, and use the GUS system as proof-of-principle. We genetically coupled dCas9 to the
+
+
+
+A list of primers is provided in
+
+Single strand DNA oligonucleotides were ordered from IDT: top strands with sequences 5’-CACGN
+
+pBAD-dCas9 plasmids and pGreg-GusR-dCas9.7 plasmids with sgRNA
+
+For determination of GUS-status on solid media, cultures of each strain were spot-plated onto LB agar plates supplemented with 40 µg/ml X-Gluc (5-bromo-4-chloro-3-indolyl-β-
+
+Three biological replicates were performed from three separate transformations of pBAD-dCas9 plasmids into
+
+Total RNA samples were sent to the London Regional Genomics Centre for RNA-sequencing. The RNA quality was assessed using the Agilent 2100 Bioanalyzer, and then rRNA reduction was performed and indexed libraries were created. The libraries were sequenced using the Illumina NextSeq High Output 75 cycle sequencing kit with single end reads. Reads were trimmed with Trimmomatic version 0.36 with options LEADING:10 TRAILING:10 (
+
+Samples were resolved on SDS-polyacrylamide gels (8% for dCas9/GusA blots or 15% for GusR blots) and electroblotted to a polyvinylidene difluoride (PVDF) membrane using a Trans-Blot Turbo Transfer System (Bio-Rad). All incubations and washes were performed with gentle agitation on a rocking platform. Membranes were incubated for 1 h in blocking solution (3% bovine serum albumin (BSA), 0.1% Tween-20, Tris-buffered saline (TBS: 150 mM NaCl, 50 mM Tris–HCl, pH 7.5)) before adding primary antibody at a 1:1000 final dilution. Anti-Cas9 rabbit polyclonal primary antibody (Rockland, 600-401-GK0S) was used for dCas9 blots, anti-β-glucuronidase N-terminal rabbit polyclonal primary antibody (Sigma-Aldrich, G5420) was used for GusA blots, and anti-HA-tag rabbit monoclonal primary antibody (Invitrogen, MA5-27915) was used for GusR blots. Membranes were incubated overnight at 4°C, washed 3 times for 10 min each (1% BSA, 0.1% Tween-20, TBS), and then incubated with anti-rabbit (Sigma-Aldrich, GENA9340) horseradish peroxidase-linked secondary antibody for 2 h at a 1:5000 final dilution in washing solution. Membranes were then washed in TBS with 0.1% Tween-20 for 10 min three times, followed by one wash for 10 min in TBS. Blots were developed using Clarity ECL western blotting Substrate (Bio-Rad) following the manufacturer’s instructions and imaged with a ChemiDoc XRS+ System (Bio-Rad).
+
+Saturated overnight cultures of donor
+
+We designed two plasmid-based systems (Figure
+
+Repression of GusA activity in
+
+We examined dCas9 expression in cell extracts of the GUS-positive
+
+We next used the plasmid-based systems to examine the impact of 74 different sgRNAs that were tiled along the
+
+We also designed a non-repetitive sgRNA array (
+
+The impact of CRISPRi on
+
+RNAseq analysis of global gene expression changes in
+
+Encouraged by our findings that glucuronides can positively regulate expression of dCas9, we sought to improve on the pGreg-dCas9 design by including the GusR transcriptional repressor on the dCas9 plasmid, creating pGreg-GusR-dCas9 (Figure
+
+GusR-regulated dCas9 expression. (
+
+Our original pGreg-GusR-dCas9.0 construct used a constitutive Anderson promoter (BBa_J23118) to drive GusR expression. With this construct, and in the absence of a co-expressed sgRNA, we observed very low levels of GusA activity in
+
+We swapped out the regulatory region upstream of GusR with different combinations of promoter elements, mutated ribosome-binding sites, and non-AUG start codons to reduce GusR expression and increase dCas9 expression (
+
+To provide further evidence that GusR is directly responsible for regulating dCas9 expression, we deleted the high affinity
+
+We next examined pGreg-GusR-dCas9.7 repression of GusA utilization of the glucuronidated form of irinotecan (SN-38G) using cell extracts of
+
+Taken together, these data show that addition of GusR to pGreg-dCas9 provides an additive effect to that of dCas9 for repression of GusA activity. In particular, pGreg-dCas9 can suppress GusA utilization of SN-38G compound to background levels similar to those observed with an
+
+We next examined both pGreg-GusR-dCas9 and pBAD-dCas9 expression in different GUS-positive and GUS-negative enteric bacteria (Figure
+
+dCas9 expression with pGreg-GusR-dCas9.7 is limited to GUS-positive bacteria. (
+
+We also examined GusA activity in exconjugants with pGreg-GusR-dCas9.7 or pBAD-dCas9. When sgRNA
+
+To determine whether pGreg-GusR-dCas9.7 could repress GusA activity in a mixed bacterial community, we combined the
+
+Repression of GusA in mixed cultures. (
+
+The ability to selectively regulate gene expression in bacteria containing the genetic machinery for metabolically relevant pathways within a microbial community can provide greater insight into the role of bacterial metabolism in human health and disease, and in other biological settings. The ease of targeting dCas9 to different sequences by simply changing the sgRNA sequence makes it an attractive tool to modulate metabolic activity. Indeed, dCas9 has been used to control gene expression in microbiomes by strategies such as species-specific promoters or inducible promoter systems that regulate dCas9 expression. Yet, these strategies cannot discriminate between bacteria with different metabolic capabilities simply because they provide no mechanism to limit dCas9 expression only to bacteria with a specific metabolic capacity. Linking dCas9 activity to the presence of a metabolic pathway provides more precise control of microbial metabolism, and potentially limits dCas9 off-target effects and the emergence of dCas9 inactivating mutations.
+
+In this proof-of-concept study, we took advantage of the variable distribution of GUS enzymes in bacteria to genetically link dCas9 expression to the presence of the GUS pathway by re-purposing the GusR glucuronide-responsive transcription factor. A recent study suggested that over 100 xenobiotic medications may be substrates for GUS enzymes (
+
+Our data shows that plasmids with the GusR regulator (the pGreg-GusR-dCas9 series) provide an additional dCas9-independent repressive effect on GusA activity due to high GusR protein levels. This is most evident with the pGreg-GusR-dCas9.0 plasmid, where
+
+Bacteria possess a multitude of ligand-responsive transcription factors that respond to the intra- and extra-cellular environment to regulate gene expression. Many of these systems are uncharacterized (
+
+In summary, our results inform a general strategy to specifically link dCas9 expression to metabolic activities in relevant bacteria by re-purposing ligand-responsive transcription factors as biosensors. Our conjugative-plasmid delivery strategy does not require engineering of synthetic circuits in bacterial genomes, and could be applicable in a wide range of microbial communities.
+
+The RNAseq dataset generated in this study has been deposited in the Short Read Archive with the accession code PRJNA862923.
+
+Click here for additional data file.

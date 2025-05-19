@@ -1,0 +1,129 @@
+Bacteria encounter a multitude of mobile genetic elements (MGEs) in various environments
+
+To prevent MGE mobility, different immune systems have evolved to target specific stages of the horizontal gene transfer process (recently reviewed in ref.
+
+Interestingly, since the immune systems carried by MGEs could somehow affect their own transfer, MGEs should encode counter-defense systems clustered within their genomes to circumvent the cognate immune strategies. Despite the abundance of immune systems in MGEs
+
+Among MGEs, phage-inducible chromosomal islands (PICIs) are prevalent, small (~10–15 kb) chromosomally integrated elements found in more than 200 species, with many strains containing multiple of these elements
+
+Here we have identified a unique family of immune systems prevalent not only in PICIs but also in other families of MGEs, including prophages and P4-like phage satellites, among
+
+We previously demonstrated that PICIs can encode immune systems at either the 5’ or 3’ ends of these elements
+
+Supporting our hypothesis, both genes conferred resistance against multiple phages (Fig.
+
+After establishing the role of Tai genes in immunity, we decided to examine whether this immune system was widespread in bacteria. Initially, we searched specifically for homologs of
+
+Next, we sought to determine the genomic context carrying these genes. Notably, we found that most of these homologs were carried by phages (moron loci), while just a small subset was encoded by phage satellites, specifically P4-like elements and PICIs (Fig.
+
+We next tested whether other Tai variants, located within phages, could mediate anti-phage immunity. We analyzed the phage variants since Tai systems are predominantly present in these MGEs. We named the different systems based on their species of origin and the specific version tested. Thus, TaiEcA means it is from
+
+To test whether the Tai systems act at the cellular or population levels, we infected the recipient strains expressing the different Tai systems in liquid media with phages HK544 or HK578, and measured cell survival after phage infection. In these experiments, we used different multiplicities of infection (MOI; 0.1, 1, and 10). While the strain containing the empty plasmid completely lysed after infection, the strains that expressed the Tai-like homologs did not reveal significant lysis when the cells were infected at an MOI of 0.1. However, when higher MOI was used, these strains were partially (MOI of 1) or completely lysed (MOI of 10) after infection (Supplementary Fig.
+
+Next, we decided to test the population mechanism of defense in a natural scenario, and the TaiEcA version was selected in these experiments for two reasons: (i) TaiEcA is encoded by the prototypical
+
+To dissect Tai’s function, we conducted evolutionary experiments involving different phages and Tai systems (Supplementary Table
+
+For the P22 and HK620 phages that evolved against TaiEcC, the mutation was found in the C-terminal region of the tail needle gp26 protein (Fig.
+
+Superinfection exclusion systems operate at the membrane level, preventing the penetration of incoming dsDNA phage. To test whether the Tai proteins block phage injection, we performed Southern blot analyses to examine whether the phage HK106 could inject its DNA and replicate in the presence of the phage 80-encoded TaiEcA protein. We observed that phage HK106 replicated to the same extent in the presence or absence of TaiEcA (Supplementary Fig.
+
+Next, we investigated whether the immune systems inhibit tail formation. To test this, we purified HK106 and HK544 phage particles obtained in the presence or absence of different
+
+Electron microscopy imaging of the lysates obtained after MC-induction of the HK106, HK544, or P27 lysogenic strains in the absence (pBAD18 empty) or presence of phage-encoded (
+
+Next, we decided to analyze the effect of TaiEcC on phage P27 progeny using the same methodology as for phages HK106 and HK544. Note that the P27 phage belongs to a different phage family (previously known as
+
+While the tail and head assemblies occur independently in HK106, HK544, and P27 phages, in phages P22 and HK620, the tail components assemble directly into the capsid particle. Three genes,
+
+Analyzing the pattern of inhibition by different immune systems (Fig.
+
+One of the new phi80 versions, carrying a deletion in the region encompassing genes
+
+Interestingly, despite the severe reduction in phage titer observed after induction of the phi80 ∆
+
+To confirm that
+
+Finally, we tested whether the counter-defense could bind to the immune gene, preventing the immune function. We observed protein-protein interaction between the TaiSalB and AtiSalB versions. Thus, we hypothesize that each anti-Tai will bind to its cognate Tai version to inhibit its function (Supplementary Fig.
+
+Our previous observations revealed that phi80 mediates phage HK106 interference through TaiEcA (Orf63) expression (Fig.
+
+To verify if TaiEcA is expressed in the lysogen, we engineered a phi80 prophage capable of expressing a 3x-flagged version of the TaiEcA protein. Simultaneously, we aimed to generate a phi80 prophage expressing a tagged version of AtiEcA (ORF64). However, the size and localization of AtiEcA in the phage genome posed challenges for this approach. To overcome this issue, we analyzed the expression of another protein whose gene is located in the same operon as the gene encoding the AtiEcA protein. Phi80 and phage λ have identical packaging modules, and their expression is controlled by the Q protein
+
+Next, we MC induced the lysogenic strain for phi80, carrying the modified 3x-flagged
+
+To confirm that the expression of Orf6 is controlled by the Q protein, we introduced the pBAD18 plasmid, either empty or encoding for Q, into the aforementioned lysogenic strain for phi80 (3x-flag-
+
+Prokaryotic immune systems are diverse, and recent studies have highlighted that they are encoded not just in the bacterial chromosomes but also in MGEs. While bacteria and MGEs employ these immune systems to protect themselves against MGE infections, the immune systems encoded within MGEs are also used for inter-MGEs competition
+
+Our study reveals a unique family of immune systems, named Tai (
+
+Although we only characterized some Tai versions, our data suggests a common strategy for all of them by interfering with a key component of the tail assembly pathway. This convergent strategy is employed by different Tai immune versions, even though they share low identity in protein sequence. For HK106 and HK544 phages, a platform called the tail tip complex is used to self-assemble the tail tube and to attach fibers and receptor-binding proteins, producing the tail component
+
+Strikingly, we observed that the TaiEcC homolog is able to target phages with different tail morphology (P22, HK620, and P27 phages). Although we only overcame immunity for P22 and HK620, we observed that the target is the tail needle protein. These phages directly assemble the tail components into the capsid particle, and the tail needle protein has a dual function: (i) plugging the dsDNA exit channel, and (ii) penetrating the host outer membrane. In this scenario, phages that lack the tail needle protein are incapable of infecting new hosts, and since the tail needle also plugs the dsDNA, it can be loosened as suggested by our data (Supplementary Fig.
+
+While the tested Tai immune systems target lambdoid phages, it is surprising that the prototypical member of the lambdoid phages, λ, is not inhibited by any of the Tai immune systems tested so far. We could speculate that phage λ has evolved to encode a different J protein to avoid interaction with the various Tai immune systems. Similarly, phage HK97, which has a longer C-terminal region on the central tail fiber gene (Supplementary Fig.
+
+Recent studies have identified several bacterial immune systems that sense phage structural components. Some systems, such as SEFIR
+
+Immune systems recognize conserved pathways or components, and the presence of the different Tai immune system versions in phages suggests that those phages must have evolved to avoid autoimmunity by either adapting the conserved process/component or encoding a counter-defense system. Notably, despite the abundance of immune systems encoded by MGEs, only a few examples of associated counter-defense have been documented
+
+Interestingly, for the Tai immune system described so far, the counter-defense is only produced during the phage lytic cycle. This behavior is due to the nature of the immune system target, as it is only produced in the lytic cycle. Therefore, the phage only requires activating its counter-defense once it enters the lytic cycle for its propagation. In addition, the immune and counter-defense genes are encoded together in a noncontiguous operon. This genetic structure allows the regulation of both genes, with the immune system constitutively expressed and the counter-defense expressed only when required. Remarkably, the importance of noncontiguous operons in controlling the coordinated expression of the immune systems and their counter-defense mechanism has been unappreciated until recently. Recently, it has been shown that
+
+Because MGEs are a rich source of immune systems, we anticipate that novel immune systems blocking other structural component pathways will be discovered. This is an elegant strategy to block competing MGEs, as these unique systems will be able to target different phages at the same time with structurally related proteins. Moreover, to overcome autoimmunity, we predict that these new immune systems will encode their associated counter-defense, many of these pairs being encoded on noncontiguous operons. Finally, it has been recently proposed that both the mechanism that provides immunity, as well as those that prevent immunity, should be included as an intrinsic part of the phage life cycle
+
+Bacterial strains, phages, plasmids, and oligonucleotides used are listed in Supplementary Tables
+
+The plasmids generated in this study (Supplementary Table
+
+For
+
+For
+
+For 3xflag phage engineering, the site-directed scarless mutagenesis was performed to obtain the 3xflag-
+
+For
+
+For
+
+For
+
+For plasmid or phage transductions, a 1:50 dilution (in fresh LB) of an overnight recipient strain was grown until an OD
+
+Phages were subjected to consecutive rounds of infections until isolated phage mutants could form clear plaques on strains expressing the corresponding immune systems. Note that the phage titer is reduced, and they produce small plaques on the different immune systems. The phage plaques obtained after infection versus an immune system were collected in a tube containing 3 mL of phage buffer. Afterward, tubes were centrifuged at 5000 ×
+
+Whole genome sequencing was performed at Microbes NG using Illumina, obtaining 2 × 250 bp pair-end reads, or at SeqCenter company (USA) using Illumina NextSeq 2000 platform, obtaining 2 × 151 bp pair-end reads. A minimum size of 200 Mbp sequencing package was obtained. Microbes NG performed a standard analysis pipeline, in which they identified the closest available reference genome using Kraken and mapped the reads to this reference genome using BWA mem to assess the quality of the data. Then, they performed a de novo assembly of the reads using SPAdes and mapped the reads back to the resultant contigs. Contigs obtained from Microbe NG analysis were compared to the phage WT genome to identify the nucleotide change. Trimmed reads from SeqCenter were mapped to the appropriate genome and were compared to the phage WT genome to identify the nucleotide changes.
+
+For
+
+Overnight cultures of recipient strains 594, 594 phi80, and 594 phi80 Δ
+
+Following phage infection, one milliliter of each sample was taken at defined time points and pelleted. Samples were frozen at − 20 °C until all time points were collected. Then, samples were re-suspended in 50 μL lysis buffer (47.5 μL TES-Sucrose and 2.5 μL lysozyme [10 μg mL
+
+To analyze the phage particles by transmission electron microscopy (TEM), a large-scale induction was performed to precipitate and CsCl purify the phage particles. Briefly, a total of 100 mL of the corresponding lysate was produced by MC and arabinose induction. Then, lysates were filtered using sterile 0.2 μm filters and treated with RNase (1 μg mL
+
+The P27 phage was analyzed with slight changes to the procedure outlined above. Briefly, a total of 1 L lysate was produced by MC and 0.3% arabinose induction. The phage solution was cleared and precipitated as described above and solubilized in 4 ml of phage buffer. Resuspension was loaded on CsCl step gradient (1.2 g/ml, 1.4 g/ml, 1.6 g/ml) followed by ultracentrifugation 90,000 ×
+
+For phi80 derivative with 3xflag-
+
+To identify more variants of the Tai immune system, we performed a PSI-BLAST, using TaiPectA and TaiPectB as a template and later other Tai versions, versus the NCBI database (with standard parameters, E value < 0.05). Those positive hits were manually analyzed to corroborate that they form part of the Tai immune system and compiled in Supplementary Table
+
+The structure models of proteins from different immune systems and the central tail fiber were generated using the AlphaFold Colab server. Predicted structures were compared using the structural multi-alignment server PROMALS3D.
+
+The BACTH assay for protein-protein interaction was conducted as previously described
+
+For all quantitative data, three biological replicates were performed in accordance with standard practices in the field. For Southern blots, Western blots, and EM images, one or two replicates were performed. Sample sizes are indicated in the corresponding figure legends. Data are presented as mean ± standard deviation. All statistical analyses were performed as indicated in the figure legends using GraphPad Prism v.10.1.1 software. One-way ANOVA with Dunnett’s multiple comparisons test was applied to compare three or more groups. An unpaired t-test was performed to compare the two groups. The statistical value for each experiment is listed in Supplementary Table
+
+Further information on research design is available in the
+
+
+
+Supplementary information
+
+Peer Review File
+
+Reporting Summary
+
+
+
+Source Data

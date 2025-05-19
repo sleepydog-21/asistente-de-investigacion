@@ -1,0 +1,77 @@
+IncR replicons generally have conserved skeletons, with regions responsible for plasmid replication, maintenance, and stabilization, including
+
+The isolate KPN945, isolated from a southwest teaching hospital, harbored
+
+A CRKP isolate, designated as KPN945, was collected from a teaching hospital in Southwest China. The isolates were identified using MALDI-TOF-MS (German, Bruker). The broth microdilution method was used to determine the MIC of ceftazidime (CAZ), meropenem (MEM), ertapenem (ETP), imipenem (IPM), aztreonam (ATM), CZA, tetracycline (TET), penicillin (PEN), ampicillin (AMP), piperacillin (PIP), cefazolin (CFZ), cefuroxime (CXM), gentamicin (GEN), levofloxacin (LVX), chloramphenicol (CHL), polymyxin B (PMB), and tigecycline (TGC). The standard strain
+
+Efflux pump inhibition tests were conducted on drug-resistant strains to assess the contribution of the efflux pump to drug resistance. The efflux pump inhibitor was 1-(1-naphthyl methyl)-piperazine (NMP, 100 mg/L) (China, Alfa Aesar). If the MIC of an antimicrobial combined with NMP was reduced by fourfold or more compared with that of the antimicrobial alone, it indicated efflux pump works.
+
+The modified carbapenemase inactivation method (mCIM) and EDTA-modified carbapenemase inactivation method (eCIM) were employed according to the (
+
+The DNA of isolate KPN945 was extracted by boiling pyrolysis. The general procedure is to pick a loop of bacteria and add 500 µL of sterile water and mix, centrifuge at 12,000
+
+The hypermucoid phenotype of isolate KPN945 was assessed using the string test. A single purified colony was picked from a blood plate with an inoculation loop. If the length of the viscous string of the colony was longer than 5 mm, the string test was considered positive (
+
+The
+
+As previously described (
+
+The horizontal transfer ability of the pKPN945B plasmid carrying
+
+The
+
+The growth kinetics of the ATCC13883 (RIF
+
+The genomic DNA of KPN945 was extracted using the Wizard Genomic DNA Purification Kit (Promega) according to the manufacturer’s protocol. Purified genomic DNA was quantified by TBS-380 fluorometer (Turner BioSystems Inc., Sunnyvale, CA). The genomic DNA of isolate KPN945 was sequenced using a combination of PacBio Sequel II and Illumina sequencing platforms. The prepared libraries then were used for paired-end Illumina sequencing (2 × 150 bp) on an Illumina Novaseq6000 machine. For PacBio sequencing, an aliquot of 10 µg DNA was spun in Covaris G-tubes (Covaris, MA) at 6,000 rpm for 60 s using an Eppendorf 5424 centrifuge (Eppendorf, NY). DNA fragments were then purified, end repaired, and ligated with SMRT bell sequencing adapters following the manufacturer’s recommendations (Pacific Biosciences, CA). The resulting sequencing library was purified three times using 0.45× volumes of Agencourt AMPure XP beads (Beckman Coulter Genomics, MA) following the manufacturer’s recommendations. Next, a ~10-kb insert library was prepared and sequenced on one SMRT cell using standard methods.
+
+The raw Illumina sequencing reads generated from the paired-end library were subjected to quality filtering using fastp v0.23.0. The raw sequencing reads generated from the PacBio platform were processed using SMRT Analysis v2.3.0. Then, the clean short and long reads were coassembled to construct complete genomes using Unicycle v0.4.8 (
+
+The antimicrobial resistance genes, virulence genes, plasmid replicon typing, and Multi-locus sequence typing (MLST) of the isolates were analyzed on
+
+In brief, single-purified colonies of the target strain were inoculated into 5 mL of LB broth and grown to the log phase. RNA extraction was carried out according to the manufacturer’s instructions (Magen, China). Then, the isolated total RNA was reverse transcribed using a High-Capacity cDNA Reverse Transcription Kit. The quantitative reverse transcription-PCR (qRT-PCR) primers used in this study are listed in Table S1. The
+
+Isolate KPN945 was resistant to β-lactam antibiotics, including carbapenems, while remaining susceptible to aminoglycosides (GEN), fluoroquinolones (LVX), CHL, TET, PMB, and TGC (
+
+Results of antimicrobial susceptibility test, serum killing resistance, and pathogenicity of KPN945. (
+
+The difference in inhibition zone between mCIM and eCIM was >5 mm, suggesting that isolate KPN945 carried MBLs (Table S2). Subsequently, PCR and Sanger sequencing confirmed the presence of
+
+Isolate KPN945, belonging to the K23-ST20 lineage, exhibited non-mucoid colonies on blood agar plates. Although it was negative for the string test (the length of viscous strings < 5 mm), it was highly resistant to serum killing (
+
+Microbiological characteristics from the isolate KPN945
+
+/- not detected.
+
+We conjugate the drug-resistant plasmid into
+
+The total length of the KPN945 genome is 5,511,741 bp, consisting of a chromosome backbone (5,205,392 bp) harboring
+
+Genomic feature of the isolate KPN945
+
+NA, not applicable.
+
+/- not detected.
+
+Although pKPN945B carried
+
+According to ResFinder 4.1, KPN945 was found to have mutations in OmpK36 and OmpK37, and OmpK36 (A217S) and OmpK37 (I70M, I128M) mediated carbapenem resistance, indicating that
+
+KPN945 carries a total of three plasmids, and we focused on the analysis of one of them, pKPN945B. pKPN945B is a 78,707-bp circular plasmid with 50.19% GC content, belonging to the IncR replicons and carrying multiple determinants of resistance (
+
+Genetic environment of
+
+The
+
+The pKPN945B belonging to the IncR replicon does not carry
+
+The modes of DNA replication include rolling circle replication and θ replication. Many plasmids replicate autonomously through a method called rolling circle replication. In this process, a replication initiator protein binds to a section of the double-stranded DNA called the origin of replication or
+
+Although we did not detect common virulence-related genes on the plasmid, we found that plasmid pKPN945A belonged to the IncHI1B/IncFIB(K) incompatibility group, with a total length of 225,147 bp and a GC content of 51.04%. IncHI1B/IncFIB(K) replicons were generally associated with pLVPK-like plasmids (
+
+We downloaded the whole genome sequences of 117
+
+Phylogenetic tree of 118 isolates harboring
+
+The prevalence of
+
+In conclusion, we report a hypervirulent CRKP carrying

@@ -1,0 +1,11 @@
+{
+  "id": "39488524",
+  "title": "The biogeography of soil microbiome potential growth rates.",
+  "doi": null,
+  "authors": "Zhou Z, Wang C, Cha X, Zhou T, Pang X, Zhao F, Han X, Yang G, Wei G, Ren C",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "Soil microbial growth, a vital biogeochemical process, governs both the accrual and loss of soil carbon. Here, we investigate the biogeography of soil microbiome potential growth rates and show that microbiomes in resource-rich (high organic matter and nutrients) and acid-neutral soils from cold and humid regions exhibit high potential growth. Conversely, in resource-poor, dry, hot, and hypersaline soils, soil microbiomes display lower potential growth rates, suggesting trade-offs between growth and resource acquisition or stress tolerance. In addition, the potential growth rates of soil microbiomes positively correlates with genome size and the number of ribosomal RNA operons but negatively correlates with optimum temperature, biomass carbon-to-phosphorus and nitrogen-to-phosphorus ratios. The spatial variation of microbial potential growth rates aligns with several macroecological theories. These findings not only enhance our understanding of microbial adaptation to diverse environments but also aid in realistically parameterizing microbial physiology in soil carbon cycling models.",
+  "source": "PubMed",
+  "pmcid": "PMC11531530"
+}

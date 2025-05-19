@@ -1,0 +1,59 @@
+The genus
+
+A crucial component of the metabolic connection between glycolysis and the citric acid cycle is the pyruvate dehydrogenase (PDH) multienzyme complex [
+
+Aside from the
+
+The O
+
+In summary, we demonstrated that PdhR directly negatively regulates the expression of
+
+In
+
+In this study, the transcriptome profiles of the WT and Δ
+
+We realized that PdhR may have an influence on
+
+Previously, there was no pertinent research that mentioned PdhR’s impact on bacterial pathogenicity. However, we discovered that the Δ
+
+Based on previous research and the PdhR binding sites (
+
+Currently, RegulonDB (
+
+In the current investigation, we revealed the PdhR-controlled pathways and our proposal regarding the major regulatory pathways regulated by PdhR in
+
+The human pathogen
+
+Contrary to the findings of our study, previous research reported that PdhR represses flagellar synthesis and motility by regulating the
+
+Gram-negative bacteria are known to use a wide range of virulence factors to subvert eukaryotic cell physiological systems, with the type three-secretion system (T3SS) being one of the most important. The T3SS is a needle-like device that the bacterium employs to inject a varied collection of effector proteins straight into the cytoplasm of host cells, where they can disrupt the host cellular machinery for a variety of reasons [
+
+The operon
+
+In addition to
+
+The prokaryotic proton-translocating NADH-quinone oxidoreductase (NDH-1) is an L-shaped membrane-bound enzyme that contains 14 subunits (NuoA-NuoN or Nqo1-Nqo14) [
+
+The Arc two-component signal transduction system, comprising the kinase sensor ArcB and its cognate response regulator ArcA, is one of the mechanisms that enable bacteria to adapt to changing oxygen availability [
+
+In summary, we revealed the PdhR-controlled pathways in the present study that support the key regulatory role of PdhR in
+
+In this study, the corresponding gene deletion mutants were constructed with the suicide plasmid pRE112 (sucrose-sensitive lethal) method, which uses the principle of homologous recombination [
+
+To explore the regulatory relationship between regulators and downstream genes, qRT-PCR was performed in the WT and gene deletion mutant strains. The overnight bacterial solution was transferred the following day at a 1:100 ratio to fresh medium at 37 °C with shaking until the bacteria had reached an OD600 of 0.6. Cells were collected by centrifugation at 4 °C, 9000×
+
+To identify pathways controlled by PdhR, RNA-Seq of the WT and the
+
+The motility assays were performed as described previously [
+
+The proteins for EMSAs in this study, ArcA and FNR, were cloned into pET-28a, expressed in
+
+The ChIP assay was performed as previously described with some modifications [
+
+The luminescence screening assay was performed as previously described [
+
+The dynamic growth experiment for the WT, Δ
+
+The invasion assay was carried out as previously described, with some modifications [
+
+Data were analyzed using GraphPad Prism v7.0 software (GraphPad Inc., La Jolla, CA, USA) [

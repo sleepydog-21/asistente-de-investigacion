@@ -1,0 +1,11 @@
+{
+  "id": "37193944",
+  "title": "Bifunctional protein ArsR",
+  "doi": null,
+  "authors": "Li C, Zong G, Chen X, Tan M, Gao W, Fu J, Zhang P, Wang B, Cao G",
+  "journal": "BMC microbiology",
+  "year": "2023",
+  "abstract": "Arsenic (As) with various chemical forms, including inorganic arsenic and organic arsenic, is the most prevalent water and environmental toxin. This metalloid occurs worldwide and many of its forms, especially arsenite [As(III)], cause various diseases including cancer. Organification of arsenite is an effective way for organisms to cope with arsenic toxicity. Microbial communities are vital contributors to the global arsenic biocycle and represent a promising way to reduce arsenite toxicity. Brevundimonas sp. M20 with arsenite and roxarsone resistance was isolated from aquaculture sewage. The arsHRNBC cluster and the metRFHH operon of M20 were identified by sequencing. The gene encoding ArsR/methyltransferase fusion protein, arsR The minimum inhibitory concentration of the roxarsone resistant strain Brevundimonas sp. M20 to arsenite was 4.5 mM. A 3,011-bp arsenite resistance ars cluster arsHRNBC and a 5649-bp methionine biosynthesis met operon were found on the 3.315-Mb chromosome. Functional prediction analyses suggested that ArsR We conclude that ArsR",
+  "source": "PubMed",
+  "pmcid": "PMC10190100"
+}

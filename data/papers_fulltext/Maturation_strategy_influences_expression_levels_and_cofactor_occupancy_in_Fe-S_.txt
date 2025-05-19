@@ -1,0 +1,127 @@
+Fe–S clusters are ancient and ubiquitous cofactors in proteins. They are involved in many essential biological processes, including oxidative respiration, photosynthesis, hydrogen production, nitrogen fixation, and DNA replication/repair. The most common species found in proteins are the rhombic [2Fe–2S] and the cubic [4Fe–4S] forms. They are predominantly coordinated by cysteine residues, however, other amino acids can also serve as ligands [
+
+Fe–S cofactors have played a significant role in the metabolism of the primordial cells, which were formed in an atmosphere with an extremely low oxygen concentration [
+
+A major challenge in the field is to obtain large amounts of homogenous protein sample of high purity and at high concentrations. The production of recombinant proteins is a straightforward approach to obtain large quantities of the desired protein.
+
+Another important consideration is the assembly and transfer of the cofactors to recombinantly produced proteins using the Fe–S biogenesis pathways of the host. Several different machineries for the maturation of Fe–S proteins are known. The iron–sulfur cluster (ISC) machinery is used for maturating housekeeping proteins under standard growth conditions in bacteria and eukaryotic mitochondria (reviewed in Lill 2009 [
+
+Several systems for the biogenesis of Fe–S clusters have been identified in bacteria and eukaryotes (Fig.
+
+Iron–sulfur cluster biosynthesis in
+
+For the recombinant production of Fe–S proteins, it must be considered that the recombinant gene is expressed to an abnormally and excessively high level, whereas the level of the Fe–S assembly proteins remains unchanged. Thus, the machinery may not be capable of keeping up with the production of the cofactor, which results in incomplete maturation. The amount of protein-bound Fe–S cluster in partially occupied proteins can be enhanced by chemical reconstitution, which is performed by treating the protein with an inorganic iron and sulfide source in the presence of a reductant [
+
+Previous studies have shown that co-expression of genes encoding Fe–S proteins with the
+
+In this study, we investigate seven different strategies for the production and maturation of recombinant Fe–S proteins.
+
+The enzyme 4-hydroxy-3-methylbut-2-enyl diphosphate reductase (IspH) from
+
+In addition to the three well-characterized enzymes, we selected another system that, to our knowledge, has not been maturated in vivo so far.
+
+The production of correctly assembled Fe–S cluster proteins remains a major challenge in the bioinorganic chemistry field. In this study, we compare seven different strategies for protein production and maturation: (i) expression in BL21(DE3); (ii) expression in BL21(DE3) and chemical reconstitution; (iii) expression in BL21(DE3) and semi-enzymatic reconstitution; (iv) co-expression in BL21(DE3) with pISC; (v) co-expression in BL21(DE3) with pSUF; (vi) expression in BL21(DE3) ∆
+
+Most structural and functional investigations rely on heterologous enzyme production. Several barriers for producing active enzymes in non-native hosts have been proposed, including inefficient transcription or translation. These obstacles can be overcome by engineering suitable constructs to increase the efficiency of gene expression. However, Fe–S enzymes face additional barriers, such as the incompatibility with foreign Fe–S biogenesis pathways. A recent study reported a systematic investigation of the ability of two Fe–S enzymes to retain activity within a foreign host [
+
+The genes
+
+For gene expression in
+
+For the maturation of the proteins using the operons of the Fe–S cluster assembly machineries, gene expression was performed in the cell strain
+
+Protein purification and all following procedures were carried out under strictly anaerobic condition in an anaerobic chamber with < 2 ppm O
+
+For the first step of the chemical reconstitution reaction, the reduction of the as-isolated protein with dithiothreitol (DTT), 100 µM protein solution was incubated with 1 mM DTT for 1 h on ice and then supplemented with 600 µM ferric ammonium citrate (FAC) and 600 µM Li
+
+For the semi-enzymatic reconstitution reaction, 100 µM protein solution was incubated on ice with 1 mM DTT for 1 h. Then, 20 µM
+
+Western blot analysis was performed to confirm the expression of the His
+
+To obtain the metal-to-monomer ratio of the isolated samples, we determined the protein concentration using the Bradford method [
+
+Electronic absorption spectra were collected using a Cary-60 spectrophotometer (Agilent Technologies, Ratingen, Germany) with 1 nm bandwidth, a scanning speed of 120 nm/min, and a 1 cm path length quartz cuvette at room temperature.
+
+CD spectra were collected using a Jasco J-815 Circular dichroism spectrometer (Jasco Germany, Pfungstadt, Germany) with a scanning speed of 100 nm/min and a bandwidth of 5 nm in a 2 mm path length quartz cuvette. An average of 20 scans was collected at 20 °C with 1 nm resolution. The spectra were processed with the Spectra Analysis software using the Adaptive-Smoothing function with the following parameters: convolution width 15, noise deviations 1. CD spectra of HEPES and Tris buffer were subtracted from protein spectra prior to the calculation of the molar ellipticity and plotting the data. Samples for CD spectroscopy were in a concentration range between 150 and 300 µM.
+
+To remove the His
+
+The aconitase activity was assayed with the Aconitase Assay kit (Sigma-Aldrich MAK337). Therefore, the conversion of citrate to isocitrate by the aconitase enzyme is measured. The assay reaction mix includes the substrate citrate, NADP and MTT dye, which following the generation of isocitrate is converted to an intensely violet colored form with an absorption maximum at 565 nm. As a first step to determine the activity of aconitase samples, an isocitrate standard curve was generated according to the manufacturer’s instructions. Subsequently, the activity of AcnB isolated from
+
+(
+
+In theory, the expression levels of the Fe–S proteins should be similar to proteins without metal cofactors. However, the Fe–S cluster has an impact on the stability of the protein, which may lead to degradation or misfolding of the protein. Thus, the amount of soluble protein depends on the correct incorporation of the Fe–S cluster. Therefore, we compared the protein levels obtained using different plasmids and cell strains.
+
+Gene constructs for
+
+In this work, we use
+
+We have selected BL21(DE3) cell strains as they have favorable genetic characteristics, and two variants of these cells were previously genetically engineered to optimize the maturation of Fe–S proteins in vivo. BL21 cells are deficient in the Lon protease, which degrades many foreign proteins [
+
+BL21(DE3) have been routinely used to express Fe–S proteins, as they harbor the ISC and SUF iron–sulfur cluster assembly machineries [
+
+Previous structural studies of IspH protein report the successful gene expression using a pQE30 vector in XL1-Blue cells [
+
+We introduced each plasmid into XL1-Blue, BL21(DE3), BL21(DE3) ∆
+
+SDS-PAGE and Western blot analyses of IspH, NadA, and AcnB protein levels obtained using different expression systems. The cell lysate was analyzed by SDS-PAGE on a 15% Tris–glycine gel and proteins were visualized by Coomassie staining and the Western blot analysis using a conjugated anti-histidine antibody. A full-size image of the SDS-PAGE gels is shown in Fig. S1 and the Western blot analysis is shown in Fig. S2
+
+SDS-PAGE analysis indicates that expression using the pQE30-
+
+Expression of pET46-
+
+We investigated the Fe–S cluster occupancy and the metal content of the produced proteins using a combination of electronic absorption spectroscopy, ECD spectroscopy, and mass spectrometry. Absorption bands in the electronic spectrum at 325 nm and in the range of 400–420 nm are a strong indicator for protein-bound Fe–S clusters. These spectral features derive from S-to-Fe charge transfer transitions with typical molar extinction coefficients of ~ 10
+
+The first protein that we investigated in terms of Fe–S cluster maturation is
+
+Analysis of Fe–S cluster occupancy of IspH protein obtained by different strategies.
+
+Expression in BL21(DE3) ∆
+
+To investigate the nature of the impurities obtained by chemical reconstitution, we measured ECD spectra [
+
+To verify that the Fe–S impurities after chemical reconstitution are unspecific Fe–S aggregates and not bound to the protein, we performed size exclusion chromatography (SEC) on this sample. The electronic spectrum (Fig. S6) of the protein after the SEC reveals that the absorption feature at 650 nm is completely removed by this additional purification step. Thus, we conclude that chemical reconstitution of Fe–S clusters leads to the formation of Fe–S aggregates with an intense absorption at 650 nm, which was not observed in any other sample.
+
+Several expression strategies have previously been reported for IspH from
+
+The second protein that we investigated is the [4Fe–4S] cluster-containing protein quinolinate synthetase NadA. Our spectroscopic analysis of the NadA protein samples reveals that the trends observed for IspH are not reproduced in these experiments. As for IspH, protein maturated by chemical reconstitution leads to a high absorption band at 415 nm with a molar extinction coefficient of 33 mM
+
+Characterization of Fe–S cluster occupancy of NadA protein obtained by different strategies.
+
+Chemical reconstitution of NadA protein resulted in excess metal binding (5.8 Fe atoms/monomer), which is in line with a previous study that obtained NadA by co-expression with the plasmid pDB1282, which contains the
+
+Investigating the maturation of NadA, we find that co-expression with the SUF plasmid leads to the highest Fe–S cluster incorporation. This raises the question whether NadA interacts specifically with the SUF machinery inside the cell? To our knowledge, the interaction of NadA with the SUF proteins has not yet been investigated in detail. Previous studies of
+
+The third protein under investigation is
+
+Characterization of Fe–S cluster occupancy of AcnB protein obtained by different strategies.
+
+Protein samples produced using BL21(DE3), BL21(DE3) pISC, BL21(DE3) pSUF, or BL21(DE3) Suf
+
+When taking a closer look at the 400 – 450 nm range of the CD spectra (Fig. S8), we observe that the maxima of the chemically and semi-enzymatically reconstituted protein are at 410 nm, whereas the maximum of the protein isolated from BL21(DE3) ∆
+
+Taken together, our results from the systematic analysis of seven different strategies for the maturation of three different [4Fe–4S] proteins show that in vivo maturation results in more specific and effective maturation of [4Fe–4S] proteins. Each protein displays a preference for a maturation strategy that yields a high content of Fe–S cluster without any spectroscopically detectable excess iron species. However, the suitable biosynthesis method must be determined experimentally for each protein. In all three cases, chemical reconstitution leads to high Fe–S cluster occupancy in the protein, but also to the formation of high amounts of Fe–S aggregates, which require an additional SEC purification step to separate the impurities from the protein. In one case, we have also observed that maturation by reconstitution results in a different oxidation state of the [4Fe–4S] cluster compared to in vivo maturation. ECD spectroscopy has been a very useful tool to obtain more detailed information about the Fe–S cluster and provided insights on the oxidation states of the cluster.
+
+In this study, we characterized the proteins directly after the isolation from the host organism using IMAC. The proteins produced using the pET16bTEV plasmid contain a TEV recognition site between the His
+
+The radical SAM enzyme ThnB from
+
+SDS-PAGE and Western blot analysis of the expression levels in
+
+The electronic spectra (Fig.
+
+Analysis of Fe–S cluster occupancy of ThnB protein obtained by different strategies.
+
+To remove protein impurities and to investigate whether the impurities resulting in absorption bands at 515 nm and 615 nm can be separated by further purification steps, we have performed SEC on a protein sample isolated from BL21(DE3) pSUF (Fig. S12). The spectrum reveals a low molar extinction coefficient of 0.03 mM
+
+The electronic spectra of protein produced in BL21(DE3) cells followed by maturation using semi-enzymatic reconstitution or isolated from BL21(DE3) Suf
+
+The intact Fe–S cluster is essential for the enzymatic activity of the proteins of interest. Therefore, we have thoroughly investigated the maturation of the Fe–S proteins. We further want to evaluate if the incorporated cluster also results in a functionally active protein. We have used AcnB isolated from BL21(DE3) and BL21(DE3) Δ
+
+Measurements of the enzymatic activity of AcnB protein produced by different strategies. For clarity, the data have been normalized to the highest value, which was achieved with samples isolated from BL21(DE3) ∆
+
+In this study, we investigate different strategies for the maturation of recombinantly produced Fe–S proteins. We compare seven different strategies for protein biosynthesis, including the common expression strain BL21(DE3), four specific cell strains tailored for the maturation of high levels of Fe–S proteins, and two in vitro reconstitution methods. The biosynthesis of Fe–S proteins in nature has been studied extensively; however, the production of large quantities of Fe–S proteins containing the correct physiological Fe–S cluster remains a major challenge. We have systematically evaluated the most common maturation protocols for three well-characterized [4Fe–4S] proteins. The pitfalls of chemical reconstitution pointed out here, such as the formation of Fe–S aggregates, adventitiously bound iron, and different oxidation states of the cluster, have previously led to conflicting results in different studies. These strategies are not limited to proteins containing one [4Fe–4S] cluster. We have previously shown that the same strategies can be applied for the maturation of a [2Fe–2S] protein [
+
+Below is the link to the electronic supplementary material.
+
+Supplementary file1 (PDF 1021 KB)

@@ -1,0 +1,49 @@
+Tight regulatory control of gene expression is critical for the fitness and success of bacterial pathogens that colonize multiple distinct host niches. Response systems that sense the characteristics of different environments enable bacteria to rapidly adapt the expression of their genes. Transcriptional control is mediated by many distinct components, including transcription factors (TFs) (
+
+Different
+
+In addition to the ability to catabolize D-ser, we recently observed that the transcriptional response of UPEC and NMEC (strains CFT073 and CE10) to D-ser exposure was highly unique, displaying distinct pleiotropic shifts in global gene expression (
+
+Using a combination of genetics and functional genomics, we found that DsdC binds to hundreds of chromosomal regions in NMEC and regulates several distinct virulence factors in response to D-ser, while also controlling key genes irrespective of the presence of D-ser. We identified
+
+The NMEC K1 strain CE10 carries two unlinked copies of the
+
+NMEC strain CE10 possesses two functional copies of
+
+Given the broad transcriptional responses of distinct
+
+DsdC binds to the NMEC chromosome globally in distinct site-specific patterns. (
+
+During the analysis, we noticed that only some binding sites corresponded to the characteristic peak shape typically expected of TF binding events (an intergenic peak upstream of a gene 5′ end with a bimodal read distribution) (
+
+To determine if the unusual global binding pattern of DsdC identified by ChIP-seq resulted in functional changes to NMEC gene expression, we used comparative RNA-seq analysis. The experimental design consisted of three pairwise transcriptomic comparisons (
+
+DsdC regulates diverse NMEC genes in the presence and absence of D-ser. (
+
+We next combined functional grouping of DEGs with the ChIP-seq data set to identify potentially important processes regulated by DsdC. GO analysis of the common DsdC-associated DEGs in response to D-ser revealed that more than half of these were involved in capsular (7/30) and LPS (9/30) biosynthesis (
+
+The combined transcriptomic analyses revealed that
+
+The DsdC-regulated
+
+We next turned our attention to what the biological role of this regulatory event might be. Adhesion and invasion of the blood–brain barrier are key virulence mechanisms of NMEC, and the K1 capsule is believed to play a role in this process (
+
+The original report describing the discovery of NeuO in NMEC strain RS218 documented that
+
+To assess if DsdC played a role in resistance against bacteriophage attack via its regulatory effect on
+
+DsdC regulates NeuO
+
+The regulation of gene expression dictates how bacteria control cellular processes central to their survival in specific environments. Bacteria are capable of responding to their surroundings in a precise manner to express the right genes at the right time (
+
+NMEC strains typically encode two copies of the
+
+Another striking observation from our ChIP-seq analyses was the pattern of binding to distinct chromosomal regions. Approximately half of the DsdC-bound regions appeared to form clusters spanning entire operons, as opposed to more traditional discrete binding sites located upstream of regulated genes. While this pattern was highly unusual, noncanonical TF binding has been observed in bacteria. For example, the RutR TF in
+
+The most intriguing discovery in this work was the DsdC-dependent regulation of resistance to K1 bacteriophage attack. There are >70 capsular antigens; however, K1 is overrepresented in NMEC, accounting for 84% of isolates obtained from infected neonates, as well as pathogenic strains of
+
+The
+
+Tailoring transcriptional regulatory networks by recycling TFs to control alternative and often horizontally acquired genes can lead to the emergence of ecologically beneficial traits in bacteria. However, the extent of this phenomenon and associated mechanisms driving such regulation remains a key question in bacterial genetics. We identify that the TF DsdC, responsible for tolerance to D-ser, has adapted alternative metabolism-independent roles in the regulation of NMEC gene expression. We show that DsdC unusually binds to entire operons involved in envelope biogenesis, affecting their transcription, and is critical for regulating NeuO-mediated protection against bacteriophage attack. Given its carriage on a seemingly dispensable prophage, retention and subsequent control of NeuO are crucial. As such, its regulation has been hijacked by an ancestral TF to promote its continued functionality and enhance the environmental versatility of NMEC K1 isolates in the face of bacteriophage attack.
+
+A complete list of all bacterial strains, plasmids, and primers used in this study can be found in

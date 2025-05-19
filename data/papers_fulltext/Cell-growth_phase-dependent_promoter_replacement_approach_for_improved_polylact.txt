@@ -1,0 +1,60 @@
+Plastics derived from renewable biomass are of interest because they are a potential solution to dwindling and increasingly expensive petroleum resources and have the capacity to reduce carbon dioxide emissions. Polylactide (PLA), a representative bio-based plastic, can be chemically synthesized in multiple steps from renewable carbon sources. PLA has a wide range of applications, such as biomedical materials and food-related items. However, the stiffness and brittleness of PLA limit its competitive market expansion. In contrast, P(lactate-
+
+Biosynthetic pathway scheme of P(LA-
+
+In 2008, Taguchi et al. succeeded in creating a microbial biosynthetic system for P(LA-
+
+As described above, P(LA-
+
+In addition, we have accumulated extensive fundamental findings related to the transcription network governing global gene expression in
+
+In the present study, we investigated the effectiveness of promoter selection for increased productivity and altered LA fraction of P(LA-
+
+P(LA-
+
+The production and LA fraction of P(LA-
+
+P(LA-
+
+In contrast, the mRNA expression of the
+
+Since the production of P(LA-
+
+P(LA-
+
+Effect of replacement of the promoter fused to the
+
+To confirm the correlation between the activity of these 18 stationary-phase-inducible promoters and the P(LA-
+
+Correlation between P(LA-
+
+To increase the LA fraction of P(LA-
+
+P(LA-
+
+Next, we cloned
+
+Previously, Nduko et al. [
+
+P(LA-
+
+In this study, we aimed to improve P(LA-
+
+Using a universal model microbial factory of
+
+For polymer production, recombinant
+
+The expression vector pTV118N
+
+Twenty-one
+
+The same procedure was used for the three
+
+The sequences of the cloned promoters and genes of the constructed plasmids and the sequences of the homologous recombined linkage regions were confirmed by DNA sequencing.
+
+RT-qPCR was performed according to standard procedures [
+
+Samples from the
+
+The Nile-red staining method was performed according to Spiekermann et al. [
+

@@ -1,0 +1,11 @@
+{
+  "id": "40120681",
+  "title": "Structural and functional analysis of Pseudomonas aeruginosa PelA provides insight into the modification of the Pel exopolysaccharide.",
+  "doi": null,
+  "authors": "Van Loon JC, Le Mauff F, Vargas MA, Gilbert S, Pfoh R, Morrison ZA, Razvi E, Nitz M, Sheppard DC, Howell PL",
+  "journal": "The Journal of biological chemistry",
+  "year": "2025",
+  "abstract": "A major biofilm matrix determinant of Pseudomonas aeruginosa is the partially deacetylated α-1,4 linked N-acetylgalactosamine polymer, Pel. After synthesis and transport of the GalNAc polysaccharide across the inner membrane, PelA partially deacetylates and hydrolyzes Pel before its export out of the cell via PelB. While the Pel modification and export proteins are known to interact in the periplasm, it is unclear how the interaction of PelA and PelB coordinates these processes. To determine how PelA modifies the polymer, we determined its structure to 2.1 Å and found a unique arrangement of four distinct domains. We have shown previously that the hydrolase domain exhibits endo-α-1,4-N-acetylgalactosaminidase activity. Characterization of the deacetylase domain revealed that PelA is the founding member of a new carbohydrate esterase family, CE21. Further, we found that the PelAB interaction enhances the deacetylation of N-acetylgalactosamine oligosaccharides. Using the PelA structure in conjunction with AlphaFold2 modeling of the PelAB complex, we propose a model wherein PelB guides Pel to the deacetylase domain of PelA and subsequently to the porin domain of PelB for export. Perturbation or loss of the PelAB interaction would result in less efficient deacetylation and potentially increased Pel hydrolysis. In PelA homologs across many phyla, the predicted structure and active sites are conserved, suggesting a common modification mechanism in Gram-negative bacterial species containing a functional pel operon.",
+  "source": "PubMed",
+  "pmcid": "PMC12022489"
+}

@@ -1,0 +1,174 @@
+Arsenite [As(III)] is toxic, but its toxicity
+varies depending
+on its chemical form, with inorganic As(III) being particularly harmful.
+As(III) naturally exists in various parts of the world, and it has
+been reported that over 140 million people drink arsenic-contaminated
+water daily.
+
+Recently, whole-cell
+biosensors have been developed for detecting
+environmental contaminants due to their robustness, eco-friendliness,
+and cost-effectiveness.
+
+We recently discovered that LuxR, a quorum-sensing regulator in
+
+Although this As(III)-induced LuxR aggregation-based
+functional
+switch sensor had a novel operational principle distinct from conventional
+As(III)-induced ArsR conformational change sensors, it was limited
+by its high response threshold of 133.5 μM for extracellular
+As(III) concentration. To address this limitation, LuxR aggregation
+must be triggered at a lower extracellular As(III) concentration than
+133.5 μM. By effectively promoting the binding reaction between
+As(III) and LuxR within the cell, it is possible to achieve LuxR aggregation
+and functional switching at even lower extracellular As(III) concentrations,
+thereby enhancing the sensitivity of the As(III) sensor.
+
+In
+this study, we developed a novel whole-cell As(III) sensor with
+high sensitivity to lower concentrations of As(III) by suppressing
+the expression of the As(III) exporter ArsB encoded in the
+
+ArsB, which promotes As(III) efflux in
+
+Enhanced sensitivity of LuxR sensor to arsenite
+(As(III)) in the
+ArsB-deficient mutant strain. (a) Schematic model of LuxR aggregation-induced
+transcriptional OFF-switch in response to intracellular As(III) levels.
+LuxR is a transcriptional activator of the
+
+Compared to the wild-type MG1655 strain, which
+harboring ArsB,
+the sensitivity of the whole-cell As(III) sensor was enhanced, showing
+an OFF-type As(III) response curve with a minimum As(III)-responsive
+fluorescence output value of 5 × 10
+
+To enable high-sensitivity
+As(III) response using LuxR, which exhibits aggregation properties
+in the presence of As(III), the
+
+Response of ArsR-fused
+LuxR sensors to As(III). (a) Model of intracellular
+arsenic metabolism regulation by ArsR-LuxR and ArsR
+
+First, we examined whether ArsR-LuxR, with wild-type
+ArsR fused,
+exhibits As(III) response similar to that of LuxR alone, and whether
+ArsR
+
+When the transcriptional
+repression ability of ArsR was evaluated
+by introducing the pArs-mCherry plasmid as a reporter, mCherry expression
+was gradually observed from an extracellular As(III) concentration
+of 0.1335 μM in the ArsR-LuxR strain, reaching a plateau at
+13.35 μM, indicating that ArsR dissociated from DNA in response
+to As(III) (
+
+To evaluate the sensitivity differences between ArsR-LuxR
+strain
+and ArsR
+
+By constructing
+a single plasmid-based expression system combining
+ArsR
+
+The ArsR
+
+In
+
+Intracellular
+As(III) levels in response to extracellular As(III)
+concentrations for ArsR
+
+The results from both strains revealed that the
+amount of arsenic
+a single
+
+Next, we replotted
+the response output of each strain at each extracellular
+As(III) concentration (
+
+In summary, when
+plotted against extracellular As(III) concentrations,
+the As(III) concentration at which each strain exhibited the minimum
+response output differed by an order of magnitude. However, when the
+horizontal axis was converted to intracellular As(III) concentrations,
+the amount of As(III) per cell corresponding to the minimum output
+was consistent for both strains, at 25–30 ag/cell. Although
+the shapes of the intracellular As(III) response curves leading to
+the minimum fluorescence output differed between the two strains,
+the reason for this difference remains unverified and cannot be addressed
+at this time. Nonetheless, these results suggest that the upper limit
+of As(III) uptake per cell is 25–30 ag/cell. The intracellular
+arsenic concentration obtained in this study, when converted based
+on the assumption that the volume of a single
+
+The LuxR sensor we previously reported was an insoluble-type sensor,
+in which more than half of the expressed LuxR protein precipitated
+by reacting with As(III) under conditions of 133.5 μM As(III)
+concentration.
+
+Reduction in the effective concentration of ArsR-LuxR and ArsR
+
+After culturing
+
+Next, we
+demonstrated the aggregation of LuxR in response to As(III)
+using fluorescence correlation spectroscopy (FCS), which detects aggregates
+through changing the fluorescent brightness in addition to the diffusion
+coefficient of fluorescent molecules.
+
+As(III)-dependent
+aggregation of the sensor ArsR-LuxR and ArsR
+
+In this study, we developed a novel sensor
+system by engineering
+a single plasmid capable of expressing both LuxR, an As(III) aggregation-based
+sensor previously reported, and the intracellular As(III) metabolism
+regulator ArsR, for portable introduction into various
+
+The behavior of this aggregation-based sensor parallels findings
+from Lindquist and colleagues, who demonstrated that protein aggregation
+can drive functional switches, as observed in their studies on yeast
+prions. Specifically, they reported that the yeast prion [
+
+However, unlike the amyloid oligomers of the yeast
+prion Sup35,
+the LuxR aggregation induced by As(III) is characterized by disordered,
+amorphous aggregation. Due to this nature, even when ArsR
+
+Furthermore, as Lindquist and colleagues
+proposed that [
+
+The LuxR reading frame fused with
+a histidine hexamer at the C-terminus was inserted into the
+
+For the
+quantitative assay, MG1655 harboring pLux-sfgfp, pArs-mCherry and
+LuxR, ArsR-LuxR or ArsR
+
+The resultant
+plasmids were introduced into MG1655 harboring pLux-sfgfp. The transformants
+were incubated overnight in 2 mL of LB medium. A 100 μL aliquot
+of the culture was added to 10 mL of fresh LB medium that included
+appropriate antibiotics, 10 μM AHL and varying concentrations
+of As(III) (0–133.5 μM), and incubated at 37 °C
+for 12 h with shaking. After the incubation, the cells at a concentration
+of 10
+
+The resultant plasmids
+were introduced into MG1655 harboring pLux-sfgfp. The transformants
+were incubated overnight in 2 mL of LB medium. A 100 μL aliquot
+of the culture was added to 10 mL of fresh LB medium that included
+appropriate antibiotics, 10 μM AHL and varying concentrations
+of As(III) (0–133.5 μM), and shaken at 37 °C for
+12 h. Subsequently, the cells were centrifuged at 3000
+
+A histidine
+hexamer was fused in frame to the C-terminus of the reading frames
+of sensor proteins. The lysate was rigorously centrifuged (20,817
+
+Fluorescence
+correlation spectroscopy measurements were performed using an LSM
+510 META + ConfoCor 3 system with a C-Apochromat 40 × 1.2NA Korr.
+UV–vis-IR water immersion objective (Carl Zeiss, Jena, Germany),

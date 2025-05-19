@@ -1,0 +1,101 @@
+Biosensors are the organisms and a device that respond to environmental factors, and such responses could be as a specific biological activity or can be used to measure the concentration of various types of analytes. Luminescent bacteria, which are used to assess the integral toxicity of the environmental factors, are most widely used as biosensors [
+
+In order to overcome these limitations, the recombinant biosensors were developed with
+
+To enhance the specificity of the biosensor, a group of authors led by G.B. Zavilgelsky developed biosensors based on an
+
+To detect the agents capable of inducing oxidative stress in a cell, biosensors with a multicopy recombinant plasmid were developed, fusing the
+
+To study the genotoxicity of the environmental chemical factors, bacterial lux biosensors designed according to the principles described above are used. They are carrying plasmids with the
+
+In 1982, a bacterial SOS chromotest was proposed to determine the DNA-damaging activity of chemical compounds [
+
+For the detection of metal and metalloid ions, as well as alkylating agents, highly sensitive specific lux biosensors based on
+
+For the detection of antibiotics in food, lux biosensors that specifically respond to the antibiotics of the tetracycline series have been proposed—
+
+Lux biosensors based on the recombinant strains are used to detect the contamination of natural waters [
+
+It should be noted that recombinant whole-cell biosensors allow us to study the parameters of linear and nonlinear dependence of luminescence not only on the dose and duration of exposure to the inducer, but also on the metabolic state of the cell itself. Mathematical methods have been developed for analyzing and constructing models of biosensor luminescence in various cases specified by the experimenter during a 48-h reaction. For this purpose, the results of Cd luminescence of a sensitive biosensor were used. Based on the theory of the time reaction of metal-sensitive luminescent bacteria, the authors carried out successful theoretical reconstructions of bioluminescence signals at all studied Cd concentrations (0–20 nM) and various nutrition conditions [
+
+Thus, various natural and recombinant luminescent bacteria have become a tool for environmental monitoring. Specific “reporter systems” that have expanded the scope of the luminescent analysis have been developed. They are based on the investigation of signaling pathways in bacteria. The identification and sequencing of the gene regulators of proteins included in different signaling systems made it possible to create recombinant luminescent bacterial biosensors [
+
+This paper presents the main results of evaluation of applicability of the lux biosensors based on the
+
+The strains were provided by Drs. Zavilgelsky and Manukhov, State Research Institute of Genetics and Selection of Industrial Microorganisms, Moscow (
+
+The luminescence intensity was measured in a StatFax 4400 microplate reader (Awareness Technology Inc., Palm City, FL, USA). The bioluminescence intensity was expressed in relative light units (RLU). The effect of the analyzed substances on the peroxide- or paraquat-induced luminescence of the sensors was evaluated using the following formula:
+
+Forty-seven chemical compounds were tested for genotoxicity by a set of biosensors: pSoxS-lux, pKatG-lux, and pColD-lux, carrying a recombinant plasmid with the
+
+Hydrogen peroxide, paraquat, mitomycin C, and 4-NQO were used as reference genotoxicants. Hydrogen peroxide and paraquat induce oxidative stress in pKatG-lux and pSoxS-lux biosensors. Mitomycin C and 4-NQO cause crosslinking and adducts in DNA of pCol-lux, respectively [
+
+The substances were tested in five concentrations (
+
+Nitro compounds, except for the 2-nitrofluorene, exhibited high genotoxicity and induced the SOS response in the pColD-lux biosensor. Of the 10 metal salts evaluated for their toxicity, only CdCl
+
+Deuterium is a stable isotope of hydrogen with similar physical and chemical characteristics. The deuteration reaction is the replacement of covalently bonded hydrogen atom with a deuterium atom [
+
+In this regard, we decided to test the ability of deuterium to influence the inducible processes in bacterial cells. First, we used the reference mutagens 4-NQO, NMU, and mitomycin C capable of inducing the SOS response in bacteria bearing pColD-lux biosensor (
+
+The isotopic effect of D
+
+Mitomycin C, 4-NQO, and NMU induce SOS response in biosensor cells, differing in the mechanisms of DNA damage. Namely, after the reduction by bacterial nitroreductase, 4-NQO forms an adduct with DNA [
+
+For all the genotoxicants used, an increase in the luminescence levels of the pRecA-lux and pColD-lux biosensors was observed when they were pre-deuterated. The isotopic effect is the ratio of the luminescence of the biosensors stimulated with deuterium (I
+
+Thus, for the first time we obtained the data on the reinforcing effect of deuterium on the induction of SOS response in biosensors by the reference compounds. Therefore, to study the effect of deuterium on the genotoxicity of substances other than the reference mutagens, we have analyzed base analogues (2-aminopurine, 5-bromuracil), a helicase inhibitor nalidixic acid, nitroheterocyclic compounds 4-NQO and furacilin (nitrofural), oxidative stress enhancer dioxidin, as well as antitumor agents cisplatin and streptozotocin (
+
+It is well known that both prokaryotes and eukaryotes utilize a system of protection against toxic and genotoxic effects of alkylating agents called adaptive response (AR). Specifically, pre-exposure of bacteria to nontoxic levels of alkylating agents leads to the increase in their tolerance to higher levels of these agents [
+
+We have evaluated the effect of D
+
+In the biosensor culture deuterated with 7.5% D
+
+We have evaluated the effects of 29 substances, including known antioxidants, anti-radiation agents, amino acids, and vitamins, on the oxidative stress in pSoxS-lux and pKatG-lux biosensors induced by paraquat and H
+
+In this experiment, H
+
+High prooxidant activity among the anti-radiation agents on the pKatG-lux biosensor at low concentrations was shown by lithium and magnesium salts of glutathione disulfide, zinc salt of reduced glutathione, molixan, and indralin (B-190); on the pSoxS biosensor—by genistein, cystamine, and Androstenediol (AED).
+
+Almost all vitamins exhibited both prooxidant and antioxidant activity, except for the vitamin C (ascorbic acid) and vitamin E, which exhibited high antioxidant activity in both biosensors (i.e., suppressed the oxidative stress in bacterial cells induced by hydrogen peroxide and paraquat). Vitamin C at concentrations of 10 and 20 mmol/L suppressed oxidative stress in pKatG-lux and pSoxS-lux cells by 99 and 95%, respectively. Vitamin B also suppressed the oxidative stress in both biosensor cell lines. Vitamin B at a concentration of 30 mmol/L suppressed oxidative stress in both biosensor cell lines. However, it showed prooxidant activity at concentrations of 12 and 5 mmol/L on biosensors in pKatG-lux and pSoxS-lux, respectively.
+
+Vitamin A at a concentration of 30 mmol/L was a prooxidant in the pKatG-lux biosensor, and at a concentration of 70 mmol/L, was an antioxidant in the pSoxS-lux biosensor. Vitamin PP at a concentration of 5 mmol/L showed antioxidant activity in the pKatG-lux biosensor. Biotin exhibited primarily prooxidant activity in both biosensors and a slight antioxidant activity in the pKatG-lux biosensor.
+
+Among the amino acids, cysteine at a concentration of 20 mmol/L showed a high antioxidant activity and suppressed oxidative stress by more than 90%. However, at low concentrations 1 and 5 mmol/L, cysteine showed prooxidant activity. Methionine, which also contains a sulfhydryl group in its structure, showed antioxidant activity at a concentration of 30 mmol/l only in the pSoxS-lux biosensor and weak prooxidant activity at a concentration of 1 mmol/l on the same biosensor. The activity of taurine was similar to the activity of methionine, except for its weak antioxidant activity which was detected in the pKatG-lux biosensor. Cystine and cysteine disulfide exhibited no antioxidant activity and behaved as a prooxidant in both biosensors.
+
+Coenzyme Q10 at a concentration of 10 mmol/L showed antioxidant activity in both biosensors and was a weak prooxidant in the pKatG-lux biosensor. Mexidol, which protects cell membrane lipids from peroxidation, at a concentration of 36 mmol/L showed a high antioxidant activity in both pKatG-lux and on pSoxS-lux biosensors. However, at low concentrations, it showed the ability to generate the superoxide radical in the bacterial cell. Solvent DMSO, which is known in medicine as Dimexide, at a concentration of 100 mmol/L also showed antioxidant activity in both biosensors; however, at low concentrations (0.5 mmol/L), it showed prooxidant properties in the pSoxS-lux biosensor.
+
+From 2016 to 2022 we have conducted large-scale studies of genotoxicity of a wide range of organic and inorganic chemical compounds using bacterial lux biosensors.
+
+A comparison of the test results for the 47 chemical compounds with the results of evaluation of their mutagenic activity in the standard Ames
+
+A comparison of the results of the 16 genotoxicants tested on the pColD-lux biosensor coincided with the data of the analysis of these substances in the SOS chromotest [
+
+The lux test for the SOS response of
+
+The direct measurement of bacterium luminescence allows simultaneous recording of the dependence of the SOS response on the concentration of the compound tested and on the duration of incubation, i.e., the dynamics of the response. The test is highly sensitive and rapid. The results are available within 3–4 h. Moreover, in contrast to the Ames test, it can be automated.
+
+The heavy hydrogen isotope deuterium (D) was discovered in 1932 [
+
+We have shown that D
+
+Deuterium can affect the metabolism of substances in the cell by changing the activity of certain enzymes. D
+
+A simultaneous study of the luminescence intensity and survival rate of pCol-lux bacteria showed that the UV irradiation of D
+
+We have shown for the first time that deuterium enhances the repair of alkylated DNA bases (
+
+Thus, we found that D
+
+The fact that some substances, including radioprotective agents, exhibit prooxidant activity, is worth mentioning. This phenomenon is not an exception. It is well known that, in certain experimental conditions, antioxidants (thiols (including glutathione), ascorbic acid, quercetin, gossypol, miretsitin, etc.) exhibit prooxidant activity, which leads to the oxidative damage of cells [
+
+In general, the lux biosensors we used showed high efficacy in the evaluation of the pro- and antioxidant activity of the 29 substances that belong to the different classes of chemical substances and are used for different purposes.
+
+Based on the results of the research, it was concluded that the test system of two biosensors (pSoxS-lux and pKatG-lux) is applicable for the initial assessment of the potential antioxidant and radioprotective activity of chemical compounds.
+
+In mammals, approximately 20 redox-sensitive systems were described, which respond to the alterations of the ratio of reduced and oxidized SH-groups in proteins, leading to oxidative stress. Among such systems, the Nrf2 transcription factor occupies a special place. This factor activates the gene expression through the interaction with the cis-regulatory element ARE (antioxidant responsive element) [
+
+At the same time, a bacterial cell cannot replace a mammalian cell, because it does not have the Nrf2/ARE system. However, the bacterial system is characterized by a high efficiency, does not require special reagents for biochemical reactions, and could be used successfully as a test system in screening the large arrays of chemicals for primary selection of potential antioxidants and radioprotectors.
+
+A comparison of the test results, obtained for the 47 chemical compounds, with the results of their mutagenic activity in the standard Ames

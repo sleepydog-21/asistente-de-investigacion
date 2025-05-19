@@ -1,0 +1,63 @@
+Historically, the two pathotypes of
+
+The global dissemination of mobile genetic elements (MGEs), including plasmids, insertion sequences (ISs), and transposons (Tns), causes the horizontal gene transfer (HGT) of resistance and virulence phenotypes and, thus, is mediating the evolution of
+
+In this study, we characterized an ST25/K2 serotype CR-hvKP strain isolated from a clinical patient, which harbored a conjugative MDR-virulence plasmid and a
+
+Antimicrobial susceptibility profiles of hypervirulent
+
+CAZ, ceftazidime; CRO, ceftriaxone; FEP, cefepime; IPM, imipenem; MEM, meropenem; CAZ-AVI, ceftazidime-avibactam; TGC, tigecycline; ATM, aztreonam; CIP, ciprofloxacin; LEV, levofloxacin; AK, amikacin.
+
+To understand the genetic basis of this CR-hvKP isolate, whole-genome sequencing (WGS) was applied using the Pacific Biosciences (PacBio) RS II single-molecule real-time (SMRT) and Illumina (San Diego, CA) HiSeq platforms. Our analysis showed that CY814036 belonged to sequence type 25 (
+
+Using the Virulence Factors Database (VFDB) (
+
+Molecular characteristics of hypervirulent
+
+—, nonexistent information.
+
+Only major virulence factors and related genes on the chromosome are listed. Complete information can be found in
+
+Virulence factors, related genes, and locations of genes on the chromosome of
+
+pCY814036-iucA is a 257,343-bp multireplicon (IncFIB
+
+(a) Genomic alignment of pCY814036-iucA (GenBank accession no.
+
+Conjugative systems of plasmids pCY814036-iucA (a) and pCY814036-KPC2 (b). The conjugation modules of the plasmids were predicted by oriTfinder. Download
+
+The IncFII/IncR-type plasmid pCY814036-KPC2, with a size of 140,105 bp, exhibited a G+C content of 52.8% and comprised 170 predicted coding sequences. A BLASTN search against the NCBI nucleotide database indicated that
+
+(a) Comparative analysis of six
+
+Conjugative plasmids make a significant contribution to the fusion of high pathogenicity and carbapenem resistance. To investigate how strain CY814036 acquired drug resistance genes and virulence genes, a conjugation experiment was first conducted to test the potential of plasmids to be transferred to rifampicin-resistant
+
+XbaI PFGE (a) and S1-PFGE (b) of
+
+Differential virulence analysis of
+
+In recent years, hypervirulent
+
+Notably, we confirmed the presence of a conjugative MDR-virulence plasmid, pCY814036-iucA, which increased the risk of the simultaneous transfer of both virulence and AMR determinants in a single event. Nonconjugative pK2044-like plasmids are usually recognized as the most prevalent virulence plasmids of
+
+We also demonstrated that
+
+Importantly, our study confirmed the efficient transfer of two plasmids, pCY814036-iucA and pCY814036-KPC2, which thus conferred multidrug resistance to
+
+In conclusion, we investigated the microbiological features and genetic background of an ST25 clinical strain (CY814036) of
+
+The
+
+The MICs of the strains were determined for 11 antimicrobial agents using the broth microdilution method and interpreted in terms of the breakpoints recommended by CLSI document M100 (
+
+Whole-genome sequencing (WGS) was performed on
+
+The PlasmidFinder database was used to identify plasmid replicons with a minimum identity of 95% and a minimum coverage of 60% (
+
+Experiments involving conjugative plasmid transfer were carried out using
+
+Serum was obtained from 5 healthy individuals and stored at −80°C. Briefly, mid-log-phase bacterial cells were diluted in LB broth to 1 × 10
+
+The virulence potential of strains was evaluated using a mouse infection model as described following. Five-week-old male BALB/c mice weighing an average of 16 g were obtained from Hunan SJA Laboratory Animal Co., Ltd. (Hunan, China), and were given access to food and water during the experiment. Ten mice in each group were inoculated intravenously with 100 μL of bacteria at a concentration of 1 × 10
+
+The genomic data for the chromosome of

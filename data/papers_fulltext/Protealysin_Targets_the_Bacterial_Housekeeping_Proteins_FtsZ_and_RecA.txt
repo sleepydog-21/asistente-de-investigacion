@@ -1,0 +1,55 @@
+The Gram-negative bacteria
+
+Contact-dependent interbacterial competition is generally mediated by secreted toxic effector proteins. Therefore, bacteria require a means of inhibiting self-intoxication. Protection against effectors of these systems has been shown to derive from the production of specific immunity determinants that bind cognate effectors and inhibit their enzymatic function [
+
+In this work, using purified genetically engineered proteins, we determined if the bacterial cell division protein FtsZ and the SOS response protein RecA are protealysin substrates. We have shown that in vitro protealysin cleaves the C-terminal segment of FtsZ from different microorganisms. The absence of the C-terminal fragment prevents FtsZ from attachment to the membrane and inhibits bacterial division [
+
+Under poor nutrition conditions, removing organisms from a competitive environment can be critical for the survival of strains. In mixed population infections, outer membrane vesicles (OMVs) may aid strain survival by eliminating competing bacterial strains [
+
+FtsZ is an attractive target for bacterial effectors in competitor bacteria, and interference with its function results in rapid growth arrest and loss of viability [
+
+The average value of the intensities corresponding to the first peptide of the linker (320–329 a.a.) in the spectrum of the cleaved FtsZ turned out to be more than two times less than the corresponding one in the spectra of the untreated protein. The average relative intensity of the peaks corresponding to the next two linker peptides (330–338 a.a., 339–356 a.a.) was significantly less than the intensities of the corresponding peaks of the untreated protein (25 and 10 times, respectively). Moreover, the peaks corresponding to the next peptides (357–367 a.a., 368–379 a.a.) completely disappeared from the spectrum of the cleaved FtsZ (
+
+To determine whether differences in the FtsZ sequence could protect bacteria from protealysin cleavage, we tested whether the FtsZ from a different microorganism is a protealysin substrate. We chose
+
+In
+
+We also assessed whether protealysin could affect bacterial survival under severe stress conditions. When DNA is damaged, the SOS response is triggered [
+
+The SOS response is activated in response to DNA damage caused by UV radiation or chemical agents [
+
+The protease protealysin is a
+
+FtsZ is a bacterial tubulin homologue essential for cell division in almost all bacteria [
+
+Previously it was shown that the 320-amino acid, truncated N-terminal of FtsZ is a potent inhibitor of cell division [
+
+According to our data, protealysin may be a regulator of bacterial division and bacterial SOS responses. We have previously shown the colocalization of protealysin gene with the gene encoding the inhibitor of protealysin and thermolysin called emfourin. Emfourin forms a complex with protealysin with a 1:1 stoichiometry, and binds the active site region [
+
+The
+
+For the production of deletion constructs, regions (~500 bp) flanking the deletion were amplified using the pSP1.8 plasmid, which contained a 3.3 kb
+
+To generate deletions of
+
+FtsZ from
+
+Purified RecA was mixed with protealysin purified as described previously [
+
+Purified
+
+The gel fragments containing specific bands were minced and treated twice with 60 mM NH
+
+Rabbit skeletal muscle actin used as a substrate for protealysin was isolated by a standard procedure of Spudich and Watt [
+
+Wild-type, Δ(
+
+The samples were fractionated by SDS-PAGE and transferred to a Hybond ECL membrane according to the manufacturer’s instructions (GE Healthcare, Buckinghamshire, UK). The membrane was incubated with 5% BSA in PBS 40 min to prevent the nonspecific binding of antibodies and then incubated with rabbit primary antibodies against FtsZ at a dilution of 1: 500 (Agrisera, Vännäs, Swedish) at room temperature for 2 h. The membrane was then washed three times with a washing buffer (5% BSA, 0.1% Tween 20, PBS) for 10 min and incubated for 2 h with the secondary antibodies (1:20,000) against rabbit IgG, which were conjugated with horseradish peroxidase. The membranes were washed with a washing buffer three times and developed using SuperSignal West FEMTO Chemiluminescent Substrate (ThermoFisher Scientific, Waltham, MA, USA) according to the manufacturer’s recommendations.
+
+The analysis of protealysin and M4in accumulation in
+
+A coupled enzyme spectrophotometric assay was used to measure RecA-mediated ATP hydrolysis. Purified
+
+Bacterial cells grown in LB media with 100 mg/L ampicillin for OD
+
+For all experiments, at least three biological replicates were analyzed. The figures show the data of three technical repetitions. Data were analyzed using a one-way analysis of variance (ANOVA) with the Excel Data Analysis Pack. A difference was considered significant at

@@ -1,0 +1,89 @@
+DNA metabarcoding, high‐throughput sequencing of short DNA regions amplified from environmental DNA followed by taxonomic annotation using known reference sequences, is a powerful approach to explore microbial communities (Taberlet et al.
+
+In contrast to short‐read DNA metabarcoding, long‐read sequencing technologies make it possible to sequence longer stretches of the rDNA region (Jamy et al.
+
+Using longer stretches of the rDNA operon as a DNA metabarcoding marker can also pose extra challenges during polymerase chain reaction (PCR), partly due to its length, making it harder for the polymerase enzyme to read and copy the entire region. Moreover, various PCR biases, such as operon length differences among the target taxa, can skew the results. Although not thoroughly studied across the Eukaryotic Tree of Life, a considerable length variation occurs between lineages (Hall, Morton, and Queitsch
+
+Different parts of the rDNA operon mutate and evolve at different rates (Clark
+
+For instance, the V4 region in 18S shows significant sequence variability (Hadziavdic et al.
+
+In this study, we introduce the full‐length Ribosomal Operon Database (ROD) constructed from publicly available genome assemblies of eukaryotes. In addition to providing a high number of full‐length operon reference sequences for the scientific community, we report on different features of the rDNA operons, including multiple operon variants in many genomes and length differences across eukaryotes. We also compare the level of molecular variation and how this affects the number of sequence clusters across different parts of the rDNA operon (18S, 28S, V4, ITS1 and ITS2), as well as the entire operon.
+
+Initially, Barrnap (
+
+An initial list of genomes was downloaded from the NCBI FTP site
+
+We used VSEARCH (Rognes et al.
+
+Several measures were taken to eliminate contaminants and incorrectly annotated genomes. This was done by comparing the centroid representatives from the clustered operons to the best hits in NCBI GenBank using blastn (Altschul et al.
+
+Taxonomic information was standardised using the R package
+
+Finally, the taxonomic assignments for the remaining operons were standardised to nine different levels, following the setup in PR
+
+The operon variants were aligned separately for each genome assembly with more than three variants using the L‐INSI‐i algorithm in MAFFT (Katoh and Standley
+
+Characteristics of rDNA operon in eukaryotes for each subdivision.
+
+
+
+To compare the level of molecular variation for the regions of the ribosomal operon often used in metabarcoding studies (Santoferrara
+
+Typical arrangement of the ribosomal operon in eukaryotes. The ribosomal operon is commonly arranged in tandem repeats with intergenic spacers (IGS) between copies and an external transcribed spacer (ETS) located before the 18S gene. The genes 18S, 5.8S and 28S are separated by the internally transcribed spacers (ITS1 and ITS2). The binding sites of primers used to separate regions of interest for the clustering analyses are annotated underneath the operon.
+
+In addition to the 18S, 28S, ITS1, ITS2, V4, and V9 subregions, a superregion encompassing ITS1‐5.8S‐ITS2 was also extracted and clustered. Full intragenomic operon centroids and subsectioned datasets were processed separately. Following an initial cleanup to remove sequences containing more than 20 consecutive N‐bases in any subregion, the sequences were dereplicated and clustered using—cluster_size in VSEARCH (Rognes et al.
+
+As a final resource, we chose one representative sequence from each genome assembly with the highest copy number of all the operon variants from a genome if more than one variant existed. In 68 genome assemblies, two or more variants had the highest copy number and were equally abundant; all these equally abundant variants were included in the reference dataset in ROD.
+
+Visualisation of the number of genomes, operon variants, copy numbers and genetic distance on the eukaryotic Tree of Life was done with the package metacoder (Foster, Sharpton, and Grünwald
+
+While a signal for the ribosomal operon was found in 17,107 out of the 34,701 genome assemblies, full‐length rDNA operon(s) were detected in 11,935 genome assemblies (34.4%). The operons within each genome were clustered at 99.0% sequence similarity to remove tentative technical errors from sequencing and assembly, as well as to record operon variants diverging by more than 1% in sequence identity. The number of clusters represents the number of operon variants per genome, and the size represents the number of copies found for a given variant. The set of operon variants (69,480), as well as a reference set including only the most abundant operon variant per genome (11,867), are available in the ROD database (
+
+Figure
+
+The distribution of the 69,480 analysed rDNA operons across the eukaryotic tree of life in the Ribosomal Operon Database (ROD). The unrooted tree is a schematic representation of eukaryotes produced using Metacoder (Foster, Sharpton, and Grünwald
+
+The number of operon variants per genome varied considerably between major taxonomic groups (Figure
+
+To chart the amount of intragenomic variation, we calculated the genetic distance between all operon copies for each assembly separately (Figure
+
+The length of the operon varied extensively across the organismal groups (Figure
+
+Length distribution of the recorded rDNA operons across the eukaryotic subdivisions in the Ribosomal Operon Database (ROD). The ridge plot represents the density distribution of lengths within each group. The number of genomes for each subdivision is written in parentheses. The median length is recorded as a red dashed line.
+
+Clustering of separate regions showed that the 18S, V4 and V9 regions yielded the fewest clusters. In contrast, the more variable ITS regions and the full‐length operons produced the highest number of clusters per clustering cut‐off (Figure
+
+Cluster analysis of the 69,480 full‐length operon variants in ROD and different sub‐parts commonly used in DNA metabarcoding studies. The number of sequence clusters (
+
+Recently, long‐read sequencing approaches have been adopted in microbial ecology and DNA metabarcoding to obtain more detailed phylogenetic information about the microbial communities under investigation (Jamy et al.
+
+The reference sequence data have undergone multiple error correction steps, where contaminant and tentatively spurious sequences have been parsed out. Nevertheless, we cannot dismiss the possibility of spurious operons in the database. For example, we observed that many of the genome assemblies (29.3% of the full‐length operons) were contaminated by other organisms. However, in this study, we only report on the observed operon variability in the existing genome assemblies, and we do not aim to separate the different sources of variability.
+
+We frequently observed partial operons in the assemblies, underscoring the difficulties in assembling the complete ribosomal operon in genome projects due to the limitations of genome assembly algorithms and sequencing technologies (Treangen and Salzberg
+
+We argue that full‐length rDNA operon reference sequences should not be established based on concatenated sequences from different sub‐parts, for example, 18S and 28S, derived from multiple specimens, as this could lead to erroneous concatenation of different operon variants. Moreover, high‐quality reference sequences should preferably be obtained from identified reference material, such as the sequencing of the full‐length operon or genome from individuals in the case of multicellular organisms or monoclonal cultures with low bacterial contamination in the case of single‐celled organisms (Liu and Chen
+
+The copy number of the ribosomal operon can vary substantially between lineages of eukaryotes with as many as 19,300 reported in animals, more than 26,000 in plants (Prokopowich, Gregory, and Crease
+
+It is commonly known that copies are usually found in tandem repeats, and concerted evolution mechanisms keep the copies highly uniform (Eickbush and Eickbush
+
+Using the full ROD dataset as reference sequences for environmental sequencing studies can help address the issue of multiple operon variants during the taxonomic annotation process. This might be especially important for organismal groups with divergent operons, such as Viridiplantae. Due to the initial 99% clustering of operons within each genome, we may underestimate the true variant numbers.
+
+High variation in the operon copy number was observed across the eukaryotic tree of life, with an average high copy number present in Viridiplantae. The copy number variability will introduce PCR bias in DNA metabarcoding projects with environmental samples, where genomes and taxa with high copy numbers will be preferentially amplified (Lavrinienko et al.
+
+Significant operon length differences are present between and within various taxonomic groups. Based on our data, the length variability seems especially prominent in Metazoa. One major cause for the extremely long variants is the presence of introns in several lineages (Bhattacharya et al.
+
+Due to the varying rates of molecular evolution across the rDNA operon, different regions provide different phylogenetic and taxonomic resolutions. This variation is further complicated by differing evolutionary rates in rDNA operons across the Tree of Life, making the selection of optimal barcoding regions and clustering settings for operational taxonomic units (OTUs) a significant challenge (Coleman and Mai
+
+The ROD database currently possesses a taxonomically highly skewed collection of reference sequences that reflect the distribution of available genomes in NCBI. Fungi are the dominating group, followed by Metazoa and Viridiplantae. Due to their small genome size and biotechnological importance, many fungal genomes have been sequenced and are available in public databases (de Vries, Grigoriev, and Tsang
+
+A.K.K. conceived the idea of establishing ROD and assembled the database. A.K.K. and E.S. did the analyses, H.K. and A.K.K. drafted the manuscript while all co‐authors commented and edited.
+
+The authors declare no conflicts of interest.
+
+This article has earned Open Data, Open Materials and Preregistered Research Design badges. Data, materials and the preregistered design and analysis plan are available at
+
+Figure S1.
+
+Table S1.

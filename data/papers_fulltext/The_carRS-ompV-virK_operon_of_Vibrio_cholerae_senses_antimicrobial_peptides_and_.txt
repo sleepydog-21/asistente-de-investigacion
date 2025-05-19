@@ -1,0 +1,133 @@
+Antimicrobial peptides (AMPs) are cationic molecules of low molecular weight with activity against bacteria, viruses, and fungi
+
+In this study, a transcriptomic analysis of
+
+We showed that
+
+The deletion of
+
+To identify new effectors of PmB resistance in
+
+
+
+Differential gene expression in
+
+
+
+STRING analysis of the genes with modulated expression in the presence of subinhibitory concentrations of polymyxin B. A1552 was grown to midlog phase in LB supplemented with 3 µg/ml of polymyxin B (PmB). The identified genes with significantly modulated expression in the presence of PmB were submitted to STRING for gene cluster enrichment analysis
+
+
+
+The expression of
+
+To determine whether the uncharacterized protein OmpV plays a role in resistance to AMPs, an
+
+In the presence of 25 to 100 µg/ml of PmB, a premature decline in OD
+
+Complementation of the
+
+
+
+Production of membrane vesicles and their contribution to survival of a 500 µg/ml polymyxin B treatment for A1552 and A1552Δ
+
+The integrity of the membrane might be impaired by the loss of OmpV, one of the most abundant proteins in the outer membrane
+
+
+
+Increased polymyxin B sensitivity of the
+
+When
+
+To determine if the affinity of the MVs for antimicrobial peptides is altered upon
+
+While looking at the genomic context of
+
+
+
+Subinhibitory concentrations of polymyxin B increase the expression of
+
+The role of
+
+Previous studies have demonstrated that outer membrane proteins, such as OmpU in
+
+
+
+To gain further insight into how OmpV may function in the process of AMP resistance, we predicted the structure of OmpV, without its predicted signal sequence (residues 1–19) using Alphafold2 as implemented within ColabFold
+
+
+
+OmpV has a membrane-accessible lateral opening into an electronegative pocket in the β-barrel lumen that can accommodate polymyxin B.
+
+The opening in the lateral wall of the OmpV barrel leads to a pocket in the lumen that is isolated from both the extracellular and periplasmic spaces due to the presence of several extracellular loops and a periplasmic plug region, respectively (Fig.
+
+In this study, we identified the outer-membrane protein OmpV as a new effector of antimicrobial resistance in
+
+Even at a concentration well below the MIC, PmB significantly impacted the transcriptome of
+
+OmpV is a major protein of the outer membrane of
+
+The deletion of OmpV did not affect MV production, suggesting that it does not play a role in this process. The MV protection assay suggests that OmpV has little to no impact on the capture of PmB by the MVs. The release of MVs by bacteria protects them from antimicrobials by acting as a decoy to capture and prevent AMP binding to the bacterial envelope
+
+The genomic context of
+
+Our RT-qPCR analysis of known PmB-resistance factors demonstrated that
+
+There are five TolC homologues in
+
+Since the modulation of
+
+We wondered how OmpV could act as a sensor for PmB and so examined its predicted structure. This revealed that it adopts a β-barrel architecture where both its periplasmic and extracellular openings are occluded. Instead, two short β-strands in the lateral wall of the OmpV barrel create an opening into an electronegative pocket in the lumen of the barrel that is accessible only through the membrane. The proposed porin function of OmpV is questioned
+
+According to the structure prediction and electrostatic surface potential calculations, we propose a model in which OmpV, a MipA structural ortholog (see Supplementary Figure S4), can sense PmB when it integrates into the outer-membrane via direct interaction with the electronegative barrel lumen, accessible through a membrane-integral gap in the β-barrel wall, and activate the expression of the efflux-pump VexAB through an unknown mechanism (Fig.
+
+
+
+Graphical summary of the proposed mechanism of resistance to polymyxin B mediated by the
+
+The
+
+The complementation of
+
+The
+
+Membrane vesicles (MVs) were isolated from 25 mL cell-free supernatant from 16 h cultures in LB, with or without 3 µg/ml of PmB, as described before
+
+To visualize the MV proteins, 10 µl of the MV preparations were suspended in 20 µl of Laemmli buffer 2X and boiled for 10 min at 100 °C. Then, 10 µl of the samples migrated on a 13% sodium dodecyl sulfate gel. Gels were further colored with Coomassie blue.
+
+The vesicle samples were prepared as described before. A volume of 10 µL was spotted onto a freshly cleaved mica surface coverslip and allowed to dry at room temperature. AFM imaging was carried out in air at room temperature using a Bioscope resolve AFM (Bruker) in the peak-force tapping mode, silicon cantilevers with a nominal spring constant of around 0.4 N/m, and a nominal tip radius of 2 nm (ScanAsyst-Air, Bruker). Vesicle height was determined from AFM images (height channel) using the grain analysis functions in the open source Gwyddion software
+
+Ninety microliters of midlog cultures were incubated for 30 min with 500 µg/ml of PmB at 37 °C, with or without 5 µl of MV preparations (final concentration 10 X), as described before
+
+Midlog cultures were stained using the fluorescent probes N-phenyl-1-naphthylamine (NPN) and propidium iodide (PI) as described before
+
+The genomic context of
+
+Total RNA from A1552 grown with or without 3 µg/ml of PmB to an OD
+
+The signal sequence of OmpV was predicted using SignalP 6.0
+
+All data are expressed as mean ± SD and were analyzed for significance using the GraphPad Prism version 10.2.2 for Windows (GraphPad Software, Boston, Massachusetts USA,
+
+
+
+Minimal inhibitory concentrations (MICs) of polymyxin B and LL-37.
+
+
+
+Bacterial strains and plasmids used in this study.
+
+
+
+Primers used in this study.
+
+CmR: chloramphenicol resistance cassette; Up: 1000 nt upstream region; Down: 1000 nt downstream region;
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1
+
+
+
+Supplementary Material 2

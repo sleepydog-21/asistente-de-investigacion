@@ -1,0 +1,11 @@
+{
+  "id": "39506351",
+  "title": "Genome reduction improves octanoic acid production in scale down bioreactors.",
+  "doi": null,
+  "authors": "Cordell WT, Avolio G, Takors R, Pfleger BF",
+  "journal": "Microbial biotechnology",
+  "year": "2024",
+  "abstract": "Microorganisms in large-scale bioreactors are exposed to heterogeneous environmental conditions due to physical mixing constraints. Nutritional gradients can lead to transient expression of energetically wasteful stress responses and as a result, can reduce the titres, rates and yields of a bioprocess at larger scales. To what extent these process parameters are impacted is often unknown and therefore bioprocess scale-up comes with major risk. Designing platform strains to account for these intermittent stresses before introducing synthesis pathways is one strategy for de-risking bioprocess development. For example, Escherichia coli strain RM214 is a derivative of wild-type MG1655 that has had several genes and whole operons removed from its genome based on their metabolic cost. In this study, we engineered E. coli strain RM214 (referred to as WG02) to produce octanoic acid from glycerol in batch-flask and fed-batch bioreactor cultivations and compared it to an octanoic acid-producing E. coli MG1655 (WG01). In batch flask cultivations, the two strains performed similarly. However, in carbon limited fed-batch bioreactor cultivations, WG02 provided a greater than 22% boost to biomass compared to WG01 while maintaining similar titres of octanoic acid. Reducing the biomass accumulation of WG02 with nitrogen limited fed-batch cultivation resulted in a 16% improvement in octanoic acid titre over WG01. Finally, in a scale-down system consisting of a stirred tank reactor (representing a well-mixed zone) and plug flow reactor (representing an intermittent carbon starvation zone), WG02 again improved octanoic acid titre by almost 18% while maintaining similar biomass concentrations as WG01.",
+  "source": "PubMed",
+  "pmcid": "PMC11540873"
+}

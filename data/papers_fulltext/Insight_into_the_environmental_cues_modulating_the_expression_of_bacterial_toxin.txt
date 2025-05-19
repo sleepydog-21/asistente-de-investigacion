@@ -1,0 +1,101 @@
+Forty years ago, the first toxin–antitoxin (TA) system, a type II TA system named CcdA/CcdB, was discovered on the
+
+In natural environments, bacteria reside within microbial communities, sharing a common living space in which they can be considered as predators of some microorganisms, as preys of phages or other microorganisms, or can form symbionts in biofilms. In this section, we will focus and summarize the current state of art on the regulation of TA systems expression during natural competence, phage infection, and biofilm formation. All these events are mainly under the control of the quorum-sensing (QS) and are summarized in Table
+
+Role of the microbial community on TA systems expression.
+
+Natural competence is the ability of bacteria to acquire foreign DNA from their environment (Dubnau and Blokesch
+
+Phages are categorized based on their life cycles as lytic or temperate. Upon infecting a bacterium, lytic phages initiate a cycle that leads to the production and release of viral particles during host lysis. Temperate phages, on the other hand, can enter either a lytic or a lysogenic cycle. During the lysogenic cycle, the phage genome integrates into the bacterial chromosome as a prophage. The prophage replicates along with the bacterial genome until environmental triggers, such as nutrient deprivation, induce phage activation into the lytic cycle. In response to phage infections, bacteria have evolved phage defense mechanisms, including restriction/modification (RM) systems, CRISPR-Cas, and abortive infection (Abi) systems (Kelly et al.
+
+Interestingly, an emerging function of TA systems is their role in phage defense (Kelly et al.
+
+Another well-documented example of TA systems activation in response to phage infection is the ToxIN type III TA system (Fineran et al.
+
+T4 phage infection leads to host shut-off transcription, ToxI antitoxin degradation and ToxN release.
+
+Interestingly, a recent study reported that the Retron-Sen2 system in
+
+Despite the growing number of TA systems identified as phage defense mechanisms, further research is needed to elucidate the precise triggers that activate the transcription of TA locus during on TA mediated-phage defense.
+
+Biofilms are structured, surface-attached microbial communities embedded in an extracellular matrix composed of polysaccharides, extracellular DNA (eDNA), and other components. This lifestyle protects bacteria from hostile environmental conditions, such as the host immune response and antibiotics, and is consequently associated with therapeutic treatment failures (Vuotto and Donelli
+
+TA systems can participate in biofilm formation or disruption. For instance, the deletion of five type II TA systems (MazEF, RelBE, ChpB, YoeB/YefM, and YafQ/DinJ) reduces biofilm formation after 8 hours but enhances it after 24 hours due to decreased biofilm dispersal in
+
+Quorum sensing (QS) is a cell-to-cell communication system used by bacteria to coordinate social behaviors in a cell density-dependent manner. QS involves the production of diffusible or secreted signaling molecules. As the bacterial population density increases, these signaling molecules accumulate in the extracellular medium and interact with their cognate receptors. This induces the expression of targets genes that contribute to bacterial adaptation, survival, and successful interactions with other organisms.
+
+The
+
+The plasmid-encoded PumAB type II TA system of
+
+To summarize, in this section, we reported examples demonstrating that TA systems expression can be influenced by transcriptional regulators associated with natural competence or QS, destabilization of antitoxin–toxin ratio following phage infection, and biofilm conditions.
+
+During infection, some bacteria survive within their host’s immune cells (macrophages and neutrophils) while being confronted to various stresses such as acid stress, nutrient starvation, or oxidative stress (Weiss and Schaible
+
+Impact of host stresses on TA systems expression.
+
+
+
+Interestingly, it was revealed that the transcriptional regulator SarA positively regulates the
+
+The Gram-negative bacterium,
+
+To combat invading bacteria, the host innate immune system produces antimicrobial compounds such as the LL-37 peptide. In
+
+
+
+Further research has revealed a link between the stringent response and TA systems regulation. In
+
+ObgE GTPase and stringent response activate
+
+A recent study investigated the toxin expression levels under
+
+
+
+Another study confirmed that
+
+
+
+
+
+The study of TA systems expression is not limited to human pathogenic bacteria. In
+
+In this part, we have listed the stresses encountered by pathogens in different niches inside their hosts, such as nutrient starvation, bile salts, low pH conditions, and oxidative stress, to which TA systems respond. Hence, TA systems could modulate bacterial physiology and consequently play a crucial role in bacterial virulence and pathogenesis.
+
+In this third section of the review, we will discuss the effect of xenobiotics on the regulation of TA systems expression in ESKAPEE and non-ESKAPEE pathogens. The examples presented in this section are summarized in Table
+
+Effect of xenobiotics exposure on TA systems expression.
+
+In
+
+
+
+
+
+As previously mentioned for the
+
+The SOS response activates
+
+The chromosomally encoded type I TA system ZorO–OrzO consists of the ZorO toxin and OrzO antitoxin. In
+
+Given the growing emergence of multidrug-resistant bacteria, new therapeutic strategies are needed to fight bacterial infections. Among these strategies, nanomaterials with bactericidal effects could be used (Wang et al.
+
+Recently, the effect of drugs not used for treating bacterial infections but to which bacteria may be exposed while living in their host’s body, was tested on bacterial resistance and persistence. For instance, antidepressants, widely consumed drugs, could contribute to antibiotic resistance and persistence in
+
+The Gram-negative bacterium
+
+
+
+Using RT-qPCR, expression of four type II TA systems (HP0315/HP0316, HP0892/HP0893, HP0894/HP0895, and HP0967/HP0968) belonging to the Vap family was investigated following antibiotic treatments (ampicillin, chloramphenicol, tetracycline, and kanamycin) (Cárdenas-Mondragón et al.
+
+In
+
+Collectively, these results demonstrate the complexity of TA systems regulation, as homologous systems exhibit divergent responses to identical antibiotics. Moreover, the expression of TA systems can also be influenced by other drugs, such as antidepressants.
+
+In this review, we emphasize the diversity and complexity of the mechanisms regulating TA systems expression, which leads to their activation. Bacteria encounter various environmental stresses that require rapid and precise adaptation by modulating the expression of genes and proteins. TA systems are extensively studied as general stress response modules that enable bacteria to adapt to these stresses. Environmental stresses, including antibiotics, nutrient starvation, and temperature fluctuations, can either upregulate or downregulate TA systems expression. Conceivably, due to the difference in half-life between the toxin and antitoxin components, conditions that impair antitoxin synthesis favor toxin accumulation, thereby activating the system. For example, during critical situations such as antibiotic exposure, nitrogen limitation, or oxidative stress, toxin-induced growth repression enables bacterial survival and persistence beyond the stress period. Environmental factors also regulate toxin activity through their antitoxins. For instance, the activity of the type VII TomB antitoxin is oxygen-dependent (Marimon et al.
+
+To gain deeper insight into these systems, exploring the impact of environmental stresses on TA systems expression at both transcriptional and translational levels would be insightful. For this purpose, the nFCM-TC-FlAsH strategy has been developed to monitor quantitative MqsA type II antitoxin production at the single cell level under various stresses (Wu et al.
+
+Antibiotic resistance is a major public health threat. TA systems can contribute to this threat by promoting the formation of biofilms or persister cells, enabling bacteria to evade antibiotics (Kędzierska and Hayes
+
+In conclusion, understanding TA systems regulation under physiological conditions rather than solely through overexpression will enhance our knowledge of their biological functions. This understanding is crucial for developing new effective therapeutic strategies against antibiotic-resistant bacteria and recurrent infectious diseases, but also innovations in agriculture and medicine fields.

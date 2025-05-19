@@ -1,0 +1,11 @@
+{
+  "id": "40108346",
+  "title": "The Escherichia coli AZY operon links copper uptake to antibiotic resistance.",
+  "doi": null,
+  "authors": "Palmer CD, Ghnamah Y, Livnat-Levanon N, Lewinson O, Rosenzweig AC",
+  "journal": "Communications biology",
+  "year": "2025",
+  "abstract": "Copper import to the bacterial cytoplasm has been underinvestigated as bacterial cuproenzymes are extracytoplasmic. However, copper must access the cytoplasm to interact with metal-dependent transcription factors. In particular, the multiple drug antibiotic resistance (mar) operon is induced by a copper signal, the source of which has not been established. Here we show that the Escherichia coli AZY operon, which encodes the copper-binding periplasmic proteins YobA and YebY and the putative copper importer YebZ, mediates copper uptake. Copper uptake by YebZ depends on two conserved histidine residues and is modulated by YobA and YebY. Moreover, the AZY proteins are necessary for activation of the mar operon and mediate resistance to multiple antibiotics in a copper-dependent fashion. AZY-like operons are widespread in gram-negative bacteria, suggesting that this previously unknown link between copper and antibiotic resistance is a general mechanism that may offer an alternative therapeutic target for multidrug resistance.",
+  "source": "PubMed",
+  "pmcid": "PMC11923076"
+}

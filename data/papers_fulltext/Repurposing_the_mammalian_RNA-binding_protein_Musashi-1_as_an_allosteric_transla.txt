@@ -1,0 +1,311 @@
+Gene regulation at the post-transcriptional level is pervasive in living organisms of ranging complexity (
+
+To address these intriguing questions, we adopted a synthetic biology approach where a specific RRM-containing protein was incorporated in a bacterium in order to engineer a post-transcriptional control module. Synthetic biology has highlighted how living cells can be (re)programmed through the assembly of independent genetic elements into functional networks for a variety of applications in biotechnology and biomedicine (
+
+Still, there are instances of bacterial proteins that regulate translation in a gene-specific manner, such as CsrA to control glycogen biosynthesis (
+
+In this work, the mammalian RNA-binding protein Musashi-1 (MSI-1) (
+
+(
+
+
+
+(
+
+System implemented with pRM1+ and pREP6 or pREP7, induction with 1mM lactose, showing no significant change (Welch’s
+
+From the amino acid sequence of
+
+We first characterized by bulk fluorometry the dose–response curve of the system using a lactose concentration gradient up to 1 mM. Our data show that MSI-1* downregulated sfGFP expression by 2.5-fold (
+
+In simple terms, protein expression comes from the product of the transcription and translation rates of the gene. Hence, we examined such a decomposition in the case of sfGFP expression regulated by MSI-1*. Of note, the low copy number plasmid harbors an additional transcriptional unit to express the monomeric red fluorescent protein mScarlet (
+
+We then introduced a series of point mutations into the SELEX RNA motif to assess their effect over the regulatory activity of the RRM-containing protein (
+
+(
+
+
+
+Induction with 1 mM lactose, showing no significant regulation (Welch’s
+
+(
+
+(
+
+To relate the cellular effects with protein–RNA interactions, we obtained a purified MSI-1* preparation in order to perform in vitro binding kinetics assays (
+
+Next, we tried to predict the impact of the mutations on sfGFP expression. On the one hand, we used an empirical free-energy model (RBS calculator) to obtain an estimate of the mRNA translation rate from the sequence (
+
+Translation regulation is more challenging than transcription regulation because mRNA is unstable compared to DNA, especially in bacteria. In
+
+(
+
+
+
+(
+
+(
+
+In addition, we studied the transient response of the gene circuit with lactose as both MSI-1* and sfGFP expressions changed with time. For that, we quantified the total red fluorescence of the cell population (
+
+The presence of stem-loop structures in the N-terminal coding region contributes to lower the expression level. The more stable and closer to the start codon, the greater the impact on expression (
+
+(
+
+
+
+Characterization of the response with lactose using pREP7 as a reporter plasmid (induction with 1 mM lactose), showing similar fluorescence values in the absence of lactose with and without
+
+As a further strategy to enhance the dynamic range of the response, we redesigned the 5′ UTR of
+
+The ability of proteins to respond to small molecules is instrumental for environmental and metabolic sensing. Previous work revealed that MSI-1 can be allosterically inhibited by ω–9 monounsaturated fatty acids and, in particular, by oleic acid (
+
+(
+
+
+
+
+
+(
+
+
+
+(
+
+(
+
+Subsequently, we assessed the effect of oleic acid over the regulatory activity of MSI-1* expressed in
+
+Transcription regulation has been engineered in
+
+(
+
+
+
+The mean expression and Fano factor are shown. Implementation with pRM1+ and pREP6. Schematics of the working modes of the synthetic gene circuit are shown.
+
+In addition, we analyzed how MSI-1* regulated noise in protein expression monitoring green fluorescence in single cells. Inducing the circuit of
+
+The successful incorporation of the mammalian MSI-1 protein as a translation factor in
+
+Interestingly, proteins associated with clustered regularly interspaced short palindromic repeats (CRISPR), which belong to the prokaryotic immune system, contain distorted RRM versions (
+
+In second place, our results pave the way for engineering more complex circuits in bacteria with plastic and orthogonal RNA-binding proteins, such as MSI-1, capable of signal multiplexing. Nature is a formidable reservoir of functional genetic material sculpted by evolution that can be exploited to (re)program specific living cells (
+
+Notably, advances in synthetic biology have pushed the bioproduction of a wide variety of compounds in bacteria as a result of a better ability to fine-tune enzyme expression (
+
+In addition, the Musashi protein family is of clinical importance, as in humans it is involved in different neurodegenerative disorders (e.g., Alzheimer’s disease) and some types of cancer (
+
+In conclusion, the functionalization of RRM-containing proteins in bacteria offers exciting prospects, especially as more information becomes available on how individual RRM domains bind to precise RNA sequences, interact with further protein domains, and respond to small molecules through allosteric effects. This work illustrates how synthetic biology, through the rational assembly of heterologous genes and designer
+
+To perform the dynamic assays with LigandTracer (Ridgeview),
+
+Luria-Bertani (LB) medium was used for the overnight cultures and M9 minimal medium (1× M9 minimal salts, 2 mM MgSO
+
+Cultures (2 mL) inoculated from single colonies (three replicates) were grown overnight in LB medium with shaking (220 rpm) at 37 °C. Cultures were then diluted 1:100 in fresh M9 medium (200 μL) with the appropriate inducer (lactose, IPTG, and/or aTC). The microplate (96 wells, black, clear bottom; Corning) was incubated with shaking (1300 rpm) at 37 °C up to 8–10 h (to reach an OD
+
+Cultures (2 mL) inoculated from single colonies (three replicates) were grown overnight in LB medium with shaking (220 rpm) at 37 °C. The overnight culture was plated (15 μL) in areas A and D of a MultiDish 2x2 plate (Ridgeview) coated with LB-agar. IPTG was added in areas A and B of the dish at the final concentration of 1 mM. Area C was kept free of cells/inducers as a reference. The dish was then placed in the rotating support of the LigandTracer instrument (Ridgeview) and incubated at 37 °C for 24 h. The fluorescence from sfGFP and mScarlet was quantified with time in the seeded areas of the dish using the BlueGreen (excitation: 488 nm, emission: 535 nm) and OrangeRed (excitation: 568 nm, emission: 620 nm) detectors. The readouts of the opposite parts of the dish were subtracted to correct the signals.
+
+Cultures (2 mL) inoculated from single colonies (three replicates) were grown overnight in LB medium with shaking (220 rpm) at 37 °C. Cultures were then diluted 1:100 in fresh LB medium (200 μL) to load a microplate (96 wells, black, clear bottom; Corning) with the appropriate concentrations of lactose (0, 100, 1000 μM), oleic acid (0, 20 mM), and/or aTC (15, 30, 100 ng/mL). The microplate was then incubated with shaking (1300 rpm) at 37 °C until cultures reached a sufficient OD
+
+Cells were grown in LB medium with shaking at 37 °C until OD
+
+Binding experiments of the purified MSI-1
+
+Six different RNA ligands (original and five mutants) were attached to the 5′ end of a generic 48 nt DNA ligand strand, which is part of the DNA linker system on the heliX adapter chip surface. All oligonucleotides were synthesized by Ella Biotech. The ligand strand was hybridized with an adapter strand carrying the fluorophore. Different fluorophores were tested toward their sensitivity for protein–RNA interactions. The green fluorophore Gb showed the most significant signal change. The other half of the adapter strand is complementary to a DNA anchor strand, which is pre-attached to the chip surface. The immobilization of the RNA used a standard functionalization procedure on the heliX device. Kinetic rate constants and affinities were obtained by fitting the experimental data with theoretical binding models implemented in the heliOS software (Dynamic Biosensors). Exponential decay models were used. As a negative control to check for unspecific protein–RNA binding, the single-strand RNA sequence CGGCGCCGC was used (without any binding motif). All data were referenced with a blank run and with the negative control.
+
+Cultures (2 mL) inoculated from single colonies (three replicates) were grown overnight in LB medium with shaking (220 rpm) at 37 °C. Cultures were then diluted 1:100 in fresh LB medium (2 mL) with the appropriate inducer (lactose) and were grown until OD
+
+The TaqPath 1‐step RT‐qPCR master mix, CG was used. Then, 1 µL of sample was mixed with 500 nM of forward and reverse primers, 250 nM of ssDNA probe, and 5 µL of the master mix for a total volume of 20 µL (adjusted with RNase-free water) in a fast microplate (Applied). Two independent mixes were prepared, one for targeting
+
+Mobility shift assays with the purified MSI-1
+
+LB-agar plates seeded with
+
+On the one hand, Hill equations were used to empirically model sfGFP expression with lactose/IPTG, eBFP2 expression with lactose, and sfGFP expression with eBFP2 expression (see Appendix 1 for details). On the other hand, a system of ordinary differential equations was developed to model the dynamic response of the synthetic gene circuit from a bottom-up approach. The system accounted for the intracellular mRNA and protein concentrations, considering a scenario of equilibrium to model both LacI-DNA and MSI-1*-RNA binding (see Appendix 3 for details). Parameter values were obtained by nonlinear fitting against our experimental data.
+
+The RMM1 of MSI-1 protein structure determined by nuclear magnetic resonance was downloaded from the UniProt database (
+
+The sequences of all genetic elements used in this work are presented in the Appendixes. Plasmids available upon request to the corresponding author.
+
+This
+
+The authors develop reporter constructs in
+
+The authors initial construct design led to only weak regulation by MSI-1, presumably because the MSI-1 binding sites were not suitably positioned to repress translation initiation. A more rationally designed construct led to considerably greater repression. A minor weakness of the paper is that the authors used their initial, weakly regulated construct to assess the effect of MSI-1 binding site mutations and for their mathematical modeling; these experiments would be better suited to the more strongly regulated construct.
+
+The following is the authors’ response to the original reviews.
+
+Summary of the reviewers’ discussion:
+
+The development of MSI-1 as a post-transcriptional regulator of gene expression in
+
+Authors’ response: We thank the reviewers and editor for this evaluation.
+
+We recommend that authors add experiments to test the mechanism of regulation by MSI-1 or soften their claims about translational regulation. We also recommend that the authors expand their discussion of other natural and synthetic regulatory systems that target translation.
+
+Authors’ response: In this revision, we have added new experimental results from RT-qPCR, bulk fluorometry, and flow cytometry assays to further support our conclusions. We have also enlarged the Introduction and Discussion.
+
+Adding an experiment to quantify the effect of oleic acid with the most strongly regulated reporter construct (i.e., flow cytometry with redesign-3) would substantially increase the impact of the work.
+
+Authors’ response: We have done this experimental quantification (see the new Fig. 5d).
+
+
+
+The authors develop reporter constructs in
+
+Authors’ response: We thank the reviewer for such appreciation of our work. Regarding the potential effects on RNA stability or transcription termination, we would like to highlight our results with the sfGFP-mScarlet bicistron (Fig. 6c), showing the specific regulation of sfGFP by MSI-1* and not of mScarlet. Anyway, for this revision we have conducted an RT-qPCR experiment to quantify the mRNA level of sfGFP to further support our conclusions (see the new Fig. S2).
+
+The author's initial construct design led to only weak regulation by MSI-1, presumably because the MSI-1 binding sites were not suitably positioned to repress translation initiation. A more rationally designed construct led to considerably greater repression. One weakness of the paper is that the authors did not use their redesigned construct that is more strongly repressed to demonstrate allosteric regulation by oleic acid using a comparable assay (e.g., flow cytometry) to that used in other experiments. The potential for allosteric regulation is a major strength of the MSI-1 system, so this is a significant gap. Similarly, the authors use the weakly regulated constructs to assess the effect of MSI-1 binding site mutations and for their mathematical modeling; these experiments would be better suited to the more strongly regulated construct.
+
+Authors’ response: For this revision, we have performed the flow cytometric quantification of the allosteric regulation by oleic acid in the redesigned-3 system (see the new Fig. 5d). Regarding the kinetic study, we focused on the reporter system with just one recognition motif for simplicity. A reporter system with two recognition motifs, thereby recruiting two different proteins, increases the complexity to distill the effect of point mutations.
+
+
+
+1. Figure 5. Panels c-f look at colonies on plates, with numbers from these data being difficult to compare with either the bulk fluorescence or single-cell fluorescence values shown in other figures. Supplementary Figure 8 shows data for single cells; these data would be more appropriate in Figure 5, with the plate-based data moving to the supplement. Moreover, measuring the effect of oleic acid on the redesign-3 reporter using flow cytometry would assess the impact of oleic acid on the most strongly regulated reporter; this would be the most impactful analysis.
+
+Authors’ response: We have redone Fig. 5 to include flow cytometry data (also for the system implemented with the redesign-3 reporter).
+
+2. Paragraph starting line 438. The authors should briefly discuss the potential for translational repression leading to reduced RNA stability, and in the case of rapid repression that impacts transcription-coupled translation, its impact on Rho-dependent transcription termination. These factors could alter the expression of neighboring genes.
+
+Authors’ response: As we have shown with the RT-qPCR experiment, the mRNA level of the target gene does not change in response to protein binding. We agree that mRNA stability could potentially be changed by using other RNA-targeting proteins. But in our view, a reduction of RNA stability is not a regulation of translation. We have added the following sentence in the Discussion: “The additional use of RNA-binding proteins able to alter mRNA stability might lead to the implementation of more complex circuits at the posttranscriptional level.”
+
+3. Figure 1. It would be informative to include a control where cells have an empty plasmid rather than a plasmid expressing MSI-1, to address leakiness of MSI-1 expression.
+
+Authors’ response: We have constructed a void plasmid as suggested and performed new bulk fluorometry assays. The new Fig. S8 shows the tight control of MSI-1* expression with the PLlac promoter. No apparent leakage is observed.
+
+4. Line 132. Where were the two sequences positioned with respect to each other than the start codon? It would be helpful to show the sequence in Figure 1.
+
+Authors’ response: The precise sequence is shown in the inset of Fig. 1b. The motif is placed just after the start codon.
+
+5. Line 135. The authors envisioned repression mechanism isn't clear from the text, specifically the meaning of "block the progression" and "initial phase". As far as I know, there is no precedent for RNA-binding proteins repressing translation in bacteria by preventing translation elongation. Presumably, repression in the context described here would be due to MSI-1 binding over the ribosome-binding site, although the predicted hairpin may also occlude binding of initiating 30S ribosomes in the absence of MSI-1 binding.
+
+Authors’ response: It is difficult to know the exact mode of action. In page 7, we have rewritten a sentence to have: “In this way, MSI-1* can repress translation by blocking the binding of the ribosome, presumably by imposing a steric hindrance for the 30S ribosomal subunit.”
+
+6. Figure 1e is overly complicated and hence is difficult to interpret. The key result is that mScarlet expression is unchanged as a function of lactose concentration. It is sufficient to show the inset graph as a supplementary figure panel and to conclude that regulation of sfGFP is at a post-transcriptional level. Similarly, the inset in Figure 4b is unnecessary.
+
+Authors’ response: The inset of Fig. 1e shows that the growth rate of the cells is almost constant when lactose varies. A change in growth rate will affect protein expression. The use of a two-reporter system, one regulated translationally and the other not, is instrumental to extract from fluorescence data estimates of transcription and translation rates. Of course, showing that mScarlet expression is almost constant when lactose varies would be sufficient, but we believe that performing a fine treatment of the data helps to better understand the regulatory system from a mathematical and mechanistic point of view. Therefore, despite increasing the complexity of the figure, we prefer to keep the representation of the Crick spaces (following Alon’s terminology, see our ref. 32). We have tried to carefully explain Fig. 1e in the text.
+
+7. Figure 1f and Figure 4c would be easier to interpret as two-dimensional plots.
+
+Authors’ response: We decided to use 3D plots to have more compact representations of the data in the main figures. The accompanying insets show the percentage of cells above the threshold, which helps to understand the regulatory effects. In any case, we have provided the corresponding 2D plots in Fig. S10.
+
+8. I don't think Figure 2e is relevant. The key result is shown in Figure 2f, i.e., the effect of mutations on regulation by MSI-1.
+
+Authors’ response: We agree with the reviewer that the key result is shown in panel f. However, we prefer to keep panel e in Fig. 2 because, even if negative, this result may incite further research. In addition, we avoid the rearrangement of the whole figure.
+
+9. Lines 311-313. Without additional evidence that the mutants are toxic, I suggest removing this text.
+
+Authors’ response: As suggested, we have removed that claim.
+
+
+
+Summary:
+
+Dolcemascolo and colleagues describe the use of the mammalian RNA-binding protein Musashi-1 (MSI-1) to implement translational regulation systems in
+
+Strengths:
+
+The experimental results are compelling and the characterization of the binding between MSI-1 and different RNA sequences is thorough and performed via multiple complementary techniques. Several new useful circuit components are demonstrated.
+
+Authors’ response: We thank the reviewer for such appreciation of our work.
+
+Weaknesses:
+
+MSI-1 provides 8.6-fold downregulation of sfGFP with an optimized mRNA sequence. In some applications, a larger degree of repression may be required.
+
+Authors’ response: We agree with the reviewer in this point. We expect to conduct further research in the future to optimize the dynamic range of the system. We have added the following sentence in the Discussion: “Further work should be conducted to enhance the fold change of the regulatory module and engineer complex circuits with it.”
+
+
+
+Overall, I think this paper is very well done and quite thorough. I only have minor suggestions:
+
+For Figures 1f and 4c, it is quite hard to interpret the fraction of cells above the threshold with the 3d perspective. It would be clearer to use a more standard 2d plot where the histograms are offset along the y-axis and the threshold is indicated by a vertical line.
+
+Authors’ response: We decided to use 3D plots to have more compact representations of the data in the main figures. The accompanying insets show the percentage of cells above the threshold, which helps to understand the regulatory effects. In any case, we have provided the corresponding 2D plots in Fig. S10.
+
+For Figure 4b, the highlighting of different sequence regions in red3 appears to be offset by one base (e.g. AAU is highlighted rather than AUG).
+
+Authors’ response: This has been corrected.
+
+For line 504, it seems that MSI-1* is used for two different proteins. A different name should be assigned to this 200-residue protein to avoid confusion with the other MSI-1*.
+
+Authors’ response: We now use the term MSI-1h* for the human version of the protein.
+
+The note (Page S12) that A_0 + A_R = alpha/delta only applies in steady-state conditions, which should be stated.
+
+Authors’ response: We have specified that.
+
+It seems that some authors work for the companies that sell some of the instruments/consumables used for the assays, specifically switchSENSE and LigandTracer. This may be something that should be declared under Competing Interests for the paper.
+
+Authors’ response: We are sorry for having missed this point. We have included a Competing Interests section to state that “RAHR and WFV work for Dynamic Biosensors. GPR and JB work for Ridgeview Instruments”.
+
+
+
+Summary:
+
+In this work, the authors co-opt the RRM-binding protein Musashi-1 to act as a translational repressor. The novelty of the work is in the adoption of the allosteric RRM protein Musashi-1 into a translational reporter and the demonstration that RRM proteins, which are ubiquitous in eukaryotic systems, but rare in prokaryotic ones, may act effectively as post-translational regulators in
+
+Authors’ response: For this revision, we have performed the flow cytometric quantification of the allosteric regulation by oleic acid in the redesigned-3 system, showing substantial de-repression of the system with the biochemical compound. We have redone Fig. 5 and modified the Results section accordingly. Aligned with the reviewers and editor, we believe that this new result helps to improve our manuscript.
+
+Strengths:
+
+The first major achievement of this work is the demonstration that a eukaryotic RRM protein may be used to posttranscriptionally regulate expression in bacteria. In my limited literature search, this appears to be the first engineering attempt to design an RBP to directly regulate translation in
+
+Authors’ response: We thank the reviewer for such appreciation of our work.
+
+The second achievement of this work is the demonstration that the allosteric regulation of Musashi-1 binding can be utilized to modulate the regulatory activity. However, the liquid culture demonstration (Suppl. Fig 8) shows that this is not a very effective switch, with de-repressed reporter activity showing substantial change but not approaching un-repressed activity. This effect is stronger when colonies are grown on a solid medium (Fig. 5).
+
+Authors’ response: As we have previously indicated, the flow cytometric quantification of the allosteric regulation by oleic acid in the redesigned-3 system in liquid culture showed substantial de-repression with the biochemical compound. It is now stated in the text the following: “Nevertheless, the system implemented with the redesign-3 reporter displayed a better dynamic behavior in response to lactose and oleic acid. In particular, the percentage of cells in the ON state increased from 0 (with 1 mM lactose) to 71% upon addition of 20 mM oleic acid (Fig. 5d).” This new result helps to improve our manuscript.
+
+Weaknesses:
+
+In this work, the authors codon optimize the mouse Musashi-1 coding sequence for expression in
+
+Authors’ response: In page 7, we have rewritten a sentence to have: “In this way, MSI-1* can repress translation by blocking the binding of the ribosome, presumably by imposing a steric hindrance for the 30S ribosomal subunit.” In addition, for this revision we have conducted an RT-qPCR experiment to quantify the mRNA level of sfGFP to further support our conclusions (see the new Fig. S2). As shown, there is no change in the mRNA level upon inducing the system with lactose.
+
+In subsequent sections of the work, the authors create a series of point mutations to assess RNA-protein binding and assess these via both a sfGFP reporter and in vitro binding assays (switchSENSE). Ultimately, it is difficult to fully rationalize and interpret the behavior of these mutants in the context provided. The authors do identify a relationship between equilibrium constant (1/KD) and fold-repression. However, it is not clear from the narrative why this relationship should exist. Fold-repression is one measure of regulator efficacy, but it is an indirect measure determined from unrepressed and repressed expression. It is not clear why unrepressed expression (in the absence of the protein) is expected to be a function of the equilibrium constant.
+
+Authors’ response: A mathematical derivation from mass action kinetics on why the fold change scales with 1/KD is provided in Note S2. It is the ratio between the unrepressed and repressed expression (i.e., fold change) what scales with 1/KD, but not the expression of a particular state. This kind of relationship has been previously established in the case of transcription regulation [see e.g. Garcia & Phillips, PNAS (2011), our ref. 39]. Our mathematical modeling results expand previous work by providing a single picture from which to analyze transcription and translation regulation.
+
+Subsequent rational redesign of the Musashi-1 binding sequence to produce three alternative designs shows that fold-repression may be improved to approximately 8.6-fold. However, the rationalization of why the best design (red3) achieves this increase based on either the extensive modelling or in vitro measured binding constants is not well articulated. Furthermore, this extent of regulation is approximately that which can be achieved from the PP7 system with its native components (Lim et al. J. Biol. Chem. 2001 276:22507-22513).
+
+Authors’ response: In the case of translation control, the regulation is more challenging because the target is quickly degraded, especially in bacteria (in contrast to transcription control, where the target is stable). This is acknowledged in the manuscript. Even though, it is possible to engineer synthetic circuits with sRNAs or RNA-binding proteins with sufficient dynamic range. We expect to conduct further research in the future to optimize the dynamic range of the system. We have added the following sentence in the Discussion: “Further work should be conducted to enhance the fold change of the regulatory module and engineer complex circuits with it.” Regarding the articulation of the results for the mutants and mathematical model, see our responses in the following questions.
+
+The application provided for this regulator (NIMPLY gate), is not an inherently novel regulatory paradigm, and it does not capitalize on the allosteric properties of Musashi-1, but rather treats Musashi-1 as a non-allosteric component of a regulatory circuit.
+
+Authors’ response: The NIMPLY gate refers to lactose and aTC as inputs. Considering oleic acid as an additional input will lead to a more complex logic. In the last Results section, we wanted to show that the post-transcriptional mechanism engineered with Musashi-1 can be useful specifically regulate a gene within an operon, to implement combinatorial regulation (i.e., coupling transcription and translation control), and to reduce protein expression noise. To these ends, the allosteric ability of the Musashi-1 was not so determinant. In this regard, it would be true that such fine regulatory effects might be achieved as well with non-allosteric RNA-binding proteins, such as MS2CP or PP7CP.
+
+
+
+1. In the introduction the authors should adequately address the native bacterial mechanisms that allow posttranscriptional regulation in bacteria as well as better discuss previous examples of translational repressors.
+
+Authors’ response: We have added the following paragraph in the Introduction: “Even though bacteria do not appear to exploit proteins to regulate translation in a gene-specific manner, it is worth noting that some bacteriophages do follow this mechanism to modulate their infection cycle. These are the cases, e.g., of the coat proteins of the phages MS2 (infecting
+
+2. Given the location of the Musashi-1 binding site in the sfGFP reporter, it may be blocking translation initiation, rather than blocking the progression of the ribosome once attached (line 134/135). The schematic in Fig 1a. is also not overly clear in describing the differences in mechanisms between eukaryotic and prokaryotic systems described in the text.
+
+Authors’ response: In page 7, we have rewritten a sentence to have: “In this way, MSI-1* can repress translation by blocking the binding of the ribosome, presumably by imposing a steric hindrance for the 30S ribosomal subunit.” In page 14, we have added the following sentence: “In this way, MSI-1* can also block the RNA component of the 30S ribosomal subunit.”
+
+3. The authors did not directly examine mRNA levels of their reporter to establish translational regulation. In many cases, inhibition of translation is accompanied by an increased degradation rate in bacterial systems. The authors do not seem to recognize this as a possible amplifier in their system, relying exclusively on normalization via another transcript produced from the same promoter (mScarlet).
+
+Authors’ response: For this revision we have conducted an RT-qPCR experiment to quantify the mRNA level of sfGFP to further support our conclusions (see the new Fig. S2). As shown, there is no change in the mRNA level upon inducing the system with lactose.
+
+4. The results presented for mutations 1-5 are not consistent with the author's models for what is occurring. In particular, mutant 1 displays a reduction in reporter production in the absence of Musashi-1, but the production in the presence does not change from the unaltered sequence. The claim that mutation 1 (in the UAG binding site) results in less binding and ultimately in less regulation is not substantiated since this loss of regulation is due to a reduction in unrepressed expression rather than an increase in expression when Musashi-1 is present.
+
+Authors’ response: We respectfully disagree with this appreciation. In the case of mutant 1, if the Musashi protein recognized the target mRNA with the same affinity as in the original scenario, the red bar would be much lower. Because the Musashi protein hardly recognizes the mutant-1 mRNA, the blue and red bars are quite similar. To clarify this point, we have added the following text in the manuscript: “Despite that mutation substantially reduced sfGFP expression in absence of MSI-1*, the presumed repressed state upon addition of lactose did not change much, suggesting the difficulty of the protein for targeting the mutated mRNA.”
+
+5. Given point 5 above, it is not clear to me why one would expect the 1/KD to be predictive fold-repression in the presence and absence of the repressor. I would rather see the relationship described as predictive in Fig. 2f (fold change vs. 1/KD) rather than the non-linear relationship. It is difficult to qualitatively evaluate the fit quality with the way the data are currently presented.
+
+Authors’ response: Note S2 provides a mathematical derivation from mass action kinetics on why the fold change scales with 1/KD. The R2 value that we provide for the fitting corresponds to the linear regression between fold and 1/KD, as specified in the figure legend. However, we think that the representation of fold vs. KD in log scale is more illustrative in this case.
+
+6. It is not clear what conclusion is determined from the computational modeling, or how this work contributes to the narrative presented. It does not seem like what is learned from these experiments is utilized for novel designs. Furthermore, several of the assumptions within the model may be problematic including the high rate of "elongation leakage" described and the lack of justification for RNA degradation rates utilized.
+
+Authors’ response: The mathematical modeling was performed to rationalize our experimental data. Our idea was more to recapitulate the observed dynamics than to guide the design of new systems. Our model might be exploited to this end in further research, as the reviewer suggests. Besides, elongation leakage is a concept that applies to both transcription and translation regulation systems, and it is not more than the ability of the RNA polymerase or ribosome to elongate even if there is a protein bound to the nucleic acid. This parameter can be set to 0 in the model if appropriate. Moreover, we cite the paper by Bernstein et al., PNAS (2002), our ref. 38, to justify that in
+
+7. The data presented in Figure 4 are not presented in a consistent way. While it would be somewhat redundant, including the 0 and 1 mM lactose data for red3 in Figure 4a would be helpful for comparison purposes.
+
+Authors’ response: We have added the requested bar plot in Fig. 4a.
+
+8. The presence of additional Musashi-1 sites upstream of the start codon in red3, and their impact on impact on the fold-repression may support an inhibition of the translation initiation model rather than an inhibition of elongation.
+
+Authors’ response: In page 7, we have rewritten a sentence to have: “In this way, MSI-1* can repress translation by blocking the binding of the ribosome, presumably by imposing a steric hindrance for the 30S ribosomal subunit.” In page 14, we have added the following sentence: “In this way, MSI-1* can also block the RNA component of the 30S ribosomal subunit.”

@@ -1,0 +1,61 @@
+In order to survive and colonize specific niches within their hosts, bacterial pathogens must rapidly respond to environmental signals and adjust the expression pattern of cellular factors involved in its pathogenesis. For this purpose, regulatory systems that control and coordinate the expression of functionally related subsets of genes are required. Chemically diverse molecules, such as proteins, regulatory RNAs, and low molecular weight non-proteinaceous molecules, also known as alarmones, can act as regulators of those regulatory circuits. The level of the alarmones can be quickly altered by specific enzymatic activities, thus mediating rapid changes in the pattern of gene expression. Guanosine tetra- and pentaphosphate, hereafter referred to as ppGpp, are modified nucleotides that are synthesized by the bacterial cells in response to different environmental signals as a result of unfavorable growth conditions [
+
+Uropathogenic
+
+The secreted α-hemolysin plays a key role during UTI by causing cytolytic and cytotoxic effects in a wide range of mammalian cell types [
+
+In previous reports, it was demonstrated that ppGpp plays a crucial role in the control of the expression of important colonization factors during the establishment of UTI by UPEC, such as type 1 fimbriae, antigen 43, and flagella [
+
+The effect of ppGpp on the expression of α-hemolysin produced by the
+
+To further corroborate these results, the amount of secreted toxin was monitored in cell-free supernatants from cultures of both Wt and ppGpp
+
+Our data show that ppGpp is required for optimal production of external α-hemolysin. This conclusion can be draw either by ppGpp acting as a positive regulator of the α-hemolysin expression or by ppGpp promoting its secretion to the external medium. If ppGpp is involved in the secretion of the α-hemolysin, one would expect accumulation of the toxin in the cytoplasm of the ppGpp
+
+The ppGpp
+
+Moreover, spontaneous prototrophic mutants from the ppGpp-deficient strain were selected in minimal media plates and the production of α-hemolysin was monitored on blood agar plates for 38 independent mutants. Up to 76% of the mutants restore α-hemolysin expression to levels detected in the ppGpp-proficient strain. The genetic link between the α-hemolysin expression and suppressor mutations of the ppGpp-deficiency phenotype further confirm the involvement of ppGpp in the regulation of α-hemolysin expression.
+
+Transcription from the
+
+ppGpp promotes the expression of RpoS-dependent genes by stimulating both
+
+The transcriptional antiterminator RfaH regulates
+
+Zur, a regulator that senses the intracellular levels of zinc in the cell [
+
+The H-NS protein has been found to silence the expression of the α-hemolysin encoded in the
+
+Overall, our data indicate that the ppGpp-mediated stimulation of the
+
+The expression of the α-hemolysin in the conjugative plasmid pHly152 is affected by environmental parameters such as temperature and osmolarity of the culture media [
+
+As seen in
+
+As previously indicated, the
+
+The J96 strain carries two
+
+ppGpp is required for the appropriate expression of the
+
+An infectious process requires a constant adaptation of the bacteria to the different environments encountered within the host. During this adaptive response, bacteria undergo severe reprogramming that affects genes from virtually all the functional categories. In many pathogens, genes that encode functions directly implicated in the pathogenesis have been acquired by horizontal gene transfer (HGT) mechanisms [
+
+An intense interplay among core genome-encoded regulators and HGT-genetic systems exists. Most studies have focused on silencing systems, mediated by core genome-encoded regulators that suppress uncontrolled expression of newly arrived genetic systems to promote establishment of the new genes in the genome. These mechanisms are exemplified by the H-NS-mediated silencing of HGT-DNA described in different bacterial species [
+
+Bacterial strains and plasmids used in this work are shown in
+
+The primers used in this work are listed in
+
+Strains and plasmids used in this work.
+
+Cell cytotoxicity was assayed on semiconfluent monolayers of T24 bladder epithelial cells (3·10
+
+The standard SDS-PAGE procedure was used and gels were stained with Coomassie blue. For immunoblotting, proteins were transferred to a PVDF membrane and detected with the monoclonal anti-α-hemolysin H10 [
+
+Total RNA samples were isolated from 1 mL of three independent cultures grown in LB at 37 °C up to an OD
+
+qPCR assays were performed using an ABI Prism 7700 sequence detector and TaqMan
+
+For the isolation of suppressor mutants, the strain JFV2 was grown in LB medium at 30 °C until mid-log phase. Cells were washed, plated on M9 minimal media plates, and incubated at 37 °C. ppGpp-deficient suppressor mutants were selected based on their ability to grow in minimal media (prototrophs). A collection of 38 clones was tested for their hemolytic phenotype on blood agar plates after introducing the pSF4000 plasmid.
+
+Differences between average values were tested for significance by performing an unpaired two-sided Student’s

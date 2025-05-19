@@ -1,0 +1,11 @@
+{
+  "id": "39215040",
+  "title": "Tail assembly interference is a common strategy in bacterial antiviral defenses.",
+  "doi": null,
+  "authors": "He L, Miguel-Romero L, Patkowski JB, Alqurainy N, Rocha EPC, Costa TRD, Fillol-Salom A, Penadés JR",
+  "journal": "Nature communications",
+  "year": "2024",
+  "abstract": "Many bacterial immune systems recognize phage structural components to activate antiviral responses, without inhibiting the function of the phage component. These systems can be encoded in specific chromosomal loci, known as defense islands, and in mobile genetic elements such as prophages and phage-inducible chromosomal islands (PICIs). Here, we identify a family of bacterial immune systems, named Tai (for 'tail assembly inhibition'), that is prevalent in PICIs, prophages and P4-like phage satellites. Tai systems protect their bacterial host population from other phages by blocking the tail assembly step, leading to the release of tailless phages incapable of infecting new hosts. To prevent autoimmunity, some Tai-positive phages have an associated counter-defense mechanism that is expressed during the phage lytic cycle and allows for tail formation. Interestingly, the Tai defense and counter-defense genes are organized in a non-contiguous operon, enabling their coordinated expression.",
+  "source": "PubMed",
+  "pmcid": "PMC11364771"
+}

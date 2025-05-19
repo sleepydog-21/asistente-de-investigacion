@@ -1,0 +1,39 @@
+Steroids are the second largest class of drugs after antibiotics. It has remarkable physiological and pharmacological functions, such as anti-allergy, anti-infection and anti-shock [
+
+In
+
+Transcription regulators play a regulatory role in the transcription level in response to environmental or cell signals. The changes in their expression and regulatory ability play an important role in maintaining the survival status and productivity of strains [
+
+The strains, primers, and plasmids used in this study are shown in
+
+Gene overexpression and deletion methods have been reported in previous studies [
+
+For qRT-PCR analysis, the strains were cultured for 60 h and collected by centrifugation at 8000×
+
+The
+
+PCR probe preparation was performed using puc57 plasmid with promoter sequences upstream of the
+
+As in the EMSA reaction system, the purified FAM-labeled DNA probe was bound to the purified gradient protein concentration at room temperature at 25 °C for 30 min. After the reaction, add 5 µL of enzyme digestion system containing 10× React buffer (Thermo Fisher Scientific, Shanghai, China, EN0521), 1 M CaCl
+
+The growth of cells was determined by optical density in a medium free of phytosterols. However, cell growth in a culture medium containing phytosterols is challenging to measure by using this method. In this study, the cells extracted with ethyl acetate were resuspended in PBS, and then the absorbance value of OD
+
+Intracellular propionyl-CoA levels were detected using a modified method previously described by Xu et al. [
+
+In the process of phytosterol conversion, samples were taken every 24 h, an equal volume of ethyl acetate was added to 0.8 mL of fermentation broth, ultrasonic extraction was carried out for 30 min, centrifugation at 12,000×
+
+For the data that requires statistical analysis in the article, we used GraphPad Prism 8.02(263) and Origin 2024 for processing and conducted unpaired
+
+The PCC pathway-related gene cluster was analyzed for
+
+To study the expression regulation of the transcription factor PccD on the adjacent
+
+The gene structure analysis of the
+
+Msp produces a toxic intermediate propionyl-CoA while metabolizing phytosterols to AD. Previous studies have shown that enhancing the intracellular PCC pathway is helpful to the growth of strains in a medium containing phytosterols, and the cell viability and AD transformation yield of recombinant bacteria are effectively improved [
+
+The process of transforming phytosterol into AD in
+
+The excessive propionyl-CoA produced by the conversion of phytosterols by
+
+In this paper, succinate, an intermediate metabolite in the propionate metabolic pathway, was shown to affect the binding activity of the transcription factor PccD to the

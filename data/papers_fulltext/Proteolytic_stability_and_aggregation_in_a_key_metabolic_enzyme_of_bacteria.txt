@@ -1,0 +1,83 @@
+Protein conformational flexibility is intimately connected with both protein aggregation and degradation, as protein unfolding is a key step in proteolytic pathways while conformational rearrangements are involved during nucleation and growth of aggregates (
+
+β-galactosidase is necessary for lactose metabolism in
+
+Structurally, LacZ is a tetrameric protein (
+
+Previous studies focusing on gene expression costs in the
+
+We address the in vivo proteolytic stability of LacZ, from polypeptide expression to oligomerization of monomers and dimers into functional LacZ tetramers. To probe the mechanism of LacZ’s proteolytic stability, we destabilize LacZ using a set of ssrA tags spanning a range of degradation rates, and use the Miller assay to measure LacZ activity levels (
+
+We engineered
+
+To evaluate the degradation of LacZ, we measured LacZ activity levels using the Miller assay during growth in glucose and lactose transitions (
+
+Effect of attachment of ssrA tags to the C terminus of LacZ during induction and repression of the
+
+To decouple
+
+To enhance steric accessibility of the ssrA tags to the SspB adapter protein (
+
+We tested whether the lack of functional LacZ degradation was specific to the native
+
+To obtain a positive control for degradation, we used a functional, chromosomally encoded LacZ-GFP fusion protein (
+
+Degradation assay and microfluidic measurements for strain expressing the ssrA-tagged LacZ-GFP fusion. (
+
+To determine whether the ssrA-tagged GFP was degraded when fused to LacZ, we attached two additional ssrA tags (ssrA
+
+Maturation of the LacZ polypeptide into functional LacZ protein involves several steps, including folding of monomers, dimerization, and tetramerization (
+
+Using α-complementation to probe mechanism of proteolytic stability of LacZ. (
+
+To observe degradation of LacZ
+
+To measure the dynamics of α-complementation during induction starting from a fully uninduced state and a fully expressed α-peptide, we grew the
+
+To infer the presence of LacZ
+
+To directly observe LacZ
+
+Previously, it was found that monomers and dimers of LacZ aggregate in vitro (
+
+Proteotoxic stress phenotypes of tetramerization-deficient LacZ expressing strains. (
+
+To uncover if other proteotoxic stress phenotypes were associated with aggregates in vivo, we grew the strains with and without aTc, measured their cell densities, and calculated their growth rate dynamics. We found that in the presence of aTc, the
+
+To determine whether the mechanism of proteolytic stabilization of LacZ is consistent with the observed lactose induction kinetics of the WT and ssrA-tagged strains, we fit the measurements using a biophysical model. The model’s dynamical variables are the LacZ monomer (
+
+Modeling tetramerization, degradation, and aggregation dynamics. (
+
+The duration of the lag phase is determined by both the basal LacZ monomer production rate,
+
+We used a modified version of the above model to estimate the rates of α-complementation in the
+
+We followed the course of β-galactosidase proteolysis and found that tetramerized LacZ is protected from degradation when attached with ssrA tags (
+
+To reach our conclusion regarding the lack of degradation of functional LacZ, we attempted to increase the likelihood of degradation in several ways. First, we attached flexible peptide linkers which would increase the accessibility of the ssrA tag to the SspB adapter protein. Even with a more accessible ssrA tag, functional LacZ was not degraded (
+
+By preventing the tetramerization of LacZ using the
+
+Our findings support a simple biophysical model with three molecular species: monomeric, tetrameric, and aggregated LacZ (
+
+The degradation rate that we infer for the
+
+Our visualization of aggregation in vivo revealed that in a subset of cells, the aggregates were surrounded by a membrane. We speculate that aggregates may sterically exclude the nucleoid leading to a nucleoid-free space, which enables membrane invagination through ectopic engulfment by the divisome (
+
+Our bulk growth rate measurements revealed a pronounced growth rate reduction in the
+
+Our LacZ-based model system to study proteotoxic stress phenotypes in
+
+In uncovering the mechanism of proteolytic stability of LacZ, we harnessed the power of ssrA tags, which are becoming a major tool in studying bacterial physiology and in synthetic biology applications (
+
+Proteins in nature exhibit a wide range of proteolytic stabilities, from fully disordered proteins (
+
+Details of
+
+Appendix 01 (PDF)
+
+Dataset S01 (XLSX)
+
+Dataset S02 (XLSX)
+
+Dataset S03 (XLSX)

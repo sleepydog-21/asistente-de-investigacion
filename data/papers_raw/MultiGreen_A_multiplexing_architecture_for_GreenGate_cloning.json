@@ -1,0 +1,11 @@
+{
+  "id": "39292669",
+  "title": "MultiGreen: A multiplexing architecture for GreenGate cloning.",
+  "doi": null,
+  "authors": "Pennetti VJ, LaFayette PR, Parrott WA",
+  "journal": "PloS one",
+  "year": "2024",
+  "abstract": "Genetic modification of plants fundamentally relies upon customized vector designs. The ever-increasing complexity of transgenic constructs has led to increased adoption of modular cloning systems for their ease of use, cost effectiveness, and rapid prototyping. GreenGate is a modular cloning system catered specifically to designing bespoke, single transcriptional unit vectors for plant transformation-which is also its greatest flaw. MultiGreen seeks to address GreenGate's limitations while maintaining the syntax of the original GreenGate kit. The primary limitations MultiGreen addresses are 1) multiplexing in series, 2) multiplexing in parallel, and 3) repeated cycling of transcriptional unit assembly through binary intermediates. MultiGreen efficiently concatenates bespoke transcriptional units using an additional suite of level 1acceptor vectors which serve as an assembly point for individual transcriptional units prior to final, level 2, condensation of multiple transcriptional units. Assembly with MultiGreen level 1 vectors scales at a maximal rate of 2*⌈log6n⌉+3 days per assembly, where n represents the number of transcriptional units. Further, MultiGreen level 1 acceptor vectors are binary vectors and can be used directly for plant transformation to further maximize prototyping speed. MultiGreen is a 1:1 expansion of the original GreenGate architecture's grammar and has been demonstrated to efficiently assemble plasmids with multiple transcriptional units. MultiGreen has been validated by using a truncated violacein operon from Chromobacterium violaceum in bacteria and by deconstructing the RUBY reporter for in planta functional validation. MultiGreen currently supports many of our in-house multi transcriptional unit assemblies and will be a valuable strategy for more complex cloning projects.",
+  "source": "PubMed",
+  "pmcid": "PMC11410190"
+}

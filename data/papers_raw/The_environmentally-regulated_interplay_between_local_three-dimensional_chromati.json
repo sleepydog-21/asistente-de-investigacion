@@ -1,0 +1,11 @@
+{
+  "id": "37978176",
+  "title": "The environmentally-regulated interplay between local three-dimensional chromatin organisation and transcription of proVWX in E. coli.",
+  "doi": null,
+  "authors": "Rashid FM, Crémazy FGE, Hofmann A, Forrest D, Grainger DC, Heermann DW, Dame RT",
+  "journal": "Nature communications",
+  "year": "2023",
+  "abstract": "Nucleoid associated proteins (NAPs) maintain the architecture of bacterial chromosomes and regulate gene expression. Thus, their role as transcription factors may involve three-dimensional chromosome re-organisation. While this model is supported by in vitro studies, direct in vivo evidence is lacking. Here, we use RT-qPCR and 3C-qPCR to study the transcriptional and architectural profiles of the H-NS (histone-like nucleoid structuring protein)-regulated, osmoresponsive proVWX operon of Escherichia coli at different osmolarities and provide in vivo evidence for transcription regulation by NAP-mediated chromosome re-modelling in bacteria. By consolidating our in vivo investigations with earlier in vitro and in silico studies that provide mechanistic details of how H-NS re-models DNA in response to osmolarity, we report that activation of proVWX in response to a hyperosmotic shock involves the destabilization of H-NS-mediated bridges anchored between the proVWX downstream and upstream regulatory elements (DRE and URE), and between the DRE and ygaY that lies immediately downstream of proVWX. The re-establishment of these bridges upon adaptation to hyperosmolarity represses the operon. Our results also reveal additional structural features associated with changes in proVWX transcript levels such as the decompaction of local chromatin upstream of the operon, highlighting that further complexity underlies the regulation of this model operon. H-NS and H-NS-like proteins are wide-spread amongst bacteria, suggesting that chromosome re-modelling may be a typical feature of transcriptional control in bacteria.",
+  "source": "PubMed",
+  "pmcid": "PMC10656529"
+}

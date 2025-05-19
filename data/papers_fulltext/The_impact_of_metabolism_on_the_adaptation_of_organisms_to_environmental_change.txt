@@ -1,0 +1,111 @@
+The mechanisms that enable organisms to adapt metabolically to sudden alterations in their environment have been studied for over a century. Much of this work has been directed at understanding the changes in levels of gene expression that often occur when organisms are challenged this way. Consequently, and not surprisingly, most of the explanations offered for these adaptations have assigned a determinative role to genetic regulation. The paradigm for these models is a product of Monod’s and Jacob’s ground-breaking studies of lactose metabolism in
+
+Before we review evidence for the importance of the role of metabolism in adaptation, we define the terms we will use to describe models of how organisms adapt to sudden environmental changes. For convenience, we will describe models for metabolic adaptation that ascribe it predominantly, if not exclusively, to changes in gene expression as “genetically driven.” Elsewhere in the literature models of this sort are often referred to as “top-down” (
+
+The degree to which genetically driven models for adaptation have come to permeate the biological literature hardly needs to be described here. For example, the premise that adaptation is genetically driven has been fundamental to much of the research that has been done on the human genome (
+
+Even though there is clear evidence that there are aspects of metabolic adaptation that genetically driven models cannot explain, it has had little impact. For all intents and purposes, in fields ranging from molecular to evolutionary biology, alterations in levels of gene expression are presented as the sole drivers of metabolic adaptation. In medical science, rapid metabolic adaptations and maladaptations, e.g., the elevation in blood glucose seen in diabetics, are well known and well studied. Nevertheless, the continued emphasis of the NIH and medical science in general on finding genetic explanations for metabolic diseases (
+
+We agree with previous critiques that the almost exclusive focus in some fields on genetic driven adaptation mechanisms has been a barrier to progress (
+
+Neither of the adaptations we are about to discuss is instantaneous. It takes about 2 h for yeast experiencing the Crabtree effect to become fully adapted to growth on glucose, and it takes about 45 min for
+
+During the first stage of any transition phase, the existing metabolic apparatus of the cell is almost always suboptimal for growth under the new conditions because it was optimized for growth under the conditions that prevailed before the environment changed, However, and quite obviously, in order for the cell to adapt to the new conditions, its existing metabolic systems must be able to keep it alive long enough for adaptation to occur. We will refer to the capacity of metabolic systems to adapt adequately under a range of external conditions as metabolic plasticity. Under most conditions, changes in the properties of existing enzymes caused by mechanisms such as phosphorylations, dephosphorylations, and allosteric mechanisms are needed to give cells the metabolic plasticity they require, but, importantly, adjustments like these can occur in seconds to a few minutes, long before changes in gene expression can take place.
+
+The second stage of the transition phase is characterized by the changes in gene expression that will be needed to provide the cell with the optimal metabolic system for growth under the new conditions. Tens of minutes or more are required for this to happen. As we will see, these changes are often triggered by alterations in the intracellular milieu caused by the activities of the suite of enzymes that was present in the cells during the first stage of the transition.
+
+It follows that it is appropriate to describe both of the metabolic adaptations we will discuss here, as well as many others, using the scheme outlined in
+
+Time course of adaptation to glucose metabolism in Crabtree yeast (e.g.,
+
+In 1928, Herbert Grace
+
+It has long been known that the enzymes involved in the glycolytic pathway are expressed constitutively in yeast. Not surprisingly, therefore, the explanation originally offered for the Crabtree effect was that it is a metabolically driven adaptation that depends almost entirely on the allosteric activation of a single glycolytic enzyme, phosphofructokinase (PFK), the activity of which was believed to be rate limiting for that pathway (
+
+The traditional model for the upregulation of glycolysis and ETOH production during the Crabtree effect. Fluxes are indicated by numbers beneath the corresponding flux arrows. All fluxes are normalized to the rate (100) of phosphofructokinase in the final state of fermentation. Red arrows indicate the ATP consumption fluxes by the HK and PFK reactions, and green arrow indicates ATP production by the distal portion of the glycolytic pathway.
+
+Once techniques became available that made it possible to examine changes in rates of gene expression, and to estimate the concentrations of enzyme isoforms in yeast, it became obvious that the Crabtree effect has a genetic component too. About 40 min after glucose addition, major changes in rates of gene expression occur that result in the wholesale replacement of the isoforms of the glycolytic enzyme that were present before glucose became available with different isoforms (
+
+As the phenomenology discussed above makes clear, a lot more happens in the roughly 2 h it takes for yeast cells to become fully adapted to fermenting glucose than had been first thought. During the initial transition phase prior to gene expression changes, yeast rapidly adapt to the availability of glucose. The flux though their glycolytic enzymes increases both because there is now substrate available, and because they have been activated by post translational mechanisms that depend on allostery (
+
+
+
+It would have been difficult to understand the role played by the shunts and futile cycling if the discipline called metabolic control analysis (MCA) had not come to maturity at about the same time. MCA originated in the mid 1970s, and since that time it has been a major contributor to the development of a rigorous, quantitative framework for understanding the properties of metabolic systems (
+
+Two of the several general theoretical and experimental principles discovered using MCA are relevant here. First, the flux through pathways is almost always controlled collectively by the activity and kinetic properties of many of the enzymes involved, not just one, and that is why mutations that alter the activity of PFK can have so little impact on the glycolytic flux (
+
+
+
+The role played by the shunts during the initial transition phase was not understood until quite recently. Using an advanced form of MCA called Supply and Demand Analysis (
+
+After approximately 30 min, a new metabolic steady state is achieved, as shown in
+
+Metabolic fluxes, cell signaling, and gene expression during the Crabtree Effect: second stage of the transition (gene expression) and final state (glycolysis).
+
+The reason these enzymatic alterations have selective value is that the shunts consume ATP that can be better used for other purposes. Futile cycling and glycogen synthesis, which are necessary for maintaining homeostasis during the first stage of the transition state, come at a cost. When yeast cells are operating this way, glycolysis results in no net ATP production. In addition, these alterations allow all of the glycogen synthesis flux to be used for ethanol production, which is believed to provide yeast species that exhibit the Crabtree effect a competitive advantage over other microorganisms (
+
+But how does the cell suppress the shunts while still maintaining homeostasis of branchpoint intermediates, and why is a whole sale replacement of glycolytic enzyme isoforms required? Using supply and demand MCA (
+
+For those familiar with the view that gene expression drives metabolic adaptation, it may come as a surprise that the changes in gene expression that occur during second stage of the Crabtree effect transition phase are not induced directly by the change in external glucose concentration. As shown by the red arrows in
+
+After approximately 120 min a new steady state is reached, in which the flux through the glycogen shunt is repressed, and the glycolytic enzymes that were present initially have largely been replaced by new isoforms (blue dashed arrows in
+
+It is also important to point out that the properties the cells display after the genetic portion of the adaption process has run its course are not determined solely by the new environmental conditions, as one might expect if adaptation was entirely driven by genetics. They depend on the history of the cells before it was challenged by the addition of glucose to the medium, and that is true also for the process that unfolds during the transition phase. For example, depending on the amount of glycogen the cells contained when they were first challenged by the addition of glucose to the medium, as well as the presence or absence of other substrates such as amino acids, the net effect of the glycogen shunt will either be to synthesize glycogen, or to break it down, or engage in trehalose futile cycling (
+
+By around the 1960s, it was known that
+
+By the mid-1960s, the model for how cells that have been growing on a medium that contains both glucose and lactose adapt after the glucose runs was quite simple (
+
+The traditional, two-state, top-down description of the adaptation of E. coli to growth on lactose.
+
+When the glucose supply is exhausted, growth stops, and dilution stops also. The concentrations of both lactose and allolactose in the cytoplasm begin to rise. At some point, the allolactose concentration gets high enough so that the inhibition of the lac operon by the repressor begins to be relieved. The rates of synthesis of lac permease and beta galactosidase will start to rise, which lead to a further increase in allolactose concentration, further favoring the derepressed state of the lac operon. Once the amounts of both enzymes get high enough, the cells will be able to grow on lactose. Thus, as far as anyone knew in the early 1960s, the adaptation just described depended entirely on the properties of the repressor and the proteins encoded by the lac operon, and that beyond keeping the cells alive, the metabolism that goes on in the cell during the ∼45 min it takes for cells to switch from growth on glucose to growth on lactose was irrelevant.
+
+As already noted, the transition phase that is such an obvious feature of diauxic growth was neglected in the original model for the glucose to lactose adaptation in
+
+The key actor in this drama that Jacob and Monod did not know about in 1960 is EIIA
+
+Transition phase model for the adaptation that occurs when
+
+Thus the state of phosphorylation of EIIA
+
+The transition phase for this adaptation. Begins when the glucose supply runs out, and growth ceases. During the first stage of the transition, three things happen that will ultimately result in the de-repression of the lac operon: 1) the dilution caused by growth stops, 2) the inhibition of lac permease by EIIA
+
+Note that when growth resumes, growth-related dilution will again come into play, and the concentrations of all of the molecule involved in lactose metabolism will be determined by the ratios of their rates of synthesis/uptake to their rates of dilution/destruction. It is important to realize that the mechanisms that repressed lactose expression during the initial state, and were not operational during the transition phase, play a role in determining the characteristics of the new steady state. They are activated because the hydrolysis of lactose catalyzed by beta galactosidese generates glucose directly, as well as galactose, which is ultimately converted to glucose. Therefore, even in the final state, metabolism is still having an effect on gene expression.
+
+It is important to point out that the rate of gene expression in the final state depends not only upon initial environmental conditions, but also the cell’s prior history (
+
+The importance of metabolic plasticity in a transition state, and how successful long term adaptation depends upon it, is demonstrated by the phenomenon referred to as lactose killing (
+
+Since the time of Mendel, if not before, biologists have realized that organisms have long term memory systems, i.e., genomes, and by the middle of the 20th century, it was realized that they are made of nucleic acid. The sequence information in an organism’s genome is remarkably stable, and largely insensitive to changes in its environment or to its lifetime experiences. Genomic changes, i.e., mutations and/or rearrangements, are rare, and largely random events, but they can have consequences that affect the fitness of an organism and its progeny into the indefinite future. If it were true of all metabolic adaptations that the physiological properties of cells that have undergone any particular metabolic adaptation were independent of the properties they displayed in their initial steady states, and that they could be accurately predicted using genomic information alone, the contributions made by metabolism to adaptations, however interesting they might be, would be of mechanistic interest only. The metabolically determined vs. genetically determined distinction made earlier would then be a chimera because it would then be possible to argue that outcomes are 100% genetically determined.
+
+The issue of whether genetics fully explains all adaptations was addressed in the summary paper Jacob and Monod wrote for the 1961 Cold Spring Harbor Symposium in Quantitative Biology (
+
+“. . for instance, in the system shown below (
+
+Systems like these could make cells “remember” what the conditions were that they had experienced earlier, but would be genetic in nature, rather than metabolic.
+
+Since the early 1960s, there has been a tremendous increase in our knowledge of non genetic mechanisms that make the responses of cells to environmental challenges dependent on their prior histories. We have alluded to only a small fraction of them here, e.g., see (
+
+Although epigenetics is still considered by many to be the major mechanism that makes cellular adaptations history-dependent, recent studies have revealed that post translational modifications of proteins and cellular organelles can have the same effect. For example, long term conditioning of muscle mitochondrial metabolism by exercise has been shown to be regulated independently of both gene expression and epigenetic modifications of the genome (
+
+As shown in
+
+Epigenetic modifications are often thought of as direct responses to environmental changes that are not mediated by metabolism. For example, in
+
+We can think of several reasons why organisms might have evolved to have a high degree of metabolic plasticity, and to use metabolism during the transition phase to regulate gene expression as well as alter the properties of cells over the long term epigenetically, and by post translational modification of proteins. The most obvious of them is speed. Adaptations that depend on changes in gene expression are slow to occur. Even in fast-growing organisms like bacteria, they can take tens of minutes to become manifest. The processes that modulate enzyme activities have much faster time constants, a second or better. The Crabtree effect provides a case in point.
+
+There is also a more subtle benefit to having metabolism contribute to the control of gene expression. With the development of techniques or measuring gene expression in single cells, it has been discovered that for stochastic reasons, within any given population, there can considerable, cell-to-cell variation in the capacity to respond to environmental stimuli. These are caused variations in protein levels in the initial state (
+
+When thinking about the way metabolism interacts with the genome, one is led to wonder how much information about the metabolic state of an organism needs to be stored and processed by the systems that regulate gene expression. This issue was first commented upon by scientists like
+
+The high metabolic plasticity evident during the transition phases of the two adaptations described above may play a role in the much longer term adaptations that occur during evolution. The majority of research in evolutionary biology follows what has been called the Modern Synthesis (
+
+Proponents of the phenotypic plasticity concept have primary identified the source of this plasticity as being determined by the range of gene expression an organism is capable of, which may be expanded epigenetically (
+
+Analysis of the adaptations phases for the Crabtree effect and
+
+Given the failure of models for metabolic adaptation that are either purely genetic or purely metabolic to fully describe even the simplest examples of metabolic adaptation, it seems to us that it is high time to stop trying to generate models of either type. Neither should be pursued to the exclusion of the other either in the introductions and/or discussions of papers, let alone in educational materials such as text books. Instead, explanations of adaptive processes should acknowledge the roles played by metabolic phenotype and plasticity as well as changes in gene expression. Although the models for adaptation that emerge will be more complex than they would be otherwise, they will force both investigators and students to confront the dynamic interactions that occur between the environment, a cell’s metabolism, and its genome, the understanding of which is the true challenge for those concerned with adaptive processes in biology. A similar conclusion applies to the integration of signaling pathways and epigenetic and post translational modifications.
+
+One of the goals of this paper is to call attention to the importance of metabolic plasticity for both short-term and long term metabolic adaptation. Despite the advances that have been made in identifying metabolic mechanisms such as the glycogen and trehalose shunts that confer plasticity, and the many direct feedback and feed forward control mechanisms that make it possible for metabolic systems to influence gene expression, the number of publications that include metabolism in their final descriptions of adaptive control is small. Perhaps even more regrettable, the dynamic interplay between the environment, metabolism, signaling pathways, and gene expression that occurs during transition phases is largely omitted. Instead, no matter how complex and interdependent the processes described in some publication, the explanation given for its control all too often focusses on regulation by a single or small set of genes, or equivalently signaling pathway signaling pathway proteins and receptors.
+
+The question remains how best to quantitatively and conceptually describe the complex, time-dependent interplay of metabolic, genetic, signaling, and epigenetic factors in adaptation. We hope that by encouraging researchers, and educators, to drop the view that adaptation is controlled at a single level, whether it be genomic, epigenetic, signaling or metabolism, we will expedite achievement of this goal.

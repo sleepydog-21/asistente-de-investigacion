@@ -1,0 +1,11 @@
+{
+  "id": "39777464",
+  "title": "High hydrostatic pressure promotes gene transcription via a cystathionine-β-synthase domain-containing protein in the hyperthermophilic archaeon Pyrococcus yayanosii.",
+  "doi": null,
+  "authors": "Li C, Li S, Song Q, Da LT, Xu J",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "Cystathionine-β-synthase (CBS) domains are ubiquitously prevalent in all kingdoms of life. Remarkably, in archaea, proteins consisting of solely CBS domains are widespread. However, the biological functions of CBS proteins in archaea are still unknown. Here, we identified a high hydrostatic pressure regulator (HhpR) that comprises four CBS domains serving as a transcriptional activator via specifically binding to the UAS (upstream activating sequence) motif situated within the promoter region of an operon in a hyperthermophilic archaeon Pyrococcus yayanosii under high hydrostatic pressure (HHP). By combining molecular dynamics simulations, in vitro and in vivo assays, we revealed the potential binding interfaces between HhpR and its specific DNA binding site. Particularly, one stem-loop region in HhpR (termed as 'Arm') was found to play a critical role in regulating the transcription activity, and the 192 position in the Arm region is an essential site in dictating the conformational changes of HhpR at HHP condition. Our work provides novel insights into the structure-function relationship of CBS-containing proteins that participate in archaeal gene regulation as general transcriptional activators.",
+  "source": "PubMed",
+  "pmcid": "PMC11705074"
+}

@@ -1,0 +1,41 @@
+The discovery of reassortment of phenotypes between two parental strains of
+
+A dramatic recent example of the power of a sexual genetic strategy, even in (or enabled by) the postgenomic era, was the discovery that mutations within a single gene,
+
+Thus, a sexual genetics strategy, coupled with the current widespread availability of genome sequencing, could be a powerful addition to our arsenal of genetic techniques, but this is currently practically limited to naturally competent bacteria, which encompass at least 80 species across both gram-positive and -negative bacteria (
+
+Several advanced techniques have been recently developed to perform chromosome-wide engineering at a scale comparable to that achieved by the original Hfr-mediated
+
+Here, we developed a system we term MAE (mass allelic exchange) that can generate libraries of hybrids for two parental
+
+A conceptual schematic of MAE is shown in
+
+Overview of MAE. (
+
+The key innovation of MAE is the use of a stringent negative selection cassette (
+
+In a single hybridization experiment we were able to generate thousands of hybrid transconjugants (based on blocks of SNPs transferred, denoted as red bars in
+
+All mutation types were accessible to transfer by MAE. Whole-genome sequencing demonstrated continuous tracts of donor SNPs being transferred to the homologous region of the recipient chromosome. These were full replacements of segments of the chromosome, ranging from 16 to 1,780 kb (median 298 kb) (
+
+One of the key advantages of allelic exchange methods over the popular Tn-seq or other random mutagenesis methods is the ability to select for phenotypes that differ between strains, particularly in a gain-of-function strategy. We used pooled MAE libraries to perform two such screens. The donor strain, UTI89, survives in human serum, resists P1 phage infection, and hemolyzes sheep blood, while the recipient strain, MG1655, lacks all of these phenotypes. The first two phenotypes are known to be due to an insertion sequence disrupting the MG1655
+
+In vitro screening of MAE Libraries. (
+
+Attesting to the ability of gain-of-function screens to provide complementary information, MAE screens provided new insight into these well-studied phenotypes. In control experiments to prepare for an intracellular infection screen (see below), we isolated phage-resistant clones in which the
+
+Finally, we used MAE to explore a suspected complex phenotype: intracellular infection of cultured human epithelial cells. UTI89 is a uropathogenic strain; it robustly infects the bladder of mice and forms intracellular bacterial communities (IBCs) during acute phases of infection (
+
+A gain-of-function screen for in vitro pod formation. (
+
+We first tested the hypothesis that the UTI89-specific operons were sufficient for conferring pod formation to MG1655. We transformed plasmids carrying each of these operons into MG1655; only the strain carrying the UTI89
+
+Notably, MAE libraries coupled with this gain-of-function screening strategy were critical to make this discovery of the sufficiency of the
+
+In summary, we have created intentional, unmarked whole-genome hybrids, akin to F1 progeny, between two distinct strains of
+
+There are some limitations to MAE. An ability to perform transposon mutagenesis and conjugation in the parental strains of interest is required. However, because MAE results in transfer of large chromosomal segments (median 298 kb) with high variability (
+
+As with traditional sexual genetics, MAE provides access to all types of genetic variation between strains, from SNPs to large (>100 kb) chromosomal insertions and deletions. Furthermore, MAE tests existing wild-type sequences, as opposed to artificial deletions or disruptions, and there are no residual genetic scars or markers in the resulting hybrid strains; the latter in particular are distinct advantages over other strategies such as using cosmid or BAC libraries, which may be further complicated by copy number differences, additional selection cassettes, and differences in chromosomal context. Gain-of-function experiments are a natural application area for MAE, which complements other techniques that enable loss-of-function experiments. While the power of sexual genetics has long been accessible in naturally competent bacteria such as
+
+UTI89 and MG1655 were obtained from laboratory stocks originally derived from those in the laboratory of Scott Hultgren. Custom transposons were constructed from constituent components by PCR, mixed with purified Tn5 transposase (Epicentre) according to the manufacturer’s instructions, and transformed into UTI89 or MG1655. Selections were carried out on using the following concentrations of antibiotics (from Sigma-Aldrich Pte. Ltd.), as appropriate: ampicillin (100 μg/mL), kanamycin (50 μg/mL, for plasmid-based markers), 25 μg/mL, for chromosomal markers), chloramphenicol (20 μg/mL), tetracycline (10 μg/mL), streptomycin (50 μg/mL), and gentamycin (3 μg/mL). For negative selection markers, media was supplemented with glucose or rhamnose (Sigma-Aldrich, Pte Ltd.), as indicated, both at 0.2%. The 5637 bladder epithelial cells were obtained from ATCC (product HTB-9). Whole-genome sequencing libraries were prepared using either Illumina TruSeq DNA Nano library preparation kit (where maximum of 24 samples were multiplexed together) or Illumina Nextera DNA library prep kit (where 96 to 384 samples were multiplexed together) according to the manufacturer's recommendations. Sequencing was done on an Illumina HiSeq4000 or NextSeq with 2 × 151 bp reads depending on machine availability. Sequence analysis was done using ad hoc custom scripts. Additional experimental and analytical details can be found in

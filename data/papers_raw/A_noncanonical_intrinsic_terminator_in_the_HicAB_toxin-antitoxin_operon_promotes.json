@@ -1,0 +1,11 @@
+{
+  "id": "40036506",
+  "title": "A noncanonical intrinsic terminator in the HicAB toxin-antitoxin operon promotes the transmission of conjugative antibiotic resistance plasmids.",
+  "doi": null,
+  "authors": "Lin J, Ni S, Li B, Guo Y, Gao X, Liu Y, Yi L, Wang P, Chen R, Yao J, Wood TK, Wang X",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "Conjugative plasmids, major vehicles for the spread of antibiotic resistance genes, often contain multiple toxin-antitoxin (TA) systems. However, the physiological functions of TA systems remain obscure. By studying two TA families commonly found on colistin-resistant IncI2 mcr-1-bearing plasmids, we discovered that the HicAB TA, rather than the StbDE TA, acts as a crucial addiction module to increase horizontal plasmid-plasmid competition. In contrast to the canonical type II TA systems in which the TA genes are cotranscribed and/or the antitoxin gene has an additional promoter to allow for an increased antitoxin/toxin ratio, the HicAB TA system with the toxin gene preceding the antitoxin gene employs internal transcription termination to allow for a higher toxin production. This intrinsic terminator, featuring a G/C-rich hairpin with a UUU tract, lies upstream of the antitoxin gene, introducing a unique mechanism for the enhancing toxin/antitoxin ratio. Critically, the hicAB TA significantly contributes to plasmid competition and plasmid persistence in the absence of antibiotic selection, and deleting this intrinsic terminator alone diminishes this function. These findings align with the observed high occurrence of hicAB in IncI2 plasmids and the persistence of these plasmids after banning colistin as a feed additive. This study reveals how reprogramming the regulatory circuits of TA operons impacts plasmid occupancy in the microbial community and provides critical targets for combating antibiotic resistance.",
+  "source": "PubMed",
+  "pmcid": "PMC11878559"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "39428982",
+  "title": "The Ribosomal Operon Database: A Full-Length rDNA Operon Database Derived From Genome Assemblies.",
+  "doi": null,
+  "authors": "Krabberød AK, Stokke E, Thoen E, Skrede I, Kauserud H",
+  "journal": "Molecular ecology resources",
+  "year": "2025",
+  "abstract": "Current rDNA reference sequence databases are tailored towards shorter DNA markers, such as parts of the 16/18S marker or the internally transcribed spacer (ITS) region. However, due to advances in long-read DNA sequencing technologies, longer stretches of the rDNA operon are increasingly used in environmental sequencing studies to increase the phylogenetic resolution. There is, therefore, a growing need for longer rDNA reference sequences. Here, we present the ribosomal operon database (ROD), which includes eukaryotic full-length rDNA operons fished from publicly available genome assemblies. Full-length operons were detected in 34.1% of the 34,701 examined eukaryotic genome assemblies from NCBI. In most cases (53.1%), more than one operon variant was detected, which can be due to intragenomic operon copy variability, allelic variation in non-haploid genomes, or technical errors from the sequencing and assembly process. The highest copy number found was 5947 in Zea mays. In total, 453,697 unique operons were detected, with 69,480 operon variant clusters remaining after intragenomic clustering at 99% sequence identity. The operon length varied extensively across eukaryotes, ranging from 4136 to 16,463 bp, which will lead to considerable polymerase chain reaction (PCR) bias during amplification of the entire operon. Clustering the full-length operons revealed that the different parts (i.e., 18S, 28S, and the hypervariable regions V4 and V9 of 18S) provide divergent taxonomic resolution, with 18S, the V4 and V9 regions being the most conserved. The ROD will be updated regularly to provide an increasing number of full-length rDNA operons to the scientific community.",
+  "source": "PubMed",
+  "pmcid": "PMC11646303"
+}

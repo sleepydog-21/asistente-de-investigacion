@@ -1,0 +1,73 @@
+Over 200
+
+Genome sequence analyses of over 250
+
+(
+
+The ~3.3 kb gonococcal DNA fragment, previously identified as a universal conversion event (
+
+The SNP density plot showed that
+
+The
+
+A previous study found that
+
+IspD has been shown to be essential in several gram-negative bacteria (
+
+Generation of
+
+To test whether
+
+The recombination event replaced 85% of the meningococcal
+
+(
+
+The crystal structure of the
+
+The nonsynonymous changes between IspD
+
+Previous work (
+
+(
+
+While the non-clade
+
+Survival of
+
+To quantify anaerobic survival, bacteria were recovered from plates and the viable CFUs were determined by plating. As shown in
+
+The data suggested that
+
+Expression of
+
+Over the last decade,
+
+Based on homology to IspD in
+
+The operon containing
+
+The meningococcus has been proposed to be on an evolutionary trajectory as an aerobe in the oxygen-rich nasopharyngeal niche (
+
+Bacterial strains used in this study are listed in Table S1 of supplemental material. CNM3 served as the representative of
+
+RNA extraction and cDNA synthesis were performed as described in Tzeng et al. (
+
+For the PCR linkage analysis of the operon, cDNA samples were obtained by reverse transcription of total RNA (0.5 µg) using the Maxima H Minus First Strand cDNA Synthesis Kit (Thermo Fisher) with CTS281 or ispF-qR1 as the primer. PCR was performed on the cDNA samples with the primer combinations listed in
+
+All primers used for the genetic manipulation are noted in Table S2 in the supplemental material. A fragment upstream of
+
+To generate the complemented mutants,
+
+For the site-directed mutagenesis
+
+Strains inoculated into the culture at ~0.1 OD
+
+For anaerobic plates, strains were grown to ~0.5 OD
+
+For growth curves, strains were grown to 0.5 OD
+
+Reporter construction and assays were performed as described in Tzeng et al. (
+
+In the PubMLST database, 561 distinct
+
+Statistical analyses were performed using GraphPad Prism 10. Differences were considered significant when

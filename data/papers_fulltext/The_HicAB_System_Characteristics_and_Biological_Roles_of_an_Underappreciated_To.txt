@@ -1,0 +1,127 @@
+Toxin-antitoxin (TA) systems are small genetic elements, not essential for normal bacterial growth, which are abundant in prokaryotic genomes [
+
+In particular, type II TA systems, thought to be the most abundant and diverse in bacterial genomes [
+
+Classification of type II toxins and antitoxins is based on amino acid sequence similarity and three-dimensional structures [
+
+Since their first characterization, multiple biological roles have been associated to TA systems, including some controversial [
+
+Here, we review the current knowledge of the HicAB system, a type II TA system that, although ubiquitous in bacterial genomes, has been less studied and little is known about its biological roles.
+
+Pioneering comparative-genomic analysis revealed that the
+
+While most of the work about HicAB systems has consisted of functional and structural analysis, only a few papers focused on the study of their biological role, as we review here.
+
+Type II TA toxins target a wide variety of cellular processes to interfere with essential functions and inhibit bacterial growth. Some toxins modify their cellular targets post-translationally [
+
+HicA proteins (COG1724) correspond to small (50–100 amino acids), mono-domain proteins with a characteristic double-stranded RNA-binding domain (dsRBD fold) [
+
+RNase activity has been experimentally demonstrated for EcHicA [
+
+Amino acid residues important for HicA activity have been identified by site-directed mutagenesis. For instance, His28 in YpHicA3 is an important catalytic residue involved in RNase activity [
+
+Through their DNA binding domains TA antitoxins can bind their TA promoters to repress transcription. Hence, type II antitoxins have two functions: they neutralize their cognate toxins through direct binding and repress toxin gene transcription [
+
+HicB antitoxins (COG1598/4226) have a partial RNase H fold in their N-terminus, and either an HTH or RHH DNA-binding domain at their C-terminal end (
+
+Transcriptional repression of the TA operon by HicB antitoxins has been experimentally demonstrated by promoter–reporter fusion [
+
+In
+
+Using a combination of datasets (crystal structures from purified full length HicB, a mutant HicB-I51M/I99M and a HicB N-terminal domain construct), the complete structure of BpsHicB was solved by molecular replacement. Similar to YpHicB3, BpsHicB forms a tetramer with RHH domains exposed for DNA binding and two of four HicA-interacting helices tucked away [
+
+The crystal structure of the StpHicAB complex revealed that the C-terminal DNA-binding domain of the HicB antitoxin shows considerable structural variation and like BpsHicB it is structured as homodimers able to interact to form tetramers [
+
+Functional studies revealed that in
+
+Distinct DNA-binding sites are recognized by each characterized HicB protein, suggesting that HicB proteins from different species can recognize different DNA motifs.
+
+A key characteristic of type II TA systems is the formation of a protein complex, where toxin and antitoxin interact to prevent the toxin from reaching its cellular target and causing toxicity. Bacterial TA complexes have distinct toxin/antitoxin ratios and tridimensional arrangements. Heterohexameric and heterooctameric rearrangements have been observed for HicAB complexes (
+
+The first X-ray structure reported for a HicAB family complex was for YpHicAB3 [
+
+The YpHicAB3 complex, lacking the C-terminal domain of YpHicB3, forms a heterotetramer containing two copies of HicA3 and two copies of HicB3 (
+
+In HicAB complexes, the His residues required for HicA RNase activity and toxicity, for instance His28 in YpHicA3 [
+
+As we mention before, free HicB antitoxins or HicAB complexes can bind DNA to repress their TA promoters (
+
+One of the established biological roles of TA systems is growth diminution during stress, and in consequence several stress conditions are known to activate TA systems. For instance, transcription of
+
+In canonical type II TA systems, the TA operon adopts a genetic organization with the antitoxin gene as the first gene in the operon and regulation relies on a conditional cooperativity mechanism [
+
+Canonical
+
+In
+
+In
+
+In contrast, no major structural rearrangements are required for the formation of the HicAB complex in
+
+Among the characterized HicAB systems, the double promoter mechanism has been studied in detail only for EcHicAB [
+
+The genetic and structural diversity among TA systems is also extrapolated to their biological roles. They have been associated to several biological processes, even some controversial [
+
+Among HicAB systems, there are only a few studies reporting a biological role or their involvement in a physiological process, showing that HicAB could be associated with bacterial persistence, biofilm formation, virulence and a proposed role in anti-phage defense (
+
+Biofilms are aggregates of microorganisms in which cells are embedded in a self-produced matrix of extracellular polymeric substances (EPSs) that are adherent to each other and/or a surface, and they provide protection against antibiotics and evasion of host innate immunity [
+
+Several type II TA systems have been reported to be involve in biofilm formation, although there is contrasting evidence. For example, the deletion of the
+
+A role in biofilm formation for a HicAB system was studied in the extraintestinal pathogenic
+
+In
+
+On the other hand, deletion of
+
+Persister cells represent a subpopulation of slow-growing bacterial cells with decreased susceptibility to being killed by bactericidal antibiotics, while they are not antibiotic-resistant [
+
+Until now, the role of HicAB systems in persister cell formation has been studied for BpsHicAB and ApHicAB.
+
+The effect of BpsHicA on
+
+A recent report showed in
+
+Since TA systems can be involved in various physiological processes, it is important to note that they may influence virulence of bacterial pathogens. In relation to HicAB systems, a role in virulence has been studied for YpHicAB, BpsHicAB and PaHicAB.
+
+In a murine model of bubonic plague,
+
+Similarly, a role in virulence for the BpsHicAB and PaHicAB systems was discarded. In
+
+The experimental evidence available until now, in different bacteria, allows to discard a role in virulence for the HicAB system.
+
+Currently, a renowned biological role of TA systems is to act as defense systems that inhibit the spread of phages, by an abortive mechanism [
+
+The
+
+Clearly, experimental validation under physiological conditions is necessary to confirm the role of HicAB systems in anti-phage defense.
+
+Since its first characterization, the distribution and abundance of the hicAB locus in bacterial genomes suggest that it is transferred by horizontal gene transfer (HGT) [
+
+Currently, seven HicAB systems are reported by the TADB 3.0 database [
+
+The first recognized biological role of TA systems was the maintenance of plasmids as postsegregational killing (PSK) systems, to prevent the accumulation of plasmid-free cells in the population [
+
+Unlike chromosomally encoded TA systems, which have been the major focus of research, plasmid-based TA systems, beyond their identification, are relatively understudied, and studies have mainly focused on antibiotic-resistant plasmids [
+
+An analysis of the distribution of TA systems on bacterial genomes exposed that
+
+To our knowledge, none of the known plasmidial HicAB systems has been characterized. It is noteworthy that a plasmid maintenance role was discarded for one of them [
+
+The association of HicAB systems with a specific family of plasmids suggest specialization, and these TA systems might be undertaking specific roles on their plasmids. These roles might be alternative to plasmid maintenance, as has been demonstrated for other plasmidial TA systems [
+
+As was stated before (see
+
+A HicAB system was identified in a
+
+Recently, a HicAB-like TA system from the
+
+The authors proposed that the Adephagia HicAB-like TA system could play a role in prophage maintenance by killing off those phage-cured cells, and alternatively it could confer defense against further phage infection by an abortive mechanism [
+
+As it is common to find uncharacterized TA-like systems in bacteriophage genomes, they represent intriguing systems to be studied and to reveal unknown roles of this TA family.
+
+Although they are abundant in bacterial genomes, HicAB systems remain poorly studied, and their biological roles are still elusive.
+
+Here, we have shown that this TA family shows non-cognate characteristics, and they represent an attractive source to uncover unknown biological roles. For instance, there is evidence for a role of HicAB in biofilm formation and persistence, but phage defense and antibiotic-resistant plasmid maintenance are also feasible. On the other hand, a role in virulence was discarded based on experimental evidence, although we cannot rule out this role for all HicAB systems, essentially because only a couple of systems have been characterized. Furthermore, to reveal HicA in vivo RNA targets, undoubtedly will help to decipher which cellular processes are affected by this RNases.
+
+The specific association of

@@ -1,0 +1,11 @@
+{
+  "id": "39042422",
+  "title": "Generation of tools for expression and purification of the phage-encoded Type I restriction enzyme inhibitor, Ocr.",
+  "doi": null,
+  "authors": "Alves J, Dry I, White JH, Dryden DTF, Lynskey NN",
+  "journal": "Microbiology (Reading, England)",
+  "year": "2024",
+  "abstract": "DNA manipulation is an essential tool in molecular microbiology research that is dependent on the ability of bacteria to take up and preserve foreign DNA by horizontal gene transfer. This process can be significantly impaired by the activity of bacterial restriction modification systems; bacterial operons comprising paired enzymatic activities that protectively methylate host DNA, while cleaving incoming unmodified foreign DNA. Ocr is a phage-encoded protein that inhibits Type I restriction modification systems, the addition of which significantly improves bacterial transformation efficiency. We recently established an improved and highly efficient transformation protocol for the important human pathogen group A",
+  "source": "PubMed",
+  "pmcid": "PMC11317969"
+}

@@ -1,0 +1,255 @@
+Type 1 fimbriae (or pili) are surface appendages found on members of the
+
+The production of type 1 fimbriae is subject to phase variation, with fimbriate and afimbriate cells coexisting in the same population [
+
+The phase OFF-to-phase ON bias of
+
+Inversion of
+
+FimB-dependent inversion of
+
+Three nucleoid-associated proteins (NAPs) influence the inversion of
+
+IHF is essential for inversion; in its absence the
+
+Lrp binds cooperatively to DNA [
+
+In contrast to Lrp, the factor for inversion stimulation, Fis, is produced predominantly in the early exponential phase of growth [
+
+Fis is required to maintain the OFF orientation of
+
+The strains used in these experiments were derivatives of
+
+Bacterial strains and plasmids
+
+Strain/plasmid
+
+Relevant details
+
+Reference/source
+
+
+
+VL386
+
+φ(
+
+[
+
+VL386
+
+VL386
+
+[
+
+CJD2116
+
+VL386 Δ
+
+This work
+
+CJD2117
+
+VL386 Δ
+
+This work
+
+CJD2119
+
+CJD2116 (pFIS349)
+
+This work
+
+VL386
+
+VL386 with Fis/LRP-2 binding site disrupted
+
+This work
+
+XL-1 Blue
+
+
+
+Stratagene
+
+
+
+pSGS501
+
+
+
+[
+
+pFIS349
+
+pGS349 containing the
+
+[
+
+pLSB124
+
+pMAK705 containing wild-type
+
+This work
+
+pMAK705
+
+Temperature-sensitive allele exchange vector
+
+[
+
+pMCL210
+
+Cloning vector, p15A replicon
+
+[
+
+pMMC106
+
+pMCL210 cut with NheI and XbaI and religated to delete the
+
+[
+
+pMMC108
+
+
+
+[
+
+pSLD203
+
+
+
+[
+
+pUC18
+
+ColE1 replicon, Ap
+
+[
+
+Plasmid DNA was isolated using Qiagen Midi columns or Wizard mini prep columns (Promega). Specific DNA fragments were isolated using an agarose gel extraction kit (Roche Applied Science). Restriction enzyme digests were carried out using enzymes purchased from New England Biolabs by following the manufacturer’s recommended procedure. Plasmid DNA was sequenced using a T7 sequencing system (USB). Plasmid pSGS501 was used as the template with oligonucleotide COL69 as the sequencing primer (
+
+Oligonucleotides
+
+Name
+
+Sequence
+
+Purpose
+
+OL4
+
+5′-GACAGAACAACGATTGCCAG-3′
+
+PCR switch assay
+
+OL20
+
+5′-CCGTAACGCAGACTCATCCTC-3′
+
+PCR switch assay
+
+BSFORBIO
+
+5′-CCACCTCATGCAATATAAAC-3′
+
+Probe for gel retardation assays
+
+BSREVBIO
+
+5′-CCCCCAAAAGATGAAACATTT-3′
+
+Probe for gel retardation assays
+
+SpvR11
+
+5′-CCAAGCTTCAGTACTGATCTTGCGATACTG-3′
+
+Probe for gel retardation assays
+
+SpvR14
+
+5′-CCCAAGCTTCAGGTCACCGCCATCCTGTTTTTGC-3′
+
+Probe for gel retardation assays
+
+COL-DFP
+
+5′-GAGAAGAGGTTTGATTTAAC-3′
+
+Probe for DNase I footprinting
+
+COL69
+
+5′-GAGTTTGACTGCCAACACT-3′
+
+Probe for DNase I footprinting and primer for Sanger sequencing
+
+FBSFOR2
+
+5′-CAATAGAATATTAAGGGGTTAGCTAAACT-
+
+GAAAAAG-3′
+
+Mutagenesis of Fis binding site
+
+FBSREV2
+
+5′-CTTTTTCAGTTTAGCTAACCCCTTAATATTCTATTG-3′
+
+Mutagenesis of Fis binding site
+
+Assays involving the DNA gyrase inhibitor novobiocin (Sigma-Aldrich) were performed as follows: bacteria containing the
+
+A PCR-based assay was used to determine the orientation of the
+
+The association of purified Fis or Lrp proteins with the
+
+A 385 bp fragment encompassing
+
+Site-directed mutagenesis was performed using the Quikchange II (Stratagene) site-directed mutagenesis kit, according to the manufacturer’s recommendations. The oligonucleotides used to mutate the Fis binding site (FBSFOR2 and FBSREV2) are described in
+
+Inversion of
+
+In the wild-type, treatment with incrementally increasing concentrations of novobiocin was accompanied by a progressive accumulation in the bacterial population of
+
+Although the consensus sequence of the Fis binding site in DNA is degenerate, it has a number of features that are highly conserved among high-affinity sites [
+
+Identifying a binding site for Fis within
+
+Further evidence of Fis binding to
+
+Mutation of the Fis binding site abrogates the Fis-mediated electrophoretic mobility shift of
+
+The derivative of
+
+Loss of Fis binding and loss of Fis production biases
+
+The
+
+We next investigated the effect of the base substitutions that abrogated Fis binding to
+
+EMSA showing Lrp binding to
+
+The data obtained thus far show that the Lrp and Fis proteins both target the LRP-2 binding site in
+
+Displacement of Fis from
+
+The Fis binding regions in
+
+Our data reveal a delicate interplay between DNA supercoiling/relaxation, Lrp and Fis in determining the directionality of the FimB-mediated site-specific recombination reaction in
+
+Int-mediated excisive recombination of bacteriophage λ is enhanced when DNA supercoiling levels are low, whereas integrative recombination requires negative supercoiling of the phage DNA [
+
+Thus, the λ excision complex differs from the
+
+Int differs from the FimB and FimE recombinases in that it makes contact with the DNA through both its amino-terminal and its carboxyl-terminal domains (NTD and CTD, respectively) at up to nine sites [
+
+DNA relaxation is a feature of stationary phase cultures [
+
+The competitive relationship described here for Fis and Lrp at
+
+Biasing the
+
+The increased representation of fimbriate bacteria in the population of late-exponential phase/stationary phase cells promotes bacterial attachment to abiotic and biological surfaces, with an associated production of biofilm [

@@ -1,0 +1,214 @@
+The majority of natural products
+(NPs) produced by microbes have been discovered using top-down screening
+methods, but there are two major limitations to this approach: novel
+NPs may not be produced under laboratory culturing conditions, and
+there is a growing risk of rediscovery of a known NP. Employing genome-guided
+approaches to identify biosynthetic gene clusters (BGCs) that potentially
+encode novel NPs before screening assays are performed provides several
+advantages.
+
+Improving expression
+
+Lanthipeptides
+are a class of RiPPs characterized by the post-translational
+installation of thioether-cross-linked bis-amino acids known as lanthionine
+(Lan) and methyllanthionine (MeLan). Thioether cross-linkages are
+introduced by operon-encoded modification enzymes that dehydrate serine
+and threonine to form dehydroalanine (Dha) and dehydrobutyrine (Dhb),
+respectively. Ring structures are formed by enzymatic cyclization
+of the linear peptide
+
+Synthetase-mediated ring installation makes the location of
+lanthionine
+rings difficult to predict
+
+Despite all
+of the difficulties in isolating novel lanthipeptides,
+they are still sought because of the broad range of bioactivities
+already displayed by the group.
+
+Lanthipeptides are classified
+into five classes based on amino
+acid sequences of the lanthionine synthetases instead of the peptide
+amino acid sequences. Currently, the five classes of lanthipeptides
+are class I (LanBCs), class II (LanMs), class III (LanKC), class IV
+(LanL), and class V (LanYK).
+
+(a) The
+
+Phylogenetically, the VdsC and
+VdsB proteins are classified as
+class I lanthipeptides due to their independent nature and homology
+(
+
+Phylogenetic placement of the VdsC and VdsB amino acid
+sequences
+within the known class I lanthipeptide synthetases. Light green branches
+highlight the VdsC and VdsB proteins. Red is epidermin-like, pink
+is epicidin-like, purple is nisin-like, dark blue is subtilin-like,
+light blue is paenicidin-like, cyan is microbisporicin-like, and dark
+green is pinensin. Accession numbers represent putative lanthipeptide
+LanC cyclases in the conserved domain CD04793 in (a) and LanB dehydratases
+in pfam pf04738 (N-terminal) and pfam pf14028 (C-terminal) combined
+in (b). Solid line branches belong to lanthipeptide modification machinery
+from Bacillota (Gram-positive hosts), while dotted lines represent
+lanthipeptide operons from Bacteroidota and Gammaproteobacteria (Gram-negative)
+hosts. Vertical blue lines represent the phylogenetic location of
+modification machinery that produces lanthipeptides with antibacterial
+activity against some other Gram-positive bacteria like
+
+The putative
+
+(a) Heterologous coexpression of the VdsA-1
+and -2 lanthipeptides
+with the VdsCB modification machinery in
+
+The VdsA1 and VdsA2 peptides were liberated from
+GFP
+
+(a) HPLC-C8-purified
+VdsA1 liberated from GFP using NisP was separated
+into samples P1A and P1B, which were collected for further analysis
+with UHPLC–MSMS. Samples P1A and P1B produced the TICs in (b)
+and (c), respectively. Accurate mass measurements indicated that the
+peaks observed in (b) and (c) both represented quadruply dehydrated
+VdsA1 (
+
+(a) HPLC-C8-purified VdsA2 liberated from GFP using NisP
+was separated
+into samples P2A and P2B, which were collected for further analysis
+with UHPLC–MSMS. Samples P2A and P2B produced the TICs shown
+in (b) and (c), respectively. Accurate mass measurements indicated
+that the most abundant species in P2B-II observed in (c) represented
+VdsA2 with five dehydrations ([M – 5H
+
+Samples P1A and P1B from
+VdsA1 were further resolved into the peaks
+P1A-I, P1A-II, and P1A-III (
+
+The most abundant species in peak P1A-I, at
+
+Similar
+mass fragmentation patterns were observed for the P1B sample
+compared to the P1A sample derived from the VdsA1 expression. The
+accurate mass measurements showed that the most abundant species in
+P1B-II corresponds to the mass of quadruply dehydrated VdsA1, [M –
+4H
+
+The most
+abundant species in peak P1B-I, at
+
+For the VdsA2 expression, accurate mass measurement showed that
+the most abundant species in P2A-II (
+
+The most abundant species in peak P2A-I,
+at
+
+Accurate mass
+measurement showed that the most abundant species
+in P2B-II corresponds to the VdsA2 peptide with five dehydrations,
+[M – 5H
+
+In addition to the dehydration
+of Ser and Thr residues observed
+in the VdsA1 and -A2 samples, the absence of MMTS adducts indicates
+that all cysteine residues are involved in a thioether cross-linkage.
+However, the unambiguous ring topologies in VdsA1, between Dha-11
+and Dha-15 with Cys-16 and Cys-18, cannot be assigned with mass spectrometry
+alone. The formation of lanthionine rings between neighboring Dha/Dhb
+residues and a cognate cysteine residue has been reported in mersacidin,
+and therefore, a lanthionine bond between Dha15 and C16 in VdsA1 cannot
+be ruled out.
+
+It
+is difficult to anticipate the bioactivity of VdsA1 and VdsA2
+peptides because there are no similar peptides with a characterized
+bioactivity. However, the VdsCB biosynthetic machinery provides more
+insight into the VdsA1 and VdsA2 lanthipeptides’ evolutionary
+history.
+
+The marine
+isolate
+
+Representatives
+of the LanC cyclases
+conserved domain (CD04793) and LanB dehydratase Pfams pf04738 (C-terminus)
+with pf14028 (N-terminus) were downloaded from NCBI (
+
+DNA analysis, manipulation, and
+plasmid cloning were performed according standard protocols described
+by Sambrook
+
+Restriction enzymes
+(REs) and T4 DNA ligase were purchased from New England Biolabs (NEB)
+(Ipswich, MA, USA) and used according to the manufacturer’s
+instructions. Amplification of DNA
+
+Oligonucleotides
+were designed using the CLC main workbench program
+(CLC bio, Aarhus, Denmark) and purchased from Inqaba Biotechnical
+Industries (Pretoria, South Africa). DNA sequencing was performed
+by the Central Analytical Facilities (CAF) at the University of Stellenbosch,
+South Africa. DNA synthesis of the putative lanthipeptide gene sequences
+was performed by Biomatik (Cambridge, Ontario, Canada).
+
+Agarose
+gel electrophoresis was used for the analysis and purification
+of RE-digested DNA fragments in TBE buffer at 10 V/cm using an Ephortec
+3000 V power supply (Triad Scientific, Manasquan, NJ, USA).
+
+The pRSF–VdsCB backbone vector
+was constructed by cloning the
+
+Three putative lanthipeptides were identified upstream of the
+
+The pRSF–VdsCB pDNA was digested
+with
+
+The Minifors 5L bioreactor
+was filled with 3.5 L of Terrific broth and inoculated with overnight
+cultures of
+
+The GFP–VdsA1 and −VdsA2 fusions
+were purified from their respective cell-free lysates by IMAC using
+the His-Bind resin according to the manufacturer’s instructions.
+The IMAC elution, which contained the respective target proteins in
+SB500 buffer (50 mM Tris, 500 mM NaCl, 500 mM imidazole, pH 8.0),
+was diluted 30× with AB buffer (50 mM Tris, pH 8.3). The diluted
+eluents were respectively loaded onto a 5 mL DEAE Sepharose anion-exchange
+resin and washed with 2 column volumes of AB50 buffer (50 mM Tris,
+50 mM NaCl, pH 8.3). The GFP–VdsA1 and −VdsA2 fusion
+proteins were respectively eluted in AB150 (50 mM Tris, 150 mM NaCl,
+pH 8.3).
+
+The HPLC purification was performed
+using an Agilent 1260 Infinity HPLC system with a ZORBAX 300SB-C8
+column (4.6 mm × 150 mm, 5 μm particle size) (Agilent,
+Santa Clara, CA, USA). Sample separation was achieved using linear
+gradient elution from 10% solvent B (acetonitrile + 0.1% TFA) to 60%
+solvent B over 25 min against solvent A (analytically pure water +
+0.1% TFA). Elution profiles were monitored at 230 and 214 nm, respectively.
+
+A Thermo Scientific Ultimate
+3000 RSLC system equipped with a C18 trap column (2 cm × 100
+μm) and a C18 analytical column (Luna C18, 5 μm, Phenomenex)
+was used for further analysis of HPLC-purified P1A, P1B, P2A, and
+P2B samples. Solvent A (2% acetonitrile in water with 0.1% formic
+acid) and solvent B (100% acetonitrile) were used for sample separation
+over a 55 min Chromeleon nonlinear gradient 5 from 5% to 50% solvent
+B at 0.3 μL/min. The samples were loaded onto the trap column
+in solvent A at 2 μL/min from a temperature-controlled autosampler
+set to 7 °C. Loading was performed for 5 min before the sample
+was eluted onto the analytical column. Chromatography was performed
+at 45 °C, and the outflow was delivered to the mass spectrometer
+through a stainless steel nanobore emitter.
+
+Mass spectrometry
+was performed using a Thermo Scientific Fusion mass spectrometer equipped
+with a Nanospray Flex ionization source. Data were collected in positive
+mode with the spray voltage set to 1.9 kV and the ion transfer capillary
+set to 275 °C. Spectra were internally calibrated using polysiloxane
+ions at
+
+Peptide fragmentation data were analyzed with
+MZmine

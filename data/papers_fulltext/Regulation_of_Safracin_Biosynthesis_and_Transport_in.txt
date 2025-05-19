@@ -1,0 +1,91 @@
+Nonribosomal peptides (NRPs) belong to a class of microbial secondary metabolites that have been a prolific source of bioactive compounds with a wide spectrum of medicinal applications, including antibiotics, immunosuppressants, and antineoplastics. This structurally diverse group is assembled from amino acid building blocks by a common thiotemplate-directed multistep reaction mechanism catalyzed by large modular enzymes termed nonribosomal peptide synthetases (NRPSs) [
+
+Many specialized metabolites perform their ecological roles extracellularly and therefore require transport across cellular membranes. Transporter genes often colocalize in BGCs and have been shown to be compound-specific and necessary for export of the product in many cases [
+
+This finding established a new boundary in the BGC sac 3′ end at
+
+In this work, we analyze the roles of the
+
+To localize regulatory genes for the BGC sac, its genome environment was examined in silico. Contiguous to the BGC sac, there is the
+
+The proximity of
+
+The
+
+Considering these facts, it is not possible to deduce only based on the MexT and MexS sequence whether these proteins are functional in
+
+To demonstrate MexS functionality in the wild-type PAM22 strain and validate the
+
+It has been described that the maintenance of MexT functionality is essential for the generation of
+
+To study the physical interaction of MexT with the P
+
+To investigate the role of MexT in vivo, we constructed pPa and pPi plasmids carrying a transcriptional fusion of
+
+These plasmids were transformed in the native
+
+To further characterize the function of MexT, we deleted the
+
+Taken together, all these data support our hypothesis that MexT and MexS act as an activator and a repressor, respectively, on the expression of BGC sac-tailoring enzymes.
+
+The
+
+MexT was described as an activator of the MexEF-OprN transport system in
+
+As expected, the safracin production obtained with the complemented mutant strain PMA22ΔmexEF-oprN::Ptac-mexEF-oprN was similar to that obtained with PMA22 (
+
+To reinforce the implication of the MexEF_OprN efflux pump in the metabolism of safracin, we hypothesized that its over-expression could increase safracin production. Therefore, we added an extra copy of the mexEF-oprN operon to the genome of PMA22, generating a new recombinant strain named PMA22::Ptac-mexEF-oprN. The over-expression of the MexEF-OprN transport system in the PMA22::Ptac-mexEF-oprN strain resulted in fourfold higher production of safracin compared to the PMA22 strain (
+
+The strains, plasmids, and primers used in this work are shown in
+
+DNA manipulation protocols were performed as described elsewhere [
+
+To facilitate the study of BGC sac expression under different culture conditions, we constructed a tool for the study of transcriptional expression based on the
+
+To construct the pmexT plasmid, the
+
+The MexT protein was heterologously produced with an extension of 6 histidines at its C-terminal end to facilitate further purification [
+
+Cells were resuspended in 10 mL of phosphate buffer (50 mM NaH
+
+Two 240 bp and 220 bp DNA probes containing
+
+The knockout strains were constructed by double homologous recombination using the suicide vector pK18mobsacB [
+
+The pk18mobsacB derivative plasmid pΔmexEF-oprN (
+
+To generate the spontaneous mutant strains with
+
+Plasmid pSEVA254 from pSEVA collection (
+
+PMA22::Ptac-mexEF-oprN and PMA22ΔmexEF-oprN::Ptac-mexEF-oprN strains were constructed by tetraparental mating using
+
+Safracins were produced in 50 mL flasks with 20 mL culture medium (MS or M63P) inoculated with the
+
+To analyze safracins inside the cell, 100 mL of culture in M63P medium was inoculated in a 500 mL flask from a preinoculum grown for 16 h in LB medium. After three days, the cells were centrifuged in a Sorval Lynx 6000 (Thermo Scientific) centrifuge (rotor F14-6 × 250y) at 4000 rpm for 20–30 min at 4 °C. The cells were resuspended in distilled water and lysed under high pressure (1000 psi) in a French Pressure Cell Press (American Instruments Company). After centrifuging in a Multispeed Centrifuge CL31R (Thermo Scientific) at 3800 rpm for 15 min at 4 °C, the obtained liquid fraction was subjected to the extraction process described above for further analysis.
+
+Safracin production was analyzed by HPLC-DAD using Agilent Series 1260 Infinity II, Agilent, Santa Clara CA, USA, equipment and monitored at 268 nm. The reversed-phase separation of the metabolites was performed on a C18 column (ZORBAX Eclipse plus C18, 5 µm, 4.6 × 250 mm, Agilent Technologies, Santa Clara, CA, USA) at room temperature and a volume of injection of 20 μL. The mobile phase was: (A) 10 mM ammonium acetate containing 1% diethanolamine (pH 4.0) and (B) acetonitrile [
+
+A Varioskan Flash (Thermo Scientific) automatic plate reader was used to measure GFP fluorescence and optical density (OD
+
+The Clustal Omega service at
+
+The contiguous location of the
+
+The
+
+In vivo experiments confirmed that the overexpression of
+
+Since
+
+The MexT/MexS regulatory tandem modulates the flow of reactions carried out by SacJ and SacI tailoring enzymes, whose expression is directed by the
+
+To confirm the participation of MexEF-OprN in the transport of safracin, we constructed the mutant strain PMA22ΔmexEF-oprN, which secretes less safracin to the extracellular medium and retains more safracin intracellularly compared to PMA22 (
+
+A divergent effect was demonstrated with the PMA22::Ptac-mexEF-oprN strain, which contains a second copy of the MexEF-OprN transport system integrated into the chromosome under the control of the IPTG-inducible
+
+On the other hand, it is worth mentioning that multiple genes capable of regulating the expression of
+
+Our results suggest that MexT coordinates the safracin post-NRPS tailoring modifications and transport in
+
+The coordination of synthesis and transport could be energetically favorable while promoting specificity and directionality in transport processes [

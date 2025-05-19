@@ -1,0 +1,111 @@
+Propionate is a short-chain fatty acid commonly found in nature as a fermentation end product of the metabolism of a variety of microorganisms. It can be encountered in the industrial field where it is used in the production of biopolymers (
+
+Pathways of propionyl-CoA utilization functioning in various organisms. The methylmalonyl-CoA pathway (A) with enzymes numbered (1) AMP-dependent synthetase, (7) propionyl-CoA carboxylase, (8) methylmalonyl-CoA epimerase, (9) methylmalonyl-CoA mutase; the modified β-oxidation pathway (B) (
+
+DL-threo-2-methylisocitrate was obtained from Adooq Bioscience LLC. (Irvine, CA, USA). Other chemicals, biochemicals and Neubauer counting chambers were obtained from Sigma-Aldrich, Merck, Roth, VWR or AppliChem.
+
+To perform enzymatic assays, the frozen cells were thawed on ice and resuspended in 20 mM Tris–HCl (pH 7.8 at 55°C), 5 mM dithiothreitol (DTT), and lysed on ice with an ultrasonic homogenizer (60% amplitude, 4 min, 1-s pulse, 2-s breaks; total energy input 2,000 kJ). The insoluble cell debris was removed by centrifugation (21,000 ×
+
+Acetyl-CoA, propionyl-CoA and succinyl-CoA were synthesized from the corresponding anhydrides and CoA according to
+
+Standard protocols were used for the purification, cloning, transformation and amplification of DNA.
+
+The
+
+The
+
+The
+
+The amplified expression vectors pET28b-AHF97591, pET16b-AHF97589 and pET16b-AHF97590 were used to transform
+
+Frozen cells expressing
+
+Frozen cells expressing
+
+The heterologously produced His-tagged methylcitrate synthase (AHF97591) and methylcitrate dehydratase (AHF97589) enzymes were purified using affinity chromatography. The corresponding cell extracts were applied to a Protino Ni-NTA column (Macherey-Nagel) that had been equilibrated with 20 mM Tris–HCl (pH 7.8) containing 500 mM NaCl and 20 mM imidazole. In the case of methylcitrate synthase (AHF97591), the column was washed with the same buffer containing 35 mM imidazole, then 70 mM imidazole. In the case of methylcitrate dehydratase (AHF97589), the column was washed with the same buffer containing 50 mM imidazole. The recombinant enzymes were eluted with the same buffer containing 300 mM imidazole. The enzyme was concentrated using a 10 K Vivaspin Turbo 4 and stored at −20°C with glycerol (50%, v/v). The identity of the purified recombinant protein was confirmed at the IZKF Core Unit Proteomics Münster with tryptic in-gel digestion and mass spectrometric analysis using Synapt G2 Si coupled to M-Class (Waters Corp.).
+
+For the purification of the heterologously produced His-tagged methylisocitrate lyase (AHF97590), the corresponding cell extract was applied to a Protino Ni-NTA column (Macherey-Nagel) that had been equilibrated with 20 mM Tris–HCl (pH 7.5) containing 300 mM NaCl and 10 mM imidazole. The column was washed with the same buffer with imidazole concentration increased in 25 mM steps. The protein eluted at 300 mM imidazole. The collected enzyme fraction was concentrated using a 10 K Vivaspin Turbo 4 and further purified by size exclusion chromatography using the Superdex® 200 Increase 10/300 GL column (SEC, Merk KGaG, Darmstadt, Germany), concentrated using a 10 K Vivaspin Turbo 4 and stored at −80°C with glycerol (20%, v/v) until use.
+
+Continuous enzyme assays were performed spectrophotometrically (0.3 mL reaction mixture) with glass (for visible light) cuvette, discontinuous enzyme assays were performed with HPLC with samples taken at different time points. All enzyme activities were tested at 55°C. Reactions following CoA formation with DTNB were measured at 412 nm (ε
+
+Citrate synthase was measured spectrophotometrically at 412 nm as the oxaloacetate-dependent formation of free CoA from acetyl-CoA. The reaction mixture contained 100 mM Tris–HCl (pH 7.8), 5 mM oxaloacetate, 1 mM acetyl-CoA, 1 mM DTNB, and cell extract.
+
+Methylcitrate synthase was measured in the same way as citrate synthase, but acetyl-CoA was replaced by propionyl-CoA.
+
+Malate dehydrogenase was measured spectrophotometrically at 365 nm as the oxaloacetate-dependent oxidation of NADH. The assay mixtures contained 100 mM Tris–HCl (pH 7.8), 5 mM DTE, 5 mM MgCl
+
+Isocitrate dehydrogenase was measured spectrophotometrically at 365 nm as the isocitrate-dependent reduction of NADP. The assay mixture contained 100 mM Tris–HCl (pH 7.8), 5 mM DTE, 5 mM MgCl
+
+Isocitrate lyase was measured as the isocitrate-dependent formation of phenylhydrazone glyoxylate. The reaction mixture contained 100 mM Tris–HCl (pH 7.8), 5 mM DTE, 5 mM MgCl
+
+Methylsocitrate lyase activity was measured as the methylisocitrate-dependent formation of phenylhydrazone glyoxylate. The reaction mixture contained 100 mM MOPS-KOH (pH 7.5), 5 mM DTT, 5 mM MgCl
+
+Methylcitrate dehydratase activity of the AHF97589-gene-product was proved via GC–MS following the formation of methylaconitate. The reaction mixture contained 100 mM Tris–HCl, 1 mM 2-methylcitrate, and purified heterologously produced protein (AHF97589-gene-product).
+
+All the CoA-transferase activities were measured via UHPLC and the reaction mixtures (40 μL) contained 100 mM Tris–HCl (pH 7.8), 5 mM MgCl
+
+Succinyl-CoA synthetase activity was measured using UHPLC as the CoA-dependent formation of succinyl-CoA from succinate and CoA. The assay mixture contained 100 mM Tris–HCl (pH 7.8), 5 mM DTT, 5 mM MgCl
+
+Acetate kinase activity was measured spectrophotometrically following acetate-dependent oxidation of NADH at 365 nm in an assay containing (in 0.3 mL) 100 mM Tris–HCl (pH 7.8), 5 mM DTT, 5 mM MgCl
+
+Phosphotransacetylase activity was measured spectrophotometrically in an assay coupled with endogenous citrate synthase and malate dehydrogenase following NAD reduction at 365 nm as the CoA- and acetyl-phosphate dependent acetyl-CoA formation in the reaction mixture containing 100 mM Tris–HCl (7.8), 5 mM DTT, 5 mM NAD, 10 mM malate, 10 mM acetyl-phosphate, 1 mM CoA, and cell extract.
+
+Propionyl-CoA carboxylase activity was proved via GC–MS following the time-dependent formation of [1-
+
+Isolation of protein bound amino acids was done as described previously (
+
+For the analysis of AHF97589 gene product activity as methylcitrate dehydratase, the samples were dried under a stream of nitrogen at room temperature. The dried residues were then derivatized for GC–MS analysis using two different conditions. Replicate A and controls were derivatized with 100 μL of
+
+GC–MS analysis was performed with a QP2010 Plus gas chromatograph–mass spectrometer (Shimadzu) equipped with a fused silica capillary column (Equity TM-5; 30 m × 0.25 mm, 0.25-μm film thickness; SUPELCO) and a quadrupole detector working with electron impact ionization at 70 eV. An aliquot (0.1–6 μL) of the TBDMS-derivatized samples was injected in 1:5 split mode at an interface temperature of 260°C and a helium inlet pressure of 70 kPa.
+
+For the analysis of
+
+For amino acids, the column was heated to 150°C and kept at 150°C for 3 min, after which was heated to 280°C (7°C per min) and held at that temperature for 3 min. The injector temperature was 260°C. Measurements were performed in SCAN mode with a scan interval of 0.5 s and a mass range of 50–600 m/z. All samples were measured three times for technical replicates. The calculation of
+
+For samples containing 2-methylaconitate (i.e., 2-methylcitrate dehydratase activity test), the column was held at 150°C for 3 min followed by a temperature gradient of 10°C min
+
+UHPLC-UV/MS analysis was performed on the ACQUITY Premier system (Waters Cooperation, Milford, Massachusetts, USA) using the Atlantis™ PREMIER BEH C18 AX column. A gradient method recommended by the supplier was used to separate di- and tricarboxylic acids (
+
+The concentration of pyruvate formed in the methylisocitrate lyase reaction was determined by UPLC following pyruvate phenylhydrazone formation at 324 nm. The analysis was performed on the Agilent 1290 Infinity II LC system (Agilent Technologies, Inc., Santa Clara, USA) using the NUCLEOSHELL Bluebird RP 18 column (MACHEREY-NAGEL GmbH & Co. KG, Düren, Germany). Separation was performed using an isocratic method at a flow rate of 0.4 mL/min for 6 min, with the column heated to 30°C. The KH
+
+CoA and CoA-thioesters were detected with Agilent 1290 Infinity II UHPLC using a reversed-phase C18 column (Agilent InfinityLab Poroshell 120 EC-C18 1.9 mm 2.1 mm x 50 mm column). The following acetonitrile gradient in 10 mM potassium phosphate buffer (pH 7) with a flow rate of 0.55 mL min
+
+The relative quantification of the cell lysate proteomes of
+
+Although bioinformatic analysis revealed the presence of three
+
+Catalytic properties of the promiscuous citrate/2-methylcitrate synthase AHF97591 from
+
+Specific activities were measured at 55°C; data are mean ± s.d. of three technical replicates.
+
+The gene encoding the citrate/2-methylcitrate synthase of
+
+A putative methylcitrate cycle operon present in
+
+In view of the previous observations, we started cultivation experiments to test the ability of
+
+Growth of
+
+Once we established the capacity of
+
+Activities of enzymes involved in propionate metabolism in
+
+Interestingly, the activity of the key enzyme of the methylcitrate cycle, methylcitrate synthase, was not detectable in either propionate-, acetate-, or autotrophically grown cells, suggesting that this cycle is not active in propionate assimilation in
+
+To take a closer look at the metabolism of
+
+The comparison of abundance of enzymes involved in carbon metabolism in
+
+Data were obtained with LC-HR MS proteomic analysis (for full data set, see
+
+Methylcitrate cycle and the expected labeling patterns of alanine after growth in the presence of [U-
+
+Isotopologues profiling of the amino acids of
+
+Comparison of the proteomes of acetate- and propionate-grown
+
+In the oTCA cycle, succinyl-CoA is further converted to succinate in a succinyl-CoA synthetase reaction. Indeed, succinyl-CoA synthetase subunits (GenBank: AHF96945, AHF96946) were observed with up to 10-fold higher abundance in propionate grown cells. In contrast, succinyl-CoA:acetate CoA-transferase (GenBank: AHF96498) was 46-fold downregulated in propionate-grown cells (
+
+Pyruvate synthase (GenBank: AHF97587) required for pyruvate conversion to acetyl-CoA was 5-fold up-regulated, while
+
+When we started this study, we were guided by the bioinformatics data and expected to show the involvement of the methylcitrate cycle in propionate utilization in

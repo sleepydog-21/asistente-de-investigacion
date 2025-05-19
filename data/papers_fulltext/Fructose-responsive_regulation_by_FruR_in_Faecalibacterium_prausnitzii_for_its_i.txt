@@ -1,0 +1,101 @@
+The human gut microbial community is structured through the active exchange of metabolic nutrients across bacterial species and with the host
+
+The PTS is an efficient sugar uptake system that couples the transport of sugars with their phosphorylation, integrating them into the glycolysis pathway, but also regulates various physiological processes by sensing the availability of carbon sources
+
+In many Bacillota, fructose-1,6-bisphosphate (FBP) is known as a positive allosteric effector of HPrK activity, leading to increased levels of serine-phosphorylated HPr (HPr(Ser-P))
+
+Transcription regulation of the fructose metabolic (
+
+In Gram-positive bacteria, FruR belongs to the DeoR family of transcriptional regulators, consisting of an N-terminal DNA-binding domain and C-terminal sensor domain possessing a ligand-binding pocket
+
+Here, we explore how
+
+In
+
+Given that some transcription factors are regulated by other protein factors in both Gram-positive and Gram-negative bacteria
+
+Since the phosphorylation state of histidine-containing phosphocarriers depends on the sugar source utilized by the bacteria, we sought to verify whether the phosphorylation state influences the interaction between FruR and HPr2 using phosphomimetic mutants of HPr2 (Fig.
+
+FruR is encoded in the same operon with FruK and the fructose-specific PTS FruA in
+
+Our investigation reveals that in the presence of fructose,
+
+The presence of a PTS sugar causes the histidine 15 residue of HPr to remain unphosphorylated as its phosphoryl group is continuously transferred to the sugar via the sugar-specific EII, leading to an increase in the HPr(Ser-P)
+
+Next, we aimed to assess the effect of F1P and HPr2(Ser-P) on
+
+To further investigate the in vivo effect of F1P on
+
+To assess the effect of different sugars encountered by
+
+In Gram-positive bacteria, FruR is a DeoR-type protein predicted to recognize four adjacent, directly repetitive sequences of 10 base pairs (TGAWWGWTTT) in the
+
+EMSA results demonstrated that FruR tightly binds to the promoter. Although F1P negatively modulated FruR’s DNA binding affinity, it did not completely release FruR from the promoter (Supplementary Fig.
+
+Consistent with the EMSA results, DNase I footprinting assays confirmed FruR’s binding to the conserved motifs of the
+
+The sequence variations among motifs, along with the differing binding affinities observed in the assays (Fig.
+
+Although motif 5 shared higher similarity to the consensus sequence than motif 6 (Fig.
+
+Summarizing the results of a series of experiments, FruR undergoes structural changes upon binding of its effector molecules. MST results indicated that F1P induces structural modification in FruR that facilitate the binding of HPr2 (Fig.
+
+To understand how F1P binding induced this structural modification, we investigated the possible residues responsible for the interaction between the DBD and the C-terminal domain. Among the residues located at the interface of the two domains, the interaction between the tyrosine 243 (Y243) residue and threonine 24 (T24) shifted significantly upon F1P binding (Supplementary Fig.
+
+Dietary fibers are considered beneficial nutrients for health. Chitin-glucan and inulin are known to induce changes in human gut microbiota composition
+
+In Gram-positive bacteria, 1-phosphofructokinase (
+
+The human gut microbiome plays a crucial role in host health, with
+
+In most Bacillota, FruR recognizes four repeats of the TGAWWGWTTT sequence located upstream of the −10 element, spanning the −35 element, and plays a role in repressing the
+
+Prior to fructose exposure in the host intestine, FruR hinders RNAP interaction with the
+
+Since serine phosphorylation of HPr2 increases in environments rich in PTS sugars, and HPr2(Ser-P) binding to FruR alone is insufficient to activate
+
+It is noteworthy that two HPr proteins exist in
+
+Unlike other Bacillota, most
+
+In this study, we elucidated a regulatory role of HPr2(Ser-P) in facilitating RNAP binding to the
+
+The bacterial strains and plasmids used in this study are listed in Supplementary Table
+
+Proteins were expressed in an
+
+Ligand-fishing experiments were performed, with minor modifications, to identify potential interaction partners of FruR
+
+The binding affinities between FruR and F1P were measured using a NanoTemper Monolith NT.115
+
+In vitro transcription assays were performed with minor modifications from previously described methods
+
+DNase I footprinting experiments were performed with minor modifications from previously described methods
+
+EMSA was performed as previously described in ref.
+
+MD simulations were preformed using GROMACS
+
+Fluorescence measurements were performed as previously described
+
+Eight-week-old mice were randomly assigned to one of three groups: a control group on normal chow diet (NCD), a group on a 10% inulin-supplemented NCD, and a group on a 10% chitin supplemented NCD (
+
+Total DNA was extracted from the stool samples using the GeneAll® GENTi™ Advanced Fecal DNA/RNA Kit with GENTi™ 32 Advanced Automatic Extraction Equipment (GeneAll, Seoul, Korea). DNA (10 ng) was subjected to real-time PCR amplification using a FAST SYBR green master mix kit (Life Technologies, Carlsbad, CA) with
+
+For total RNA extraction, stool samples were bead-beaten for 10 s using 100 mg of ZR BashingBeads (Zymo Research, CA, USA, #S6012-50) and 700 μl of RNAiso plus solution (Takara Bio, Inc., Otsu, Japan, #9108). RNA isolation and ethanol precipitation were performed according to the manufacturer’s protocol. The isolated RNA was converted to cDNA as described earlier in the IVT section.
+
+All data are presented as the means ± SD from at least three independent experiments. Statistical analysis of RNA sequencing data was performed using DESeq2 (v1.32.0) with default settings, applying a minimum significance threshold of
+
+Further information on research design is available in the
+
+
+
+Transparent Peer Review file
+
+Supplementary Information
+
+Description of Additional Supplementary Files
+
+Supplementary Data
+
+Reporting summary

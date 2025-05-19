@@ -1,0 +1,85 @@
+Bacteria inhabit every available niche on earth, where they are subject to a range of environmental conditions to which they must acclimatize [
+
+There are seven
+
+The FROS study delineated
+
+To gain more insight into the phenomenon of
+
+Gaal et al. used FROS to examine pair-wise combinations of fifteen of the possible twenty-one pairs of
+
+Since our laboratory has shown that long-range contacts occur less frequently in an
+
+In summary, of all the variables tested, heat stress caused the most significant de-clustering of the
+
+Since heat shock disrupted the
+
+Mass spectrometry of the proteins identified in pull-downs with the seven
+
+GroEL, in complex with GroES, acts as a chaperone for protein folding [
+
+To test if expression of
+
+σ
+
+If perturbation of σ
+
+To ascertain that the data in
+
+To test this notion further, we examined the following previously characterized mutants of
+
+Our experiments thus far queried the co-localization of the
+
+The effect of RpoH on the
+
+To determine if σ
+
+Phage Mu transposition requires direct contact between Mu and its transposition target and displays virtually no sequence specificity in its target choice [
+
+Since we did not examine the effect of σ
+
+We next specifically examined the bins containing
+
+This study demonstrates that the
+
+In eukaryotic cells, the nucleolus is the primary site of ribosome biogenesis [
+
+To learn more about the nature of the
+
+Adaptation to heat shock is a universal biological phenomenon [
+
+The
+
+Why should an apparently slight rise in σ
+
+Competition among sigma factors for the core RNAP has been proposed to be the mechanism for gene regulation [
+
+σ
+
+Of the five other sigma factors tested for cluster-disrupting ability, only FecI, an extracytoplasmic- function (ECF) σ factor, also disrupted clustering, although not as severely as σ
+
+Taken together, we propose that clustering of
+
+RNAP has been reported to form distinct clusters on the
+
+The properties of the
+
+Unless conditions are specified, all strains are grown in LB at 30°C with shaking. When appropriate, antibiotics were at the following concentrations: Ampicillin (Amp) at 100μg/mL, Kanamycin (Kan) at 25μg/mL, Chloramphenicol (Cam) at 20μg/mL. Anhydrotetracycline (aTc) was used for induction of Tet promoter at 50ng/mL. Isopropyl-β-D-Galactoside (IPTG) was used to induce the
+
+Routine PCR was performed with Taq DNA Polymerase (NEB), according to manufacturer’s instructions. PCR fragments for cloning were generated with Phusion DNA Polymerase (NEB) according to manufacturer’s instructions. Gibson Master Mix was made according to Gibson
+
+Plasmids were constructed using Gibson assembly. Typically, 250μL of the backbone was assembled with a molar equivalent of insert in a 20μL reaction. The resulting product was purified with PCR clean-up kit (Qiagen) according to the manufacturer’s instructions. 2μL of the 20μL eluted product was used for transformation. Colonies were screened by PCR with primers spanning the junction between the backbone and the insert. Positive clones were restruck and checked once more using the same primer pairs. The PCR product was sequenced to confirm the identity of the sequence at either the UT Core Sequencing Facilities or Eton Biosciences. For generating single point mutants, primers carrying the desired mutation were used to amplify the plasmid of interest. The resulting PCR product was gel-extracted with Qiagen Gel Extraction Kit. The product was then self-ligated overnight with T4 DNA Ligase and T4 DNA PNK in T4 Ligase Buffer. The ligated product was then purified and 2μL of the 20μL eluted product was used for transformation. Positive clones carrying the desired mutation were identified by PCR of the target sequence followed by sequencing. The positive clones were then restruck once again and verified with PCR and sequencing.
+
+For insertion of
+
+Overnight cultures used for fluorescent microscopy were grown overnight in EZ-Rich media (Teknova) from a single colony and diluted 1:100 in fresh EZ-Rich media supplemented with IPTG for induction of ParB-fluorescent fusions from pFHC2973. The subculture grew until an O.D. of 0.4. 1mL of the culture was then pelleted by centrifugation and resuspended in 100μL of PBS. 6uL of the suspension was then spotted onto agarose pad (1%) and let dry. The sample was then observed under Olympus-BX 53 microscope, XM10 monochrome camera on the 100x objective with oil immersion. Most images were taken at an exposure of ~100ms for GFP filter, and ~400ms for CFP filter, however, some samples required a longer exposure time to obtain acceptable signal for downstream processing; the upper limit of exposure was 3s. Cellular stressors were applied 20 minutes prior to imaging, after which they were prepared and imaged as described above. For heat stress, the cells were transferred to a 42°C water bath. SHX was added to a concentration of 50μM. Cold stress was induced by incubating the cells in a 4°C water bath. Ethanol stress was induced by adding ethanol to 0.5%. For image-processing, the background was subtracted from the image, and foci were detected with ImageJ using the detect maxima function. The coordinates of the foci were exported and the Cartesian distance between a GFP focus, and its closest CFP focus was determined with custom Python script. The distance was computed by scaling the distance in pixel to nm with 1 pixel = 62nm. Cell length was measured with ImageJ using the same scale as described above (1pixel = 62nm). For each experiment, three biological replicates were examined, and one representative is shown. Code used for analyzing the foci can be found at
+
+Cells were grown and subjected to heat stress or
+
+Three independent overnight cultures of MG1655 carrying pKH5 and the corresponding gRNA were pelleted and washed as described above. The pellet was diluted 1:100 into 100mL fresh LB supplemented with selection and 0.2% arabinose and aTc. The cultures were grown to an O.D. of 0.6 and pelleted and washed 3 times in 1mL of PBS. The subsequent pulldown procedure was carried out as described by FLAG Immunoprecipitation kit (Rockland). Every step of the pulldown was conducted at 4°C. Briefly, the pellet was resuspended in 5mL of lysis buffer and sonicated (Brason tip, 40% intensity) for 10 minutes (10s on, 10s off cycle). The lysate was clarified by centrifugation at 4°C. Agarose-αFLAG Ab was washed twice in PBS and once in elution buffer. The washed Agarose-αFLAG Ab was incubated with the lysate overnight. After incubation, the beads were collected and washed 3 times with PBS. The bound proteins were eluted with elution buffer. The proteins were quantified by Mass Spectrometry at the UT Proteomics core. Samples were digested with trypsin, desalted and run on Dionex LC (liquid chromatography) and Orbitrap Fusion 2 (mass spec machine) for 60 minutes. Raw data were analyzed with PD2.2 and Scaffold 5 software. Downstream analysis was performed as described in [
+
+0.5mL of three overnight cultures of the desired strain carrying the appropriate plasmid was pelleted and washed in 1mL of PBS twice. The pellet was then resuspended in 0.5mL of PBS and diluted 1:100 in LB. The cultures were grown to an O.D. of 0.4 and aTc was added. At indicated time points, 20μL of the culture was withdrawn, its O.D. 600 recorded and added to 80μL of permeabilization buffer (100mM NaHPO
+
+When required, a Mu prophage strain was grown overnight, diluted 1:100 in fresh LB and grown until an O.D. of 0.5. After which, the culture was shifted to a 42°C water bath and incubated until lysis is complete. The lysate was clarified by centrifugation at 6000g for 20 minutes. The supernatant was transferred to a clean flask and NaCl was added to a final concentration of 0.5M followed by the addition of Polyethylene Glycol 8000 to a final concentration of 10% w/v. The mixture was incubated overnight at 4°C. The pellet was then collected by centrifugation at 8000g for 20 minutes. The pellet was then resuspended in 1:100 of the original volume in Mu Buffer. Chloroform was added to the mixture and shaken. The phases were separated by centrifugation at 4000g for 10 mins at 4°C. The aqueous phase was collected (top layer) and phage titer determined prior to use.
+
+Selection for Mu insertion at

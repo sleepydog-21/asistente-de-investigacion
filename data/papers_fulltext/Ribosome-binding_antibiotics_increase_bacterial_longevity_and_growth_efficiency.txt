@@ -1,0 +1,139 @@
+Human medicine needs antibiotics to act as warfare molecules, which they do. However, many antibiotics are synthesized by microbes (
+
+If impeding bacterial growth is not an antibiotic’s sole purpose, what other functions might it have? As ribosome-binding antibiotics can scavenge reactive oxygen species (ROS) (
+
+Throughout, “population longevity” means the time for which a microbial population is maintained at a positive density whereby at least one cell has the potential to spawn new growth, the term does not refer to the life-span of individual cells (
+
+Tradeoffs can be mediated by antibiotics, for example, there is a growth-lysis tradeoff due to
+
+The laws of thermodynamics that govern energy consumption and entropy accumulation all but force stress and death upon microorganisms. The ability of cells to mitigate the molecular dynamical processes that lead to death and, instead, sustain cellular integrity in nutrient-poor conditions is vital for survival until such time nutrients become plentiful again. Before that moment arises, bacteria can form spores (
+
+We analyze
+
+Finally, we show that it is not necessary to target the ribosome with antibiotics in order to mediate population longevity, rather, this can be done via the ribosome directly. We demonstrate this using
+
+We now study the growth and decline of
+
+MG1655 was cultured in a treatment–growth–death (TGD) protocol (Methods A) with liquid M9 media supplemented with 0.2% glucose and 0.1% casamino acids (M9CAA) with antibiotics used at two concentrations (3 replicates per dose) that inhibit 20% and 50% relative to 24-h drug-free growth (
+
+Antibiotics are only deployed at inoculation so their concentration must decrease through time. Different antibiotics degrade at different rates (
+
+As expected, population densities of MG1655 initially increase as nutrients are utilized (
+
+One treatment of a ribosome-binding antibiotic confers longevity benefits that are abolished by a resistance mechanism. The treatment–growth–death dynamics (TGD, Methods A) of MG1655 cultures over 28 d reveal longevity benefits from the ribosome-binding antibiotics (
+
+Drug-induced longevity does not, however, extend to the 2 antibiotics with nonribosomal targets. Rather, the density dynamics of MG1655 exposed to penicillin (
+
+We asked whether antibiotic resistance would affect the above longevity benefits. When treated with doxycycline, resistant
+
+Wcl and GB(c) populations were exposed to doxycycline (0.2 and 0.4 mg/L) at inoculation or left drug-free for 28 d without fresh nutrients nor antibiotic (3 replicates). We observed no longevity benefit in doxycycline-exposed GB(c) cultures relative to drug-free populations and, instead, we observed reduced population densities beyond 24 h during the starvation phase (
+
+The MIC (minimal inhibitory concentration) of doxycycline for GB(c) far exceeds that of MG1655 (
+
+Nutrient exhaustion and aging can induce genomic diversification in bacterial populations (
+
+Over 400 SNPs were observed across all drug conditions and seven time points. Most SNPs were dynamically transient and observed at low frequency, possibly due to low levels of cell turnover. More novel high-frequency SNPs were identified in doxycycline conditions than drug-free (6 in drug-free, 19 in 0.2 mg/L doxycycline, and 13 in 0.4 mg/L doxycycline), with the majority being nonsynonymous. However, the ratios of nonsynonymous to synonymous substitutions, written
+
+We expected polymorphisms related to the ROS response, and notably, multiple SNPs were identified in
+
+Some polymorphisms above 10% frequency were unique to doxycycline treatments: Populations at 0.2 mg/L doxycycline harbored multiple SNPs in
+
+Single nucleotide polymorphisms (SNPs) identified in nutrient-starved cultures at frequencies above 10% within each population. These SNPs were identified at different time points during 21 d of nutrient starvation in drug-free and doxycycline-exposed (0.2 and 0.4 mg/L, Methods F) MG1655 cultures. SNPs in red are nonsynonymous, blue are synonymous, and green are intergenic. The outer circle represents day 1, through to days 3, 7, 10, 14, 17, and finally day 21 on the inner circle. The black inner ring indicates genome position and dot color indicates SNP frequency. These indicate that many SNPs were transient and once initially observed above 10%, they could, thereafter, recede below that value. Genes with SNPs in all conditions were involved in cell division (
+
+Recall that doxycycline and erythromycin-exposed populations of MG1655 experience oscillatory growth phases (
+
+To find out, we cultured MG1655 in spent supernatant and determined differences in growth with the addition of doxycycline (Methods C). MG1655 was first cultured for 48 h in M9CAA to ensure complete glucose exhaustion (
+
+There was no significant difference in growth rates (hereafter denoted “
+
+Doxycycline enhances growth on the debris in supernatant. “Oscillatory” growth–death phases observed in doxycycline and erythromycin-exposed MG1655 populations after the exhaustion of glucose (
+
+Diauxic growth (
+
+The conditions used in the supernatant assay
+
+A higher
+
+To better understand the pathways doxycycline mediates, we used an MG1655 library with GFP-tagged promoters of over 1,900 genes (
+
+Among TCA genes, promoters for
+
+Doxycycline mediates metabolic expression in an
+
+As doxycycline is an antioxidant (
+
+Interestingly, 3 knockout strains,
+
+Does doxycycline benefit the growth of ROS- and metabolism-related knockouts? (
+
+The restoration of growth of strains
+
+Having demonstrated doxycycline mediates both carbon metabolism and ROS-related effects on growth, we reasoned it should effect the rate–yield tradeoff (RYTO), this is the idea that slower growth accompanies more efficient metabolism (
+
+The first PCA vector, PC1, accounts for 89.3% of that variation. As PC1 does not change sign, it captures how most of these doxycycline-treated populations are typically reduced monotonically throughout the culture period relative to their drug-free counterpart (i.e., doxycycline impairs all phases of growth in PC1,
+
+The relative strengths of the RYTO are quantified by the second and third PCA coefficients (
+
+In summary, this analysis shows that i) doxycycline need not benefit the growth of all metabolism and ROS-related Keio mutants (
+
+We sought to determine how doxycycline affects different phases of growth in a broader range of genetic perturbations for which we conducted growth assays using over 1,500 Keio strains with and without doxycycline (Methods E, at the parental strain IC
+
+Doxycycline induces a range of phenotypic changes among Keio mutants, including
+
+Using these data, we asked whether doxycycline-induced
+
+Let us summarize mechanisms associated with
+
+Now, 92 Keio strains experienced “hypersensitivity” to doxycycline whereby they did not grow in a doxycycline treatment at parental IC
+
+It is important to ascertain how ribosomal availability mediates antibiotic-related benefits for it is plausible they accrue from changes in the number of functional ribosomes, a property of cells that can be controlled with the antibiotics we use. Ribosome synthesis affects metabolic efficiency and growth rate (
+
+All 7 strains were cultured for 14 d in M9CAA without the further addition of nutrients, no antibiotic was used at any point (Methods G). As expected, the population density of WT declined after day 1 (
+
+An intermediate number of
+
+Consistent with expectations that different numbers of operons are optimal for different resource availabilities (
+
+We were motivated by the idea that most microbial cells reside closer to kin than to foe in spatially structured environments, thus antibiotics emanating from producer cells might exert beneficial effects on kin before they encounter more distant foe. We therefore sought conditions under which antibiotics can benefit bacteria, noting that ribosome-binding antibiotics are candidates for this due to their interactions with ROS. We found several benefits of doxycycline, including the decrease in ROS, likely caused by slowed growth and the scavenging of ROS by doxycycline whereby, as a result, doxycycline benefits both the growth efficiency and longevity of
+
+Longevity benefits are not universal among
+
+We had another motivation too: the rate–yield tradeoff (RYTO) (
+
+Other mechanisms contribute to these benefits, for instance, the observation of greater population densities cultured on supernatant in the presence of doxycycline (
+
+We used the Keio collection to determine doxycycline-related benefits in other life history traits, depending on the genetic background. For instance, doxycycline can increase the growth rate and population density of some strains and it can restore the growth of certain ROS-related lethal gene knockouts whereby those knockout strains do not grow unless doxycycline is present (
+
+We have shown antibiotics are not needed to mediate population longevity via the ribosome, the number of rRNA operons in the
+
+We speculate this has consequences for the maintenance of antibiotic resistance polymorphisms, even in the absence of the antibiotic. To explain, consider erythromycin, an antibiotic that exhibits polymorphism in the clinic whereby some global distributions of MICs for erythromycin have both resistant (R) and susceptible (S) subpopulations in surveillance databases (
+
+A technical limitation of this study arises when measuring phenotypes like population density and population mean GFP expression using spectrophotometry, as here. We have endeavored to use cell counts where practicable but this is not possible when screening large strain libraries. As a result, it is plausible that some measurements do not work as intended because, for example, of filamentation or unusual cell size characteristics that pass undetected. While we describe an algorithm for detecting some of these problematic features (
+
+Finally, measuring the therapeutic benefit of antibiotics using short-term clinical assays may still be appropriate because pathogens facing an immune response may not survive for long and so rapid growth could well be optimal in vivo. However, in contexts where microbes endure nutrient stresses over long time periods, we argue that antibiotics can help bacteria navigate those periods, inverting the benefits of resistance in the process. So although antibiotics can behave as warfare molecules (
+
+All strains were cultured in liquid M9 minimal media supplemented with 0.2% glucose (w/v) and 0.1% casamino acids (M9CAA). Prior to use, bacteria were grown in 10 ml M9CAA for 24 h at 30
+
+Throughout, cell density is measured either by counting colony forming units (CFU) or by taking optical density (OD) readings (600 nm) using a Tecan Spark microplate reader. OD readings are used as a proxy for cell density and were found to correlate well with colony counts (
+
+Overnight cultures of
+
+To measure the impact of doxycycline resistance on longevity,
+
+The following protocol determined the effect of doxycycline on growth in supernatant. First, 1
+
+To study the effects of doxycycline on the expression of different promoters, a library of
+
+The GFP promoter library was received from Horizon Discovery (Cambridge, United Kingdom) in 96-well microplates and immediately stored at
+
+Twelve GFP reporter strains (
+
+The Keio strain library (approximately 4,000 mutants of
+
+To determine genomic changes contributing to the benefits observed in doxycycline-exposed cultures, we sequenced genomes of
+
+The role of ribosome operon number on population longevity was assessed by culturing
+
+Appendix 01 (PDF)
+
+Click here for additional data file.

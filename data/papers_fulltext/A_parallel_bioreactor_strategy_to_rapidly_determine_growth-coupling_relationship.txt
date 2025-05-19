@@ -1,0 +1,83 @@
+Depleting fossil fuels reserves and climate change concerns have pushed synthetic biology to demonstrate production of a vast array of bioderived commodity and high-value compounds [
+
+Common barriers to the commercialisation of bioprocesses are financial, regulatory and the availability of appropriate facilities [
+
+The commercial viability of a bioprocess can be studied through the use of techno economic analysis (TEA) [
+
+Mevalonate is a 5-carbon carboxylic acid with uses in the cosmetics industry, but mainly serves as a precursor for terpene synthesis with broad application in pharmaceutical, flavour/fragrance and fuel industries [
+
+Reaction scheme of
+
+Parallel bioreactors, such as the Sartorius AMBR250 system, allow multiple fermentations to be carried out simultaneously, decreasing the time required to generate data. Growth-coupling relationships are strain and condition specific, and therefore will vary for every bioprocess. It is possible to use parallel bioreactor systems to rapidly estimate the landscape of the growth-coupling relationship within a single experimental run, using calculated fed-batch feeds to achieve pseudo steady-state growth conditions, without the need for long and challenging chemostat experiments or sequential fed-batch fermentations. Parallelisation decreases the time, and therefore cost, associated with studying these relationships and could be readily implemented during academic studies. Making these data available during low technology readiness level research [
+
+During fermentations with excess glucose or high growth rates,
+
+An initial batch fermentation was used to calculate the biomass yield coefficient (Y
+
+Calculation of Y
+
+These values were then used to calculate feeding rates (Eq. 1) to give the desired, fixed growth rates (
+
+Initially, in all fed-batch reactions, steady-state conditions with constant growth rates were achieved (Fig.
+
+Mevalonate production by BW_MvaES, during six parallel fed-batch fermentations with defined
+
+By analysing the relationship between q
+
+The relationship between Y
+
+CRISPR–cas12a was used to knockout the acetate production pathways native to
+
+Acetate production after 24 h of batch culture in LB supplemented with 20 g/L glucose (n = 3). WT = wild type BW25113, ackA-pta KO = BW25113 ΔackA-pta, poxB KO = BW25113 ΔpoxB and ackApta poxB KO = BW25113 ΔackApta ΔpoxB
+
+The Δ
+
+Calculation of Y
+
+Using feeding rates calculated from Fig.
+
+Mevalonate production by KO_MvaES, during six parallel fed-batch fermentations with defined
+
+The highest Y
+
+The relationship between Y
+
+Reporting product titres in g/L is standard practice in academia [
+
+Products made during fermentation, directly from metabolic substrates, are often considered to be ‘growth coupled’ [
+
+Equation 1 was successful in generating steady-state growth conditions, as shown by the high R
+
+The growth-coupling relationship is usually growth rate dependent, where cellular resources and cell metabolism at different growth rates may affect the partitioning of resources and therefore the proportion of substrate diverted to product. The relationship is strain and condition specific, and changes through genetic engineering or modification of growth conditions can affect the outcome.
+
+Here, we studied growth-coupling relationships in the form of Y
+
+Y
+
+The landscape of the growth-coupling relationship gives an indication of the robustness of the strain to changes in growth rate. This is an important consideration in scale-up, where mass transfer and mixing effects may lead to a heterogeneous population within the reactor, with not all cells growing under optimal conditions for product formation [
+
+Whilst both strains achieved the same maximum productivity, KO_MvaES achieved this without the formation of acetate as a byproduct. Acetate formation is undesirable as it can inhibit growth from around 5 g/L, which could prevent the desired growth rate being achieved at higher cell densities [
+
+Typically, productivities are studied during steady-state growth in a chemostat [
+
+Fed-batch is a common mode of industrial fermentation. Studying steady-state conditions during fed-batch, allowed parallel bioreactors (ambr250) to be utilised, and the growth-coupling relationship to be calculated in a single experimental run. By parallelising the fermentations, growth-coupling relationships were calculated more rapidly than would have been possible during a chemostat study or by carrying out multiple fed-batch runs in a single, larger-scale fermenter. Parallelisation allows characterisation to be accelerated in a standardised manner, which is of interest in both the academic setting, and the SME (small and medium-sized enterprise) world, where time is money, and currently much de-risking of scale-up is carried out. Whilst demonstrated for mevalonate production, this process could readily be applied to many bioprocesses irrespective of product or production strain, for which growth-coupling relationships would likely differ and could lead to more efficient and commercially viable processes.
+
+As studies here assumed a constant volume (Eq. 1), the rates are only true if the volume of feed added is significantly lower than the initial volume and therefore, only initial rates remain constant, and as feed volume increases,
+
+The purpose of this study was not to achieve maximum titres, but instead strain characterisation which can aid understanding and future process development. Since titre is intrinsically linked to production time, maximum titres would be achieved by maintaining a growth rate which gives the highest product yield coefficient, until high cell densities prevent further growth. This could be achieved by using a modified feeding equation, which adds a dilution factor to account for changes in volume from feed addition (Additional file
+
+Another metric commonly used to assess bioprocesses is overall volumetric productivity (g
+
+Here we report the use of parallel bioreactors to rapidly determine growth-coupling relationships of mevalonate production. By studying these in terms of productivity, we accessed industrially relevant insights, which would not be possible using traditional, titre-based reporting. This led to the development of a process capable of producing mevalonate at high rates without undesirable acetate formation and limited strain engineering. The process we developed could be applied to many fermentation products, to help to rapidly improve the efficiency of fermentation and to inform further process design and commercial feasibility studies.
+
+Fermentations were carried out in a Sartorius AMBR250 bioreactor system. Fermentations contained 150 mL of batch medium. Batch medium contained M9 salts (Sigma Aldrich), 4 g/L glucose, 2 mM MgSO
+
+Quantification of glucose, mevalonate and acetate was carried out by HPLC. A REZEX ROA column was used, with an aqueous 5 mM H
+
+Acetate producing genes were knocked out of
+
+Strains were screened in 250-mL flasks, containing 50 mL LB ± 20 g/L glucose.
+
+
+
+Additional file 1.

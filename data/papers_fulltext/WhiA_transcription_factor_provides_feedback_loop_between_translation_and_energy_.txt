@@ -1,0 +1,155 @@
+The regulation of housekeeping gene expression in simple organisms is of particular interest in synthetic biology. Bacteria with significantly reduced genomes like mycoplasmas (class Mollicutes) represent a good model of minimal cell. The study of gene expression control mechanisms in these organisms may help to understand the key principles of minimal but essential regulatory systems organization. Here, we focused on the WhiA transcription factor (TF) of
+
+WhiA is one of the four most universally conserved TFs in Mollicutes, together with HrcA, MraZ, and YebC/PmpR (
+
+In this work, we studied the functions of WhiA with emphasis on its role in the minimal genome using the class Mollicutes bacterium
+
+Briefly,
+
+Growth kinetics of
+
+For genetic transformation, RT-qPCR and proteome analysis
+
+For genetic transformation, the cells were harvested by centrifugation at 8,000 g at 4°C for 10 min. The pellet was resuspended in 250 μL of electroporation buffer (8 mM HEPES, 272 mM sucrose, pH 7.4). The procedure was repeated twice to remove any traces of growth medium. Then, the cell suspension was transferred to an electroporation cuvette and the pulse was performed using a Gene Pulser device (Bio-Rad). The parameters for the cuvette and the pulse are as follows: 2 mm cuvette, voltage 2,500 V, resistance 100
+
+For artificial gene suppression, we used the dCas9 protein, where both endonuclease domains of wild-type
+
+WhiA protein (Mgal-WhiA) was cloned from
+
+Images were acquired using a cooled EM-CCD camera (Photometrics Cascade II) and oil-immersion objective lens with 100× magnification and the numerical aperture of 1.46 (Carl Zeiss). One pixel on raw images corresponded to 133 nm in the lens focal plane. Following filter sets were used: Semrock mCherry-40LP (for mMaple2 fluorescent protein excitation), Semrock DAPI (for mMaple2 switching from green to red state) and Semrock LF635/LP-B-000 [for fluorescence excitation of 5-SiR DNA specific dye (
+
+Image analysis was performed using ImageJ (
+
+Recombinant WhiA from
+
+An aliquot of purified protein was incubated with 2.5 pmol of the FAM-or HEX-labeled ds-oligonucleotides for 10 min at 37°C. The full list of oligonucleotides used for EMSA is provided in
+
+Same oligonucleotides as the ones used for EMSA were used for MST. For the analysis of WhiA-DNA interactions, pre-annealed stock solutions of the HEX-labeled ds-oligonucleotides in PBS buffer (10 mM sodium phosphate, pH 7.4, 140 mM NaCl, and 3 mM KCl) were mixed with protein solutions in PBS buffer supplemented with Tween-20 and imidazole to a final duplex concentration of 50 nM and protein concentration of 0–5 μM. For the analysis of WhiA-ATP interactions, the protein was labeled with Cy5 NHS-ester. Tween and imidazole concentrations in the final working buffer were 0.05% and 50 mM, respectively. The mixtures were incubated at 20°C for 15 min prior to MST measurements. MST curves were registered using a Monolith NT.115 (NanoTemper, Germany) equipped with a RED/GREEN detector with MST monitoring by HEX fluorescence in the GREEN mode. The dependence of the normalized HEX fluorescence after thermodiffusion on the protein concentration was analyzed using MO. Affinity analysis software (NanoTemper), and the microscopic dissociation constant (Kd) value was obtained by fitting the experimental data to the Hill model (Fraction bound = 1/(1 + (Kd/[WhiA])
+
+The pre-annealed BHQ1-labeled (Black Hole Quencher) duplex WhiA-Q3-F/WhiA-Q3_RC was mixed with the 6-FAM-labeled WhiA-F1/WhiA-F1_RC or WhiA-F2/WhiA-F2_RC (negative control) duplex in a 10 mM sodium phosphate buffer (pH 7.4) containing 140 mM NaCl and 3 mM KCl. The final concentration of each duplex was 1 μM. The protein was added to a final concentration of 1.5 μM. Fluorescence emission spectra were recorded before and after protein addition at 20°C upon excitation at 495 nm using a Chirascan spectrometer (Applied Photophysics, UK). Juxtaposition of the 6-FAM-labeled and BHQ-labeled duplexes upon binding with the protein was assessed based on 6-FAM fluorescence quenching by BHQ1.
+
+Aliquots of the
+
+Sample preparation for proteomic analysis was performed as follows: the samples were lysed in a lysis buffer containing 1% sodium deoxycholate (Sigma) and 100 mM Tris–HCl (pH 8.5) with a protease inhibitor cocktail (GE HealthCare) through ultrasonication with a Branson 1510 sonicator at 4°C for 1 min. Protein concentration was estimated using the BCA assay (Sigma). Aliquots containing 300 μg of the protein material were diluted to 1 μg/μL with lysis buffer, and Tris (2-Carboxyethyl) phosphine hydrochloride (TCEP, Sigma) and chloroacetamide (CAA, Sigma) were added to final concentrations of 10 and 30 mM, respectively. Cys-reduction and alkylation were achieved by heating the sample for 10 min at 85°C. Trypsin (Promega) was added at a ratio of 1:100 w/w to the protein amount and incubated at 37°C overnight. Then, the second trypsin portion 1:100 w/w was added, and the sample was incubated for 4 h at 37°C. Proteolysis was stopped by the addition of 1% trifluoroacetic acid. The precipitated sodium deoxycholate was then removed using ethyl acetate (
+
+LC–MS analysis was carried out on an Ultimate 3000 RSLC nano HPLC system connected to a QExactive Plus mass spectrometer (Thermo Fisher Scientific). Samples were loaded to a home-made trap column 20 × 0.1 mm, packed with Inertsil ODS3 3 μm sorbent (GL Sciences), in the loading buffer (2% ACN, 98% H
+
+MS data were collected in DDA mode. MS1 parameters were as follows: 70 K resolution, 350–2,000 scan range, maximum injection time 50 ms, AGC target value 3 × 10
+
+Identification of the DDA files was performed with the MaxQuant 1.6.6.0 software with default settings against the
+
+Differential abundance analyses of proteins in
+
+For preparation of the GM-HOPG surface, 10 μL of 0.01 g/L [Gly
+
+The Mgal-WhiA mixture with DNA was prepared in the same manner as for the EMSA. The DNA fragment with the
+
+AFM imaging under ambient conditions was performed using a multimode atomic force microscope, Ntegra Prima (NT-MDT), operated with ultrasharp tips (carbon nanowhiskers with a curvature radius of several nanometers grown at tips of commercially available silicon cantilevers with a spring constant of 5–30 N/m) in an attraction regime of intermittent contact mode (
+
+The standard mixtures for EMSA containing 1 mM ATP were prepared with or without the addition of the Mgal-WhiA protein. The samples were then incubated for 60 min at 37°C. ATP concentration was measured using a luciferase assay. The measurements were carried out on a Lum 1200 chemiluminometer (DiSoft, Russia). One microliter of the sample was transferred to 200 μL of buffer containing 50 mM potassium phosphate buffer, 5 mM MgCl
+
+The 3D models of Mgal-WhiA,
+
+To define the most probable binding site of ATP on the WhiA surface, flexible ligand docking was performed using ICM-Pro 3.8.6. Docking was performed in two stages. During the first procedure, the geometry of WhiA did not change. Before starting a docking procedure the structures of WhiA and ATP were converted into an ICM object. According to the ICM method, the molecular models were described using internal coordinates as variables. The parameters needed for the interatomic energy calculation and the partial charges for the atoms of WhiA were taken from ECEPP/3 (
+
+The most probable conformation of complex WhiA-DNA was also carried out in two stages using a docking procedure. In the first stage, “rigid” docking with unchanged conformations of WhiA and DNA was used with the application of Hex 8.0.0 (
+
+MD simulations were performed using a suite of programs in Amber18 (
+
+We studied the distribution of WhiA protein (Mgal-WhiA) and genomic DNA (the nucleoid) in
+
+Multiple phylogenetic groups of bacteria (Firmicutes, Mollicutes, Actinobacteria, Thermotogae, Bacteroidetes, and Chlamydiae) feature a conserved operon of ribosomal protein genes, the first of which is
+
+To elucidate WhiA function we performed
+
+The effects of
+
+The obtained
+
+Quantitative proteome analysis indicated that the knockdown of
+
+We obtained recombinant WhiA protein from
+
+WhiA binding site in
+
+The binding constant (Kd) was measured for Mgal-WhiA with specific and non-specific ds-oligonucleotides by MST and was calculated from EMSA data (
+
+Mgal-WhiA K
+
+Further we measured binding constant of WhiA to WT sequence and the sequence with mutated aux motif (Mut1) using EMSA. The fraction saturation data from the EMSA experiments allowed us to calculate the total binding constant using an orthogonal approach. The binding constants for the WT and Mut1 oligonucleotides was 700 ± 80 nM and 750 ± 30 nM, respectively. The binding constant for negative control DNA identified by EMSA was >5 μM. The data obtained by EMSA are in good agreement with the data obtained by MST, resulting in a difference of approximately an order of magnitude in the Kd for the specific and non-specific binding. Considering that the binding constants for the WT and the aux-mutated (Mut1) oligonucleotides are essentially the same, we conclude that the core motif contributes the most to the DNA-binding and motif recognition functions of Mgal-WhiA. Thus, we conclude that Mgal-WhiA preferably recognizes core motif GATACACC. This core motif is highly homologous with the WhiA binding site identified in
+
+Previously, it was demonstrated that homing endonucleases depend on ATPase activity for DNA hydrolysis (
+
+As described above, the deletion of the auxiliary motif results in an equilibrium shift toward the monomer. In the presence of ATP, this shift remained proportional, for example, ATP induced a shift toward the dimer with Mut1 oligonucleotide as well as with WT, but at higher concentrations of the protein (
+
+We measured the putative ATPase activity of Mgal-WhiA using luciferase assay (
+
+To further study the interaction between the Mgal-WhiA and
+
+Mgal-WhiA interaction with
+
+To further study the conformation of the Mgal-WhiA complex with the
+
+Model of the Mgal-WhiA complex with the
+
+The overall configuration of the DNA-binding interface of the Mgal-WhiA HTH domain was rather different from that of the HTH domain of an average transcription factor. It interacts with the major groove of DNA via two
+
+The HEN domain bound DNA via a
+
+To test the model of the bipartite interaction of Mgal-WhiA with DNA and to test its specificity for the aux motif, we designed a FRET-based experiment (
+
+Another MD approach was used to identify the amino acids of the protein that interact with DNA. To assess the possibility of interaction between amino acid and nucleotide atoms, the following algorithm was applied. For each step of the MD trajectory, the distances between each pair of atoms of the current DNA site and the amino acids located in its vicinity were calculated. Hydrogen atoms were also included in this study. Then, a minimal distance was found within the array of trajectories. Contact was considered to exist if the distance did not exceed 3 Å. The model showed that the Mgal-WhiA contact areas were wider than just specific recognition sites. However, we further focused on the protein regions that interacted with the core and auxiliary motifs (
+
+To validate the MD modeling results, we performed point mutagenesis by substituting functional amino acids with glycine. The positions of the mutations were selected based on the MD data. The amino acids that formed the most contact with DNA within each contact zone were selected (
+
+Mutational analysis of the Mgal-WhiA HTH domain.
+
+We propose that main contribution to both specific and non-specific DNA binding is paid by HTH domain. It happens due to the stronger interactions between HTH and core motif then between HEN and aux domain. This finding corroborates the data regarding the
+
+The modeling results corroborate the AFM observation, in that Mgal-WhiA binds along the DNA covering 34 b.p. The bipartite binding of the monomer completely sterically blocks the 40 b.p. oligonucleotide used for EMSA. Thus, we conclude that the observed dimeric complex is formed by two Mgal-WhiA molecules independently bound through the HTH domains to the same oligonucleotide.
+
+To confirm the role of the core motif and to elucidate the function of the auxiliary motif, we studied the transcriptional regulation by Mgal-WhiA in a reporter system. The previously obtained transcription start sites (TSS) maps for class Mollicutes representatives
+
+To test the function of Mgal-WhiA as a transcription factor, we fused the
+
+The role of core and auxiliary motifs in Mgal-WhiA repressor function.
+
+Further, we studied the distribution of distances between TSS and WhiA binding sites within Mollicutes (
+
+To investigate whether Mgal-WhiA impedes transcription elongation, we constructed a reporter system in which the Mgal-WhiA binding site (either wild-type or mutant) was located within the intergenic region between two genes coding for mMaple2 and YFP (
+
+We used MD simulations of ATP interaction with Mgal-WhiA (
+
+The effect of HEN-domain mutation on Mgal-WhiA regulation by ATP.
+
+We proposed that ATP inhibits HEN-domain interactions with DNA by shielding its positive electrostatic charge. To test this hypothesis, we performed a mutational analysis of the HEN domain (
+
+The DNA-binding activity of the Mgal-WhiA
+
+MD simulation of the interaction of Mgal-WhiA with DNA showed that the protein distorts the DNA helix. We proposed that Mgal-WhiA bends DNA or traps DNA in the strained conformation by binding it with both domains simultaneously. In relaxed conformation Mgal-WhiA binds DNA only by the HTH-domain. The MD simulation also allows for the non-specific binding of the HEN-domain to DNA. At least half of the DNA-interacting β-sheet does not recognize any motif and the sequence downstream of the aux motif does not show any traces of conservation. Thus, we propose that the HEN-domain may either bind DNA non-specifically or recognize and grip the aux motif.
+
+To elucidate the role of WhiA in the global regulation of gene expression in
+
+First, we assayed the abundance of WhiA protein. WhiA abundance was the same in the dCas9 control and WT strain. In the overexpressing strain, WhiA was expressed two orders of magnitude more. In the knockdown strain, it was repressed by an order of magnitude compared to the control strain. Thus, we achieved a dynamic range of 10
+
+The proteins encoded in the WhiA target
+
+In addition to the direct effect on
+
+Another indirect effect was observed in the WhiA-overexpressing strains. They were found to be downregulated by more than 2-fold in the
+
+In summary, we proposed a model for the Mgal-WhiA functioning that explains its behavior both
+
+We propose that upon initial DNA binding, the HEN domain can slide along the DNA (relaxed conformation). If the auxiliary motif is present in DNA, the HEN domain further binds more tightly capturing DNA in a strained bent conformation (
+
+The binding constant of the HTH domain is higher than that of the HEN domain; thus, the measurable Kd for Mgal-WhiA does not depend on the presence of an auxiliary motif, but crucially depends on the presence of the core motif. At the same time, the binding of Mgal-WhiA to both sequences was demonstrated in FRET experiments. We propose that the binding of the HTH domain to DNA drastically increases its local concentration, thus making the HEN-domain binding efficient. In the absence of auxiliary motif, the complex stacks on the relaxed stage (
+
+ATP disrupts the interaction between the HEN domain and the auxiliary motif. This leads to the release of the HEN-domain from the auxiliary motif and leaves Mgal-WhiA bound only by the HTH-domain to the core motif (
+
+The bipartite binding of Mgal-WhiA to DNA in cis-conformation can provide grounds for the proposal that it may bind distant chromosome loci that contain core and aux motifs. The ability of Mgal-WhiA to bind two oligonucleotides that are not covalently linked supports this hypothesis. This binding in the trans-conformation may aid the formation of chromosomal loops. However, it seems more probable that Mgal-WhiA prefers binding in the cis-conformation to long DNA chains.
+
+The data obtained on the role of WhiA in transcription regulation in
+
+The observed upregulation of chaperones in the
+
+In the current work we used

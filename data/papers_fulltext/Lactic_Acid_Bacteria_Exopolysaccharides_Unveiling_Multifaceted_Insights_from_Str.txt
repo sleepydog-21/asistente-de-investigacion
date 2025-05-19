@@ -1,0 +1,81 @@
+Lactic acid bacteria (LAB) have been utilized in food fermentation processes for centuries, with their beneficial effects on food quality and preservation well-documented [
+
+The biological functions of LAB EPSs are diverse and of great significance. In food matrices, they contribute to the texture, viscosity, and stability of products. For example, in fermented dairy and bakery items, EPSs can enhance mouthfeel and shelf life [
+
+In terms of application, LAB EPSs are widely used in the food industry as natural additives. They are incorporated into various products like yogurts, cheeses, and beverages to improve their organoleptic properties [
+
+The mechanism research of LAB EPSs has also evolved over time. Early studies focused on basic isolation and characterization techniques. Recently, advanced molecular and omics technologies have been employed to elucidate the biosynthesis pathways and the precise interactions between EPSs and host cells or the gut microbiota. These latest advancements hold great promise for a more comprehensive understanding and exploitation of LAB EPSs in the future.
+
+The classification of EPSs from LAB is based on multiple aspects including structure, type, and substituent groups, which contribute to their diverse properties and functions (
+
+EPS structures can be either linear or branched, as demonstrated by studies on dextran (linear) and
+
+LAB EPS are mainly divided into homo-polysaccharides and hetero-polysaccharides [
+
+The presence and nature of substituent groups, such as acetyl or phosphate moieties, critically influence EPS functionality. Some EPSs may have acetyl groups attached to their sugar monomers. These acetyl groups can affect the hydrophobicity and charge of the EPS molecule. For example, EPSs with acetyl groups from
+
+In summary, the classification of LAB EPSs based on structure, type, and substituent groups is essential for understanding their properties and potential applications. Different combinations of these characteristics result in a vast array of EPSs with unique functions in food and health promotion.
+
+LAB exopolysaccharide isolation and characterization is important for understanding EPSs’ nature and potential. Screening methods, such as mucoid colony selection on agar media or colorimetric assays for extracellular sugars, are employed to identify high-yield strains [
+
+The screening of LAB strains for EPS production is the initial step. This can be achieved through various methods [
+
+Once the EPS-producing strains are identified, the isolation process begins with three sequential steps:
+
+A typical isolation method involves culturing the selected LAB strain in a liquid medium. After fermentation, the cells are removed from the culture via centrifugation at a suitable speed, usually around 8000–10,000×
+
+Ethanol precipitation remains the gold standard for polysaccharide isolation. The supernatant is slowly added to a cold ethanol solution (usually 2–3 volumes of ethanol) under gentle stirring. The mixture is then left at 4 °C overnight to allow the EPSs to precipitate [
+
+As an alternative approach, ultrafiltration employs a membrane with a specific molecular weight cut-off (typically 10–100 kDa) to retain high-molecular-weight EPSs while eliminating low-molecular-weight contaminants [
+
+Characterization of the isolated EPSs is crucial to understand their properties. There are several approaches to decode structural and functional attributes (
+
+The biosynthesis of EPSs in lactic acid bacteria (LAB) involves a series of enzymatic reactions and genetic regulatory mechanisms. The initial step includes the activation of sugar nucleotides (e.g., UDP-glucose), which serve as the building blocks for the polysaccharide chain assembly. Glycosyltransferases (GTFs) catalyze the polymerization of these monomers, determining EPS structure and type [
+
+Recent studies have highlighted the role of specific genetic clusters in EPS biosynthesis. For instance, In
+
+Fermentation conditions are pivotal in determining the yield, structure, and functional properties of LAB-derived exopolysaccharides (EPSs). Batch fermentation remains the most commonly used method. Optimization of parameters such as carbon sources, nitrogen, PH, temperature, agitation, and fermentation duration is essential for maximizing EPS production. Below, we expand on these factors with recent insights and integrate findings from reference [
+
+The carbon source is a crucial factor that impacts EPS yield due to its role as a precursor for sugar nucleotide biosynthesis. Glucose is a widely used carbon source, but other sugars such as fructose and sucrose can also be utilized. For example,
+
+Temperature and pH modulate both microbial growth and enzymatic activity. LAB generally grow well in a temperature range of 25–40 °C. However, the optimal temperature for EPS synthesis may vary among different strains.
+
+In addition to these factors, agitation ensures uniform distribution and prevents cell clumping, particularly in high-viscosity EPS-containing cultures. For example,
+
+EPS production is growth phase-dependent, with most LAB strains synthesizing EPSs during the late exponential or stationary phase. Prolonged fermentation (>48 h) may lead to enzymatic degradation of EPSs or nutrient depletion, reducing yield. For instance,
+
+Advanced statistical tools like response surface methodology (RSM) have been employed to optimize fermentation parameters. In reference [
+
+Comparative analysis of fermentation conditions for LAB EPS production.
+
+LAB EPSs exhibit potent antioxidant properties (
+
+One of the well-studied biological functions of LAB EPSs is their immunomodulatory effect. They can interact with various components of the immune system. EPSs can enhance the phagocytic activity of macrophages. For instance, research on a particular LAB EPS showed that it increased the engulfment of pathogens by macrophages in vitro [
+
+Although the anti-tumor mechanisms of LAB EPSs are still being elucidated, there is growing evidence of their potential in this area. Some LAB EPSs have been shown to inhibit the growth and proliferation of tumor cells. For example, an EPS from a LAB strain was found to induce apoptosis in colon cancer cells in vitro [
+
+LAB EPSs have exhibited antiviral activities against several viruses. They can interfere with the viral life cycle at different stages. For instance, some EPSs can bind to viral surface proteins, preventing the virus from attaching to host cells. A study on the antiviral effects of LAB EPSs against influenza virus showed that the EPSs could block the binding of the virus to the sialic acid receptors on the surface of host cells [
+
+The ability of LAB EPSs to inhibit biofilm formation is another important biological function. Biofilms are communities of microorganisms attached to surfaces and are often associated with persistent infections and food spoilage. LAB EPSs disrupt the formation of biofilms through dual mechanisms: (1) competitive exclusion by adhering to surface receptors (e.g.,
+
+In conclusion, the diverse biological functions of LAB EPSs make them a promising area of research. Their potential applications in health promotion and disease prevention are extensive, but further studies are required to fully understand and harness these benefits.
+
+LAB EPSs have shown great potential in promoting human health (
+
+In the food industry, LAB EPSs are widely used as natural additives. They can improve the texture and rheological properties of various food products. In dairy products like yogurt and cheese, EPS-producing LAB strains are used to enhance thickness, creaminess, and stability. For instance, the addition of EPSs from a specific LAB strain to yogurt increased its viscosity [
+
+The unique properties of LAB EPSs, such as biocompatibility, biodegradability, and the ability to form nanoparticles or microparticles, make them suitable candidates for drug delivery systems [
+
+In agriculture, LAB EPSs have potential applications in plant growth promotion and disease resistance [
+
+In summary, LAB EPSs have a wide range of applications in various fields, from improving human health and food quality to enabling advanced drug delivery and enhancing agricultural productivity. Their versatility and beneficial properties continue to drive research and innovation in multiple industries.
+
+The study of lactic acid bacteria (LAB) exopolysaccharides (EPSs) has unveiled their structural diversity, functional versatility, and transformative potential across food, health, and agricultural fields. This review synthesizes key advances while delineating critical challenges and future research imperatives.
+
+Key advances include structural and functional insights, biosynthetic innovation, and multifaceted applications. Systematic classification of LAB EPSs based on monosaccharide composition (e.g., homopolysaccharides vs. heteropolysaccharides) and substituent groups (e.g., acetyl, phosphate) has established robust structure–function relationships [
+
+Despite progress, some barriers hinder translational success, like ambiguous mechanisms, clinical translation, scalability, and sustainability. While LAB EPSs exhibit anti-tumor and antiviral activities [
+
+To fully harness LAB EPS potential, interdisciplinary efforts must be considered: firstly, mechanistic decoding employing single-cell transcriptomics and CRISPR–Cas9 screens to dissect EPS–host interactions at molecular resolution [
+
+LAB EPSs stand at the nexus of tradition and innovation. By addressing these challenges through collaborative research, they may emerge as cornerstones of 21st-century biotechnology, aligning with global sustainability goals [

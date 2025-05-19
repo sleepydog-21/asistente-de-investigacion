@@ -1,0 +1,11 @@
+{
+  "id": "39856097",
+  "title": "Diet-derived urolithin A is produced by a dehydroxylase encoded by human gut Enterocloster species.",
+  "doi": null,
+  "authors": "Pidgeon R, Mitchell S, Shamash M, Suleiman L, Dridi L, Maurice CF, Castagner B",
+  "journal": "Nature communications",
+  "year": "2025",
+  "abstract": "Urolithin A (uroA) is a polyphenol derived from the multi-step metabolism of dietary ellagitannins by the human gut microbiota. Once absorbed, uroA can trigger mitophagy and aryl hydrocarbon receptor signaling pathways, altering host immune function, mitochondrial health, and intestinal barrier integrity. Most individuals harbor a microbiota capable of uroA production; however, the mechanisms underlying the dehydroxylation of its catechol-containing precursor (uroC) are unknown. Here, we use a combination of untargeted bacterial transcriptomics, proteomics, and comparative genomics to uncover an inducible uroC dehydroxylase (ucd) operon in Enterocloster species. We show that the ucd operon encodes a predicted molybdopterin-dependent enzyme complex that dehydroxylates urolithins at a specific position (9-OH). By interrogating publicly available metagenomics datasets, we observed that uroC-metabolizing Enterocloster species and ucd operon genes are prevalent in human feces. In ex vivo experiments with human fecal samples, only samples actively transcribing ucd could produce uroA, possibly explaining differences in urolithin metabolism between individuals. Collectively, this work identifies Enterocloster species and the ucd operon as important contributors to uroA production and establishes a multi-omics framework to further our mechanistic understanding of polyphenol metabolism by the human gut microbiota.",
+  "source": "PubMed",
+  "pmcid": "PMC11760930"
+}

@@ -1,0 +1,63 @@
+The constant emergence of new illegal psychoactive compounds constitutes a severe hurdle for current drug detection methods. Contemporary methodologies are mostly based on either immunoassays or chromatographic methods, such as LC-MS, and hence target only specific compounds that have been previously identified and characterized. There is thus an acute need for simple and rapid broad-spectrum test kits that will sensitively detect not only the original target but also its potential derivatives and analogs. This need may be at least partially met by the application of synthetic biology approaches to the design of novel drug-targeted whole-cell bioreporters. Such sensors can potentially report not on the chemical nature of the drug molecule, but rather on the biological effects it may exert on living cells; no molecule-based biosensor can provide this level of information nor can it be obtained by chemical analysis [
+
+Whole-cell biosensors (bioreporters) are genetically engineered to emit a quantifiable signal in the presence of specific target chemicals, general stress conditions, or deleterious biological effects. They are mostly based on bacterial or yeast cells, the genetic engineering of which is often based on a molecular fusion of two DNA segments: (a) a sensing element, usually a gene promotor that is induced by the target compound(s), and (b) a reporting element, a gene or gene cassette encoding proteins with easily quantifiable activities. Considering the fact that newly developed drug derivatives often activate the same receptors as the parent compound and induce similar biological effects, whole-cell microbial biosensors have the potential to widen the drug detection toolbox. Bacterial sensors have been shown to detect a variety of compounds with accuracy and precision comparable with, and sometimes even surpassing, chemical analysis [
+
+The molecular circuit described in this communication is based on the cocaine esterase (CE) gene (
+
+The
+
+Cocaine HCl, fentanyl citrate, and ketamine (Klorketam), kindly provided by Prof. Ami Citri of the Hebrew University of Jerusalem, were dissolved in water and kept at room temperature. Cannabinoids (THC, CBD), kindly provided by Prof. Joseph Tam of the Hebrew University Medical School, were dissolved in ethanol and stored at −20 °C. Norketamine and Na benzoate were purchased from Sigma-Aldrich Israel Ltd (Rehovot, Israel), dissolved in methanol and stored at −20 °C (norketamine) or in water and kept at 4 °C (benzoate). Restriction enzymes
+
+PCR primers employed for the amplification of DNA segments from plasmids included functional sites for restriction enzyme recognition or DNA ligation using Gibson assembly, following the manufacturer’s protocol (NEBuilder HiFi DNA Assembly Cloning kit, New England Biolabs, Ipswich, MA, USA) [
+
+Cocaine sensor plasmids
+
+The cocaine sensing circuit spanned two separate plasmids (
+
+Plasmid
+
+The second plasmid,
+
+Benzoate sensor plasmid
+
+A third plasmid (pBen::luxPleio,
+
+DNA components employed in the construction of cocaine and benzoate detection circuits.
+
+The sensor strains constructed in the course of this study are listed in
+
+Sensor strains were removed from −80 °C storage and grown overnight in 2 mL LB, supplemented with the appropriate antibiotics at 37 °C with shaking (200 rpm). The overnight CocS culture was diluted 100-fold into fresh LB and regrown under the same conditions for ca. 75 min to early exponential growth phase (OD
+
+Paper strips imbued with lyophilized CocS cells were designed for testing a simplified “dipstick”-type concept for rapid cocaine testing. CocS cells were grown overnight in 25 mL LB containing 100 μg/mL ampicillin and 30 μg/mL chloramphenicol to an optical density at 600 nm of ca. 2.5. Cells were pelleted by a 6 min centrifugation (3220 x g, 20 °C, Eppendorf 5810R) and resuspended in a prewarmed (37 °C) sterile protectant medium adapted from Stocker et al. [
+
+For cocaine testing, paper strips were removed from refrigeration and, following equilibration to room temperature, were dipped into a cocaine solution (0 to 2 mg/L) for 30 min at 30 °C. The strips were removed from the samples, and luminescence was imaged in the dark for up to 5 h at 30 °C using a Sony Alpha 7sII camera with an exposure time ranging from 5 to 15 s. To prevent drying of the cells during storage, paper strips were either wrapped in a plastic foil or placed in a sealed plastic test tube.
+
+To generate a library of
+
+The response ratio was determined by dividing the maximal luminescence (RLU) of the specific compound concentrations within the experimental course of 16 h with the maximal luminescence (RLU) of the compound-free control.
+
+The limit of detection (LOD) of the generated sensor strains was calculated as the average signal intensity of the noise (the luminescence signal of the uninduced controls) plus three standard deviations of the noise.
+
+Data from independent experiments were combined by calculating the weighted average. The best estimate
+
+CocS sensor strains, harboring plasmids
+
+CocS cells were lyophilized on paper strips to evaluate the potential applicability as a “dipstick”-type test. The bacteria-containing section of the strips was immersed in varying concentrations of cocaine (in H
+
+The single-plasmid benzoate sensor strain constructed as described under Materials and Methods was employed as a chassis for screening the
+
+As shown in
+
+A single cycle of error-prone PCR amplification of the promotor region of the benzoate sensor yielded ca. 1,000 variants of the BenS sensor, which were then screened for their response to benzoate (0 and 0.5 mg/L). A small number of clones that displayed an improved performance compared with the parent construct, as evidenced by both the signal intensity and the response ratio, were analyzed for their response to a benzoate concentration series. The best performer out of these stood out by demonstrating a 7-fold increase in signal intensity (
+
+The
+
+The design and construction of microbial whole-cell biosensors (bioreporters) depends upon the identification of a genetic element (most often a gene promoter) inducible by the target compound and its fusion to reporter genes, the expression of which can be quantitatively monitored [
+
+Furthermore, a proof of concept was presented for CocS application in a “dipstick”-type paper strip, which could be stored at 4 °C for 3 weeks without loss of functionality. The process of cocaine testing using CocS paper strips was as simple as using commercially available home-use point-of-care tests. For evaluation, a simple consumer-quality camera was required to assess the level of luminescence.
+
+As mentioned in the Introduction, a major advantage of live cell-based sensors is their capacity to detect not only the original target molecule but also potential derivatives that share its biological activity. In the present communication, however, we concentrated on a cocaine-specific sensor and did not attempt to examine its ability to detect other molecules that share the same basic chemical structure. Such expended capacity will be the design objective of future generations of this bioreporter.
+
+The cocaine concentration in the blood of addicts ranges between 0.5 and 1 mg/L, and concentrations around 4 mg/L were measured in cases of comatose-fatal doses [
+
+In contrast to home-targeted drug testing kits, which are antibody-based immunological assays and thus invariably target specific chemicals, cell-based sensors offer a more versatile approach. A cell-based assay, which targets the biological effect of a drug rather than its chemical identity, is likely to detect additional chemicals with similar activities, such as derivatives of the same molecule. Such assays may thus be expected to provide at least a partial answer to the detection of new drug derivatives constantly appearing on the streets. Furthermore, as previously reported by Yagur-Kroll et al. [

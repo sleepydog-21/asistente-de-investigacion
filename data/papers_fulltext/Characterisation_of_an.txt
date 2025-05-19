@@ -1,0 +1,317 @@
+All life on our planet requires ribonucleotide reduction for de novo synthesis of deoxyribonucleotides, from ribonucleotides (
+
+To date, very few species have dispensed with ribonucleotide reduction, albeit indirectly, in that they instead rely on their hosts for deoxyribonucleotides (
+
+While ribonucleotide reduction is essential, we reasoned that it should be possible to dispense with genes for ribonucleotide reduction if deoxyribonucleotides or their precursors are available via growth media. We report the successful elimination of all three RNR operons from the bacterium
+
+(
+
+
+
+RT-PCR using primers for (a) nrdA, (b) nrdB, (c) nrdD, (d) nrdG, (e) nrdH, (f) nrdI, (g) nrdE, and (h) nrdF on total RNA from ∆RNR or wild-type (REL606) indicate transcripts are not detected in ∆RNR, whereas expression was observed in REL606. (i) Internal primers for the gstA housekeeping gene were used as a control for RT-PCR, confirming that the absence of amplification in ∆RNR was not due to the absence of RNA in the samples. For each primer pair the order of lanes is as follows: lane 1, 1kb+ ladder; lane 2, REL606 RT+ (RT enzyme added); lane 3, REL606 RT- (no RT enzyme added); lane 4, 1kb+ ladder; lane 5, ∆RNR RT+; lane 6, ∆RNR RT-.
+
+
+
+RT-PCR using primers for codon-optimised
+
+
+
+We reasoned that, while ribonucleotide reduction is an essential process, it should be possible to compensate for its loss via media supplementation. To eliminate ribonucleotide reduction, we sequentially deleted the RNR operons using a scarless deletion protocol (Materials and methods). We first deleted
+
+Our ΔRNR line was created in the presence of dN supplementation, but this does not mean it is dependent on dN supplementation for growth. We therefore sought to understand what supplementation, if any, our ΔRNR line requires. To determine the lowest concentration of dNs that permits growth, we generated a series of growth curves for differing dN concentrations. At high dN concentrations (1 mg/mL), ΔRNR grows favourably, though shows a clear lag compared to wild-type on equivalent media (
+
+Growth was monitored for 25 hr in 1× MOPS media + 1% glucose with supplementation, as indicated. Wild-type (REL606, black), ΔRNR (orange). Curves show mean OD
+
+We next sought to establish whether ΔRNR requires supplementation of all four dNs, or whether any are dispensable. Strains were once again grown in 1× MOPS + 1% glucose, with individual dNs (dA, dG, deoxythymine [dT], or dC) added at a concentration of 0.25 mg/mL. This revealed that ΔRNR is unable to grow in the presence of dA, dG, or dT (either alone [
+
+Growth was monitored for wild-type (REL606, black) and ΔRNR (orange) in 1× MOPS media + 1% glucose, with deoxyribonucleoside (dN) supplementation, as indicated. Growth was monitored for 25 hr. Curves show mean OD
+
+During our growth assays we observed a ‘clumping’ phenotype when ΔRNR is grown in liquid media at concentrations of dNs that limit growth. This contrasts with the uniform cloudy appearance of wild-type
+
+(
+
+This phenotype appears most pronounced at low dN concentrations. We therefore sought to establish if this phenotype is the result of environmental conditions. We transferred a population of ΔRNR cells exhibiting the filamentous cell phenotype from low dN (0.01 mg/mL) media to a less restrictive environment ([dN]=1 mg/mL). Following transfer to higher [dN], the filamentous phenotype is heavily diminished (
+
+One possibility is that, under low [dN], cells are growing but unable to complete cell division. If so, this might be reflected by the presence of multiple DNA-dense regions across the length of the cells. To visualise DNA within filamentous cells, we stained ΔRNR cells grown in low [dN] (0.01 mg/mL) with FITC and DAPI. This revealed the presence of multiple DAPI-stained regions across the length of the cells (
+
+The loss of ribonucleotide reduction in obligate intracellular lifestyles presumably resulted from relaxed selection on deoxyribonucleotide production when deoxyribonucleotides are available from the environment. However, for both parasitism and endosymbiosis, the host dNTP pool must be shared. We were therefore interested to assess if the ∆RNR line adapts to a reduction in dN availability, as might occur in the evolutionary switch from de novo synthesis to dependency on host production.
+
+In order to allow the strains to adapt to a lower concentration of dN supplementation in the growth media, we initiated evolution experiments at dN concentrations where ∆RNR lines grow, but not as well as wild-type (1 mg/mL and 0.25 mg/mL). Five independent lines of ∆RNR were serially passaged in each condition by growing the culture to stationary phase, then transferring 50 μL into a new six-well plate containing 5 mL of fresh MOPS media + 1% glucose and dNs (
+
+Five lines of ΔRNR and three lines of wild-type progenitor (REL606) were established at one of two conditions (1 mg/mL or 0.25 mg/mL deoxyribonucleosides [dNs] in MOPS + 1% glucose), and serially passaged for 30 transfers. Genomic material from each line was then extracted from a single colony and sent for sequencing giving us clonal-level genome information. To further investigate adaptation to low concentrations of dNs, the ‘fittest’ ΔRNR line grown at 0.25 mg/mL dNs (ΔRNR_250_T30_1) was used to seed a subsequent experiment. Ten replicate lines of ΔRNR_250_T30 _1 were serially passaged for an additional 10 transfers in MOPS + 1% glucose and 0.01 mg/mL dNs. DNA from a single colony of each of these 10 lines (ΔRNR_10_T40_1–10) was then extracted and sent for whole genome sequencing.
+
+Our initial observations of unevolved ∆RNR (henceforth ∆RNR_T0) revealed an elongated filamentous cellular phenotype at lower concentrations of dNs (
+
+(
+
+After 30 transfers, we sought to determine if ∆RNR lines had improved their capacity to grow under restricted (either 1 mg/mL or 0.25 mg/mL) dN availability. We use the following nomenclature for our evolution lines: ∆RNR_[dN] _transfer#_line#, so ∆RNR1000_T30_L1 is replicate line #1 of ∆RNR evolved at 1 mg/mL (i.e. 1000 μg/mL) dNs for 30 transfers. At 1 mg/mL, ∆RNR1000_T30_L1 through L5 all showed improved growth relative to ∆RNR_T0 (
+
+Growth was monitored for wild-type (REL606), ancestor (∆RNR_T0), and evolved lines (∆RNR1000_T30_L1–5, evolved in 1 mg/mL dNs for 30 transfers). Growth experiments were performed in 1× MOPS media + 1% glucose with the addition of dNs at indicated concentrations. Growth was monitored for 25 hr. Curves show mean OD
+
+Growth was monitored for wild-type (REL606), ancestor (∆RNR_T0), and evolved lines (∆RNR250_T30_L1–5, evolved in 250 μg/mL dNs for 30 transfers). Growth experiments were performed in 1× MOPS media + 1% glucose with dN supplementation, as indicated. Growth was monitored for 25 hr. Curves show mean OD
+
+Following 30 transfers, we sequenced the genomes of ∆RNR_T0, our lines evolved in 0.25 mg/mL dNs (∆RNR250_T30_L1–5) and 1 mg/mL dNs (∆RNR1000_T30_L1–5), and each set of three wild-type control lines (REL606_1000_T30_L1–3 and REL606_250_T30_L1–3) from single colonies. The filamentous phenotype of our ∆RNR lines under restricted dN supplement precluded accurate estimation of the number of generations per transfer, which in turn precluded reliable calculation of mutation rates. We therefore report total observed mutations (single nucleotide substitutions plus indels) for each experimental line (
+
+Total single nucleotide substitutions plus indels present in each line at T30. For evolution in 1 mg/mL deoxyribonucleosides (dNs), REL606=control, RNR = ∆RNR1000_T30_L1–5. For evolution in 0.25 mg/mL, REL 606=control, RNR = ∆RNR250_T30_L1–5.
+
+Total single nucleotide substitutions plus indels present in each line at T30 REL606 control lines; RNR = ∆RNR1000_T30_L1–5 (left) and ∆RNR250_T30_L1–5 (right).
+
+(
+
+(
+
+
+
+(For a description of the lines, see
+
+It is well documented that RNRs keep deoxyribonucleotide pool sizes balanced through allosteric regulation (
+
+Analysis of our genome data from lines at transfer 30 revealed that one gene,
+
+By transfer 30, one of our lines (∆RNR_T30_250_L1) exhibited growth similar to wild-type when grown in 0.25 mg/mL dNs (
+
+Genome analysis of T40 lines revealed 648 mutations (
+
+One gene,
+
+(
+
+To next sought to assess the impact of the mutations in
+
+PDB ID: 3M8W.
+
+Homologous residues derived from multiple sequence alignment (
+
+Loss of ribonucleotide reduction genes has previously been noted in a small number species (
+
+The situation in
+
+For CDD, our search against
+
+While all life is dependent on ribonucleotide reduction for the synthesis of deoxyribonucleotides, a handful of species are known to lack RNR genes (
+
+In order to understand how obligate intracellular bacteria adapted to the loss of ribonucleotide reduction, we established an evolution experiment where we serially passaged replicate lines in either 1 mg/mL or 0.25 mg/mL dNs. The resulting lines were sequenced after 30 transfers and one line evolved in 0.25 mg/mL dNs (ΔRNR_250_T30_1) was selected for a second round of evolution at 0.01 mg/mL dNs through a further 10 transfers (
+
+Genome sequencing revealed independent mutations to two genes across our replicate lines. One gene,
+
+Deletion of
+
+All lines grown in 0.25 mg/mL dNs showed a marked mutational skew (A:T→G:C) that differs from the G:C→A:T mutational skew expected for
+
+We also observed loss of function of
+
+Indeed, under the conditions of our experiment, where dN supplementation is reduced by 25-fold, we observe strong selection to dispense with
+
+Analysis of species that lack
+
+We observe a very clear pattern in members of the Borreliaceae
+
+It is noteworthy that class Ib RNR, carried by members of the
+
+More generally, the switch to an intracellular existence may result in relaxed selection on ribonucleotide reduction if host-derived deoxyribonucleotides are sufficient to replace endogenous production. This appears to be an infrequent outcome as most intracellular bacteria retain ribonucleotide reduction. This rare event might be driven by additional pressures, as evolution of iron independence in
+
+It is interesting to note that loss of ribonucleotide reduction appears extremely rare in the evolution of endosymbiosis and parasitism, despite the seeming ubiquity of host-derived deoxyribonucleotides. Loss of production in favour of acquisition from the host ought perhaps to be a more common outcome. Acquisition from the host would appear straightforward as many bacteria are known to possess mechanisms for uptake of dNs, deoxyribonucleotides, and even DNA (
+
+It remains to be seen whether there are conditions wherein the reverse DERA pathway (
+
+All
+
+Strains were grown in LB (1% tryptone, 1% NaCl, and 0.5% yeast extract ± 2% agar) with the addition of 1 mg/mL each of the four dNs (dG, dA, dC, and dT (AK Scientific)) for mutant strains, unless stated otherwise. For evolution experiments, strains were grown in 1× MOPS media (
+
+To knock out the
+
+The resulting strain, ΔRNR (
+
+To confirm absence of RNR expression, strains were grown overnight in LB and diluted to 1:100 in 10 mL fresh media after reaching stationary phase. The cultures were then grown for ~3 hr and total RNA was isolated from mid-log phase cultures using TRIzol Max Bacterial Isolation kit (Thermo Fisher, Catalogue# 16096020). RNA was quantified using a Qubit 4.0 fluorometer. Purified RNA was diluted to 300 ng/mL and treated with TURBO DNaseI (Ambion, Catalogue# AM2238). This DNA-free RNA was then subjected to RT-PCR using the SuperScript III One-Step RT-PCR system with Platinum Taq DNA Polymerase kit (Invitrogen, Catalogue# 12574018) with primers specific to the gene of interest (
+
+Bacterial strains were retrieved from –80°C stocks and grown overnight in LB (1 mg/mL dNs were added to media for growth of ΔRNR lines). Cultures were washed twice in 1× PBS and 10 μL equivalent was added to fresh 24-well plates containing 1 mL of 1× MOPS + 1% glucose. Differing concentrations of dNs were added from a 20 mg/mL stock solution to each individual well. Growth was monitored for 24–48 hr, taking measurements (OD
+
+Overnight cultures were grown at 37°C in MOPS media (with dNs added as required). Cultures were twice spun down and washed in 1× PBS. Ten µl of culture was aliquoted onto a microscope slide. Brightfield images were taken using a LEICA ICC50 W microscope (Leica, v.3.2.0) and imported to Photoshop (v.22.4.2) for cell length measurement. Cell length measurements were determined for each strain by averaging from 20 observations (length of the first five cells from top left to right were counted from each of four images).
+
+To visualise DNA, we used a modified version of a FITC/DRAQ-5 double-staining protocol (
+
+All evolution experiments were performed at 37°C. Original bacterial strains were retrieved from –80°C stocks and grown overnight in LB (1 mg/mL dNs were added to media for growth of ΔRNR lines). Cultures were then washed twice in 1× PBS and 50 μL equivalent was added to fresh six-well plates containing 5 mL 1× MOPS media (1% glucose) supplemented with the dN concentration required for each condition (1 mg/mL, 0.25 mg/mL, 0.01 mg/mL). Five lineages of ΔRNR and 3 for WT (
+
+All strains and lineages required for sequencing were streaked for single colonies on LB media, with a single colony being used to inoculate an overnight culture to give clonal-level sequencing data. Genomic material was isolated using 20 μg genomic tips (QIAGEN) as per the manufacturer’s instructions and DNA quantified using a Qubit 4.0 fluorometer (Thermo Fisher). Libraries were generated using the NEXTFLEX rapid XP DNA-seq kit (PerkinElmer, Catalogue# NOVA-5149-21) and NEXTFLEX UDI Barcodes (PerkinElmer, Catalogue# NOVA-514150). Strains were sequenced to approximately 50-fold coverage at Auckland Genomics Facility using an Illumina MiSeq Platform with 2×150 bp paired-end reads. Reads were trimmed using the BBDuk (
+
+For creation of the phosphopentomutase alignment (
+
+Three species of bacteria were noted by
+
+Searches were also performed genus/strain level in NCBI genome (
+
+Where data indicated gene absence, we confirmed this by examining the genome sequences for assembly issues, tblastn searches, and manual inspection of predicted ORFs from the genome assembly files (
+
+Nearly all organisms require a ribonucleotide reductase (RNR) to convert ribonucleotides to their deoxyribonucleotide counterparts. In this important study, the reader learns how the model organism
+
+Our editorial process produces two outputs: (i)
+
+
+
+Thank you for submitting your article "Characterisation of an
+
+The reviewers have discussed their reviews with one another, and the Reviewing Editor has drafted this to help you prepare a revised submission.
+
+Essential revisions:
+
+1) Revise the introductory text about cofactor usage by class I RNRs recommended by reviewer #1. Also, modify the discussion of pathogens as detailed by reviewer #2 and comment on the selection of the starting strain as suggested by reviewer #3.
+
+2) Make the changes to Figure 9 that are described by reviewer #2.
+
+3) Comment further on how observation of cell elongation would impact OD measurements (reviewer #1 comment) and address the concerns of reviewer #3 about cell morphology changes and analysis of evolutionary trajectory.
+
+4) Modify the abstract and introduction to include a statement about the need to introduce a nucleotide kinase gene.
+
+5) Describe the control experiment to identify selective pressures induced by the antibiotic.
+
+6) Clarify whether population-level sequencing experiments were performed as detailed by reviewer #3.
+
+7) Revise Figure 1 to include the entire gel and include more effective annotations.
+
+
+
+Line 72-73 – revise terminology referring to "an oxygen-containing metal ion centre" to describe Cys radical generation by class I RNRs. The Cys oxidant cofactor employed by class I enzymes does not contain oxygen. Class I RNR cofactors are assembled from either oxygen or an oxygen-derived oxidant (superoxide). But the important part about the oxygen dependence during assembly is not the incorporation of oxygen per se – it has not been established whether that happens in every case anyway – but the fact that oxygen provides oxidizing equivalents that can convert the precursor form of the cofactor (Mn(II), Fe(II), etc) to an oxidant with sufficient potency to oxidize a Cys side chain. Also, class Ie RNRs do not contain metal in their activated form – so it is also not accurate to say that all class I RNRs use a metal center to accomplish Cys oxidation.
+
+Line 284 – there are a number of more recent studies that support the idea that class Ib RNR is used under conditions of iron limitation in
+
+Line 643 – missing word.
+
+
+
+The broad questions are already described in the Public Review section (major findings and possible future experiments). Generally, I think the findings are very interesting but I have a few things that I would like to be corrected.
+
+I find it a bit misleading that it is mentioned in the manuscript that the few organisms that lack RNR are obligately intracellular and Borrelia burgdorferi is mentioned as one of them. B. burgdorferi is mainly extracellular in the mammalian host, although it has been suggested that it can have intracellular stages. Another extracellular pathogen that lacks RNR is Giardia (several species). This is a protozoan parasite (eukaryote) that is extracellular. I think this organism should be mentioned as well in the manuscript. I am also surprised that it is stated that Mycoplasma is known to be dependent on salvage synthesis for dNTP production (row 300). They actually encode a novel subclass of class I RNRs that was published a few years ago (DOPA radical-dependent RNRs). Remove the sentence or explain this part further. The statement of lacking RNR is valid for Ureaplasma but not Mycoplasma.
+
+I also think some adjustments need to be made in Figure 9. First of all, I think it would be good to use "ribonucleotides" and "deoxyribonucleotides" instead of NTPs and dNTPs in the top part of the figure showing the RNR reaction. This will both solve the problem that many RNRs use diphosphates as substrates and also that dNKs phosphorylate deoxyribonucleosides to the monophosphate level and not the triphosphate level. Another problem with the figure is that PPase normally means pyrophosphatase and because of that I think it is better to write "nucleoside phosphorylase" or alternatively just "phosphorylase" if the space is limited. A third problem is that it looks like the cells are taking up dNTPs, which is usually not the case, at least not in prokaryotes that do not have endocytosis. The uptake arrow from the outside should instead lead to dNs.
+
+It should be stated in the abstract and introduction that they needed to introduce an exogenous deoxynucleoside kinase gene to the
+
+
+
+Specific questions/comments for the authors:
+
+– A general question, why did the authors choose REL606 as opposed to other strains? Is this due to evolutionary experiment convenience? If so, please briefly discuss this.
+
+– Please clarify if a clonal and/or population-level sequence was performed, and how.
+
+– What is the control experiment (i.e. a strain evolved in parallel) to detect any selective pressures that could be introduced by the strep in the evolution media?
+
+– What is the significance of the cell morphology analyses for the evolutionary trajectory hypotheses presented in the study? An earlier justification or a better-justified discussion would be helpful here. To my knowledge, REL606 does not particularly exhibit a morphologically distinct response to many environments the bug has been tested/evolved before, or is this not the case? If so, then why is this a key observation attributable to the hypothesis tested here?
+
+– Is there a correlation between the number of mutations vs. the morphological modifications of the evolved cell?
+
+– Please clarify what is meant by this sentence (line 414): Note however that elongate cell morphology and clumping preclude use of OD measurements for accurate estimation of doubling time or cell counts (reflected in the large standard error relative to REL606 controls), so can only be used to give a general indication of growth.
+
+– I'm intrigued by the cross-contamination speculation (and lack thereof) for the T30.L1 line. Did the authors perform population-level sequencing? Shouldn't that reveal whether early contamination took place?
+
+– As a general comment, the second half of the Results section is rather difficult to follow. Some arguments are emphasized in this part (especially the loss of deoB and cdd genes section) and others can move to Discussion; there is a lot of back/forthing going on in this section, making it harder to grasp the sequence of events. Similarly, some paragraphs emphasize results are in the Discussion section (see, for instance, section starting line 653).
+
+– Please include what blue/red lines correspond to on Figures 2 and 3 directly, in addition to the legend.
+
+– Figure 1 should include the entire gel, not a trimmed version. Include an arrow pointing to exactly what we are looking at here.
+
+– Overall summary figure (indicating the "Sequence" would be a good place to specify what you mean by sequence: and how (clonal, genome, how many replicates, etc.)).
+
+– Specify what you mean by length (uM) on the figure in addition to the caption. The colors here do not indicate the specific strain on the Figure – is red the WT? Blue evolved WT? Unclear.
+
+Essential revisions:
+
+1) Revise the introductory text about cofactor usage by class I RNRs recommended by reviewer #1. Also, modify the discussion of pathogens as detailed by reviewer #2 and comment on the selection of the starting strain as suggested by reviewer #3.
+
+We have now reworded the introductory text for accuracy and added references to recent papers reporting on the advances that reviewer #1 notes (ll 72-76). We also added references regarding the recent studies showing a likely role for Ib in replication during iron starvation (ll 295-296). Thanks for alerting us to these.
+
+Thanks to Reviewer #2 for noting some inaccuracies in our descriptions of the key lineages that do not have RNRs. We have corrected these errors. We had originally omitted the eukaryote cases as our work is focused on bacteria, but agree it is helpful to mention these, so we have now added these in for completeness (ll 81-89).
+
+We have also corrected the statement regarding the presence of ribonucleotide reductase in
+
+Regarding the choice of starting strain, we did indeed choose this because of some of the convenient features of this strain for experimental evolution, including genomically coded antibiotic resistance and presence of a neutral SNP in a gene involved in arabinose utilisation, which makes this lineage suitable for competition experiments. We made use of the former in the project, but not the latter.
+
+We have now made a statement regarding choice of strain under the methods subsection, ‘Strains and growth conditions’. (ll 125-131)
+
+2) Make the changes to Figure 9 that are described by reviewer #2.
+
+Figure 9 has been updated for clarity, following advice from Reviewer #2. We have replaced NTPs/dNTPs with ribonucleotides and deoxyribonucleotides, respectively. Thanks for this suggestion. While we and others have used the abbreviation PPase elsewhere, we do appreciate the point, and have altered this to remove any ambiguity. PPase is now replaced with “nucleoside phosphorylase". The arrow from outside the cell has been corrected to lead to the deoxyribonucleotides label inside the cell, and the cell boundary has been redrawn for clarity. We have also updated the figure legend (ll 834-845).
+
+3) Comment further on how observation of cell elongation would impact OD measurements (reviewer #1 comment) and address the concerns of reviewer #3 about cell morphology changes and analysis of evolutionary trajectory.
+
+We mentioned this in the abstract, but we have now added brief mention of this in the final paragraph of the introduction, where we summarise key findings (ll 109-111).
+
+For establishing if there is either growth or no growth under various conditions, as we have done, a qualitative assessment such as the one presented in Figure 3 is sufficient. The issue of whether OD is impacted by cell elongation has been documented previously (Stevenson et al. https://www.nature.com/articles/srep38828), and is only a problem if trying to quantify parameters such as doubling time or when trying to estimate cell counts. We do not do either of these, as calculation of both requires an assumption of normal cell morphology in
+
+4) Modify the abstract and introduction to include a statement about the need to introduce a nucleotide kinase gene.
+
+We have now added statements to this effect in the abstract (ll 38-39) and in the final paragraph of the introduction (ll 94-98).
+
+5) Describe the control experiment to identify selective pressures induced by the antibiotic.
+
+Both the control and the experimental lines are resistant to streptomycin. The basis of the resistance is a genomic mutation in the
+
+If additional mutations do appear as a result of antibiotic resistance or some other form of media adaptation, they would be expected to appear in both control and experimental lines as both are evolved in the same antibiotic-containing growth media. Our genome sequencing indicated only one gene is mutated in both control and experimental lines. This gene,
+
+Given that antibiotic presence is a constant across all lines, and given that we do not see evidence of specific adaptation to this antibiotic (as the lines are already preadapted to its presence) we do not believe it is necessary to discuss this, so we have not made any changes to the manuscript.
+
+6) Clarify whether population-level sequencing experiments were performed as detailed by reviewer #3.
+
+As noted in the Methods section (under Sequencing and genome assembly), genome data are derived from single colonies (ll 235-237). We have since performed population-level sequencing which we will present as part of a subsequent study, where we have extended the evolution experiment through to 100 transfers, and examined population dynamics.
+
+7) Revise Figure 1 to include the entire gel and include more effective annotations.
+
+Figure now edited and figure legend updated.
+
+Reviewer #1 (Recommendations for the authors):
+
+Line 643 – missing word.
+
+Corrected, thanks.
+
+Reviewer #3 (Recommendations for the authors):
+
+– Please clarify if a clonal and/or population-level sequence was performed, and how.
+
+Clonal – see above.
+
+– What is the control experiment (i.e. a strain evolved in parallel) to detect any selective pressures that could be introduced by the strep in the evolution media?
+
+Note that a control experiment is presented, but not for Streptomycin, for reasons noted above.
+
+– What is the significance of the cell morphology analyses for the evolutionary trajectory hypotheses presented in the study? An earlier justification or a better-justified discussion would be helpful here. To my knowledge, REL606 does not particularly exhibit a morphologically distinct response to many environments the bug has been tested/evolved before, or is this not the case? If so, then why is this a key observation attributable to the hypothesis tested here?
+
+See above. The cell morphology is reversible, so it is not significant in evolutionary terms. As now explained in the revised text, this type of morphology has been seen in a range of conditions, and is associated with stress. We show it is specifically a response to the environment (i.e. low [dN]) and is alleviated when cells are grown in higher [dN]. Perhaps what is interesting is that this environmental phenotype appears to be less severe as the experiment proceeds. This might be due to improved capacity to utilise dNs, perhaps via reduction of loss to catabolism following mutation of deoB. We now make this suggestion in the discussion (l l613-617).
+
+– Is there a correlation between the number of mutations vs. the morphological modifications of the evolved cell?
+
+No. We show that the morphology is environmental, not genetic – our cell lines lose this phenotype when grown in higher [dNs], though note above comment about mutations that might influence the availability of dNs for DNA synthesis.
+
+– Please clarify what is meant by this sentence (line 414): Note however that elongate cell morphology and clumping preclude use of OD measurements for accurate estimation of doubling time or cell counts (reflected in the large standard error relative to REL606 controls), so can only be used to give a general indication of growth.
+
+This is now discussed, as noted above. We cite a key paper (Stevenson et al.) which explains why these types of cellular morphology/behaviour preclude use of OD measurements for estimating doubling time/cell counts.
+
+– I'm intrigued by the cross-contamination speculation (and lack thereof) for the T30.L1 line. Did the authors perform population-level sequencing? Shouldn't that reveal whether early contamination took place?
+
+We have not performed population sequencing for the present work. However, we are currently undertaking this for a follow-up study which takes our evolution experiment through to 100 transfers. As the reviewer notes, with population data, we should indeed be able to confirm the status of the SNP in deoB in lines 1 and 8, and we look forward to presenting that work in our next article.
+
+– As a general comment, the second half of the Results section is rather difficult to follow. Some arguments are emphasized in this part (especially the loss of deoB and cdd genes section) and others can move to Discussion; there is a lot of back/forthing going on in this section, making it harder to grasp the sequence of events. Similarly, some paragraphs emphasize results are in the Discussion section (see, for instance, section starting line 653).
+
+We presume that, by the ‘second half’ of the results, the reviewer is referring to the bioinformatics-based analyses presented. We presented the results of screens for several genes for three genera, and elected to present results by genus, rather than by gene. We believe this is the more logical way to follow for understanding the results in biological context, but it does inevitably result in some back and forth, since we are discussing the same gene sets in several genera.
+
+Regarding the results from line 653, we felt it useful to reemphasise the key results, but we have now added some further discussion around uptake of deoxyribonucleosides, which we hope puts this in clearer context. This is at ll 680-682 in the revised manuscript.
+
+– Please include what blue/red lines correspond to on Figures 2 and 3 directly, in addition to the legend.
+
+Corrected.
+
+– Figure 1 should include the entire gel, not a trimmed version. Include an arrow pointing to exactly what we are looking at here.
+
+Corrected.
+
+– Overall summary figure (indicating the "Sequence" would be a good place to specify what you mean by sequence: and how (clonal, genome, how many replicates, etc.)).
+
+Corrected. The legend to Figure 5 now reads:
+
+“Five lines of ∆RNR and three lines of wild type progenitor (REL606) were established at one of two conditions (1 mg/mL or 0.25 mg/mL dNs in MOPS+1% glucose), and serially passaged for 30 transfers. Genomic material from each line was then extracted from a single colony and sent for sequencing giving us clonal level genome information. To further investigate adaptation to low concentrations of dNs, the “fittest” ∆RNR line grown at 0.25 mg/mL dNs (∆RNR_250_T30_1) was used to seed a subsequent experiment. Ten replicate lines of ∆RNR_250_T30 _1 were serially passaged for an additional 10 transfers in MOPS+1% glucose and 0.01 mg/ml dNs. DNA from a single colony of each of these 10 lines (∆RNR_10_T40_1-10) was then extracted and sent for whole genome sequencing”.
+
+We have also indicated this in methods and in the main text, and we have also altered the text in the figure itself to make it clear we sequenced from single colonies.
+
+– Specify what you mean by length (uM) on the figure in addition to the caption. The colors here do not indicate the specific strain on the Figure – is red the WT? Blue evolved WT? Unclear.
+
+Corrected. Figure 6 has been updated to include the axis label to read “cell length (uM)”. The missing colour indicators in the key have been updated.

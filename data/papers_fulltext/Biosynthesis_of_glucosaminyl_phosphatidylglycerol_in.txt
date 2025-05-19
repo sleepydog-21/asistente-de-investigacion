@@ -1,0 +1,55 @@
+An important mechanism for bacteria to cope with antimicrobial stresses and develop antibiotic resistance is by altering the charge of their membrane lipids. A highly conserved and perhaps most studied enzyme responsible for modifying lipids in bacteria is MprF (multiple peptide resistance factor), which modifies lipids via the transfer of amino acids from charged tRNAs to the head groups of anionic phosphatidylglycerol (PG) and cardiolipin (CL) (
+
+The modification of PG with cationic glucosamine, producing zwitterionic glucosaminyl phosphatidylglycerol (GlcN-PG), was recently reported in
+
+In this study, by combining bioinformatic, genetic, and lipidomic approaches, we identified the biosynthetic genes required for GlcN-PG synthesis in
+
+The bacterial strains used in the study are described in
+
+The
+
+The
+
+The acidic Bligh-Dyer lipid extractions were performed as previously described (
+
+Lipidomic analysis by normal phase LC/MS/MS was described previously (
+
+The lipid extract of
+
+An unknown lipid with a major [M-H]
+
+Enzymatically, GlcN-PG is most likely produced from PG via the covalent modification with GlcN. Indeed, this was supported by the observation that during the pellicle growth of
+
+Given the biochemical mechanisms of other amino sugar modifications (
+
+The potential involvement of deacetylation in the biosynthetic process of GlcN-PG prompted us to carefully examine the PA14 lipidomic data and identify a low level of GlcNAc-PG. The [M-H]
+
+To search for the GlcNAc-PG deacetylase, we queried the PA14 genomic database and found six genes annotated as deacetylases. Among them, four have been well characterized with identified substrates, including LpxC (
+
+To determine whether GlcNAc-PG is a substrate of PA14_44830 and/or PA14_56040, we performed lipidomic analysis of their respective transposon mutants. As shown in
+
+PA14_56030 (
+
+Overall, the lipidomic analysis of the
+
+PA14_56050 (renamed
+
+The function of
+
+GlcN-PG is much less abundant than GlcNAc-PG in the transformed
+
+To assess the prevalence of GlcN-PG, we analyzed three other laboratory and clinical stains of
+
+Using a combination of lipidomic and bioinformatic approaches, we identified two biosynthetic enzymes that are involved in the GlcN-PG synthesis in
+
+Our bioinformatic analysis indicates that the
+
+The membrane distribution of GlcN-PG remains to be determined. The third gene in the
+
+The identification of the GlcN-PG biosynthetic genes will enable the study of the biological and pathological functions of GlcN-PG in
+
+The replacement of anionic PG with zwitterionic GlcN-PG is expected to lower the net negative charge of the bacterial membrane, and thus may help confer resistance to cationic antimicrobials. In gram-positive
+
+Remarkably, the lipidome of
+
+The elucidation of the functions of GlcN-PG will help shed light on the biological significance of the redundancy of zwitterionic phospholipids in

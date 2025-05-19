@@ -1,0 +1,11 @@
+{
+  "id": "26644381",
+  "title": "Modification of the 1-Phosphate Group during Biosynthesis of Capnocytophaga canimorsus Lipid A.",
+  "doi": null,
+  "authors": "Renzi F, Zähringer U, Chandler CE, Ernst RK, Cornelis GR, Ittig SJ",
+  "journal": "Infection and immunity",
+  "year": "2016",
+  "abstract": "Capnocytophaga canimorsus, a commensal bacterium of dog's mouth flora causing severe infections in humans after dog bites or scratches, has a lipopolysaccharide (LPS) (endotoxin) with low-inflammatory lipid A. In particular, it contains a phosphoethanolamine (P-Etn) instead of a free phosphate group at the C-1 position of the lipid A backbone, usually present in highly toxic enterobacterial Gram-negative lipid A. Here we show that the C. canimorsus genome comprises a single operon encoding a lipid A 1-phosphatase (LpxE) and a lipid A 1 P-Etn transferase (EptA). This suggests that lipid A is modified during biosynthesis after completing acylation of the backbone by removal of the 1-phosphate and subsequent addition of an P-Etn group. As endotoxicity of lipid A is known to depend largely on the degree of unsubstituted or unmodified phosphate residues, deletion of lpxE or eptA led to mutants lacking the P-Etn group, with consequently increased endotoxicity and decreased resistance to cationic antimicrobial peptides (CAMP). Consistent with the proposed sequential biosynthetic mechanism, the endotoxicity and CAMP resistance of a double deletion mutant of lpxE-eptA was similar to that of a single lpxE mutant. Finally, the proposed enzymatic activities of LpxE and EptA based on sequence similarity could be successfully validated by mass spectrometry (MS)-based analysis of lipid A isolated from the corresponding deletion mutant strains.",
+  "source": "PubMed",
+  "pmcid": "PMC4730577"
+}

@@ -1,0 +1,71 @@
+Insertion sequences (ISs) are small transposable elements (typically 0.7 to 2.5 kb in size) that encode a transposase (TPase) and are usually flanked by terminal inverted repeats (IRs) (
+
+Another important aspect of the impact of IS insertion/transposition on their bacterial hosts is the modulation of gene expression by gene inactivation or activation (
+
+Lactose fermentation is one of the general biochemical characteristics of coliform bacteria belonging to four genera of
+
+In this study, we performed detailed analyses of the lactose utilization ability of a set of O121:H19 strains and their mutants under several culture conditions and revealed that IEE-mediated IS
+
+As the IEE promotes the excision of IS elements belonging to the IS
+
+IS insertion into the
+
+Strains and plasmids used for the analysis of lactose utilization
+
+The finding that red microcolonies representing
+
+Involvement of IEE in the emergence of lactose-fermenting subclones during cultivation and the effect of lactose. The proportion of lactose-fermenting subclones in the colonies of each strain cultured on MacConkey agar base plates supplemented with or without 1% lactose for 40 h at 37°C was determined by suspending 5 colonies in LB, inoculating the suspensions on MacConkey agar base supplemented with 1% lactose (MAC plate), and counting red colonies after 16 h of incubation at 37°C. For spot analyses, cell suspensions (approximately 1.3 × 10
+
+When the wild-type 51104 strain and the K-12_
+
+We next analyzed the growth of the K-12_
+
+The emergence of lactose-fermenting subclones during the culture of K-12_
+
+We further performed similar analyses of K-12_
+
+In summary, we concluded that lactose does not affect IEE-mediated IS
+
+Schematic representation of the growth of
+
+As our preliminary inspection of O121:H19 genomes suggested that there is some variation in IS insertion into the
+
+Phylogeny of STEC O121:H19 and variable IS insertion into the
+
+We performed a more detailed analysis of the IS insertion into
+
+This study revealed that the IEE-mediated excision of IS
+
+O121:H19 STEC is one of the major STECs along with the O157, O26, O103, O111, O145, and O45 STECs (
+
+We found that the cultivation of bacteria carrying both
+
+The
+
+Bacteria were grown in the following media: LB (1% [wt/vol] Bacto Tryptone, Gibco; 0.5% [wt/vol] Bacto Yeast Extract, Becton, Dickinson [BD]; 1% [wt/vol] sodium chloride, nacalai tesque), LB agar (LB containing 1.5% [wt/vol] Bacto Agar, BD), MAC (Difco MacConkey agar base, BD; 1% [wt/vol] lactose monohydrate, Wako), MAC not supplemented with lactose (Difco MacConkey agar base), Pearlcore MAC (Pearlcore MacConkey agar, Eiken Chemical Co.), MM (Difco M9 Minimal Salts, BD; 2 mM magnesium sulfate heptahydrate, Wako; 0.1% D-[+]-glucose, nacalai tesque), and MM agar (MM containing 1.5% [wt/vol] Bacto Agar). The growth media were supplemented with regents and antibiotics when necessary at the following concentrations: L(+)-arabinose (Wako), 1 mM; IPTG (Wako), 0.3 mM or 30 mM; X-gal (TaKaRa), 40 μg/mL; sucrose (nacalai tesque), 10% (wt/vol); D-(+)-glucose, 0.1%, 0.2%, or 0.4% (wt/vol); lactose monohydrate, 1.0% (wt/vol); D(+)-maltose monohydrate (Wako), 1.0% (wt/vol); chloramphenicol (Wako), 20 μg/mL; ampicillin (Sigma), 50 μg/mL; tetracycline (nacalai tesque), 10 μg/mL.
+
+Mutant strains were generated as follows using the plasmid vectors and primers listed in
+
+Primers used to generate mutant strains
+
+Plasmids used to generate mutant strains
+
+Ap
+
+To generate a K-12 mutant that carried the same
+
+We constructed pBR-
+
+Primers used to construct pBR-
+
+The boldfaced sequence in ECs1305-pBR-F and -R correspond to each terminal of the EcoRI and PstI-digested pBR322 plasmid.
+
+Seven experiments outlined in Fig. S5 were performed in this study. In all experiments, tetracycline (10 μg/mL at the final concentration) was added to the culture medium for the maintenance of pBR322 and pBR-
+
+The suspensions were diluted to 1~2 × 10
+
+The suspensions were diluted to 2.5 × 10
+
+Strategies for searching the IS insertion into
+
+SNP sites (7,591 sites) of the core genome sequences of 419 O121:H19 strains (418 L1 strains and one L3 strain used as the outgroup) were detected by MUMmer (

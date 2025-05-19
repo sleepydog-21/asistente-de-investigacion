@@ -1,0 +1,95 @@
+Under 1% of existing microorganisms are cultivatable. Therefore, methods for efficient screening and exploitation are needed (Amann et al.
+
+The ribosomal protein S1 is an essential factor for translation initiation in
+
+In this work, we aimed to increase the translation initiation of metagenomic sequences in
+
+List of plasmids
+
+List of oligonucleotides used in this study
+
+UTR-GFP reporter constructs were assembled in pACYCDuet-1 as described below. The original 5’ UTR and RBS1 region of the pACYCDuet-1 plasmid was replaced with a PCR-amplified fragment lacking 5’ UTR and the RBS1. A 539 bp fragment was amplified using primers ONAP_06 and ONAP_10 using pACYCDuet-1 as template. The PCR-amplified fragment and the original vector were digested with
+
+Cloning of the eight 5'-UTRs (Table
+
+List of 5'-UTRs used
+
+The tricistronic reporter plasmid pAP16 was generated using Gibson assembly. First, the second MCS of pAP9 was removed by digestion with
+
+The wildtype
+
+Two different
+
+The megaprimers were employed in the EZClone PCR assembly of mutated pAP4 plasmids according to manufacturers’ instructions. PCR products were digested by
+
+The screening procedures were performed using a Hamilton Microlab Star liquid handling workstation. All reporter constructs were transformed into
+
+Colony picking was conducted by the robot from one to maximally three plates to achieve the required number of colonies for inoculating pre-cultures. Maximally four 96 deep well plates were inoculated at a time, prefilled with 1 ml/well of liquid LB media with 100 mg/l ampicillin and 34 mg/l chloramphenicol. The plates were covered with Enzyscreen CR1396 covers and fixed into Enzyscreen CR1800 clamp system for incubation at 37 °C with 250 rpm shaking. The overnight cultures were utilized to inoculate gamma sterilized 96 well U Nunc plates prefilled with 178 µl of selective M9 minimal media (Amp and Cm) containing 20 g/l glucose with 20 μl saturated inoculum.
+
+Plates were incubated 2 h at 37 °C and 250 rpm shaking. Two hours after inoculation, the cultures were induced with 2 µl of a stock solution containing 50 mM isopropyl β-D-1-thiogalactopyranoside (IPTG) and 200 g/l L-arabinose resulting in a final concentration of 0.5 mM of IPTG and 2.0 g/l of arabinose. After induction of cells, plates were incubated for 5 h at 37 °C and 250 rpm shaking. Finally, OD
+
+The hit selection was based on the Z-score of fluorescence values, which were corrected with the corresponding OD
+
+For a comparative screening, selected mutants were inoculated from glycerol stocks into pre-cultures with 5 ml LB media with 100 mg/l ampicillin and 34 mg/l chloramphenicol and grown overnight at 37 °C. From each mutant, four replicate cultures were made. The protocol used for the comparative screening was identical with the screening with the exception that the tests were done with manual pipetting.
+
+For testing the functionality of a selected mutant with another 5'-UTR, plasmid DNA was isolated from selected mutants, treated with
+
+The mutants selected by the pAP16 operon reporter and screened in comparison to controls and each other were sent for sequencing to Eurofins Genomics. Standard protocol for plasmid DNA sequencing preparation was followed, and ONAP_35 primer was employed for the samples sent for sequencing to Eurofins Genomics. The sequencing results were verified by a second round of sequencing using the ON_obseq_3_fwd primer.
+
+Clone manager was used for sequence analysis and alignment. UCSF Chimera package was used for visualizing domains of S1 mutants, which were selected based on the sequencing and screening results. Chimera is developed by the Resource for Biocomputing, Visualisation, and Informatics at the University of California, San Francisco, supported by NIH P41-GM103311 (Pettersen et al.
+
+In the initial screenings, we were interested in finding the most effective 5'-UTRs for selecting ribosomal protein S1 mutants. For this purpose, we selected 5'-UTRs from six species that control translation of highly expressed mRNA molecules (Table
+
+We screened 632 colonies with the UTR1 GFP reporter for improved translational efficiency and found nine hits (1.42% positive hits) (Fig.
+
+Selection of 5'-UTR sequences for efficient screening of S1 mutants. Six different GFP reporters, each controlled by a different metagenomic 5’-untranslated regions, were used to assess the efficiency to select S1 mutants from D3-D3 library. Hits were selected according to Z-scores based on OD
+
+Using the selected 5'-UTRs, an operon reporter plasmid (pAP16) was constructed. The operon reporter was constructed to select for S1 mutants with more relaxed sequence requirements of the UTRs and thus a more efficient translation initiation. Each 5'-UTR controlled the expression of a different fluorescence protein (UTR4-GFP, UTR5-mOrange, UTR6-mApple). The selection of the mutants was based on the Z-score calculated from the OD
+
+We screened about 2600 transformants of the mutation library D3-4 and selected 12 mutants. However, for 11 of these mutants, the selection criteria were only met by the UTR5-controlled mOrange and UTR6-controlled mApple fluorescence readouts (Fig.
+
+Selection and characterization of S1 mutants from D3-D4 library.
+
+We selected six of the best performing S1 mutant proteins and investigated if the mutant S1 proteins would be capable of enhancing translation initiation of a wider variety of sequences with higher efficiency than the wildtype S1 protein. One of the best performing mutants (031_2016_03_D12) was omitted from this test, due to strong differences in the enhancement of the fluorescence readouts for GFP and the remaining mOrange and mApple. For confirming the effects of the mutants, we expressed these mutants in the different reporter strains that we used for the selection of 5'-UTRs. The GFP expression levels ranged from 72.7 to 138.2% of levels obtained with the control (Fig.
+
+As domains 3 to 5 of S1 protein are crucial for mRNA binding, we created a new mutation library and extended the range for mutagenesis to cover domains 3 to 5 (library D3-D5). A total of 672 transformants from the mutation library D3-5 were screened with the pAP16 operon reporter, and from these, nine were selected as hits (Fig.
+
+Selection and characterization of S1 mutants from D3-D5 library.
+
+Next, the nine selected S1 mutants were compared with each other and the wildtype employing six different GFP reporter plasmids (Fig.
+
+The selected mutants were sequenced to analyze the changes in the sequence and the possible impact on the protein structure and function. The selected mutants contained between 2 and 12 mutations including missense, nonsense, and frameshift mutations, and one large deletion. Figure
+
+Comparison of mutants selected from D3-D5 library.
+
+We visualized the locations of the changes in the structures and analyzed the physicochemical properties of the mutants and estimated their impact on mRNA binding. We focused on four mutants, mutants 1, 2, and 7, whose changes seemed to lead to sequence preferences, as well as mutant 4, which exhibited the most interesting phenotypical effects. Mutant 4 also presented the highest number of changes in its sequence. From nine amino acid substitutions, seven were located in an area where the residues have been observed to participate in mRNA binding in the wildtype S1 protein (Aliprandi et al.
+
+Summary of the effects of selected mutants selected from the ribosomal protein S1 mutation library D3-D5
+
+Sequence analysis indicated four amino acid substitutions in mutant 1. The amino acid substitution L257P was identified in domain 3 in the fifth β-sheet. The original amino acid residue in this location has been associated with mRNA binding. In domain 4, there were two amino acid substitutions, and both showed a change in hydrophobicity: K279I was located in the first β-sheet and V327E in the fourth β-sheet. The fourth amino acid substitution in mutant 1, F357Y, was in the linker between domain 4 and domain 5. This has also been previously identified as an RNA binding site. Mutant 2 was truncated as already noted, but it still proved to be one of the interesting mutants in the screening experiments. The first two amino acid substitutions were located in domain 3 in sites where RNA binding has been observed: D204E was located in the loop between the first and second β-sheet and K226I in the loop between the third and fourth β-sheet; the second amino acid substitution also caused a change in hydrophobicity. Two changes were located in domain 4: R283S and E337stop. The amino acid substitution R283S was located in the first β-sheet, and in the loop between the fourth and fifth β-sheet, a premature stop codon led to truncation (E337stop). This is a location which has been observed as an RNA binding site. Sequence analysis revealed that mutant 7 was truncated due to frameshift mutations in domain 3 in the fourth β-sheet. It presented two amino acid substitutions in the truncated third domain: K226I in the loop between the third and fourth domain and V235A just before the β-sheet. In both locations, the original residues have been observed to participate in RNA binding, and the amino acid substitution K226I also led to a change in hydrophobicity.
+
+We conducted a more thorough analysis of the effects of the different mutations of mutant 4 on the protein structure. The following changes were observed in mutant 4 considering the sequence and structure. In domain 3, the first two mutation locations have been associated with mRNA binding (Aliprandi et al.
+
+Figure
+
+Modeling effect of amino acid substitutions on structure. Domain 4 of mutant 4 of the mutation library OB3-5 is displayed as a molecular model and compared to the wildtype domain 4. The wildtype is colored light grey and the mutant is colored blue. The four locations where mutations have led to amino acid changes (T278I, Y290, V300A, and E337V) have been highlighted pink. (Data for wildtype S1 by Salah et al.,
+
+The aim of this work was to improve the translational process of mRNA sequences in
+
+Despite screening a much smaller number of colonies, the results with mutation library D3-D5 seemed more promising than with the mutation library D3-D4. One difference between the two libraries was the mutation rate. We sequenced random colonies to determine the mutation rates, for the D3-D4 library. The mutation rate was 10.5 mutations per kb. For clones of the D3-D5 library, the average mutation rate was 6.8 mutations per kb.
+
+Another key difference was that the region for mutations was extended into the D5 region. This might be a consequence of the structure and function of the S1 mRNA binding platform. Aliprandi et al. (
+
+The six final mutants of mutation library D3-D4 presented higher expression of UTR2-, UTR5-, and UTR7-controlled GFP. The strains with UTR4-controlled GFP presented mostly lower expression values. These mutants were selected mostly by UTR5-controlled mOrange expression and UTR6-controlled mApple values during hit picking. Also, these mutants seemed to present overall GC content dependency as GFP expression was highest when controlled by 5'-UTRs with a low GC content. Hence, these mutants were not showing the potential as generalists in initiating translation.
+
+Generally, mutants 1 and 2 of the mutation library D3-D5 showed the highest protein expression values in the comparison and confirmation screenings. At the same time, the sequence of mutant 2 was truncated in domain 4. In previous studies, it has been observed that if ribosomal protein S1 is truncated and domains 1–4 remain, transcriptional cycling is impaired, but strains have still been observed to grow (Duval et al.
+
+All reporter strains with mutant 4 showed stably higher expression values than the control strains in confirmation screenings, which makes it the most versatile and hence the most interesting mutant. The selected S1 protein mutant 4 contained nine amino acid substitutions due to mutations, eight of these were overlapping with locations which had previously been identified by Aliprandi et al. (
+
+Bernstein et al. (
+
+It is hard to predict the actual structural changes the mutations will induce on the protein especially as it exists in an unbound and bound state. How would the structural changes affect the function of the S1 protein? Our interest is focused on the mRNA binding platform which is formed by domains 3 to 5. Hence, the question would be if the mutations would influence the organization of the mRNA binding platform. Our visualization of domain 4 from mutant 4 domain 4 (Fig.
+
+Alternative methods for hit picking were discussed for achieving a broader selection of ribosomal protein S1 mutants, which could be employed for a more relaxed translation initiation. Instead of mutants in strains, which give high protein expression values, mutants with mediocre expression values could be selected for a broader range of translation initiation. Using an
+
+Overall, the approach was successful in identifying ribosomal protein S1 mutants that have the potential to improve translation of mRNA sequences with a wide range of 5’ UTRs. While such mutants are of no interest when expressing a small number of genes, and thus the 5'-UTRs can be exchanged from improved expression, such mutants are of interest when performing functional genomics.

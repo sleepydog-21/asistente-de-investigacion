@@ -1,0 +1,11 @@
+{
+  "id": "38395310",
+  "title": "Functional domains of a ribosome arresting peptide are affected by surrounding nonconserved residues.",
+  "doi": null,
+  "authors": "Judd HNG, Martínez AK, Klepacki D, Vázquez-Laslop N, Sachs MS, Cruz-Vera LR",
+  "journal": "The Journal of biological chemistry",
+  "year": "2024",
+  "abstract": "Expression of the Escherichia coli tnaCAB operon, responsible for L-tryptophan (L-Trp) transport and catabolism, is regulated by L-Trp-directed translation arrest and the ribosome arresting peptide TnaC. The function of TnaC relies on conserved residues distributed throughout the peptide, which are involved in forming an L-Trp binding site at the ribosome exit tunnel and inhibiting the ribosome function. We aimed to understand whether nonconserved amino acids surrounding these critical conserved residues play a functional role in TnaC-mediated ribosome arrest. We have isolated two intragenic suppressor mutations that restore arrest function of TnaC mutants; one of these mutations is located near the L-Trp binding site, while the other mutation is located near the ribosome active site. We used reporter gene fusions to show that both suppressor mutations have similar effects on TnaC mutants at the conserved residues involved in forming a free L-Trp binding site. However, they diverge in suppressing loss-of-function mutations in a conserved TnaC residue at the ribosome active site. With ribosome toeprinting assays, we determined that both suppressor mutations generate TnaC peptides, which are highly sensitive to L-Trp. Puromycin-challenge assays with isolated arrested ribosomes indicate that both TnaC suppressor mutants are resistant to peptidyl-tRNA cleavage by puromycin in the presence of L-Trp; however, they differ in their resistance to puromycin in the absence of L-Trp. We propose that the TnaC peptide two functionally distinct segments, a sensor domain and a stalling domain, and that the functional versatility of these domains is fine-tuned by the nature of their surrounding nonconserved residues.",
+  "source": "PubMed",
+  "pmcid": "PMC10941005"
+}

@@ -1,0 +1,115 @@
+To ensure the sequential utilization of carbohydrates in the environment, most bacteria promote the expression or activity of enzymes and transporters required for the metabolism of a preferred carbohydrate while simultaneously inhibiting the expression or activity of those specific to other carbohydrates. This regulatory mechanism is called carbon catabolite repression (CCR) (
+
+Carbohydrates transported by the phosphoenolpyruvate (PEP):carbohydrate phosphotransferase system (PTS) are usually preferred over those transported by non-PTS (
+
+Besides sugar transport, these PTS components interact with other proteins in a phosphorylation state-dependent manner to regulate bacterial physiology (
+
+
+
+Here, we reveal that, in the presence of glucose, dephosphorylated HPr inhibits the FruR-mediated facilitation of the binding of RNAP to the
+
+Details of the strains, plasmids, and oligonucleotides used in this study are listed in
+
+The amount of sugar in the bacterial culture medium was determined as previously described (
+
+RNA extraction and qRT-PCR were performed as previously described (
+
+His-tagged proteins were overexpressed in
+
+Wild-type (WT)
+
+To examine the phosphorylation state-dependent binding of HPr to FruR, 2 μg of HPr and 8 μg of FruR were incubated with 1 μg of EI and 2 mM PEP or 2 mM pyruvate in buffer P (10 mM sodium phosphate, pH 8.0; 2 mM MgCl
+
+The phosphorylation state of HPr was determined as previously described with minor modifications (
+
+A 338-bp probe covering the entire
+
+DNase I footprinting assay was performed as previously described (
+
+
+
+The samples for the isothermal titration calorimetry (ITC) experiments were extensively dialysed (two changes, >24 h total) against the ITC binding buffer [20 mM potassium phosphate, pH 8.0; 100 mM NaCl; 5 mM tris(2-carboxyethyl)phosphine] using SnakeSkin™ Dialysis Tubing with a molecular weight cut-off of 3.5 kDa (Thermo Fisher Scientific, Inc., Waltham, MA, USA, #68035). After dialysis, protein concentration was determined by ultraviolet absorbance at 280 nm. For titrations, samples were loaded into a 96-deep-well plate (Malvern Panalytical, Worcestershire, UK, #WEL020854-010) with three consecutive wells filled for a single titration: samples for the reaction cell, the injection syringe and the binding buffer for pre-rinsing the reaction cell (
+
+Crystals of the FruR–HPr complex were grown using the vapor batch crystallization method (
+
+The structure of the FruR–HPr complex was solved by the molecular replacement phasing method using the structures of CcpA and HPr of
+
+
+
+Glucose inhibits fructose-dependent transcriptional activation of the
+
+The sequential utilization of sugars is usually accompanied by the inhibition of genes encoding proteins involved in the metabolism and transport of unfavourable sugars (
+
+Because FruR acts as a transcriptional activator in the presence of fructose and presumably as a weak transcriptional repressor in the absence of fructose in
+
+FruR directly binds to dephosphorylated HPr. (
+
+To further confirm the specificity of the interaction between dephosphorylated HPr and FruR, the binding of the two proteins was examined using native-gel PAGE (
+
+To transport most PTS sugars, including glucose, the phosphate group derived from EI is transferred to sugar-specific EII complexes by HPr (
+
+Because FruR is required for the transcription of the
+
+In
+
+Effects of dephosphorylated HPr on FruR activity. (
+
+To further confirm that HPr inhibits FruR-mediated transcription of the
+
+Transcriptional activation of the
+
+To test the second possibility, we performed an EMSA with the 338-bp probe covering the entire
+
+To test the third possibility, we performed DNase I footprinting assays with a hybrid RNAP holoenzyme comprising the
+
+HPr inhibits the binding of RNAP to the
+
+To investigate the precise mechanism of regulation of FruR-mediated transcriptional activation by HPr, we solved the crystal structure of the FruR–HPr complex from
+
+Overall structure of the FruR–HPr complex. (
+
+In a previous study, we reported that the side chains of the conserved residues responsible for F1P binding in VcFruR could be similarly oriented with the corresponding residues in PpFruR (
+
+A common face on HPr interacts with all its partner proteins in
+
+We examined whether these structural features were also present in the VcFruR–VcHPr complex structure. First, Phe48 of VcHPr was forwarded to the F1P binding cavity of VcFruR and positioned near the shallow groove, which is surrounded by hydrophobic residues at the interface between VcFruR and VcHPr (
+
+As mentioned in the previous section, the interaction interface between VcFruR and VcHPr was primarily formed by polar interactions. Two VcFruR–VcHPr interfaces of the heterotetramer (VcHPr–VcFruR::VcFruR′–VcHPr′, where prime denotes the other molecule in the asymmetric unit) share almost identical polar interactions (Figure
+
+The polar interaction is crucial for the FruR–HPr binding. (
+
+As both
+
+According to a previous study, the interaction between dephosphorylated HPr and MtlR in
+
+Glucose preference over fructose is accomplished by HPr-mediated inhibition of FruR activity. The upper panel shows the growth curves and remaining sugar concentrations in the medium, while the lower panel displays the relative transcript levels of
+
+Protein–protein interactions can induce structural alterations and regulate the DNA-binding capacity of transcription factors (
+
+The GalR–LacI family transcription factors are important in the coordination of catabolic, anabolic, and transport operons and are widely conserved in prokaryotes (
+
+VcFruR and BsCcpA share a 20.5% amino acid sequence identity (
+
+To explore the mode of HPr binding to FruR or CcpA and the effect of HPr phosphorylation at Ser46 on its binding to partner proteins, we compared the BsCcpA–BsHPr structure (PDB code: 3OQM) (
+
+The FruR–HPr complex structure is distinct from that of the CcpA–HPr complex structure. (
+
+Unexpectedly, the interaction interface between VcFruR and VcHPr is formed at a position different from that of BsCcpA–BsHPr. Amino acids in the loop linking βD and βE (Asp152, Asp153 and Glu154), in the loop linking αIX and βK (Thr313), in the loop linking βE and αIV (Glu162), αIV (Phe164) and αV (Arg195 and Glu196) of VcFruR interact with amino acids in the loop linking β1 and α1 (His15), α1 (Thr16 and Lys27), α2 (Leu47, Phe48 and Gln51), and in the loop linking α2 and β3 (Ser43 and Ser46) of VcHPr (Figure
+
+Here, we show that dephosphorylated HPr directly binds to FruR and inhibits transcriptional activation of the
+
+The EI of the PTS sequentially transfers a phosphate group from PEP to HPr, EIIA and EIIB. If the corresponding PTS substrate is present, EIIB transfers this phosphoryl group to the carbohydrate during its transport through EIIC, leading to a decrease in the phosphorylated state of the corresponding PTS components (
+
+The small intestine is the main organ for dietary fructose clearance (
+
+Structural analysis of the VcFruR–VcHPr complex showed that the binding mode of the two proteins is similar to that of HPr with MtlR, Rsd and LsrK in
+
+Because the structure of VcFruR in our current VcFruR–VcHPr complex lacks a DBD (Figure
+
+This is the first study to examine the interaction between FruR and HPr and there has been no crystal structure of the protein complex between the GalR–LacI family of transcription factors and HPr has been determined, with the exception of the CcpA–HPr complexes (
+
+The cAMP–CRP complex is known to play an important role in the glucose-mediated CCR mechanism in many bacteria (
+
+The atomic coordinates and structure factors of FruR–HPr complex (PDB code: 7X7H) have been deposited in the Protein Data Bank (
+
+Click here for additional data file.

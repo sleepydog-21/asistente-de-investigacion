@@ -1,0 +1,107 @@
+The metabolic pathway leading to L-homoserine is very well established genetically and biochemically in model and industrially relevant microorganisms such as
+
+Despite its central position in the carbon-nitrogen metabolic network, it is very surprising that L-homoserine cannot be used as a nitrogen source of
+
+In this work, we used an
+
+Strains of
+
+For L-homoserine growth assay and toxicity test, various
+
+The GM3 automated technology for evolving microbial populations in continuous culture developed by Marlière & Mutzel
+
+Deletion of
+
+The synthetic wild type
+
+The sequencing of
+
+An overnight pre-culture of
+
+The package mixOmics
+
+Although L-homoserine has a pivotal position in the carbon-nitrogen metabolic network, it cannot be used as a nitrogen source for growth of
+
+L-homoserine is not a nitrogen source for growth of
+
+Toxicity of L-homoserine on different
+
+Growth was carried out in M9 medium buffered at pH 7.0 with 100 mM and containing 0.4% glucose and IC
+
+Since L-homoserine can be transported in
+
+Adapted laboratory evolution (ALE) is a powerful strategy widely used to evolve microbial cells with a desired characteristic, such as the resistance to a toxic molecule or to overcome a metabolic bottleneck that penalizes growth (
+
+At the three stages along the
+
+Genomic modifications of
+
+*Verification of sequence at the thrL locus. SNP, Single Nucleotide Polymorphism; Del, deletion; AA change, amino acid change.
+
+The two remaining genomic modifications, namely on
+
+At variance to single mutations described so far, the genomic modification at
+
+Western blot analysis of His-tagged ThrL and ThrL* protein with anti-His antibodies. Lanes 1, 2 and 3 corresponds to cell lysate of
+
+Banking that the dramatic genomic modification at the
+
+Replacement of
+
+The alleviation of L-homoserine toxicity upon replacement of
+
+Fate of exogenous L-homoserine in MG1655 (WT), MG1655 deleted for
+
+Exometabolome in MG1655 (WT), MG1655 deleted for
+
+In contrast to the exometabolome of strain 4E, the disappearance of L-homoserine in MG1655
+
+To evaluate our assertion that alleviation of L-homoserine toxicity is due to the activation of L-homoserine degradation pathway, we carried out a transcriptome analysis of the four strains (strains MG1655 or WT, 4E, MG1655
+
+Heat map representation of the expression of genes implicated in threonine, glycine, L-alanine and L-arginine superpathway. In
+
+The finding that
+
+The transcription factor encoded by
+
+*Expression of genes in strains cultivated in the presence versus in the absence of L-homoserine, except for L-homoserine –evolved 4E strain in which the transcriptional comparison is made with the non-evolved MG1655 (WT). Values are fold change from three replicates at
+
+Activation of threonine degradation pathway II enables growth on L-homoserine as sole nitrogen source. In
+
+The next question was to understand how the genes of the TDGII and GCS pathways were upregulated in strain 4E. As noted above, the expression of these genes was also increased in the WT and
+
+While ALE is a powerful strategy for unlocking certain nutritional restrictions or reducing toxicity to certain molecules, as we reported here for L-homoserine, this approach, however, provided little information about the molecular targets of L-homoserine toxicity. Therefore, to infer on these potential targets, genome-scale transcriptome analysis was carried out with the four strains (ie MG1655/WT, MG1655
+
+Effect of L-homoserine on the transcriptome of the MG1655 (WT), MG1655 carrying the allele (
+
+Both WT and
+
+List of genes that belong to the locomotion-chemotaxis-motility process that were downregulated in WT and
+
+Values given are fold change from 3 replicates at
+
+Genes encoding component of the branched amino acid transport system downregulated in WT and
+
+Genes encoding sulfate uptake and assimilation are upregulated in MG1655 (WT) and MG1655
+
+This transcriptomic analysis also revealed that biological processes that were up-regulated in the WT grown in the presence of L-homoserine (e.g., cell wall/peptidoglycan metabolic process and biotin biosynthesis) or down-regulated (e.g., cell respiration, histidine biosynthesis) were not observed in the
+
+Genes whose expression is increased or decreased in
+
+*Value are the fold change from 3 replicates at
+
+In this work, we aimed to explain why
+
+Although ALE is a powerful enabling technology for adapting microbial cells to toxic compounds, it may not easily decipher the molecular mechanism underlying the toxicity because very often it activates a detoxification process leading to rapid metabolization of the toxic compound into a less or nontoxic molecule, as it was reported for furfural, acetic acid, or phenolic toxic compounds that inhibit yeast fermentation (
+
+In this work, an
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found at:
+
+CA and JMF designed the experiments and wrote the manuscript, which was improved and approved by all other authors. CA, DF, JF, HS-B, and NS carried out the molecular experiments. Adaptive laboratory evolution using GM3 automate was carried out by MP. CA, DF, and PH carried out the physiological and metabolomics analysis. SD helped in performing the statistical and biomathematical data analysis. NM and BE contributed to metabolic and transcriptomic data analyses. Funding acquisition and supervision were carried out by JMF. All authors contributed to the article and approved the submitted version.
+
+This work was supported by Grant no. 1782C0056 from ADEME (Agence de l’environnement et de la maîtrise de l’Energie - Plan Investissement Avenir 2) and no. BTBR05-01 from ANR (Agence National de la Recherche - Plan Investissement Avenir 1).
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.

@@ -1,0 +1,75 @@
+Bacteria often form biofilms which are surface-attached microbial communities (
+
+In this study, a high-throughput screening of 6,750 compounds was performed to identify a small-molecule inhibitor of
+
+The strains and plasmids used in this study are listed in
+
+For high-throughput screening, a random chemical library consisting of small molecules selected based on structural diversity and drug-likeness and then dissolved in 100% DMSO at 1 mM was obtained from the Korea Chemical Bank
+
+The
+
+To determine the EC
+
+To examine the cytotoxicity of BFstatin, the activity of cytoplasmic lactate dehydrogenase (LDH) which is released from damaged cells was measured as an indicator of cell damage using the LDH Cytotoxicity Detection Kit (Takara, Tokyo, Japan). The monolayers of HeLa cells grown in a 96-well tissue culture plate (Nunc) were treated with either 20 or 100 μM BFstatin or 1% DMSO (control). After 3 h incubation at 37°C, the LDH activities in the supernatant were evaluated by measurement of absorbance at 490 nm as described previously (
+
+To overexpress BrpR, pSH1820 carrying the
+
+For microscale thermophoresis (MST), BrpR was labeled using the Monolith His-tag Labeling Kit RED-tris-NTA 2nd Generation (NanoTemper Technologies, Munich, Germany). Labeled BrpR (final concentration of 50 nM) was mixed with various concentrations of BFstatin (to make final concentrations of 2
+
+For electrophoretic mobility shift assay (EMSA), promoter DNAs of VV1_2288 (258-bp P
+
+The structural prediction of the full-length BrpR dimer was obtained using the AlphaFold2 algorithm (
+
+To extract RNA, each well of the 24-well microtiter plates (SPL, Seoul, Republic of Korea) was inoculated using 1 mL of culture diluted to an
+
+EPS was prepared following the procedures described previously (
+
+For the analysis of the colony morphology, 2 μL of cultures grown to an
+
+To quantify the biofilms of
+
+Average and standard deviation (SD) values were calculated from at least three independent experiments. The experimental data were analyzed by Student’s
+
+To identify a specific inhibitor for biofilm formation of
+
+High-throughput screening for BrpR inhibitors.
+
+To distinguish whether 175C05 and 237A04 inhibit either the expression or activity of BrpR, a
+
+The chemical structure of 175C05, N1-(2-chloro-5-fluorophenyl)-N3-propylmalonamide, is shown in
+
+Effects of BFstatin on the BrpR activity, bacterial growth, and human cell viability.
+
+Since BFstatin reduced the activity of BrpR, BFstatin might interact with BrpR directly. To examine whether BFstatin directly interacts with BrpR, MST was performed. Normalized fluorescence (F
+
+Molecular interactions between BrpR, BFstatin, and promoter DNA.
+
+As a transcriptional regulator, BrpR functions by binding directly to its target promoter DNA (
+
+Molecular modeling was used to identify how BFstatin interacts with BrpR and subsequently inhibits its DNA-binding activity. BrpR is expected to regulate transcription by dimerization as observed in its homolog VpsR of
+
+Conformational change of BrpR upon the interaction with BFstatin.
+
+Because BFstatin inhibited BrpR from binding to its target promoter DNA, BFstatin might affect the expression of the BrpR regulon. To examine whether BFstatin affects the expression of the BrpR regulon, transcriptomic analyses were performed. By comparing transcriptomes of the BFstatin-treated and DMSO-treated (control)
+
+Effects of BFstatin on the gene expression of
+
+Since BrpR regulates the genes involved in the biosynthesis of biofilm matrix components such as EPS, the effect of BFstatin on the EPS production of
+
+Effects of BFstatin on the biofilm matrix development of
+
+Considering that BFstatin interrupted the development of biofilm matrix, the effect of BFstatin on biofilm formation was investigated. After the addition of different concentrations of BFstatin to
+
+Effects of BFstatin on the biofilm formation of
+
+For biofilm development,
+
+As a regulator, BrpR binds to the promoter DNAs and activates the transcription of downstream biofilm genes of
+
+Transcriptomic analyses showed that BFstatin reduced the expression of BrpR regulon, especially the biofilm genes such as the
+
+Other than antibiotic treatment, numerous methods are currently being applied to control microbial biofilms (
+
+Many bacterial pathogens including
+
+Proposed mechanism for the BFstatin-mediated inhibition of the

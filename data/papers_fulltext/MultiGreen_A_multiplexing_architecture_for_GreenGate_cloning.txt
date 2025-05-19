@@ -1,0 +1,123 @@
+Simple made-to-order gene expression units met research and commercial requirements for the first few decades of transformation technology. These expression units were assembled with traditional cut-and-paste-style molecular cloning [
+
+Current needs increasingly require multiplexed guides for editing, or multiple enzymes for metabolic engineering or trait-stacking. While cut-and-paste cloning is efficient and largely the basis for many modern cloning strategies, its utility decreases as the number of transcriptional units to be assembled increases. A more streamlined approach to plasmid construction is the reliance on standardized components and the use of modular assembly.
+
+Gateway cloning is one of the earliest methods for modular assembly and employs site-specific recombination for plasmid construction [
+
+A more modern approach to modularity is Golden Gate cloning [
+
+There are several different Golden Gate cloning systems available that rely on Type IIS restriction enzymes, i.e.,
+
+Modern modular assembly systems must fulfill two tasks. The first is assembling promoters, coding sequences, and other components into transcriptional units. Second, the resulting transcriptional units must be assembled into a single multigene vector. Hence, each modular cloning system typically relies on multiple stages of assembly.
+
+The initial stage produces “base,” “entry,” or “level 0” plasmids, each of which contains one component for gene expression, such as a promoter, flanked by Type IIS restriction sites. Subsequent one-pot reactions enable freeing of the components and unidirectional production of individual transcriptional units in another plasmid. Initial assemblies of “level 0” parts are often referred to as “level 1” assemblies and are composed of individual transcriptional units. Level 1 assemblies can be joined together with other level 1 assemblies into a final, “level 2” assembly composed of multiple transcriptional units [
+
+Current modular cloning systems vary in complexity, the exact composition of overhangs, and the Type IIS enzyme responsible for freeing components. Except for GreenGate, all employ multiple Type IIS restriction enzymes to produce a final assembly. While using multiple enzymes can increase the burden of domestication, or the deactivation of naturally occurring Type IIS sites within parts, it enables efficient condensation of multiple transcriptional units either sequentially, or even by “braiding” of assemblies together in a cyclical fashion as in GoldenBraid [
+
+GreenGate strikes a balance between ease of use and modularity, enabling control over all the key elements of a cassette for plant expression: promoter, N-tag peptide, coding sequence, C-tag, terminator, and plant selectable marker. Each of these modules are flanked by
+
+Therefore, we propose MultiGreen as a multiplexing solution, inspired by the original architecture set forth by GreenGate, to enable intuitive multiplexing while using only the syntax laid forth in the original GreenGate kit. MultiGreen is composed of two approaches to multiplexing: MultiGreen 1.0—assembly in series, and MultiGreen 2.0 assembly in parallel. Multiplexed assembly with MultiGreen is accomplished via a suite of additional vectors that enable condensation of multiple transcriptional units into one final plasmid. Both MultiGreen 1.0 and 2.0 can be combined for more complicated assemblies, or to insert transcriptional blockers [
+
+All consumable enzymes for restriction ligation and Gibson assembly were procured from NEB (New England Biolabs, Ipswich, MA) including
+
+All plasmids were isolated using standard protocols and reagents from the GenCatch plasmid DNA mini-prep kit (Epoch Life Science, Missouri City, TX). Amplification of target sequences under 5 kb were produced using Q5 high fidelity polymerase (NEB # M0491S) under the recommended three-step amplification conditions, while amplicons over 5 kb were produced using PrimeStar GXL polymerase (Takara Bio, San Jose, CA, #R050A) in a two-step amplification reaction. All NEBuilder HiFi assemblies were executed following standard incubation [
+
+Commercially available cloning strains of
+
+Level 0 entry vectors were created through a scaled down NEBuilder (NEB, Ipswich, MA) reaction. For single insert entry vectors, individual PCR amplicons were produced using Q5 high fidelity polymerase (NEB # M0491S) and isolated from a 0.5X TBE gel by centrifugation of a gel core through an EconoSpin column (Epoch Life Science, Missouri City, TX), at 10000 x
+
+Domestication of
+
+As the default GreenGate entry vector plasmids contain two
+
+Level 0 entry clones for linker modules not requiring PCR were assembled via a sense/antisense single stranded oligo NEBuilder hybridization. Briefly, single-stranded oligos were designed to contain 20 bp of complementarity to their desired vector backbone, the required Type IIS recognition sequence and overhang, and 15–20 bp of complementarity to the 5’ oligo for hybridization. Then, 1:250 dilutions of 100 μM oligos (Millipore Sigma, Burlington, MA) were prepared with type I water. One μL each of the sense and antisense oligo dilutions were then combined with 1 μL of cut level 0 entry vector at 50 ng·μL
+
+Level 1 MultiGreen intermediary vectors were made through successive PCR amplification and assembly using NEBuilder. Destination vector pGGP-AG [
+
+Six sets of overlapping PCR primers were designed to include both homology to the backbone, pairs of flanking
+
+To make another destination vector, and progenitor to a second suite of MultiGreen intermediary vectors, kanamycin resistance was introduced using restriction ligation of pGGP-AG and NEBuilder assembly with an amplified aph(3’)-Ia kanamycin resistance gene from p201NCas9 [
+
+The
+
+Level 1 and level 2 assemblies were performed using NEBridge ligase master mix described previously unless otherwise noted [
+
+To ensure MultiGreen functioned as envisioned, protoviolaceinate biosynthesis from
+
+Plasmid MG2.0-B-PJ23119:PGLPT:vioB:rrnb1-C/pVP268, pMG2.0-E-PJ23119:PGLPT:vioE:rrnb1-F/pVP271, and pMG2.0-F-PJ23119:PGLPT:gfp:rrnb1-G/pVP272 were successfully cloned. Plasmid MG2.0-A-PJ23119:PGLPT:vioA:rrnb1-B/pVP267 and pMG2.0-D-PJ23119:PGLPT:vioD:rrnb1-E/pVP270, however, failed to be isolated after repeated assembly attempts.
+
+Given the failed assembly of
+
+Three biological replicates of the MultiGreen 2.0 assemblies were constructed and transformed on independent days into NEB 10-beta chemically competent cells. Three serial dilutions of the bacterial culture were plated on LB kanamycin plates and incubated for 40 hours prior to imaging to allow for pigment production. Serial dilutions with discernable colony separation were used for imaging and assembly efficiency quantification. Undigested destination vector carryover (pVP096) was scored for fluorescence of the mRFP1E visual reporter situated between assembly sites. Three random colonies failing to express both the protoviolaceinate pigment and the mRFP1e reporter were sent for whole plasmid sequencing via Plasmidsaurus to evaluate assembly fidelity. Colony counts were tallied, and efficiency calculated in Microsoft Excel for Mac version 16.81 (Microsoft Corporation, Redmond, WA).
+
+To further test MultiGreen in a eukaryotic system, the enzymes of the RUBY reporter [
+
+Competent cells of an in-house disarmed
+
+Three days after infiltration, betanin production was quantified based on previously outlined experimental procedures [
+
+The original GreenGate cloning kit is composed of a suite of entry modules containing convergent pairs of
+
+Often, fragments for Golden Gate assemblies are plasmids containing Type IIS sites flanking the insert, or PCR amplicons with compatible cut sites within or near the amplification primers. If plasmids are used as the DNA source, it is common to use alternating antibiotic selections between the parent and child vectors to circumvent carryover, or persistence, of the parent plasmid in subsequent reactions [
+
+The canonical entry vectors for GreenGate cloning include A, B, C, D, E, F, and G overhangs in ampicillin-resistant level 0 plasmids to enable unidirectional assembly (
+
+A) Schematic overview of a standard GreenGate reaction condensing six entry vectors, AB Promoter, BC N-tag, CD GOI, DE C-tag, EF terminator, FG resistance, into a destination vector using a one-pot
+
+As an alternative, MultiGreen 1.0 introduces the additional H overhang via two new Level 0 entry vectors, the FH and HG modules (
+
+Like
+
+The chromoproteins within the HG multiplexer were amplified directly from Addgene bacterial expression plasmids. The chromoproteins in the HG multiplexer modules are flanked by convergent
+
+MultiGreen 1.0’s time for assembly scales at an approximate rate of 2n +1 days, where n is the number of transcriptional units, and assumes all level 0 components and reagents are available when assembly is started, and that diagnostic screens occur the same day colonies appear. This rate of assembly is tolerable for simple assemblies but draws out when additional transcriptional units are desired. A unique advantage of MultiGreen 1.0 is that if there is a gene cassette containing
+
+While MultiGreen 1.0 enabled efficient transcriptional unit stacking following the GreenGate multiplexing grammar, its efficiency of assembly lags for constructs with many transcriptional units. For example, assembling six cassettes with MultiGreen 1.0 would require a minimum of 13 days of cloning to produce the one final vector. Additionally, since MultiGreen 1.0 is multiplexing in series, and each successive reaction becomes the destination vector of the next, if it is desirable to exchange an individual transcriptional unit after assembly, it would be necessary to revert to the assembly just before the unwanted unit and restart incorporating the remaining transcriptional unit. To circumvent the limitations of overall time efficiency of assembly, maximize the compatibility of level 1 assemblies across constructs, and maintain compatibility with the original GreenGate syntax, we propose MultiGreen 2.0 –multiplexing in parallel (
+
+A schematic overview of multiplexing in parallel with MultiGreen 2.0. MultiGreen 2.0 uses a suite of level 1 acceptor vectors to produce initial concatenations of entry vectors. The level 1 acceptor vectors are not ampicillin resistant, allowing for chemical counterselection from level 0 entry vectors. Level 1 acceptor vectors are binary vectors themselves and can be used directly in
+
+MultiGreen 2.0 takes inspiration from the other modular cloning standards that support multiplexing, such as GoldenBraid [
+
+The level 1 intermediary vectors of MultiGreen 2.0 use an additional pair of flanking
+
+A series of level 1 acceptor vectors are made with complimentary overhangs for each GreenGate entry module (AB, BC, CD, DE, EF, FG). A) The above example is for a MG2.0 AB assembly. A standard GreenGate cloning reaction is performed using the MG2.0 AB intermediary vector as denoted in A. The product of that assembly will hold the first gene cassette in the series. By the nature of the flanking Type IIS restriction enzyme sites, the recognition sequence for
+
+At its core, MultiGreen 2.0 enables recursive assembly of GreenGate modules. In other words, it enables performing GreenGate reactions into MultiGreen level 1 acceptor vectors, which when digested with
+
+In MultiGreen version 2.0, level 1 acceptor vectors are derived from the pVS1 backbone of pGGP-AG [
+
+Includes all vectors for MultiGreen 1.0 cloning In series, MultiGreen 2.0 cloning in parallel, and adapters.
+
+As a proof of concept for MultiGreen 2.0 and to quantify the efficiency of a dual restriction-enzyme assembly, we reconstructed the partial violacein operon from
+
+The partial violacein operon from
+
+A) The full violacein operon and its product alongside two truncations producing different pigmented metabolites. B) Example Level 0 entry vectors for assembling the vioABDE operon using MultiGreen 2.0. Not pictured are the filler sequences to bridge overhang gaps (FG filler for level 1; FG eGFP cassette and CD filler for Level 2). Two different synthetic promoters and the bacteriophage T1
+
+Overall efficiency of the parallelized MultiGreen 2.0 assembly for production of protoviolaceinate using both
+
+To further validate MultiGreen as a viable strategy to stack genes in one construct for plant transformation, we deconstructed the RUBY visual reporter [
+
+The individual transcriptional units of RUBY were combined with the
+
+A) Workflow for infiltrating and extracting betanin pigments from
+
+MultiGreen expands the original GreenGate cloning architecture by enabling a rapid and efficient means of multiplexing. MultiGreen 1.0 and MultiGreen 2.0 enable multiplexing in series and parallel using components that strictly adhere to the architecture established in the original GreenGate kit. MultiGreen 1.0 takes inspiration from the original GreenGate approach to multiplexing in series, adding the optional H overhang through two new level 0 entry vectors. Alternating the multiplexer modules in MultiGreen 1.0 assemblies rapidly screens out carryover from one concatenation of level 0 modules to the next. Furthermore, MultiGreen 1.0 incorporates the ability to add transcription blockers or spacer sequences between transcriptional units to help minimize interference between successive gene cassettes.
+
+MultiGreen 2.0 introduces multiplexing in parallel within the confines of the default GreenGate assembly architecture to further boost speed of assembly. Parallelized assembly also enables easier exchange of cassettes as needs for a particular gene stack change. In addition, by incorporating two complements of level 1 acceptor vectors for assembly with different antibiotic resistances, and reversion to level 0 modules, transcriptional units can be iteratively stacked in multiples of six. An infinite number of cassettes can therefore be stacked with MultiGreen, only limited by the carrying capacity of the host
+
+The MultiGreen kit encompassing all the vectors and linkers presented in this report for cloning in series and in parallel are available through Addgene.
+
+(PDF)
+
+(ZIP)
+
+A) Quantitative measurement of GFP on a Synergy2 microplate reader collected with a 485/20 nm excitation filter, 510 nm dichroic mirror, and a 516/20nm emission filter. B) Alignment of the four constructs. pVP272 contains the progenitor promoter module of pVP285; pVP284 contains the progenitor promoter module of pVP286. Level 0 promoter modules used in pVP284 and pVP286 remove out of frame ATG codons after the RBS, introducing Met-gly-ser residues within the A-C level 0 module itself.
+
+(TIF)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)

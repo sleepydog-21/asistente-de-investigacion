@@ -1,0 +1,65 @@
+The intracellular bacteria
+
+In Europe,
+
+Leishmaniosis due to
+
+By harboring vector-transmitted pathogens, wild canids may constitute a potential reservoir for CVBD, some of which are zoonotic diseases. Red foxes are the most abundant wild carnivore in Europe and, due to a good adaptation to human environments, are invading many urban areas [
+
+Seventy-five carcasses of apparently healthy wild red foxes shot during the official hunting season or killed on the road due to traffic accidents were obtained between November 2008 and March 2010. The animals came from the districts of Viana do Castelo (n=9), Bragança (n=13), Vila Real (n=20), Braga (n=3) and Porto (n=2), in northern; Aveiro (n=2), in central; and Évora (n=26), in southern Portugal. Two additional red foxes from the southern district of Setúbal and one from Bragança were presented alive to the Center for Wildlife Rehabilitation, Veterinary Hospital of the University of Trás-os-Montes e Alto Douro, whose ethical committee approved the study as complying with the Portuguese legislation for the protection of animals (Law no. 92/1995).
+
+The fox carcasses were refrigerated at 4°C, for no more than 72 h, or kept frozen at –20°C and thawed before sampling. During necropsy, clotted blood was collected from the right atrium or chest cavity and bone marrow from a femur, with sterile equipment, and stored at –20°C until further processing. Blood from the jugular or cephalic veins of the three living foxes was collected into EDTA tubes and also kept under the same frozen conditions as above. DNA was extracted from blood and bone marrow samples with commercial purification kits (QIAamp® DNA Blood Mini and QIAamp® DNA Mini; Qiagen, Valencia, CA, USA), as previously described [
+
+Of 52 foxes whose gender was observed, there were 23 females and 29 males; gender was not recorded for 26 of the 78 foxes. Age was determined by morphologic characteristics and teeth eruption pattern and wear [
+
+A 123 bp fragment within the 16S gene of both
+
+
+
+A 265 bp fragment of the
+
+DNA samples extracted from cell cultures of
+
+All positive PCR products were sequenced using the BigDye Terminator v3.1 Cycle Sequencing Kit and an ABI PRISM 3100 Genetic Analyzer (Applied Biosystems, Foster City, CA, USA), at the Center for Genomic Technologies, Hebrew University of Jerusalem, Israel. DNA sequences were evaluated with the ChromasPro software version 2. 1.1 (Technelysium Pty Ltd., Australia) and compared for similarity with sequences available in GenBank®, using BLAST program (
+
+A phylogenetic analysis, which included DNA sequences obtained from foxes from this study, was carried out to compare these sequences to other sequences from
+
+The Chi-squared or Fisher’s exact tests were used to compare proportions of positive results by gender and age group (juvenile vs. adults). McNemar’s test compared proportions in paired results, i.e. data obtained from blood and bone marrow of the same fox. A
+
+Out of 69 foxes, 10 (14.5%; CI: 7.2-25.0%) were found infected with
+
+
+
+Paired blood and bone marrow samples (i.e. from the same animal) were available from 52 foxes (47 from the north and five from the south). The percentage of positive results to
+
+Due to the discrepancy in the number of paired samples (i.e. blood and bone marrow from the same fox) between the north/centre and south regions of Portugal, statistical comparison of results by geographical region was done between blood and bone marrow separately. With blood, the prevalences of
+
+No statistically significant differences were found between genders for the positive results to
+
+The foxes were apparently in a healthy body condition, and gross examination and histopathology findings demonstrated a population that seemed not to suffer from histological abnormalities due to infection with
+
+The 230 bp DNA sequences of
+
+
+
+Infections with
+
+The detection of
+
+In Portugal,
+
+Molecular identification of
+
+The proven vector of
+
+The prevalence of
+
+In a survey carried out 30 years ago in foxes from the district of Setúbal, 23.0% out of 61 animals tested by an indirect immunofluorescence assay had antibodies to
+
+Manifestations of disease in red foxes experimentally infected with
+
+The infection found in the fox in the present study might have been acquired from vectors which fed on dogs, as
+
+Altogether, the differences between reports of infection with
+
+In conclusion, the present study demonstrates that infection with

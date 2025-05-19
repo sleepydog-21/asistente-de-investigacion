@@ -1,0 +1,11 @@
+{
+  "id": "35831865",
+  "title": "Polar mutagenesis of polycistronic bacterial transcriptional units using Cas12a.",
+  "doi": null,
+  "authors": "Graffeuil A, Guerrero-Castro J, Assefa A, Uhlin BE, Cisneros DA",
+  "journal": "Microbial cell factories",
+  "year": "2022",
+  "abstract": "Functionally related genes in bacteria are often organized and transcribed as polycistronic transcriptional units. Examples are the fim operon, which codes for biogenesis of type 1 fimbriae in Escherichia coli, and the atp operon, which codes for the FoF1 ATP synthase. We tested the hypothesis that markerless polar mutations could be efficiently engineered using CRISPR/Cas12a in these loci. Cas12a-mediated engineering of a terminator sequence inside the fimA gene occurred with efficiencies between 10 and 80% and depended on the terminator's sequence, whilst other types of mutations, such as a 97 bp deletion, occurred with 100% efficiency. Polar mutations using a terminator sequence were also engineered in the atp locus, which induced its transcriptional shutdown and produced identical phenotypes as a deletion of the whole atp locus (ΔatpIBEFHAGDC). Measuring the expression levels in the fim and atp loci showed that many supposedly non-polar mutants induced a significant polar effect on downstream genes. Finally, we also showed that transcriptional shutdown or deletion of the atp locus induces elevated levels of intracellular ATP during the exponential growth phase. We conclude that Cas12a-mediated mutagenesis is an efficient simple system to generate polar mutants in E. coli. Different mutations were induced with varying degrees of efficiency, and we confirmed that all these mutations abolished the functions encoded in the fim and atp loci. We also conclude that it is difficult to predict which mutagenesis strategy will induce a polar effect in genes downstream of the mutation site. Furthermore the strategies described here can be used to manipulate the metabolism of E. coli as showcased by the increase in intracellular ATP in the markerless ΔatpIBEFHAGDC mutant.",
+  "source": "PubMed",
+  "pmcid": "PMC9277811"
+}

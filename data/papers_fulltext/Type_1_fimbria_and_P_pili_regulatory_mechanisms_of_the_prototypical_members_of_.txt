@@ -1,0 +1,95 @@
+Fimbriae, also known as pili, are filamentous protein appendages that extend beyond the cell surface and have a diameter of 2–8 nm and variable length. These structures may consist of hundreds of copies of a single protein, the major fimbrial subunit, also called pilin. Alternatively, fimbriae may be composed of a pilin filament tipped by additional proteins known as minor fimbrial subunits or adhesins, which mediate interactions with surface receptors (Hospenthal et al.
+
+The term “fimbria” (meaning thread or fiber in Latin) was first introduced in 1955 by Duguid (Duguid et al.
+
+The fimbrial repertoire is vast and different schemes have been proposed over the years to classify them (Thanassi et al.
+
+The expression of C-U fimbriae is intricately regulated and influenced by various regulatory elements and environmental cues. Numerous regulatory mechanisms ensuring efficient gene expression of C-U fimbriae in specific niches and under different conditions have been described (Clegg et al.
+
+The Type 1 Fimbria (T1F), also abbreviated as Fim, represents one of the most well-studied members of the C-U assembly family. Widely distributed in
+
+UTIs are among the most common community and hospital-acquired infectious diseases, ranging from uncomplicated cystitis to potentially severe conditions such as pyelonephritis and septicemia, depending on host-associated risk factors (Klein and Hultgren
+
+T1F is a hair-like structure, typically 1–2 μm in length, characterized by a thin tip fibrillum mounted on a longer and thicker helical rod. The genes responsible for T1F synthesis are encoded in the chromosomal
+
+The regulation of T1F expression involves a sophisticated regulatory network centered around
+
+
+
+Schematic representation of the regulatory network controlling the expression of the
+
+The optimal expression of the FimB and FimE recombinases is essential for regulating T1F phase variation in response to growth conditions. Several factors influence the expression of
+
+Studies have shown that the loss of the
+
+Furthermore, recombination directionality factors are also involved in
+
+Other site-specific recombinases that participate in controlling the
+
+Additional factors positively influence the activity of the
+
+Furthermore, various sRNAs post-transcriptionally regulate
+
+Knowledge of the environmental conditions that control the expression of a virulence lifestyle factor is important for relating and understanding the biological context that underlies an infection. Briefly, T1F is expressed by UPEC strains that colonize the bladder, but their expression is downregulated in bacteria that ascend to the kidneys (Snyder et al.
+
+T1F is also a device for bacteria that colonize the intestine, as the case of
+
+Despite the morphological and functional similarities of T1F in
+
+In
+
+FimZ, FimY, and FimW are the three major regulatory proteins for T1F in
+
+
+
+Schematic representation of the regulatory network controlling the expression of the
+
+FimZ is an orphan 25-kDa response regulator associated with TCSs, which phosphorylation is necessary for the activation of
+
+FimZ works in cooperation with FimY, a LuxR-like domain-containing protein encoded in the vicinity of the
+
+Conversely to the roles of FimZ and FimY, FimW acts as a negative regulator of T1F, exhibiting a four to eightfold increase in fimbrial production in
+
+Regulation of the
+
+Additionally, the product encoded by the
+
+The TCSs PhoBR, QseBC, PhoPQ and BarA/SirA, where PhoR, QseC, PhoQ and BarA are the sensor histidine kinases, and PhoB, QseB, PhoP and SirA are the response regulators, have been implicated in the regulation of T1F. PhoBR, responsive to phosphate availability, is capable of inducing
+
+T1F production is also regulated by transcription factors related to metabolism, the stress response or even the control of the expression of virulence lifestyle factors. A catabolite repression mechanism was described early on to regulate the T1F production in bacteria such as
+
+As described before for T1F of
+
+As described before, acute pyelonephritis occurs as a complication of an ascending UTI that spreads from the bladder to the kidneys and their collecting systems causing inflammation. The main causes of acute pyelonephritis are Gram-negative bacteria, with the most common being
+
+The P pilus structure is complex and consists of a filament of 1–2 μm in length shaped by a thin tip fibrillum mounted on the pilus rod. The base of the pilus is composed of two subunits: PapA, the major subunit, and PapH, the termination rod subunit (Hospenthal et al.
+
+The P pilus is encoded by the gene cluster
+
+
+
+Schematic representation of the regulatory network controlling the expression of the
+
+The transcriptional activation of the
+
+As with other fimbriae, the expression of P fimbriae is controlled by environmental cues (Blyn et al.
+
+Lrp plays a dual role in the transcriptional regulation of
+
+Conversely, Lrp can also activate the transcription of
+
+DNA methylation plays both positive and negative roles in the transcription of
+
+The second locally encoded transcription factor is PapB, which belongs to the family of adhesin regulators with DNA-binding activity. It primarily plays a positive role in
+
+The transcriptional regulation of the
+
+An interesting regulatory crosstalk among the different C-U gene clusters has been observed, primarily controlling unnecessary expression of surface structures at times (Holden et al.
+
+An intriguing communication between P pilus and T1F is primarily mediated by PapB. PapB’s role in
+
+Nearly four decades of research have laid the molecular groundwork for understanding the mechanisms controlling the expression of the
+
+The genomic era and the study of clinical isolates have further enriched our understanding by revealing how genetic variations diversify functional roles and regulatory mechanisms. However, much remains to be learned about how these mechanisms impact the success of an infection and how individual host conditions influence infection outcomes. Recent in vitro studies, for example, show that planktonic bacteria growing in human urine express little to no T1F, while bacteria associated with bladder epithelial cells are highly fimbriated (Greene et al.
+
+Further exploration of fimbrial operon regulation in in vivo physiological settings is essential to deepen our understanding of these regulatory networks. This knowledge could pave the way for targeted interventions and improved clinical outcomes in the prevention and treatment of UTIs.

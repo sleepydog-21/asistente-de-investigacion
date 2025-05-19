@@ -1,0 +1,91 @@
+Primary bile acids (PBAs) classically are lipid molecules produced and secreted by the liver into the intestinal tract to aid in digestion and absorption of nutrients such as fats (
+
+Deviation of the gut microbiota from normal, known as dysbiosis, can alter microbial community function such that bile acid transformation is also impacted, creating a bile acid dysmetabolism. Bile acid dysmetabolism has been connected to multiple disease states in humans including
+
+Cats represent a spontaneous translational disease model of CKD, as development of CKD is reported to occur in up to 80% of cats 15 years or older (
+
+The aims of this study were (1) to determine if fecal bile acid dysmetabolism exists in cats with CKD, and (2) characterize gut microbiota features associated with the bile acid dysmetabolism in the context of feline CKD using targeted fecal bile acid quantification and 16S rRNA gene sequencing of fecal samples collected from cats with and without CKD.
+
+The present study utilized fecal samples collected from a prior study (
+
+In the present study, healthy cats were required to have an ideal body condition score (BCS) of 4 or 5 out of 9 and did not include any cats with a BCS of 6 or greater, given that the gut microbiota and microbial-derived metabolites can be impacted by obesity status in both cats and people (
+
+A fresh naturally voided fecal sample frozen within 24 h was used for microbiome and bile acid analyses. All fecal samples were collected by owners and placed on ice until being frozen at −80°C for further analysis. The prior study first utilized fecal samples for microbiota analysis (
+
+Within CKD cats, a subpopulation of 8/28 cats with <50% fecal SBAs were also analyzed in comparison to the healthy cats (
+
+Frozen fecal samples were shipped to and then analyzed by a fee for service laboratory (Metabolon Inc.) using liquid chromatography and tandem mass spectrometry (LC–MS/MS) to obtain fecal bile acid concentrations. This targeted metabolomic approach evaluated 15 fecal bile acids. The unconjugated bile acids assessed were cholic acid (CA), chenodeoxycholic acid (CDCA), deoxycholic acid (DCA), lithocholic acid (LCA), and ursodeoxycholic acid (UDCA). The taurine and glycine conjugated forms of all five unconjugated bile acids were also assessed. Briefly, calibration of all measured bile acids was performed with eight different known concentrations spiked into an acidified methanol solution. Quality control samples, calibration samples, and study samples were all also spiked with a labeled internal standard and subjected to protein precipitation with an organic solvent (acidified methanol). After centrifugation, organic supernatant was dried using a stream of nitrogen. Dried extracts were then reconstituted and injected onto an Agilent 1,290 Infinity/Sciex QTRAP 6500 LC–MS/MS system equipped with a C18 reverse phase ultra-high performance liquid chromatography (UHPLC) column. The mass spectrometer was operated in negative mode using electrospray ionization. Quantitation was performed using a weighted linear least squares regression generated from fortified calibration standards prepared immediately prior to each sample run. Raw data were collected and processed using AB SCIEX software Analyst (v1.6.3). Fecal bile acid concentrations are reported as nanogram per milligram of feces.
+
+Publicly available forward-end read 16S rRNA gene amplicon sequencing data were obtained from the National Institutes of Health Sequence Read Archive from accession number SRP 117611, which were generated as previously described (
+
+Sequence analysis of the V4 region of 16S rRNA gene amplicons was then performed through R Studio (v2023.03.1 + 446) (
+
+Evaluation of microbial community alpha and beta diversity measures utilized both phyloseq (v1.42.0) and vegan (v2.6–4) packages in R Studio (
+
+Further evaluation of 16S rRNA gene amplicon sequence taxonomy was performed using National Center for Biotechnology Information (NCBI) Basic Local Alignment Search Tool (BLAST) (
+
+Within GraphPad Prism, data were assessed for normality with the Shapiro–Wilk test and determined to be non-normally distributed for both relative abundance and fecal bile acid concentration data. The non-parametric two-tailed Mann–Whitney and Kruskal-Wallis tests were applied as appropriate and significance determined following adjustment for false discovery rate (FDR). All FDR tests performed throughout this study used the Benjamini, Krieger, and Yekutieli method (
+
+The alpha diversity metric of total observed ASVs were normally distributed, passing the Shapiro–Wilk test, and thus a parametric one-way ANOVA was applied for multiple comparisons. Differences in microbial community beta diversity were assessed by permutational multivariate analysis of variance (PERMANOVA) using the phyloseq (v1.42.0) and vegan (v2.6–4) packages in R Studio.
+
+Differentially abundant taxa were identified using the DESeq2 package (v1.30.0) in R Studio (
+
+MetaboAnalyst (v5.0) was used to analyze fecal bile acid concentration data. No additional transformation, scaling, or normalization was performed on concentration data prior to analysis. Analyses performed within MetaboAnalyst included principal component analysis (prcomp package and R script chemometrics.R) and Random Forest machine learning algorithm (randomForest package). All package versions were contained within MetaboAnalyst v5.0 using R (v4.2.2). Additional fecal bile acid concentration heatmap generation was performed in R Studio with the heatmap.2 function from the gplots package (v3.1.3) and hierarchical clustering performed with the hclust function.
+
+Two-tailed Spearman rank correlation using GraphPad Prism and R Studio was used to assess correlations between the relative abundances of taxa and concentration of bile acids detected in fecal samples. Within R Studio, the psych (v2.2.9) package was utilized to first perform Spearman correlation analysis with the corr.test function, then the corrplot package (v0.92) was utilized to visualize the Spearman correlation matrices with the corrplot function.
+
+The profiles of fecal bile acid concentrations from healthy cats and cats with CKD were largely similar and demonstrated considerable overlap via principal component analysis (PCA) (
+
+Fecal bile acid concentrations in cats with chronic kidney disease.
+
+Alpha diversity was significantly reduced in cats with CKD characterized by a reduced number of total observed ASVs in cats with CKD (median 240 ASVs, Mann–Whitney
+
+Fecal microbiota of cats with chronic kidney disease.
+
+Differentially abundant ASVs were determined by log2 fold change (log2FC) with DESeq2 when all cats with CKD were compared to healthy cats (
+
+ASVs identified in cats with at least 97% sequence identity with
+
+ASVs differentially abundant in only cats with IRIS Stage 3 or 4 CKD compared to healthy cats were also explored to capture microbial alterations that may exist with CKD progression (
+
+ASVs that correlate with reduced fecal UDCA concentrations in cats with CKD and healthy cats.
+
+Within cats with CKD, 29% (8/28) had a fecal bile acid dysmetabolism characterized by the total bile acid composition of <50% SBAs detected (
+
+Distinct fecal bile acid pool composition in CKD cats with bile acid dysmetabolism characterized by <50% SBAs.
+
+The microbial community structure of CKD cats with bile acid dysmetabolism (<50% SBAs) was compared to cats with normal bile acid metabolism (>50% SBAs) including healthy and a subset of CKD cats (
+
+Fecal microbial population from CKD cats with bile acid dysmetabolism (<50% SBAs) is distinct from healthy cats and CKD cats with normal bile acid metabolism (>50% SBAs).
+
+Given that
+
+26 ASVs with at least 97% nucleotide identity to
+
+All ASVs identified as differentially abundant in CKD cats with bile acid dysmetabolism (<50% SBAs) were assessed for significant correlations with the fecal bile acid composition (
+
+Spearman correlation matrix of fecal bile acid concentrations for individual bile acids and differentially abundant ASVs identified in CKD cats with bile acid dysmetabolism (<50% SBAs) using DESeq2. Spearman
+
+Given that
+
+ASVs from the order
+
+These two ASVs, along with the previously identified
+
+Fecal bile acid composition correlates with differentially abundant
+
+Here, it is reported that cats with CKD have an altered fecal bile acid profile compared to apparently clinically healthy cats. The altered fecal bile acid profile is characterized by a reduced concentration of the microbial-derived SBA UDCA. Even when a subpopulation of CKD cats with bile acid dysmetabolism (<50% SBAs) was separated, the presence of reduced fecal UDCA concentrations in CKD cats with normal bile acid metabolism (>50% SBAs) compared to healthy cats remained. The reduction in UDCA is associated with differentially abundant microbes, notably reduced relative abundance of a
+
+Reduced fecal concentrations of UDCA in cats with CKD is notable given the signaling activity profile of UDCA to host cells. UDCA can be directly sensed by the host as agonist for the cell surface expressed bile acid activated receptor TGR5 as well as an antagonist of the nuclear receptor FXR (
+
+It is also reported here that a subpopulation of cats with CKD experience a fecal bile acid dysmetabolism characterized by fecal bile acid profile with <50% SBAs. In people (
+
+Still, it is important to explore the gut microbial community structure alterations corresponding with the subpopulation of CKD cats with bile acid dysmetabolism (<50% SBAs) as they may represent a clinically important and relevant disease state. The largest driver for conversion of host PBAs into microbial-derived SBAs is the 7α-dehydroxylation (
+
+Here it is also identified that three ASVs belonging to the order
+
+Notably, when fecal UDCA concentrations are considered in CKD cats with <50% SBAs, a heterogeneity of concentrations is observed. UDCA production is mechanistically not tied to 7α-dehydroxylation directly, but rather can be achieved through a variety of reactions including hydroxysteroid dehydrogenase (HSDH) enzymes that act at the 7
+
+The overall sample size represents a limitation that can be commonly encountered in clinical veterinary studies. Still, the sample size presented here represents an expansion on the previous investigation of fecal bile acid concentrations in CKD cats (
+
+Overall, the finding of reduced fecal concentrations of the SBA UDCA in cats with CKD is significant given the known ability of UDCA to modulate inflammation and fibrosis, including in rodent models of kidney injury (

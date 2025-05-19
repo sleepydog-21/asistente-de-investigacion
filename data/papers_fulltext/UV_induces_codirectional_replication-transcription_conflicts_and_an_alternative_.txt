@@ -1,0 +1,147 @@
+Among the natural DNA-damaging conditions, UV light is unique in delivering well-defined DNA lesions, pyrimidine dimers (PDs) [
+
+For a long time, the only UV-sensitive mutants known in
+
+We reported previously that RNase H-deficient mutants in
+
+RNase HII (encoded by the
+
+It is widely assumed that replication forks running into R-loops can lead to DSBs [
+
+In the wild-type
+
+The complexity of replication profiles in cells lacking RNase H activities. Strains are: AB1157, L-413, L-416, L-476, and L-416–33. (
+
+As mentioned above, the
+
+In this study we have characterized the post-UV replication dynamic patterns in the
+
+
+
+Cells were grown in LB broth [10 g tryptone, 5 g yeast extract, 5 g NaCl per liter, then pH 7.2 with NaOH] or on LB plates (15 g agar per liter of LB broth). The regular growth temperature was 28°C, unless otherwise indicated in the experiment description. When screening for mutations linked to antibiotic-resistant genes or when the cells were carrying plasmids, the media were supplemented with the required antibiotic: 100 μg/ml ampicillin, 50 μg/ml kanamycin, 10 μg/ml tetracycline,10 μg/ml chloramphenicol, and 30 μg /ml spectinomycin.
+
+Two procedures used UV irradiation: UV survival and post-UV DNA analysis. For UV treatments, the time to deliver a particular UV dose was calculated from the direct measurements of UV irradiation fluency with UVC Digital Light Meter (model UV512C, GENERAL). All UV experiments were performed under yellow light (F15T8-GO lamp, General Electric) to avoid photoreactivation.
+
+Overnight cultures of the tested strains were diluted 100-fold in the morning and grown with shaking to OD
+
+Strains were grown in 20 ml of LB to OD
+
+Cell lysates were prepared according to Brij lysis procedure [
+
+The cultures were grown and exposed to UV as described in “Post-UV DNA analysis” above. Cells from four ml culture (OD
+
+Next morning, the protocol from New England Biolabs for agarose digestion and DNA purification from agarose plugs was followed. Briefly, the agarose plugs were washed three times 30 min each in 1 ml of 10 mM Tris–HCl, pH 6.5, 1 mM EDTA on ice, then the buffer was similarly exchanged for 1× β-agarase I Buffer (twice) keeping tubes on ice for 30 min. The buffer was removed, and agarose plugs were melted at 65°C for 10 min and cooled to 42°C. β-Agarase I (NEB) was added to the molten agarose to a final concentration of 1 unit/100 μl following by incubation of the tube at 42°C for 2 h. After digestion, 5 M NaCl (1/10 of the volume) was added and incubated on ice for 30 min. Residual polysaccharides were precipitated by centrifugation at 15 000
+
+The cultures were grown and exposed to UV as described in “Post-UV DNA analysis” above. Cells were collected from 5 ml of cell culture with OD
+
+To measure the absolute signal increase at specific chromosomal regions, we followed the previously published procedure [
+
+Library preparation and sequencing were performed by the Roy J. Carver Biotechnology Center at the University of Illinois Urbana-Champaign. Shotgun genomic libraries were prepared from purified genomic DNA with the Illumina DNA Prep kit (Illumina cat no. 20060060). Libraries were pooled, quantified by quantitative PCR (qPCR), and sequenced on one SP lane for 101 cycles from one end of the fragments on a NovaSeq 6000 with V1.5 sequencing kits.
+
+Sequence data were trimmed and analyzed for quality with fastp (v0.23.4) [
+
+Subsequent data manipulations were performed by custom scripts written in Python, R and Perl (available upon request). Per-base read depth was averaged over contiguous 100-base bins so that the dataset could be efficiently manipulated in Excel. Bins containing non-uniquely mapped reads were removed (1249 bins, including all
+
+To combine replication profiles for five independent UV-experiments (
+
+To build the nested sets, LOESS values were plotted against genomic position using the MG1655 reference genome. To position the four replication (marker frequency) profiles from a particular post-UV experiment in one replication profile chart, such that the height of each curve accurately reflected the relative loci-specific increases or decreases as determined by Southern analysis, we first normalized LOESS values of each sample to the LOESS mean value calculated from the
+
+In terms of the nature of potential replication-affecting features, the
+
+In the growing WT
+
+As already mentioned, the
+
+We inspected in more detail the two broad regions (Fig.
+
+In the WT cells, the terminus proper is the
+
+In conclusion, in the
+
+We irradiate our cells with the standard dose of 40 J/m
+
+The post-UV replication recovery in the
+
+Since the
+
+Measurement of the absolute amounts of the “reporter” chromosomal DNA segment (22 kb upstream and 22 kb downstream of
+
+In conclusion, at 60 min post-UV, the replication profile of the
+
+The main goal of this project was to profile post-UV replication in the
+
+Impeded post-UV replication recovery in the
+
+Looking at the complete profiles (Fig.
+
+It should be noted that the post-UV replication profiles of the
+
+Comparison of the nested sets of the single
+
+And, yet, the nested set (Fig.
+
+Still, we first tested how the replication profile of the
+
+The nested sets of the
+
+The post-UV replication pattern in the
+
+The time-point comparison between the indexed
+
+If the ribosomal RNA operons impede the progress of replication forks after UV, this is likely due to the replication–transcription conflict there, as transcribing RNA polymerase is one of the most stable protein–DNA complexes known [
+
+The unchallenged replication profile of the
+
+Post-UV replication restoration in the
+
+If the ribosomal operon transcription after UV can indeed block fork progress in the whole replichore, then deletion of individual ribosomal operons should significantly unblock this progress and may even ease the UV-sensitivity of the
+
+The growth profile of
+
+Since the origin of replication of the WT
+
+Effect of the
+
+The profiles of growing cultures of the Δ
+
+The surprising
+
+Thus, instead of UV-induction of
+
+To explore these surprising findings further for both the
+
+We reported before that, while single
+
+Our work with the
+
+Further confirmation came from the observation that all
+
+Therefore, we propose that, in the
+
+What could be the nature of UV-induced replication–transcription conflicts that (i) happen at heavily transcribed regions; (ii) block both head-on and codirectional forks; (iii) cannot be resolved in RNaseH deficient cells; (iv) are resolved without RNase H if TECs are destabilized due to the
+
+A model of UV-induced replication–transcription conflict and the nature of
+
+The evidence that
+
+Why would
+
+These events should be generally rare, but since the number of R-loops in the
+
+Relative to the
+
+The discussion above implies no special initiation sites in the
+
+Our high-resolution replication profiles provide a possible answer: there may be no specific initiation sites in any given
+
+The other eight consensus
+
+In addition to
+
+While most
+
+Interestingly, initiation from
+
+Assuming that the DnaA boxes at the
+
+The second UV-sensitive initiation phenomenon was observed in the

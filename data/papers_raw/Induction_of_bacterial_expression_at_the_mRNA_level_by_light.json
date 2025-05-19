@@ -1,0 +1,11 @@
+{
+  "id": "39126322",
+  "title": "Induction of bacterial expression at the mRNA level by light.",
+  "doi": null,
+  "authors": "Ranzani AT, Buchholz K, Blackholm M, Kopkin H, Möglich A",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Vital organismal processes, including development, differentiation and adaptation, involve altered gene expression. Although expression is frequently controlled at the transcriptional stage, various regulation mechanisms operate at downstream levels. Here, we leverage the photoreceptor NmPAL to optogenetically induce RNA refolding and the translation of bacterial mRNAs. Blue-light-triggered NmPAL binding disrupts a cis-repressed mRNA state, thereby relieves obstruction of translation initiation, and upregulates gene expression. Iterative probing and optimization of the circuit, dubbed riboptoregulator, enhanced induction to 30-fold. Given action at the mRNA level, the riboptoregulator can differentially regulate individual structural genes within polycistronic operons. Moreover, it is orthogonal to and can be wed with other gene-regulatory circuits for nuanced and more stringent gene-expression control. We thus advance the pAurora2 circuit that combines transcriptional and translational mechanisms to optogenetically increase bacterial gene expression by >1000-fold. The riboptoregulator strategy stands to upgrade numerous regulatory circuits and widely applies to expression control in microbial biotechnology, synthetic biology and materials science.",
+  "source": "PubMed",
+  "pmcid": "PMC11381354"
+}

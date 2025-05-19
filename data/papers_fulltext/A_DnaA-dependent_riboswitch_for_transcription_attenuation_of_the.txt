@@ -1,0 +1,95 @@
+Transcription attenuation is a mechanism for transcription termination found in several operons responsible for amino acid biosynthesis
+
+The
+
+Transcription of the
+
+DnaA is the initiator protein for chromosome replication in most bacteria, binding specifically to DNA sequences (DnaA‐boxes) present within the replication origin
+
+Riboswitches serving as molecular switches are regions of mRNA that have specific ligand recognition and binding domains
+
+The His leader RNA and HisL peptide have been suggested to be required for transcription attenuation of the
+
+The stem‐loop attenuator region is required for transcription attenuation of the
+
+Measurements of cell cycle parameters showed that the absence of the
+
+Using the Mfold program (
+
+Next, we sought to clarify the role of DnaA in transcription attenuation. DnaA can also act as a transcription factor, repressing or stimulating the transcription of genes by binding to DnaA boxes (consensus sequence: 5′‐TTA/TTNCACA‐3′)
+
+We investigated the possibility that the DnaA protein might play a direct role in transcription attenuation of the
+
+To test whether excess DnaA has the opposite effect to mutant DnaA
+
+To test whether DnaA exerts a differential effect on transcription of the leader
+
+To clarify the roles of DnaA and the
+
+Transcription attenuation of the
+
+We further examined the transcriptional activity of
+
+The data presented above suggest that DnaA might regulate
+
+The DnaA protein binds to HisL‐SL RNA and the absence of rDnaA boxes 1, 2, and 3 compromises DnaA binding and subsequently also transcription attenuation. (A, B) The DnaA protein protects the HisL‐SL RNA and tRNA
+
+Next, we asked if the mutations in rDnaA‐boxes disrupted transcription attenuation in the
+
+Interestingly, in
+
+To assess whether mutations in the rDnaA boxes alter the HisL‐SL RNA secondary structure, we used the Mfold program to predict the secondary structures of mutant HisL‐SL RNA (Figure
+
+A decrease in the gene dosage ratio between tRNA
+
+Excess tRNA
+
+To test the important role of the translating ribosome on HisL mRNA in the
+
+Riboswitches, found in all organismsorga
+
+The current transcription attenuation model assumes that, in the presence of a specific amino acid, transcription will terminate following the formation of the attenuator stem‐loop, whereas in the absence of the same amino acid, the translating ribosome will stall on the leader mRNA
+
+Here, we present a possibility that attenuation of
+
+Our data also showed that tRNA
+
+In summary, we present a possible novel model for attenuation of
+
+All the
+
+Cells were exponentially grown in ABTGcasa medium
+
+For the construction of the p
+
+As shown in Figures
+
+The DNA sequence (180 bp) of the
+
+β‐Galactosidase activity was determined as previously described
+
+Cells of the MC4100
+
+The beads were harvested by centrifugation (1500 rpm for 1 min at 4°C) and washed three times with 1.5 ml of 1× RIPA buffer containing 1 mM PMSF by rotation for 5 min at 4°C and spinning for 30 s. Using the same methods, the beads were washed three times in 1.5 ml of LiCl/detergent solution (10 mM Tris‐HCl pH 8.0, 250 mM LiCl, 1 mM EDTA pH 8.0, 0.5% NP‐40, 0.5% sodium deoxycholate) and three times in 1.5 ml of Tris‐EDTA (TE) (pH 8.0). After removing the supernatant, 300 μl of 0.1 M glycine‐HCl (pH 3.5) was added to the beads, followed by incubation with rotation for 10 min at RT to elute the RNA–protein complex. The supernatant was then collected by centrifugation at 1500 rpm for 1 min and transferred to a 0.5‐ml tube containing 30 μl of elution buffer.
+
+The RNA–protein complex was treated with RNase A (7000 units/ml) at 37°C for 1 h, and then incubated at 65°C for 8 h to reverse the cross‐linking. RNA was then immediately isolated using TRIzol reagent (Transgen) following the manufacturer's instructions.
+
+cDNA was synthesized using 300 ng of RNA as a template in a 10‐μl reaction mixture using the PrimeScript first strand cDNA Synthesis Kit (TaKaRa) as described in the manufacturer's protocol, and the cDNA product was detected by electrophoresis.
+
+Cells of the MOR1378 (wt) strain and those of the
+
+Total RNA was extracted from wild‐type (wt) MOR1378 and derived (
+
+Wt MOR1378 cells and the derived Δ
+
+The chromosomal
+
+All statistical analyses were performed using GraphPad Prism 9.0 for Mac. Descriptive statistics, one‐way ANOVA, one‐sample
+
+
+
+This article does not contain any studies with human participants or animals performed by any of the authors.
+
+The authors declare no conflict of interests.
+
+Supporting information.

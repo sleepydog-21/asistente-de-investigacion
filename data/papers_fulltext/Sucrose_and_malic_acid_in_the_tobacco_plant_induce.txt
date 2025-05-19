@@ -1,0 +1,85 @@
+When RSSC invades the host plant, the gene expression pattern changes significantly compared with saprophytic growth in the soil (
+
+Genes encoding T3SS components are clustered and regulated as an
+
+Several receptor proteins are involved in Gram-negative bacteria. These include TonB-dependent receptors (TBDRs) in the outer membrane and the sensor histidine kinase of the two-component system in the inner membrane. TBDR is mainly associated with the absorption of iron and vitamin B
+
+The two-component system pairs the inner membrane protein histidine kinase and response regulator. Histidine kinase is autophosphorylated after sensing external signal(s) and phosphorylates the response regulator to control the cellular response. The expression of
+
+Although
+
+The resting cells of the
+
+Aseptically grown seedlings of
+
+Induction of
+
+Soluble non-protein fractions obtained from tobacco roots or leaves were applied to a solid-phase extraction (SPE) Sep-Pak C
+
+Separation of tobacco extracts using Sep-PAK C
+
+Separation of tobacco extracts using tandem Sep-PAK CM and QMA cartridges. Flow-through and wash fractions after a Sep-PAK C
+
+Organic acids produced by host plants have biostimulatory effects on soil pathogenic bacteria. We speculated that the acidic compounds that affect
+
+Identification of compounds in tobacco extracts. (
+
+We speculate that sugars are the neutral compounds that induce hrpB expression. Neutral compounds were applied to a sugar-D column (Nacalai Tesque) for sugar analysis to separate sugars (
+
+Among the organic acids found in tobacco extracts, individual pure organic acids, namely, oxalic, citric, malic, succinic, formic, and L-pyroglutamic acids, were added to
+
+Induction of
+
+When freshly prepared resting cells (1.4 × 10
+
+Fructose, glucose, and sucrose were found mainly in the tobacco extracts. Pure sugars, fructose, glucose, and sucrose were added to the
+
+Induction of
+
+PrhA initiates a signaling cascade in
+
+The
+
+Involvement of the histidine kinase gene in
+
+Since Rsc1598 is a membrane protein histidine kinase, it is difficult to overexpress and purify it in
+
+Purification of the periplasmic domain of histidine kinase RSc1598.
+
+We performed isothermal titration calorimetry (ITC) binding studies using the purified periplasmic domain of Rsc1598 and organic acids. ITC measures binding interactions by detecting the heat absorbed or released during binding (
+
+Thermodynamic data obtained by ITC for the binding of organic acids to the periplasmic domain of Rsc1598
+
+The experiments were performed at 25°C in 50 mM sodium phosphate buffer (pH 7.6). The values for binding stoichiometry,
+
+RSSC are plant pathogenic bacteria with strong root colonization capabilities and positive chemotaxis toward host exudates (
+
+Malic acid plays an important role in plant–microbial interactions. Malic acid secreted by the roots of
+
+The leaf extracts contained more variation in organic acids than the root extracts did. Oxalic, citric, malic, formic, acetic, and L-pyroglutamic acids were detected in the leaf extracts. In contrast, oxalic, citric, malic, and succinic acids were detected in the root extracts. Malic acid and succinic acid were abundant in the roots. Organic acids and fatty acids regulate plant growth, act as chemical attractants, and stimulate microbial growth (
+
+Sucrose is the most common sugar in plant roots and shoots and is also an important carbon source in the first plant nutrient interface encountered by soil pathogens after invading the host (
+
+Rsc1598 contains a conserved protein domain family, COG4191, a signal transduction histidine kinase that regulates the C4-dicarboxylate transport system. Since we discovered that three members of C4-dicarboxylate, malic, succinic, and fumaric acids, interacted with Rsc1598, the binding of these organic acids to the sensor kinase Rsc1598 might activate the C4-dicarboxylate transport system along with
+
+In conclusion, we identified three types of organic acids (malic, succinic, and L-pyroglutamic acids) and three types of sugars (fructose, glucose, and sucrose) in tobacco extracts that induce the
+
+The organic acids and sugars used in this study were of analytical grade and purchased from FUJIFILM Wako Pure Chemical Corporation.
+
+β-Galactosidase assays were performed as described previously (
+
+Overnight-grown
+
+Freshly prepared cells were incubated with malic acid (0.5 mM) and sucrose (0.01%) at room temperature for 20 h in a 1-mL reaction mixture. The cells were then serially diluted. Diluted cells (100 µL) were spread on the rich agar media with polymyxin B. After a 2-day incubation at 28°C, the number of colonies on the agar plates was counted. The experiments were repeated at least three times.
+
+The Sep-Pak Plus C
+
+Sep-Pak Plus CM and QMA cartridges were connected in tandem and equilibrated with 4.2 mL of balance buffer (10 mM ammonium acetate, pH 5.5). After the samples were loaded onto these two cartridges, the cartridges were washed with 2 mL of wash buffer (10 mM ammonium acetate, pH 5.5 in 20% acetonitrile) and disconnected into individual cartridges. The two cartridges were slowly eluted with 6 mL (six times, 1 mL each time) of eluent buffer (10 mM ammonium acetate, pH 5.5, and 1 M NaCl in 20% acetonitrile).
+
+Organic acids were analyzed by strong ion-exchange chromatography using a post-column method with a pH indicator. Organic acids were separated with a strong (sulfonic acid) cation exchanger TSKgel SCX (30 cm ×7.8 mm, 5-µm particle size, TOSOH, Japan) connected to a guard column using 3 mM HClO
+
+The sugars were separated on a Sugar-D column (4.6 mm × 250 mm, particle size, Nacalai Tesque, Japan) using 75% acetonitrile as the mobile phase at a flow rate of 1 mL/min and detected using a refractive index detector.
+
+A 0.65-kb DNA fragment containing the periplasmic domain (amino acid residues 99–319) of Rsc1598 was amplified from the chromosomal DNA of
+
+The purified proteins were dialyzed against 50 mM sodium phosphate buffer (pH 7.6) and diluted to 40 µM. ITC data were obtained using a MicroCal ITC200 instrument (Malvern Panalytical, Malvern, UK). The experiments were performed at 25°C using different concentrations of organic acids. The first injection was 0.4 µL and then 18 injections of 2.0 µL with a delay of 120 s between injections. The syringe paddle was continuously rotated at 750 rpm in the sample pool. ITC-binding isotherms were analyzed using MicroCal PEAQ-ITC Analysis Software Version 1.22 (Malvern Panalytical, UK). The original data were integrated, and the baseline and normalized active-component concentrations were adjusted. The data were analyzed using a set of site-binding models.

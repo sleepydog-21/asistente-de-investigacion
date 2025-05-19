@@ -1,0 +1,11 @@
+{
+  "id": "40211978",
+  "title": "FGeneBERT: function-driven pre-trained gene language model for metagenomics.",
+  "doi": null,
+  "authors": "Duan C, Zang Z, Xu Y, He H, Li S, Liu Z, Lei Z, Zheng JS, Li SZ",
+  "journal": "Briefings in bioinformatics",
+  "year": "2025",
+  "abstract": "Metagenomic data, comprising mixed multi-species genomes, are prevalent in diverse environments like oceans and soils, significantly impacting human health and ecological functions. However, current research relies on K-mer, which limits the capture of structurally and functionally relevant gene contexts. Moreover, these approaches struggle with encoding biologically meaningful genes and fail to address the one-to-many and many-to-one relationships inherent in metagenomic data. To overcome these challenges, we introduce FGeneBERT, a novel metagenomic pre-trained model that employs a protein-based gene representation as a context-aware and structure-relevant tokenizer. FGeneBERT incorporates masked gene modeling to enhance the understanding of inter-gene contextual relationships and triplet enhanced metagenomic contrastive learning to elucidate gene sequence-function relationships. Pre-trained on over 100 million metagenomic sequences, FGeneBERT demonstrates superior performance on metagenomic datasets at four levels, spanning gene, functional, bacterial, and environmental levels and ranging from 1 to 213 k input sequences. Case studies of ATP synthase and gene operons highlight FGeneBERT's capability for functional recognition and its biological relevance in metagenomic research.",
+  "source": "PubMed",
+  "pmcid": "PMC11986344"
+}

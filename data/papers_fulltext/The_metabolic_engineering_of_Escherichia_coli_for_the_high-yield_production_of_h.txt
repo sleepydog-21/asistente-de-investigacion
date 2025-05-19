@@ -1,0 +1,105 @@
+Hypoxanthine is a highly important biological substance, participating in the regulation of some important physiological functions in the human body [
+
+Currently, hypoxanthine is primarily produced in industry through the hydrolysis of inosine. However, this process faces several challenges, including high production costs, significant environmental impact, and complex extraction procedures. In contrast, microbial fermentation offers an efficient, cost-effective, and sustainable alternative, which has already been successfully applied to large-scale production of various natural compounds [
+
+Purine biosynthesis in
+
+Initially, we engineered a chassis strain by blocking the decomposition pathway, alleviating feedback inhibition, and introducing exogenous purine operons. We then validated the effectiveness of adenosine deaminase and adenine deaminase, using them to create a dual pathway for the synergistic synthesis of hypoxanthine from IMP and adenosine 5’-monophosphate (AMP), resulting in a non-adenine auxotrophic strain. We also introduced exogenous IMP-specific nucleases to address adenosine monophosphate accumulation and knocked out the hypoxanthine to inosine pathway to facilitate replenishment. Additionally, we incorporated the
+
+
+
+Metabolic pathway diagram of hypoxanthine. The blue arrow represents the introduction of heterologous genes, the yellow arrow represents the weakening gene, the green arrow represents the overexpressed gene, and the red arrow represents the deletion of related genes.
+
+Glucose monohydrate was purchased from Pengyuan Starch Co., Ltd. in Qinhuangdao, China, and yeast powder was purchased from Lesaff Management (Shanghai) Co., Ltd. DNA polymerase was purchased from Nanjing Novozan Biotechnology Co., Ltd. In addition, oligonucleotide primers (Supplementary Table
+
+The plasmids and engineering strains used in this study are listed in Table
+
+
+
+Strains and plasmids used in this study
+
+The endogenous target genes used in this study were amplified using the genomic DNA of
+
+The strain was modified by CRISPR / Cas9 gene editing system [
+
+Take 10ul of bacterial solution from a glycerol tube and transfer it to a shaking tube containing LB medium. Incubate at 37 ℃, 225 rpm, and activate for 15 h. Next, take 2mL of the activated bacterial solution and inoculate it into a 500mL shaking flask containing 30mL of fermentation medium. Cultivate the flask at 37 ℃ and 225 rpm for 26 h. The fermentation medium contained: 30 g/L glucose, 2.5 g/L citric acid monohydrate, 10 mg/L MnSO
+
+Begin by preparing 2 L of seed culture medium in a 5 L bioreactor. Use an LB shaker to wash the bacterial cells from the inclined surface of the medium and transfer them to a fermentation tank for seed cultivation. The same medium used for shake flask cultures is employed here, except phenol red is omitted. Once the culture reaches an OD600 of 20, retain 400mL of bacterial liquid and use a peristaltic pump to add fresh fermentation medium, bringing the volume back to 2 L. The system automatically adds ammonium hydroxide to maintain the pH at approximately 6.7, while temperature is controlled at 37 °C. Stirring speed and aeration rate are adjusted to keep the dissolved oxygen above 50%. Samples are collected every two hours to monitor the remaining glucose levels, and the sugar replenishment rate is adjusted as needed to maintain glucose in a suboptimal range.
+
+Spectrophotometer (SR-2800PC, Shanghai Sheyan Instrument Co., Ltd.) to detect the cell growth status. Glucose concentration was measured by glucose analyzer (HG06-SBA-50, Beijing Beixin Chuangzhan Automation Technology Co., Ltd.). High performance liquid chromatography (LC-100, Shanghai Wufeng Scientific, Shanghai, China) was used to quantify the standard of hypoxanthine, and the sample was quantified at the wavelength of 260 nm; a 250 mm×4.6 mm, 5 μm column was used with a column temperature of 30 ℃; and 5% acetonitrile phosphate solution was used as the mobile phase with a flow rate of 1 mL/min. Prepare standard curves using diluted hypoxanthine solutions at concentrations of 0.01 g/L, 0.05 g/L, and 0.1 g/L. Collect samples every two hours to monitor changes in hypoxanthine production.
+
+Data represent the mean and standard deviation of three independent experiments. One-way analysis of variance and Dunnett’s multiple comparison tests determined significant differences between data. A P-value (0.01 <
+
+Conventional metabolic engineering methods were employed. Initially, the hypoxanthine decomposition pathway was disrupted by knocking out the
+
+PRPP is catalyzed by phosphoribosylpyrophosphate synthase (encoded by the
+
+IMP is an important precursor to the synthesis purines such as hypoxanthine. Specifically, PRPP undergoes a ten-step enzymatic reaction to generate IMP, involving 12 genes (
+
+
+
+(
+
+IMP is the first compound in the purine synthesis pathway with a complete purine ring. IMP has two branched pathways catalyzed by adenylosuccinate synthetase (encoded by
+
+Dealing with the metabolic flux of the adenine synthesis pathway is crucial for improving hypoxanthine yield. First, we knocked out the adenosine succinate synthase-encoding gene
+
+Recognizing the detrimental effects of directly blocking the adenine branch, we opted to weaken it instead. Studies have shown that substituting proline at position 242 of
+
+Adenosine deaminase, known for its high biocatalytic ability, completes its catalytic activity through a single polypeptide chain, in the absence of cofactors [
+
+To verify adenosine deaminase activity in
+
+Compared with the strain HY5, the results showed that the adenosine deaminase from
+
+In
+
+We then verified whether the simultaneous overexpression of adenosine deaminase and adenine deaminase has a synergistic effect. Overexpressing both the adenosine deaminase-encoding gene
+
+The adenine synthesis pathway is strictly regulated by feedback inhibition [
+
+Interestingly, the heterologous introduction of 5’-nucleotidase
+
+In conjunction with de novo nucleotide synthesis from simple precursors, organisms use a complementary purine base pathway regulated by purine salvage genes [
+
+
+
+(
+
+IMP is a key metabolic node in purine synthesis. Previous studies showed guanine and xanthine accumulation, highlighting the need to study the branch of IMP in the direction of these compounds. In this study, the
+
+Static knockout of the
+
+CRISPR interference (CRISPRi) and inducible promoters are effective tools for dynamic metabolic flux regulation in bacteria [
+
+
+
+Effects of deleting the
+
+During the construction of the chassis strains, we overexpressed the purine operon from
+
+Oxaloacetic acid and glutamic acid are catalyzed by aspartate aminotransferase (encoded by
+
+
+
+(
+
+Fed-batch fermentation was carried out in a 5 L bioreactor to evaluate the potential production performance of the engineered strain YZ. The fermentation tank temperature is maintained at 37 °C, with the pH kept around 6.7 throughout the process. By increasing the rotational speed, the dissolved oxygen concentration is sustained, creating optimal conditions for strain growth and production. As shown in Fig.
+
+
+
+First, based on previous studies, we knocked out the decomposition pathway of hypoxanthine and the repressor protein PurR and explored the effects of various
+
+Strain defects affect bacterial growth and limit titer increase. However, adding defects to the fermentation process is necessary, as it significantly increases production costs and may complicate downstream extraction. Therefore, to avoid the production of auxotrophic strains, we introduced the
+
+Further experiments verified that insufficient synthesis of glutamine and aspartic acid limited the titer increase; therefore, a glutamine synthetase mutant was introduced to enhance glutamine synthesis. In addition, overexpression of the aspartate aminotransferase
+
+While we have developed a high-yield strain for hypoxanthine production, the glycoside conversion rate remains relatively low, leaving considerable room for improvement. The current strain modification did not target the central carbon metabolism pathway. Optimizing this pathway could significantly enhance precursor utilization efficiency [
+
+A plasmid-free, non-induced, non-defective, high-yield hypoxanthine strain was engineered using
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

@@ -1,0 +1,11 @@
+{
+  "id": "39375013",
+  "title": "Trans-aconitic acid assimilation system as a widespread bacterial mechanism for environmental adaptation.",
+  "doi": null,
+  "authors": "Zheng C, Liu D, Lu X, Wu H, Hua J, Zhang C, Liu K, Li C, He J, Du C",
+  "journal": "The ISME journal",
+  "year": "2024",
+  "abstract": "The ability of bacteria to use natural carbon sources greatly affects their growth and survival in the environment. Bacteria have evolved versatile abilities to use environmental carbon sources, but their diversity and assimilation pathways remain largely unexplored. Trans-aconitic acid (TAA), a geometric isomer of cis-aconitic acid involved in the tricarboxylic acid cycle, has long been considered a natural carbon source metabolizable by bacteria. However, its catabolism and ecological role in linking bacterial interactions with the environment remain unclear. Here, we identify a regulatory system in Bacillus velezensis FZB42 that is capable of sensing and catabolizing TAA. The system consists of a tar operon, an adjacent positive regulatory gene tarR, and a shared promoter. After receiving the TAA signal, the TarR protein interacts directly with the promoter, initiating the expression of the membrane transporter TarB and aconitate isomerase TarA encoded by the operon, which function in importing the TAA and isomerizing it into the central intermediate cis-aconitic acid. Subsequent soil colonization experiments reveal that TAA assimilating ability can give its coding bacteria a growth and competitive advantage. Bioinformatics analyses coupled with bacterial isolation experiments further show that the assimilation system of TAA is widely distributed in the bacterial domain, and its assimilating bacteria are also extensively distributed in nature, indicating an important role of TAA metabolism in bacterial carbon acquisition. This work emphasizes the importance of metabolic adaptation to environmental carbon sources for bacterial survival and may provide inspiration for engineering microbes with enhanced environmental competitiveness.",
+  "source": "PubMed",
+  "pmcid": "PMC11495376"
+}

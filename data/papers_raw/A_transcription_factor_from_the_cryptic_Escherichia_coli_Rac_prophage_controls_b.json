@@ -1,0 +1,11 @@
+{
+  "id": "40037713",
+  "title": "A transcription factor from the cryptic Escherichia coli Rac prophage controls both phage and host operons.",
+  "doi": null,
+  "authors": "Wons E, Gucwa K, Lewandowska N, Wisniewska A, Kozlowski LP, Mruk I",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "Bacterial genomes are shaped by cryptic prophages, which are viral genomes integrated into the bacterial chromosome. Escherichia coli genomes have 10 prophages on average. Though usually inactive, prophage genes can profoundly impact host cell physiology. Among the phage genes in the E. coli chromosome, there are several putative transcription factors (TFs). These prophage TFs are predicted to control only phage promoters; however, their regulatory functions are not well characterized. The cohabitation of prophages and bacteria has led to conditions under which the majority of prophage genes are unexpressed, at least under normal growth conditions. We characterized a Rac prophage TF, YdaT, expression of which is normally inhibited by Rac TFs and, surprisingly, by the host global regulator OxyR. YdaT, when expressed, leads to a toxic phenotype manifested by drastic cell filamentation and cell death. We determined the binding sites and regulatory action for YdaT, finding two sites within the Rac locus, and one upstream of the host rcsA gene, which codes for the global regulator RcsA. The resulting increase in RcsA strongly impacts the bacterial RcsA/B regulon, which includes operons related to motility, capsule biosynthesis, colanic acid production, biofilm formation, and cell division. Our results provide novel insights into the host's genetic network, which appears to integrate YdaT in a complex manner, favoring its maintenance in the silenced state. The fact that the potentially toxic YdaT locus remains unmutated suggests its importance and potential benefits for the host, which may appear under stress conditions that are not yet known.",
+  "source": "PubMed",
+  "pmcid": "PMC11879457"
+}

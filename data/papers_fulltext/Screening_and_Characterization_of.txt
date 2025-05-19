@@ -1,0 +1,59 @@
+The discovery of antibiotics has been the most important scientific breakthrough of the 20th century. Antibiotics were being used to fight infections, and several bacterial diseases were considered to be on their way to eradication [
+
+The basic mechanisms of antibiotic resistance include the inactivation of the antibiotic, alteration of the bacterial target, reduction of antibiotic permeability into the cell, development of a resistant biochemical pathway (sulfonamides), and multidrug efflux pumping [
+
+In fact, these systems are classified into five families, can induce specific resistance to a single antibiotic class or to a large number of antibiotics, which confer a multi-drug resistance (MDR) phenotype to bacteria [
+
+Despite the supremacy of synthetic antimicrobial drugs, more recently, efforts have refocused on discovering new natural-product antibiotics because several of these synthetic compounds are not applicable to clinical use due to their toxic properties [
+
+Thus, in our study, we focused on the search for bioactive compounds produced by Actinobacteria isolated from three Moroccan ecosystems. Through the screening of isolates producing natural inhibitors of AcrAB-TolC pumps of
+
+The 210 Actinobacteria isolates used in this study were from the collection of the Laboratory of Biology and Biotechnology of Microorganisms, Cadi Ayyad University, Marrakesh, Morocco. They were isolated from various Moroccan habitats including rhizospheric soils and endophytes of endemic aromatic and medicinal plants [
+
+To test the ability of the collection of Actinomycete strains to produce efflux pump inhibitors (EPI), we used four bacteria. The
+
+For the identification of the efflux pumps inhibitors that could be synthesized by the Actinobacteria isolates, we measured the Minimum Inibitory Concentration (MIC) and Minimum Bactericidal Concentration (MBC) of several antibiotics in order to select the required antibiotics and their concentrations. The MIC is defined as the lowest concentration of the dilutions of an antibiotic to inhibit the growth of the test strains, and the MBC is the lowest concentration of an antibiotic required to kill it. The MIC of antibiotics as well as of Actinobacteria was determined by the microdilution method using a microtiter plate [
+
+The screening of Actinobacteria isolates for their ability to produce EPI was performed by the agar diffusion method [
+
+Furthermore, in order to confirm the initial screen, antibacterial activities of the isolated strains were performed by using the agar well-diffusion method [
+
+The cultural features of the strains were characterized following the instructions given by the International
+
+The physiological testing holds three different approaches for the characterization of Actinobacteria strains. The resistance toward sodium chloride test is taken by analyzing the growth on basal medium with 0, 2.5, 5, 7.5, and 10% of sodium chloride [
+
+Genomic DNA was isolated from pure cultures in Bennet agar medium at 37 °C for four selected strains (Z332, Z35/6, Z385/6 and 136) and was extracted using the Maxwell
+
+Sequences’ similarities were performed using the online sequence analysis resources LEBIBI database [
+
+After assessing both MIC and MBC data, the antibiotics cloxacillin and chloramphenicol displayed very different reactions between wild type and mutant strains. Consequently, these two antibiotics were used for the screening procedure.
+
+For our screening, a total of 210 Actinobacteria isolates were analyzed for their ability to produce antimicrobial activities against the test strains. The inhibition diameters were measured (
+
+Thus, 9.52% of isolates could potentially produce EPI substances; 6.67% were active against Gram negative bacteria (AG100) and 2.86% against the Gram-positive bacteria (SA 1199B). According to the data shown in
+
+The obtained results using the confirmatory assay of the agar well diffusion method agree with the results of the test diffusion on the agar disc (
+
+Among the 17 isolates collected from a Moroccan rhizospheric soil showing an EPI activity, we selected four strains, Z332, Z35/6, Z385/6, and 136, based on their strong activity against the tested strain of
+
+The resistance towards sodium chloride is a helpful tool in differentiating between species of Actinobacteria. The four selected strains exhibited a salt tolerance of up to 7.5% with an optimum growth at 5% NaCl; hence, these strains could be placed in the intermediate salt tolerance group.
+
+Actinobacteria form a significant group of microbial populations in soil, able to produce many valuable enzymes that can decompose a variety of organic materials and that could be applied in different industries. The API ZYM test method is a simple system used in order to detect selected enzymes in
+
+According to the results of the strain Z332, a positive reaction was found for several enzymes, such as alkalinephosphatase (level 5), esterase (level 2), esterase-lipase (level 3), lipase (level 2), leucine arylamidase (level 5), valine arylamidase (level 4). Additionally, the strain Z385/b cannot produce alpha and beta galactosidase, alpha glucuronidase, alpha mannosidase, and alpha fructosidase.
+
+Furthermore, the strain 136 is able to produce alkalinephosphatase (level 5), esterase (level 2), esterase-lipase (level 4), lipase (levels 3 to 4), leucine arylamidase (levels 4 to 5), valine arylamidase (levels 4 to 5), phosphatase acid (levels 3 to 4), naphtol-AS-BI-phosphohydrolase (levels 4 to 5), beta and alpha glucosidase.
+
+Previously, Actinobacteria taxonomy was thought to be related to morphology, which is insufficient to differentiate between different species of many genera.
+
+The four sequences of 16S rRNA gene were analyzed by a comparison with the LEBIBI database [
+
+Neighbor-joining trees based on 16S rDNA gene sequences were generated to show the positions of the studied isolates among related isolates (
+
+The antibiotic resistance of numerous pathogenic bacteria requires a serious search for new antibacterial agents to fight these pathogens [
+
+In this study, 9.52% of the 210 Actinomycete isolates exhibited efflux pump inhibitor activity. The results show that 6.67% are active against Gram negative bacteria and 2.86% against Gram positive bacteria (
+
+Previously, Actinomycete’s taxonomy was mainly based on morphological and physiological properties, which are insufficient to differentiate between diverse species of many genera [
+
+The results of this study, through a screening program of Actinobacteria isolated from specific Moroccan ecosystems, showed the production of bioactive compounds that were natural efflux pump inhibitors and hence of medical interest. This primary screening aimed to highlight the importance of a real refocusing toward the discovery of new natural-bioactive products that may decrease MIC values, improve treatment, minimize toxicity, and reduce the cost of infection treatment.

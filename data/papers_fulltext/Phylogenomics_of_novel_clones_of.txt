@@ -1,0 +1,69 @@
+The role of aquatic ecosystems as reservoirs for clinically relevant pathogens and antimicrobial resistance genes (ARG) has recently gained attention as the importance of assessing the quality of these ecosystem is paramount in public health (
+
+The mechanisms of pathogenicity of
+
+In recent years, advancements in sequencing technologies have greatly enhanced the genomic surveillance of known and emerging pathogens, such as
+
+We have previously reported the detection of clinically relevant pathogens in Lake Wilcox, including novel strains of
+
+Lake Wilcox is a small kettle lake located in Richmond Hill in Ontario (43°56′56.69″ N, 79°26′9.45″ W). Historically, the lake is used for recreational purposes by the surrounding community and tourists. Despite being impacted by feces of surrounding wildlife, recreational activities have continued, and users have reported skin rashes and gastrointestinal symptoms after recreational activities (
+
+Freshwater samples were obtained from Lake Wilcox in the summer of 2022 and fall of 2023. Water samples were kept at 4°C and analyzed within 48 h of collection. Samples were processed as described by Bryan et al. (
+
+Genomic DNA from isolated colonies was extracted using the DNeasy blood and tissue kit (Qiagen, Hilden, Germany) according to the manufacturer’s instructions. DNA libraries were prepared using the Illumina DNA prep tagmentation kit (#20018704) and IDT for Illumina DNA/RNA UD indexes (#20027213) following the manufacturer’s instructions. Paired-end (2 × 150 bp) sequencing was performed using the high-output flow cell on the Illumina MiniSeq instrument as described previously (
+
+Raw paired-end reads were quality filtered using FastQC v0.11.9 (
+
+The pathogenicity of the isolates was determined using the PathogenFinder tool (
+
+To construct the phylogeny, the pangenome of all publicly available
+
+Bacterial species were isolated from the freshwater samples recovered from a freshwater lake over a period of 1 year using the spread agar plate method. Overall, 11 distinct colonies with different morphologies were selected and further characterized using morphological, biochemical-based, and whole-genome sequencing. Taxonomic identification using the VITEK Compact system identified the colonies as
+
+Summary of sequence metrics of
+
+Considering that
+
+To assess the genetic relatedness among isolates sequenced in this study, a combination of conventional multilocus sequence typing (MLST) and whole-genome-based phylogeny was employed. The
+
+Maximum likelihood tree of
+
+To assess the genetic relatedness of the sequenced isolates with global
+
+Core-genome-based maximum-likelihood tree of global
+
+Assessment of the global
+
+Genes encoding resistance to β-lactams were detected in all the isolates sequenced in this study. Different alleles of
+
+Distribution of genes encoding resistance to different classes of antimicrobials (
+
+The detection of virulence genes using a gene homology approach (see Methods) and a curated virulence gene database (VFDB [
+
+Plasmids were not detected in any of the
+
+Source-dependent distribution of plasmid types (
+
+The detection and characterization of phage regions in the isolates sequenced in this study yielded 13 unique intact phages, among which four were predicted to be virulent phages (
+
+Features of intact phages detected in
+
+The 53 biosynthetic gene clusters (BGCs) identified in all sequenced
+
+Novel biosynthetic gene clusters identified in
+
+Biosynthetic gene clusters identified in
+
+Aquatic ecosystems are continually impacted by anthropogenic activities, making the microbial quality and safety of these water bodies, especially those used for recreational activities, paramount for public health (
+
+In the past decade, WGS has become the gold standard method for species identification, complementing existing biochemical-based methods (
+
+There was a high genetic diversity among the nine
+
+The AMR determinant profile observed in the isolates sequenced in this study was comparable and included only chromosome-borne genes encoding resistance to β-lactams. The widespread presence of β-lactam resistance genes, including those conferring resistance to carbapenems, is a known phenomenon in the
+
+The mobilome is known to facilitate gene gain and loss, a phenomenon that plays a crucial role in bacterial evolution and ecological adaptation, and a probable change in bacterial fitness (
+
+In this study, we found a high abundance of novel BGCs and identified unique NRPS and RiPP that were conserved in
+
+The study presents a genomic analysis of

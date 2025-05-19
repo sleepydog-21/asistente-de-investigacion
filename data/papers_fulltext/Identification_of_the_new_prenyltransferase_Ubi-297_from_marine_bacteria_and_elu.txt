@@ -1,0 +1,51 @@
+Marine bacteria harbor an enormous potential to produce structurally diverse natural products, including prenylated aromatic metabolites [
+
+In general, Ptases can be distinguished by their substrate preferences. While the microbial UbiA Ptase catalyzes the C–C-bond formation between an isoprenyl chain and the
+
+Prenylated aromatic metabolites are involved in cellular processes like cell respiration (coenzyme Q
+
+Following up on our recent exploration of the biosynthetic repertoire of marine bacteria [
+
+In a first step, we aimed to gain insights into abundance and diversity of Ptases encoded in both, Flavobacteria and members of the Phylum Actinobacteria, as these were suggested to be involved in the production of meroterpenoids [
+
+Homology clustering of Ptases encoded in marine
+
+The first group of Ptases (G1) contained close homologs of the bacterial MenA family (EC 2.5.1.74) (50–100% pairwise identity) catalyzing the key step in the menaquinone biosynthesis [
+
+A Ptase (UbiA-297) which was putatively assigned as an aromatic Ptase of the G2 UbiA-like family (299 amino acids, calculated mass of 31.9 kDa) (
+
+We then compared the genetic environment of the coding gene
+
+Regional alignment of
+
+The wide spread occurrence of the
+
+A) Amino acid alignment and binding residues of UbiA-297. G2-Ptases are illustrated in the grey box. B) Homology model of UbiA-297 (in color). Model is based on the substrate-bound structure of a UbiA homolog from
+
+The Asp-rich motif of G2-Ptases, known to coordinate Mg
+
+While most UbiA Ptases, such as of
+
+To enable investigations into the substrate scope of UbiA-297, the coding gene sequence
+
+Based on our in silico analysis and previous mass-spectrometry-guided metabolomic analysis of marine Flavobacteria and members of the genus
+
+As depicted in
+
+Evaluation of substrate specificity of UbiA-297. Accepted substrates are shown in red, while no product formation was observed for compounds colored in blue. HRMS signal intensities and the MS
+
+Overall, 8-hydroxyquinoline-2-carboxylic acid (8-HQA) appeared to be the most favored substrate amongst the tested panel. Thus, we shortly investigated different reaction parameters using 8-HQA and FPP as substrates. First, we compared the enzyme activity of crude protein fractions directly obtained from cell lysate and enriched UbiA-297 fractions (
+
+A) Reaction scheme of UbiA-297 catalyzing the assumed
+
+Furthermore, different pH values and extended incubation times were investigated, however, no significant changes in production levels were noted. Next, enriched protein UbiA-297(R145A), in which the conserved Arg145 (
+
+We then tested, if heterologously produced UbiA-297 homologs from
+
+Furthermore, prenylation activity was also detectable when 8-HQA and farnesol were directly added to an
+
+In silico analysis and homology clustering of Ptases encoded in Flavobacteria and the genus
+
+Codon-optimized
+
+Sequence analysis and copies of MS/MS and NMR spectra.

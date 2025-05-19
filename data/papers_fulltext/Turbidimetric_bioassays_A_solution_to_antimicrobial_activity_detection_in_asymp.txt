@@ -1,0 +1,125 @@
+Uropathogenic
+
+The human urinary microbiome (urobiome) is home to a diverse range of microorganisms, which represent a significant component of the innate immune response (Jones‐Freeman et al.,
+
+Bacteriocins are ribosomally synthesized peptides produced by bacteria that are toxic to closely related organisms (Dobson et al.,
+
+To eliminate the complications associated with agar‐based procedures, broth‐based techniques have been used to quantify the antimicrobial efficacy of crude extracts (Papagianni et al.,
+
+Previously, we screened ABU isolates for antimicrobial activity against UPEC using traditional agar‐based methods (Kenneally et al, submitted). This screen was conducted to determine the antimicrobial activity of ABU isolates against a bank of MDR UPEC using bacteriocins. Some inconsistencies were observed, as activity detected in the deferred antagonism assay was not reproducible in the well‐diffusion assay. Agar assays identified only four out of nine ABU isolates as antimicrobial producers, whereas bioactivity levels increased in the turbidimetric screen with all nine ABU isolates exhibiting activity against at least two UPECs. Furthermore, bioactivity increased when the CFS was analyzed in artificial urine as two ABU isolates,
+
+
+
+Artificial urine was made as previously described by Nzakizwanayo et al. (
+
+Composition of the artificial urine medium.
+
+Overnight cultures of ABU isolates in LB were centrifuged at 4000 x
+
+The turbidimetric growth assay was prepared as previously described by Scillato et al. (
+
+Overnight cultures of the ABU isolates and UPEC strains were prepared in the artificial urine medium and grown in a shaking incubator at 37°C for 16–18 h. CFS was prepared after centrifuging the ABU isolates at 4000 x
+
+To assess the stability of the antagonistic activity, the CFS of each ABU isolate was exposed to different pH values (2.5, 7.0, and 10.0) and temperatures (4°C, 37°C, and 70°C). Sterile 2 M HCl or 2 M NaOH were used to adjust the pH of 5 mL aliquots of the CFSs; the adjusted CFSs were incubated at room temperature (20°C) for 1 h. Each CFS was re‐neutralized to pH 6.5 after the incubation period. Aliquots of the CFS were exposed to the chosen temperatures for 1 h. Growth curves were measured by the turbidimetric growth assay as previously described. CFS from each ABU isolate was mixed 1:1 v/v (100 µL) with the standardized indicator strains in a sterile 96‐well plate, along with their respective controls. Absorbance was recorded over 24 h using a microtiter plate reader (OD
+
+The effect of proteinase K on antimicrobial activity was determined using the turbidimetric growth assay. CFS from each ABU isolate was incubated 1:1 v/v with proteinase K solution (1 mg/mL) at 37°C for 2 h (Oliveira et al.,
+
+ABU isolates that met the requirements of inhibiting the growth parameters of five or more UPECs were chosen for further analysis.
+
+Statistical analysis was performed using RStudio (v 4.2.2; 2022.12.0) (R Core Team, 2022). Data gathered from turbidimetric growth assays were analyzed using the Growthcurver package; both the carrying capacity (K
+
+A bank of nine ABU isolates from the urogenital tract was screened for antimicrobial activity using their CFS against a panel of eight UPEC indicator strains (Appendix Figure
+
+Representative image of the in vitro antimicrobial activity of the cell‐free supernatants from the asymptomatic bacteriuria (ABU) isolates against uropathogenic
+
+The effect of the cell‐free supernatants from ABU isolates on the carrying capacity (K) of UPEC strains.
+
+
+
+denotes
+
+denotes
+
+denotes
+
+The effect of the cell‐free supernatants from ABU isolates on the area under the curve (AUC) of UPEC strains.
+
+Control indicates the AUC of each UPEC in broth alone. The asterisks indicate the levels of significance:
+
+denotes
+
+denotes
+
+denotes
+
+To test the bioactivity of the CFS in a more physiological representative medium,
+
+In vitro antimicrobial activity of the cell‐free supernatants against uropathogenic
+
+In vitro antimicrobial activity of ABU cell‐free supernatants against UPEC in an artificial urine medium.
+
+The asterisks indicate the levels of significance:
+
+denotes
+
+denotes
+
+denotes
+
+The stability of the bioactivity was analyzed by altering the pH and temperature conditions. In general, the CFSs of the ABU isolates did not lose bioactivity when exposed to highly acidic conditions (pH 2.5) (Appendix Figures
+
+The effect of pH, temperature, and proteinase K on the antimicrobial activity caused by the cell‐free supernatants against uropathogenic
+
+The effect of pH on the antimicrobial activity of the cell‐free supernatants against UPEC strains.
+
+The asterisks indicate the levels of significance:
+
+denotes
+
+denotes
+
+denotes
+
+The CFSs of the ABU isolates generally remained stable following exposure to temperatures of 4°C (Table
+
+The effect of temperature on the antimicrobial activity of the cell‐free supernatants against UPEC strains.
+
+The asterisks indicate the levels of significance:
+
+denotes
+
+denotes
+
+denotes
+
+Proteolytic treatment with proteinase K resulted in the loss of inhibitory activity of the CFS from all the ABU isolates against every UPEC (Appendix Figures
+
+
+
+BAGEL4 analysis was completed on this genome and seven AOIs were identified. Five out of the seven bacteriocin sequences were missing core peptides, accessory genes, or both. Therefore, it was predicted that these were inactive and/or truncated operons. BAGEL4 predicted a colicin E9 (ColE9) operon, which also encoded colicin immunity proteins. BLASTP analysis of the putative core peptide revealed it was 99.83% identical to a type VI secretion system tube protein TssD, with only one amino acid difference. The predicted immunity proteins showed 100% identity to colicin immunity proteins. A microcin H47 (MccH47) was also predicted by BAGEL4. The predicted core peptide (MchB
+
+(a) Microcin H47 operon predicted by BAGEL4 and antiSMASH 7.0 in
+
+The urobiome as a source of microbiome‐based therapies has lately become an area of significant interest (Kenneally et al.,
+
+All eight ABU isolates reduced the growth parameters of two or more UPEC whilst, in a previous study, the CFS of only four isolates diffused and inhibited UPEC growth using agar‐based techniques (Kenneally et al., submitted). ABU isolates that exhibited activity against five or more UPEC strains were chosen for further analysis, with a particular focus on those showing activity against UPEC 3 and UPEC 6 as they were both resistant to treatment from most ABU isolates. Four strains corresponded to the lead inhibitors in the previous study:
+
+After exposure to acidic conditions (pH 2.5), both
+
+Bioactivity of the CFSs generally remained significant after exposure temperatures of 4°C, which is ideal for short‐term storage. Typically,
+
+Mercer and co‐authors (
+
+
+
+Two putative bacteriocin core peptides were identified in SK‐106‐1, a ColE9 and a MccH47. BLASTP revealed the ColE9 core peptide was 99.83% identical to a type VI secretion system tube protein TssD (hemolysin‐coregulated protein [Hcp]) as there was only one amino acid difference. Hcp contributes to interbacterial interactions, allowing a donor to deliver virulent proteins and toxic effectors to receiving organisms (Russell et al.,
+
+Whilst agar diffusion assays are routinely used for detecting bacteriocin producers, the turbidimetric assay provided a more informative screen. CFSs from all nine ABU isolates were shown to be significant against two or more UPEC as opposed to only four ABU isolates exhibiting bacteriocin‐like diffusion in agar. Notably, the antimicrobial activity caused by
+
+Overall, our screen of ABU isolates against UPEC resulted in the identification of putative bacteriocin operon in
+
+
+
+None declared.
+
+None required.

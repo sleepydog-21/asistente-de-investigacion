@@ -1,0 +1,79 @@
+The bacterial order
+
+The bacterial flagellum is a complex nanomachine that is assembled sequentially, starting from a motor that is anchored in the membrane(s) and ending in the filament composed of numerous subunits of flagellin [
+
+The aim of the present study was to provide a comprehensive overview of the distribution and evolution of flagellar systems in the
+
+The prerequisite for reliable insights into flagellar evolution was the establishment of a robust phylogenomic reference tree. Accordingly, the selection of 306
+
+The distribution of flagellar systems in 306
+
+Phylogenies of the
+
+Co-localization analysis of FGCs and plasmid replication systems revealed 22 FGCs located on extrachromosomal replicons (
+
+A comparison of the archetypal
+
+Comparison of
+
+Out of the five completely sequenced
+
+In order to identify genes essential for swimming motility of
+
+Within the FGC, 30 of the 36 genes were hit (
+
+Outside the FGC, only eight genes were identified as essential for motility (
+
+The flagellum is built sequentially from the inner- to the outermost part, spanning two membranes from the cytosol into the extracellular space (
+
+None of the four CPs were found in the exoproteome. Swimming motility could be restored by genetic complementation in all four mutants (
+
+Next, we used electron microscopy to test whether in particular ΔCP1 was still able to assemble a flagellum. Only few flagellated cells and additionally some broken flagella were found in the wild type (Supplementary Figure S3A). No flagella were detected in the transposon mutant of
+
+We complemented the three
+
+Three signaling pathways were affected by knockouts of the CtrA phosphorelay: (i) The
+
+Two traits were exclusively regulated in the
+
+We next compared the new
+
+Similarities and differences were found for the shared regulatory genes (
+
+A tight adherence (TAD) pilus gene cluster associated with roseobacter dendritic motility [
+
+A phylogenetically broad taxon sampling with more than 300 genomes allowed us to draw reliable conclusions about the origin, evolution and current distribution of three different flagellar systems in
+
+All three flagellar types are present in
+
+The synchronicity of
+
+Our systematic analysis of genes that are essential for swimming motility in
+
+The archetypal
+
+We found no quorum sensing genes being essential for motility. This is in accordance with the upregulation of flagella genes and increased motility previously observed in
+
+Differences in the regulation of the denitrification genes between
+
+The control of motility has been suggested to be the ancient function of the alphaproteobacterial CtrA phosphorelay [
+
+This study was focused on an important roseobacter model organism that possesses only the main
+
+For multilocus sequence analyses (MLSA), the core genome of 306
+
+The distribution of flagellar systems in the 306
+
+Genes that were single or the first in an operon were cloned together with the upstream intergenic region into the broad host range expression vector pBBR1-MCS5. If the gene was inside an operon, the constitutively active gentamicin promoter was cloned in front of the ORF. Precultures for experiments were grown under selection pressure to prevent plasmid loss while main cultures were grown without selection pressure.
+
+The flagellar motility of
+
+Extracellular proteins were prepared from filtered (0.22 μm) culture supernatants of mid-exponential cultures as described before [
+
+Peptides (corresponding to 1μg protein) were separated by nanoLC (Ultimate 3000 nanoRSLC, ThermoFisher Scientific, Germering, Germany) equipped with a 25 cm analytical column (C18, 2 μm bead size, 75 μm inner diameter; ThermoFisher Scientific) operated in trap-column mode (C18, 5 μm bead size, 2 cm length, 75 μm inner diameter; ThermoFisher Scientific) using a 180 min linear gradient as previously described [
+
+Samples were fixed with 2% glutaraldehyde and washed twice in TE buffer (10 mM Tris, 2 mM EDTA, pH 6.9), dehydrated with a graded series of acetone (10, 30, 50, 70, 90 and 100%) for 15 min on ice and further dehydrated in 100% acetone at room temperature. After critical-point drying with liquid CO
+
+Total RNA was isolated with the RNeasy kit (Qiagen, Hilden, Germany) according to the manufactureŕs protocol and including the optional DNase digestion step. Depletion of rRNA was performed with the mRNA Ribo-Zero magnetic kit (Epicentre, Madison, WI, USA) according to the manufacturer’s instructions. The library was prepared from ribosomally depleted total RNA using the Scriptseq v2 RNA-seq (RNA sequencing) library preparation kit (Epicentre) according to the manufacturer’s protocol. The libraries were sequenced on Illumina HiSeq2500 (Illumina, San Diego, CA, USA) in a 50 cycles, single ended run. The demultiplexed raw fastq files were quality controlled using the FASTQ-mcf suite (
+
+The R package EdgeR was used for assessing differential gene expression [

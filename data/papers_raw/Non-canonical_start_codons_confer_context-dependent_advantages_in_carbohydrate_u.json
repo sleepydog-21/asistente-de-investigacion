@@ -1,0 +1,11 @@
+{
+  "id": "39160293",
+  "title": "Non-canonical start codons confer context-dependent advantages in carbohydrate utilization for commensal E. coli in the murine gut.",
+  "doi": null,
+  "authors": "Cherrak Y, Salazar MA, Näpflin N, Malfertheiner L, Herzog MK, Schubert C, von Mering C, Hardt WD",
+  "journal": "Nature microbiology",
+  "year": "2024",
+  "abstract": "Resource competition is a driver of gut microbiota composition. Bacteria can outcompete metabolically similar rivals through the limitation of shared growth-fuelling nutrients. The mechanisms underlying this remain unclear for bacteria with identical sets of metabolic genes. Here we analysed the lactose utilization operon in the murine commensal Escherichia coli 8178. Using in vitro and in vivo approaches, we showed that translation of the lactose utilization repressor gene lacI from its native non-canonical GTG start codon increases the basal expression of the lactose utilization cluster, enhancing adaptation to lactose consumption. Consequently, a strain carrying the wild type lacI GTG start codon outperformed the lacI ATG start codon mutant in the mouse intestine. This advantage was attenuated upon limiting host lactose intake through diet shift or altering the mutant frequency, emphasizing the context-dependent effect of a single nucleotide change on the bacterial fitness of a common member of the gut microbiota. Coupled with a genomic analysis highlighting the selection of non-ATG start codons in sugar utilization regulator genes across the Enterobacteriaceae family, our data exposed an unsuspected function of non-canonical start codons in metabolic competition.",
+  "source": "PubMed",
+  "pmcid": "PMC11445065"
+}

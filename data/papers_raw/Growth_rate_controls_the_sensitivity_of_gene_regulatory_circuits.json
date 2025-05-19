@@ -1,0 +1,11 @@
+{
+  "id": "40279435",
+  "title": "Growth rate controls the sensitivity of gene regulatory circuits.",
+  "doi": null,
+  "authors": "Julou T, Gervais T, de Groot D, van Nimwegen E",
+  "journal": "Science advances",
+  "year": "2025",
+  "abstract": "Microbes adapt to their environments using gene regulatory switches that sense environmental signals and induce target genes in response. Mathematical modeling predicts that, because growth rate sets the intracellular dilution rate, the sensitivity of regulatory switches to chemical cues systematically decreases with growth rate. We experimentally validate that the concentration of inducer required to activate",
+  "source": "PubMed",
+  "pmcid": "PMC12024649"
+}

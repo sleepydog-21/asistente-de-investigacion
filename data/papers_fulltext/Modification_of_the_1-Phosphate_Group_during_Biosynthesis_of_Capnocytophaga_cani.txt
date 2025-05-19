@@ -1,0 +1,99 @@
+Some Gram-negative bacteria have evolved different modifications of their lipid A structure, leading to a reduced recognition by the host and sensitivity to cationic antimicrobial peptides (CAMP) (
+
+We have previously characterized the lipid A structure of
+
+Structures of
+
+We have identified
+
+The bacterial strains used in this study are listed in
+
+Bacterial strains and plasmids used in this study
+
+Genetic manipulations of wild-type (wt)
+
+Oligonucleotides used in this study
+
+In the oligonucleotide name (e.g., lpxE-A), the target gene is shown first and the PCR primer order (A, B, C, D, E, or F) is shown second. Forward and reverse orientations are indicated by fw and rev, respectively, at the end of the oligonucleotide name. tetKO refers to a knockout of the corresponding gene by introduction of a tetracycline resistance gene.
+
+Plasmid pMM47.A was used for expression of LpxE and EptA (
+
+HEK293 cells stably expressing human Toll-like receptor 4 (hTLR4), myeloid differentiation factor 2 (MD-2), cluster of differentiation antigen 14 (CD14), and a NF-κB-dependent reporter (secreted embryonic alkaline phosphatase) were from InvivoGen (HekBlue human TLR4). Growth conditions and endotoxicity assay were as recommended by the supplier (InvivoGen). Briefly, the desired amounts of heat-killed bacteria were placed in a total volume of 20 μl (diluted in PBS) and distributed in a flat-bottom 96-well plate (BD Falcon). A total of 25,000 HekBlue human TLR4 cells in 180 μl were then added to each well, and the plate was incubated for 20 to 24 h at 37°C and 5% CO
+
+Polymyxin B sulfate was obtained from Sigma-Aldrich. The MIC was determined by the agar dilution method based on the CLSI/NCCLS recommendations (
+
+The
+
+Compositional analysis of the lipopolysaccharide (LPS) from the wt
+
+Lipid A was isolated from lyophilized
+
+Lipid A structures were assessed by negative- and positive-ion matrix-assisted laser desorption ionization–time of flight mass spectrometry (MALDI-TOF MS). Lyophilized lipid A was extracted in chloroform-methanol, and then 1 μl was mixed with 1 μl of norharmane MALDI matrix. All MALDI-TOF MS experiments were performed using a Bruker Microflex MALDI-TOF mass spectrometer (Bruker Daltonics, Billerica, MA). Each spectrum was an average of 300 shots. Electrospray (ES) tuning mix (Agilent, Palo Alto, CA) was used for calibration. Data were analyzed using Bruker Daltonik flexAnalysis software.
+
+Bacteria were harvested from blood agar plates, washed once in 1 ml of PBS, and adjusted to an optical density at 600 nm (OD
+
+The genome of
+
+Schematic representation of the proposed enzymatic activity of LpxE, EptA, and LpxF in the biosynthesis of
+
+EptA has been proposed not to be active on lipid A, in case the 1-phosphate has not been removed before by LpxE (
+
+The 1-phospho lipid A variant predicted for Δ
+
+To study the endotoxic activity after the removal of the 1-phosphate or the addition of an
+
+Effect of
+
+Complementation of the deleted genes with plasmid-borne genes expressed from the
+
+To exclude a strong impact on TLR4 activation upon mutation of
+
+Lipid A modifications have been shown to not only affect endotoxicity but also to alter resistance to CAMP such as polymyxin B (
+
+Effect of
+
+The
+
+The Δ
+
+It is noteworthy that one would expect the mutation of
+
+In order to validate the enzymatic activities proposed for LpxE and EptA and the predicted two-step enzymatic mechanism, we performed MS-based structural analysis of isolated lipid A species of the corresponding deletion mutants. One of the predicted lipid A structures, the 4′- and 1-hydroxy lipid A in Δ
+
+In the negative-ion mode, MS analysis confirmed the wt lipid A (calculated
+
+MS analysis and interpretation of lipid A variants in wt and
+
+0 indicates that the component is absent, and 1 indicates that the component is present once.
+
+Ion [M-H
+
+Value for the [M-H
+
+Value for the [M+Na
+
+Mass spectrometric analysis of lipid A of the indicated strains as analyzed by MALDI-TOF MS in the negative-ion mode.
+
+In the negative-ion mode, all deletion mutant strains (Δ
+
+In order to further confirm the postulated enzymatic mechanisms, we performed negative-ion mode MS analysis also on complemented mutants (see Fig. S2 in the supplemental material). The Δ
+
+Additional peaks measured at an
+
+We conclude from these complementation experiments that the
+
+In the positive-ion mode, MS analysis confirmed the wt lipid A (calculated
+
+Mass spectrometric analysis of lipid A of the indicated strains as analyzed by MALDI-TOF MS in the positive-ion mode.
+
+According to the proposed model, the major and representative lipid A molecule of the Δ
+
+We further performed positive-ion mode MS analysis on complemented mutants (see Fig. S3 in the supplemental material). The Δ
+
+Additional peaks measured at
+
+We conclude from these complementation experiments that the
+
+Overall, 1-phospho lipid A was validated as the main lipid A variant in Δ
+
+The lipid A modification described in this work clearly represents a virulence factor, since it dramatically reduces recognition and killing by the host's innate immune system. However, human infections are rare events and dead ends for

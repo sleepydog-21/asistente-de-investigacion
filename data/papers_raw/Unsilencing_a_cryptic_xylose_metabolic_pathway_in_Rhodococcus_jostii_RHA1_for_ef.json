@@ -1,0 +1,11 @@
+{
+  "id": "40229808",
+  "title": "Unsilencing a cryptic xylose metabolic pathway in Rhodococcus jostii RHA1 for efficient lipid production from lignocellulosic biomass.",
+  "doi": null,
+  "authors": "Acedos MG, De la Torre I, Barriuso J, García JL",
+  "journal": "Journal of biological engineering",
+  "year": "2025",
+  "abstract": "Rhodococcus jostii RHA1 is an oleaginous bacterium that has attracted considerable attention due to its capacity to use different carbon sources to accumulate significant levels of triacylglycerols that might be converted into biofuels. However, this strain cannot transform xylose into lipids reducing its potential when growing on saccharified lignocellulosic biomass. In this work, we demonstrate that wild type R. jostii RHA1 can be evolved by adaptive laboratory evolution (ALE) to metabolize xylose without engineering heterologous metabolic pathways in the host. We have generated a phenotypically adapted ALE-xyl strain able to use xylose as the sole carbon and energy source more efficiently that an engineered recombinant strain harbouring heterologous xylA and xylB genes encoding a xylose isomerase metabolic pathway. The R. jostii RHA1 ALE-xyl strain accumulates lipids very efficiently using xylose as substrate, but even more importantly it can consume glucose and xylose at the same time. Transcriptomic analyses of ALE-xyl strain growing with glucose or xylose revealed the existence of a silent pentose metabolizing operon that is overexpressed in the presence of xylose. The detection of a xylose reductase activity together with the presence of xylitol in the cytoplasm of ALE-xyl strain suggests that xylose is consumed by a reductase pathway. This study demonstrates that, in cases where a clear phenotypic selection method is available, ALE can be used to improve very efficiently industrial microbial strains without using genetic engineering tools. Strategies focused to exploit the silent phenotypic flexibility of microorganisms to metabolize different carbon sources are powerful tools for the production of microbial value-added products using saccharified lignocellulosic wastes.",
+  "source": "PubMed",
+  "pmcid": "PMC11998424"
+}

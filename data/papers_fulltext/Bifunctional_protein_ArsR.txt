@@ -1,0 +1,73 @@
+Arsenic, classified as a Group 1 human carcinogen by the International Agency for Research on Cancer, is the most prevalent water and environmental toxin [
+
+In the environment, inorganic arsenic exists in various chemical forms, including arsenate [As(V)], arsenite [As(III)], elemental arsenic [As(0)], and arsine [As(− 3)]. The predominant forms in oxic and reducing environments are As(V) and As(III), respectively [
+
+Arsenic resistance (
+
+In this study, a roxarsone-resistant strain, M20, was isolated from aquaculture sewage and identified as
+
+Aquaculture sewage was sampled from the influx of a wastewater treatment facility in Shandong Province, China. The sewage samples were diluted and spread onto Luria–Bertani (LB)-agar plates (0.5% w/v yeast extract, 1% w/v tryptone, 1% w/v sodium chloride, 2% w/v agar) containing 30 µM roxarsone (filtered through a 0.22 µM micro-filtration membrane) (Sigma Co., Shanghai, China), which were then incubated at 28 °C for 24 h. All colonies with different phenotypes on the plate were selected and cultivated three to five consecutive times on LB-agar medium containing 30 µM roxarsone to obtain pure cultures of single colonies. One colony, named M20 (Table
+
+The genome of strain M20 was sequenced using the Nanopore and BGISEQ-500 platform (BGI, Wuhan, China) and assembled using Unicycler software [
+
+The genetic contexts of the
+
+The
+
+The M20 strain was cultured on LB-agar plates to determine the minimum inhibitory concentrations (MICs) of Rox(V), NaH
+
+The interactions between ArsR
+
+The ability of ArsR
+
+Strain M20 was isolated from aquaculture sewage under the pressure of 30 µM roxarsone, an organic compound of arsenic. MIC analysis revealed that strain M20 was also resistant to inorganic arsenic compounds, such as NaH
+
+
+
+Genome annotation of
+
+No arsenic methylation gene was found in the
+
+
+
+No arsenic methylation gene was found in the
+
+After induction by IPTG, the MIC of NaH
+
+
+
+To further investigate the function of ArsR
+
+Unlike the typical ArsR [Protein Data Bank Code (PDB): 1R1T], which contains five α-helixes and two antiparallel β-sheets [
+
+The MTD of ArsR
+
+
+
+Molecular docking analysis showed that the TRD of the fusion protein ArsR
+
+We tested three biotin-labeled probes of the
+
+
+
+The process of arsenic methylation was originally proposed to be a detoxification mechanism, by which trivalent inorganic arsenic is biotransformed to a less toxic pentavalent methylated form. The MTD of ArsR
+
+The methyltransferase activity of ArsR
+
+
+
+Arsenic is a metalloid found worldwide [
+
+The
+
+
+
+The methylation and demethylation of arsenic by microbes are important processes in the arsenic biogeochemical cycle [
+
+The data presented here indicate a contribution to arsenic resistance mediated by the methyltransferase–transcriptional regulator fusion protein ArsR
+
+Below is the link to the electronic supplementary material.
+
+
+
+Additional file 1. Table

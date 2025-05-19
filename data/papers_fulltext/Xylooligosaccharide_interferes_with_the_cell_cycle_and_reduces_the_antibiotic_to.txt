@@ -1,0 +1,49 @@
+Avian pathogenic
+
+Xylooligosaccharide (
+
+The single colony of APEC O78 strain (CVCC1570, China Veterinary Culture Collection Center) was revived and inoculated into LB broth medium. A total of 200 μL of APEC O78 inoculum (1 × 10
+
+After cultured in M9 medium (carbon-free) or with added different carbon sources for 3 h, APEC O78 inocula were centrifuged and the bacterial cells were collected. RNA samples were then extracted from bacterial cells using the VeZol-Pure Total RNA Isolation Kit (Vazyme, Nanjing, China) following the manufacturer's instructions. The extracted RNA samples were dissolved in RNase-free ddH
+
+Primer sequences for quantitative real-time PCR.
+
+rpoA, RNA polymerase subunit alpha-encoding gene; xylA, xylose isomerase gene; xylB, xylokinase gene; xylE, xylose-proton symporter gene; xylF, xylose-binding periplasmic protein-encoding gene; xylG, xylose import ATP-binding protein-encoding gene; xylH, xylose transport system permease protein-encoding gene; nrdA, ribonucleoside-diphosphate reductase 1 subunit alpha-encoding gene; nrdB, ribonucleoside-diphosphate reductase 1 subunit beta-encoding gene; ftsZ, cell division protein FtsZ-encoding gene; ftsN, cell division protein FtsN-encoding gene; ihfB, integration host factor subunit beta-encoding gene; zapE, cell division protein ZapE-encoding gene; dnaA, chromosomal replication initiator protein-encoding gene.
+
+The major monomer components (xylobiose, xylotriose and xylotetraose) of XOS were used as the ligands, while the xylose isomerase (XylA) and xylose-binding periplasmic protein (XylF) of
+
+Because of the high tolerance or resistance of APEC to β-lactam antibiotics (
+
+Data are presented as mean ± standard error of the mean (n = 6). All data were analyzed by the Student's t test (for comparisons between 2 groups) or 1-way ANOVA (for comparisons among 3 or more groups) of SPSS 25.0. Differences among groups were identified by the Duncan's multiple comparisons. Significance was defined as
+
+As shown in
+
+Effect of xylooligosaccharide (XOS) addition (A) or as the sole carbon source (B) on the growth curves of avian pathogenic
+
+As shown in
+
+Effect of xylooligosaccharide (XOS) (A) and its major monomer components (B) on the relatve mRNA expression of selected xylose operon genes in avian pathogenic
+
+Based on the above-described results, the targets XylA (xylose isomerase) and XylF (xylose-binding periplasmic protein) encoded by xylA and xylF genes were selected for the molecular docking simulation between XOS and xylose operon-encoded proteins in
+
+The binding free energy of the main monomer components (xylobiose, xylotriose and xylotetrose) of xylooligosaccharide binding with xylose isomerase (XylA) and xylose-binding periplasmic protein (XylF) in
+
+Molecular docking simulation of the binding conformations of the main monomer components (xylobiose, xylotriose and xylotetrose) of xylooligosaccharide with xylose isomerase (XylA) and xylose-binding periplasmic protein (XylF) in
+
+As shown in
+
+Effect of xylooligosaccharide (XOS) on the expression of cell cycle-related genes in avian pathogenic
+
+As shown in
+
+Effect of xylooligosaccharide (XOS) on the sensitivity of avian pathogenic
+
+As a functional oligosaccharide, XOS has long been accepted as a kind of prebiotics to selectively stimulate the growth of certain beneficial bacteria (probiotics) and then competitively repress the growth of harmful bacteria in animal gut (
+
+Generally, XOS is degraded by certain beneficial bacteria (e.g.
+
+It has been well-established that the cell metabolism of bacteria is closely associated with certain physiological phenotypes including cell cycle progression and antibiotic sensitivity in bacteria (
+
+XOS had no direct bacteriostasis against APEC O78 and was unable to be utilized/metabolized by this strain. Nevertheless, the major components of the nonmetabolizable oligosaccharide XOS had potentials to bind to and activate xylose transport- and metabolism-related proteins encoded by xylose operon, by which XOS might serve as an antimetabolite and exert antimetabolic actions for APEC O78. This could be at least partially responsible for the observed ability of XOS to interfere with the cell cycle and reduce the antibiotic tolerance of APEC O78. The findings in this study expand our fundamental knowledges concerning the functions of XOS and provide a basis for exploring novel strategies to lower the antibiotic tolerance of APEC, thus being anticipated to better control APEC infection in poultry production.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

@@ -1,0 +1,41 @@
+Phenylurea herbicides, including diuron and linuron, are commonly used as herbicides or pesticides and contain a single chlorinated phenyl ring with a substituted urea moiety. They are widely used to protect agricultural plants, including cotton, fruits, cereals, field crops, and orchards. Diuron is generally found at trace concentrations of milligrams per liter in drainage water from agricultural soils [
+
+Some bacteria capable of degrading diuron and linuron to mono- or dichloroaniline, such as 34DCA and 4-chloroaniline, have been reported [
+
+DNA manipulations, including genomic DNA isolation, nucleotide sequencing, and nucleotide sequence analysis, were performed as previously described [
+
+After the extraction of genomic DNA from strain GFJ2, DNA quality and quantity were assayed using a Qubit 2.0 fluorometer (Life Technologies, Carlsbad, CA, USA). Genomic DNA was sequenced using single-end sequencing with a 454 GS FLX Titanium system (Roche, Basel, Switzerland), paired-end sequencing with a MiSeq system (Illumina, San Diego, CA, USA), and a PacBio RS II sequencer (PacBio, Menlo Park, CA, USA). Sequencing data were assembled using Newbler ver. 2.6 (Roche). Annotation was performed using the NCBI Prokaryotic Genome Annotation Pipeline ver. 3.1 [
+
+The cells of strain GFJ2 were grown at 30 °C in 100 mL of W medium containing 10 mM succinate, with or without 1 mM 34DCA. After the incubation, the resulting cells were harvested using centrifugation, washed with RNA protect bacterial reagent (QIAGEN, Hilden, Germany), and stored at −80 °C. Total RNA was extracted from the cells as previously described [
+
+Single-stranded cDNA was synthesized from 1.0 µg RNA using ReverTra Ace reverse transcriptase (Toyobo, Osaka, Japan) with random hexamer primers in a 30 μL reaction mixture. The cDNA was subjected to reverse transcription (RT)-PCR and quantitative (q)RT-PCR analyses. A qRT-PCR analysis was carried out using dcdA_F (ACTGACGGCCGAGTATGAGC)- and dcdA_R (GCACGCTGTGGCTTATCGAA)-specific primers with a StepOne real-time PCR system (Thermo Fisher Scientific, Waltham, MA, USA). To normalize the amount of RNA in each sample, the 16S rRNA gene was used as an internal standard, as previously described [
+
+The coding regions containing
+
+To determine the function of the
+
+The genome sequence of
+
+All assays were repeated three times. Data are presented as the means ± the standard deviations (SDs) of independent experiments. Error bars represent standard error. The levels of significance were calculated using independent Student’s
+
+To understand the genetic background of GFJ2, its genome sequence was determined using MiSeq, a PacBio RS II system, and Sanger sequencing. The final complete sequence of the GFJ2 genome consisted of one chromosome (3,438,298 bp; 43.1% G+C) and seven plasmids (pGFJ1: 86,373 bp, 38.9% G+C; pGFJ2: 78,649 bp, 37.0% G+C; pGFJ3: 10,453 bp, 37.0% G+C; pGFJ4: 9416 bp, 38.7% G+C; pGFJ5: 5086 bp, 39.4% G+C; pGFJ6: 4066 bp, 38.2%G+C; and pGFJ7: 4008 bp, 37.3% G+C). The genome contained 21 rRNAs, 75 tRNAs, and 3309 protein-encoding genes. These sequences were deposited in GenBank under accession numbers CP016896.1 to CP016903.1.
+
+Two pathways have been proposed for the degradation of 34DCA. The first is the pathway in which 34DCA is converted by dechlorination to 4-chloroaniline, which is then metabolized by an aromatic ring cleavage reaction. The other is a pathway in which 34DCA is converted to aniline by two dechlorination steps followed by aromatic ring cleavage and then metabolized [
+
+To examine the operon structure of the
+
+To investigate the transcriptional induction of the
+
+To clarify whether
+
+To determine the functions of the
+
+To characterize the
+
+The present study characterized the functions of genes and enzymes involved in the degradation of 34DCA by
+
+The deduced amino acid sequence of
+
+In the present study, transcriptional analyses indicated that the
+
+The present study provides important insights into the effective application of

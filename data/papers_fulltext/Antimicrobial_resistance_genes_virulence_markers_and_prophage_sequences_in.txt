@@ -1,0 +1,75 @@
+During the last two decades, whole-genome sequencing (WGS) has become the affordable tool that has the capacity to revolutionize different domains including genetics, microbiology, epidemiology and public health surveillance. The evolution of the current WGS technologies allowed to rapidly increase the realization of bacterial genome sequencing projects (
+
+Recently, WGS has been successfully used in our previous studies to assess the genetic diversity of
+
+In this study, we sought to investigate the whole genome of 45
+
+45
+
+List of 45 Samonella Enteritidis strains sequenced for comparison.
+
+Antibiotic susceptibilities of
+
+Genomic DNA was extracted using a MagNA Pure 96 DNA and Viral NA Small Volume Kit (Roche Life Science). Sequencing libraries were prepared with a Nextera XT DNA sample preparation kit (Illumina, Inc., San Diego, CA) and sequenced on an illumina NextSeq 500 platform (Illumina, San Diego, CA, USA) with 100 to 150-bp paired-end protocol according to the manufacturer's instructions. A threshold of 30X minimum coverage was applied. Genome sequences were assembled using SPAdes software V.3.6.0 with default settings (
+
+Antimicrobial resistance genes were searched using the ResFinder database (
+
+SNPs annotations were obtained using SnpEff v4.121 with Ensembl gene annotation database for
+
+Complete genome sequences of these
+
+A phylogenetic analysis based on 806 SNPs revealed the existence of two lineages named A and B with 345 to 470 SNPs difference. Examination of individual lineage revealed that lineage A grouped twenty-six isolates with two clades (C1 and C2) and five subclades (C1–1 to C1–5). Lineage B included eighteen
+
+Maximum likelihood tree of 45
+
+Variant annotations showed that 276 were silent SNPs (33.99%), 493 were missenses SNPs (61.16%) and 37 were nonsense mutations (4.59%). The distribution of 493 missense SNPs among serovar Enteritidis was examined using the COG database. This annotation reflected that the genes are scattered in an assorted range of 22 functional categories throughout the genome. The COG distribution showed that the five most prevalent groups were carbohydrate transport and metabolism [G] (11.7%), amino acid transport and metabolism [E] (9.46%), transcription [K] (9.17%), cell wall/membrane/envelope biogenese [M] (6.88%) and energy production and conversion [C] (6.59%) (
+
+Functional classification of mutated orthologues genes of 45
+
+Out of 45 isolates, 15 exhibited antimicrobial resistance (
+
+Phylogenetic tree analysis demonstrated that resistant isolates were separated in two lineages. The six isolates carrying the amino acid change Asp87Thr were grouped in the clade C2–5. The amino acid change from serine to phenylalanine at the site 83 were detected in two isolates grouped in C2–3. At the same site, the singleton isolate showed the variation from serine to tyrosine. Finally, six isolates having the mutation at the site 87 from aspartic acid to asparagine were assembled in lineage B (
+
+To elucidate genomic features of virulence, we used the SPIFinder database. This analysis identified 11 out of 23 previously described SPIs (
+
+WGS data was used to screen SPI-1 and SPI-2 genes from 45
+
+All
+
+Maximum likelihood tree of 45
+
+Finally, the virulence plasmid genes (
+
+Maximum likelihood tree of 43 plasmid sequences of
+
+We identified 15 synonymous, 20 missense and 7 nonsens mutations among the selected target genes of SPI-1and SPI-2 genes, fimbrial adherence genes and virulence plasmid genes. The most commonly mutations were changes between G and A (15 times), C and T (15 times) and C and A (9 times); the less frequent changes were those between T and A (2 times) and T and G (1 time). Regarding the mutations in each gene, we identified four missenses SNPs in fimbrial adherence genes (
+
+: Non-synonymous mutations determined in target virulence genes in 45
+
+Among SPI-1 and SPI-2 genes, we found five genes mutated with missense SNPs. The phylogenetic analysis demonstrated that two clinical isolates of lineage A carried a missense mutation in the
+
+In
+
+For the virulence plasmid genes, one clinical isolate of lineage B carried missense mutation at the site 197 (form valine to alanine) (
+
+A total of 21 prophage regions were detected using the PHASTER prophage analysis web server. Five out of these different phages were intact lysogenic phages (Salmon_118,970_Sal3; Gifsy_2; Salmon_Fels_1; Gifsy_1 and salmon_re_2010) (
+
+In the present study, a collection of 45
+
+The use of WGS became the most powerful tool for determining genomic variation especially in homogeneous bacterial genome. Several studies have demonstrated the homogeneity of S. Enteritidis (
+
+WGS has been previously applied for the prediction of antibiotic resistance genes in several microbes including the genus
+
+Prophages sequences constitute the accessory genome of bacteria and appear to be a major source of genomic variability in
+
+Many virulence genes of
+
+Among virulence factors, fimbriae have a major role in pathogenesis and a source of diversity for
+
+Virulence-associated plasmids are important genetic elements in
+
+Among the 45
+
+In conclusion, the WGS appears to be undisputed not only in typing of bacterial pathogens, epidemiological surveillance and outbreak investigation but also in functional genomics studies
+
+The authors declare that they have no competing interests.

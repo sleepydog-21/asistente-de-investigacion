@@ -1,0 +1,95 @@
+Synthetic biology aims to implement user-defined functions in biological systems by rational design and composition of natural and synthetic regulatory elements. These synthetic biological devices have shown promising demonstrations in several areas including biosensing, therapeutics and molecular computing (
+
+The synthetic RNA regulators demonstrated so far typically require specific RNA sequence contexts to achieve desired functionality. As such, the overlap of sequence domains for the regulator and the downstream open reading frame (ORF) could result in a limited insulation of gene expression and the output proteins with extended N-terminal ends for certain riboregulator designs (
+
+Another important aspect for a synthetic RNA regulator is the capacity to orchestrate the expression of multiple downstream outputs under the control of diverse input signals. Multiplexed production of a designated combination of proteins can provide an extra capacity for gene space (
+
+To address the design challenges for synthetic RNA devices, we turn to the translation coupling mechanism in polycistronic mRNA. In a polycistronic operon where RNA secondary structures near the translation initiation sites for individual cistrons prevent the translation events, the ribosomes must translate the upstream ORF and permit the unfolding of these structured mRNA regions to facilitate the translation of the downstream genes (
+
+Mechanism and demonstration of a synthetic translational coupling element (synTCE). (
+
+In this work, we introduce synTCE, designed to enhance the precision and versatility of synthetic gene networks by enabling multiplexed protein production and modular control of gene expression. By systematically investigating key internal and external sequence features, we established design principles that guide the effective implementation of synTCE. These elements were successfully integrated into diverse logic computing devices and synthetic operons, demonstrating their capacity to faithfully transmit regulatory signals and control multiple downstream genes with programmed stoichiometry. Additionally, synTCE enables precise regulation of protein N-terminal sequences, facilitating the targeted subcellular localization of proteins and allowing for signal-responsive control of cell population. By expanding the functional scope of synthetic RNA regulators, synTCE provides a versatile and reliable platform for building next-generation synthetic biological devices. The characteristic features of synTCE to coordinate complex genetic circuits with precisely controlled, multiplexed outputs can provide a powerful tool for advancing applications in metabolic engineering, biotechnology and synthetic biology, opening new possibilities for designing sophisticated gene networks and enhancing cellular functions.
+
+DNA oligonucleotides were purchased from Bionics (Seoul, Korea). Reagents used for
+
+The backbones for the plasmids used in this research were taken from the commercial vectors pET15b (ampicillin resistance, ColE1 origin), pCDFDuet (spectinomycin resistance, CDF origin), pACYCDuet (chloramphenicol resistance, p15A origin) and pCOLADuet (kanamycin resistance, ColA1 origin) from EMD Millipore (Burlington, MA, USA). All the toehold switches with synTCEs were constructed in pCOLADuet using toehold switch variants (
+
+All design processes were performed using Biopython and NUPACK 4 python packages with the following parameters: material = “rna06”, ensemble = “stacking", celsius = 37, sodium = 1.0, magnesium = 0.0 (
+
+For
+
+GFP fluorescence was measured by flow cytometry (CytoFLEX S, Beckman Coulter, Brea, CA, USA) after fixation at the Microbiome Core Research Support Center of the Korea Basic Science Institute (KBSI). The cell pellet was resuspended with the 2% (w/v) para-formaldehyde solution (Sigma Aldrich, St. Louis, MO, USA) and fixed for 15 min at room temperature. After fixation, samples were stored at 4°C until the flow cytometry analysis. The fixed cells were washed twice with 1× phosphate-buffered saline [PBS (pH = 7.2); Cat# EBP006-1000, Enzynomics]. Fixed cells were diluted by a factor of 6 into 1× PBS. Cells were detected using a forward scatter (FSC) trigger and at least 50000 events were recorded for each measurement. The cell population was gated according to the FSC and side scatter distributions as described previously (
+
+The constructs for the signal responsive localization control were expressed via T7 RNA polymerase in the
+
+To construct a lysis circuit, phage lysis associated genes (S, R, Rz and Rz1) were cloned into a plasmid containing toehold switch variants.
+
+Natural translational coupling elements can form the basis to engineer novel translation coupling devices. However, a simple adoption of natural translational coupling elements to synthetic riboregulators may not result in ideal performance. First, to precisely regulate the translation initiation step with a detailed mechanistic understanding, we chose the toehold switch as a model synthetic RNA translation regulator. The toehold switch RNA contains an RBS within a strong hairpin stem and the start codon in the bulge such that ribosome access is limited. In the presence of trigger RNA, an RNA–RNA interaction between the switch and trigger RNA disrupts the secondary structure surrounding the RBS and start codon, thereby enabling the ribosome to access the RBS and initiate translation (Figure
+
+To construct a synthetic RNA device for translational coupling, we initially designed adjoining stop–start codon configurations between the toehold switch and the GFP coding sequence (first generation in Figure
+
+To enhance ribosome loading at the downstream gene, a second RBS was introduced a few bases upstream of the overlapped stop–start codon (second generation in Figure
+
+To reduce putative
+
+We next aimed to further characterize design features that affect the efficiency of translational coupling in synTCE. First, several synTCE variants with the same RBS, but with modified sequences in the hairpin stem and different locations of stop codons were constructed (
+
+Thus, we sought to systematically examine both the internal and external sequence elements of synTCE. For the stem region of the hairpin, we first adjusted the length of the synTCE stem between 0 and 12 nucleotides. The leakage expression, presumably from
+
+Characterization and optimization of synTCE. (
+
+Next, we investigated whether sequence modification to the loop region of synTCE affects the efficiency of translation reinitiation. We first randomized the loop region of synTCE that contains the RBS sequence (
+
+The distance between the stop codon of the upstream ORF and the start codon of the downstream ORF is a crucial factor for translational coupling (
+
+Next, multiple sequence domains upstream and downstream of synTCE were investigated. Several toehold switches were introduced upstream of synTCE where all the toehold switches exhibited large dynamic ranges with at least 186.1-fold activations (
+
+In natural systems, translational coupling is often used to implement logic computation of target gene expression by introducing regulatory components that control the translation of the upstream ORF (
+
+Integration of synTCE with multi-input logic computing devices. (
+
+To implement a two-input OR gate, two switch RNAs were concatenated in the same reading frame upstream of the GFP output with or without synTCE (Figure
+
+To demonstrate a two-input AND gate, the cognate input RNA was divided into two separate domains, the toehold binding (input B) and the branch migration (input A), with the additional domains to allow the self-assembly of the two separated domains. The expression of individual input RNA A or B cannot effectively disrupt the switch hairpin structure, whereas the expression of both A and B allows the formation of a complete trigger sequence (Figure
+
+For a NOT logic implementation, a three-way junction (3WJ) repressor switch was taken for use with the synTCE architecture. A 3WJ repressor possesses a weak hairpin structure surrounding the RBS and the start codon such that the switch RNA is translationally active. However, in the presence of a cognate trigger RNA, a stable 3WJ structure forms, preventing the access of the ribosome to the RBS and the translation of the downstream output. Therefore, the 3WJ repressors can carry out the NOT gate operation as desired (
+
+Together, ribocomputing devices with synTCE demonstrated the capability to faithfully transmit the multiplexing functionality of ribocomputing designs with toehold switches to the downstream elements.
+
+Multiple-output signal processing devices through translational coupling can allow for a robust control of stoichiometry with efficient resource usage, and a sophisticated architecture with minimized coding space for the genetic circuit. Taking advantage of synTCE to transduce the upstream signal into the downstream elements, we aimed to construct a multi-output controller. By concatenating multiple ORFs using synTCE variants, multiple output signals can be controlled in response to the regulation of upstream switches.
+
+To test whether the synTCE can provide the multi-output signal processing capacity, we first designed architectures for a multi-output transcript using GFP and mCherry reporter genes either with or without synTCE (Figure
+
+Implementation of multiplexed signal processing synthetic operons using synTCE. (
+
+Furthermore, this design led to the proportional protein synthesis for the coupled downstream genes such that the relative stoichiometric ratio of GFP to mCherry was largely maintained (Figure
+
+Utilizing the capability of synTCE to generate multi-output signals, we next sought to create multi-output mediated signaling cascades (Figure
+
+The synTCE architecture provides a means to construct multi-input/multi-output logic circuits for scaling up the complexity of synthetic circuits. To test this possibility, we designed and tested two-input OR, AND and NIMPLY gates with GFP and mCherry outputs via synTCE. The robust performance for multi-input/multi-output logic circuits was demonstrated, indicating the potential for increased complexity in synthetic circuit designs (Figure
+
+Reprogramming the cellular physiology is an attractive target for synthetic RNA devices. For instance, phenotypic changes, including protein localization patterns, control of cellular motility and colorimetric changes, were achieved by synthetic riboregulators (
+
+To test the impact of the synTCE architecture on the precise control of the N-terminal ends of downstream proteins, we performed SDS-PAGE analysis of histidine-tag purified output proteins with and without synTCE (
+
+This ability to precisely control N-terminal ends for downstream proteins can be utilized for the control of cellular protein localization. For instance, N-terminal signal peptides direct the cellular localization for both natural and synthetic systems with defined peptide properties (Figure
+
+Improved cellular control via precisely controlled protein N-terminal ends by synTCE. (
+
+To further test the potential of synTCE for biocontainment, we exploited a phage lysis system. The holin-antiholin system was chosen, where holin (S105) plays a critical role in cell lysis by disrupting the inner membrane, but antiholin (S107) inhibits the hole formation (Figure
+
+Collectively, precisely controlled protein N-terminal ends can enhance the applicability of RNA regulators including protein localization or cellular population control and further allow these devices to expand the available range of effectors.
+
+Here, we present the design of synTCE integrated with synthetic riboregulators for cellular logic processing and regulatory functions in
+
+The synTCE design presented here can offer several advantageous properties. First, like natural polycistronic operons, synTCE provides the merits of an operonic platform, including robust stoichiometric maintenance and synchronized control of operon members with small encoding space (
+
+Despite advantageous features, there are certain limitations for current synTCE designs. First, the synTCE can be impaired by ribosome stalling (
+
+Translational coupling is often utilized in natural and synthetic biological systems. Balanced production of multiple enzymes (
+
+By understanding the fundamental principles of synTCE, RNA-based synthetic biology toolset can be further extended and seamlessly integrated for rational control of multiple proteins in a predetermined way. Multiplexed input and output signal processing capacity of synTCE combined with ribocomputing devices can provide a framework for single cell network motifs (
+
+Further, the synTCE design strategy may find use in the optimization of protein expression in combination with other technological developments. For instance, the efficiency of a complex genetic circuit relies on the viability and activity of its enzymes, but the regulatory context surrounding the genes for these enzymes could append unwanted peptides that interfere with their downstream functions. SynTCE enables the expression of proteins without extended N-terminal peptides, thereby mitigating the impact on circuit function (
+
+In summary, simple design rules for synTCE were presented for construction of synthetic riboregulators to yield multiplexed logical regulation and control of multiple output proteins. These same designs could be used to control the protein localization and cell viability and may find use in other application areas such as optimization of protein production and live biotherapeutics and integration with other synthetic biological devices such as RNA thermometers (

@@ -1,0 +1,11 @@
+{
+  "id": "38587638",
+  "title": "Enhancing Escherichia coli abiotic stress resistance through ornithine lipid formation.",
+  "doi": null,
+  "authors": "Bedoya-Pérez LP, Aguilar-Vera A, Sánchez-Pérez M, Utrilla J, Sohlenkamp C",
+  "journal": "Applied microbiology and biotechnology",
+  "year": "2024",
+  "abstract": "Escherichia coli is a common host for biotechnology and synthetic biology applications. During growth and fermentation, the microbes are often exposed to stress conditions, such as variations in pH or solvent concentrations. Bacterial membranes play a key role in response to abiotic stresses. Ornithine lipids (OLs) are a group of membrane lipids whose presence and synthesis have been related to stress resistance in bacteria. We wondered if this stress resistance could be transferred to bacteria not encoding the capacity to form OLs in their genome, such as E. coli. In this study, we engineered different E. coli strains to produce unmodified OLs and hydroxylated OLs by expressing the synthetic operon olsFC. Our results showed that OL formation improved pH resistance and increased biomass under phosphate limitation. Transcriptome analysis revealed that OL-forming strains differentially expressed stress- and membrane-related genes. OL-producing strains also showed better growth in the presence of the ionophore carbonyl cyanide 3-chlorophenylhydrazone (CCCP), suggesting reduced proton leakiness in OL-producing strains. Furthermore, our engineered strains showed improved heterologous violacein production at phosphate limitation and also at low pH. Overall, this study demonstrates the potential of engineering the E. coli membrane composition for constructing robust hosts with an increased abiotic stress resistance for biotechnology and synthetic biology applications. KEY POINTS: • Ornithine lipid production in E. coli increases biomass yield under phosphate limitation. • Engineered strains show an enhanced production phenotype under low pH stress. • Transcriptome analysis and CCCP experiments revealed reduced proton leakage.",
+  "source": "PubMed",
+  "pmcid": "PMC11001654"
+}

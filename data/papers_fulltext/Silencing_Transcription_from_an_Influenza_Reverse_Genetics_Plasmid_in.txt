@@ -1,0 +1,186 @@
+Plasmid-based reverse genetics (RG) systems
+enable viral genomes
+to be rapidly modified in a directed manner, providing molecular details
+about viruses that were previously very difficult to ascertain. These
+systems were first developed in the 1980’s–90’s
+for positive and negative stranded RNA viruses
+
+Influenza A virus (IAV) RG systems have been instrumental for addressing
+key questions about the viral life cycle, virus evolution, and for
+developing new influenza vaccine strategies.
+
+Multiple studies have reported
+difficulties cloning several IAV
+gene segments (e.g., PB2, PB1, and HA) into established RG plasmids,
+
+Several approaches have been reported to increase
+the stability
+of IAV RG plasmids in
+
+Our laboratory has
+frequently encountered difficulties in cloning
+specific neuraminidase (NA) and hemagglutinin (HA) gene segments from
+IAVs into a common RG plasmid (pHW). Based on this observation, we
+examined if the IAV gene segment or features in the RG plasmid are
+responsible for the instability in
+
+To assess temporal
+and species related changes in the properties
+of NA from IAVs, we generated a RG plasmid library carrying NA genes
+from human and avian H1N1 virus isolates spanning several decades.
+The library was created by an
+
+Human and avian H1N1
+NA plasmid library construction for influenza
+RG. (A) Schematic of the iVEC cloning strategy for creating the human
+and avian NA subtype 1 (N1) plasmid libraries. Each N1 gene segment
+and the pHW plasmid were amplified by PCR prior to
+
+We examined the cloning problem more thoroughly
+by comparing the
+potentially unstable avian N1 gene from 1999 (N1
+
+Previous studies have shown that
+the CMV promoter in eukaryotic expression plasmids contains
+
+Analysis of
+gene expression from the pHW plasmid in
+
+Based on the sfGFP results, we attempted to silence gene expression
+from the pHW plasmid in
+
+Analysis of gene expression from the pHW plasmid variants in prokaryotic
+and eukaryotic cells. (A) Diagrams showing how plasmid-derived gene
+transcription can be minimized by positioning (i) three cooperative
+wild type
+
+To determine if the presence of
+the
+
+To test if the regulatory elements improved
+the ability to clone the problematic avian N1
+
+pHW plasmid variants differ in the ability to
+accommodate the N1
+
+NA gene segments and the indicated
+pHW variant were amplified by PCR, mixed, and transformed into
+
+Similar to a previous study,
+
+HA (H1 and H6) gene segments are more readily
+introduced into the
+pHW/O
+
+HA gene segments and the indicated
+pHW variant were amplified by PCR, mixed, and transformed into
+
+To investigate
+if all three
+
+Location
+and number of
+
+All of our data thus far suggests that expression from the influenza
+genes in the pHW plasmid is responsible for the observed instability
+and cloning difficulties. To test this more directly, we equally divided
+the pHW/O
+
+Addition
+of two or more
+
+Influenza virus rescue using pHW/O
+
+All rescued viruses were passaged in embryonated eggs to determine
+if any differences were observed in viral propagation or protein content.
+Each virus rescued from the pHW/O
+
+Median tissue culture infectious
+doses per milliliter (TCID
+
+To examine if the delay in the viral rescue kinetics
+would be exacerbated
+in other settings, we compared the rescue of WSN from eight pHW/O
+
+During this study,
+small scale preparations of pHW-H6 and pHW/O
+
+H6 gene segment stability in pHW and pHW/O
+
+All influenza RG systems are dependent on
+
+Numerous viral and non-viral genomic
+sequences have been reported
+to be unstable or “toxic” in
+
+The native
+
+The benefit of the
+
+Cooperative repression in the native
+
+Dulbecco’s modified Eagle medium (DMEM),
+fetal bovine serum (FBS),
+
+The eight WSN (A/WSN/33) and
+PR8 (A/PR/8/34) RG plasmids were provided by Dr. Robert Webster (St.
+Jude Children’s Research Hospital). The RG plasmids were sequenced,
+and the GenBank Identifications along with the details for generating
+the NA (N1-BR18; GISAID ID: EPI1212833) RG plasmid were described
+previously.
+
+Ligation reactions
+consisting of 1 μL of the PCR insert and vector mixtures were
+transformed into 50 μL of XL10-Gold cells per the manufacturer’s
+instructions (Agilent) and cultured overnight at 37 °C on LB-agar
+ampicillin plates. Plates were imaged with an Azure C600 and 5–10
+individual or pooled colonies were randomly selected for growth on
+a master plate and for direct colony screening by PCR. For screening,
+colonies were resuspended in 1× PCR reaction buffer (RB) (10×
+RB: 200 mM Tris-HCl pH 8.8, 100 mM KCl, 60 mM (NH
+
+Plasmids
+containing the gene encoding sfGFP were transformed into XL10 Gold
+cells and amplified overnight in 10 mL LB broth cultures containing
+100 μg/mL ampicillin. The following day, 1 mL of the overnight
+culture was sedimented (10,000
+
+HEK 293T/17
+cells (CRL-11268)
+were cultured at 37 °C with 5% CO
+
+Madin–Darby canine kidney 2 (MDCK.2;
+CRL-2936) cells and HEK 293T/17 cells were cultured at 37 °C
+with 5% CO
+
+Initial passages
+(E1) were carried out by inoculating 9–11 day old embryonic
+SPF chicken eggs with 100 μL of the rescued virus either undiluted
+(PR8) or diluted 1/10 in PBS (WSN). Eggs were incubated for 3 days
+at 33 °C and placed at 4 °C for 2 h prior to harvesting.
+Allantoic fluid was harvested individually from each egg and clarified
+by sedimentation (2000g; 5 min). NA activity and HAU measurements
+were taken prior to combining each viral harvest for storage at −80
+°C or viral purification.
+
+Viruses in allantoic fluid were isolated
+by sedimentation (100,000
+
+NA activity
+measurements were performed in 96-well low protein binding black clear
+bottom plates. Reactions were initiated by bringing up each sample
+(50 μL viral cell-culture medium or 10 μL allantoic fluid)
+to a volume of 200 μL with 37 °C RB (0.1 M KH
+
+HAU titers were determined by a two-fold
+serial dilution in 96-well plates using a sample volume of 50 μL
+and PBS. Following the dilution, 50 μL of 0.5% TRBCs were added
+to each well and the plate was incubated 30 min at room temperature.
+HAU titers were determined as the last well where agglutination was
+observed. Median tissue culture infectious doses (TCID
+
+Purified virions equal
+to ∼5 μg of total viral protein were mixed with 2×
+sample buffer. Samples were heated at 50 °C for 10 min and resolved
+on a 4–12% polyacrylamide Tris-glycine SDS-PAGE wedge gel.
+Gels were stained with simple blue and imaged with an Azure C600.

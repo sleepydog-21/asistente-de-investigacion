@@ -1,0 +1,11 @@
+{
+  "id": "38369470",
+  "title": "Metabolic engineering of Synechocystis sp. PCC 6803 for the improved production of phenylpropanoids.",
+  "doi": null,
+  "authors": "Kukil K, Lindberg P",
+  "journal": "Microbial cell factories",
+  "year": "2024",
+  "abstract": "Phenylpropanoids are a large group of plant secondary metabolites with various biological functions, derived from aromatic amino acids. Cyanobacteria are promising host organisms for sustainable production of plant phenylpropanoids. We have previously engineered Synechocystis sp. PCC 6803 to produce trans-cinnamic acid (tCA) and p-coumaric acid (pCou), the first intermediates of phenylpropanoid pathway, by overexpression of phenylalanine- and tyrosine ammonia lyases. In this study, we aimed to enhance the production of the target compounds tCA and pCou in Synechocystis. We eliminated the 4-hydroxyphenylpyruvate dioxygenase (HPPD) activity, which is a competing pathway consuming tyrosine and, possibly, phenylalanine for tocopherol synthesis. Moreover, several genes of the terminal steps of the shikimate pathway were overexpressed alone or in operons, such as aromatic transaminases, feedback insensitive cyclohexadienyl dehydrogenase (TyrC) from Zymomonas mobilis and the chorismate mutase (CM) domain of the fused chorismate mutase/prephenate dehydratase enzyme from Escherichia coli. The obtained engineered strains demonstrated nearly 1.5 times enhanced tCA and pCou production when HPPD was knocked out compared to the parental production strains, accumulating 138 ± 3.5 mg L HPPD elimination enhances the tCA and pCou productivity to a similar extent. The use of PRM8 based strains as a background for overexpression of synthetic constructs, however, did not promote tCA and pCou titers, which indicates a tight regulation of the terminal steps of phenylalanine and tyrosine synthesis. This work contributes to establishing cyanobacteria as hosts for phenylpropanoid production.",
+  "source": "PubMed",
+  "pmcid": "PMC10875765"
+}

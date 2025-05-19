@@ -1,0 +1,73 @@
+The genera in the Gram-negative bacteria family named
+
+We have previously investigated the functions of genes that encode the universal stress protein (Usp) domain (Pfam protein family: pfam00582 or PF00582) in bacteria and eukaryotes [
+
+The spectrum of clinical manifestations of infection by
+
+Our first objective was to construct a representative set of universal stress protein sequences predicted from a collection of
+
+In the first stage, we retrieved a dataset of
+
+We retrieved the FASTA formatted amino acid sequences for the predicted
+
+We used the Cluster Database at High Identity with Tolerance (CD-HIT) biological sequence clustering software [
+
+Genomic context is “information gleaned from the genes surrounding a gene of interest in the chromosome” [
+
+Datasets retrieved from IMG/M by providing a list of gene identifiers (Gene ID) were the source of transcription direction (inferred from genome strand); base pair distances between the USP gene and adjacent gene; and protein family (pfam domain) annotation for the genes adjacent to the USP gene. We constructed a three-digit binary number to represent the genome strand annotation (+ or −) relative of the upstream and downstream genes to the direction of the USP gene. We assigned “1” to USP, and if the adjacent gene to the USP gene is in the same transcription direction, “1” represents the transcription direction relative to the USP gene, otherwise “0” is assigned. The possible three-digit representations and transcription direction using greater than and less than symbols are “010” (< > <), “011” (< > >), “110” (> > <), and “111” (> > >). Therefore, “111” represents that the USP gene and the two adjacent genes are in the same direction; while “010” represents that the USP gene is in a different transcription direction relative to the two adjacent genes. This representation could identify USP genes that have a different gene adjacency pattern from the majority of genomes from the same species. We designed visual analytics worksheets to integrate and group the USP genes according to gene transcription direction, location coordinates (start and stop positions), and pfam annotations of adjacent genes.
+
+The protein function annotations using Cluster of Orthologous Groups (COGs) of proteins [
+
+We searched scholarly literature databases such as Google Scholar and PubMed for studies on RNA-Sequencing (RNA-seq), transcriptome profiling, and protein–protein interaction maps of
+
+The NCBI Batch Web Conserved Domain (CD) Search Tool predicted functional sites for 1030 (98%) of the 1045 universal stress protein sequences submitted. The output of the search tool includes coordinates (e.g., G6, I7, S8, V36, I105, G106, S108, E109, S119, H120, and Q121), the complete size of the ligand (e.g., 12), and the mapped size (e.g., 11). We constructed an Amino Acid Pattern by combining the amino acids symbols (e.g., GISVIGSESHQ) and the Amino Acid Position Pattern by combining numeric position of the amino acid residue separated by an underscore (e.g., 6_7_8_36_105_106_108_109_119_120_121). In the third position of the USP functional sites patterns, there were three types of residues: aspartate (D), histidine (H) and serine (S). The residue in the third position was selected because changes in the amino acid affected ATP-binding [
+
+A use of our grouping approach is for identifying species with unique or identical functional sites patterns in
+
+The 774
+
+We used the CD-HIT biological sequence clustering software [
+
+The clustering of the 1045 USP sequences into 183 clusters also allowed us to determine the count of USP sequence clusters per group of strains (strain group). A strain group has strains, which share features such as a genome sequencing project or publication. For example,
+
+We observed 36 predicted protein domains (pfam families) annotated for genes adjacent and in the same transcription direction with
+
+Among the USP genes of the
+
+We observed that the adjacent genes annotated with “posttranslational modification, protein turnover, chaperones” biological process category occurred exclusively in gastric helicobacters (
+
+We identified two relevant genome-wide gene expression datasets to identify biological processes that regulate the gene for
+
+The GSE227450 dataset includes an RNA-sequencing (RNA-Seq) comparison of gene transcription between parental strain (Su wt) of
+
+We identified a protein–protein interaction dataset of
+
+We constructed a dataset of 1045 USP genes encoded by 1011
+
+Combining the two grouping procedures with the distance pattern as the first level and sequence similarity as the second level revealed groups with multiple
+
+We developed an online (Tableau Public) web resource consisting of interactive analytics worksheets and dashboards that allow for further data investigations and research on several aspects of
+
+The visual revealed the subgroups within clusters of USP genes according to the gene adjacency distances (base pairs between the USP gene and each adjacent gene), population ancestry of
+
+We have conducted an in-depth data investigation of universal stress proteins (USPs) encoded by genomes of
+
+Genomic context searches and analysis identified USP genes of gastric and enterohepatic helicobacters that are in adjacency or operonic arrangements with genes for oxidative stress response proteins (ATP-dependent proteases: ClpS and ClpA); and DNA uptake proteins (natural competence for transformation proteins: ComB6, ComB7, ComB8, ComB9, ComB10, ComBE, and conjugative transfer signal peptidase: TraF). The ComB6, ComB7, ComB9, and ComB10 are necessary for the first step of DNA uptake in
+
+Our analysis of datasets from transcript profiling experiments verified that
+
+We used the functional site patterns of 1030 universal stress proteins predicted with NCBI Conserved Domain search to group
+
+The 1045 USP sequences from 1014 genomes of
+
+The functional annotations and transcription direction of genes adjacent to USP genes have provided valuable insights into potential functional associations and operon arrangements. Noteworthy is the finding that genes involved in posttranslational modification, protein turnover, and chaperone functions are adjacent to USP genes exclusively in gastric helicobacters. The USPs in these species may function in protein synthesis quality control and stress response mechanisms specific to the gastric environment [
+
+The analysis of
+
+The ClpS is an adaptor that binds N-terminal residues (tyrosine, phenylalanine, tryptophan, and leucine) and delivers attached substrates to the AAA + ClpAP protease for degradation [
+
+The results of genomic context of USP genes revealed that the unclassified strain CG2_30_36_10, whose genome was from metagenomics studies of groundwater (Freshwater microbial communities from Crystal Geyser, Utah, USA, has USP gene adjacency to sulfate transport similar to
+
+This data investigation project relies on the integration of datasets from multiple sources. Consequently, changes to datasets or sources of data can influence the findings. To mitigate this limitation, we have included
+
+There has been limited knowledge on the functions of the universal stress proteins encoded in the genomes of the

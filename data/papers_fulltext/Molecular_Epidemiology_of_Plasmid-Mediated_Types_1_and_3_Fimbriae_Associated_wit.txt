@@ -1,0 +1,67 @@
+Biofilms are structured consortiums of embedded bacteria that are a survival strategy for many bacterial and fungal species, and are an adaptive response to constantly changing and potentially hostile environments (
+
+Most current research concerning biofilm-related infections is typically focused on chromosomal biofilm-associated factors of biofilm-forming bacteria (
+
+There is currently a paucity of information regarding the prevalence and distribution of plasmid-encoded type 1 fimbrial gene in the Enterobacteriaceae. However, the first plasmid-borne type 3 fimbriae encoded by the
+
+These data have indicated that type 1/3 fimbriae-encoding gene clusters can be located on conjugative plasmids and this could accelerate the spread of these two operons among Enterobacteriaceae members. In this present study, we investigated the biofilm forming abilities and drug susceptibilities in a large collection of Enterobacteriaceae isolates from diseased food producing animals. We further explored the prevalence, function, evolution, and transmission of plasmid-encoded type 1/3 fimbriae.
+
+We examined a total of 1,753 Enterobacteriaceae isolates for biofilm formation in Luria Bertani (LB) medium using crystal violet staining. We found that 123 (7.02%) were strong-biofilm forming (OD
+
+Prevalence of strong biofilm producers and antibiotic resistance among Enterobacteriaceae strains from food-producing animals in the period 2002–2019. (a) Prevalence of strong biofilm producers grouped according to isolation time. (b) Prevalence of strong biofilm producers from different sources. (c) Antibiotic resistance among Enterobacteriaceae strains possessed different biofilm formation abilities. AMP, ampicillin; CIF, ceftiofur; AMK, amikacin; GEN, gentamicin; APR, apramycin; TET, tetracycline; DOX, doxycycline; FFL, florfenicol; CIP, ciprofloxacin; OLA, olaquindox; S/T, sulfamethoxazole-trimethoprim; FOS, fosfomycin; CST, colistin; MEM, meropenem.
+
+The 123 strong and 100 moderate biofilm-forming isolates and 408 randomly selected weak and none biofilm producers were selected for antimicrobial susceptibilities. Most of the tested isolates were resistant to ampicillin, tetracycline, florfenicol, sulfamethoxazole-trimethoprim, doxycycline, and ciprofloxacin (>70%). In contrast, resistance was lower to gentamicin (42.95%), ceftiofur (39.14%), olaquindox (38.03%), apramycin (22.98%), colistin (13.79%), amikacin (10.78%), fosfomycin (14.74%), and meropenem (0.79%). Interestingly, the group of strong biofilm producers had significantly higher prevalence of resistance to florfenicol and olaquindox and a lower prevalence of resistance to ceftiofur, ciprofloxacin, fosfomycin, apramycin, and sulfamethoxazole-trimethoprim when compared to the other isolates (
+
+A total of 42 strong biofilm-forming
+
+Population structure and the presence of
+
+Multilocus sequence typing (MLST) analysis revealed 24 sequence types (STs) including a new ST (ST12379) among the 42 strong biofilm-forming
+
+To determine whether the
+
+Biofilm formation for cloned copies of
+
+In our population of 123
+
+Furthermore, we explore the distribution of
+
+The
+
+Characteristics of the plasmids encoding
+
+We further explored the distribution and evolution of
+
+The
+
+Characteristics of plasmids encoding
+
+We compared our data with the 6
+
+The current study investigated the biofilm forming ability and the potential molecular mechanism among Enterobacteriaceae isolates from a large collection of diseased food producing animals. We found that 7.01% of the isolates were strong biofilm producing
+
+In the present study, most of the strong biofilm producers were also MDR strains. In particular, they possessed significantly higher resistance levels to olaquindox and florfenicol when compared with non-strong biofilm producers. Consistently, WGS analysis showed that the strong biofilm producers harbored multiple ARGs including the florfenicol resistance gene
+
+The
+
+These results indicated that
+
+Both type 1 and 3 fimbriae belong to the group of chaperone-ushered pili that are assembled at the outer membrane by a periplasmic chaperone and an usher protein (
+
+In conclusion, the plasmid-encoded type 3 fimbriae encoded by
+
+We isolated 1,753 non-duplicate Enterobacteriaceae strains from diseased food-producing animals that included 1,272 avian samples (888 duck, 218 chicken, and 166 goose) and 481 samples from pigs from >100 farms throughout Guangdong province, China, from 2002 to 2019. These isolates were recovered directly from fecal samples or swabs from animal organs (liver, heart, or lung) from farms or diagnostic laboratories as previously described (
+
+Quantification of static biofilm production was performed using 96-well flat-bottom polystyrene microtiter plates using crystal violet, and the extent of biofilm formation was determined as previously described (
+
+Total genomic DNA of 42 strong biofilm-forming
+
+The transferability of type 1/3 fimbriae operons was examined using conjugation experiments using the streptomycin-resistant
+
+The
+
+To understand the spread of the
+
+Statistical significance for comparison of prevalence data and proportions was performed in R using the χ
+
+All genome assemblies of these strains were deposited in GenBank and were registered under BioProject accession number

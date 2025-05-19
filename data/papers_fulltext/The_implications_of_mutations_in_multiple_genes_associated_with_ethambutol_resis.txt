@@ -1,0 +1,59 @@
+Tuberculosis (TB) remains a great menace to global public health, with approximately 10.6 million new cases and 1.3 million deaths occurring annually [
+
+Ethambutol (EMB) is a crucial drug used in first-line anti-TB treatment and is also commonly recommended for treating drug-resistant TB, including MDR-TB. As an arabinose analogue, EMB effectively interferes with the arabinosyl transferase encoding by the
+
+EmbR has been reported to regulate the arabinosyl transferase activity [
+
+Overall, 159 MDR-TB isolates were obtained from 159 patients with pulmonary tuberculosis in China. These MDR-TB isolates were obtained from nine provincial tuberculosis hospitals, including Fujian (23 isolates), Guangxi (16 isolates), Guizhou (15 isolates), Hunan (22 isolates), Xizang (20 isolates), Gansu (10 isolates), Inner Mongolia (21 isolates), Xinjiang (11 isolates), and Jilin (21 isolates). H37Rv was used as a reference (ATCC 27294). All isolates were cultured on Lowenstein-Jensen (L-J) medium and freshly sub-cultured before being used for EMB susceptible testing.
+
+Minimum Inhibitory Concentrations (MIC) for EMB were determined using the Sensititre® plates (Thermo Fisher Scientific Inc., Cleveland, Ohio, USA), and all steps were carried out in accordance with the manufacturer’s instructions. According to previous reports
+
+Genomic DNAs of all 159 MDR-TB isolates were extracted using the cetyltrimethylammonium bromide (CTAB) methods described in a previous report [
+
+Whole Genome Sequencing was employed to identify nonsynonymous mutations within the regions associated with EMB resistance, such as
+
+All novel mutations observed within
+
+PCR primers for amplification and sequencing
+
+A multivariate regression model evaluated the association between mutations and EMB MICs. The linear trend between the mutated type and EMB MICs category was assessed with the exact Cochran-Armitage test. A
+
+Table
+
+Nonsynonymous mutations in EMB resistance-associated genes among 159 multidrug-resistant isolates
+
+Among the 114 EMB-resistant isolates, 109 isolates carried nonsynonymous mutations in the EMB resistance-associated genes (Table
+
+Most mutations in the EMB resistance-related genes occurred in emb
+
+The next most common mutations were mainly in the
+
+The
+
+Since 23.3% of isolates (37/159 isolates) had more than one mutation within the EMB resistance-related genes, the association between EMB resistance and mutations was evaluated using multivariate regression (Table
+
+Logistic Regression multivariate model between mutations and EMB resistance
+
+Among the 37 isolates with multiple mutations, 35 had at least one mutation in
+
+Relationship between mutations and different levels of EMB resistance
+
+Table
+
+Summary of sequence analysis of mutated locus and phenotypic drug susceptibility testing
+
+In this study, we measured the EMB MICs of 159 MDR-TB from China, and analyzed the mutations present in the four ethambutol resistance-associated regions. Notably, in the course of conducting drug susceptibility tests, the determination of the critical concentration for EMB was crucial, yet it was mired in controversy. Some reports suggested that the previously applied critical concentration of 4 μg/ml could result in a greater disparity between genotypic and phenotypic tests for EMB [
+
+It has been reported that EMB resistance is correlated with mutations in the
+
+Numerous reports showed that mutations at
+
+Multiple mutations within ethambutol resistance-associated genes were more likely to be found in EMB HLR isolates. Statistical analysis also showed a significant association between them. These results suggested that EMB HLR is more complex, involving multiple mutations in one or several genes. Interestingly, multiple mutations usually included at least one mutation within
+
+Our results also confirmed some EMB-susceptible isolates carrying mutations in
+
+Compared to the phenotypic MICs, the accuracy of detecting EMB resistance by DNA analysis of a single
+
+Furthermore, some novel mutations were observed in this study. Only a few single mutations, such as
+
+In conclusion, mutations within

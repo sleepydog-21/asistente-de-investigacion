@@ -1,0 +1,121 @@
+“The dream of a bacterium is to become two bacteria” [
+
+Efficient translation requires efficient initiation, elongation, and termination, as well as mRNA stability, and limits the rate of biosynthesis in both bacteria [
+
+With efficient translation initiation, translation elongation becomes rate-limiting [
+
+Translation termination in bacterial species is mediated by one or two release factors RF1 (decoding UAA and UAG) and RF2 (decoding UAA and UGA). All three stop codons can be misread by tRNAs in bacterial species [
+
+Termination efficiency also depends on the nucleotide immediately downstream of the stop codon [
+
+Almost all studies reviewed above focus on the optimization of mRNA but not on the translation machinery, which consists mainly of ribosomes, translation initiation factors, tRNAs, tRNA-charging enzymes, and release factors, as well as the energy that drives the translation machinery ([
+
+The first approach to identifying the effect of selection on translation optimization is by within-species comparisons, especially by contrasting highly expressed and low-expressed genes (HEGs and LEGs) in rapidly replicating bacteria [
+
+This paper focuses on differential selection for translation optimization among species. Relatively few studies are available, partly because of the difficulty in identifying differential selection. Occasionally, codon usage itself was taken as a proxy for selection [
+
+The second case of identifiable differential selection involves stop codons and release factors (RF1 decoding UAA and UAG, and RF2 decoding UAA and UGA) in bacteria [
+
+The third case involves phages differing in the presence of a lysogenic phase. Phage genomes in a lysogenic phase generally are not under selection for translation efficiency because the phage genome replicates by hitchhiking on the host genome. In contrast, phages without a lysogenic phase will be more commonly selected for translation optimization. This leads to the prediction that the former should exhibit stronger translation optimization than the latter, which is consistent with the empirical evidence [
+
+The fourth case involves a key component of the translation machinery, i.e., a small subunit rRNA whose functions depend on stable secondary structures. Thermophiles are expected to have longer and more GC-rich stems than mesophiles, and this prediction is empirically supported [
+
+Bacterial species differ dramatically in generation time. Under optimal culture conditions, the generation time is ~10 min in
+
+Translation machinery that needs to complete the task of protein synthesis in 10 min, as in the case of
+
+We include nine bacterial species with completely sequenced genomes and a well-documented generation time from the shortest to the longest among mesophiles under optimal growth conditions (
+
+The optimal growth temperature for the first eight species in
+
+The RefSeq genomic sequences for the nine species were downloaded from GenBank by using the accession numbers in
+
+The RNA secondary structure could embed important translation signals such as the start codon, SD sequence, and stop codon and prevent them from being decoded by the translation machinery. We measured secondary structural stability based on the minimum folding energy (MFE) implemented in DAMBE [
+
+The base-pairing between the SD sequence on mRNA and the aSD sequence on small-subunit (ssu) rRNA was hypothesized to position the start codon at the P-site to pair with the initiation tRNA [
+
+Ribosomes represent parallel protein-production factories and their abundance in
+
+The two predictions are both supported by empirical evidence (
+
+Note that an organism needs at least one
+
+Among the three canonical start codons (AUG, GUG, and UUG), the translation initiation efficiency is consistently in the order of AUG > GUG > UUG [
+
+Given that AUG is the most efficient start codon, one would predict that SGB should use more AUG codons as start codons than LGB. The AUG% in
+
+Here, the dependent variable is AUG% and independent variables include ranked generation time (RankGT), genomic GC content (GC%, which is taken as a proxy for a genomic mutation shared by both HEGs and REST genes), and gene expression (GE with two categories, HEGs and REST genes, encoded as 0 and 1, respectively). The input data (
+
+A regression analysis of the input data in
+
+Equations (3) and (4) and
+
+We should emphasize that Equations (3) and (4) are descriptive models. They do not explicitly prevent AUG% from taking values smaller than 0 or larger than 1. A sigmoidal function would have been more appropriate if there were enough data for parameter estimation.
+
+As reviewed previously, the stop codon UAA exhibits the smallest readthrough error rate among the three nonsense codons [
+
+Given that UAA is the best stop codon [
+
+A regression analysis showed that all three independent variables were statistically significant (
+
+Equations (5) and (6) and
+
+UAA usage also decreases significantly with an increasing genomic GC% (
+
+It is difficult to evaluate the impact of tRNA-mediated selection on codon usage across species because the codon adaptation index (CAI) [
+
+It is reasonable to assume that mutation bias affects both HEGs and REST genes. Thus, the difference in mean
+
+The
+
+Codons and tRNAs are expected to coevolve and adapt to each other [
+
+We calculated N
+
+We have previously used Rank
+
+The analysis above assumes that tRNA gene copy numbers in bacterial genomes are proportional to the abundances of tRNA molecules in the cell. With the availability of transcriptomic data, it has been found that the assumption is generally true, i.e., the copy number of a tRNA is highly correlated with the transcriptomic representation of the tRNA [
+
+Because the 30S ribosomal subunit requires a single-stranded mRNA region for binding [
+
+Secondary structural stability in RNA is typically measured by the minimum folding energy (MFE). An MFE equal to 0 means no secondary structure, and a stronger secondary structure corresponds to a more negative MFE value. Experiments involving engineered
+
+Secondary structural stability, as measured by MFE, decreased near the start codon, but the weakest secondary structure was observed slightly upstream of the start codon (
+
+One might argue against the interpretation that the reduced secondary structure near the translation initiation serves to avoid embedding crucial translation initiation signals such as SD sequences and start codons in a stable secondary structure. The SD sequences are purine-rich and cannot form a secondary structure within them. Thus, the reduced secondary structure near the SD sequence (
+
+One way to differentiate these two hypotheses is to consider the observation that SD sequences are mainly G-rich. Because G will base-pair with C, Hypothesis 1 (invoking selection against secondary structural stability) will predict a stronger avoidance of nucleotide C relative to nucleotide U. In contrast, Hypothesis 2 gives no reason to expect an avoidance of nucleotide C relative to U near the translation initiation signals.
+
+All nine bacterial species exhibited a decreased secondary structure near the translation initiation signals (
+
+Given that a weak secondary structure near the SD sequence and the start codon is favorable (
+
+The best model, which accounts for 98.2% of the total variation in MeanMFE in
+
+As before, we give the two regression equations separately for HEGs and the REST from the regression coefficients in
+
+Equations (8) and (9) show that, for both HEGs and REST genes, secondary structural stability increases with the generation time (MFE becomes more negative with an increasing generation time). This is consistent with our prediction that selection against the secondary structure near the translation start signals (SD sequence and start codon) is stronger in SGB than LGB.
+
+MeanMFE decreases more sharply with the GC% in Equation (9) than in Equation (8), i.e., secondary structural stability increases more rapidly with the GC% for REST genes than for HEGs. This is easy to understand if the selection against secondary structural stability is on average stronger in HEGs than in REST genes. The MeanMFE decreases by only 0.10038 (Equation (8)) for a unit increase in the GC% with the strong selection of HEGs, but decreases by 0.21009 (Equation (9)) for the same unit change in the GC% with the relatively weak selection of REST genes.
+
+The selectionist interpretation above does not consider the effect of mutations, which offers an alternative interpretation. In general, spontaneous mutations in AT-rich genomes tend to be AT-biased, based on (1) comparisons between pseudogenes and their functional counterparts [
+
+In short, although the purine-rich SD sequences (
+
+The decrease in secondary structural stability may not necessarily be related to the avoidance of embedding SD sequences and start codons. Efficiently translated yeast mRNAs (i.e., mRNAs in polysomes with high ribosome densities) often have a short poly(A) tract before the start codon [
+
+Our assumption that SGB are under stronger selection for translation efficiency than LGB appears to be valid because multiple predictions based on the assumption are consistent with the empirical evidence. First, the number of ribosome RNA operons, as well as the number of tRNA genes, increases with a decreasing generation time (
+
+One may ask why there should ever be LGB with weak selection for translation optimization, given natural selection operating to maximize growth and reproduction. There are different environments in which translation efficiency may not be a limiting factor for growth and reproduction. For example,
+
+Modern biological research aims to formulate and validate quantitative and mechanistic models. In this context, this study has several shortcomings. The first shortcoming is the inherent inaccuracy of generation time. The experimentally measured generation time sometimes varies widely among strains and among different studies. For example, the generation time is ~21 h in drug-sensitive strains of
+
+The second shortcoming of this study is the small number of bacterial species, partly because of our conscious effort to avoid species with uncertain generation times. There are various tables of bacterial generation times for more than nine bacterial species, but they often do not include original references or do not have fully sequenced genomes. Some bacterial species in Mollicutes have known generation times, e.g., ~6 h in
+
+The third shortcoming is the lack of a general conceptual framework for the impact of mutation and selection on translation optimization, one that can be used across species. Protein production from an mRNA depends on the ribosomal recruitment rate, the efficiency in forming the 70S initiation complex, the elongation efficiency and accuracy, the termination efficiency and accuracy, the stability of the mRNA, the differential amino acid and tRNA availability, and the energy level of the cell [
+
+The last point we wish to discuss is the usage of ranked variables such as the ranked generation time (RankGT). Specifically, the difference in generation time (GT) between the fast-growing
+
+Our results seem to substantiate the assumption above. For example,
+
+Detection of the impact of selection on translation efficiency is mostly performed by contrasting highly expressed genes and low-expressed genes within rapidly replicating species. We generalized such investigations to determine how differential selection for translation efficiency among different species will leave its footprints on the species-specific translation machinery. Our results suggest that selection for translation optimization is stronger in short-generation species than long-generation species, and that this differential selection strongly shapes the evolutionary trajectories of translation machineries in these species, affecting translation initiation, elongation, and termination.

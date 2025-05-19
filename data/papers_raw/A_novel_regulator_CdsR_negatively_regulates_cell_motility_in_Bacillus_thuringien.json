@@ -1,0 +1,11 @@
+{
+  "id": "39455735",
+  "title": "A novel regulator CdsR negatively regulates cell motility in Bacillus thuringiensis.",
+  "doi": null,
+  "authors": "Zhang X, Chen Y, Liu Y, Gang L, Yan T, Wang H, Peng Q, Li J, Song F",
+  "journal": "Scientific reports",
+  "year": "2024",
+  "abstract": "Cell motility increases the fitness of bacterial cells. Previous research focused on the transcriptional regulator CdsR, which represses cellular autolysis and promotes spore formation in Bacillus thuringiensis. However, the targets of CdsR are mostly unknown. Here, we reported a new function of CdsR in regulating cell motility. Mutation of cdsR results in increase of cell mobility, and a number of related genes were upregulated compared to wild type HD73. Thus, we investigated the transcription of the fla/che gene cluster, which involves in cell mobility and comprises eight operons/genes, including motAB1, cheY-yrhK, lamB-cheR, yaaR-fliG2, cheV-mogR, hag1, hag2, and yjbJ-flgG. Additionally, the motAB2 operon was discovered, which consists of homologs genes motA2 and motB2 that are like motA1 and motB1. Through promoter-lacZ fusion assays and EMSA experiments, it was discovered that CdsR directly regulates the motAB1, cheY-yrhK, lamB-cheR, yaaR-fliG2, cheV-mogR, hag1, hag2, yjbJ-flgG, and motAB2 operons by binding to their promoter regions. Importantly, it was confirmed that CdsR is a metalloregulator and the binding to promoter can be inhibited by Cu (II) ions. This research enhances our understanding of the regulation of cell mobility in B. thuringiensis.",
+  "source": "PubMed",
+  "pmcid": "PMC11511885"
+}

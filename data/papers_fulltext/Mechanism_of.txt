@@ -1,0 +1,71 @@
+Flagella are surface-attached appendages that propel bacteria cells to access favorable environments or to escape away from detrimental ones for better survival. In addition, the flagella also perform a variety of activities including chemotaxis, surface attachment, biofilm formation, host cell invasion and pathogenicity [
+
+Flagella are extremely sophisticated macromolecular machines that require a lot of energy to generate, assemble, and motivate. The flagellar genes are majorly grouped as clusters in the genome [
+
+The flagellar genes are organized into three cascades. The
+
+The strict regulation of flagellar expression and assembly guarantees that flagellar components are manufactured in nearly the same sequence in which they are required, enhancing assembly efficiency and saving energy consumption. In addition to their roles in the flagellar transcriptional network,
+
+The expression of the
+
+Of course, there are some positive regulators activating
+
+In addition,
+
+Unintentionally, we found that overexpression of
+
+We cloned the
+
+We also induced
+
+To explore the death mechanism, we used transcriptome analysis, referred to data above, the growth and induction parameters were chosen as
+
+We used bacteria that had been induced by 0.6 mM IPTG for 2.5 h (supposed to be just before death) for transcriptome sequencing and
+
+A total of 568 DEGs were identified by RNA-Seq, and the volcano plot depicts the statistically significant relationship between the change in expression ploidy and the difference in expression of DEGs, with red and green spots, indicating up- and down-regulated DEGs, respectively (
+
+To further understand the functions of the DEGs, we compared and classified the DEGs with the Gene Ontology (GO) database.
+
+Pathway enrichment analysis was performed based on the Kyoto Encyclopedia of Genes and Genomes (KEGG) database to reveal DEGs’ metabolic and signaling pathways. As shown in
+
+STRING analysis was used to explore the potential interaction network of the DEGs. The 378 up-regulated DEGs and 190 down-regulated DEGs were analyzed by PPI net, respectively. The DEGs were mainly clustered into flagellar assembly, bacterial chemotaxis, oxidative phosphorylation, carbon metabolism and amino acid metabolism, this was similar to the KEGG enrichment results. Then we analyzed the DEGs of flagellar assembly, oxidative phosphorylation and carbon metabolism,
+
+To validate the reliability of transcriptome data by RNA-seq, ten DEGs were randomly selected from different pathways (
+
+Flagellar synthesis and motility are very energy-consuming activities. Therefore, when
+
+ROS is a by-product of ATP production [
+
+To verify the over-production of ROS, we stained bacterial cells with DCHF-DA. In addition to
+
+Cellular damage occurs when ROS output is beyond the regulation of cellular homeostasis [
+
+Besides, we found that the expression of
+
+In this study, we found that overexpression of the flagellar master regulatory genes
+
+We noticed that the mechanism of bacterial lethality by
+
+ROS can induce DNA damage, posing a significant risk to intracellular homeostasis across all organisms. In the initial stages of damage response, cells undergo modifications to their chromatin structure (or nucleoid in bacteria) and employ specialized repair pathways to eliminate DNA lesions [
+
+The pentose phosphate pathway is essential for maintaining redox homeostasis under oxidative stress, and NADPH is required as a redox equivalent in the antioxidant mechanism [
+
+The
+
+A colony of
+
+Fresh LB liquid with kan and chl was inoculated with
+
+Total RNA was extracted from cells induced with IPTG or without induction (control bacteria) using FastPure
+
+The cDNA library construction and sequencing were performed at the Beijing Novogene Biotech Co. Ltd. (Beijing, China). Using a fragmentation buffer, the mRNA was cut up into tiny bits. Using an mRNA template and the SuperScript II Reverse Transcriptase kit, the first-strand cDNA was created. (Thermo Fisher Scientific, Waltham, MA, USA). The SuperScript Double-Stranded cDNA Synthesis kit was then used to create the second-strand cDNA. (Thermo Fisher Scientific, Waltham, MA, USA). After end repair, poly (A) addition, and adapter ligation, agarose gel electrophoresis was used to identify fragments of the right size for PCR amplification. Using the Illumina HiSeq technology, the final cDNA library was sequenced, yielding 150 bp paired-end reads.
+
+Low-quality reads, reads including adapters, and ambiguous “N” bases higher than 5% were then eliminated from the raw readings data to produce clean reads. The superior clean readings were mapped using the Bowtie2 program. Then, the gene expression level was evaluated using RSEM v1.3.3 software, and it was further standardized using the FPKM technique. The DESeq2 was used for the differential expression analysis, and the false discovery rate (FDR) was used as the
+
+To identify DEGs between the two samples, the expression level for each transcript was calculated using the FPKM (the fragments per kilobase of exon per million mapped reads) method. Cuffdiff (
+
+To understand the functions of the DEGs, Gene Ontology (GO) functional enrichment and Kyoto Encyclopedia of Genes and Genomes (KEGG) pathways enrichment were carried out by ClusterProfiler (3.8.1). DEGs were significantly enriched in GO terms and KEGG pathways when their
+
+The extracted RNAs were reverse-transcripted to complementary DNA (cDNA) by a reverse transcriptase synthesis kit (Vazyme, Nanjing, China). The primers were designed using Oligo7 and primer information was detailed in
+
+An amount of 50 mL LB was inoculated with 2% overnight of

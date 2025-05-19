@@ -1,0 +1,11 @@
+{
+  "id": "35834529",
+  "title": "Sequence analysis and plasmid mobilization of a 6.6-kb kanamycin resistance plasmid, pSNC3-Kan, from a Salmonella enterica serotype Newport isolate.",
+  "doi": null,
+  "authors": "Chen CY, Nguyen LT, Strobaugh TP",
+  "journal": "PloS one",
+  "year": "2022",
+  "abstract": "Research on the transfer of antibiotic resistance plasmids has been mainly focused on the large multi-drug resistance conjugative plasmids, while the transmission of small mobilizable plasmids remains under-investigated. A series of diverse ColE-like kanamycin resistance plasmids (\"KanR plasmids\") from Salmonella enterica were characterized previously. In this study, the 6.6-kb pSNC3-Kan from a Salmonella enterica serotype Newport isolate was investigated. It possessed highly conserved RNA I/II and Tn602 (IS903-aph-IS903) regions to two other KanR plasmids pSe-Kan and pSBardo-Kan, but carried a mobC-mobA/BD operon. The mobilization proteins encoded by the mob operon of pSNC3-Kan showed high sequence identity (~95%) to those of an E. coli plasmid pEC34B, except that MobE was not present; and were much less conserved to those of another KanR plasmid pSN11/00Kan (43% - 86% identity). Four structurally different KanR plasmids were investigated for their ability to be mobilized by the conjugal transfer (tra) genes from F and IncP plasmids. Transfer genes derived from IncP plasmids can efficiently mobilize KanR plasmids possessing the mob operons (mobC-mobA/BD), such as pSNC3-Kan and pSN11/00Kan, in bi-parental mating experiments. On the other hand, F tra genes were able to mobilize pU302S, pSNC3-Kan and pSe-Kan, but not pSN11/00Kan. A plasmid-borne mob operon was not required for mobilization of the oriT(F)-bearing pSe-Kan by the F tra genes. This study underscores the complexity of plasmid interaction and the importance of how small mobilizable plasmids may contribute to the spread of antibiotic resistance genes.",
+  "source": "PubMed",
+  "pmcid": "PMC9282650"
+}

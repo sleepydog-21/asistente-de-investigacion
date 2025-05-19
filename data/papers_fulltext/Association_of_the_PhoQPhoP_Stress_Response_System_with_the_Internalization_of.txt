@@ -1,0 +1,45 @@
+Lettuce food safety is critically important because this vegetable is typically consumed raw and is a frequent carrier of foodborne pathogens, such as pathogenic
+
+The internalization of
+
+Biotic factors, including both lettuce and
+
+The objectives of this study were to investigate the effects of growth media (soil vs. hydroponic) on
+
+Five strains of
+
+For the spiking of
+
+A class II type A/B3 biosafety cabinet (NuAire Inc., Plymouth, MN, USA) was used as a lettuce growth chamber for this study. The lettuce was grown in soil or hydroponic media without recirculation and aeration at room temperature, as detailed in
+
+To grow lettuce in soil, ten plastic pots (9 cm in diameter × 10 cm in height) were filled with approximately 150 g of potting mix (Miracle-Gro Co., Marysville, OH, USA) and placed individually in a 500 mL plastic beaker to avoid any potential cross-contamination among pots via irrigation water. The entire set of pots with beakers was autoclaved at 121 °C for 15 min before seeding. In each pot, five to ten seeds (Paris White Cos, Morgan County Seeds LLC, Barnett, MO, USA) were planted at a depth of about 0.5 in below the soil surface. Sterile deionized water (400 mL) was periodically added into the beakers to moisten the soil, and 1.5 mL of the aforementioned
+
+Once the lettuce germinated, the two sturdiest seedlings were kept in each pot, and the others were removed. Fertilizing was carried out, as aforementioned in
+
+In parallel, 10 beakers (250 mL) were used for the hydroponic growth of lettuce. Rock wool cubes (5 × 5 × 5 cm) (Halatool Co, Xuzhou, Jiangsu, China) were autoclaved and used as a seed holder. Five to ten lettuce seeds were placed on a rock wool cube and transferred inside the aforementioned beaker filled with 150 mL of a hydroponic growth broth, Grow Big
+
+The above experiments were conducted three times.
+
+Five lettuce leaves from each pot were harvested by aseptic cutting on days 20 (D20), 30 (D30), and 40 (D40) after the generation of seeds (day 0), respectively. The leaves were dipped in a 10% bleach solution for 5 s [
+
+The colonies that morphologically appeared to be
+
+In total, 45 leaf samples each from soil-grwon and hydroponically grown lettuce were examined for the presence or absence of each
+
+To investigate the genetic traits of
+
+Overnight cultures of the five
+
+The genetic distance of the five
+
+In this study, an
+
+The genetic-distance analysis indicated that among the five
+
+In summary, strains 86-24, 93-111, C7927, and MF1847 were detectable in lettuce, and shared the unique ORF-4296, as well as an identical PhoP-PhoQ operon. In contrast, strain 505B was undetectable in lettuce, lacked ORF-4296, and exhibited differences in the C-terminal region of PhoQ.
+
+Although
+
+Mutational analysis is a common method for investigating the functions of bacterial genes [
+
+This study highlights significant variations in the internalization capabilities of five

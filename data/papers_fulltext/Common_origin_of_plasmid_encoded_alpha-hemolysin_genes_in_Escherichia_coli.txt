@@ -1,0 +1,131 @@
+Two major types of calcium dependent, pore forming cytolysins of the repeats in toxin (RTX)-family, called alpha-(α) and EHEC-hemolysin (enterohemolysin) were described in strains of
+
+EHEC-hemolysin is encoded on non-conjugative plasmids in strains of enterohemorrhagic
+
+In UPEC the α-
+
+Plasmid-encoded α-
+
+Studies on hemolysins of other bacterial species revealed similarities between the
+
+The fact that the α-
+
+Nucleotide sequence analysis of the pEO5 α-
+
+In order to explore the genetic relationship between plasmid α-
+
+Relevant properties of strains carrying plasmid and chromosomally encoded α-
+
+a) primer pairs and size of the PCR products obtained with strains TPE422 (pEO5) (primers 1f/r, 32f/r and 44f/r) and 536 (primers 81f/r and 72f/r) (see Table 2).
+
++ = a PCR product of the same size as obtained with strains TPE422 (pEO5) or 536, respectively.
+
+- = no PCR product obtained
+
+PCR products with other sizes than obtained with the reference strains are indicated for their length in bp.
+
+b) O:H serotype, Or = rough LPS, Ont = O-antigen not typable, NM = non motile
+
+c) α = alpha-hemolytic (α-
+
+d) All strains were from feces if not otherwise indicated, ETEC = enterotoxigenic
+
+e) 2000 bp PCR product (2007 bp as calculated from the nucleotide sequence of pEO11 [GenBank
+
+f) 2900 bp PCR product (2868 bp as calculated from the nucleotide sequence of pEO860) [GenBank
+
+g) 1500 bp PCR products
+
+h) strain carries two α-
+
+i) 950 bp PCR product
+
+j) 860 bp PCR product
+
+k) 778 bp PCR product (calculated from nucleotide sequencing of KK6-16 [GenBank
+
+In addition, we investigated four
+
+Based on the pEO5 DNA sequence (Fig.
+
+Specific PCRs for identification of plasmid and chromosomally inherited α-
+
+a) PCR products of different lengths were obtained with these primers depending on the DNA template (see Table 1)
+
+Primers 1f/r are specific for the upstream
+
+Primers 32f/r spanning the region between
+
+Primer pair 44f/r (Fig.
+
+None of the strains with α-
+
+A 464 bp DNA segment that carries a promoter (pHhly
+
+Sequences specific for
+
+According to the length of PCR products obtained for the region located between
+
+Major differences between the α-
+
+Plasmids belonging to "group 3", which were all from pig strains (pEO853, pEO855 and pEO857), carry two IS elements in the region between
+
+We used the primers specific for the region between
+
+Detection of α-
+
+a) size of the PCR products (bp) with primers 1f/r, 32f/r, 44f/r and 99f/r as described in Tables 1+ 2. Digestion of PCR products by HinfI resulted in identical patterns between strains corresponding to the size of the PCR products obtained (Table 1)
+
+b) Strains isolated from feces of diseased pigs [
+
+c) Strains isolated from pork meat [
+
+The fact that α-
+
+The
+
+Comparing the nucleotide sequences of
+
+In order to explore the differences between plasmid and chromosomal
+
+The nucleotide sequence of the
+
+It was suggested that the
+
+We investigated if the presence of IS elements in the regulatory region upstream
+
+We compared the transcriptional activity of 15
+
+We have recently determined the nucleotide sequence of the pEO5 α-
+
+Plasmid encoded α-
+
+It was previously suggested that α-
+
+Interestingly, plasmid pEO14 differed largely from all other α-
+
+The chromosomally located α-
+
+Interestingly, the
+
+Multiple copies of IS
+
+α-hemolysin plasmids are frequently found in STEC strains producing Stx2e, agents of edema disease in pigs [
+
+Our results indicate that the α-
+
+The bacterial strains used in this work are listed in Table
+
+Total DNA of bacteria was isolated as described [
+
+Southern blot hybridization of plasmid DNA and labeling of gene probes with Digoxigenin-11-dUTP was performed as described [
+
+Nucleotide sequence analysis of the α-
+
+Primer pairs specific for α-
+
+Quantitative real time reverse transcription PCR (qRT-PCR) was performed with the Applied Biosystems 7500 real time PCR system (Applied Biosystems) with cDNA samples from bacteria (see above). Transcription rates of the α-
+
+The following nucleotide sequences derived from the α-hemolysin producing strains and α-
+
+LB took an integral part of project conception and both YB and LB in method development. YB took most part in the design and performance of the experimental procedures. Data analysis was performed by both researchers LB and YB as well as interpretation of results and preparation of the manuscript. All authors have read and approved the final manuscript

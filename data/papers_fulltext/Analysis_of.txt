@@ -1,0 +1,83 @@
+The multi-drug-resistant (MDR) bacterial pathogen
+
+P-type type IV secretion systems (T4SSs) represent important drivers of both pathogen evolution and microbial symbiosis, responsible for the transfer of genetic material via conjugation and the secretion of proteins that can mediate host-microbe interactions (
+
+Genes encoding a P-type T4SS were previously identified on eight plasmids in clinically problematic
+
+To investigate the geographical distribution and genetic diversity of the P-type T4SS-encoding plasmids, the NCBI nucleotide database was assessed by blast analysis using the P-type conjugative operon from pM131_NDM1 as a query (
+
+Global geographical distribution and genetic diversity of host strains harboring P-type T4SS-encoding plasmids. Strains without documented information were excluded. (
+
+With respect to host range, the P-type T4SS-encoding plasmids were identified in diverse
+
+In the context of strain origin, 60% of strains were isolated from humans and 25% were derived from environmental locations such as water-associated ecosystems (
+
+Collectively, this demonstrates that P-type T4SS-encoding plasmids are harbored in more genetically diverse strains of
+
+Given the diverse host range of the P-type T4SS-encoding plasmids within the
+
+Genetic diversity of P-type T4SS-encoding plasmids. (
+
+Phylogenomic analyses were subsequently performed using the software Gegenees (
+
+Phylogenetic analysis of T4SS-encoding plasmids. Phylogenetic tree of P-type T4SS-encoding plasmids with complete sequencing data. Where possible, host strains are color coded based on the previously established
+
+For additional insight on plasmid divergence at the level of genetic rearrangements, the bioinformatics software Mauve (
+
+To investigate the candidate P-type T4SS-encoding regions of the plasmids identified, blast analyses were performed against the previously established T4SS-associated proteins (
+
+At the amino acid level, T4SS-associated proteins were also observed to be highly conserved (
+
+Diversity of P-type T4SS gene cluster in
+
+For visualization of the T4SS-associated genes identified, linear gene maps were constructed. With respect to relative gene organization, the overall organization of the P-type conjugative operon and additional T4SS-associated genes was highly conserved across the majority of the 53 plasmids (
+
+Several plasmids harbored one or more pseudogenes within the P-type conjugative operon, such as
+
+The spread of antibiotic resistance determinants, both clinically and in the environment, has been recognized by the WHO as an important global challenge necessitating a One Health perspective to understanding resistance (
+
+Antibiotic resistance determinants in P-type T4SS-encoding plasmids. (
+
+Resistance genes associated with aminoglycoside and β-lactam antibiotics represented the largest proportions, consistent with the original study (
+
+With respect to the mode of action associated with the resistance genes identified, enzymatic antibiotic inactivation represented 95% of genes, spanning 12 different determinants (
+
+Across the 46 plasmids harboring resistance determinants, the relative positioning of the
+
+Antibiotic resistance genes in P-type T4SS-encoding plasmids. Multiple whole plasmid alignments for selected plasmids are shown, outlining regions of genetic rearrangements. Locally collinear blocks are indicated by Mauve in the same color. The P-type conjugative operon in reference plasmid pM131_NDM1 (
+
+Horizontal gene transfer plays an intrinsic role in pathogen evolution and is often facilitated by the presence of mobile genetic elements such as insertion sequences (
+
+Bacterial P-type T4SSs play a central role in microbial adaptation and evolution, contributing to the spread of genetic material among populations, as well as the secretion of proteins such as virulence factors and small molecules that mediate host-microbe interactions and microbe-microbe interactions to promote bacterial survival (
+
+Here, we performed a systematic analysis to investigate the genetic diversity and geographical distribution of a group of P-type T4SS-encoding plasmids in
+
+Of special note, this study also uncovered a T4SS-encoding plasmid from
+
+The T4SS-encoding plasmids characterized in this study demonstrated exceptional conservation in the P-type conjugative operon, such that 91% of plasmids encoded full-length proteins for all core genes examined (
+
+While overall an exceptional level of conservation was observed across T4SS-associated proteins encoded in the P-type conjugative operon, this study also identified interesting examples of genetic diversity among the plasmids. This included candidate insertions, genetic rearrangements, pseudogenes, and regions with many gene remnants. Of interest to note, many regions with candidate insertions were observed to harbor proteins of no established function (annotated as hypothetical proteins). In the future, it would be interesting to investigate whether these genes could contribute to microbial fitness.
+
+The
+
+Collectively, this study demonstrated that this group of P-type T4SS-encoding plasmids is larger and more widespread across the
+
+T4SS-encoding plasmids with sequence similarity to the P-type T4SS gene cluster in pM131_NDM1 were identified using blastn (
+
+To assess
+
+A previously established reference list of
+
+Phylogenomic analyses of the P-type T4SS-encoding plasmids were performed using the software Gegenees (
+
+The similarity matrix was shown as a heat map. Plasmids denoted as Group 1 demonstrated <55% coverage to plasmids in Group 2, and within each group, plasmids demonstrated >70% coverage relative to the comparison plasmids pM131_NDM1 and p2014S07-126-3, respectively.
+
+Phylogenetic analyses were performed with complete sequences of P-type T4SS-encoding plasmids. Full-length sequences were aligned using ClustalW (
+
+Comparative genetic analyses were performed using the bioinformatics software Mauve (
+
+The previous study described a P-type conjugative operon in addition to several other T4SS-associated genes in eight
+
+CARD (
+
+The program MobileElementFinder (

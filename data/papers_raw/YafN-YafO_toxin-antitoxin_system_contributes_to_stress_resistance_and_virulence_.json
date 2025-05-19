@@ -1,0 +1,11 @@
+{
+  "id": "39754924",
+  "title": "YafN-YafO toxin-antitoxin system contributes to stress resistance and virulence of avian pathogenic Escherichia coli.",
+  "doi": null,
+  "authors": "Chen Q, Sun Y, Xing Q, Li Z, Gao S, Gao Q",
+  "journal": "Poultry science",
+  "year": "2025",
+  "abstract": "Avian pathogenic Escherichia coli (APEC) is a major threat to the poultry industry, causing bloodstream and extraintestinal infections. Type II toxin-antitoxin (TA) systems are known to aid bacterial pathogens in adapting to stress, promoting persister cell formation, and enhancing virulence. While type II TA systems have been extensively studied in many pathogens, APEC-derived TAs have received limited attention. Our study focused on the YafN-YafO type II TA system in APEC O2 strain E058. Using bacterial two-hybrid and pull-down assays, we confirmed the interaction between YafN and YafO. Electrophoretic mobility shift assays (EMSA) and lacZ fusion reporter assays demonstrated that YafN negatively autoregulates its own operon. The deletion of yafNO resulted in a significant reduction in persister cell formation under antibiotic and environmental stress (P < 0.01). Moreover, the yafNO mutant showed a ∼3-fold reduction in survival within chicken macrophages and attenuated virulence in chicken infection models, with a 44-fold increase in LD",
+  "source": "PubMed",
+  "pmcid": "PMC11758553"
+}

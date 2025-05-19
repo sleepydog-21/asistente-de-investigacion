@@ -1,0 +1,79 @@
+Antimicrobial resistance (AMR) is of increasing global concern as a significant contributor to deaths involving bacterial infections. In 2019, approximately 25% of the 5 million bacterial infection deaths were directly associated with AMR (
+
+Polymyxins have an acylated tripeptide stem connected to a cyclic heptapeptide with several cationic amino acid side chains (
+
+In comparison to stably inherited genetic mutations and plasmid-borne polymyxin resistance determinants, polymyxin heteroresistance (HR) is less well understood (
+
+There are numerous conflicting reports on whether
+
+Heteroresistance leads to inconsistency between MIC and frequency of resistance. (
+
+Our prior work using electrospray ionization mass spectrometry (ESI-MS) showed elevated levels of both PEtN- and Ara4N-containing LPS in wild-type
+
+Polymyxin B-resistant isolates C1/C2 have increased relative levels of Ara4N-modified LPS. (
+
+Mass spectrometric analysis of LPS from PMB-sensitive Parent strain and PMB-resistant isolates C1 and C2
+
+LA
+
+LA
+
+Summary of calculated monoisotopic neutral masses and observed molecular masses (Da), the corresponding MS spectra are depicted in
+
+Polymyxin resistance via activating point mutations in the
+
+Insertion sequences flank chromosomal amplifications in PMB-resistant isolates. (A) The fold coverage was obtained by normalizing the position-specific read count to the mean read count across the entire chromosome, excluding the amplified regions for C1 (pink) and C2 (light blue). Parent fold coverage (dark green) obtained by normalizing to the mean read count across the entire chromosome. Amplified region of chromosomal DNA is highlighted with the flanking IS elements indicated (bottom inset). The
+
+To determine the stability of the amplifications, we performed outcrossing experiments where the Parent, C1, and C2 isolates were passaged in the presence or absence of PMB over 10 days. Aliquots were plated on LBA plates with and without PMB. In the absence of PMB, the population of PMB susceptible cells increased, whereas mutants passaged in the presence of PMB largely retained the resistant phenotype (
+
+The majority of PMB-resistant isolates utilized IS
+
+IS
+
+IS
+
+While the
+
+Chromosomal amplification results in global transcriptome changes. (A) RT-qPCR data for
+
+While characterizing LPS extracted from strains of
+
+Chromosomal tandem duplications are among the most common class of mutations, and yet, their fleeting nature makes identification challenging (
+
+In lineages with high IS-content such as
+
+Resistance to polymyxins is a complex and growing problem (
+
+Gene or IS
+
+Single colonies of wild-type
+
+For MIC measurements, a low CFU input was used to minimize the effect of resistant subpopulations. Single colonies of strains isolated on LBA, LBA supplemented with 0.5 µg/mL PMB (for PMB-resistant isolates), or 50 µg/mL spectinomycin (strains with pCL25-
+
+For each strain, glycerol stocks were struck out on to LBA with required antibiotics for marker selection. Ten single colonies were randomly selected to inoculate separate LB cultures and grown overnight. The next morning, 100 µL of a 10
+
+To derive PMB-resistant isolates, single colonies of the Parent strain AR1973 [
+
+Bacteria were harvested from stationary phase cultures grown at 37°C in LB supplemented with necessary antibiotics for genetic marker selection. PMB was not included to avoid any possible further selection during culture. LPS was isolated as previously described (
+
+Lipid A and core oligosaccharides were prepared from LPS samples by mild hydrolysis as described (
+
+Mass spectrometric analyses of LPS and core oligosaccharide samples were performed on a QExactive Plus mass spectrometer (Thermo Scientific, Bremen, Germany) using a Triversa Nanomate platform (Advion, Ithaca, NY, USA) as the nano-ESI source. LPS samples were initially dissolved in water in a concentration of 1 µg/µL, and 5 µL of these solutions was mixed with 95 µL of MS solvent [water, 2-propanol, 7 M trimethylamine, acetic acid (50:50:0.06:0.02, vol/vol/vol/vol)]. Lipid A [1 µg/µL solutions in CHCl
+
+Radiolabeled lipid A was extracted from strains according to published procedures (
+
+To visualize
+
+From 1 mL of overnight cultures in LB, genomic DNA was extracted using guanidinium thiocyanate as described (
+
+Single colonies of Parent and PMB-resistant isolates were struck on LBA or LBA supplemented with 0.5 µg/mL PMB, respectively, and were inoculated in 200 µL of LB media either without (for Parent) or with 1 µg/mL PMB in a 96-well microplate. Cultures were incubated overnight at 37°C, without shaking. For the first passage, a 10
+
+Tandem chromosomal duplication was checked by multiplex PCR using whole cell colony PCR with Thermo Scientific Phire Plant Direct PCR Master Mix and primers annealing next to IS
+
+Single colonies of Parent and of the PMB-resistant isolates C1 or C2 were obtained on LBA and LBA supplemented with 0.5 µg/mL PMB. Single colonies were used to start overnight cultures in 200 µL of LB in microwell plates at 37°C, without shaking. The following day, a 1:1,000 dilution of overnight culture in 3 mL of LB was incubated with shaking at 37°C. Cell pellets were harvested from 1 mL of culture at OD
+
+RNA samples isolated as described above were submitted to SeqCenter (Pittsburgh, PA) for RNA-seq (12 million reads per sample using paired end 150-bp long short end reads) according to submission guidelines. Resulting transcript counts of 10 or higher were mapped to the
+
+Total RNA isolated as above was further purified by treatment with DNase treatment (Thermo Fisher Scientific TURBO DNA-free Kit). RT-qPCR was performed using a Luna Universal One-Step RT-qPCR Kit (NEB) on DNase-treated RNA samples (0.8 µg per sample), with gene-qPCR-specific primer pairs (see Table S3), using an Applied Biosystems 7300 real-time PCR machine. All data were measured in triplicate and normalized to the validated housekeeping internal control gene
+
+Whole cell lysates were prepared according to Hitchcock and Brown (

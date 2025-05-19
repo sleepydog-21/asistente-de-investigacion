@@ -1,0 +1,277 @@
+The rapid emergence of antimicrobial resistance presents a significant challenge for treatment of bacterial infections. Carbapenem-resistant Enterobacterales (CRE) and
+
+Moreover, there is little doubt that resistance will emerge to agents currently in the pipeline. We are therefore clearly in need of several new gram-negative agents that are unique in terms of antimicrobial class and potential vulnerabilities, and which can diversify our antimicrobial therapeutic portfolio [
+
+Here, we further considered the properties of a historic antibiotic scaffold. Streptothricin was originally isolated by Waksman and Woodruff in 1942 from a soil
+
+Streptothricin is now known to be a natural product mixture, currently referred to as nourseothricin. For clarity, we will henceforth refer to the natural product mixture as nourseothricin and individual components by their specific streptothricin designation. Each streptothricin in nourseothricin consists of 3 linked components: (a) a streptolidine, a guanidine-lactam bicyclic 5–6 ring system; (b) a carbamoylated gulosamine; and (c) a homopolymer consisting of varying numbers of β-lysine residues, linked head to tail. The individual streptothricins are designated by letter suffixes (A-F and X), based on the number of lysine residues, with the most abundant streptothricins in the natural product, streptothricin F (S-F) and streptothricin D (S-D), having 1 and 3 lysine moieties, respectively (see
+
+Streptothricins share streptolidine and carbamoylated gulosamine sugar moieties. They are distinguished by differing numbers of β-lysines attached end-to-end through amide bonds to the ε-amino groups. Nourseothricin is the natural product mixture of several streptothricins, predominantly S-F (1 β-lysine) and S-D (3 β-lysines). Acetylation of the β-amino group blocks activity and is the major known mechanism of antimicrobial resistance to streptothricins. S-D, streptothricin D; S-F, streptothricin-F.
+
+Initial studies on toxicity in animals from the 1940s used only semiquantitative activity measures and impure compound with large doses presumably exceeding 100 mg/kg [
+
+Studies 40 years ago using in vitro translation systems determined that S-F both inhibited prokaryotic translation and induced concentration-dependent ribosomal miscoding activity, similar to aminoglycosides such as gentamicin [
+
+Based on potentially insufficiently explored therapeutic potential, we sought to further characterize the properties of S-F and S-D, the major constituents of nourseothricin, purified to homogeneity using modern techniques and authenticated by several complementary state-of-the-art methods. This analysis included in vitro and in vivo analysis and mechanism of action studies combining use of both mutational resistance and cryo-EM–based structural analysis. Taken together, our data establish S-F as a potently bactericidal natural product scaffold with a unique mechanism of action with what we believe are compelling properties for future medicinal chemistry exploration. To this end, we also separately established a diversity-enabling total synthesis for S-F, which is reported elsewhere [
+
+Our original studies with streptothricins were motivated by the observation that a nourseothricin resistance cassette served as a reliable genetic marker for experiments in otherwise highly drug-resistant gram-negative pathogens [
+
+Using broth microdilution minimal inhibitory concentration (MIC) testing, we determined the MIC of S-F, S-D, and nourseothricin for a large group of multidrug-resistant CRE. These included strains expressing metallo- and/or serine carbapenemases and the pandrug-resistant, NDM-1–expressing
+
+An LC–MS analysis of commercially purchased nourseothricin showed a composition of 65.5% S-F, 29.6% S-D, and 4.9% S-E (2 β-lysines). Therefore, the somewhat enhanced activity of S-D (mean MIC 0.44 μM) compared with nourseothricin (mean MIC 0.58 μM) for CRE likely reflects a combinatorial effect of the more potent S-D and less potent S-F, as well as contributions from other minor streptothricin congeners in the nourseothricin natural product mixture.
+
+Bacterial killing by unfractionated, crude preparations of streptothricins was previously noted by Waksman and Woodruff for
+
+We measured in vitro action on ribosome translation (i.e., independent of bacterial permeability and efflux effects) using commercially (NEB) available prokaryotic (
+
+Eukaryotic cell cytotoxicity was determined against J774A.1 macrophage and LLC-PK1 proximal tubule kidney cells line during a 5-day incubation. Cytotoxicity was measured using a previously established SYTOX Green exclusion, real-time fluorescence assay [
+
+J774 macrophages and LLC-PK-1 renal epithelial cells were treated with 2-fold doubling dilutions of nourseothricin, S-D, and S-F for up to 5 days in the presence of SYTOX-Green. SYTOX-Green is a cell membrane-impermeant nucleic acid binding dye that fluoresces on binding to nuclear DNA. It therefore provides a real-time readout of eukaryotic cell membrane permeabilization associated with cell death that can be continuously monitored through fluorescence measurements. Cytotoxicity was minimal to absent after a single day incubation but increased on subsequent days. Nourseothricin and S-D effects were essentially indistinguishable. S-F toxicity was only observed at molar concentration at least 10-fold greater than S-D beginning at 32 μM, significantly above MIC ranges observed in activity spectrum analysis. Each data point represents mean and standard deviation for assays performed in quadruplicate. Data are available in
+
+To identify the single-dose maximum tolerated dose (MTD) of S-F and nourseothricin, CD-1 mice were injected IP with ascending doses of 0, 50, 100, 200, and 400 mg/kg S-F and 5, 10, 20, and 50 mg/kg nourseothricin, respectively (
+
+Therapeutic effect after a single dose of S-F was tested in the murine thigh model after infection with the pandrug-resistant Nevada CRE strain (AR-0636). For these studies, neutropenic mice were rendered mildly renal deficient with uranyl nitrate to more closely simulate human excretion kinetics [
+
+S-F demonstrated substantial therapeutic effect against pandrug-resistant
+
+To identify potentially unique interactions with the ribosome, we sought to identify high-level nourseothricin resistance mutants by selecting for growth on media containing nourseothricin at 32 to 64 times the MIC. Two classes of high-level nourseothricin resistance mutants were obtained only in the single
+
+SQ110 contains only a single
+
+*The range of MICs obtained varied over 3 doubling dilutions.
+
+**MIC range was 32–256 μg/mL in 4 biological replicates.
+
+Despite overlap of identified nourseothricin resistance mutations with the reported binding pocket of tetracyclines in 16S rRNA helix 34 [
+
+The structures of S-F and S-D bound to the 70S ribosome of
+
+The second S-F-binding site is found to partially overlap with site 2 of S-D (
+
+While not seen in S-F, site 4 of S-D is located in the peptide exit tunnel (
+
+We demonstrate that streptothricins, in particular S-F, S-D, and the natural product mixture, nourseothricin, are highly active against contemporary, carbapenem-resistant
+
+Most of the existing description of streptothricin class antibiotic activity was from several decades ago and made use of unstandardized microbiological and physicochemical methods. In general, the natural product mixture was characterized as a whole without quantitative delineation of contributions from constituent streptothricins. Instead, here, we made use of modern preparative techniques and methods to characterize the activity of S-F and S-D in comparison with the natural product mixture currently available, gaining valuable insights into their respective properties.
+
+We found that S-F maintained potent antimicrobial activity, although it was about 6-fold less potent than S-D. Importantly, S-F showed at least 10-fold lower toxicity than S-D and the natural product mixture, nourseothricin, in vitro and in vivo. Notably, in single, maximal tolerated dose experiments, treatment with the nourseothricin natural product mixture was associated with proximal tubule kidney damage at relatively low doses (10 mg/kg). In contrast, S-F showed a favorable therapeutic ratio with substantial therapeutic effect at 50 to 100 mg/kg to the point of single-dose sterilization of CRE infection with minimal or no renal histopathological toxicity.
+
+Biologically, streptothricins demonstrate activity similar to 2-deoxystreptamine (2-DOS) containing aminoglycosides such as gentamicin, amikacin, tobramycin, and apramycin, both inhibiting protein synthesis with rapid, potent bactericidal activity [
+
+The 2-DOS aminoglycosides are known to bind helix 44 in 16S rRNA (residues 1400 to 1410 and 1490 to 1500), forming a binding pocket near the ribosome decoding center [
+
+Instead, our structural and resistance studies identified an interaction with helix 34 distinct from other known translation inhibitors. Specifically, S-F makes direct polar contacts with nucleobases, C-1054 and A-1196. This contrasts with the stacking interactions of tetracyclines [
+
+Our structural data further explain streptothricin acetyl transferase-based resistance to S-F and S-D associated with acetylation of the β-amino group of the first β-lysine attached to the gulosamine sugar. Specifically, our modeling indicates that acetylation cannot be accommodated in the S-F binding pocket without steric clash with the phosphoribose backbone of U1052 and C1054 (
+
+Regarding potential mechanisms of action, previous structural studies have described stacking interactions between C1054 and the wobble nucleotide of the A-site tRNA, anti-codon stem loop [
+
+It was theorized previously that the observed concentration dependence of S-F induced miscoding might be a consequence of multiple binding sites with presumably synergistic or additive mechanisms of action [
+
+Of interest, the nucleotides corresponding to 16S rRNA C1054 and A1196 in human 18S rRNA (PDB 7TQL; [
+
+In summary, we present data for compelling bactericidal activity of S-F against contemporary multidrug-resistant CRE and
+
+CRE isolates were from the FDA-CDC Antimicrobial Resistance Isolate Bank (AR-Bank) including the Nevada Strain (AR-0636) and the BIDMC clinical collection sequenced as part of the CRE genomics project [
+
+Purification of separate streptothricin compounds from nourseothricin sulfate (Gold Biotechnology, St. Louis, MO) was performed through modification of a previously reported method [
+
+The Clinical Laboratory and Standards Institute (CLSI) broth microdilution reference method was used for MIC testing [
+
+Time-kill studies were performed as previously described [
+
+Prokaryotic and eukaryotic nanoluciferase reporter constructs were constructed as follows: For the bacterial nanoluciferase (Nluc) reporter construct, a DNA fragment containing a 516-bp fragment from pNL1.1 Promega, (Madison, WI), including the NLuc open reading frame and Shine-Delgarno sequence and an upstream T7 promoter sequence (TAATACGACTCACTATAGG) was synthesized as a gBlock by IDT (Integrated DNA Technologies, Coralville, IW). The T7_Nluc fragment was then amplified using primer pairs, T7Nluc-F and T7NLuc-R (
+
+For the eukaryotic Nluc reporter construct, the Nluc open reading frame without the methionine initiation codon was amplified with primers, Nluc_BamHI-F and Nluc_PstI-R (
+
+Nourseothricin, S-D, and S-F were distributed to a 384-well black microplates (PHENIX Research, Swedesboro, NJ). For bacterial in vitro translation assays,
+
+J774A.1 mouse macrophage and LLC-PK1 porcine renal tubule epithelial cell lines were plated in 384-well tissue culture dishes with white walls and clear bottoms (Greiner, Monroe, NC, catalog #781098) at approximately 7.0 × 10
+
+CD-1 (ICR) female mice weighing 25 to 30 g each were purchased from Charles River Laboratories (Kingston, NY). Mice were injected IP with 0, 10, 20, 50, 100, 200, and 400 mg kg
+
+Mice were pretreated with cyclophosphamide and uranyl acetate and infected by injection of 10
+
+Single ribosomal operon strain, SQ110, was grown overnight in CAMHB at 37°C and resuspended in one-fifth volume in fresh medium. Thereafter, 200 μL of the suspension was plated on selective LB agar plates containing nourseothricin (GoldBio, St Louis, MO) at 32-, 64-, and 128-fold the MIC of the parent SQ100 strain and incubated for 48 to 72 hours at 35°C in ambient air until mutant colonies became visible. Selected colonies were passaged on plates with matching concentrations of nourseothricin for further analysis. Aminoglycoside resistance mutants were isolated in a similar manner selecting on apramycin.
+
+Genomic DNA from nourseothricin-resistant strains was extracted using the Wizard Genomic DNA Purification Kit (Promega, Madison, WI) from 3 mL of overnight culture in CAMHB containing nourseothricin (32 μg/mL, 64 μg/mL, and 128 μg/mL). Subsequent genomic DNA was amplified using primers F16S+23S, R16S+23S, and 16SR (
+
+70S ribosomes were purified from
+
+Cryo-EM data were recorded at a defocus range of −1 to −2.5 on a Titan Krios equipped with a K3 direct electron detector (Gatan). A total of 3,054 micrographs for S-F were recorded in superresolution mode at 105K magnification resulting in a physical pixel size of 0.848 Å (0.424 Å superresolution). Each image was collected over 40 frames with a total dose of 46 e/Å
+
+For both S-F and S-D, image stacks were aligned and binned by 0.5 (0.75 for S-D) using patch motion and the contrast transfer function (CTF) was estimated by patchCTF in cryoSPARC v3 [
+
+Previously determined structures of the
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+The numbering scheme for streptothricin F and streptothricin D. In the
+
+(PDF)
+
+Click here for additional data file.
+
+Nourseothricin MIC was 2 μg/mL.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+(PDF)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.
+
+Contains underlying data for
+
+(XLSX)
+
+Click here for additional data file.

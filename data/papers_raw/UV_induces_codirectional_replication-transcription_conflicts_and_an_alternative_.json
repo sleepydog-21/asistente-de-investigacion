@@ -1,0 +1,11 @@
+{
+  "id": "40240002",
+  "title": "UV induces codirectional replication-transcription conflicts and an alternative DnaA-dependent replication origin in the rnhAB mutants of Escherichiacoli.",
+  "doi": null,
+  "authors": "Kouzminova EA, Cronan GE, Kuzminov A",
+  "journal": "Nucleic acids research",
+  "year": "2025",
+  "abstract": "The rnhAB mutants of Escherichia coli lacking both RNase H enzymes are unexpectedly UV-sensitive, being unable to restore normal levels of post-UV replication. Examining patterns of chromosomal replication in the rnhAB mutants after UV could identify the problem sites. We show that normal rnhA (B) mutant replication initiates at three distinct oriK areas in the origin macrodomain, none of them coinciding with oriC proper, the dominant origin being some 400 kb away. Interestingly, initiation after UV switches to the DnaA-dependent oriK closest to oriC and continues from there until the growth replication pattern is restored, like in the rnhA single mutants. However, in the rnhAB double mutant, post-UV forks initiated at the new origin have difficulty reaching the terminus, with the major stalling sites at the rrn operons. In the rnhAB recBC mutants, additionally deficient in linear DNA degradation/repair, post-UV replication forks cannot traverse the origin-distal ribosomal RNA operons, rrnG and rrnH, showing that restoration of disintegrated replication forks is essential for replication in the rnhAB mutant. In contrast, the rnhAB rpoB* mutant, in which transcription complexes are unstable, is UV-resistant and resumes normal replication even faster than WT cells, indicating that the rnhAB mutants suffer from UV-induced replication-transcription conflicts.",
+  "source": "PubMed",
+  "pmcid": "PMC12000880"
+}

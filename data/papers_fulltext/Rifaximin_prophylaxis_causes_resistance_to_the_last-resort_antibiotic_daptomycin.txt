@@ -1,0 +1,173 @@
+Antimicrobial resistance (AMR) is one of the greatest current public health threats, with 1.27 million deaths being attributed to bacterial AMR in 2019
+
+The lipopeptide daptomycin (DAP) is a WHO-designated last-resort antibiotic that is used ‘off label’ to treat invasive VREfm infections
+
+Daptomycin susceptibility testing was performed on VREfm isolated during two unbiased state-wide ‘snapshot’ studies undertaken in 2015 (
+
+To investigate the relationship between DAP-R and DAP-susceptible (DAP-S) VREfm, a maximum-likelihood phylogeny was inferred from an alignment of 6,574 core genome single-nucleotide polymorphisms (SNPs) (
+
+We next sought to determine the genetic determinants leading to DAP resistance in VREfm. We systematically screened VREfm genomes for mutations in the regulatory genes
+
+To identify genetic loci linked with DAP resistance, we performed a genome-wide association study (GWAS) with the 998
+
+To test the contribution of these amino acid substitutions to DAP resistance, we introduced each mutation into a clinical DAP-S ST796 VREfm isolate (Aus0233). None of the amino acid substitutions had any impact on DAP resistance except for the S491F substitution within RpoB, which resulted in a DAP-R phenotype (fourfold increase in DAP minimum inhibitory concentration (MIC), from 2 mg l
+
+We next assessed whether other RpoB substitutions were associated with DAP resistance (Fig.
+
+The G482D, H486Y and S491F substitutions were located within the predicted rifampicin-resistance determining region (RRDR) of RpoB (spanning amino acids 467 to 493). Rifampicin susceptibility testing (rifampicin being a marker of rifamycin resistance
+
+To test whether the G482D and H486Y substitutions in RpoB also led to rifamycin and DAP resistance we introduced these substitutions into our rifamycin-susceptible, DAP-S, clinical strain of ST796 VREfm (Aus0233). Introduction of the G482D, H486Y or S491F RpoB substitutions resulted in high-level rifampicin resistance (>512 mg l
+
+To determine whether the RpoB substitutions associated with DAP resistance observed in Australian VREfm were representative of
+
+We used phylodynamic analyses to estimate the emergence date of VREfm with the S491F substitution globally. Within Australian VREfm, we observed the expansion of a dominant ST203 clone from 2015 to 2018 that carried the S491F substitution (Fig.
+
+To model the evolutionary trajectories of these clusters, we used core-genome SNP diversity and year of isolation (Extended Data Fig.
+
+Rifaximin is a non-absorbable oral agent with direct antimicrobial activity in the gastrointestinal tract, predominantly prescribed to prevent recurrent hepatic encephalopathy in patients with liver cirrhosis—a cohort with frequent VREfm gastrointestinal colonization
+
+Among the patient cohort colonized with VREfm, compared with unexposed patients (
+
+Summary of the percentage of VREfm with any
+
+Six patients from the control group carried DAP-R VREfm—three (50%) of these had isolates with no mutations in
+
+While only one representative VREfm isolate from each patient was included in the above analysis, the de novo emergence of DAP-R VREfm carrying the G482D RpoB substitution was observed in one patient from whom multiple isolates had been collected during rifaximin therapy, consistent with rifaximin exposure driving the de novo emergence of DAP-R VREfm.
+
+These data showed a strong clinical association between recent rifaximin exposure and patient gastrointestinal carriage of VREfm with DAP-resistance-associated RpoB substitutions, suggesting that exposure to rifaximin drives DAP-R VREfm.
+
+We used a mouse VREfm gastrointestinal colonization model to test whether rifaximin exposure caused de novo emergence of
+
+For each mouse, we then determined the percentage of individual VREfm isolates that were rifamycin resistant or DAP-R. There were significantly more rifamycin-resistant VREfm isolated from mice receiving rifaximin or rifampicin than mice receiving the vehicle control (
+
+We next performed whole-genome sequencing (WGS) on 150 randomly selected VREfm isolates from each group (rifaximin or rifampicin;
+
+We next used a multiomics approach to understand how amino acid substitutions in the β subunit of the bacterial RNA polymerase (RpoB) cause resistance to DAP, a cell membrane active antibiotic. We first compared the lipidomes of the three isogenic DAP-R RpoB mutants (G482D, H486Y or S491F) to that of WT VREfm. We also included an isogenic RpoB mutant that did not confer resistance to DAP (Q473L; DAP MIC 2 mg l
+
+Given the central role of RpoB in transcription, we posited that the lipidome differences of the DAP-R RpoB mutants were caused by alterations in gene expression. We modelled the RNA polymerase complex structure in
+
+Given the predicted changes in RNA polymerase transcriptional activity, we used a combination of RNA sequencing (RNA-seq) and data-independent acquisition (DIA) based proteomics and identified 26 loci that were significantly differentially expressed in both RNA-seq and proteomics in all three DAP-R strains (G482D, H486Y and S491F), but not in the DAP-S strain (Q473L) or the WT VREfm (Extended Data Fig.
+
+To understand their potential role in DAP resistance, each of these six genes were deleted from the VREfm Aus0233 WT and RpoB(S491F) mutant. The
+
+Clinical paired VREfm isolates representative of the G482D, H486Y and S491F mutations were analysed using DIA proteomics to examine the abundance of PrdR, PrdA and PrdB in the cell. In DAP-R clinical strains carrying the S491F (ST1421 and ST203), G482D (ST80) or H486Y (ST203) mutations, the production of PrdRAB was significantly (
+
+We hypothesized that the overexpression of the
+
+Given the decreases in anionic phospholipids (CL and PG) and increases in cationic phospholipids (Lys-PG), we tested whether strains with RpoB mutations have differences in overall cell membrane charge and DAP binding. Both the DAP-R isogenic and clinical RpoB mutants (G482D, H486Y and S491F) had a significantly reduced negative charge associated with the cell membrane compared with their paired isolate (Fig.
+
+Here we show that specific amino acid substitutions within the RRDR of RpoB (G482D, H486Y and S491F) lead to clinical DAP resistance in
+
+Exposure to rifamycin antimicrobials is well known to enrich for bacteria with RpoB substitutions
+
+Our study has potential limitations that warrant consideration when interpreting the results. Although our findings are substantiated by extensive orthogonal experimental evidence, the retrospective nature of our patient cohorts may introduce biases typical of such studies. These include selection and information biases, potentially arising from incomplete or imprecise patient medical records, such as antibiotic exposure history and underlying comorbidities. We implemented stringent genomic screening criteria to exclude clustered VREfm isolates from our cohort studies. However, possible undetected transmission events within the healthcare setting probably impact the assumption of independence in our logistic regression analyses, resulting in overly narrow confidence intervals. While our retrospective cohorts demonstrate a highly robust association between rifaximin use and DAP-R VREfm, these data alone cannot establish causation. Our conclusions are therefore based on the convergence of evidence from diverse experimental sources within our study, including phylodynamic modelling, controlled animal experimentation, extensive genomic epidemiology and independent retrospective patient cohorts. Future prospective multicentre studies would further validate our findings and address potential uncertainties in the reported effect size and confidence intervals.
+
+Notwithstanding these limitations, we propose that patients with chronic liver disease receiving rifaximin are a primary source for the emergence and spread of DAP-R VREfm with
+
+Coordinated global efforts are underway to preserve last-resort antimicrobials through stringent stewardship protocols, limiting the use of these critically important medicines
+
+Our data underscore the potential for unanticipated antimicrobial cross-resistance after the implementation of new treatment regimens, even those perceived to be low-risk and highlight the complex interplay between antimicrobial use and bacterial resistance mechanisms. The potential far-reaching impacts of seemingly benign antimicrobial regimens on AMR necessitates careful consideration, especially regarding the use of prophylactic antibiotics. Our research reinforces the need for judicious use of all antibiotics, and emphasizes the delicate balance required in managing AMR while meeting clinical needs.
+
+Oligonucleotides were purchased from Integrated DNA Technologies and are listed in Supplementary Table
+
+A list of the bacterial strains used in this study is provided in Supplementary Table
+
+For publicly available isolates, our aim was to capture the diversity of
+
+Daptomycin susceptibility testing was performed using the BMD MIC method according to CLSI guidelines. In a 96-well plate, a twofold dilution series (from 32 to 0.5 mg l
+
+Rifampicin susceptibility testing was performed using the BMD method in CAMHBT. High-level rifampicin resistance was defined with a MIC > 32 mg l
+
+Genomic DNA was extracted from a single colony using the JANUS automated workstation (PerkinElmer) and Chemagic magnetic bead technology (PerkinElmer). Genomic DNA libraries were prepared using the Nextera XT kit according to the manufacturer’s instructions (Illumina). WGS was performed using the Illumina NextSeq platform, generating 150 bp paired-end reads. The short reads of isolates sequenced at MDU-PHL are available at the NCBI Sequence Read Archive (BioProject:
+
+De novo assemblies of the genomes were constructed using Spades
+
+The genome assemblies of all isolates were screened for acquired AMR determinants using abriTAMR (
+
+A GWAS approach was applied to identify genetic variants of DAP resistance in
+
+For competition assays, overnight cultures of WT and corresponding RpoB(S491F) or RpoB(S491F)/RpoC(T634K) mutants were diluted to an optical density at 600 nm (OD
+
+cgMLST alleles for each isolate were defined using the public
+
+To investigate the emergence of the S491F mutation in RpoB in three different lineages, as defined with cgMLST, we undertook further analysis on these clusters/lineages. From the species-level maximum-likelihood tree (Fig.
+
+To investigate temporal signal in the three clusters of VREfm genomes, we first used TempEst
+
+The frequency of the emergence of the
+
+The presence or absence of the S491F mutation in
+
+The
+
+Genome sequencing and analysis of all mutants was conducted as described, with resulting reads mapped to the Ef_aus0233 reference genome and mutations identified using Snippy (
+
+Female C57BL/6 mice at 6–8 weeks of age were purchased from WEHI and maintained in a specific-pathogen-free facility at the Peter Doherty Institute for Infection and Immunity. The facility operates a 12 h–12 h light–dark cycle and maintains ambient temperature (18–23 °C) and humidity (40–60%). Animals were administered a standard mouse chow diet (Barastoc irradiated mouse cubes) and provided with water ad libitum. All animal handling and procedures were performed in a biosafety class 2 cabinet. Animal procedures were performed in compliance with the University of Melbourne guidelines and approved by The University of Melbourne Animal Ethics Committee (application IDs: 20094 and 28528). Animals were randomly assigned into cages on reception. After acclimatization, the cages were randomly assigned to treatment groups.
+
+Experimental group sizes (treatment versus controls) were calculated using a power of 80%, an attrition rate of 15% and a type I error of 5%. The dose for each antibiotic was calculated using the US Food and Drug Administration (FDA) human conversion formula to ensure that each mouse was given a human-equivalent dose
+
+For rifamycin and DAP analysis, VREfm colonies (
+
+To determine which mutations were present in the rifamycin-resistant isolates, a random selection of 300 colonies, 150 from rifaximin-treated mice and 150 from rifampicin-treated mice (50 pre and 100 post for each treatment), were sampled for WGS as described above.
+
+To examine the potential association between rifaximin exposure and DAP-R VREfm, we analysed VREfm collected between 2014 and 2022 from a single quaternary hospital institution in Melbourne. In total, 225 patients were assessed for previous exposure to rifaximin, which was defined as at least a single dose administered before the collection date for the VREfm isolate and grouped into a rifaximin-exposed group and an unexposed control group. Only a single isolate was selected at random for testing and analysis from patients who had multiple samples with VREfm isolates. The VREfm isolates underwent WGS and DAP and rifampicin susceptibility testing as before. Patients with VREfm isolates that were assessed as genetically clustered with other VREfm isolates in the cohort and likely represented direct transmission were excluded. Genetic clustering was defined using an international standard SNP cut-off (7 SNPs)
+
+Data were obtained from medical records with approval from the Austin Health Human Research Ethics Committee (HREC/92971/Austin-2023), which included a waiver of consent in accordance with the National Statement on Ethical Conduct in Human Research 2023 (Australia).
+
+To examine the potential association between rifaximin exposure and the presence of DAP-associated
+
+Data were obtained from medical records with approval from the local ethics committee (ethical committee of the University of Regensburg, 21-2521−101). Stool samples were collected from patients after obtaining written informed consent, and the study was performed in accordance with the Declaration of Helsinki.
+
+Cultures of VREfm (
+
+All MS experiments were performed using an electrospray ionization source. The spray voltages were 3.5 kV in positive-ionization mode and 3.0 kV in negative-ionization mode. In both polarities, the flow rates of sheath, auxiliary and sweep gases were 25 and 5 and 0 arbitrary unit(s), respectively. The ion-transfer tube and vaporizer temperatures were maintained at 300 °C and 150 °C, respectively, and the ion funnel RF level was set at 50%. In the positive-ionization mode from 3 to 24 min, a top-speed data-dependent scan with a cycle time of 1 s was used. Within each cycle, full-scan MS spectra were acquired first in the Orbitrap at a mass resolving power of 120,000 (at
+
+LC–MS/MS data were searched using MS Dial v.4.90. The mass accuracy settings were 0.005 Da and 0.025 Da for MS1 and MS2. The minimum peak height was 50,000 and the mass slice width was 0.05 Da. The identification score cut-off was 80%. In positive-ionization mode, [M + H]+, [M + NH
+
+Cultures were grown to mid-exponential phase (OD
+
+Pelleted snap-frozen bacterial cells (OD
+
+C18 enriched proteome samples were resuspended in 2% acetonitrile (aq) containing 0.01% trifluoroacetic acid (buffer A*) and separated using the Vanquish Neo UHPLC (Thermo Fisher Scientific) system with a single-column chromatography set up composed of a ACQUITY UPLC Peptide BEH C18 Column (300 Å, 1.7 µm, 1 mm × 100 mm, Waters) at a flow rate of 50 μl min
+
+In predicting the potential effects of substitutions Q473L, G482D, H486Y and S491F, the full
+
+The modelled structure was used as input within in silico biophysical predictors Dynamut2
+
+The zeta potential was measured on cells grown to exponential phase (OD
+
+BoDipy fluorescent dye (4,4-difluoro-1,3,5,7,8-pentamethyl-4-bora-3a,4a-diaza-
+
+All figures were generated in R (v.4.0.3,
+
+Further information on research design is available in the
+
+Any methods, additional references, Nature Portfolio reporting summaries, source data, extended data, supplementary information, acknowledgements, peer review information; details of author contributions and competing interests; and statements of data and code availability are available at 10.1038/s41586-024-08095-4.
+
+
+
+Supplementary Tables 1–11.
+
+Reporting Summary
+
+Peer Review File
+
+
+
+Source Data Fig. 1
+
+Source Data Fig. 3
+
+Source Data Fig. 4
+
+Source Data Fig. 5
+
+Source Data Extended Data Fig. 1
+
+Source Data Extended Data Fig. 2
+
+Source Data Extended Data Fig. 4
+
+Source Data Extended Data Fig. 5
+
+Source Data Extended Data Fig. 9

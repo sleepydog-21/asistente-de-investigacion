@@ -1,0 +1,89 @@
+The
+
+A schematic view of the timely binding/dissociation of IHF and Fis at
+
+Integration host factor exists as a heterodimer of α- and β-subunits and is abundant in
+
+The main system for inactivation of DnaA is called RIDA (regulatory inactivation of DnaA), in which DnaA-bound ATP is catalytically hydrolyzed by the complex of the AAA+ Hda protein and the DNA-loaded form of the clamp (β subunit) of the DNA polymerase III holoenzyme in a manner coupled with DNA replication (
+
+Cell cycle-dependent oscillation of
+
+Previous studies have presented three clues relating to regulatory mechanisms for
+
+In this study, we addressed the requirement of transcription of the
+
+The
+
+List of
+
+A
+
+List of oligonucleotides used in this study.
+
+For the construction of mutant strains in
+
+Determination of the transcriptional promoter for
+
+P
+
+Chromatin affinity precipitation (ChAP, a modified version of ChIP assay) and qPCR experiments were performed according to a previously described method (
+
+Total cellular RNA samples used in
+
+Insertion of a transcriptional terminator inhibits transcription-dependent
+
+Analysis of transcriptional terminator/attenuator sequence of the
+
+For RT-qPCR, cDNA samples were prepared using 1 μg of each total RNA sample and PrimeScript™ RT reagent Kit with gDNA Eraser (Perfect Real Time) (TaKaRa). The RNA levels were quantified by real-time qPCR using TB Green Premix Ex Taq™II (Tli RNaseH Plus) (TaKaRa) and primers ORI_1 and KWoriCRev for
+
+Northern blotting experiments were performed according to a previously described method (
+
+The minimal region of
+
+To analyze the cell cycle-dependent correlation between
+
+To validate our assay, initial control experiments were performed in which the cell cycle-coordinated binding/dissociation of IHF at the
+
+Next, under the same experimental conditions as in
+
+In
+
+To determine the transcriptional start site of
+
+To confirm whether
+
+In the ITK9c (
+
+Next, to address the requirement of P
+
+In cells synchronized at the initiation period (
+
+To address the impact of the ΔP
+
+To confirm the requirement of P
+
+To address the regulatory mechanism and the requirement of the specific DNA element located between the region downstream of the
+
+In
+
+To address the possible role of T
+
+Introduction of ΔT
+
+Chromosomal DNA replication in bacteria is initiated at the origin of replication
+
+Model of tRNA transcription-dependent regulation for
+
+Because the cell cycle analysis suggested that transcriptional initiation of the
+
+In
+
+In addition, we addressed the role of T
+
+Based on these observations, we propose a model whereby read-through
+
+Previous studies have shown that the expression of most tRNA operons is regulated according to growth conditions, and that the level of tRNA-Gly (anticodon: GCC) derived from the
+
+The original contributions presented in this study are included in this article/
+
+KK: Conceptualization, Data curation, Funding acquisition, Investigation, Methodology, Project administration, Supervision, Visualization, Writing—original draft, Writing—review and editing. RyS: Conceptualization, Data curation, Investigation, Methodology, Visualization, Writing—review and editing. KI: Data curation, Investigation, Methodology, Visualization, Writing—review and editing. WN: Investigation, Writing—review and editing. RiS: Investigation, Writing—review and editing. TJ: Investigation, Writing—review and editing. SO: Supervision, Writing—review and editing. TK: Conceptualization, Funding acquisition, Project administration, Supervision, Visualization, Writing—review and editing.

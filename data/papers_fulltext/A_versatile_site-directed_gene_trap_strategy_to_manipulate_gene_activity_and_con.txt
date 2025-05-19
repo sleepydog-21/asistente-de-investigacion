@@ -1,0 +1,379 @@
+The biology of an organism, such as its development, physiology, and behavior, is specified by its genome. These biological processes require genes encoded in the genome to act in different cells at specific times. A powerful way to infer gene function is to use genetic analysis via manipulating gene activity spatiotemporally and then observe the functional consequences. Accordingly, the availability of genetic tools for such manipulations is critical to dissect the molecular and genetic mechanisms underlying the specificities and intricacies of an organism. Because of its powerful genetics as well as other unique features, including its short life cycle, invariant cell lineage, and well-annotated genome,
+
+Throughout the years, genetic tools for
+
+Similarly, tools for transgenesis and transgene control for
+
+Gene trap was originally designed and applied as a random insertional mutagenesis technique to clone new genes and understand their functions [
+
+Here, we describe a cGAL-and-operon-based gene trap strategy that can be specifically targeted to presumably any gene in
+
+We designed a cGAL gene trap cassette that can be inserted into a defined location in the genome through CRISPR/Cas9 genome editing and can be swapped with other constructs of interest through DNA recombinase Flippase (Flp)-mediated RMCE (
+
+Due to the SL2
+
+In addition, because of the flanking FRT site and reverse FRT3 site, cGAL gene trap alleles can be further modified
+
+To determine if our cGAL gene trap design can presumably hijack the endogenous splicing of the target gene and thus generate a truncated gene product to produce a loss-of-function allele, we tested our design using the
+
+Next, we tested if we could use the cGAL gene trap alleles with corresponding UAS effector lines for genetic rescue experiments. The cGAL driver is presumably expressed under the promoter of the target gene, and thus, it should drive the expression of the UAS effector gene in the same cells where the target gene is expressed. We reasoned that the expulsion defects of
+
+Additionally, we determined if cGAL gene trap lines can be used to study the expression pattern of the gene of interest. When crossing
+
+In addition, we also found that
+
+The use of cGAL gene trap lines for expression pattern analysis is advantageous: it is much more robust than using a single-copy insertion of fluorescent proteins at the endogenous locus (
+
+Next, we tested if cGAL gene trap lines can be used to manipulate the neurons that express the target gene to reveal the function of these neurons. Activation of the two GABAergic neurons, AVL and DVB, by the AEX-2 signaling triggers the expulsion step [
+
+We tested if the cGAL gene trap strategy works robustly when the cassette is inserted into other
+
+We wanted a way to reuse the regulatory elements of the target genes revealed by the existing cGAL gene trap to create drivers with the corresponding transcription factors from other bipartite expression systems that have been shown to work in
+
+However, each gene trap swap via RMCE requires a separate microinjection, which is tedious. Because DNA constructs injected into
+
+Finally, we tested if new gene traps lines generated through RMCE function like the original cGAL gene trap lines. To do so, we compared the
+
+Here we describe the first cGAL-based gene trap strategy in
+
+In our study, we tested our cGAL gene trap design by inserting the cGAL gene trap cassette in introns of the target genes and our results showed that gene trap works robustly for all the genes tested. For example, both
+
+The current design of the cGAL gene trap insertion cassette is versatile. First, the cGAL gene trap can be specifically targeted to presumably any genes in the
+
+There are some potential limitations of our cGAL gene trap strategy. First, although regulatory elements that control expression for most
+
+Our cGAL-based gene trap strategy provides a powerful way to interrogate gene function, examine gene expression, and enable precise transgene control. The cGAL gene trap lines can easily be combined with growing numbers of available UAS effector lines, which includes more than 30 validated UAS effector lines for manipulating neuron activity, ablating cells, expressing various fluorescent reporters, and perturbing specific signaling transduction pathways [
+
+All
+
+Plasmids were constructed using empty entry vectors and destination vectors for SapTrap [
+
+The standard microinjection procedure for
+
+Single-copy transgenes inserted in the gene trap lines reported here were confirmed by sequencing. Briefly, for each strain, a 60 mm NGM plate containing almost starved worms was washed with M9 buffer and lysed with worm lysis buffer and Proteinase K (NEB, Ipswich, MA). Genomic DNA was extracted using the Zymo
+
+To generate gene specific cGAL gene trap lines, a recently optimized CRISPR/Cas9 knock-in method via the self-excising cassette (SEC) selection [
+
+cGAL gene trap lines were crossed into the strain BN711 (
+
+First, we generated a transgenic line with a “swapping” extrachromosomal array that contains the target RMCE gene trap plasmid and negative selection markers (HisCl1 expressing plasmids, see
+
+General recommendations for successful RMCE via genetic cross are as follows. When generating extrachromosomal arrays for RMCE knock-ins, we recommend choosing an extrachromosomal array line that has a reasonably good transmission rate. We also recommend testing the line by adding histamine onto a maintained NGM plate with adequate OP50 and observing if the Rol worms are paralyzed and not pumping shortly after the addition of histamine. In our hand, the inclusion of both
+
+As the targeted gene was being modified, all gene trap alleles generated from CRISPR/Cas9 knock-ins and RMCE swapping were designated a new allele name (
+
+Fluorescence imaging of L4 worms expressing GFP or mScarlet-I-C1 was performed in double heterozygous (gene trap/+; effector/+) animals except for the co-localization images, which were taken in double homozygous animals. L4 animals were mounted on a 2% agarose pad on a glass slide for imaging. First, worms were immobilized by transferring them to 20 μL of 30 mg/mL 2,3-Butanedione monoxime (BDM) solution (Sigma-Aldrich, St. Louis, MO) on a cover slide. When most worms were immobilized (~5–10 mins), a freshly prepared 2% agarose pad on glass slide was inverted onto the drop containing the immobilized worms, creating the imaging slide. All images were oriented with the anterior side of the worm to the left and the ventral side at the bottom. Imaging was performed using a 20X/0.75, WD 1 dry objective or 40X/1.3, ∞/0.17, WD 0.24 oil objective in a Nikon Ti2-E Eclipse inverted microscope connected to a Prime 95B (25mm) sCMOS camera. Green and red fluorescent images were taken with standard GFP and mCherry filter cubes, respectively, using a SPECTRA X LED light engine (Lumencor, Beaverton, OR). Representative images presented in the manuscript are maximum intensity projections derived from Z-stack images of the sample worms, created using NIS-Elements Advanced Research software (Nikon). To induce GFP effector expression for the Tet-On gene trap experiment, 400 μL of 1 ng/μL doxycycline (Gold Biotechnology Inc., St. Louis, MO) was added to cross plates for a final concentration of 0.04 ng/μL and the worms were imaged after 24 hours.
+
+Defecation was assayed as previously described [
+
+Briefly, 10 μL of M9 was added to a 1.5 mL Eppendorf tube, and OP50 from a seeded NGM plate was swirled into the M9 buffer. Then, about 50–75 adult worms were added to the M9 + OP50 mixture. After adding the worms, 30 μL of 20% (w/v) blue food dye stock (FD&C Blue #1 powder diluted in ddH
+
+All statistical analyses were conducted using the software Prism 10 (GraphPad, Boston, MA). Raw data for all behavioral assays can be found in
+
+The “GCG” and “ACG” at the ends are the adaptor sequences from SapTrap cloning. SEC removal leaves a single LoxP site (blue highlight). >>, forward strand; <<, reverse strand.
+
+(PDF)
+
+Intestinal lumen was visualized by feeding adult worms with bacteria OP50 in blue food dye. For wild-type animals, the intestinal lumen of wild-type worms is thin; for
+
+(TIF)
+
+The expulsion defects in
+
+(TIF)
+
+ZZZ538 is
+
+(TIF)
+
+DIC and fluorescent images of the single-copy GFP effector strain ZZZ251 (
+
+(TIF)
+
+Merged image of DIC and fluorescent images of the strain PHX4447, a transcriptional reporter strain of
+
+(TIF)
+
+The most effective cross scheme is scheme 1, in which the males are double homozygous for the cGAL gene trap (cGAL GT) and the germline-expressing Flp transgene (
+
+(PDF)
+
+(PDF)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)
+
+
+
+Dear Dr Wang,
+
+Thank you very much for submitting your Methods entitled 'A versatile site-directed gene trap strategy to manipulate targeted gene activity and control gene expression in C. elegans' to PLOS Genetics.
+
+The manuscript was fully evaluated at the editorial level and by independent peer reviewers. The reviewers appreciated the attention to an important topic but identified some concerns that we ask you address in a revised manuscript.
+
+We therefore ask you to modify the manuscript according to the review recommendations. Your revisions should address the specific points made by each reviewer.
+
+In addition we ask that you:
+
+1) Provide a detailed list of your responses to the review comments and a description of the changes you have made in the manuscript.
+
+2) Upload a Striking Image with a corresponding caption to accompany your manuscript if one is available (either a new image or an existing one from within your manuscript). If this image is judged to be suitable, it may be featured on our website. Images should ideally be high resolution, eye-catching, single panel square images. For examples, please browse our
+
+We hope to receive your revised manuscript within the next 30 days. If you anticipate any delay in its return, we would ask you to let us know the expected resubmission date by email to
+
+If present, accompanying reviewer attachments should be included with this email; please notify the journal office if any appear to be missing. They will also be available for download from the link below. You can use this link to log into the system when you are ready to submit a revised version, having first consulted our
+
+While revising your submission, please upload your figure files to the
+
+Please be aware that our
+
+To enhance the reproducibility of your results, we recommend that you deposit your laboratory protocols in protocols.io, where a protocol can be assigned its own identifier (DOI) such that it can be cited independently in the future. Additionally, PLOS ONE offers an option to publish peer-reviewed clinical study protocols. Read more information on sharing protocols at
+
+Please review your reference list to ensure that it is complete and correct. If you have cited papers that have been retracted, please include the rationale for doing so in the manuscript text, or remove these references and replace them with relevant current references. Any changes to the reference list should be mentioned in the rebuttal letter that accompanies your revised manuscript. If you need to cite a retracted article, indicate the article’s retracted status in the References list and also include a citation and full reference for the retraction notice.
+
+PLOS has incorporated
+
+To resubmit, log into your Editorial Manager account and select the option 'Revise Submission' in the 'Submissions Needing Revision' folder.
+
+Please let us know if you have any questions while making these revisions.
+
+Yours sincerely,
+
+Daniel A. Starr
+
+Academic Editor
+
+PLOS Genetics
+
+Quanjiang Ji
+
+Section Editor
+
+PLOS Genetics
+
+Thank you for sharing this study with PLoS Genetics. As you can see, all three reviewers see signficnat value for these tools to be used broadly by the C elegans community. All three also contain helpful comments in their reviews.
+
+Please address all the reviewer comments. Then we would be very interested in seeing a revised manuscript.
+
+Reviewer's Responses to Questions
+
+
+
+
+
+Reviewer #1: Upload as an attachment
+
+Reviewer #2: In the manuscript "A versatile site-directed gene trap strategy to manipulate targeted gene activity and control gene expression in C. elegans") the authors Khan et al. describe the development and testing of the first gene trap cassette in C. elegans. The gene trap cassette is elegant and versatile in its design and can simultaneously be used to generate null alleles and drive effector genes (via the cGal system). Furthermore, the cassette can easily be exchanged by RMCE for other driver systems. The authors convincingly demonstrate null phenotypes of three genes (aex-2, unc-47, and inx-16) and accurate capture of gene expression patterns using fluorophores. In addition, the authors demonstrate the significant utility of amplifying expression signals using a secondary single-copy 11x UAS::gfp transgene. Finally, the authors demonstrate efficient RMCE with a large number of transcription factor amplification systems (e.g., LexA, TetOn, TetOff) by injection and by a genetic crossing scheme.
+
+Overall, the data shown are comprehensive and convincing. The manuscript is well-written with clear figures and is easy to comprehend, with extensive methods and protocol sections that will help other laboratories use the technique. An efficient gene trap method has been missing in the C. elegans toolbox and should be of significant utility to many laboratories in the field. I predict that the method will become widely used in the community.
+
+One general comment about the gene trap design that the authors do not mention. As described, the splice acceptor and three-frame stop codons should truncate the protein. However, the downstream gpd-2/3 operon would be expected to do the same. The operon sequence leads to transcriptional termination and re-initiation. I do not know of any examples of operon sequences being "ignored," for example, for alternative splicing, so in effect, the authors have a "double termination" system. This may be worth including in the text, especially as the authors discuss the insertion site of the cassette relative to an endogenous splice site. It should, in principle, not matter given their design - including insertions into exons.
+
+Suggested changes
+
+I would mainly ask the authors to clarify and make the following additions to the text:
+
+The methods mention validation of the insertion sites by PCR (and even a short discussion of using Oxford Nanopore to validate). There is no mention of the validation in the text. Please include a brief sentence in the results about whether all insertions were validated. Did the authors ever observe off-target insertions?
+
+Specific comments:
+
+Lines 206 - 213: Could the authors comment more exhaustively on the expression in the gland cells? There is a slight discrepancy with previously characterized expression patterns (although expression is consistent with more recent single-cell data but then the expression is higher than expected). Do the authors think this has to do with amplification of the fluorescence signal using the 11x UAS::mScarlet construct? For example, the minimal promoter used in the 11x UAS::mScarlet construct? Or could this be caused the 3' UTR regulation, either of the tbb-2 3' UTR in the cGal GT construct or the 11x UAS::mScarlet construct? Understanding how accurately the expression patterns reflect the endogenous expression is important for the utility of using the gene-trap cassette for further experiments.
+
+Lines 217 - 218: The signal amplification from the 11x UAS::GFP construct is an important consideration. Could the authors comment and/or characterize the following:
+
+A. Approximately how much amplification do they observe? They only mention different look-up tables, but it would be useful to have a "solid number" for how much signal amplification is observed, which should be easily inferred from the images and the microscopy settings on the already included images.
+
+B. A second question concerns how many cells they see expression in. From the images in Fig. S4, it is difficult for the reader to see if the patterns are "similar" but just have different intensities. This is, of course, a difficult question to answer, but it would be useful for the reader to know how many cells are expected to express a-2 based on single-cell data and whether the patterns are consistent with this.
+
+Lines 329 - 331: I agree that the gene trap cassette is versatile. However, could the authors comment on if and how the gene trap would be used in genes with lethal or sterile phenotypes? Are there ways to maintain the gene trap insertion for alleles that need to be heterozygous? The authors use the self-excising cassette (SEC), which contains a positive selection marker (HygroR). Using the SEC is convenient but would appear to be limiting for genes with a severe loss-of-function phenotype because the positive selection is removed before the genetically modified animals are "used" in experiments. Unless I am missing an important point, I would suggest including this in the list of limitations that comes immediately after in the discussion.
+
+Lines 351 - 357: I am not sure I understand the logic of the discussion of the location of the enhancers relative to where the gene trap is inserted. If an enhancer is located in an intron downstream of the gene trap insertion (or further away), the enhancer could presumably still function to regulate transcription at the TSS. It is true that any perturbation of the genomic locus (including a "normal" N or C terminal gfp tag) can potentially disrupt transcriptional regulation, but that is difficult to predict based on the location. Perhaps the authors could elaborate on what exactly they mean.
+
+Minor suggestions
+
+p27. Figure 2, panel C. It would be useful to indicate the nature of the "tanSi67" transgene in the figure, even though the legend explains why these experiments should be rescued.
+
+Line 84: Please add the allele name of the single-copy insertion (tanSi67)
+
+Reviewer #3: In this work by Khan et al., the authors developed a versatile and neat gene trap system in the widely used genetic model organism C. elegans. In the C. elegans community, a method that allows simultaneous disruption of a target gene function and the expression of transgenes in the same cells where the target gene is disrupted is currently lacking. To address this key gap, the authors developed the cGAL-based gene trap strategy that can target any gene of interest using CRISPR/Cas9-mediated homologous recombination. Using an operon-based design, the cGAL gene trap cassette contains stop codons in all three reading frames to create loss-of-function allele of the targeted gene, and at the same time contains coding sequences for cGAL that would drive the expression of transgenes preceded by UAS in the same cell. This feature will allow for the analysis of expression patterns using UAS::gfp as well as the expression of transgenes to examine their ability of rescue mutant phenotypes. Importantly, the presence of Flp Rcognition Target sites flanking the gene trap cassette promises the ability to convert them into gene traps with other bipartite expression systems using recombinase-mediated cassette exchange. The authors convincingly presented data to demonstrate the efficacy and robustness of this system, and gained new biological insights, including the expression of aex-2 in the excretory gland cells. Overall this work is very well written and presented an innovative experimental system that could be of particular interest to the C. elegans community, with potentially broad impact to various biological problems using eukaryotic model organisms. Specific comments/points are as follows:
+
+(1) It would be very helpful to the C. elegans field and any labs who would like to use this system if the authors can elaborate on the rationale behind the choice of introns or positions within introns where the cassette was inserted. In particular, it would be useful to know if the authors have tested different introns/locations and if so whether the results are comparable. It is noted that in Figure 3, both tan174 and tan99 were examined in terms of the inx-16 loss-of-function phenotypes, however, it is unknown whether the cGAL driven expression of UAS::GFP are similar (only one of them is shown in Fig. 3F). Answers to this question will be important to understand the extent of variability in the expression of cGAL, considering the lack of clarity in the locations of regulatory elements for the targeted genes in C. elegans (despite the authors’ mentioning in Line 178 – 179 that “The cGAL driver is presumably expressed under the promoter of the targe gene”).
+
+(2) In Figure 4C, the expression pattern of most of the bipartite systems are similar to the GFP pattern in Fig. 3E, except LexA GT, where the prominent GFP signals in head GABAergic neurons are missing. Is the image representative? If so, the authors should provide interpretation or comments and consider modifying the text about all of them being the same as Fig. 3E.
+
+(3) in Figure 2D, one more negative control where only syIs371/+ and Histamine are present would be required. More than one variable is changed between current groups.
+
+Minor points:
+
+(1) For all bipartite-driven expression pattern data, negative control lacking the driver should be shown (e.g. Fig. 2 GH, Fig. 3EF, Fig. 4C).
+
+(2) in Figure S4, the choice of words “GFP (optimized for..)” is misleading. One option is to say “GFP intensity scaling optimized for…”.
+
+**********
+
+
+
+Large-scale datasets should be made available via a public repository as described in the
+
+Reviewer #1: None
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1:
+
+Reviewer #2: No
+
+Reviewer #3: No
+
+Submitted filename:
+
+
+
+Submitted filename:
+
+
+
+Dear Dr Wang,
+
+We are pleased to inform you that your manuscript entitled "A versatile site-directed gene trap strategy to manipulate targeted gene activity and control gene expression in Caenorhabditis elegans" has been editorially accepted for publication in PLOS Genetics. Congratulations!
+
+Before your submission can be formally accepted and sent to production you will need to complete our formatting changes, which you will receive in a follow up email. Please be aware that it may take several days for you to receive this email; during this time no action is required by you. Please note: the accept date on your published article will reflect the date of this provisional acceptance, but your manuscript will not be scheduled for publication until the required changes have been made.
+
+Once your paper is formally accepted, an uncorrected proof of your manuscript will be published online ahead of the final version, unless you’ve already opted out via the online submission form. If, for any reason, you do not want an earlier version of your manuscript published online or are unsure if you have already indicated as such, please let the journal staff know immediately at
+
+In the meantime, please log into Editorial Manager at
+
+If you have a press-related query, or would like to know about making your underlying data available (as you will be aware, this is required for publication), please see the end of this email. If your institution or institutions have a press office, please notify them about your upcoming article at this point, to enable them to help maximise its impact. Inform journal staff as soon as possible if you are preparing a press release for your article and need a publication date.
+
+Thank you again for supporting open-access publishing; we are looking forward to publishing your work in PLOS Genetics!
+
+Yours sincerely,
+
+Daniel A. Starr
+
+Academic Editor
+
+PLOS Genetics
+
+Quanjiang Ji
+
+Section Editor
+
+PLOS Genetics
+
+Aimée Dudley
+
+Editor-in-Chief
+
+PLOS Genetics
+
+Anne Goriely
+
+Editor-in-Chief
+
+PLOS Genetics
+
+
+
+Twitter: @PLOSGenetics
+
+----------------------------------------------------
+
+Comments from the reviewers (if applicable):
+
+Reviewer's Responses to Questions
+
+
+
+
+
+Reviewer #1: The authors have addressed my previous questions and concerns effectively, including adding Figure S6 to support the excretory gland cell expression of aex-2, providing detailed protocols for CRISPR/Cas9 gene-editing for generating gene trap strains, clarifying the HisCl1 experiments, and commenting on the different performance of different bipartite expression systems. Overall, the revisions significantly improved the clarity of the study, and I believe the manuscript is now ready for publication.
+
+Reviewer #2: The authors have adequately answered all my concerns.
+
+Reviewer #3: In this revised manuscript by Khan et al., the authors have provided extensive additional data and have extensively revised the text to thoroughly address previous critiques. The authors have now included key expression pattern, key negative controls, as well as extensive details/discussions about their methodology and elusive results related to LexA GT. Confusing text in figure S4 has also been clarified. Overall, the manuscript contains several interesting and relevant findings that will be of broad interest to a wide audience.
+
+**********
+
+
+
+Large-scale datasets should be made available via a public repository as described in the
+
+Reviewer #1: Yes
+
+Reviewer #2: Yes
+
+Reviewer #3: Yes
+
+**********
+
+PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1: No
+
+Reviewer #2: No
+
+Reviewer #3:
+
+----------------------------------------------------
+
+
+
+If you have submitted a Research Article or Front Matter that has associated data that are not suitable for deposition in a subject-specific public repository (such as GenBank or ArrayExpress), one way to make that data available is to deposit it in the
+
+The following link will take you to the Dryad record for your article, so you won't have to re‐enter its bibliographic information, and can upload your files directly:
+
+
+
+More information about depositing data in Dryad is available at
+
+Additionally, please be aware that our
+
+----------------------------------------------------
+
+
+
+If you or your institution will be preparing press materials for this manuscript, or if you need to know your paper's publication date for media purposes, please inform the journal staff as soon as possible so that your submission can be scheduled accordingly. Your manuscript will remain under a strict press embargo until the publication date and time. This means an early version of your manuscript will not be published ahead of your final version. PLOS Genetics may also choose to issue a press release for your article. If there's anything the journal should know or you'd like more information, please get in touch via
+
+
+
+PGENETICS-D-24-01003R1
+
+A versatile site-directed gene trap strategy to manipulate gene activity and control gene expression in
+
+Dear Dr Wang,
+
+We are pleased to inform you that your manuscript entitled "A versatile site-directed gene trap strategy to manipulate gene activity and control gene expression in
+
+The corresponding author will soon be receiving a typeset proof for review, to ensure errors have not been introduced during production. Please review the PDF proof of your manuscript carefully, as this is the last chance to correct any errors. Please note that major changes, or those which affect the scientific understanding of the work, will likely cause delays to the publication date of your manuscript.
+
+Soon after your final files are uploaded, unless you have opted out or your manuscript is a front-matter piece, the early version of your manuscript will be published online. The date of the early version will be your article's publication date. The final article will be published to the same URL, and all versions of the paper will be accessible to readers.
+
+Thank you again for supporting PLOS Genetics and open-access publishing. We are looking forward to publishing your work!
+
+With kind regards,
+
+Anita Estes
+
+PLOS Genetics
+
+On behalf of:
+
+The PLOS Genetics Team
+
+Carlyle House, Carlyle Road, Cambridge CB4 3DN | United Kingdom

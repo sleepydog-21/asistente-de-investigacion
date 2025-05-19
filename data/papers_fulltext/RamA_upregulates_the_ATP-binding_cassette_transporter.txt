@@ -1,0 +1,45 @@
+The global transcriptional activator RamA, classified within the AraC/XylS family of regulatory proteins, plays a vital role in the resistance and pathogenic mechanisms of
+
+Maintenance of lipid asymmetry (Mla) pathway belongs to the ABC transporters which comprise an extensive family of membrane transport proteins that perform a range of functions essential for cell survival in harsh environments and provide intrinsic resistance to multiple antibiotics (
+
+Recent studies have highlighted the key role of the Mla pathway in conferring polymyxin resistance to
+
+On the basis of these findings, we investigated the role of RamA in regulating the expression of
+
+KP22 is a tigecycline-resistant clinical isolate that, compared with
+
+RamA regulates expression of the mla
+
+Given that AraC family transcription factors bind to marbox sequences, we analyzed promoter sequences from approximately 59 bp upstream of the
+
+Our team has previously reported that RamA regulates both the AcrAB and OqxAB efflux pumps, thereby mediating tigecycline resistance in
+
+Antimicrobial susceptibility proﬁle of
+
+Minimum inhibitory concentrations were determined using the broth microdilution methods and are expressed as μg/mL.
+
+We subsequently sought to determine whether the deletion of
+
+A map of
+
+Colony-forming units (CFU) on agar media containing 0.5% SDS and 0.55 mM EDTA were counted, and the CFU per milliliter (CFU/mL) were calculated. The
+
+In this study, we sought to determine at the molecular level how the AraC-type global regulator RamA directly regulate
+
+The AraC family of transcription factors are widely present among bacteria in the
+
+Mla pathway in gram-negative bacteria plays an important role in phospholipid transport (
+
+In conclusion, our findings in this study emphasize that RamA plays a key role in regulating the integral inner membrane ABC permease
+
+Total RNA was extracted from bacterial cells as previously described (
+
+To determine the transcriptional expression levels of
+
+The chromosomal gene
+
+Wild-type
+
+The MICs of several antibiotics were determined for wild-type
+
+SDS-EDTA sensitivity assays were performed as described by Malinverni and Silhavy (

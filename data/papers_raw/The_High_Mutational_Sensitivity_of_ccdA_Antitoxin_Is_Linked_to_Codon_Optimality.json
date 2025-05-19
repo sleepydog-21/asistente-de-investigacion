@@ -1,0 +1,11 @@
+{
+  "id": "36069948",
+  "title": "The High Mutational Sensitivity of ccdA Antitoxin Is Linked to Codon Optimality.",
+  "doi": null,
+  "authors": "Chandra S, Gupta K, Khare S, Kohli P, Asok A, Mohan SV, Gowda H, Varadarajan R",
+  "journal": "Molecular biology and evolution",
+  "year": "2022",
+  "abstract": "Deep mutational scanning studies suggest that synonymous mutations are typically silent and that most exposed, nonactive-site residues are tolerant to mutations. Here, we show that the ccdA antitoxin component of the Escherichia coli ccdAB toxin-antitoxin system is unusually sensitive to mutations when studied in the operonic context. A large fraction (∼80%) of single-codon mutations, including many synonymous mutations in the ccdA gene shows inactive phenotype, but they retain native-like binding affinity towards cognate toxin, CcdB. Therefore, the observed phenotypic effects are largely not due to alterations in protein structure/stability, consistent with a large region of CcdA being intrinsically disordered. E. coli codon preference and strength of ribosome-binding associated with translation of downstream ccdB gene are found to be major contributors of the observed ccdA mutant phenotypes. In select cases, proteomics studies reveal altered ratios of CcdA:CcdB protein levels in vivo, suggesting that the ccdA mutations likely alter relative translation efficiencies of the two genes in the operon. We extend these results by studying single-site synonymous mutations that lead to loss of function phenotypes in the relBE operon upon introduction of rarer codons. Thus, in their operonic context, genes are likely to be more sensitive to both synonymous and nonsynonymous point mutations than inferred previously.",
+  "source": "PubMed",
+  "pmcid": "PMC9555053"
+}

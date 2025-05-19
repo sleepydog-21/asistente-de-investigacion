@@ -1,0 +1,145 @@
+The ability to sense and respond to viral infection is an essential cellular process conserved across domains of life. In bacteria, a major mechanism of antiviral immunity is synthesis of nucleotide immune signals that activate defense against bacteriophage (phage) infection.
+
+The arms race between viruses and hosts has led to evolution of distinct viral immune evasion strategies that target host nucleotide immune signaling. First, phages encode dedicated nuclease enzymes that rapidly degrade nucleotide immune signals including anti-CBASS 1 (Acb1) that inhibits CBASS, anti-Pycsar 1 (Apyc1) that inhibits Pycsar, and anti-CRISPR III-1 (AcrIII-1) that inhibits Type III CRISPR immunity.
+
+The emergence of sponge proteins as a conserved strategy of viral immune evasion creates several open questions. Currently, sponge protein identification has been limited to genetic based methods screening for phages with altered susceptibility to host anti-phage defense.
+
+Here we develop a forward biochemical approach for the discovery of viral sponges from infected lysates. We apply our unbiased method to screen a diverse collection of 57 phages and identify
+
+To discover viral proteins that inhibit bacterial anti-phage defense, we developed a biochemical screen capable of detecting viral nucleotide immune signal sponges directly from phage-infected lysates. Using radiolabeled 3′3′-cyclic GMP-AMP (3′3′-cGAMP), a common second messenger signal in CBASS immunity
+
+We next applied this approach to screen a diverse collection of 57 phages that infect
+
+To determine the phage SPO1 protein responsible for 3′3′-cGAMP-binding, we next used an activity-guided fractionation and mass spectrometry approach to identify candidate Acb proteins from infected cell lysates (
+
+We next measured the ability of Acb4 to inhibit CBASS signaling
+
+We next compared replication fitness of the panel of the recombinant phage variants in
+
+To define the molecular mechanism of Acb4 nucleotide sequestration and CBASS evasion, we determined a 2.10 Å crystal structure of the phage SPO1 Acb4–3′3′-cGAMP complex (
+
+The Acb4 3′3′-cGAMP-binding site is situated in a pocket formed between an extended β
+
+Key structural features in Acb4 enable the selective recognition of nucleotide immune signals in anti-phage defense. The 3′3′-cGAMP ligand binding site is formed at the interface between two partnering protomers (denoted Acb4
+
+Nucleobase-specificity allows Acb4 to discriminate between CBASS signals from cyclic dinucleotides that regulate normal bacterial growth and intracellular signaling.
+
+CBASS immunity spans all major bacterial phyla and is encoded in >16% of sequenced bacterial genomes.
+
+To understand the diversity of Acb4 proteins, we selected eight Acb4 homologs for bioinformatic and functional characterization. We began by comparing the crystal structure of the
+
+We next cloned and recombinantly expressed all eight Acb4 homologs as purified proteins (
+
+To explore the potential evolutionary origin of immune evasion proteins, we used Dali
+
+In this study, we discover Acb4 from the
+
+CBASS immunity is one of the most common forms of bacterial anti-phage defense
+
+Effective CBASS evasion requires viral sponge proteins that precisely recognize nucleotide immune signals while avoiding non-specific interactions with closely related signals that control bacterial homeostasis. Our structural and biochemical analyses of
+
+Finally, our structural and phylogenetic analyses of the Acb4 immune evasion protein family reveal insight into the potential evolutionary origin of anti-CBASS proteins. Structure-guided homology searches show that Acb4 monomers share architectural homology with the dsRBM domain shared in bacterial RNA-binding proteins, including ribonucleases, peptide chain release factors, and small RNA interacting proteins, suggesting that Acb4 may have originated from a common bacterial RNA-binding fold (
+
+Further information and requests for resources and reagents should be directed to and will be fulfilled by the Lead Contact, Philip Kranzusch (
+
+This study did not generate new unique reagents.
+
+Coordinates of
+
+This paper does not report original code.
+
+Any additional information required to reanalyze the data reported in this paper is available from the lead contact upon request.
+
+Overnight cultures of
+
+Cyclic nucleotides used for binding analyses were synthesized using the following purified recombinant enzymes:
+
+Electrophoretic mobility shift assays were used to assess nucleotide immune signal binding activity with either recombinant protein or phage-infected lysates. Recombinant proteins were diluted to concentrations ranging from 250 nM to 50 μM in a reaction buffer containing 50 mM Tris-HCl pH 7.5, 5 mM MgCl
+
+An overnight culture of
+
+SPO1-infected phage lysates were prepared as described above in a lysis buffer containing 20 mM HEPES-KOH pH 7.5, 150 mM NaCl, 5 mM MgCl
+
+Precipitated protein pellets (~100 μg protein) were airdried to evaporate methanol and resuspended in 100 μL 200 mM N-(2-Hydroxyethyl)piperazine-N′-(3-propanesulfonic acid) (EPPS) pH 8.0 supplemented with trypsin (Promega) and LysC (Wako). Protein lysates were digested overnight with vigorous shaking at 37°C. Following overnight incubation, samples were centrifuged for 10 min at 21,000 × g, and peptide concentration was determined by microBCA (Thermo Scientific). Equal amounts of peptides for each sample (50 μg) were transferred into fresh tubes and samples were brought to a final volume of 100 μL in 200 mM EPPS pH 8.0. Peptides were labeled with 10 μl of TMTpro (16-plex) reagents in acetonitrile for 1 hour in the dark at RT and vortexed intermittently. Following TMT-labeling, 2 μl of each sample was combined into 140 μL 1% formic acid, desalted, and analyzed via LC-MS. Upon completion of the ratio check analysis, the labeling reaction was quenched by addition of 5 μl of 5% hydroxylamine and incubation for 15 min at RT. Samples were pooled at equal amounts according to the ratio check and diluted with 12 mL 1% FA in H
+
+An Orbitrap Eclipse Tribrid Mass Spectrometer (Thermo) coupled with an Easy-nLC 1200 (Thermo) was used for proteomics measurements. For each fraction, ~3 μg of peptides was dissolved in 5% ACN, and 5% FA before being loaded onto an in-house 100-μm capillary column packed with 35 cm of Accucore 150 resin (2.6 μm,150 Å). Peptides were separated and analyzed using a 180-min gradient consisting of 2%–23% ACN, 0.125% FA at 500 nL min
+
+Raw files were first converted to mzXML and searched using the Comet algorithm on an in-house database search engine as reported previously.
+
+TMT reporter ions were used for quantification of peptide abundance. Each reporter ion was scanned using a 0.003 Da window, and the most intense m/z was used. Isotopic impurities were corrected according to the manufacturer’s specifications, and signal-to-noise ratio (S/N) was calculated. Peptides with summed S/N lower than 150 across 15 channels of each TMTpro16 plex (15 samples) or isolation specificity lower than 0.5 were discarded. Proteins were quantified by summing up the TMT S/Ns of peptides.
+
+Codon-optimized sequences for SPO1 Acb4 and Acb4 homologs were synthesized as gBlocks (Integrated DNA Technologies) and assembled into the pETSUMO2 protein expression vector by Gibson assembly (NEB). Plasmids were transformed into the
+
+SPO1 Acb4, Acb4 homologs, cGAS/DncV-like nucleotidyltransferases, cGAS-like receptors, and CBASS effector proteins were expressed and purified from
+
+Crystals of the SPO1 Acb4–3′3′-cGAMP complex were grown using the hanging-drop vapor diffusion method for ~9 days at 18°C. Recombinant Acb4 was diluted to 10 mg mL
+
+X-ray diffraction data were collected at the National Synchrotron Light Source II (NSLS2) beamline 17-ID-2 (FMX). Data were processed with autoPROC and Aimless.
+
+Phage SPO1 Acb4 belongs to a previously uncharacterized protein family designated with the Pfam accession number PF13876.
+
+To determine the effect of Acb4 on CBASS effector activation, synthetic 3′3′-cGAMP was pre-treated with recombinant Acb4 and incubated with the CBASS nuclease effector protein
+
+Solid media phage challenge experiments were performed by spotting serial dilutions of high-titer phage stocks onto a lawn of bacteria harboring an active CBASS defense operon. Briefly, the CBASS operons
+
+Recombinant T4 strains were generated using a Cas13a-based selection strategy, as described previously.
+
+Statistical analyses are outlined in the figure legends. Data are plotted with error bars representing the standard deviation (SD). For thermal proteome profiling experiments, all data analyses were performed in R (Version 4.2.1) unless stated otherwise. Pearson correlation analyses were either performed in GraphPad Prism (Version 10.2.2) or in R. Significance of cysteine exposure was determined with two-tailed Student’s t-tests for pairwise comparison.
+
+Table S1. Summary of phages and lysate sampling times used in biochemical screen, related to
+
+Table S2. Crystallographic Statistics, related to
+
+Table S3. Summary of Acb4 homolog sequences and corresponding taxonomic information, related to
+
+Figure S1. Biochemical screen of 3′3′-cGAMP binding activity in
+
+(A) Schematic of screening approach and EMSA analysis of 3′3′-cGAMP binding and degradation activity detected in wildtype and recombinant T4 phage-infected lysates. Data are representative of at least
+
+(B) EMSA analysis of the binding of recombinant SPO1 Tad2 and 3′3′-cGAMP. Data are representative of
+
+(C) Primary data from a biochemical screen for 3′3′-cGAMP binding activity in 32
+
+Figure S2. Identification and purification of
+
+(A) Schematic of biochemical fractionation strategy used to enrich 3′3′-cGAMP binding activity from crude
+
+(B) Venn diagram comparing candidate Acb4 proteins identified independently through thermal proteome profiling (TPP) and biochemical fractionation coupled with mass spectrometry (MS).
+
+(C) Purification of phage SPO1 Acb4 from
+
+(D) SDS-PAGE analysis of recombinant
+
+(E) Size-exclusion chromatography with multi-angled light scattering analysis of recombinant
+
+Figure S3. Generation and validation of mutant phage T4 viruses, related to
+
+(A) Sanger sequencing reads confirming successful replacement of endogenous phage T4
+
+(B) EMSA analysis demonstrating 3′3′-cGAMP cleavage and binding activity in wildtype and recombinant phage T4 viruses.
+
+Figure S4. Acb4 structural characterization and diversity of Acb4 homologs, related to
+
+(A) Sequence alignment of
+
+(B) Bar graph illustrating distribution of phage-encoded Acb4 homologs classified by genus of bacterial host.
+
+(C) EMSA analysis to determine binding of SPO1 Acb4 and purified homologs against the bacterial second messenger 3′3′-cGG. Proteins were present at 5 μM and incubated with 20 nM
+
+Figure S5. Structural comparison of
+
+(A) Overview of
+
+(B) Overview of
+
+(C) Overview of
+
+(D) Overview of
+
+Figure S6. Biochemical and mutagenesis analysis of Acb4 ligand interaction, related to
+
+(A) Primary EMSA analysis data measuring 3′3′-cGAMP complex formation with Acb4 nucleotide binding pocket point mutants in
+
+(B) Detailed view of 3′3′-cGAMP phosphodiester backbone and stabilization by Acb4 residues Y57
+
+(C) Primary EMSA analysis data for quantification of binding affinity in

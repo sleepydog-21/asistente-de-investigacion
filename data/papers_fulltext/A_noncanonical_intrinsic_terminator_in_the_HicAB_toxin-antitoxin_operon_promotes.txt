@@ -1,0 +1,91 @@
+Toxin−antitoxin (TA) systems, including CcdB/CcdA of the F plasmid [
+
+Plasmids carrying antibiotic resistance genes (ARGs) and virulence genes endow host bacteria with new adaptive traits, but they frequently impose a metabolic burden on the host [
+
+Horizontal transmission of plasmids between bacteria significantly influences plasmid persistence and inheritance within host populations. The ‘competition hypothesis’ proposes that TA systems are selected for plasmids due to their role in enhancing plasmid transmission during horizontal transfer [
+
+The emergence of the IncI2 plasmid-mediated colistin resistance gene
+
+Genomic analysis reveals various TA systems on
+
+Details of the bacterial strains, plasmids, and primers used can be found in
+
+To search the PLSDB plasmid database (version 2023_11_03_v2) [
+
+The HicB, HicAB, and StbDE were purified from
+
+The bacterial two-hybrid (BACTH) assay is designed to study protein-protein interactions in a bacterial system [
+
+Primer extension was used to identify the transcription start sites of the
+
+The conjugation frequency of p45 and its derivatives was examined via a previously published method [
+
+Overnight cultures of
+
+Overnight cultures of the K-12 strain carrying p45 or TA mutant derivatives were diluted to an initial OD
+
+Total RNA was extracted from the
+
+To quantify HicB levels in the K-12/p45 and K-12/p45ΔTer strains, overnight cultures of K-12/pBBR1-
+
+β-Galactosidase activity in strains harboring the pHGR01-
+
+Growth and toxicity assays, targeted gene deletion of p45 plasmid, cloning genes into plasmids, strand-specific RNA sequencing analysis, next-generation sequencing analysis, MIC determination, swimming motility and biofilm assays, and phage defense detection methods are described in the Supplemental ethods.
+
+Analysis of plasmids obtained from the PLSDB (version 2023_11_23_v2, containing 59 895 plasmid records) revealed the presence of
+
+Type II HicAB and StbDE TAs are enriched on IncI2-type
+
+Interestingly, unlike the
+
+Plasmid-encoded TA systems were initially proposed to ensure the vertical inheritance of plasmids by eliminating cells devoid of the plasmid post-segregation. Hence, we tested the capability of the two pairs in stabilizing exogenous pCA24N, a high-copy expression plasmid under relaxed copy number control that would generate plasmid-free cells in the K-12 host without selection pressure after continuous cultivation. As expected, both HicA
+
+Therefore, we next pursued more physiologically-relevant conditions to investigate plasmid stability and the physiological role of these two TA systems on the p45 plasmid. Since the wild-type (WT) p45 is maintained at approximately one copy per cell in the K-12 host, we constructed deletions to knock out each toxin gene and each TA pair from p45. In the absence of polymyxin B (PB), the p45 plasmid was stably maintained at approximately one copy per cell in K-12, indicating that the replication and segregation of p45 are under stringent control. In addition, the mutant plasmids p45Δ
+
+HicAB and StbDE are both dispensable for the vertical stability to the p45 plasmid. (
+
+The p45 isogenic plasmid lacking the
+
+HicAB confers a competitive advantage over StbDE in terms of plasmid–plasmid competition. (
+
+To exclude the possibility that plasmid conjugation contributes to the reintroduction of the p45 plasmid lacking
+
+The greater occurrence of
+
+In parallel, to explore the role of StbDE in plasmid–plasmid competition, we employed conjugative transfer to obtain the strain K-12/p45: p45Δ
+
+Next, we aimed to investigate why HicAB and StbDE differ in how they impact plasmid competition. For type II TAs, the TA operon is usually cotranscribed with the antitoxin gene preceding the toxin gene [
+
+The noncanonical intrinsic terminator is essential for the imbalanced HicA:HicB ratio. (
+
+To further investigate the differential expression of
+
+To explore whether this internal terminator affects the mRNA abundance of
+
+To further explore the production of TA at the protein level, we analyzed the ribosome binding site (RBS) of the TA operons. For HicA
+
+A recent study reported that an HicAB TA encoded by the IncX4 plasmid pJIE143 could be directly deleted using the same one-step method [
+
+The p14EC007a plasmid showed a very slight advantage over p14EC007Δ
+
+Building upon the preceding findings, we hypothesized that HicA
+
+HicA
+
+The parental K-12/p45: p45Δ
+
+To further investigate the role of TA systems in mediating host–plasmid competition, we determined host phenotypic alterations, including swimming motility, antibiotic resistance, biofilm formation, and phage defense, after deleting each TA system (
+
+Next, according to the above study, the two TA systems are expected to contribute to p45 fitness during bacterial competition via plasmid conjugation and
+
+Bacteria carrying the p45 plasmid emerge as victors during bacterial competition. (
+
+Horizontal transfer is a critical process for conjugative plasmids; TA-mediated plasmid competition can thus function in the exclusion of competing plasmids via toxin-based toxicity. In addition, from the perspective of TA modules, this plasmid competition also functions to promote the spread of a specific family of TA modules within the population. In the case of p45 plasmids,
+
+In this study, we investigated the functions of two TA systems individually encoded by
+
+Previous work has demonstrated that toxin production is tightly controlled by antitoxins under normal growth conditions at the transcriptional and translational levels [
+
+Additionally, HicAB TA systems display significant diversity, including the fusion of extra domains to either the HicA or HicB proteins [
+
+The dissemination of ARGs such as

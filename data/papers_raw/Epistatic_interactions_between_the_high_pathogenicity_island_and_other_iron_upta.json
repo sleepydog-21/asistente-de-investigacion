@@ -1,0 +1,11 @@
+{
+  "id": "37339949",
+  "title": "Epistatic interactions between the high pathogenicity island and other iron uptake systems shape Escherichia coli extra-intestinal virulence.",
+  "doi": null,
+  "authors": "Royer G, Clermont O, Marin J, Condamine B, Dion S, Blanquart F, Galardini M, Denamur E",
+  "journal": "Nature communications",
+  "year": "2023",
+  "abstract": "The intrinsic virulence of extra-intestinal pathogenic Escherichia coli is associated with numerous chromosomal and/or plasmid-borne genes, encoding diverse functions such as adhesins, toxins, and iron capture systems. However, the respective contribution to virulence of those genes seems to depend on the genetic background and is poorly understood. Here, we analyze genomes of 232 strains of sequence type complex STc58 and show that virulence (quantified in a mouse model of sepsis) emerged in a sub-group of STc58 due to the presence of the siderophore-encoding high-pathogenicity island (HPI). When extending our genome-wide association study to 370 Escherichia strains, we show that full virulence is associated with the presence of the aer or sit operons, in addition to the HPI. The prevalence of these operons, their co-occurrence and their genomic location depend on strain phylogeny. Thus, selection of lineage-dependent specific associations of virulence-associated genes argues for strong epistatic interactions shaping the emergence of virulence in E. coli.",
+  "source": "PubMed",
+  "pmcid": "PMC10282060"
+}

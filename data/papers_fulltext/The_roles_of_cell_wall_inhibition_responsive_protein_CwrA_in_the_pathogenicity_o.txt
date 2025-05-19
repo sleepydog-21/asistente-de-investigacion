@@ -1,0 +1,105 @@
+Previous transcriptomic studies have revealed that
+
+In this study, we demonstrated that VraR could directly bind to the promoter region of
+
+This study was approved by the Ethics Committee of the Shanghai Pulmonary Hospital, School of Medicine, Tongji University, Shanghai, China. All animal experiments were carried out in strict accordance with the ARRIVE guidelines (
+
+The bacterial strains and plasmids used in the present study are listed in Table S1. Strains N315, USA300 (LAC), SA113, and Newman were used in this study. N315 and USA300 (LAC) belong to methicillin-resistant
+
+To construct the
+
+To construct plasmid pLi50-
+
+Constructing
+
+Overnight cultures of
+
+Bacteria were grown to mid-exponential phase at 37 °C in TSB medium. After centrifugation at 12,000 × g for 2 min, cells were resuspended in TE buffer containing 20 mg/ml lysostaphin and incubated at 37 °C for 20 min. After digestion, total RNA was extracted according to the manufacturer’s instructions (Spin Column Bacteria Total RNA Purification Kit; Sangon Biotech). RNA was reverse-transcribed into cDNA using a cDNA synthesis kit with gDNA Eraser (Takara).
+
+Real-time quantitative PCR was performed using TB Green
+
+β-galactosidase activity assay was performed as previously described [
+
+His
+
+Overnight LB cultures of
+
+A 359 bp DNA fragment covering the promoter region of
+
+Overnight cultures of
+
+Overnight cultures of
+
+Overnight cultures of
+
+The A549 lung epithelial cells were grown in DMEM medium supplemented with 10 % fetal bovine serum at 37 °C and 5 % CO
+
+The mouse nasal mucosa colonization assay was performed as previously described with slight modifications [
+
+PIA in the biofilm of
+
+Purification and quantification of eDNA were performed as previously described [
+
+Overnight cultures of
+
+Transmission electron microscopy (TEM) was performed as previously described with slight modifications [
+
+6-8 weeks old female BALB/c mice were housed in a specific pathogen-free facility and the libitum diet was given to them. Overnight cultures of
+
+Overnight cultures of
+
+Western blotting analysis of Hla was performed as previously described [
+
+Total RNA was isolated as previously described using a Qiagen RNeasy kit, following the manufacturer’s instructions. mRNA was purified from total RNA using probes to remove rRNA and then used to generate a cDNA library. Library quality was assessed using an Agilent Bioanalyzer 2100 system. Clustering of the index-coded samples was performed on a cBot Cluster Generation System using the TruSeq PE Cluster Kit v3-cBot-HS (Illumina) according to the manufacturer’s instructions. After cluster generation, the library preparations were sequenced on an Illumina NovaSeq platform and 150 bp paired-end reads were generated.
+
+Bacterial RNA-seq reads were mapped to the
+
+Statistical analysis was conducted using the GraphPad Prism version 8.00 software. Two-tailed Student’s
+
+Bioinformatic analysis showed that the VraR-binding boxes (ACT[X]
+
+VraR could regulate the transcription of
+
+Previous studies revealed that
+
+In vitro biofilm-forming ability and in vivo adhesion force of
+
+It has been reported that 30%-50% healthy adults colonized by
+
+The EPS produced by
+
+CwrA mediated biofilm formation is dependent of PIA production and regulation of
+
+In addition to PIA, extracellular DNA (eDNA) is another important structural component of the biofilm matrix and plays a crucial role as a “glue” within the bacterial community [
+
+CwrA mediated biofilm formation is dependent of eDNA content in the biofilm. (a)-(c) the amount of eDNA present in the biofilms of the WT strains, the Δ
+
+CwrA attenuates the virulence of
+
+To gain further insight into the molecular mechanisms by which CwrA affects biofilm formation and virulence in
+
+Transcriptome analysis following
+
+Summary of genes up-regulated by
+
+Well consistent with our finding that the Δ
+
+Summary of genes down-regulated by
+
+Notably, the RNA-Seq profiles showed that the
+
+Based on our RNA-seq results, we observed significant changes in the transcriptional levels of various virulence factors regulated by the SaeRS system (
+
+Effect of the SaeRS system on the molecular mechanism of CwrA leads to the suppression of hemolytic activity in
+
+RT-qPCR was also performed to compare the expression levels of virulence factors associated with hemolytic activity. As shown in
+
+Summary diagram of the mechanisms by which CwrA influence the pathogenicity of
+
+In
+
+Previous studies reported that Δ
+
+Bacterial cells can sense changes in environmental conditions and respond accordingly. Two-component systems (TCSs) are primary machinery which contain a histidine kinase (HK) responsible for sensing extracellular stimuli and a response regulator (RR) that accepts phosphoryl signals from HK and affects changes in cellular physiology by regulating gene expression [
+
+In conclusion, we revealed that CwrA, a CWSS regulated by VraR, plays an important role in

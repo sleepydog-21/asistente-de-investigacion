@@ -1,0 +1,11 @@
+{
+  "id": "37849239",
+  "title": "Mechanistic aspects of IPTG (isopropylthio-β-galactoside) transport across the cytoplasmic membrane of Escherichia coli-a rate limiting step in the induction of recombinant protein expression.",
+  "doi": null,
+  "authors": "Simas RG, Pessoa Junior A, Long PF",
+  "journal": "Journal of industrial microbiology & biotechnology",
+  "year": "2023",
+  "abstract": "Coupling transcription of a cloned gene to the lac operon with induction by isopropylthio-β-galactoside (IPTG) has been a favoured approach for recombinant protein expression using Escherichia coli as a heterologous host for more than six decades. Despite a wealth of experimental data gleaned over this period, a quantitative relationship between extracellular IPTG concentration and consequent levels of recombinant protein expression remains surprisingly elusive across a broad spectrum of experimental conditions. This is because gene expression under lac operon regulation is tightly correlated with intracellular IPTG concentration due to allosteric regulation of the lac repressor protein (lacY). An in-silico mathematical model established that uptake of IPTG across the cytoplasmic membrane of E. coli by simple diffusion was negligible. Conversely, lacY mediated active transport was a rapid process, taking only some seconds for internal and external IPTG concentrations to equalize. Optimizing kcat and KM parameters by targeted mutation of the galactoside binding site in lacY could be a future strategy to improve the performance of recombinant protein expression. For example, if kcat were reduced whilst KM was increased, active transport of IPTG across the cytoplasmic membrane would be reduced, thereby lessening the metabolic burden on the cell and expediating accumulation of recombinant protein. The computational model described herein is made freely available and is amenable to optimize recombinant protein expression in other heterologous hosts. A computational model made freely available to optimize recombinant protein expression in Escherichia coli other heterologous hosts.",
+  "source": "PubMed",
+  "pmcid": "PMC10639102"
+}

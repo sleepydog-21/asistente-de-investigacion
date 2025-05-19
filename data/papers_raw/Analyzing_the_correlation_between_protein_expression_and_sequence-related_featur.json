@@ -1,0 +1,11 @@
+{
+  "id": "38324614",
+  "title": "Analyzing the correlation between protein expression and sequence-related features of mRNA and protein in Escherichia coli K-12 MG1655 model.",
+  "doi": null,
+  "authors": "Truong NHM, T Vo N, Nguyen BT, Huynh ST, Nguyen HD",
+  "journal": "PloS one",
+  "year": "2024",
+  "abstract": "It was necessary to have a tool that could predict the amount of protein and optimize the gene sequences to produce recombinant proteins efficiently. The Transim model published by Tuller et al. in 2018 can calculate the translation rate in E. coli using features on the mRNA sequence, achieving a Spearman correlation with the amount of protein per mRNA of 0.36 when tested on the dataset of operons' first genes in E. coli K-12 MG1655 genome. However, this Spearman correlation was not high, and the model did not fully consider the features of mRNA and protein sequences. Therefore, to enhance the prediction capability, our study firstly tried expanding the testing dataset, adding genes inside the operon, and using the microarray of the mRNA expression data set, thereby helping to improve the correlation of translation rate with the amount of protein with more than 0.42. Next, the applicability of 6 traditional machine learning models to calculate a \"new translation rate\" was examined using initiation rate and elongation rate as inputs. The result showed that the SVR algorithm had the most correlated new translation rates, with Spearman correlation improving to R = 0.6699 with protein level output and to R = 0.6536 with protein level per mRNA. Finally, the study investigated the degree of improvement when combining more features with the new translation rates. The results showed that the model's predictive ability to produce a protein per mRNA reached R = 0.6660 when using six features, while the correlation of this model's final translation rate to protein level was up to R = 0.6729. This demonstrated the model's capability to predict protein expression of a gene, rather than being limited to predicting expression by an mRNA and showed the model's potential for development into gene expression predicting tools.",
+  "source": "PubMed",
+  "pmcid": "PMC10849221"
+}

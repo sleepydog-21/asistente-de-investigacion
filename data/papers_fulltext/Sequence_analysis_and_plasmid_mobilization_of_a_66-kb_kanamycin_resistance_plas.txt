@@ -1,0 +1,67 @@
+Outbreaks involving
+
+In addition to the larger (generally > 60-kb) conjugative plasmids, smaller mobilizable plasmids, although not self-transmissible, can be transferred between bacteria by the transfer (
+
+In previous studies we identified several dozens of kanamycin resistance ColE1-like plasmids (referred to as “KanR plasmids” hereafter) from
+
+Plasmid DNA from the DH5α transformant carrying the small KanR plasmid derived from
+
+Detailed information on the bacterial strains and plasmids used in this study are listed in
+
+The pSNC3-Kan plasmid was determined to be 6,606 bps, 51.6% G+C. Sequence was deposited in NCBI GenBank under accession # MW030687. Plasmid features are listed in
+
+(A) Schematic comparison of pSNC3-Kan to pSe-Kan and pEC34B. Plasmid regions sharing homologies with pSNC3-Kan are connected by dashed lines and the % nucleotide identity indicated. Maps of pU302S and pSN11/00Kan are also included. RNA I/II are indicated by thin lines with an arrow head;
+
+The Tn
+
+The RNA I/II region of pSNC3-Kan (nt 127–670) is 100% identical to those of group C/C2 plasmids pSe-Kan and pSBardo-Kan, and shared 98.6% and 97% identity to pU302S (group A) and pSN11/00Kan (group B), respectively. PlasmidFinder (v.2.1) did not identify any Col replicon using the default setting (95% identity/ 60% coverage). It was classified as a ColRNAI replicon only when the threshold settings were relaxed (89.6% to pIGMS32, coverage 125/130). Somewhat surprisingly, we found that the RNA I modulator protein (Rom) of pSNC3-Kan is more similar to that of the group B plasmid pSN11/00Kan (95.2% identity), than to the other group C/C2 plasmid pSe-Kan (61.9% identity). Alignment of Rom proteins are shown in
+
+(A) Alignment of Rom with pairwise identity table. (B) Alignment of mobilization proteins and pairwise identity table. Consensus is shown as the majority of the aligned sequences. “.” denotes identical amino acid sequence to that of the consensus. “–” indicates gap in alignment. “X” denotes not conserved residue (in consensus). “?” denotes the position with gap and not conserved residue (in consensus).
+
+Megablast against nr database found other plasmids with extremely high identity in the RNA I/II region, including
+
+Mobilization protein sequences from pSNC3-Kan, pSN11/00Kan, and pEC34B were aligned in Geneious (default setting: Global alignment with free end gap, cost matrix: Blosum62). The alignments and pairwise identity of the mobilization proteins MobC, MobA, MobB and MobD are shown in
+
+Megablast of the
+
+The
+
+(A)
+
+Multiple sequence alignment of nucleotide sequences of the five KanR plasmids, pKPN2 [
+
+Neighbor-joining tree (without distance corrections) generated from multiple sequence alignment using MUSCLE. Plasmid name is followed by GenBank accession number (nucleotide sequence); branch length is indicated within the parentheses. Relevant information on the plasmids used in the alignment is listed in the
+
+Plasmids are subject to continuous evolution/rearrangements: recombination, insertion/deletion, or acquiring genes from other mobile elements and chromosomes via transposons and insertion elements. This analysis is mainly to show the relatedness of the KanR plasmids, and does not necessarily imply the actual ancestry of these plasmids. The KanR plasmid grouping based on the restriction patterns corresponded well with the sequence comparison and phylogenetic relationship. The extremely high sequence identity of the three group C/C2/C3 plasmids strongly suggests that the divergence of these plasmids was a relatively recent event. On the other hand, these plasmids were distributed in several
+
+Mobilization of four representative KanR plasmids by the conjugal transfer (
+
+*,
+
+KanR plasmids possessing the ColE-type
+
+F
+
+ColE1 derivatives can be mobilized by various conjugative plasmids, especially by IncFI (F’
+
+Relaxase cleavage site, nic, is marked by an upward arrow; the nicked strand is complementary to the sequence shown. IHF binding sites (A and B) are shown as lines above the alignment. TraM binding sites are marked by a dashed line with arrow.
+
+On the other hand, the failure to mobilize pSN11/00Kan by F
+
+Mobilization of pU302S (group A) by F’ was only detected at a very low occurrence. pU302S was present in all the plasmid preps from the transconjugants. It is unlikely that cointegrates were formed between pU302S and F’, since a higher transfer efficiency would have been expected. The 108-bp
+
+Although the original
+
+Ares-Arroyo and colleagues have shown that 74% of the Enterobacteriaceae isolates tested carried at least one ColE-like plasmid using a PCR-based system for detection and capture of plasmid sequences [
+
+Here we demonstrated that ColE-like KanR plasmids can be mobilized with varying efficiency by conjugative plasmids F or IncP in
+
+(DOCX)
+
+Click here for additional data file.
+
+Plasmid sequences were aligned using BLASTN (Align two or more sequences). Multiple sequence alignment viewer image was shown below the alignment.
+
+(PDF)
+
+Click here for additional data file.

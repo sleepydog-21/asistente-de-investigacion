@@ -1,0 +1,105 @@
+Among
+
+Moreover, the
+
+Mutation within the N-terminal part of RamR among a clinical extended-spectrum beta-lactamase (ESBL) producer
+
+The impact of antimicrobial therapy by cefoxitin, quinolones, and fluoroquinolones on selecting RND-overexpressing bacteria has already been described (
+
+The aim of this study was to identify the proportion of clinical ESBL-
+
+A total of 476 ESBL-E were isolated in the three ICUs between 2019 and 2021. Ninety-three percent (
+
+The minimum inhibitory concentrations (MICs) of the 443 strains are available in Table S1. A total of 35 strains (
+
+Origins, sequence types, resistomes, and manual minimum inhibitory concentrations with or without 20 mg/L of PAβN for temocillin, ciprofloxacin, tigecycline, and chloramphenicol in the 31 resistant strains
+
+MICs are presented in milligram per liter.
+
+BAL, broncho-alveolar liquid; BC, blood culture, BA, bronchial aspiration; AG, acquired genes; QRDR, quinolones resistance determining region; PAβN, Phe-Arg-β-naphthylamide.
+
+“-” absence of acquired antimicrobial resistance gene or mutations within QRDR
+
+Resistant strains were not associated with a specific ICU and/or a specific sample origin (data not shown).
+
+MICs of TEM varied between 16 and 128 mg/L, those for TIG were between 2 and 4 mg/L, while those for CIP were from 0.5 to 256 mg/L, and those for CHL varied between 16 and >256 mg/L (
+
+The addition of 20 mg/L of PAβN to the medium significantly decreased the MICs of CHL, CIP, and TIG (
+
+The 443 isolates were sequenced and analyzed. The sequences of 12 genes linked to the expression of RND pumps (
+
+Diversity of the sequences within the
+
+Among the 15
+
+Organization of the RamR DNA-binding domain found among
+
+Sequence types of the resistant strains, RamR- and
+
+- absence of mutation within the region of interest
+
+Transcriptomic consequences of the modifications of the
+
+Six strains showed several amino acid replacements within RamR. Three ST114 strains had a V39A substitution, which led to a steric modification inside the DNA-binding region of RamR (
+
+Illustration of RamR associated with
+
+Five
+
+Among the 16
+
+Illustration of RamR associated with
+
+Inside the
+
+Among the 10
+
+Finally, four strains of
+
+It is noteworthy that some genomic alterations led to a stronger dysregulation of
+
+Mutations in RamR and AcrR or within the
+
+Bioinformatics analyses of genes linked to the expression of RND pumps revealed that sequence diversity was limited to a few elements. The total number of unique sequences was higher in
+
+At the same time, it has been described that
+
+It should be noted that all the resistant strains harbored an altered sequence of the
+
+Three types of modifications have been found in mutated RamR. First, the DNA-binding site could be altered by (i) massive deletions, as it has been found in
+
+Mutations associated with resistant strains have also been found inside the
+
+For two
+
+It has been demonstrated that RamA controls not only the expression of
+
+Finally, it has been demonstrated that
+
+Almost 7% of ESBL-
+
+In the Teaching Hospital of Caen, patients from medical, surgical, or neonatology ICUs were screened weekly for ESBL-E carriage using rectal swabs and selective media (Chromid BLSE, Biomérieux, Marcy l’Etoile, Auvergne-Rhône-Alpes, France). Identification at the species level was performed using a matrix-assisted laser desorption ionization–time-of-flight mass spectrometry method (Bruker, Billerica, MA, USA). The presence of an ESBL-encoding enzyme was confirmed using the combination disk test according to the European Committee on Antimicrobial Susceptibility Testing guidelines (
+
+MICs were determined using the FRAMgGN plate of the Sensititre Antimicrobial Susceptibility Testing System (ThermoFisher Scientific, Waltham, MA, USA) according to the manufacturer’s instructions. The antimicrobial agents or combinations tested included amikacin, aztreonam, cefepime, ceftazidime, CIP, colistin, ertapenem, ceftolozane-tazobactam, gentamicin, imipenem, meropenem, piperacillin-tazobactam, TEM, TIG, and sulfamethoxazole. MIC values were determined using the Sensititre Vizion Digital MIC Viewing System (ThermoFisher Scientific, Waltham, MA, USA). Clinical interpretation was performed according to the guidelines of the “
+
+Strains that demonstrated a decreased susceptibility to CIP (>0.5 mg/L), TIG (>0.5 mg/L), and TEM (>8 mg/L) were selected for further investigations. MICs for TIG, TEM, CIP, and CHL were determined by the broth microdilution method carried out using Mueller–Hinton (MH) broth in biological triplicates at a temperature of 35°C ± 2°C. The bacterial suspensions used to inoculate microplates were made from 0.5 McFarland suspensions that were then diluted to 100th in cation-adjusted MH broth.
+
+As controls,
+
+The impact of the RND efflux pump inhibitor PAβN (Sigma-Aldrich, Saint Louis, MO, USA) at 20 mg/L on the MIC values was tested for CIP, CHL, and TIG (
+
+MICs for TEM were not tested in the presence of PAβN, as the MICs observed are not linked to RND pump dysregulation but rather to a modification of
+
+High-throughput WGS was carried out at the
+
+Nucleic sequences of 13 elements involved within the
+
+Reference sequences used for the blastn database were extracted from
+
+Corresponding peptide sequences were obtained from extracted nucleic sequences using the algorithm Prodigal (
+
+Protein and nucleotide regions with sequences that were only recovered from resistant strains were further analyzed. To consider the protein/nucleotide region, all unique sequences were aligned using muscle (
+
+Total RNAs were extracted and quantified from bacterial cells grown to the late exponential phase using the ARN Maxwell RSC miRNA Tissue Kit and the Maxwell instrument (Promega, Madison, WI, USA). cDNA synthesis from total RNAs (0.1 µg) and RT-qPCR were performed using a Platinum SYBR Green One-Step qRT-PCR Kit (Invitrogen, Waltham, MA, USA) according to the manufacturer’s instructions. The expression ratios of
+
+Statistical analyses were performed using pandas version 0.24.1 (

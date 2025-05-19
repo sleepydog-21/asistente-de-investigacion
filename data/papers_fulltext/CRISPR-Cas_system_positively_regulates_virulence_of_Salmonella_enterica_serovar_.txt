@@ -1,0 +1,133 @@
+The bacterial adaptive immune system, Clustered Regularly Interspaced Short Palindromic Repeats (CRISPR) and CRISPR-associated (Cas) endonucleases, acts against invading mobile genetic elements. Besides their canonical functions, the CRISPR loci and Cas proteins may independently regulate host genes involved in the physiology and virulence of various bacteria [
+
+Shariat et al. traced 15% of the
+
+Building upon these findings, we hypothesized that the type I-E CRISPR-Cas system could modulate key virulence factors and host-pathogen interactions during
+
+This study used the wildtype
+
+The RAW 264.7 and HT-29 cell lines (obtained from NCCS, Pune) were grown in Dulbecco′s modified minimum essential medium (Gibco) and Roswell Park Memorial Institute 1640 media (Sigma Aldrich), respectively, with 10% fetal bovine serum (FBS, Himedia) at 37 °C temperature in the presence of 5% CO
+
+Bacterial phagocytosis and invasion were estimated using a gentamicin protection assay in macrophages and intestinal epithelial cell lines, respectively. RAW 264.7 and peritoneal macrophages were infected with stationary phase cultures of wildtype, Δ
+
+
+
+We infected the macrophage and intestinal cell lines as mentioned above in the phagocytosis/invasion assay and lysed them at 2 h and 16 h post-infection. The serially diluted lysates were plated onto LB agar supplemented with antibiotics to determine Colony Forming Units (CFU) at 2 h and 16 h. The fold proliferation 16 h to 2 h was determined using the following formula:
+
+
+
+For infection studies, we used 6–8 weeks BALB/c mice weighing 20–22 g raised in Central Animal Facility, Indian Institute of Science (IISc), Bangalore, as per the guidelines of the Institutional Animal Ethics Committee at the IISc, Bangalore, India. Five mice in five sets were orally gavaged with 10
+
+The blood from control and infected mice was collected on the 4th day by the retro-orbital bleeding method, and the sera were separated once the blood was clotted. The concentration of IFN-γ, IL-4, and IL-10 in the pooled sera of each set was estimated using a Thermo Fisher Scientific kit as per the manufacturer’s instructions.
+
+The mCherry-tagged bacterial strains were grown overnight in LB broth at 37 °C, and lawns were prepared by spreading 200 µL of overnight bacterial culture on modified NGM agar. To measure the intestinal colonization of the test strains in
+
+Overnight-grown bacterial cultures were subcultured at a ratio of 1:40 in Luria broth and incubated at 37 °C until the OD
+
+Bacterial strains were grown overnight in Luria broth, and 10
+
+
+
+LPS-activated RAW 264.7 cells were infected with wildtype, Δ
+
+We measured extracellular nitrite as described previously [
+
+Overnight grown bacterial cultures of wildtype, Δ
+
+The overnight grown bacterial cultures were subcultured in MH Media and grown to OD
+
+The percentage survival was calculated using the following formula:
+
+
+
+Bacterial strains grown overnight were subcultured at a ratio of 1:100 in LB (SPI-I inducing condition) and magnesium minimal medium MES (MgM-MES) (pH = 5.4, SPI-2 inducing condition) [
+
+We aligned the spacer sequences in CRISPR-I and CRISPR-II arrays with the coding and reverse complement sequences of different SPI-1 and SPI-2 genes using Serial Cloner version 2.6 software. Additionally, we screened for the presence of known protospacer adjacent motif (PAM) sequences in the vicinity.
+
+We performed statistical analysis using Prism 8 software (GraphPad, California). We present data as the mean ± standard deviation (S.D) and assess it through one-way ANOVA (Dunnett’s multiple comparison test) in at least three independent experiments with at least three technical replicates. The animal experiments are in two biological replicates with five technical replicates. Statistical significance is as follows: *
+
+To understand the role of the CRISPR-Cas system in the pathogenicity of
+
+We evaluated the invasion and intracellular survival of the strains in non-polarized and polarized HT-29 cells. Compared to the wildtype strain, the knockout strains showed impaired invasiveness in the HT-29 cells, and the reintroduction of the knocked-out gene rescued the invasiveness. However, the CRISPR-Cas knockout strains exhibited an enhanced attenuation in percentage invasion in polarized cells (Fig.
+
+
+
+The knockout strains of CRISPR-Cas components show invasion and replication defects.
+
+As illustrated in Fig.
+
+Next, we tested the pathogenic potential of the knockout strains in
+
+
+
+The knockout strains of CRISPR-Cas components show impaired colonisation in in-vivo model organism (mice)
+
+Further, we assessed the induction of inflammatory immune responses in the infected BALB/c mice. In serum, levels of the pro-inflammatory cytokine IFN-γ were elevated by approximately 2-2.5 fold compared to control mice infected with the wildtype strain (
+
+It is known that the intestinal invasion by
+
+
+
+The knockout strains of CRISPR-Cas components show sensitivity towards antimicrobial peptides (AMP), and the complement system.
+
+To withstand the harm caused by polymyxins, Gram-negative bacteria alter their lipopolysaccharides [
+
+Collectively, the results indicate that the knockout strains have an impaired ability to overcome innate immune barriers during the dissemination and intestinal infection phase.
+
+To gain mechanistic insights into the regulation of pathogenesis by the CRISPR array and
+
+
+
+The CRISPR-Cas system regulates SPI-1, and SPI-2 genes expression.
+
+Following the epithelial cell invasion,
+
+After the epithelial barrier is breached,
+
+At first, we assessed the viability of the knockout strains in the presence of oxidative stressors like H
+
+Following this, we assessed the strains’ intracellular survival in macrophages with enhanced (LPS induced) and suppressed (gp91
+
+
+
+The knockout strains of CRISPR-Cas components are ROS-susceptible owing to elevated H
+
+When assessed for induction of oxidative response in the macrophages by the knockout strains, we found comparable intracellular ROS levels in macrophages infected with the knockout or wildtype strains (Supplementary Fig.
+
+Given the susceptibility of the knockout strains to ROS, we explored the underlying reasons for this. Outer membrane porin, OmpW, aids the influx of H
+
+To combat the oxidative stress response generated by the host cell,
+
+Our present study demonstrates that knocking out the CRISPR-Cas components attenuates the virulence of
+
+During the initial phase of infection,
+
+
+
+Deletion of the CRISPR-Cas system attenuates
+
+Moreover, adhesins like flagella and Curli inherently contribute to adhesion and invasion into the epithelial cells [
+
+Our data demonstrate altered expression of different pathogen-associated molecular patterns in the CRISPR-Cas knockout strains. Yet, they fail to show any differences in the induction of oxidative and nitrosative response in RAW 264.7 cells compared to that induced by the wild type strain. Additionally, the knockout strains survive and grow better in MgM-MES media (Supplementary Fig
+
+Apart from intracellular ROS,
+
+Besides the mechanisms mentioned above, the coordinated action of other virulence determinants plays a major role in governing the survival and replication of
+
+During in-vivo infection,
+
+Our study suggests that the CRISPR-Cas system regulates the virulence genes of
+
+Our findings indicate that the CRISPR-Cas system may influence the expression of virulence factors like antioxidant genes (
+
+Further investigation is needed to unveil the specific regulatory mechanisms the CRISPR-Cas system exhibits, such as the binding kinetics of the crRNA-Cascade to the target genes.
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1
+
+
+
+Supplementary Material 2

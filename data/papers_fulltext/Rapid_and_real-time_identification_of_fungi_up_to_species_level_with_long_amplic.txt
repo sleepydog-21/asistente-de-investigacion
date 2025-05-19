@@ -1,0 +1,181 @@
+Fungi are a vast kingdom of organisms with a range between 1.5 and 6 million species
+[
+
+Both clinical approaches and research applications need taxonomic classification to
+assign taxa to their functional traits [
+
+Sequence-based methods allow to classify the fungi kingdom better. Still, the choice
+of the methodology used to study the mycobiome, or even the intrinsic
+characteristics of a specific fungus, can impact the data generated and the results
+reached [
+
+One of the preferred markers for taxonomy assignment is the fungal ribosomal operon,
+which is almost 6.000 bp length. It contains three conserved units, the 18S
+rRNA gene (small subunit, SSU), 5.8S rRNA gene and 28S rRNA gene (large subunit,
+LSU), and two hypervariable units as internal transcribed spacers regions (ITS1 and
+ITS2). The ITS units flank the 5.8S RNA gene, and better represent the high
+variability among taxonomic levels of fungi; showing a superior species
+discrimination and PCR success rates [
+
+Fungal ribosomal operon: two hypervariable internal transcribed spacers
+regions (ITS1 and ITS2, marked in orange) and three conserved ones (18S,
+5.8S and 28S rRNA, marked in grey) that contain variables domains, nine for
+the 18S and twelve for the 28S rRNA genes. Primers set used for the
+amplification of the ITS region (3.5 Kb) are shown in orange in the upper
+part of the operon, and the ones for amplification of the full operon (6 Kb)
+in grey in the lower part [
+
+Primer sets to amplify the fungal operon regions have been described in different
+manuscripts, starting from 1990 until 2018 [
+
+Taxonomy with short reads is focused on ITS1 and ITS2 regions, considered as the
+official barcoding markers for species-level identification in fungi, due to their
+easy amplification, conserved primers sites, widespread use [
+
+Here, we aim to investigate the applicability for taxonomic assignment of the
+long-amplicon PCR approach to detect and identify the fungal microbiota present on
+complex microenvironments at the species level. We use microbiological fungal
+cultures characterized phenotypically as positive controls. We then apply the same
+protocol to clinical samples of canine otitis as a complex microenvironment.
+
+LETI laboratories (LETI Animal Health) kindly provided a total of eight
+microbiological fungal cultures grown at 28°C in Petri dishes in
+Dermatophyte Test Medium (DTM agar) and Sabouraud Chloramphenicol agar. Four of
+the cultures had been classified up to the genus level
+(
+
+Four canine otitis samples were analysed as complex microbial microenvironments.
+Two of them were collected from a Petri dish, divided into two halves parts, to
+culture fungi from both ears of a dog, one of the ears was healthy and the other
+one showed clinical signs for external otitis (S02_healthy; S03_affected). The
+DNA was extracted by using ZymoBIOMICS
+
+Two sets of primers were chosen (
+
+Primers targeting the full ITS region (3.5 Kb) and the whole fungal
+operon (6 Kb)
+
+The Nanopore Universal Tag in bold type.
+
+Two PCRs were performed: the first for the amplification of the target and the
+second one to add the specific barcode to each sample. DNA initial concentration
+was of 5 ng DNA per sample, in 50 μl of PCR final
+volume: 15 μl of DNA plus 35 μl of PCR mix,
+which contained 10 μl of Phusion
+
+Following the PCR Barcoding kit protocol (SQK-PBK004; Oxford Nanopore
+Technologies Ltd, UK), 0.5 nM per each sample was required for the
+second PCR to add barcodes of PCR barcoding kit (EXP-PBC001). The final volume
+of second PCR is 100 μl, containing 20 μl of DNA
+template from the previous PCR at 0.5 nM, 2 μl of
+specific barcode and 78 μl of mixture that include
+20 μl of 5× Phusion
+
+We proceeded then to the Library preparation with the Ligation Sequencing kit
+(SQK-LSK109, Oxford Nanopore Technologies Ltd, UK). Barcoded samples
+(1.5 μg) were pooled in 47 μl of nuclease-free
+water and the library was prepared following the manufacturer conditions.
+
+With a final step of Agencourt AMPure XP beads 0.4×, the DNA library was
+cleaned and ready to be loaded into the flow cell. We used two SpotON Flow Cells
+(FLO-MIN106; Oxford Nanopore Technologies Ltd, UK) for three MinION runs, primed
+with a mixture of sequencing buffer and Flush buffer according to the
+manufacturer’s instructions. A quality control of sequencing pores was
+done before each run. Libraries were mixed with Sequencing Buffer and Loading
+Beads in a final volume of 75 μl. The final mix was added, by
+dropping, in the SpotON sample port.
+
+Sequencing runs were performed using the MinKNOWN 2.2 v18.07.2 and the MinKNOWN
+v18.12.9 (Oxford Nanopore Technologies Ltd, UK). Nanopore sequencing from Oxford
+Nanopore Technologies includes real-time analysis with the EPI2ME platform
+[
+
+For further in-depth analyses, the fast5 files with the sequencing reads were
+basecalled and demultiplexed by Albacore v2.3.3 for the 3.5 Kb amplicon or guppy
+2.3.5 for the 6 Kb amplicon. Barcodes and adapters were removed by using
+Porechop (
+
+The fastq files output of each fungal amplicon with the length of 3.5 Kb and 6 Kb
+are loaded on Zenodo (
+
+We aim to develop a long-amplicon PCR approach to detect and identify fungal
+microbiota present on complex microenvironments, and to apply it to clinical samples
+(canine otitis). As positive controls, we chose microbiological fungal cultures and
+fungal strains from a mock community. Some of the cultures were previously
+classified by classical microbiology up to the genus level as
+
+All samples were amplified for both amplicon sizes, 3.5 Kb and 6 Kb. In the 3.5
+Kb amplicons, we included those domains that better help in the taxonomic
+classification of fungi, as shown in
+
+ZymoBIOMICS
+
+Both amplicons correctly detected and identified the ZymoBIOMICS
+
+Both fragments identified
+
+Fungal microbiological cultures showed unexpected results in the
+taxonomical classification after sequencing. Few reads from the
+
+For the
+
+Looking at the nomenclature of this fungus,
+
+For the
+
+Conscious that no differences were found in
+
+Relative abundance of
+
+Samples S02 and S03 belong to the same dog, while S04 and S01
+belong to two different dogs.
+
+Two of the samples correspond to the same dog, one from a healthy ear (S02)
+and the other one (S03) with clinical signs compatible with otitis externa,
+and
+
+Our first approach with Oxford Nanopore Technologies sequencing was aimed to
+understand if long amplicons are suitable markers to analyse the mycobiome in dog
+skin, and which size could be the best in the analysis of mycobiome. The
+microbiological cultures were essential for the study as positive controls because
+their genome sequences were used to validate the correct detection of fungi in
+WIMP.
+
+Primers used to amplify the fungal ribosomal operon domains should be chosen
+depending on the fungus, but no standard markers are defined yet. The longest
+amplicons should be considered to describe the communities at lower taxonomy
+classification [
+
+Few of the reads from the
+
+In this study, the proper positive controls were those from the
+ZymoBIOMICS
+
+Finally, we investigate the possibility of reaching species level in complex samples
+from the skin of dogs affected by otitis, finding that
+
+The results agree with previous studies on
+
+It is worthy to note that WIMP taxonomic assignation is based on Centrifuge, which
+could misclassify some closely-related species due to the absence of complete
+reference genomes in the database used. However,
+
+This study is a first approach for the applicability of ribosomal long amplicons to
+identify some of the most common fungi in the skin of dogs. We evaluate the
+applicability of long reads to the fungal ribosomal operon as a whole, taking into
+account not only ITS1 and ITS2 as the most common markers for fungal taxonomy, but
+adding the variable regions of 18S and 28S rRNA genes in the 6 Kb amplicon. We used
+positive controls from the ZymoBIOMICS
+
+On the contrary, nanopore sequencing is a technology that evolves fast and both the
+library preparation and the bioinformatics tools improve every few months for
+providing better results in real time. The next steps will lead to simplify the
+library preparation with the Rapid Barcoding kit from ONT and the analysis of
+complex samples from different origins to detect the causal agent of the disease in
+a clinical metagenomics approach.
+
+The fastq files output of each fungal amplicon with the length of 3.5 Kb and 6 Kb are
+loaded on Zenodo (http://doi.org/10.5281/zenodo.3662300).
+
+This study was funded by a grant awarded by the Generalitat de Catalunya (Industrial
+Doctorate Program, grant 2015DI044) and by Vetgenomics.

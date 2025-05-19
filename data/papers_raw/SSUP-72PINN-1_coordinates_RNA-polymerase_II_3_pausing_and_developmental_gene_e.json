@@ -1,0 +1,11 @@
+{
+  "id": "40097442",
+  "title": "SSUP-72/PINN-1 coordinates RNA-polymerase II 3' pausing and developmental gene expression in C. elegans.",
+  "doi": null,
+  "authors": "Stubbe FX, Ponsard P, Steiner FA, Hermand D",
+  "journal": "Nature communications",
+  "year": "2025",
+  "abstract": "During exit from Caenorhabditis elegans (C. elegans) L1 developmental arrest, a network of growth- and developmental genes is activated, many of which are organized into operons where transcriptional termination is uncoupled from mRNA 3'-end processing. CDK-12-mediated Pol II CTD S2 phosphorylation enhances SL2 trans-splicing at downstream operonic genes, preventing premature termination and ensuring proper gene expression for developmental progression. Using a genetic screen, we identified the SSUP-72/PINN-1 module as a suppressor of defects induced by CDK-12 inhibition. Loss of SSUP-72/PINN-1 bypasses the requirement for CDK-12 in post-embryonic development. Genome-wide analyses reveal that SSUP-72, a CTD S5P phosphatase, affects Pol II 3' pausing and regulates intra-operon termination. Our findings establish SSUP-72/PINN-1 as a key regulator of Pol II dynamics, coordinating operonic gene expression and growth during C. elegans post-embryonic development.",
+  "source": "PubMed",
+  "pmcid": "PMC11914089"
+}

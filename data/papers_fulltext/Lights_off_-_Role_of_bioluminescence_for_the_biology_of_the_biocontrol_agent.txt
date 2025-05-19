@@ -1,0 +1,103 @@
+Bacterial bioluminescence has attracted much attention since its first discovery. During the chemical reaction light is emitted, whereby the luciferase LuxAB catalyses the oxidation from FMNH
+
+The role of bioluminescence for the physiology and ecology of
+
+To determine whether bioluminescence plays a functional role in
+
+Growth and bioluminescence of
+
+Growth was monitored over 3 days in CASO medium (A), LB medium (B) and M9 medium (C). Y axis shows the OD
+
+We further investigated whether the lack of bioluminescence affects enzymatic activities such as proteolysis or hemolysis or whether it plays a crucial role in stress adaptation mechanisms, which are important for the biology of
+
+Phenotypical characterization of the
+
+(A) Bacterial growth and ability to form colonies tested under different stress conditions. Bacterial growth was measured for 3 h after stress induction, and the growth rate (μ) was calculated in the linear growth phase within the 3 h after stress treatment or without treatment in the same time frame. Displayed is the Fold-change of the treated group against the control group. Colony formation on solid media after stress induction is indicated in the pictures below.
+
+(B) Analysis of proteolytic activity on caseinate agar plates after 2 days.
+
+(C) Secreted hemolytic activity of wildtype and Δ
+
+Next, to test the proteolytic and hemolytic activity semi-quantitative phenotypic assays were performed. For that purpose, the bacteria were plated on caseinate and sheep blood agar, respectively. No significant change in proteolytic activity was observed for the Δ
+
+We then addressed our focus on a comprehensive investigation of the relevance of bioluminescence in the context of the interactions of
+
+First, the insect pathogenicity of
+
+Bacteria-host interactions of
+
+(A) Insect pathogenicity of
+
+(B) Nematode bioassays are performed with
+
+(C) Phase contrast microscopy of
+
+Then, we tested whether the
+
+It could be demonstrated before that
+
+In summary, the deletion of the
+
+Fluorescence-based reporter assays are commonly used to detect the activity of bacterial promoters monitoring gene expression. However, the production of secondary metabolites by
+
+Fluorescence background detected in
+
+Bioluminescence-based reporter assays in
+
+Bioluminescence, a phenomenon found in various kingdoms attracted much research since its first observations. Bacterial bioluminescence is mostly found in marine bacteria, where it plays a role in symbiosis with marine fish or squids. However, bacteria of the
+
+Bioluminescence can consume up to 20% of cell energy, making it a highly energy-intensive process.
+
+Further analyses of the
+
+In conclusion, the absence of bioluminescence had different effects on the different cell forms of
+
+Here we could shed light on the role of bioluminescence in the biology of
+
+Our study demonstrates that the bioluminescence of
+
+Further information and requests for resources should be directed to and will be fulfilled by the lead contact, Ralf Heermann (
+
+The bacterial strains, plasmids and all new materials described in this study will be shared upon reasonable request from the
+
+
+
+This article does not report the original code.
+
+Any data reported in this article is available from the
+
+Any additional information reported in this article is available from the
+
+Research was funded by the “
+
+Fr.P and L.R. performed the molecular biological and microbiological experiments and analyzed the data. Fa.P. performed the nematode bioassays. Fr.P. and R.H. designed, and R.H. and A.R. supervised the experiments. Fr.P., A.R., and R.H. wrote the article. All authors participated in the scientific discussion and in writing, read and approved the final version of the article.
+
+The authors declare no competing interests.
+
+
+
+To generate the plasmid pNTPs138-R6KT::lux, 300 bp upstream (FA) and downstream (FB) of the
+
+For in-frame deletion strains
+
+For construction of
+
+To determine whether deletion of the
+
+For stress tests,
+
+Insect pathogenicity assays were performed as previously described.
+
+Semi-quantitative proteolytic activity was determined on caseinate agar plates (1% [w/v] skim milk, 0.3% [w/v] yeast extract, 1.2% [w/v] agar). Briefly, overnight cultures of
+
+Haemolysis was semi-quantitative determined on sheep blood agar (0.5% [w/v] NaCl, 1.0% [w/v] meat extract, 1.0% [w/v] peptone, 0.5% [v/v] sheep blood, 1% [w/v] agar, pH 7.5). Overnight cultures of
+
+To determine the ability of
+
+To determine the ability of
+
+Plant root exudates were extracted as previously described.
+
+To determine bioluminescence as well as background fluorescence in different media, reporter assays were performed in a Tecan Spark microplate reader (Tecan, Salzburg, Austria). Briefly, overnight cultures of
+
+Unless otherwise stated, at least three biological independent experiments were performed for each of the assays. Values shown represent the mean ± standard error. Additionally, t-tests were performed to analyze significance (marked with ∗∗). To analyze the significance of bacterial growth curves, linear regression of logarithmically transformed data was performed.

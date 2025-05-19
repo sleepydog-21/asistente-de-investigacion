@@ -1,0 +1,49 @@
+The resistance mechanisms in
+
+The integration of whole genome sequencing (WGS) with phylogenetic analysis could provide valuable insights into this pathogen’s genetic diversity, evolution, and geographical distribution. Several studies have employed WGS to investigate the phylogenetics of
+
+In Hong Kong, human salmonellosis, particularly concerning antibiotic resistance, has been a subject of research. Research has identified AMR as a growing issue among
+
+In the present study, we compare the phylogenetic AMR of Hong Kong data with that from other countries or regions and estimate the transmission dynamics for
+
+A total of 45
+
+To represent the geographic and phylogenetic diversity of
+
+DNA sequences in fasta format were annotated using Prokka version 1.14.6 (
+
+Study tools and analysis workflow.
+
+To evaluate the AMR genotype profiles of the studied isolates, we used ResFinder version 4.3.3 (
+
+The core SNP matrix (25,780 nucleotides) in fasta format generated from kSNP4.0 (
+
+We identified a total of 9,390 genes that comprise the pan-genome ( Table S4 and S4a). Of these, the core genes, representing 44.7% of the pan-genome, including 4,121 genes (present in ≥99% isolates) and 78 soft-core genes (present in 95% ≤ isolates < 99%). The accessory genome, which made up 55.3% of the pan-genome, consisted of 390 shell genes (present in 15% ≤ isolates < 95%) and 4,801 cloud genes (present in <15% of isolates). The core SNP matrix, composed of 25,780 nucleotides, was used to reconstruct the phylogenetic tree from these 207
+
+Population structure of the 207
+
+We identified 55 distinct antibiotic resistance genes (ARGs) conferring AMR to 11 antibiotic classes (aminoglycoside, beta-lactam, colistin, lincosamide, phenicol, rifampicin, sulfonamide, tetracycline, trimethoprim, phosphonic, and quinolone). (
+
+Antimicrobial resistance profile. (A) World map showing the distribution of AMR phenotypes and the proportion of AMR phenotypes per location is illustrated as color-coded pie charts. Map was generated from R ggmap (
+
+The genomes contained a total of 122 unique virulence-associated determinants. The most prevalent category was the effector delivery system (
+
+Heatmap distribution of virulent factors. The pattern virulence factor presence (chocolate) or absence (yellow) is shown for each isolate.
+
+Plasmid profiling revealed 22 plasmid replicon markers in 90.8% (188/207) of the isolates, including Inc groups, Col groups, and RepA. Each isolate contained a minimum of one and a maximum of six plasmid replicon markers (
+
+Distribution of plasmid replicon markers. The maximum-likelihood phylogeny is surrounded by colored rings representing the presence (pink) or absence (light blue) of plasmid replicon markers. Gray signifies that plasmid replicon markers were not found in
+
+In this cross-sectional study, a Bayesian phylogeographic inference analysis was performed to investigate the spatial relationship of
+
+Inferred transmission dynamics of
+
+Our analysis demonstrates that mainland China is an important transmission source for AMR in
+
+When introduced to a new environment, susceptible
+
+Extensive use of antibiotics in livestock production has been documented, with China and South Africa being one of the largest consumers of veterinary antibiotics globally (
+
+Despite insightful details about AMR and inferred phylogeographic analysis, some limitations should be acknowledged to better comprehend the key results proclaimed. The present study assesses
+
+This analysis provided the first evidence of phylogeographic analysis of drug-resistant

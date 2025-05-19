@@ -1,0 +1,71 @@
+Iron, an essential element for bacterial pathogens, plays a significant role in signaling pathways and is used as a cofactor or prosthetic group for several proteins required for growth and development [
+
+Siderophores have a high affinity for ferric iron. Secreted siderophores bind to ferric iron to form a ferri-siderophore complex; however, the capability of siderophores to form stable complexes with ferrous iron is low. Based on the structure of their chelate-forming sites, siderophores can be classified as hydroxamates, catecholates, carboxylates, phenolates, and mixed types [
+
+The expression of genes associated with siderophore synthesis, secretion, uptake, release, and energy supply is tightly regulated by pathogens. In bacteria, iron homeostasis is modulated at the transcriptional level by the ferric uptake repressor Fur. When an adequate concentration of iron is present, Fur functions as a repressor [
+
+Given its diverse habitats,
+
+Roles of
+
+The bacterial strains and plasmids used in this study were summarized in Table S1. Table S2 lists the sequences and purposes of the primers used in this study.
+
+A double-crossover recombination strategy was used to construct in-frame deletion mutants, as described previously [
+
+The target gene for the complementation assay was amplified by PCR and subsequently cloned into pRK415. The resulting plasmids were transferred into the assayed strains via conjugation. Primers used to construct the complementary plasmids were listed in Table S2.
+
+An iron source utilization assay was conducted to assess the ability of the bacteria to utilize exogenous iron sources under iron-depleted conditions. The addition of 50 µg/mL DIP was enough to create an iron-limited condition, in which KJ cells lost viability unless an exogenous iron source was supplied [
+
+Overnight culture was inoculated into LB broth with DIP (50 µg/mL) and FeCl
+
+DNA-free RNA was isolated from KJ cells treated with 30 µg/mL DIP. Reverse transcription was conducted using the SbaF-C primer. The SbaF-C-derived cDNA was used as the template for PCR with the primer sets SbaBQ94-F/R, SbaCQ106-F/R, SbaDQ98-F/R, SbaEQ92-F/R, SbaFQ108-F/R, and 2358Q86-F/R (Table S2). The PCR products were separated by 2% agarose gel electrophoresis and visualized by ethidium bromide staining.
+
+DNA-free RNA was prepared from mid-exponential phase bacterial cells and converted to cDNA using a High-Capacity cDNA Reverse Transcription Kit (Applied Biosystems). qRT-PCR was performed using the StepOnePlus Real-Time PCR System following the manufacturer’s protocol. The primer sets used were listed in Table S2. Gene expression levels were normalized to those of 16S rRNA. Fold change was calculated using the ΔΔ
+
+In our previous study, we established an iron source utilization assay to evaluate bacterial iron utilization in iron-depleted conditions [
+
+FepA is a critical TBDT for enterobactin uptake in
+
+Two approaches were used to select TBDT candidates for ferri-stenobactin uptake. First, the
+
+To determine their involvement in ferri-siderophore uptake, we constructed 12 TBDT deletion mutants in KJ to test their ability to utilize FeCl
+
+Considering the possibility of functional redundancy in TBDTs, we constructed double mutants of TonB-dependent receptors using KJ∆FepA as the parental strain, which yielded KJ∆FepA∆HemA, KJ∆FepA∆FciA, KJ∆FepA∆1233, KJ∆FepA∆1762, KJ∆FepA∆PacA, KJ∆FepA∆2714, KJ∆FepA∆2858, KJ∆FepA∆2937, KJ∆FepA3022, KJ∆FepA∆3898, and KJ∆FepA∆SbaA. Of the 11 double mutants tested, KJ∆FepA∆FciA and KJ∆FepA∆SbaA displayed compromised viability in DIP- and FeCl
+
+Since
+
+To consider the post-TBDT transport system of ferri-stenobactin, the FepB-FepD/FepG-FepC-Fes-YqjH system of
+
+To investigate the involvement of
+
+SbaB is annotated as a periplasmic esterase and the above results demonstrated its contribution to ferri-stenobactin acquisition (Fig.
+
+Role of
+
+In the
+
+Fur is a global regulator involved in iron homeostasis [
+
+Impact of iron availability and Fur on the expression of
+
+As a highly conserved iron assimilation pathway in gram-negative bacteria, ferri-siderophore acquisition requires the coordination of multiple components from the outer membranes to the cytoplasm. Stenobactin is the only catecholate-type siderophore in
+
+Potential advantages of TBDT redundancy include (i) insurance against iron acquisition if one TBDT loses function, (ii) increased ability of a pathogenic strain to acquire iron during host infection, and (iii) better fitness for bacterial adaptation to specific host niches during infection.
+
+Siderophores, hemophores, and citrate are common ferric iron chelators used by bacteria to capture extracellular ferric iron in iron-depleted conditions. The specificity between TBDT and the ferric complex is strict; thus, a TBDT with a broad spectrum for different ferric complexes is less mentioned. The involvement of
+
+Compared with the shuttle role of periplasmic FepB in the enterobactin model, the periplasmic proteins involved in ferri-stenobactin shuttle, including FciB, SbaC, and SbaD, seem to be more complicated. None of the three proteins had significant similarity with FepB. FciB is a SEL1-like repeat family protein that may function as an adaptor protein for the assembly of macromolecular complexes [
+
+The contribution of the putative periplasmic esterase SbaB and inner membrane FeoB to ferri-stenobactin acquisition supported the idea that ferri-stenobactin is hydrolyzed in the periplasm, which is different from the enterobactin model of
+
+The involvement of periplasmic esterases in ferri-enterobactin hydrolysis has been demonstrated in the IroE of
+
+If ferri-enterobactin is hydrolyzed in the periplasm, two possibilities should be considered for subsequent iron transportation. First, the released ferric iron is directly reduced to ferrous iron, which is then transported to the cytoplasm via the inner membrane FeoB transporter. Second, the released ferric iron is directly shuttled by periplasmic proteins to a non-FeoB inner membrane transporter and transported into the cytoplasm. Inactivation of
+
+To integrate the findings of this study with known stenobactin synthesis/secretion systems [
+
+Stenobactin-mediated iron acquisition system in
+
+
+
+Supplementary Material 1.

@@ -1,0 +1,77 @@
+Antibiotic responses in bacteria are remarkably dynamic and heterogeneous. Microbes typically carry regulated mechanisms of antibiotic resistance, which are repressed when the drug is absent to avoid the costs associated with expression of resistance genes [
+
+Following antibiotic exposure, expression of resistance genes is controlled not only directly by regulatory mechanisms, but also indirectly by global effects of the drug on cell growth and gene expression, with a growing body of literature linking metabolism to the ability of bacteria to resist antibiotic treatments [
+
+Due to their small size, cellular components in bacteria are often present in small numbers and are subject to stochastic fluctuations. In particular, the transcription factors that regulate gene expression are often present on the order of tens of molecules per cell. Therefore, transcriptional regulation greatly increases stochasticity in gene expression, leading to strong variability in expression levels even among genetically identical cells [
+
+Here, we develop mathematical models of the dynamics of an antibiotic response, incorporating drug effects on cell growth and gene expression, to explain the emergence of heterogeneity during drug exposures. We start with a deterministic model that reproduces the progression of drug accumulation, expression of resistance and cell growth during a drug response. Then we develop a stochastic model to show how noisy dynamics can lead to phenotypic heterogeneity. We base our models on the classical
+
+We describe the response dynamics of a widespread mechanism of regulated antibiotic response, which is broadly applicable to other responses where the cell needs to react quickly to rapidly changing environments [
+
+We numerically integrate the system of differential equations using the ode113 function in MATLAB, using values of external drug concentration and nutrient quality as input parameters. The parameter values used in the simulations are summarized in
+
+We simulate this system using the classical Gillespie’s Stochastic Simulation Algorithm (GSSA) [
+
+To capture the dynamics of cell responses, we developed a mathematical model based on the main biochemical interactions involved in the
+
+The model consists of a system of three differential equations that track changes in repressor TetR (
+
+Intracellular drug concentration changes over time according to three processes: the influx of drug from the environment into the cell, the export of drug by the efflux pump TetA, and the dilution of intracellular components due to cell growth. Tetracycline enters the cell by diffusing through the cell membrane, with a rate
+
+In the cytoplasm, tetracycline strongly binds repressor TetR, which then undergoes a conformational change and loses capacity to bind its DNA binding site. Since biochemical binding and unbinding reactions happen at much faster timescales than the other relevant processes, we consider a chemical equilibrium
+
+Even in the absence of drug, gene expression depends on the cell growth rate, which is set by the quality of the nutritional composition of the immediate environment. The cell grows according to the total output of translation, and therefore the growth rate is proportional to the ribosomal content of the cell. Faster growing cells then harbor larger ribosomal content, and consequently less non-ribosomal proteins. Additionally, since tetracycline is a ribosome inhibitor, it also causes the cell to upregulate ribosomal content, decreasing non-ribosomal content. A fraction
+
+As the fraction
+
+According to the framework of the proteome partition, the fraction of the proteome
+
+Since expression of TetA and TetR has been shown to depend on cell growth, we assume these proteins belong to the variable sector
+
+We begin by analyzing the time course of a typical response to a sudden exposure to tetracycline (
+
+To understand how tetracycline concentration affects cell growth and survival, we simulated the drug response to exposures of increasing drug doses. As drug concentration increases, the growth reduction experienced by the cell at the beginning of a response also increases in both duration and magnitude (
+
+Increases in drug concentration result in longer recovery times, defined as the time it takes for the cell to recover to the average of its minimum and final growth rates, up to a threshold drug concentration
+
+Cell survival to drug exposure also depends on the nutrient condition of the culture medium. To determine how growth conditions affect the outcome of antibiotic responses, we simulated the tetracycline response for decreasing values of the nutritional capacity, emulating the nutrient gradients commonly found in structured microbial communities (
+
+Taken together, these results suggests that at high drug doses close to the threshold concentration
+
+To simulate the generation of heterogeneity during antibiotic exposures, we developed a stochastic model of the response where the main biochemical reactions are considered as Poisson processes with known rates. The reactions, summarized in
+
+Tetracycline passively diffuses into and out of the cell through the membrane with the same rate
+
+To incorporate the effects of drug action and nutrient quality, we explicitly consider a ribosome pool of variable size
+
+The theory of proteome partition assumes that ribosome production is regulated to achieve optimal levels in each nutrient and drug condition, with the resulting proteome partition affecting the expression of proteins in the P sector. Therefore, we take the approach of calculating the ribosome production rate based on the translational and nutritional capacities
+
+We started by simulating the system during a drug response to moderate drug concentrations, first in the absence of drug for a period of 1000 minutes, and then introduced an extracellular drug concentration of 100
+
+The full model, despite being exact, is computationally costly due to the high number of reactions being simulated. To generate a large number of trajectories efficiently, we identify the fastest reactions in the system (
+
+Free tetracycline molecules reversibly bind TetR, TetA and ribosome, with equilibrium constants
+
+In this reduced stochastic model, only total copy numbers of the chemical species are modeled explicitly, while free and bound forms are calculated from the equilibrium constants and used to calculate the remaining reaction rates. Simulations performed for the reduced model showed that the overall response dynamics closely followed the full model, and still displayed strong variability of recovery times. We tested ribosome pool sizes of
+
+We now use the reduced model to simulate a large number of trajectories of the system (~1000) to obtain a probabilistic distribution of the system’s behavior. In each simulation, the system starts with the expected concentrations in the absence of drug, calculated from the deterministic model, and is simulated for 1000 minutes to reach equilibrium before drug is introduced. The system is then simulated in the presence of drug until steady-state dynamics are reached. In multistable systems, stochasticity can make the response reach different stable points. Therefore, trajectories starting from the same initial conditions can take increasingly different paths, resulting in either recovery or arrest and showing widely different recovery times. Within an isogenic microbial population in a homogeneous environment, different trajectories can be seen as the fates of individual cells, with the probability distribution of response outcomes reflecting the generation of heterogeneity in the population during drug responses. For each drug and nutrient condition used in the simulations, we calculate the probability that responses will result in growth recovery, and, from the subset of recovery trajectories, we calculate the distribution of recovery times.
+
+Simulations of the stochastic model during exposure to high drug doses result in large variations in intracellular drug accumulation, eventually leading to the coexistence of recovered and arrested trajectories (cells). This regime, which includes short recoveries and cell arrest (infinitely long recoveries), corresponds to the very long recovery times observed in deterministic simulations when the drug concentration approaches
+
+At very high drug doses, in regimes where deterministic simulations no longer recover, stochastic simulations may still result in growth recovery, although they become increasingly rare and recovery times tend towards higher values. For exposures to drug concentrations past
+
+Next, we investigated how nutrient conditions affect the dynamics of the antibiotic response during an exposure to a moderate drug concentration. For high nutritional capacities, average recovery times are faster than those predicted by the deterministic model (
+
+Our model of the classical tetracycline response in
+
+Our models were able to recapitulate the complex dynamics observed experimentally in two different microfluidic experiments. A single-cell microfluidic experiment measuring phenotypic diversity during antibiotic responses found the emergence of remarkable diversity of growth and gene expression within isogenic populations of
+
+Our stochastic model recapitulates the emergence of phenotypic heterogeneity during drug responses, which is observed even in isogenic populations in homogeneous environments, explaining the coexistence of stable states corresponding to recovered and arrested cells. Gene expression in bacteria is known to be noisy, with large cell-to-cell variation, particularly in regulated genes. Stochastic models capture this variability, describing how naturally occurring noise in cellular processes is propagated through mechanisms of regulation to generate different outcomes during antibiotic responses. As observed experimentally, our simulations find that faltering expression of resistance upon exposure results in slow growth and delayed recovery, with large variation of recovery times. We find that at large drug concentrations, while the majority of the microbial population is arrested upon exposure, small subpopulations can still survive and later regenerate the population. Moreover, the model can quantitatively predict how environmental factors such as the drug dose or the nutritional quality of the medium determine the distribution of cell states. Therefore, our models can be used to determine the patterns of population-level growth and expression of resistance, which result from the sum of all single-cell phenotypes.
+
+The framework developed with this specific model can be used as the basis to develop large-scale stochastic simulations of whole drug-resistance pathways, which will be useful in identifying new drug targets. However, while our full stochastic model is comprehensive, its simulations are slow due to the necessity of serially executing reactions spanning a wide range of timescales. Therefore, the model is limited in the number of molecules that can be simulated in tractable time, especially with regards to the ribosome pool. Future implementations of this model could use more sophisticated versions of the Gillespie algorithm such as tau leaping to reintroduce stochasticity from fast reactions that is lost with the adiabatic approximations [
+
+A second microfluidic experiment [
+
+We find that slow-growing cells express higher levels of resistance genes and are better suited to survive sudden exposures. The dynamics of drug responses is characterized by markedly different gene expression levels between fast- and slow-growing cells. Even in the absence of drug, TetA and TetR expression were experimentally determined to decrease linearly with the cell growth rate, which is predicted by the theory of proteome partition (
+
+Microbial drug resistance in the real world is often at odds with lab measurements, with infections often returning from remission. Our model bridges the gap between the dynamics of drug responses at the single-cell level and the resulting collective behavior of the population, and helps to understand how subpopulations of microbial cells are able to resist exposure to high drug doses and regenerate the colony. A quantitative description of how cell responses are regulated in complex environments is crucial to understand community-level behaviors such as antibiotic resistance, pathogenesis, and biofilms, which often can be explained without invoking additional specialized mechanisms.

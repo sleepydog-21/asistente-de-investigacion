@@ -1,0 +1,109 @@
+Horizontal gene transfer in bacteria provides genetic diversity by spreading DNA from one organism to another (
+
+H-NS forms long nucleoprotein filaments on DNA (0.2–20 kb) (
+
+RNAP is excluded from many, but not all H-NS–StpA-bound genes. (A) H-NS effects on RNAP initiation and elongation. H-NS (dark and light red monomers) and StpA (purple) form linear and bridged filaments on DNA that prevent RNAP–σ
+
+Many enterobacteria contain multiple H-NS paralogs (e.g., StpA) and modulating proteins that bind H-NS filaments (e.g., Hha) (
+
+H-NS binds ~15% of the
+
+Bacteria counter H-NS silencing of transcription initiation using DNA-binding activators that bind near promoters and displace or rearrange H-NS in a mechanism called counter-silencing (
+
+To gain direct insight into H-NS and RfaH function, we used ChIP-seq to map H-NS, StpA, RNAP, σ
+
+To determine which CFT073 genes are bound by H-NS, we used ChIP-seq with polyclonal anti-H-NS antibodies. We chose polyclonal antibodies because epitope tags potentially perturb DNA-binding and bridging (
+
+H-NS and StpA are similarly distributed in UPEC and K-12. (A) Histograms of average H-NS/Input signal for coding genes in CFT073 (bottom, Data set S1). Cumulative number of bound genes at increasing H-NS ChIP signal (top). Red bars and points indicate H-NS bound genes. Data are averages of three biological replicates. The cutoff used for designation as H-NS bound is indicated by the dashed red line. (B) Same as (A), but for
+
+(A) Per gene class analysis of RNAP and H-NS in CFT073 (B) Summary of genome-wide H-NS binding in CFT073 and MG1655 (C) H-NS signal per gene in MG1655 (D) RNAP and H-NS class analysis summary (E) H-NS and StpA signal on genes in CFT073 (F) Summary of H-NS and StpA signal on genes on all strains (G) DNA sequence discrepancies with NCBI record
+
+Next, we asked how the bridging enhancer StpA is distributed within H-NS filaments genome-wide in CFT073 and K-12. For StpA, we generated polyclonal antibodies against purified StpA expressed in a Δ
+
+To ask if the H-NS–StpA–bound CFT073 genes were transcriptionally silenced, we next compared the distributions of H-NS and RNAP on protein-coding genes by ChIP-seq (
+
+Of particular interest, only ~3% of CFT073 genes exhibited both H-NS binding and strong RNAP binding (class IV [
+
+To ask if RfaH regulation depends on H-NS inhibition of RNAP elongation, we mapped RfaH-bound ECs in CFT073 by ChIP-seq using anti-RfaH polyclonal antibodies. RfaH associates with DNA only via its interaction with elongating RNAP at or downstream from an
+
+RfaH targets four H-NS bound loci in WT CFT073. (A) Genome-scale heat map of H-NS ChIP signal in CFT073 (red) compared to RfaH ChIP signal profiles for WT and Δ
+
+(A) Description of TUs with RfaH signal in CFT073 (B) FIMO catalog of
+
+We next asked if the RfaH and RNAP distributions change in the absence of H-NS–StpA filaments. ChIP-seq revealed large-scale changes in RNAP locations in Δ
+
+To ask if all transcribed
+
+To investigate RfaH association with RNAP relative to promoters, we generated σ
+
+The
+
+New RfaH-bound ECs are initiation-silenced by H-NS in WT. (A) Average H-NS (red) and σ
+
+To ask if RfaH aids RNAP elongation through H-NS–StpA filaments, we compared RNAP occupancy in the presence and absence of RfaH (
+
+RfaH aids RNAP progression through H-NS filaments in CFT073. (A) Predicted effect of RfaH on RNAP progression. In WT CFT073, RfaH (magenta) binds RNAP (blue) at
+
+RNAP progression is independent of RfaH in the absence of H-NS and StpA. (A) Predicted lack of effect of RfaH on RNAP progression in Δ
+
+RfaH remains bound to ECs despite intragenic σ
+
+(A) Traveling ratios for WT vs.
+
+We next asked if RfaH action depends on H-NS–StpA inhibition of RNAP elongation by comparing RNAP occupancy across RfaH-regulated TUs in Δ
+
+StpA increases H-NS filament bridging, which slows RNAP topologically (
+
+Deletion of bridging enhancer StpA modestly aids RNAP elongation without RfaH. (A) Predicted effect of RfaH on RNAP progression in Δ
+
+H-NS and StpA exhibit high affinity for RfaH-regulated genes. (A) RTR for all CFT073 strains tested compared (same as
+
+Many horizontally acquired and H-NS-silenced genes contain promoter-like sequences that bind RNAP–σ
+
+Intragenic RNAP–σ
+
+As expected, we observed new intragenic σ
+
+We next asked if RfaH-enhanced RNAP elongation by displacing or transiently remodeling H-NS–StpA filaments by determining H-NS ChIP signal on genes in WT vs Δ
+
+H-NS exhibits high affinity for RfaH-regulated transcription units. (A) Heat maps of H-NS ChIP signal in 1.4 kb tiling windows across the genome of WT (upper) and Δ
+
+Even in strains lacking both H-NS and StpA, RfaH affected RNAP progression (
+
+To test these hypotheses, we examined anti-H-NS and anti-StpA ChIP–signal distributions in strains with deletions in
+
+Many of the Hfp-bound genes were RfaH-regulated (
+
+To test this, we scored CFT073 genes for DNA sequence and shape features associated with high affinity H-NS binding (
+
+We report the genomic distributions of H-NS, StpA, RfaH, σ
+
+RfaH is an elongation counter-silencer of H-NS–StpA gene silencing. (A) The elongation counter-silencing model. RfaH (magenta) acts as an elongation counter-silencer by binding to RNAP at a subset of H-NS–bound loci that contain an
+
+We found that the RfaH regulon consists of eight operons in CFT073 (
+
+All eight RfaH-bound loci were also bound by gene-silencing H-NS–StpA nucleoprotein filaments. CFT073 encodes 4818 coding genes, 18% of which are bound by H-NS–StpA, making the odds of all 25 RfaH-regulated genes being bound by H-NS–StpA remote (<10
+
+The evolutionary origins of RfaH have been speculated (
+
+Our findings directly demonstrate that RfaH is an elongation counter-silencer of H-NS–StpA filaments
+
+We posit that RfaH counter-silences H-NS–StpA filaments through multiple direct and indirect routes (
+
+Bridged, but not linear, H-NS–StpA stimulates transcriptional pausing. Pausing slows RNAP and enables ρ-dependent termination by exacerbating torsional strain generated by transcript elongation (
+
+StpA and Hha both favor bridging relative to H-NS alone (
+
+Bridging by H-NS is favored at low ratios of H-NS to available DNA-binding sites (
+
+Overall, our findings establish that RfaH regulates at least 25 genes in WT pathogenic
+
+UPEC strain CFT073 (
+
+Extended details on methodology used in Hustmyer
+
+ChIP-seq was performed as previously described (
+
+CFT073 reads were aligned to updated RefSeq annotations detailed in GenBank accession number
+
+ChIP-seq data sets were deposited at Gene Expression Omnibus (GEO) with accession code

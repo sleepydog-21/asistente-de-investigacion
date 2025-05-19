@@ -1,0 +1,99 @@
+Terrestrial gregarines are parasites that have been known for almost 200 years
+
+The members of Dactylophoridae and Trichorhynchidae parasitize exclusively centipedes (Chilopoda). The dactylophorids infect Geophilomorpha, Lithobiomorpha, and Scolopendromorpha centipedes, while the only described trichorhynchid,
+
+Dactylophorid trophozoites have a remarkable distinctive feature—an asymmetrical and dilated protomerite carrying an attachment apparatus in the form of a number of digitiform or filiform processes—rhizoids, instead of a single epimerite as in the majority of eugregarines
+
+Hundreds of trophozoites of
+
+Morphology of
+
+Measurements of
+
+TL—total length; PL—length of protomerite; DL—length of deutomerite; PWM—maximum width of protomerite; PWE—width of protomerite at equatorial axis; DWM—maximum width of deutomerite; DWE—width of deutomerite at equatorial axis; n—number of individuals.
+
+Three out of four collected individuals of
+
+Morphology of
+
+Near-complete sequences of the rRNA operon (SSU rDNA, ITS1, 5.8S rDNA, ITS2, and LSU rDNA) were obtained for
+
+Predicted secondary structure of the ITS2 transcripts of
+
+The Bayesian (Fig.
+
+Bayesian inference tree of eugregarines with an alignment of 59 concatenated SSU, 5.8S and LSU rDNA sequences (4329 sites). Tree node support values: Bayesian posterior probabilities (PP, left) and ML bootstrap percentage (BP, right). Black dots at the tree nodes indicate PP = 1 and BP = 100%. Support values of PP < 0.95 and BP < 70% are omitted. Oblique transverse lines on the branches mark how many times the latter were shortened for the illustration. The newly obtained sequences are in bold. GenBank accession numbers for SSU, 5.8S and LSU rDNAs are separated by comma. Solid contigs of rDNA operon are marked with only one accession number. Sequences assembled from the available transcriptomic data are marked with SRA numbers or A if accession is not in SRA (see M&M). Absent sequences are marked with -.
+
+The number of gregarine species described from centipedes is less than a third of that from millipedes
+
+In our phylogenies (Fig.
+
+Nevertheless, the fully supported sister relationship between Trichorhynchidae and Dactylophoridae (Fig.
+
+Ribosomal DNA phylogeny shows that gregarines from millipedes and centipedes form different lineages that are not sister to each other (Fig.
+
+Based on all of the above, we propose to establish a new superfamily Dactylophoroidea that includes two families: Dactylophoridae and Trichorhynchidae.
+
+Taxonomy
+
+Phylum Apicomplexa Levine, 1970
+
+Subphylum Sporozoa Leuckart, 1879
+
+Class Gregarinomorpha Grassé, 1953
+
+Order Eugregarinida Léger, 1900
+
+Superfamily Dactylophoroidea superfam. nov.
+
+Syzygy late frontal in dactylophorids
+
+Family Dactylophoridae Léger, 1892
+
+Family Trichorhynchidae Ormières, Marquès & Puisségur, 1977
+
+Trophozoites are narrowly obpyriform, 149.7 ± 9.1 μm long (min. 85 μm and max. 242.9 μm) and 48.8 ± 2.4 μm wide (min. 29.5 μm and max. 69 μm); the protomerite length to total length ratio is 1:2.5 to 1:3; deutomerite of the same width as protomerite near the septum; a lobed epimerite at the anterior end of an elongated protomerite neck; nucleus spherical, in any part of the deutomerite; nucleolus eccentrically placed; the nucleolus diameter to the nucleus diameter ratio is 1:2; cell surface with multiple cytopilia.
+
+DNA SEQUENCE. GenBank PP657470.
+
+TYPE LOCALITY. Hòn Giao mount, Khánh Hòa, Vietnam (12° 13′10″ N 108° 43′ 5″ E).
+
+TYPE HABITAT. Terrestrial.
+
+TYPE HOST.
+
+LOCATION IN HOST. Intestine.
+
+TYPE (syntype) MATERIAL. A gold sputter-coated SEM stub with host gut pieces with attached and detached gregarines, 9 slides with histological sections stained with Ehrlich’s hematoxylin, a specimen of parasite cells and host material (intestine) fixed in 96% ethanol, and the host body (without viscera) fixed in 96% ethanol have been deposited in the collection of The Center for Parasitology IPEE RAS; Fig.
+
+LSID: urn:lsid:zoobank.org:act:F975009C-2150-455D-B2AA-0DF15A850482.
+
+ETYMOLOGY: named in honor of Boris Efeykin (junior researcher, IPEE RAS), who collected the infected individual of
+
+Four individuals of
+
+Centipedes were dissected in the insect-adapted Ringer’s solution (0.650% NaCl, 0.025% KCl, 0.025% CaCl2, 0.025% NaHCO3). Gregarine parasites were isolated from the host’s intestines with fine tip needles and plastic pipettes under MBS-1 and MBS-10 stereomicroscopes (LOMO, Russia). For electron microscopy, small fragments of the host intestine with attached gregarines and free gregarines were fixed with 1% glutaraldehyde (v/v) in 0.05 M cacodylate buffer, pH 7.35, final osmolarity 210 mOsm (4 °C, 2 h), then rinsed with the cacodylate buffer and post-fixed with 1% osmium tetroxide (w/v) in the cacodylate buffer (4 °C, 2 h). After fixation, the sample was dehydrated in an ethanol series (15%, 30%, 50%, 70%, 80%, 96%). For histological preparations, fragments of the host intestine with attached gregarines were fixed with Bouin’s solution, rinsed two times with distilled water and dehydrated in ethanol series (30%, 50%, 70%, 96%, 100%). Using paraffin-celloidin method 5 μm thick sections were made with the Leica RM-2265 microtome (Leica Microsystems, Germany) and stained with Ehrlich’s hematoxylin
+
+For molecular phylogenetic studies, all isolated gregarines (forcedly detached trophozoites and gamonts) were washed thrice in fresh portions of the insect-adapted Ringer’s solution before fixation/lysis. Twenty-five individuals of each
+
+Live parasites were photographed with different cameras by means of bright-field microscopy: a DCM35 digital camera (SCOPETEK, PRC) connected to a MBI-3 light microscope (LOMO, Russia) for
+
+The gregarines fixed with glutaraldehyde and osmium tetroxide were transferred from 96% ethanol to a mixture of 96% ethanol and acetone (1:1, v/v), followed by three changes of pure acetone and displacement of acetone by liquid carbon dioxide, followed by critical point drying. After that, the samples were mounted on stubs, sputter-coated with gold/palladium, and examined under scanning electron microscopes: a JSM–6380LA (JEOL, Japan) for
+
+For
+
+18S rDNA were amplified using forward 5′-GTATCTGGTTGATCCTGCCAGT-3′ and reverse 5′-GGAAACCTTGTTACGACTTCTC-3′ primers. ITS2 regions were amplified using forward 5′-GTACACACCGCCCGTCGCTC-3′ and reverse 5′-GACTCCTTGGTCCGTGTTTCAAGACG-3′ primers. 28S rDNA was amplified using two pairs of primers: forward 5′-GACCCGCTGAAYTTAAGCATAT-3′ and reverse 5′-ACATTCAGAGCACTGGGCAG-3′, and forward 5′-GTCACTTCGGGAWAAGGATTGGCT-3′ and reverse 5′-TTCTGACTTAGAGGCGTTCAG-3′. PCR protocol: block lid temperature—100 °C, initial denaturation 95 °C—2 min 30 s, denaturation 95 °C—30 s, annealing 60–65 °C—30 s, elongation 72 °C—2 min 30 s; steps 2–4 were repeated 44 times, final extension 72 °C—10 min.
+
+For
+
+In order to improve the sampling of gregarines related to the known dactylophorids, we performed BLAST searches in the nr database (NCBI) and available metagenomic data (NCBI Sequence Read Archive, accessions: PRJEB25197) for environmental sequences related to these gregarines. Further, we searched for gregarine contamination in the NCBI Sequence Read Archive available transcriptomic data of different centipedes. The contamination was found and gregarine rDNA sequences were extracted from three libraries:
+
+Three rDNA alignments (the SSU, 5.8S, and LSU) with different representations of apicomplexans (222, 107, and 102 OTUs respectively) were generated using the MAFFT online service employing the E-INS-i alignment method
+
+Bayesian inference (BI) was performed with MrBayes 3.2.6
+
+The predicted secondary structures of ITS2 sequences of
+
+
+
+Supplementary Information.

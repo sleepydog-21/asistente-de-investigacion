@@ -1,0 +1,59 @@
+Mitochondrial Complex I (NADH:ubiquinone oxidoreductase) is the largest member of the mammalian electron transport chain. It contains 45 protein subunits, one flavin mononucleotide (FMN) and eight FeS clusters. Thirty-eight of these subunits, one in two copies, are encoded by 37 nuclear genes, and these proteins are imported into the mitochondrion. The remaining seven subunits are encoded by mitochondrial genes, ND1-6 plus ND4L [
+
+There are three essential activities of Complex I that are found in all mitochondrial and bacterial versions of the enzyme and are carried out by fourteen core subunits: NADH oxidation, ubiquinone reduction, and proton translocation. NADH oxidation regenerates NAD
+
+Advances in DNA sequencing have allowed detection of ever-increasing numbers of mutations in mitochondrial genes. Such mutations are tabulated at websites such as MitoMap (
+
+Currently it is still challenging to construct and analyze mutations in mitochondrial genes. Cybrid cells, in which mitochondria with existing mitochondrial mutations are transferred to cells lacking mitochondria, have been used to confirm pathogenicity of mutations in mitochondrial genes [
+
+In this report, we examine mutations in ND1 of human Complex I using an
+
+Restriction endonucleases, T4 DNA ligase, Q5 Site-Directed Mutagenesis Kit, Q5 High-Fidelity PCR Kit, and Monarch PCR Cleanup Kit were from New England Bio Labs (Beverly, MA, USA). MauBI restriction endonuclease and DNA Miniprep kits were from ThermoFisher Scientific (Pittsburgh, PA, USA). QIAquick and QiaIIX Gel Extraction Kits were from Qiagen (Germantown, MD, USA). Oligonucleotides for plasmid construction, mutagenesis, and sequencing were synthesized by Eurofins Genomics (Louisville, KY, USA). Immunoblot polyvinylidene difluoride (PVDF), Mini-PROTEAN TGX gels (12%, 4–15%), Precision Plus Protein ™ Dual Color standards, Precision Plus Protein™ unstained standards and the DC protein assay kit were from Bio-Rad (Hercules, CA, USA). 9-Amino-6-chloro-2-methoxyacridine (ACMA) and NativeMark™ Unstained Protein Standards were from Invitrogen. The polyclonal antibody against
+
+Single amino acid substitutions were constructed by Q5 Site-Directed Mutagenesis with an additional restriction site introduced for rapid identification of mutants. Primers used for construction of mutations are found in
+
+XLI-Blue (
+
+For expression of
+
+An amount of 50 μg of membrane protein was run in 12% acrylamide gels at 150 V for 1 h and then transferred to PVDF membranes by applying 100 V for 1 h in transfer buffer (25 mM Tris, 192 mM glycine, 20% methanol, pH 8.3). The PVDF membrane was blocked overnight with 5% milk in TBS/Tween 20 (20 mM Tris, 500 mM NaCl, 0.05% Tween 20, pH 7.5) at 4 °C and washed 3 times for 5 min with TBS/ Tween 20 the next day. The PVDF membrane was incubated at room temperature for 2 h with primary antibody diluted 1:20,000 for subunit CD. Mouse anti-HA probe was diluted 1:20,000. After washing 3 times for 5 min with TBS/Tween 20, the blot was incubated with anti-rabbit IgG-HRP or anti-mouse IgG-HRP (diluted 1:10,000) for 1 h. After three more washings with TBS/Tween 20, the blot was treated with horseradish peroxidase (HRP) chemiluminescent substrates in a ChemiDoc Imaging System (Bio-Rad, Hercules CA). Images were exported by Image Lab software. Blots shown are representative of blots from 2–3 preparations.
+
+Blue-native gel electrophoresis was performed according to previous methods [
+
+The activity assays were modified for the Epoch 2 plate reader (BioTek, Burlington, VT) from methods described previously [
+
+Subunit ND1 in humans has 318 amino acids and a molecular mass of 36.7 kDa. It bears about 40% sequence identity to the core amino acids of NuoH from
+
+The ND1_R25Q (G3380A) mutation was first identified in a 62-year-old woman with bilateral hearing loss since age 50 [
+
+In
+
+The NuoH_L42A, and S mutants were the only ones of this group that had significant levels of activity, both about 66% of wild type. The levels of NuoH and assembled Complex I were normal as compared to wild type. The NuoH_R37A and Q mutants had essentially zero activity, while levels of NuoH and assembled Complex I were normal. The NuoH_N50A and D mutants also had near-zero activity, but membranes lacked NuoH, and so, also failed to assemble Complex I. The NuoH_R46A, and H mutants had very low levels of dNADH oxidase activity, both measuring less than 5% of the wild type rate. They differed in that R46A showed normal levels of NuoH and assembled Complex I, while R46H had low levels of NuoH and poor assembly of Complex I. All samples showed at least a weak band of in-gel activity after native gel electrophoresis, which includes a long incubation period, indicating at least a low level of assembly, even though it was not visible in the immunoblots (
+
+Two clinical mutations in ND1, E59K, and E214K are each found in a different matrix-facing loop. They reside primarily between subunits NDUFS7 (NuoB), which contains the N2 FeS cluster, and ND3 (NuoA), which is a membrane-spanning subunit. They were modeled in the
+
+In
+
+Residue R279 in ND1 is found in contact with NDUFS2, which does not contain any FeS clusters, but does contribute to the ubiquinone-binding pocket. Residue R279 is in proximity to a conserved aspartic acid, 193 in humans, and they do not appear to be engaged in an ion pair. R279 is hydrogen-bonded to the side chain of S205 of ND1. R279A and Q were modeled in the
+
+In
+
+The L285P (T4160C) mutation in ND1 is found in the eighth and last transmembrane helix, near the matrix side. It is not in contact with any other subunits and is buried within the bundle of ND1 transmembrane helices. The residue Y277C (A4136G) is found at the matrix side of the seventh transmembrane helix, near to L285. It is in contact with a helical segment of NDUFS8 (NuoI), near its N-terminus, but distant from its two FeS clusters. L285P was modeled in the
+
+In
+
+In this report, a broad range of clinical mutations of ND1 was analyzed in a bacterial model system. The use of an HA-tagged NuoH allowed the expression of this subunit to be determined. In conjunction with native gel analysis for determination of assembly, and activity measurements for functional analysis, a detailed picture was obtained for each mutant. The results of each can be described as fitting into one of four categories: (1) Lack of expression of NuoH, hence no assembly or activity. (2) Normal or near-normal expression of NuoH, but low levels of assembly and activity. (3) Normal expression of NuoH and assembly of Complex I, but very low levels of activity. (4) Normal levels of expression and assembly, and moderate levels of activity, e.g., ~50–75% of wild type. See
+
+Both NuoH_N50A and N50D are in category (1), in which there is little or no expression of the subunit, and so no assembly or activity. This mutation, ND1_N38D (A3418G), was “Reported” in MitoMap, while in ClinVar the mutation is not listed. In the original study [
+
+In the second category are NuoH_E71K and E228K, corresponding to human ND1_E59K and E214K, respectively. Both seem to have normal expression of NuoH, but assembly of Complex I in the native gel appears less than wild type. The activities of NuoH_E71K and E228K are very low: 7% and ~0, respectively, suggesting that the assembled Complex I is largely inactive. Both mutants are not found in ClinVar, and at MitoMap they are listed as “Reported”. In humans, ND1_E59 is buried between subunits NDUFS7 (NuoB) and ND3 (NuoA), and is proximal to a conserved lysine residue, ND3_K33 in humans (NuoA_K46 in
+
+The third category includes NuoH_R37A and Q (ND1_R25A and Q), as well as the previously discussed alanine substitutions NuoH_R46A, E71A, and E228A. For these five variants, expression and assembly appear to be normal, but activity is near zero. The ND1_R25Q mutation was found in a 62-year-old woman with late-onset MELAS [
+
+In the fourth category are the mutants in which expression and assembly appear normal, and the activity is substantial, approximately in the range of 50–75% of wild type. The first example is NuoH_R291Q, which had 50% of wild type activity. The corresponding human mutation, ND1_R279Q, identified by high-throughput DNA sequencing [
+
+The results of NuoH_L42A and S also fall into category 4, in which expression and assembly appear normal, and activity is in the range of 50–75%. A drawback of this analysis is the lack of conservation at this site, tyrosine in humans and leucine in
+
+The mutants ND1_Y277C (A4136G) and ND1_L285P (T4160C) can be placed in category four, but they have also been suggested to have interacting or suppressor-like effects when appearing together [
+
+In summary, the rapidly increasing number of structural studies by cryo-EM have provided new insights into mitochondrial Complex I. New bacterial Complex I structures and the ability to track NuoH (ND1) by immunoblotting have improved the modeling of mitochondrial mutations in

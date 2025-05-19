@@ -1,0 +1,91 @@
+Bacteria play crucial roles in natural biogeochemical cycles, particularly in the degradation of environmental xenobiotics. They can metabolize various pollutants, including organohalogen compounds, polycyclic aromatic hydrocarbons, pesticides, plastics, and petroleum hydrocarbons, by expressing specific degrading enzymes (
+
+Genetic redundancy is a common occurrence across all three kingdoms of life (
+
+In our previous study,
+
+Organization and transcriptional analysis of two 3-Br-4-HB-degrading gene clusters (
+
+Here, a LysR-type transcriptional regulator BhbR1, encoded by a regulatory gene
+
+Strain H8 harbors two spatially separate but functionally redundant 3-Br-4-HB-degrading gene clusters,
+
+To determine the promoter regions of 3-Br-4-HB-catabolic operons,
+
+We applied the RhoThermPredict algorithm to identify Rho-dependent terminators within the
+
+Two transcriptional regulatory genes,
+
+Because both hydroxylases PHBH1 and PHBH2 catalyze the initial reaction of 3-Br-4-HB degradation in strain H8 (
+
+Roles of BhbR1 and BhbR2 in 3-Br-4-HB degradation and transcriptional regulation of degradation genes. (
+
+Mutation of
+
+To identify the inducers that activate target gene transcription by BhbR1 and BhbR2, we analyzed the transcription levels of
+
+Identification of inducers recognized by BhbR1 and BhbR2 and the effect of 3-Br-4-HB concentration on target gene transcription. (
+
+The
+
+To investigate the effect of inducer concentration on the activity of regulators, the transcriptional differences of target genes in the two operons induced by different concentrations of 3-Br-4-HB (0, 30, 60, 120, 240, 480, 720, and 960 µM) were further analyzed. Simultaneously, to avoid the fluctuation of inducer concentration caused by the degradation of 3-Br-4-HB, transcriptional analysis of target genes
+
+The C-terminal His-tagged BhbR1 and BhbR2 were over-expressed in
+
+Electrophoretic mobility shift assays (EMSAs) were performed to determine the interactions between the regulators (BhbR1 and BhbR2) and their target promoter DNA probes:
+
+Identification of the promoter binding sites of BhbR1 and BhbR2. (
+
+DNase I footprint assays were carried out to identify the detailed BhnR1- and BhbR2-binding sites in their target promoter regions. In the absence of the inducer, BhbR1 protected a 54-bp DNA sequence (5′-
+
+BhbR2 consistently shielded a 22-bp invariant sequence (5′-
+
+Surface plasmon resonance (SPR) assays were performed to evaluate the binding dynamics between the regulators BhbR1 and BhbR2 and the inducer 3-Br-4-HB, as well as the promoters
+
+SPR assays for binding dynamics of the regulators with the inducer and target promoters. SPR assays analyzing interactions of the inducer 3-Br-4-HB with regulators BhbR1 (
+
+3-Br-4-HB is both naturally occurring as well as a synthetic compound widely used as an intermediate in chemical synthesis (
+
+LTTRs are the most abundant and extensively studied transcriptional regulators in bacteria, managing various physiological and metabolic processes by activating or repressing target gene transcription (
+
+MFTFs are widely distributed in bacteria and archaea and play important roles in various biological processes, including antibiotic resistance, stress responses, virulence, and the catabolism of aromatic compounds (
+
+Regulating the transcription of redundant genes in response to specific signals is an effective strategy for balancing selective advantages and physiological burdens. A classic example was found in
+
+All chemical standards (purities ≥ 98%), 3-Br-4-HB, Br-PCA, DBHB, and 4-HB, were purchased from Bidepharm (Shanghai, China) or J&K Chemical Co., Ltd. (Shanghai, China). Molecular biology reagents, such as restriction enzymes, high-fidelity DNA polymerase, PrimeScript RT reagent Kit with gDNA Eraser, TB Green Premix Ex Taq II (Tli RNaseH Plus) Kit, and BCA Protein Assay Kit, were purchased from TakaRa Biotechnology Co., Ltd. (Dalian, China). ClonExpress II One Step cloning kit was purchased from Vazyme Biotech Co., Ltd. (Nanjing, China).
+
+The strains and plasmids used in this study are summarized in
+
+Strains and plasmids used in this study
+
+Spe
+
+Primers used in this study
+
+The restriction enzyme sites are underlined.
+
+The TSSs of the
+
+The upstream and downstream homologous arms of
+
+The PCR-amplified sequences of
+
+Cells of various
+
+Two promoter-
+
+The cells of strains H8Δ
+
+The
+
+Before gel filtration, purified BhbR1 and BhbR2 were concentrated using an ultrafiltration device (Amicon) with a 10-kDa cutoff membrane. To calibrate the molecular weights of BhbR1 and BhbR2, a panel of commercially available proteins, including myosin (200.0 kDa), phosphorylase B (97.2 kDa), serum albumin (66.4 kDa), egg albumin (44.3 kDa), papain (23.4 kDa), and lysozyme (14.7 kDa), was used as molecular weight markers. A solution containing BhbR1, BhbR2, or protein markers was charged onto a Superose 6 10/300 GL column (GE Healthcare) for gel filtration at 25°C using an ÄKTA Purifier chromatography system (GE Healthcare). The elution process was carried out with PBS at a flow rate of 0.4 mL min
+
+The EMSA was conducted following previously described methods (
+
+DNA probes
+
+SPR assays were performed to analyze intermolecular interactions using a Biomoleculer Interaction Analysis System (Biacore T200, Cytiva, Sweden) at room temperature. To determine the interaction between the regulator and the inducer, purified BhbR1 and BhbR2 were immobilized onto a CM7 sensor chip (Cytiva, Sweden) by amine coupling, achieving approximately 10,000 response units for each protein using the EDC/NHS method. A serial dilution of the inducer 3-Br-4-HB was prepared in PBST buffer (10 mM Na
+
+To determine kinetic constants of regulator-promoter interactions, biotinylated DNA fragments
+
+Qualitative and quantitative determination of 3-Br-4HB were carried out using a Dionex UltiMate 3000SD HPLC system equipped with a diode array detector and a Dionex C

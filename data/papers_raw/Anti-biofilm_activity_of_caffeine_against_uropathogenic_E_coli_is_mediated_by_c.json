@@ -1,0 +1,11 @@
+{
+  "id": "36344808",
+  "title": "Anti-biofilm activity of caffeine against uropathogenic E. coli is mediated by curli biogenesis.",
+  "doi": null,
+  "authors": "Rathi B, Gupta S, Kumar P, Kesarwani V, Dhanda RS, Kushwaha SK, Yadav M",
+  "journal": "Scientific reports",
+  "year": "2022",
+  "abstract": "Biofilms are assemblages of sessile microorganisms that form an extracellular matrix around themselves and mediate attachment to surfaces. The major component of the extracellular matrix of Uropathogenic E. coli and other Enterobacteriaceae are curli fibers, making biofilms robust and resistant to antimicrobials. It is therefore imperative to screen antibiofilm compounds that can impair biofilm formation. In the present study, we investigated the curli-dependent antibiofilm activity of caffeine against UPEC strain CFT073 and commensal strain E. coli K-12MG1655.Caffeine significantly reduced the biofilm formation of both UPEC and E. coli K-12 by 86.58% and 91.80% respectively at 48 mM caffeine as determined by Crystal Violet assay. These results were further confirmed by fluorescence microscopy and Scanning Electron Microscope (SEM). Caffeine significantly reduced the cytotoxicity and survivability of UPEC. Molecular docking analysis revealed a strong interaction between caffeine and curli regulator protein (Csg D) of E. coli. The qRT-PCR data also showed significant downregulation in the expression of CsgBA and the CsgDEFG operon at both 24 mM and 48 mM caffeine. The findings revealed that caffeine could inhibit E. coli biofilm formation by regulating curli assembly and thus may be used as an alternative therapeutic strategy for the treatment of chronic E. coli biofilm-related infections.",
+  "source": "PubMed",
+  "pmcid": "PMC9640630"
+}

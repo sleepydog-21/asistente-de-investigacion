@@ -1,0 +1,93 @@
+Toxin-antitoxin (TA) systems are stress-responsive genetic elements encoding for a deleterious toxin and its antagonistic antitoxin. They are widespread in bacterial genomes and mobile genetic elements
+
+Tuberculosis is the second cause of death due to an infectious agent, after COVID-19. According to the most recent WHO report (2023), over 10 million people fell ill with tuberculosis in 2022, and 1.3 million died from the disease. The increasing occurrence of multi and extensively drug-resistant strains of the causative
+
+In this work, we investigate the impact of MenT3 on
+
+We previously showed that MenT3 can add two to three cytidines or uridines to in vitro transcribed tRNAs
+
+We next applied 3′-OH tRNA-seq to the
+
+We further investigated the marked difference in cytidine extension observed between tRNA
+
+We next investigated the sequence and structural elements within a tRNA that are required for cytidine addition by MenT3 in vitro. Several variants of tRNA
+
+The main structural feature that differentiates serine tRNAs from the other tRNAs in
+
+Some tRNA in
+
+We next investigated the cellular tRNA targets of MenT3 in its native host
+
+Unexpectedly, analysis of the seq data revealed that different tRNA
+
+Previous work performed in
+
+Only a few tRNA genes of
+
+The 3′-OH tRNA-seq analysis of the
+
+This work demonstrates that the MenT3 toxin has a robust NTase activity in vitro and identifies its native tRNA targets in
+
+The observation that overexpressed MenT3 only targets tRNA
+
+This work also shows the importance of the length of the long variable loop characteristic of tRNA
+
+We observed striking differences in the nature of the tRNA
+
+These data suggest a model in which MenT3 would first attack uncharged tRNA
+
+Our data highlight the existence of a fraction of tRNA
+
+The fact that MenT3 can be active and target tRNA
+
+Toxicity assay in
+
+Plasmids pET15b (Novagen), pET20b, pGMCS, pLAM12, and pETDuet-1 have been described. All the primers used to construct the plasmids are described in Supplementary Data
+
+To construct pET15b-MenT3,
+
+Purified MenT3 was produced as described previously
+
+tRNAs were synthesized via in vitro transcription using PCR templates that incorporated an integrated T7 RNA polymerase promoter sequence. Primers for
+
+An optimized version of the hepatitis delta virus (HDV) ribozyme was used to generate homogeneous tRNA 3′-ends as described
+
+MenT3 NTase activity was assayed in 10 µl reaction volumes containing 20 mM Tris-HCl pH 8.0, 10 mM NaCl, 10 mM MgCl
+
+For the single tRNA 3’ elongation by MenT3 in vitro, the radiolabeled tRNA was incubated with 0.02 or 0.2 µM MenT3 in the presence of 1 mM CTP for 2 or 5 min at 37 °C, as indicated. The reaction was then halted by adding 10 µl of RNA loading dye, denatured at 90 °C, and RNA samples were separated on a 10% polyacrylamide-urea gel.
+
+The tRNA-modified product from MenT3 in vitro reactions underwent the following steps: it was initially purified using Bio-Spin® 6 Columns (Bio-Rad), followed by incubation with RpH (10 µM) in the reaction buffer containing 50 mM Tris-HCl, pH 8.0, 10 mM NaCl, 2.5 mM MgCl
+
+PcnA NTase activity was assayed in 10 µl reaction volumes containing 20 mM Tris-HCl pH 8.0, 10 mM NaCl, 10 mM MgCl
+
+Total RNA was isolated from
+
+To study the interaction between MenT3 and tRNA, the sequences of MenT3 and tRNA
+
+Primers used for the construction of tRNA libraries are described in Supplementary Data
+
+After a quality check, reads were demultiplexed to obtain a fastq file per experimental condition. For each experimental condition, the same procedure was applied: (i) mapping to a reference, (ii) PCR duplicate removal, and (iii) quantification of read counts. Raw reads quality was checked with FastQC (
+
+All the
+
+For quantification, SAM files were processed with Rsamtools 2.16.0 (
+
+Primers and specific sequences used in this work are shown in Supplementary Data
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Peer Review File
+
+Description of Additional Supplementary Files
+
+Supplementary Data 1
+
+Reporting Summary
+
+
+
+Source Data file

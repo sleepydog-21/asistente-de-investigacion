@@ -1,0 +1,143 @@
+Gas vesicles (GVs) are a class of gas-filled protein organelles evolved in photosynthetic microbes, which use them as flotation devices to compete for the surface of the water and maximize photosynthesis (Pfeifer,
+
+As a product of evolution and natural selection, GVs have a fundamentally different design compared to man-made synthetic bubbles. Bubbles usually trap air inside at a non-equilibrium state, leading to a finite lifetime, and moreover, as the diameter of bubbles reduces, a higher Laplace pressure builds up inside, leading to a faster dissipation of entrapped air (Brennen,
+
+This unique design principle of GVs necessitates a set of complex cellular machinery to support their assembly. For example, the major shell proteins have highly hydrophobic inner surfaces and aggregate even in the presence of strong detergents such as sodium dodecyl sulfate (SDS) (Walsby and Hayes,
+
+Despite the recognition of the unique assembly mechanism, the understanding of the functional roles of the gas vesicle proteins (Gvps) and the molecular assembly process has severely lagged behind. Only the major shell protein, which is usually denoted as
+
+Recently, a number of studies have investigated subsets of the protein–protein interactions in the GV operon of
+
+We decided to focus our investigation on the pNL29 operon originally cloned from
+
+(
+
+Following this choice, we considered the number of conditions we would need to probe (Fig.
+
+We then continued to establish an experimental workflow to maximize the information gained per protein–protein interaction assay performed. We probed protein–protein interactions in triplicates at two different timepoints (as described in the next section), and for a subset of the samples, we confirmed the expression of gas vesicles by phase-contrast microscopy and the expression of fusion proteins by western blot. We also monitored the transformation efficiency of our three-plasmid transformation, and the significance of these additional datapoints will be discussed in the sections “A fraction of Gvp fusion proteins enable GV formation but affect cell viability” and “All GV fusion proteins are expressed, but vary in stability” (Fig.
+
+(
+
+Finally, we performed our protein–protein interaction assays in a defined order to minimize redundancy. The appendix (
+
+With the abovementioned experimental workflow, we ended up testing a total of 1008 protein–protein interactions, each with
+
+While a stronger signal from luciferase complementation does not necessarily indicate a more physiologically relevant protein–protein interaction, we decided to bin our results to help readers decode the bulk of results reported. Interactions >20% were defined as high, 10–20% as medium, and 5–10% as low. The bins were chosen after data acquisition, creating three groups of roughly equal population, and serve to visually decode the data, but do not relate to biological relevance or statistical significance of contained datapoints. Following the maxim of underreporting rather than overreporting protein interactions, we did not count signals with low statistical significance as protein–protein interactions. Signals <5% of the positive control were excluded from our final analysis to minimize the chance of including noise-level measurements in our data. In this way, 24 interactions were grouped as “high”, 72 interactions were grouped as “medium”, and 38 interactions were grouped as “low”, resulting in 134 out of 1008, or ~10% of all measurements being counted as protein–protein interactions within the operon. Redundant interactions were observed between two GV proteins of different configurations of fusion, and we consolidated these interactions by taking the strongest one as the representative interaction, which resulted in a final set of 13 high, 5 medium, and 9 low interactions.
+
+Approximately half of all possible interactions (28 out of 66) of GV proteins have been observed, indicating a dense network of protein–protein interactions (Fig.
+
+(
+
+Next, we compared the interaction strength at the two different time points, 4 h (
+
+Following this, we seek to determine whether an observed interaction is interdependent on a third protein (dependent interactions) or is not influenced by the absence of other proteins, which would suggest an independent (direct) interaction. This information can be critical for subsequent studies such as the construction of hierarchical interaction events and structural investigation of the binding sites. Since the roadmaps presented above were constructed in the presence of all 11 GV proteins, we anticipate that only a subset of the interactions were direct ones. Experimentally, we investigated only those pairs that had already shown an interaction in our previous experiments, except for the major shell protein GvpA2, of which we screened the interaction with all other GV proteins even if we had not seen an interaction. We also reasoned that keeping the 3-plasmid system will best retain a similar experimental condition for the cells such as the presence of all three antibiotics, and thus we created a decoy Plasmid III that contained no GV protein but only the plasmid backbone (∆All, Fig.
+
+Critically, we acknowledge that select protein–protein interactions in the GV operon may also be dependent on proteins natively present in
+
+In the data (Fig.
+
+(
+
+Next, we proceeded to probe the subnetworks of interactions among the few intriguing clusters of proteins identified from the above roadmaps. Experimentally, we created a set of triple deletion Plasmid III that contained the GV operon excluding the two proteins of interest and a third protein that is hypothesized to mediate their interaction. This strategy allows us to probe the interdependence of certain protein–protein interactions on individual GV proteins. Notably, in our initial interaction screening, we did not observe an interaction between GvpA2 and GvpF (Fig.
+
+(
+
+It is interesting to compare our observations with a previous study on GV proteins from haloarchaea, which did not include other GV proteins in the background (Völkner et al,
+
+Finally, we investigated the observation that GvpA2 and GvpL do not interact at timepoint t
+
+As a first addition to our dataset, we hypothesized that the number of
+
+(
+
+Following this, we assessed whether GV assembly is compatible with the individual Gvp fusion proteins. Making genetic fusions is a common tool to investigate the function, localization, and structure of proteins; however, this also risks perturbing the native function of the protein by the fused partners. Since we have already created all the constructs with both N- and C-terminal fusion of either the Large BiT, a large globular protein, or the Small BiT, a short 11-amino-acid peptide, we sampled our protein–protein interaction assay to check for GV assembly. Experimentally, the successful assembly of GVs can be determined by phase-contrast imaging of bacteria, since the gas compartments of GVs scatter light and produce a distinguishable white spot on these images (Farhadi et al,
+
+Lastly, to monitor the expression levels of our fusion protein constructs and to exclude that an absence of luciferase signal is due to poor protein expression, performed western blot immunodetection of FLAG-tags on our fusion proteins. For each N- and C-terminal Large BiT fusion protein, we analyzed three independent samples (Dataset
+
+Despite their emerging biomedical value, and recent progress in understanding their structure (Dutka et al,
+
+Such a protein–protein interaction network is often one of the first steps to understanding the assembly mechanism of a protein organelle. For example, delineating the protein–protein interactions of β‐carboxysome biogenesis revealed the core-first assembly pathway (Cameron et al,
+
+Building on current knowledge and this study, we would like to postulate an assembly process of GVs encoded in the pNL29 operon (Fig.
+
+The five stages are drawn into five panels with dashed-line borders. The stage number is indicated by a Roman numeral in a black circle, and the stage name is labeled in the top left corner of each panel. Proteins are colored in blue, and the protein shell of GVs is indicated with orange color. A schematic of a ribosome is colored grey in Stage III.
+
+The earliest observable stage of GV growth is the “bicone” (Pfeifer,
+
+The “chaperoning” of GvpA2, Stage III, is likely to be carried out by GvpF as the primary binding partner of GvpA2 (Figs.
+
+For the elongation of GVs (Stage IV), it is likely that the insertion of the shell protein GvpA2 occurs at the middle polarity reversal point observed in the cryo-EM structures (Dutka et al,
+
+Finally, Stage V is the spatial organization of GVs. While this stage is not essential for the formation of GV particles, spatial organization would be important to minimize GVs’ occupancy of cytosolic space and was recently shown to modulate cellular fitness (Li et al,
+
+This work must be seen in the context of prior studies on the interactions and putative functions of Gvps and we provide additional, granular observations on this in the Appendix (
+
+We conclude by pointing out limitations to our study: It is likely that the use of fusion proteins and non-physiological expression systems (Appendix Fig.
+
+In summary, our dataset has to be seen in a semi-quantitative manner and provides a basis, but not an endpoint, for investigating the assembly of bacterial gas vesicles.
+
+DNA plasmids used in this study were generated by Gibson assembly and site-directed mutagenesis utilizing Q5 Hot Start High-Fidelity enzymes, HiFi DNA Assembly Master Mix, and KLD Enzyme Mix (New England Biolabs (NEB), Ipswich, MA). Plasmids were generated based on the pET-26b(+) backbone to contain the large or small fragments of the NanoBiT luciferase (Large BiT or Small BiT) used for the split-luciferase complementation assay (Promega, Madison, WI, USA) (Dixon et al,
+
+In parallel, deletion mutants of each GV protein in the pNL29 operon and combinations of two or three thereof were generated as indicated. The pNL29 operon was first cloned from the pST39-pNL29 plasmid (Addgene ID 91696), and the ORF of GvpK overlapping the ORF of GvpS was resolved by moving the start codon of GvpK to the downstream of GvpS, generating a new plasmid named as Mega’ (Appendix Fig.
+
+For molecular cloning, bacterial transformations were carried out using NEB Turbo competent cells, and the transformed cells were isolated on agar plates with the respective antibiotics (50 µg/mL Kanamycin or 75 µg/mL Spectinomycin or 100 µg/mL Carbenicillin). For protein–protein interaction experiments, home-made competent BL21(DE3) cells were generated by Mix & Go
+
+Cell cultures, luminescence measurements, and optical density at 600 nm (OD
+
+On the following day, 10 µL of these overnight pre-culture cells were transferred to 190 µL of LB media containing antibiotics and 0.2% glucose in a clear 96-well microplate (#3370, Corning, Corning, NY, USA) and left to grow at 30 °C and 600 rpm until all cultures reached OD
+
+Data from the split-luciferase complementation assay are reported as follows. OD
+
+Protein alignment for Fig.
+
+For phase-contrast microscopy, 5 µL of the bacterial cultures at
+
+In total, 30 µL of the indicated bacterial cultures were mixed with 30 µL of 2× Laemmli buffer and incubated at 98 °C for 5 min. Samples (using 25 µL each) including 5 µL PageRuler Plus (Thermo Fisher Scientific, Waltham, MA, USA) or Precision Plus Dual Xtra (Bio-Rad, Hercules, CA, USA) prestained protein ladder were applied to SDS-PAGE using 4–20% Mini-PROTEAN TGX precast protein gels (Bio-Rad, Hercules, CA, USA).
+
+Western blots were carried out in a Trans-Blot Turbo system using Trans-Blot Turbo Mini 0.2 µm Transfer-Packs (Bio-Rad, Hercules, CA, USA) using the Standard setting on the instrument. Total protein staining was performed using Revert 700 Total Protein Stain (LI-COR, Lincoln, NE, USA) following the manufacturer’s instructions and detected using a FluorChem M imager (Protein Simple, San Jose, CA, USA) by the Multifluor Red setting. Immunodetection was carried out by blocking PVDF membranes in 5% (w/v) fat-free dried milk powder followed by incubation overnight in rat anti-FLAG M2 antibodies diluted 1:500 (Agilent Technologies, Santa Clara, CA, USA). After a brief rinse in Tris-buffered saline with Tween™ 20 detergent (TBST), goat anti-rat IgG (H + L) HRP-conjugated secondary antibodies (Invitrogen, Waltham, MA, USA) were used in 1:5000 dilution to incubate membranes for 1 h. Membranes were washed 3× in TBST, followed by TBS, before detection using Pierce ECL Western Blotting Substrate (Thermo Fisher Scientific, Waltham, MA, USA) with the FluorChem M imager using the “Chemi + Markers” setting and exposing for no more than 10 min. Western blot images were contrast optimized with
+
+Statistical testing of the protein–protein interaction data presented in Figs.
+
+For the OD
+
+For Fig.
+
+Statistical testing was carried out with Excel (Microsoft, Redmond, WA) and Prism (Graphpad Software, Boston, MA).
+
+
+
+Appendix
+
+Table EV1
+
+Table EV2
+
+Table EV3
+
+Peer Review File
+
+Dataset EV1
+
+Dataset EV2
+
+Source data Fig. 1
+
+Source data Fig. 2
+
+Source data Fig. 3
+
+Source data Fig. 4
+
+Source data Fig. 5
+
+Source data Fig. 6
+
+Source data Table S2
+
+Source data Fig. S4
+
+EV and Appendix Figure Source Data Part 1
+
+EV and Appendix Figure Source Data Part 2
+
+EV and Appendix Figure Source Data Part 3

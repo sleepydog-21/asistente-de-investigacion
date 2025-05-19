@@ -1,0 +1,63 @@
+At the NRCCH, all
+
+Macrolides, such as erythromycin, bind to the 50S subunit of the ribosome and inhibit protein synthesis. Mutations in
+
+The aim of the present study was to evaluate the mechanisms of resistance to erythromycin in France during the 6-year period from 2018 to 2023
+
+A total of 280 clinical isolates of either
+
+Proportion of resistant isolates (%) on the basis of AST and the presence of antimicrobial resistance-associated genes or mutations
+
+Phenotypic antimicrobial susceptibility testing (AST) highlighted in gray (AMP: ampicillin; CIP: ciprofloxacin; TET: tetracycline; GEN: gentamicin) was performed via the disk diffusion method and verified
+
+Bacterial species were identified from pure cultures
+
+Erythromycin MICs were determined on MH-F for each isolate included in the present study
+
+To determine erythromycin-associated mechanisms, whole-genome sequencing (WGS) was performed on previous pure cultures of each isolate. DNA was extracted
+
+Species were confirmed
+
+The genomic region surrounding the
+
+Globally, 90% ±5.3% of the raw read data of studied isolates were mapped against their reference genome, and
+
+Core-genome MLST tree of all 280 studied
+
+STRUCTURE analysis of the hypothetical source of contamination revealed a large number of strains that were assigned to the chicken reservoir, which represented 66.8% of the total data set (187 isolates, 166
+
+Each strain had additional resistance markers in addition to erythromycin. Among these erythromycin-resistant isolates, 56.8% of the total data set was also resistant to ampicillin (159 isolates, 144
+
+In the present study, the evolution of erythromycin-resistant
+
+Evolution of
+
+In contrast, among the 252 isolates with
+
+Over the years, an increase in
+
+In terms of erythromycin MICs, all
+
+Erythromycin minimum inhibitory concentration distributions from the agar dilution method. Boxplots were drawn using GraphPad Prism from MICs (mg/L) from a selection of all
+
+In the present study, the
+
+CRISPR–Cas9 operons of each
+
+On the other hand,
+
+Chromosomal multidrug resistance genomic islands (MDRGI) of each
+
+In this study, we aimed to characterize
+
+According to the last ECDC report for campylobacteriosis (
+
+Erythromycin resistance in campylobacters in Europe is almost entirely acquired by
+
+Although the majority of erythromycin-resistant strains sequenced in our study indeed presented a mutation in the
+
+As shown here, erythromycin MICs were lower for
+
+The multiresistant nature of
+
+In general, the appearance and emergence of

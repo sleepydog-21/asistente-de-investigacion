@@ -1,0 +1,11 @@
+{
+  "id": "38706434",
+  "title": "Turbidimetric bioassays: A solution to antimicrobial activity detection in asymptomatic bacteriuria isolates against uropathogenic Escherichia coli.",
+  "doi": null,
+  "authors": "Kenneally C, Murphy CP, Sleator RD, Culligan EP",
+  "journal": "MicrobiologyOpen",
+  "year": "2024",
+  "abstract": "Traditional bacteriocin screening methods often face limitations due to diffusion-related challenges in agar matrices, which can prevent the peptides from reaching their target organism. Turbidimetric techniques offer a solution to these issues, eliminating diffusion-related problems and providing an initial quantification of bacteriocin efficacy in producer organisms. This study involved screening the cell-free supernatant (CFS) from eight uncharacterized asymptomatic bacteriuria (ABU) isolates and Escherichia coli 83972 for antimicrobial activity against clinical uropathogenic E. coli (UPEC) strains using turbidimetric growth methods. ABU isolates exhibiting activity against five or more UPEC strains were further characterized (PUTS 37, PUTS 58, PUTS 59, S-07-4, and SK-106-1). The inhibition of the CFS by proteinase K suggested that the antimicrobial activity was proteinaceous in nature, potentially bacteriocins. The activity of E. coli PUTS 58 and SK-106-1 was enhanced in an artificial urine medium, with both inhibiting all eight UPECs. A putative microcin H47 operon was identified in E. coli SK-106-1, along with a previously identified microcin V and colicin E7 in E. coli PUTS 37 and PUTS 58, respectively. These findings indicate that ABU bacteriocin-producers could serve as viable prophylactics and therapeutics in the face of increasing antibiotic resistance among uropathogens.",
+  "source": "PubMed",
+  "pmcid": "PMC11070844"
+}

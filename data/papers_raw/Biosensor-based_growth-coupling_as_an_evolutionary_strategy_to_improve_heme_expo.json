@@ -1,0 +1,11 @@
+{
+  "id": "39402655",
+  "title": "Biosensor-based growth-coupling as an evolutionary strategy to improve heme export in Corynebacterium glutamicum.",
+  "doi": null,
+  "authors": "Krüger A, Göddecke J, Osthege M, Navratil L, Weber U, Oldiges M, Frunzke J",
+  "journal": "Microbial cell factories",
+  "year": "2024",
+  "abstract": "The iron-containing porphyrin heme is of high interest for the food industry for the production of artificial meat as well as for medical applications. Recently, the biotechnological platform strain Corynebacterium glutamicum has emerged as a promising host for animal-free heme production. Beyond engineering of complex heme biosynthetic pathways, improving heme export offers significant yet untapped potential for enhancing production strains. In this study, a growth-coupled biosensor was designed to impose a selection pressure on the increased expression of the hrtBA operon encoding an ABC-type heme exporter in C. glutamicum. For this purpose, the promoter region of the growth-regulating genes pfkA (phosphofructokinase) and aceE (pyruvate dehydrogenase) was replaced with that of P",
+  "source": "PubMed",
+  "pmcid": "PMC11472508"
+}

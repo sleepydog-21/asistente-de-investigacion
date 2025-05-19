@@ -1,0 +1,51 @@
+As toxigenic
+
+The OmpR protein is a key player in the EnvZ/OmpR two-component system, which is essential in regulating virulence factors in pathogenic bacteria. This system is remarkable for its ability to sense environmental signals, such as changes in osmolarity and pH [
+
+Our research brings to light the crucial role of OmpR in regulating the expression of the
+
+We used the
+
+To accomplish our goal, we designed a PCR fragment featuring a kanamycin resistance cassette flanked by 45 bp on both the 5′ and 3′ ends, precisely outlining the boundaries of the
+
+We generated the Δ
+
+The strains were cultivated in tryptone soy broth (TSB) (Difco, Beirut, Lebanon) at 37 °C with shaking until they reached an optical density at 600 nm (OD) of 1.6 since, in a previous study, we demonstrated that the expression levels of the
+
+Total RNA was isolated using the Quick-RNA Fungal/Bacterial Miniprep Kit (Zymo Research, Irvine, CA, USA) and then purified with the TURBO DNA-free Kit (Invitrogen) to remove any residual DNA. The concentration and purity of the RNA were assessed using a NanoDrop One (Thermo Scientific, Waltham, MA, USA), while its integrity was evaluated through a bleach-denaturing 1.5% agarose gel [
+
+Quantitative PCR (qPCR) was performed using a LightCycler 480 instrument (Roche, Basel, Switzerland) with specific primers [
+
+The optimized qPCR analysis included the following steps: (1) an initial denaturation at 95 °C for 10 min, followed by 45 amplification cycles lasting 10 s at 95 °C, 10 s at 59 °C, and 10 s at 72 °C, with a single fluorescence measurement taken during each cycle; (2) a melting curve program lasting 10 s at 95 °C and 1 min at 65 °C with continuous fluorescence measurement until reaching 97 °C; and (3) a final cooling period of 10 s at 40 °C. We rigorously confirmed the absence of contaminating DNA by demonstrating the lack of amplification products after 45 qPCR cycles when using RNA as a template. Moreover, the minus RT controls were included in all experiments. We calculated the fold change in gene expression using the 2
+
+The cytotoxicity was evaluated using the LDH Cytotoxicity Assay Kit (Invitrogen). This method measures the release of lactate dehydrogenase (LDH) from epithelial cells, in accordance with the manufacturer’s guidelines (
+
+The Caco-2 cells were carefully cultured in Dulbecco’s Modified Eagle Medium (DMEM) with high glucose (4.5 g/L) (Gibco, Waltham, MA, USA), supplemented with 10% fetal bovine serum (FBS) (Gibco), in a 96-well flat-bottom culture plate. After incubating for 48 h at 37 °C in a 5% CO
+
+Negative controls included phosphate-buffered saline (PBS) and culture medium (TSB), while lysis buffer served as a positive control to validate our findings. Additionally, we analyzed the
+
+All experiments were conducted in triplicates across three independent biological replicates. To ensure a thorough and comprehensive analysis, we performed an unpaired two-tailed Student’s
+
+We observed a significant up-regulation of the
+
+We also observed a notable down-regulation of gene expression when OmpR was induced from the p-OmpR plasmid using IPTG in the WT strain. A striking 9.0-fold decrease in
+
+Combined with the restored gene expression in the complemented strain to WT levels, these results convincingly demonstrate that the OmpR protein functions effectively as a transcriptional repressor of the
+
+The supernatant from the WT strain has clearly demonstrated significant cytotoxicity in Caco-2 cells, underscoring the serious threat that toxigenic
+
+To establish a direct link between the observed cytotoxic effects and the production of TM and TV compounds, we conducted experiments using the Δ
+
+Understanding gene expression in bacteria is incredibly exciting due to their adaptability. By exploring gene regulation, we can unlock possibilities for personalized treatments, particularly for conditions like AAHC. This not only highlights bacteria’s resilience against infections but also our potential to combat them effectively. With advancements in gene regulation, particularly focusing on transcription factors, we are poised to revolutionize treatment approaches and pave the way for a healthier future.
+
+This research powerfully highlights the pivotal role of OmpR in regulating gene expression in toxigenic
+
+Our findings indicate that OmpR effectively represses the transcription of the
+
+The TM and TV enterotoxins serve as the primary virulence factors in toxigenic strains of
+
+Overall, our findings demonstrate the significant role of the OmpR protein in negatively regulating the expression of the
+
+As we progress with this innovative research project, our team is excited to explore whether OmpR directly binds to the intergenic regulatory region of
+
+This research emphasizes the crucial role of the OmpR protein in negatively regulating the

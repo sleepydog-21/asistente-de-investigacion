@@ -1,0 +1,153 @@
+Over the last decades, a wide range of molecular tools have been developed for the identification and enumeration of ciliates in planktonic systems that, at least in theory, should enable a faster and more objective quantification than traditional morphotype‐based microscopic approaches (Abraham et al.,
+
+Ciliates generally exhibit a much higher rDNA copy number than other protists due to their nuclear dualism (Gong et al.,
+
+Intra‐individual polymorphism in the rDNA was reported in the 18S rDNA of
+
+Intra‐specific single nucleotide polymorphisms (SNPs) are present in the 18S rDNA of many ciliates with variations of up to 1.7% in the freshwater species
+
+The prostomate ciliate
+
+The aim of our study was to demonstrate the cryptic diversity within
+
+Schematic illustration of cryptic diversity in a ciliate species, in which several distinct dominant haplotypes (showing also intra‐clonal diversity) are hidden behind one morphotype, and a ‘complex ciliate species’ comprising intra‐clonal diversity within only one dominant haplotype.
+
+Water samples (5 liter) were collected from 1 to 8 m depth of Lake Zurich with an integrating water sampler (IWS 3, Hydro‐Bios Apparatebau, Germany) during May 2020, in May and June 2022 as well as in March to August 2023 (Figure
+
+Applied workflow to detect and characterize different rDNA operon haplotypes of
+
+Single ciliate cells were picked by hand with a glass pipette and transferred into 24 well plates to establish clonal cultures (Figure
+
+The 18S rDNA of single
+
+Differences between the various
+
+For all haplotypes, Sanger sequencing was conducted on an ABI 3730 Genetic Analyzer (Applied Biosystems, Thermo Fisher Scientific, United States), using the BrilliantDye® Terminator Cycle Sequencing kit v3.1 (NimaGen, Netherlands) and thirteen primers (Table
+
+To investigate differences in the rDNA operon within two of the dominant haplotypes, numerous copies of this region (~2900 bp) were sequenced, using the minION platform (Oxford Nanopore Technologies). Cell harvesting of clones of BpHs 1 and 3 were performed as described above for Sanger sequencing. DNA extraction and purification were performed with the MagAttract HMW DNA Mini Kit (Quiagen), albeit without the use of Proteinase K, lysozyme, and SDS to prevent contamination by remaining
+
+5′
+
+5′
+
+PCR was conducted as following: First denaturation at 95°C for 3 min followed by 35 cycles, each consisting of 30 s at 98°C, 15 s at 55°C, 3 min at 72°C, and a final elongation for 10 min at 72°C. With a second PCR amplification, barcodes and tag‐sequence for the subsequent adaptor ligation were attached to the amplified sequences according to the protocol provided by Oxford Nanopore (SQK‐LSK114 with EXP‐PCA001) adapted for the use of KAPA HiFi: Initial denaturation, denaturation, and annealing were performed according to the protocol. Temperature for the extension and the final extension was increased to 72°C for 3 and 10 min, respectively. In total, 15 cycles of denaturation, annealing, and extension were used. After cleaning and before end preparations, two barcoded samples were pooled together (end conc. 1 μg) in a library. For adapter ligation a short fragment buffer was used. Finally, 30 μl of the sample including sequencing buffer, library beads, and DNA library (~20 fm) was loaded on a Flongle flow cell (FLO‐FLG 114; Oxford Nanopore Technologies) and run for 24 h.
+
+Reads were cleared of their barcodes via Porechop_ABI (Bonenfant et al.,
+
+To evaluate the phylogenetic position of dominant BpHs 1–4 within the class Prostomatea, the 18S rDNA gene sequences were aligned with their closest relatives, using the software tool ‘prank’ (Löytynoja,
+
+The cell length and width of living ciliates (in total 380 cells) from BpHs 1–3 were measured on recorded phase contrast images taken at 320X magnification on a Zeiss Axio Imager M1 microscope equipped with a Zeiss Axiocam camera 305 color. Measurements were performed with the image analysis software ZEN PRO Version 3.7 on the recorded images, using the zoom‐in modus for enlargement of the objects of interest. Morphometric measurements were grouped according to the numbers of food vacuoles per ciliate (0, 1, 2 and > 2), considering effects of starvation on cell dimensions. Cell dimensions were compared between BpHs by Kruskal–Wallis ANOVA followed by Dunn's test (package “dunne. test”). The Benjamini–Hochberg method was employed to adjust the false discovery rate resulting from multiple testing. All other morphological characteristics were determined from protargol‐impregnated specimens (see below).
+
+Morphological details of the BpHs 1 and 3 were further analyzed by qualitative and quantitative protargol impregnation (Figure
+
+To concentrate cells for qualitative protargol staining and reduce the coloration due to picric acid, 5–10 ml of fixed samples were then gently filtered (−10 kpa) onto a polycarbonate membrane filter (3 μm pore size, Ø 13 mm, Merck Milipore, Germany) and washed multiple times with tap water until samples became transparent. The supernatant was mixed with albumin glycerol in a ratio of 3:1 on a glass slide and subsequently air‐dried for 20 h. Qualitative protargol staining was conducted according to procedure A in Foissner (
+
+For quantitative protargol impregnation, subsamples of 5 ml were filtered onto 0.8 μm pore size cellulose nitrate filters (Sartorius, Germany) with counting grids of 9 mm
+
+The morphometric analyses base on 45 stained specimens (
+
+Comparison of morphological characteristics of
+
+13.1 (10–18)
+
+20
+
+30.6 (23–37)
+
+35.2 (27–43)
+
+13.5 (10–17)
+
+15
+
+30.7 (26–35)
+
+28.6 (25–32)
+
+BpH 1: 3.9 (2.7–4.7)
+
+BpH 3: 4.7 (3.4–6.3)
+
+BpH 1: 3.1 (2.1–3.9)
+
+BpH 3: 4.5 (2.8–6.2)
+
+BpH 1: 25.7 (22–27)
+
+BpH 3: 24.4 (21–26)
+
+BpH 1: 20.5 (18–26)
+
+BpH 3: 18.9 (15–22)
+
+BpH 1: 6.2 (5–8)
+
+BpH 3: 7.0 (6–8)
+
+
+
+Abbreviations: BpH,
+
+Significant differences between BpHs 1 and 3.
+
+Mating tests were performed with BpHs 1 and 3 in a microscopic chamber of 100 μl volume. (i)
+
+A new
+
+The probe was 5′ labeled with horseradish peroxidase (HRP; Sekar et al.,
+
+To evaluate whether the probe covers the entire
+
+In addition to the newly designed probe Bal‐1043, the probe Bal‐651 generated by Dirren‐Pitsch et al. (
+
+Over the course of three years of investigation, four dominant
+
+BpHs 1 and 2 were highly similar with 99.9% identity in their 2900 bp rDNA operon sequence (Figure
+
+Number of mismatches (bp) and the resulting identity (%) between the haplotypes (BpHs 1–4) as well as the positions of the mismatches on the 2900 bp long rDNA including 18S, 5.8S, partial 28S rDNA as well the internal transcribed spacers (ITS 1 and ITS 2) compared to BpH 1. For BpH 4 only the 18S rDNA was available. The binding sites for oligonucleotide probes applied for CARD‐FISH analyses are marked by arrows.
+
+During the three years of investigations, we recurrently detected four dominant haplotypes in Lake Zurich (see previous section). These analyses on monoclonal specimens belonging to the haplotypes BpHs 1 and 3 aimed to detect minor haplotypes besides the dominant haplotypes (Figure
+
+All sequences obtained from specimens morphologically assigned to
+
+Maximum‐likelihood phylogenetic tree inferred from 18S rDNA gene sequences from Prostomatea including representatives of the families Balanionidae, Urotrichidae, Cryptocaryonidae, Plagiocampidae, Colepidae, Holophryidae, and Metacystidae, as well as of the genus
+
+All specimens isolated match the morphotype of
+
+Morphology of
+
+In situ detection of
+
+Comparison of counts obtained from QPS preparations (black) and CARD‐FISH preparations with the oligonucleotide probe Bal‐1043 (dark gray), Bal‐651‐C3 (light gray) and Bal‐651 (white). Samples were taken from Lake Zurich during spring 2021 and 2022. The probe Bal‐651 (covering BpHs 1 & 2) and Bal‐651‐C3 (covering BpHs 3 & 4) were targeting the same position of the rRNA and were therefore combined. Standard deviations of the triplicate preparations are indicated by error bars.
+
+By Sanger sequencing, a total of four dominant
+
+Cryptic diversity in the class Prostomatea has already been proposed within the genera
+
+The first indications that
+
+The dominant rDNA operon haplotype obtained from both Nanopore and Sanger sequencing, may represent the germline micronucleus template (Wang et al.,
+
+Our four dominant
+
+A comparison with the two related
+
+The genus
+
+CARD‐FISH combines molecular identification with microscopic quantification and represents a promising approach for ciliate monitoring. However, in situ counts of
+
+The debate on cryptic diversity within ciliate species has a long scientific history and has gained wider attention with the seminal article on genetically distinct groups (sibling species) within
+
+The authors declare no conflicts of interest.
+
+Figure S1.
+
+Figure S2.
+
+Table S1.
+
+Table S2.
+
+Table S3.
+
+Table S4.

@@ -1,0 +1,99 @@
+Wine making is an important component of the food brewing industry, playing an important role in the alcoholic beverage processing field. During the wine-making process, malolactic fermentation (MLF) is an important process that improves the quality of wine [
+
+The MLF process is mainly initiated and completed by
+
+Among various harsh environments, the acid stress environment of wine is the key stress factor affecting the growth of wine-fermenting bacterial strains, including
+
+We have generated a DEa3 mutant from the
+
+The
+
+After culturing the WCFS1 pIB184-vector (control) and WCFS1 pIB184-
+
+The WCFS1 pIB184-vector (control) and WCFS1 (pIB184-
+
+After culturing the cells overnight in MRS medium, the cells were transferred (1%, v/v) into fresh MRS medium and grown until the OD
+
+For measurement of membrane permeability, the cell culture and collection times were the same as those for the cell membrane fluidity measurement. The cells were collected by centrifugation (3000 rpm, 15 min) and resuspended in 10 mmol/L phosphate buffer saline (pH 7.4), and the OD
+
+For the membrane integrity measurement, the cells were cultured and collected using the same procedures for the cell membrane fluidity measurement. The cells were washed twice with phosphate buffer saline (pH 7.4), and the concentration of the bacteria was adjusted to 1 × 10
+
+For ATP content and H
+
+The amplified
+
+
+
+Schematic diagram of the construction process of recombinant plasmid
+
+To investigate the effects of heterologous expression of
+
+
+
+The growth curve of WC_S1(pIB184-vector) and WCFS1(pIB184-
+
+To explore the effect of heterologous expression of
+
+
+
+Volcano plots of gene expression differences between the recombinant strain WCFS1 (pIB184-
+
+
+
+The totally different expression gene numbers (
+
+To identify the upregulated or downregulated genes in the recombinant strain at the time points (60 h, 72 h, and 108 h ) compared with the control strain, the gene numbers and specific categories from all the differentially expressed genes were filtered and analyzed using Microsoft Excel. Table
+
+
+
+The significantly up/down regulated genes in WCFS1(pIB184-
+
+Compared with the control strain, 47 genes were significantly downregulated in the recombinant strain at all three time points, and they were subdivided into 12 categories of COG functional annotations. Some common stress response protein-coding genes, such as
+
+Various stress conditions, including acid stress, usually change the physicochemical properties of the cell membrane. To explore the effects of acid stress on the cell membranes of the recombinant and control strains, the cell membrane fluidity, permeability, and integrity were measured at 0 h, 60 h, 72 h, and 108 h. Pyrene was used as a cell membrane probe, and the fluidity of the cell membrane was represented according to the measured fluorescence intensity ratio (K
+
+
+
+Measurement of cell membrane fluidity (
+
+The ATP content and intracellular H
+
+
+
+ATP content (
+
+Figure
+
+The present study investigated the function of
+
+The amino acid sequence of
+
+The transcriptome data indicated that at 60 h, 72 h, and 108 h, the numbers and categories of differentially expressed genes significantly varied in the recombinant and control strains, which suggested that the recombinant strain adjusted the gene expression pattern at different growth stages to adapt to an acid stress environment. Compared to the control strain, the recombinant strain had 20 significantly upregulated and 47 significantly downregulated genes at all the three time points, implying that these genes were consistently regulated to better help the recombinant strain tolerate acid stress.
+
+The
+
+The Spx subfamily (encoded by lp_3579), MdxE (encoded by lp_0175), and MATE family (encoded by lp_1386) proteins were also significantly upregulated at all three time points in the present study. It has been reported that Spx binds to the C-terminal domain (α-CTD) of the RNA polymerase α-subunit to activate or inhibit downstream gene expression [
+
+In the present study, three genes, including
+
+Nine other genes encoding unknown functional proteins were significantly upregulated in the recombinant strain, and the role of these genes in the recombinant strain under acid stress environment remains unclear. At 60 h and 72 h, many lipid-, amino acid-, nucleotide transport-, and metabolism-related genes were significantly upregulated in the recombinant strain (data not shown), which suggested that various metabolic processes of the recombinant strain were relatively active at these two time points, corresponding to the growth curve. The recombinant strain required less time to transition from maintaining a cell survival state to promoting a cell rapid growth state. These results suggested that heterologous expression of
+
+In the present study, 47 genes were significantly downregulated in the recombinant strain at all three time points compared with the control strain. At 60 h, the expression levels of most stress response protein-coding genes, such as
+
+The present study demonstrated that several protein-coding genes related to cell surface structure or polysaccharide metabolism were significantly downregulated in the recombinant strain. Previous studies have reported that there are four gene clusters, namely,
+
+The present study demonstrated that two transcriptional regulators belonging to the MarR family and Crp/FNR family were significantly downregulated in the recombinant strain at the three time points. MarR family members are regulators of antibiotic tolerance and usually act as transcriptional suppressors to inhibit downstream gene expression, such as inhibiting the expression of the gene encoding the drug efflux pump in
+
+At the three time points, the
+
+The present study indicated that the physicochemical properties of the cell membrane in both the recombinant and control strains continuously changed at different time points, suggesting that both strains adapt to acid stress environments by regulating the cell membrane fluidity, integrity, and permeability. At 72 h, the recombinant strain had higher membrane fluidity, permeability, and integrity compared with the control strain, which may be due to the recombinant strain being in an early stage of logarithmic growth compared to the control strain being in the lag phase. The higher membrane fluidity, permeability, and integrity accelerated the exchange of substances inside and outside the cells to support the rapid growth of the recombinant strain.
+
+In the present study, the intracellular ATP content of the recombinant strain was significantly lower than that of the control strain at 60 h. Studies have shown that under stress conditions, cells need to consume more ATP to fight against the stress environment and maintain cell activity and growth [
+
+In the present study, the
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

@@ -1,0 +1,263 @@
+Polyamines are flexible aliphatic cations that are found in virtually all organisms.
+
+Polyamines control flagella-dependent surface motility of
+
+An assessment of surface motility for
+
+Several results suggested that W3110 requires pili for surface motility. First, the deletion of
+
+(
+
+Results from W3110 sequencing found an
+
+We examined PDSM requirements for polyamine anabolic pathways. A major putrescine biosynthetic pathway is ornithine decarboxylation either by the constitutive SpeC or the low-pH inducible SpeF. TheΔ
+
+(
+
+Supplemental putrescine at 1 mM restored the surface motility of a
+
+(
+
+(
+
+Because putrescine catabolism modulates intracellular putrescine concentrations (
+
+(
+
+High putrescine inhibits the translation of some mRNAs, and high spermidine, a product of putrescine metabolism, inhibits growth (
+
+(
+
+Representative images are shown and cells were removed from motility plates with the following exogenous putrescine concentrations: (
+
+RNAseq analysis was used to further confirm or determine whether putrescine affected (a) transcription of the
+
+We grew parental W3110 and its Δ
+
+(
+
+Abbreviation: putr is putrescine.
+
+Deletion of
+
+(
+
+The phase ON-favoring FimB and phase OFF-favoring FimE recombinases control the orientation of the
+
+(
+
+Altered transcript levels in the
+
+The effects of low putrescine are shown. Genes and processes (transport and transcriptional regulators) in red have fewer transcripts, while those in black or blue have more. The dashed lines represent the proposed reduction in metabolic flux because of fewer transcripts from genes coding for the enzymes involved. Operons are shown except for the larger operons or regulons. For example,
+
+A positive number means more transcripts in the Δ
+
+Values for transcripts of the first gene of the operon are given. Results for other genes of the operon are in
+
+Loss of
+
+Several aspects of polyamine metabolism affect PDSM in
+
+Results from an RNAseq analysis showed that transcription of the
+
+The transcriptomic results showed that the
+
+A major observation of the RNAseq analysis is that loss of
+
+In contrast to our results, a thorough and well-designed study showed that
+
+The transcript changes observed in our study were different from those in the only other systematic study of putrescine’s effect on
+
+Several results implicate putrescine in
+
+All strains used for growth rate determinations and motility assays were derivatives of
+
+For P1 transductions and plasmid transformation experiments, cells were grown in standard LB liquid medium (1% tryptone, 1% NaCl, and 0.5% yeast extract, pH 7.0) at 37°C. Antibiotics were used for selection at concentrations of 25 µg/mL (both chloramphenicol and kanamycin). For growth analysis, bacteria were grown in a liquid motility medium (0.5% glucose, 1% tryptone, and 0.25% NaCl) which we refer to as GT medium. Starter cultures (typically 6–12 hr incubation) were grown in GT medium, harvested by centrifugation, washed twice with phosphate-buffered saline, and re-suspended in GT medium before inoculation. The cells were then grown at 37 °C in aerobic conditions (shaking at 240 rpm) and the turbidity was measured every 30 min. Cell growth was measured in Klett units using a Scienceware Klett colorimeter with a KS-54 filter. 100 Klett units represent an OD
+
+For a standard surface motility assay, single colonies from fresh plates (streaked out from frozen stocks a day before) were inoculated in GT medium for 6 hr at 37 °C in aerobic conditions (shaking at 240 rpm). 30 ml of autoclaved GT medium with 0.45% agar (Eiken, Tokyo, Japan) was poured into a sterile polystyrene petri dish (100 mm × 15 mm) and allowed to solidify at room temperature for approximately 6 hr. Then, 1 µL of the pre-motility growth medium was inoculated at the center of the agar plate and incubated at 33°C for 36 hr. Each experiment was performed in triplicate and pictures were taken after 36 hr. Surface motility was extremely sensitive to humidity. Opening the incubator before 36 hr resulted in movement cessation. The surface motility assay was performed at 33 °C because results from incubations at 37°C were highly variable and the cultures more frequently generated genetically stable fast-moving variants.
+
+The media and culturing for swimming motility are identical to that for surface motility, except that the plates contained 0.25% agar and were solidified at room temperature for about 1 hr before inoculation. Then, 1 µL of the culture was stabbed in the center of this swim agar plate and incubated at 33°C for 20 hr. Each experiment was performed in triplicate.
+
+Cells from surface motility plates were collected and fixed with 2.5% glutaraldehyde. Bacteria were absorbed onto Foamvar carbon-coated copper grids for 1 min. Grids were washed with distilled water and stained with 1% phosphotungstic acid for 30 s. Washed and stained grids were dried at 37 °C for 10 min. Samples were viewed on a JEOL 1200 EX transmission electron microscope at the University of Texas Southwestern Medical Center (
+
+Cells were grown overnight in 5 mL GT media followed by a 2 hr growth in GT media with 0.0, 0.1, 1.0, or 4.0 mM putrescine. Cells were then lysed using a 24-gauge needle. The cell lysate was diluted to a concentration of 1 mg/mL protein (based on A280) in pH 9.6 coating buffer (3 g Na
+
+DNA was isolated based on previously established protocols (
+
+Long reads were prepared using the PCR-free Oxford Nanopore Technologies ligation sequencing kit with the NEBNext companion module. No fragmentation or size selection was performed. Long-read libraries were performed using the R10.4.1 flow cell. The 400bps sequencing mode with a minimum read length of 200 bp was selected. Guppy (v6.5.7) was used at the super-accurate base calling, demultiplexing, and adapter removal. Total long reads: 53773 with 89.607% of bps >Q20.
+
+To generate the completed genome, porechop (v0.2.4) was used to trim residual adapter sequences from long reads. Flye (v2.9.2) was used to generate the de novo assembly under the nano-hq model. Reads longer than the estimated N
+
+Cells were grown for 2 hr in 1 mL GT media. 60 µL were then added to 1 mL of fresh GT, with or without 1 mM putrescine, and grown for another 2 hr. After growth, the cells were centrifuged, and frozen at –80 °C. The isolation and analysis protocol has been previously published (
+
+RNA was isolated as described above. One microgram of RNA was reverse transcribed using LunaScript RT Super Mix (NEB E3010) and another microgram was subjected to the same reaction as the reverse transcribed RNA, except without reverse transcriptase (negative control) following manufacturer instructions. The cDNA was then diluted to 10 ng/µL for qPCR. PCR reactions were composed of 10 ng cDNA, 8 µL of nuclease-free water, 10 nM primers (rpoD: Forward:
+
+Transcripts were aligned to the W3110 genome and CDS (
+
+All strains are available upon request. All mutant alleles are readily accessible via the KEIO mutant collection (
+
+This
+
+Summary:
+
+Mehta et al., in constructing
+
+Strengths:
+
+The authors characterize the specific polyamine pathways that are important for this phenomenon. RNAseq provides a detailed overview of gene expression in the strain lacking putrescine. They rule out potential effects of pilin phase variation on the phenotype. The data suggest homeostatic control of polyamine synthesis and metabolic changes in response to putrescine.
+
+Weaknesses:
+
+The authors do not, in the end, uncover the molecular details of pilin expression per se, but that would require significantly more analyses and data; the mechanisms of pilin regulation are complicated and still not completely understood.
+
+Summary:
+
+This study by Mehta et al. describes the mechanisms behind the observation that putrescine biosynthesis mutants in
+
+Strengths:
+
+The authors show the effect of putrescine on the regulation of type I fimbriae using various strategies (mutants, addition of exogenous, RNA seq, etc.). All experiments converge to the same conclusion that an optimal level of putrescine is needed.
+
+Weakness:
+
+The authors use one isolate of
+
+The following is the authors’ response to the original reviews.
+
+The major conclusions are (a) surface motility of W3110 requires pili which is not novel, (b) pili synthesis and pili-dependent surface motility require putrescine — 1 mM is optimal, and 4 mM is inhibitory, and (c) the existence of a putrescine homeostatic network that maintains intracellular putrescine that involves compensatory mechanisms for low putrescine, including diversion of energy generation toward putrescine synthesis.
+
+Conclusion a: Reviewer 3 suggests that the mutant may have lost surface motility because of outer surface structures that actually mediate motility but are co-regulated with or depend on pili synthesis. The reviewer explicitly suggests flagella as the alternate appendage, although flagella and pili are reciprocally regulated. Most experiments were performed in a Δ
+
+Conclusion b, first comment: Reviewer 1 states that “it is not possible to conclude that the effects of gene deletions to biosynthetic, transport or catabolic genes on pili-dependent surface motility are due to changes in putrescine levels unless one takes it on faith that there must be changes to putrescine levels.” The comment ignores both the nutritional supplementation and the transcript changes that strongly suggest compensatory mechanisms for low putrescine. Why compensate if the putrescine concentration does not change? The reviewer then implicitly acknowledges changes in putrescine content: “it is important to know how much putrescine must be depleted in order to exert a physiological effect”.
+
+Conclusion b, second comment: Reviewer 1 proposes that agmatine accumulation can account for some of the observed properties, but which property is not specified. With respect to motility, agmatine accumulation cannot account for motility defects because motility is impaired in (a) a
+
+Conclusion c: the reviewers made no comments on the RNAseq analysis or the interpretation of the existence of a homeostatic network.
+
+
+
+Complementation. Reviewers 1 and 3 suggested complementation experiments, but the latter states that nutritional supplementation strengthens our arguments. The most relevant complementation is with
+
+The purpose of complementation is to determine whether a second-site mutation is the actual cause of the motility defect. In this case, the artifact is that an alteration in polyamine metabolism is not the cause of the defect. However, external putrescine reverses the effects on motility and pili synthesis in the
+
+Phase variation. Reviewer 2 noted that we did not discuss phase variation. The comment came from the observation that the
+
+Testing of additional strains. Published results from another lab showed that surface motility of MG1655 requires spermidine instead of putrescine (PMID 19493013 and 21266585). MG1655 and the W3110 that we used in our study are
+
+Measuring intracellular polyamines. We felt that we had provided sufficient evidence to conclude that putrescine controls pili synthesis and putrescine concentrations are lower in the
+
+
+
+
+
+The authors should measure putrescine, agmatine, cadaverine, and spermidine levels in their gene deletion strains.
+
+Polyamine concentration measurements will be part of a separate study on polyamine control of pili synthesis of a uropathogenic strain. A comparison is essential, and the results from W3110 will be part of that study.
+
+
+
+(1) Line 28. Your statements about urinary tract infections are pure speculation. They are fine for the discussion, but should not be in the abstract.
+
+The abstract from line 27 on has been reworked. The comment of the reviewer is fair.
+
+(2) Line 65. Do we need this discussion about the various strains? If you keep it, you should point out that they were all W3110 strains. But you could just say that you confirmed that your background strain can do PDSM (since you are also not showing any data for the other isolates). Discussing the various strains implies that you are not confident in your strain and raises the question of why you didn't use a sequenced wt MG1655, or something like that.
+
+This section has been reworked. Our strain of W3110 has an insertion in fimB which is relevant for movement but does not affect our results. The insertion limits our conclusions about phase variation. We want to point out that strains variations are large. We also sequenced our strain of W3110.
+
+(3) Related. You occasionally use "W3110-LR" to designate the wild type. You use this or not, but be consistent throughout the text.
+
+Fixed
+
+(4) Line 99. Does eLife allow "data not shown"?
+
+(5) Line 119. As you note, the phenotype of the puuA patA double mutant is exactly the opposite of what one would expect. Although you provide additional evidence that high levels also inhibit motility, complementing the double mutant would provide confidence that the strain is correct.
+
+We rapidly ran into issues with complementation which are discussed in public responses to reviewer comments.
+
+(6) Figure 6C. Either you need to quantify these data or you need a better picture.
+
+The files were corrupted. It was repeated several time, but we lost the other data.
+
+(7) Figure 7. Label panels A and B to indicate that these strains are speB. Also, you need to switch panels C and D to match the order of discussion in the manuscript.
+
+Done
+
+(8) Line 134. Is there a statistically significant difference in the ELISA between 1 and 4 mM? You need to say one way or the other.
+
+No statistical significance and this has been added to the paper
+
+(9) Figure 10C. You need to quantify these data.
+
+Quantification added as an extra panel.
+
+(10) Line 164. You include H-NS in the group of "positive effectors that control fim operon expression" and you reference Ecocyc, rather than any primary reference. Nowhere in the manuscript do you mention phase variation. In the speB mutant, you see decreased fimB, increased fimE, and decreased hns expression. My interpretation of the literature suggests that this would drive the fim switch to the off-state. This could certainly explain some of the results. It is also easily measurable with PCR. This might require testing cells scraped directly from the plates.
+
+The experiments were performed. There is no need to scrap cells from plates because the fimB result from RNAseq was from a liquid culture, and the prediction would be that the phase-locking should be evident in these cells.
+
+(11) Figure 10. Likewise, do you know that your hns mutant is not locked in the off-state? Granted, the original hns mutants (pilG) showed increased rates of switching, but growth conditions might matter.
+
+We also did phase variation for the hns mutant and the hns mutant was not phase locked. This result is shown. In addition to growth conditions, the strain probably matters.
+
+(12) Line 342. You describe the total genome sequencing of W3110, yet this is not mentioned anywhere else in the manuscript.
+
+It is now
+
+Minor points:
+
+(13) Line 192. "One of the most differentially expressed genes...".
+
+(14) Line 202. "...implicates extracellular putrescine in putrescine homeostasis."
+
+(15) Line 209. "...potential pili regulators...".
+
+(16) You are using a variety of fonts on the figures. Pick one.
+
+(17) Figure 9A. It took me a few minutes to figure out the labeling for this figure and I was more confused after reading the legend. It would be simpler to independently label red triangles, blue triangles, red circles, and blue circles.
+
+(18) Figure 9B and 10. The reader can likely figure out what W3110_1.0_3 means, but more straightforward labeling would be better, or you need to define these labels.
+
+All points were addressed and fixed.
+
+
+
+Other comments:
+
+(1) Please go through the figures and the reference to figures in the text, as they often do not refer to the right panel (ex: figures 2 and 7 for instance). In the text, please homogenize the reference to figures (Figure 2C vs Figure 3). To help compare motility experiments between figures, please use the same scale in all figures.
+
+This has been fixed.
+
+(2) Lines 65-70: I am not sure I get the reason behind choosing the W3110 strain from your lab stock. In what background were the initial mutants constructed (from l.64-65)? Were the nine strains tested, all variations of W3110? If so, is the phenotype described in the manuscript robust in all strains?
+
+We have provided more explanation. W3110 was the most stable: insertions that allowed flagella synthesis in the presence of glucose were frequent. We deleted the major flagella subunit for most experiments. Before introduction of the fliC deletion, we needed to perform experiments 10 times so that fast-moving variants, which had mutationally altered flagella synthesis, did not complicate results.
+
+(3) Line 82-84: As stated in the public review, I think more controls are needed before making this conclusion, especially as type I fimbriae are usually involved in sessile phenotypes.
+
+Response provided in the public response.
+
+(4) In Figure 3: Changing the order of the image to follow the text would make the figure easier to follow.
+
+Fixed as requested
+
+(5) Lines 100-101: simultaneous - the results presented here do not support this conclusion. In Figure 4b, the addition of putrescine to speB mutants is actually not different from WT. From the results, it seems like one of biosynthesis or transport is needed, but it's not clear if both are needed simultaneously. For this, a mutant with no biosynthesis and no transport is needed and/or completely non-motile mutants would be needed to compare.
+
+We disagree. If there are two pathways of putrescine synthesis and both are needed, then our conclusion follows.
+
+(6) Lines 104-105: '... because
+
+Good points, and this section has been reworded to clarify these issues. Some of the material was moved to the discussion.
+
+(7) Line 109: 'We note that potE and plaP are more highly expressed than potE and puuP...' - first potE should be potF?
+
+This has been corrected.
+
+(8) Figure 8: What is the difference between the TEM images in Figure 1 and here? The WT in Figure 1 does show pili without the supplementation unless I'm missing something here. Please specify.
+
+The reviewer means Figure 2 and not Figure 1. Figure 2 shows a wild-type strain which has both putrescine anabolic pathways while Figure 8 is the ΔspeB strain which lacks one pathway.
+
+(9) Line160-162: Transcripts for the putrescine-responsive puuAP and puuDRCBE operons, which specify genes of the major putrescine catabolic pathway, were reduced from 1.6- to 14- fold (FDR {less than or equal to} 0.02) in the speB mutant (Supplemental Table 1), which implies lower intracellular putrescine. I might not get exactly the point here. If the catabolic pathways are repressed in the speB mutant, then there will be less degradation which means more putrescine!?
+
+Expression of these genes is a function of intracellular putrescine: higher expression means more putrescine. Any discussion of steady putrescine must include the anabolic pathways: the catabolic pathways do not determine the intracellular putrescine, they are a reflection of intracellular putrescine.
+
+(10) Lines 162-163: Deletion of speB reduced transcripts for genes of the fimA operon and fimE, but not of fimB. It seems that the results suggest the opposite a reduction of fimB but not fimE!?
+
+The reviewer is correct, and it is our mistake, and the text now states what is in the figure..

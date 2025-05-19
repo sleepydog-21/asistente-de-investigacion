@@ -1,0 +1,101 @@
+All supporting data and protocols have been provided within the article or through supplementary data files. Twenty supplementary figures and two supplementary tables are available with the online version of this article. Genomics sequence datasets related to this article are available at the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) database (BioProject PRJNA989548) and can be accessed here:
+
+Disrupting cellular metal equilibrium, either by insufficiency or surplus, can be harnessed to restrict bacterial proliferation. Chelating agents that deprive bacteria of essential metal ions present an alternative approach to combat increasingly antibiotic-resistant pathogens. As part of an evaluation of their utility in this regard, we investigated the potential of
+
+Nutritional immunity is an intrinsic component of the vertebrate innate immune system and functions to deprive micro-organisms of essential metal nutrients and thus safeguard against infection [
+
+Synthetic chelating agents bind metals with high affinity, share analogous chemistries with biologically synthesized siderophores and can impose similar restrictive conditions that resemble those dictated by nutritional immunity. Ethylenediaminetetraacetic acid (EDTA) is a well-known metal chelating agent that has a wide range of applications, from use as a preservative in consumer products, such as soaps and shampoos, to commercially available wound dressings to manage infection [
+
+Diethylenetriamine pentamethylene phosphonic acid (DTPMP) is a synthetic nitrogenous polyphosphonate that binds tightly to di- and trivalent metal ions, including iron, copper and zinc [
+
+To examine bacterial adaptation to metal restriction and gain further insight into the cellular targets or subsidiary effects of chelating agents, we attempted to isolate resistant mutants of
+
+
+
+For whole-genome sequencing by MicrobesNG a single colony of each isolate was streaked on an LB agar plate, incubated for 24 h and the colonies harvested using a sterile loop (~5×10
+
+Chelating agents were obtained from commercial sources and are listed in Table S1 (available in the online version of this article). Carvacrol and triclosan were purchased from Merck. Appropriate vehicle controls (water, DMSO or ethanol) were performed in parallel for all growth experiments involving these chelants.
+
+Promoter activity assays were performed with the
+
+Experiments were performed essentially as described previously [
+
+EDTA or DTPMP was added to 50 ml LB broth in 250 ml acid-washed conical flasks prior to inoculation with 1×10
+
+To gain further insight into possible evolvable resistance mechanisms to metal deprivation and the antibacterial action of chelating agents, we attempted to isolate mutants of
+
+Isolation of
+
+The three strains isolated at low levels of EDTA all showed improved growth in the presence of this chelating agent when compared to the parent strain (
+
+The colony morphology of the
+
+The genome sequences of each chelant-selected strain, including the BW25113 parent and JN186 grown in the absence of EDTA and DTPMP, were obtained. Genomic variants between the parent and derivative strains were identified and are summarized in
+
+Mutations identified by whole-genome sequencing of
+
+In the EDTA-selected strains, two distinct mutations were located in the intergenic region upstream of
+
+Elevated expression of the YeiR zinc-dependent GTPase is responsible for improved growth in the presence of EDTA. (
+
+To establish whether increased YeiR is directly responsible for EDTA resistance, we inserted the
+
+The YeiR GTPase is highly selective for zinc and strains lacking
+
+Susceptibility of
+
+A related COG0523 GTPase, YjiA, belongs to a different subset of the family (cluster 3 rather than 7) and is able to bind cobalt, nickel and zinc [
+
+The effect of the
+
+To investigate this further we examined the expression of genes whose transcription is regulated in response to metal starvation. ICP-MS measurements cannot distinguish between metals sequestered by chelators externally, at the cell surface or in the cytosol, whereas monitoring gene expression provides a direct readout of the bacterial response to intracellular metal levels. Attention focused on genes induced in response to iron (
+
+Effect of
+
+Next, the cellular response of the sensor genes to EDTA in WT and mutants was compared (
+
+Of the three DTPMP-selected strains, JN196 and JN198, both isolated at 29 days (
+
+Elevated expression of
+
+To investigate whether increased FepA levels can help combat chelant-mediated iron limitation, the
+
+The cellular metal content of the WT and JN196 was compared (Fig. S13a). Similar quantities of each of the six trace metals were detected in each strain in the absence of DTPMP, and both showed equivalent cellular responses to chelant exposure (Fig. S13a), with reduced iron and elevated manganese, as reported previously [
+
+As with the EDTA strains, qPCR was employed to monitor the expression of
+
+The three unique amino acid substitution mutations found in CadC were the most intriguing of the changes identified in the screen for chelant-resistant mutations (
+
+Mutations in the CadC protein result in constitutive expression of the
+
+The three CadC substitutions (
+
+As in previous work [
+
+To provide a more direct assessment of the impact of
+
+To assess potential links between
+
+Effect of CadC mutations on
+
+The CadC mutant constructs in pET22b were assessed for their capacity to promote resistance to EDTA or DTPMP in a Δ
+
+Given that Δ
+
+Mutations in the C-terminal periplasmic sensing domain of CadC have been isolated previously following the cultivation of
+
+Bacteria regularly encounter challenges in retrieving vital metal ions from their surroundings. Such hindrances can arise simply through competition for resources from other species in the microbial community, each with the capacity to export and import diverse metallophores [
+
+All three mutants isolated in the presence of EDTA carried a mutation upstream of the
+
+The hypersensitivity of
+
+In contrast to the EDTA-resistant strains, the DTPMP isolates showed the same level of chelant susceptibility as the BW25113 parent. However, a mutation found in both strains isolated after 29 days exposure to DTPMP altered one of the promoters of the Fur–Fe
+
+Three unique mutations were isolated in the
+
+Why EDTA should have enhanced toxicity against
+
+Finally, the observed resistance mechanisms fit with the known effect of the two chelants on cellular metal levels [
+
+Click here for additional data file.

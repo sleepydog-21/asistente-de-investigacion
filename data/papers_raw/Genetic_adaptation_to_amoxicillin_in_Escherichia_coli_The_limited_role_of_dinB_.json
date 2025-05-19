@@ -1,0 +1,11 @@
+{
+  "id": "39970152",
+  "title": "Genetic adaptation to amoxicillin in Escherichia coli: The limited role of dinB and katE.",
+  "doi": null,
+  "authors": "Teichmann L, Wenne M, Luitwieler S, Dugar G, Bengtsson-Palme J, Ter Kuile B",
+  "journal": "PloS one",
+  "year": "2025",
+  "abstract": "Bacteria can quickly adapt to sub-lethal concentrations of antibiotics. Several stress and DNA repair genes contribute to this adaptation process. However, the pathways leading to adaptation by acquisition of de novo mutations remain poorly understood. This study explored the roles of DNA polymerase IV (dinB) and catalase HP2 (katE) in E. coli's adaptation to amoxicillin. These genes are thought to play essential roles in beta-lactam resistance-dinB in increasing mutation rates and katE in managing oxidative stress. By comparing the adaptation rates, transcriptomic profiles, and genetic changes of wild-type and knockout strains, we aimed to clarify the contributions of these genes to beta-lactam resistance. While all strains exhibited similar adaptation rates and mutations in the frdD gene and ampC operon, several unique mutations were acquired in the ΔkatE and ΔdinB strains. Overall, this study distinguishes the contributions of general stress-related genes on the one hand, and dinB, and katE on the other hand, in development of beta-lactam resistance.",
+  "source": "PubMed",
+  "pmcid": "PMC11838884"
+}

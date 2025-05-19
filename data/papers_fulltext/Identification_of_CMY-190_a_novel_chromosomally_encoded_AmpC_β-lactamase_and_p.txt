@@ -1,0 +1,39 @@
+Infections caused by carbapenemase-producing
+
+In
+
+According to previous epidemiological studies, OXA-48-like carbapenemases are the most commonly found in
+
+A carbapenem-resistant
+
+Conjugation and transformation experiments were carried out to investigate plasmid transfer. Briefly,
+
+The
+
+Genomic DNA was extracted from overnight cultures of single bacterial colonies using a genome extraction kit according to the manufacturer’s instructions (Vazyme, China). DNA was sequenced using Illumina short-read sequencing (150 bp paired-end reads) (Illumina, San Diego, CA, United States).
+
+Susceptibility of
+
+IPM, imipenem; MEM, meropenem; MEV, meropenem–vaborbactam; CZA, ceftazidime–avibactam; AMK, amikacin; FEP, cefepime; CAZ, ceftazidime; CRO, ceftriaxone; ATM, aztreonam; CIP, ciprofloxacin; SCF, cefoperazone–sulbactam; TZP, piperacillin–tazobactam; TGC, tigecycline; COL, colistin; SXT, trimethoprim–sulfamethoxazole.
+
+The study also identified the presence of the plasmid-encoded
+
+We conducted phenotypic and molecular characterization as well as a functional study of a new CFE subtype designated
+
+IPM, imipenem; MEM, meropenem; MEV, meropenem–vaborbactam; CZA, ceftazidime–avibactam; AMK, amikacin; FEP, cefepime; CAZ, ceftazidime; CRO,
+
+Whole genome sequencing (WGS) has identified several resistance genes, including the β-lactamase genes
+
+Schematic representation of the genetic background of the
+
+Schematic representation of the genetic background of the
+
+Phylogenetic tree of relative
+
+AmpC-type β-lactamases are classified as class C enzymes, with different expression patterns depending on their genetic context. These include the inducible expression of chromosomal AmpC β-lactamase, stable de-expression with inducible expression, and plasmid-mediated AmpC β-lactamase. Among these, the
+
+In this study, we identified a novel AmpC β-lactamase gene,
+
+Based on previous epidemiological studies, KPC-type carbapenemases are more common in CRE, while their identification in
+
+This study reports the first identification of a

@@ -1,0 +1,11 @@
+{
+  "id": "39354164",
+  "title": "Fatty acid synthesis promoted by PA1895-1897 operon delays quorum sensing activation in Pseudomonas aeruginosa.",
+  "doi": null,
+  "authors": "Han L, Ren J, Xue Y, Gao J, Fu Q, Shao P, Zhu H, Zhang M, Ding F",
+  "journal": "AMB Express",
+  "year": "2024",
+  "abstract": "PA1895-1897 is a quorum sensing (QS) operon regulated by the anti-activator LuxR homologue QscR in Pseudomonas aeruginosa. We aimed to investigate its impact on bacterial metabolism, and whether it contributes to the delayed QS activation. We performed liquid chromatograph-mass spectrometer-based metabolomics using wildtype PAO1, PA1895-1897-knockout mutant, and mutant with pJN105.PA1895-1897 overexpression vector. The impact of metabolites on QS signaling molecule (3OC12-HSL and C4-HSL) concentrations, pyocyanin production, and QS gene (lasR, lasI, rhlR, and rhlI) expression was examined. Metabolomics analysis found that fatty acid biosynthesis had the highest fold enrichment among all metabolic pathways in PA1895-1897-overexpressed mutants. Among these enriched fatty acids, palmitoleic acid and acetic acid were the predominantly abundant ones that significantly affected by PA1895-1897 operon. When different doses of exogenous palmitoleic acid or acetic acid were added to the cultures of PA1895-1897 knockout mutants, their levels of 3OC12-HSL, C4-HSL, and pyocyanin were decreased in a dose-dependent manner. High doses of palmitoleic acid and acetic acid suppressed the mRNA expression of lasR, rhlR, and rhlI. Inhibition of fatty acid biosynthesis increased the production of 3OC12-HSL, C4-HSL, and pyocyanin in PA1895-1897-overexpressed cultures. Our data suggest that fatty acid synthesis is promoted by PA1895-1897 operon, and contributes the delayed expression of QS phenotypes, furthering the understanding about the regulation of bacterial QS activation.",
+  "source": "PubMed",
+  "pmcid": "PMC11445212"
+}

@@ -1,0 +1,105 @@
+In prokaryotes, genes are commonly arranged in operons that allow the concerted expression of functionally related genes as polycistronic transcripts, thus enabling the efficient regulation of complex biological process [
+
+Polycistronic transcription units can be transferred from bacteria to eukaryotic recipients via horizontal gene transfer (HGT) [
+
+To gain insight into whether eukaryotes still possess the ability to express polycistrons and how they functionally activate bacterial operons acquired by horizontal DNA transfer, we have inserted a prokaryotic-type polycistron consisting of three yeast selectable marker genes into the genome of
+
+
+
+The
+
+A genetic screen for functional activation of the polycistron was conducted by exposing the original strain in the auxotroph medium. Fifty milliliters of auxotroph medium inoculated with the original strain at OD
+
+The assay was based on 20 successive subcultures of strains at a 1:50 dilution in complete medium. Subculturing was performed every 24 h, and sample from each subculture was collected for fluorescence analysis.
+
+Yeast total RNA was extracted with the Yeast RNA Kit (Omega, GA, USA), and DNA was removed using RNase-free DNase I (Omega, GA, USA). Total DNA was isolated with the Yeast Genomic DNA Extraction Kit (Solarbio, Beijing, China).
+
+For northern blot analysis, samples of 10 μg total RNA were separated in denaturing formaldehyde-containing agarose gels (1.3%) and transferred onto Hybond XL nylon membranes (GE Healthcare, Buckinghamshire, UK) by capillary blotting. For Southern blot analysis, DNA samples (∼5 μg) were digested with two different restriction enzymes, SacI and ApaLI, for 16 h, separated by electrophoresis in 1% agarose gels and transferred onto nylon membranes. Labeling of the gene-specific probes (200 bp) and hybridization were performed with the DIG-High Prime DNA Labeling and Detection Starter Kit II following the manufacturer’s instructions (Roche, Indianapolis, IN, USA). The membrane was exposed to a chemiluminescence reagent and exposed to a luminescence imager (Tanon 5200 Multi, Shanghai, China).
+
+5′ rapid amplification of cDNA ends (5′ RACE) was performed using the 5′ RACE Kit (Tianjingsha, Beijing, China). For quantitative reverse-transcription PCR (qRT-PCR) analysis, first-strand complementary DNA (cDNA) was synthesized from total RNA using M-MLV reverse transcriptase (Promega, Madison, WI, USA) and oligo-dT primer. Subsequent amplification was performed using the LightCycler 96 Real-Time PCR System (Roche) and the ChamQ Universal SYBR qPCR Master Mix (Vazyme Biotech, Nanjing, China) with
+
+Total protein was extracted with the Yeast Total Protein Extraction Mini Kit (Coolaber, Beijing, China) and quantified using the Bradford method. Total protein samples were denatured at 100°C for 5 min in sample buffer (50 mM Tris–HCl, pH 6.8, 2% SDS, 0.1% bromophenol blue, 10% glycerol, and 1% β-mercaptoethanol), separated in denaturing 12% sodium dodecyl sulfate polyacrylamide (SDS–PAA) gels and transferred onto polyvinylidene difluoride membranes (Hybond
+
+The strains carrying the fluorescent protein gene were cultured overnight, then resuspended to an absorbance at 600 nm of 0.1, and grown at 30°C for 18 h. Subsequently, 0.2 ml of yeast cells were harvested by centrifugation at 4000 ×
+
+The β-galactosidase (β-GAL) activity was determined with the β-galactosidase Activity Assay Kit (Solarbio, Beijing, China).
+
+Yeast two-hybrid (Y2H) assays were performed using the Matchmaker Yeast Two-Hybrid System (Clontech Laboratories, Mountain View, CA, USA), according to the manufacturer’s instructions. Briefly, specific combinations of the AD and BD vectors were used to co-transform yeast cells, followed by selection on -Leu/-Trp DO (DDO; double dropout) or -Leu/-Trp/-Ade/-His DO (QDO; quadruple dropout) medium plates at 30°C. Yeast cells co-transformed with pGADT7-T and pGBKT7-53 (pAD-T and pBD-53) were used as a positive control, and yeast cells co-transformed with pGBKT7 (BD) were used as a negative control.
+
+High-quality DNA samples were shipped on dry ice to Genewiz (Suzhou, China) for DNA library construction and next-generation sequencing. For each sample, 0.2 mg of genomic DNA was randomly fragmented (by Covaris) to an average size of 300–350 bp. The fragments were treated with End Prep Enzyme Mix for end repair, 5′ phosphorylated, and 3′ adenylated to add adaptors to both ends. Size selection of adaptor–ligated DNA was then performed by DNA Cleanup beads. Each sample was then amplified by PCR for 8 cycles using P5 and P7 primers, with both primers carrying sequences which can anneal with flowcell to perform bridge PCR and the P7 primer carrying a six-base index allowing for multiplexing. The PCR products were cleaned up and validated using an Agilent 2100 Bioanalyzer. The qualified libraries were paired-end sequenced (PE150) on the Illumina Novaseq System. The fastp (V0.23.0) tool was used to remove the sequcences of adaptors, PCR primers, N base >14, and Q20 <40%. The Sentieon (V202112.02) pipeline was used to map clean data to the reference genome, remove duplications, and call SNVs/InDels.
+
+High-quality RNA samples were shipped on dry ice to Biomarker Biotechnology Corporation (Beijing, China) for cDNA library construction and RNA sequencing. Each strain served as one transcriptomic sample, and each sample was analyzed in three biological replicates. The library was prepared using the VAHTS
+
+Nucleic acid modifications were detected by LC-MS/MS performed by CloudSeq Inc. (Shanghai, China). For DNA methylation modification, samples of 4 μg DNA were digested with restriction enzymes BseR
+
+The transcriptional barrier of HGT can be easily overcome by promoter acquisition [
+
+Rapid functional activation of a prokaryotic-type polycistron in yeast. (
+
+To investigate how the translational barrier caused by the polycistronic structure can be overcome in evolution, selection for functional activation of the polycistron was conducted by growing BY4741-L
+
+In theory,
+
+Because it was not possible to activate cistron 3 in strain BY4741-L
+
+Taken together, we successfully screened for rapid functional activation of a prokaryotic-type polycistron in yeast. We found that the translation of cistron 2 is rapidly induced, whereas the activation of cistron 3 required genomic rearrangements eliminating cistron 1, while preserving translation from cistron 2 (now in the first position).
+
+The functional activation of cistron 2 could be explained by activation of its translation as a separate cistron or, alternatively, as fusion with the upstream protein. To distinguish between these possibilities,
+
+The activated strain stably translates bicistronic transcripts independent of
+
+Notably, this gene replacement experiment also demonstrated that bicistronic expression in the activated strain was independent of the coding region. To test if bicistronic expression was dependent on specific
+
+Notably, the activated strain retained its capacity to translate bicistronic transcripts even after prolonged cultivation without selection pressure. To further confirm this finding, the activated strain was continuously cultivated without selection, and bicistronic expression was maintained even after 20 rounds of subculture (Fig.
+
+Taken together, our data show that a bicistron integrated into the yeast genome can be rapidly translationally activated. Next, we examined whether activation can also occur in plasmid-borne cistrons, and upon selection for other traits than uracil prototrophy. To this end, we constructed a bicistronic plasmid with
+
+To investigate the mechanism underlying cistron 2 translation, we conducted translational correlation analysis between cistron 1 and cistron 2, in order to distinguish between translation reinitiation, internal initiation and leaky ribosome scanning as potential mechanisms underlying translation of cistron 2. Three Kozak sequences with varying translation initiation efficiencies [
+
+Bicistronic expression is based on REI, which is mediated by the 80S ribosome. (
+
+Classical REI in eukaryotes is mediated by the 40S ribosomal subunit, and typically occurs downstream of short uORFs. A prominent example is the regulation of
+
+To further rule out conventional 40S-mediated REI, we integrated expression cassettes for
+
+Post-termination REI can be mediated by either the 40S ribosomal subunit or the complete 80S ribosome. Given the obvious independence of REI in the activated strain of
+
+Previously reported 80S-mediated REIs include three major types: retroreinitiation [
+
+Efficient 80S-mediated REI is caused by mildly defective stop codon recognition. (
+
+Start codon selection is an important feature of efficient translation initiation, but Rli1-mediated REI shows no pronounced preference for the canonical AUG start codon [
+
+If stop codon recognition was indeed inefficient, it would also affect endogenous genes, especially for bicistrons. As no functional bicistrons have been reported in yeast, we inserted a
+
+To further verify that 80S-mediated REI in the activated strain was evoked by reduced efficiency of stop codon recognition, three additional stop codons were added after the original stop codon of cistron 1 in the bicistronic construct (Fig.
+
+To further confirm that efficient 80S-REI was evoked by inefficient stop codon recognition, we overexpressed release factor eRF1 and 80S-recycling factor Rli1 in the activated strain, as these factors will promote the dissociation of 80S ribosomes, thereby reducing REI [
+
+To further explore the molecular mechanisms underlying the activation of bicistronic mRNA expression and its relationship with stop codon recognition, whole-genome re-sequencing was conducted with the activated strain. Remarkably, no mutations were found in the genome of the activated strain, neither single-nucleotide polymorphisms (SNVs) nor insertions or deletions (indels). To further confirm that there is no genomic mutation in the activated strain, we also conducted Sanger sequencing of repetitive genomic regions, given that mutations in these regions can remain undetected by next-generation re-sequencing methods. In the yeast genome, repetitive sequences are mainly present in the ribosomal DNA (rDNA) region [
+
+Since the rapid induction of inherent functions is primarily regulated at the level of transcription and/or epigenetics [
+
+
+
+Our genomic, transcriptomic and proteomic (
+
+Given that the expression of some genes significantly changed even though the activation of bicistronic expression was independent of genomic mutations, and the expression capacity was stably maintained for at least 20 subcultures, we considered the possibility that epigenetic regulation is involved in the induction process. We, therefore, quantitatively analyzed differences in DNA and RNA modifications between the original strain and the activated strains. Regarding DNA modifications, both 5-hydroxymethyl-2′-deoxycytidine and 5-methyl-2′-deoxycytidine exhibited a significant decrease in the activated strain (Fig.
+
+To ultimately confirm that the bicistronic expression discovered in this study is stable and independent of genomic mutations, and, at the same time, construct a new yeast strain with the capacity for bicistronic expression, we attempted to develop a BY4741-based strain for the efficient expression of bicistrons. The obtained strong evidence for an epigenetic nature of the expression phenotype (see above, Fig.
+
+Construction of yeast strain BY4741
+
+Prokaryotes utilize operons to co-express functionally related genes, and, in this way, achieve the concerted regulation of biological processes such as biosynthetic pathways. To demonstrate that our new expression strain BY4741
+
+In the course of this study, we initially confirmed that the bacterial polycistron structure indeed hindered the translation of cistrons 2 and 3 in yeast cells. However, we demonstrated that a polycistron could be rapidly activated in yeast based on the induction of bicistronic expression under selection. The novel bicistronic expression is independent of any
+
+Two major barriers to HGT are (i) the incompatibility of expression elements between donor and recipient such as promoters and translation initiation signals and (ii) fundamental differences in gene structure and transcript processing (e.g. introns impeding eukaryote-to-prokaryote gene transfer and the bacterial operon structure hindering functional prokaryote-to-eukaryote transfer of polycistrons). While the former barrier can be readily overcome by acquisition of regulatory elements from the recipient, the latter is conceivably a much larger obstacle. The activation of polycistrons in eukaryotic recipients seems particularly challenging, given that eukaryotes evolved an mRNA capping-dependent translation initiation mechanism that is generally believed to be causative of eukaryotic organisms having abandoned polycistronic expression. Our study confirmed that yeast does not normally translate the downstream cistrons of a polycistronic mRNA (Fig.
+
+During the normal translation termination and ribosome recycling process in eukaryotes, eRF1 recognizes the stop codon and releases the nascent polypeptide from the ribosome. Subsequently, Rli1 dissociates the 60S ribosomal subunit from the 80S ribosome. Shortage of eRF1 will cause stop codon readthrough [
+
+Schematic model depicting the fate of 80S ribosomes upon inefficient stop codon recognition in the activated strain. Inefficient stop codon recognition leads to a fraction of eRF1 that cannot assembled into termination/pre-recycling complexes to initiate peptide release, Rli1 assembly and ribosome dissociation. Consequently, a small proportion of ribosomes (with unreleased nascent polypeptide chains) will pause at the stop codon. The paused ribosomes can have two fates: (i) a small proportion may be decoded by a near-cognate tRNA, thus resulting in stop codon readthrough, whereas (ii) the majority of the paused ribosomes will be pushed forward due to collision with upstream ribosomes, thus bypassing the stop codon and triggering peptide release. These ribosomes can then reinitiate translation (REI).
+
+In this study, stop codon readthrough (due to inefficient stop-codon recognition) is induced by selection for prototrophy, which involves starvation during the selection period. Stop codon readthrough has been reported to be enhanced by starvation in other eukaryotic cells. For example, serum starvation enhances nonsense mutation readthrough in mammalian cells [
+
+It is conceivable that the biological role of the activation of bicistronic expression is to enhance phenotypic variation and, in this way, increase flexibility in the response to challenging environmental conditions. The capacity to express downstream cistrons cannot only facilitate the rapid activation of horizontally transferred polycistrons of bacterial origin, but can also greatly enhance the diversity of the proteome to improve fitness under stressful conditions. In summary, our data reported here demonstrate that yeast has the cryptic ability to translate bicistronic mRNAs, and this ability is rapidly inducible by selection to improve fitness.

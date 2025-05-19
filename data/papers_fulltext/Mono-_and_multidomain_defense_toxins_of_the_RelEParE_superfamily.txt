@@ -1,0 +1,125 @@
+Toxin–antitoxins (TA) modules are nearly ubiquitous across the prokaryotic world, encoded by plasmids, phages, integrons, defense islands, and elsewhere on chromosomes. Initially identified for their role in plasmid stabilization through post-segregational killing of plasmid-free cells (
+
+Toxin–antitoxin modules typically encode two components: a toxin that inhibits cell growth or induces cell death and an antitoxin that neutralizes the toxin’s activity. TAs are classified into different types based on how the antitoxin neutralizes the toxin. Type I and III modules use antisense RNAs to block toxin mRNA translation or directly bind and neutralize the toxin, respectively. Type II TAs, the most common type, encode protein antitoxins that directly bind and neutralize cognate toxins. These systems are further classified into families based on structural and sequence similarities among toxins. Typically, but not universally, toxins within a family share similar molecular mechanisms. A recurring theme involves growth inhibition through translation interference by mRNA, tRNA, or rRNA cleavage, tRNA modification, or translation factor inactivation (
+
+Among translation-targeting toxins, several families, known as mRNA interferases or mRNases, inhibit translation by cleaving mRNA. For example, the HicA toxin family consists of small ribonucleases with double-stranded RNA-binding domains (
+
+Components and regulatory features of the
+
+The cognate antitoxin RelB prevents RelE activity by binding directly to the toxin and blocking ribosomal A-site interactions. RelB dimerizes via its N-terminal Ribbon-Helix-Helix (RHH) DNA-binding domain, and each C-terminal segment wraps around a RelE monomer (
+
+TA modules encoding BECR-fold toxins belong to the RelE/ParE superfamily (
+
+Extensive research into type II toxin–antitoxin (TA) systems has uncovered a vast array of modules distributed across prokaryotic organisms (
+
+The Pfam database classifies 13 distinct BECR-fold monodomain toxin families within typical type II TA modules (
+
+The RelE/ParE superfamily of BECR-fold toxins encoded by type II toxin–antitoxins
+
+Protein names can be retrieved from InterPro using Pfam IDs.
+
+Pfam holds in total 170K or ca. 170,000 BECR-fold toxins (unfiltered).
+
+The list is not exhaustive.
+
+GO, gene order; T = toxin; A = antitoxin.
+
+Culviner, Laub et al. (
+
+Culviner, Laub et al. (
+
+However, the classification and nomenclature of RelE/ParE superfamily toxins in the literature have often been inconsistent. For instance, toxins belonging to the RelE family (Pfam ID: PF06296) have been variously named HigB-2, RelE, RelE/ParE, or StbE, while the prototypical RelE of
+
+The integration of Pfam into the InterPro Database (
+
+In most cases, Pfam families clustered distinctly, with experimentally characterized toxins aligning to their respective clusters (
+
+Clustering analysis of monodomain toxins from the RelE/ParE superfamily. This 2D representation depicts a 3D clustering analysis of 9,115 toxin sequences from 13 Pfam families, all characterized by the BECR-fold. Each node corresponds to a single sequence, with connections between nodes representing significant pairwise sequence similarities. The number of toxins from each PF is given in parentheses; experimentally confirmed toxins are indicated with red dots. Note that the PF_ParE-like cluster groups together with the subcluster of PF_ParE that contains the two ribosome-dependent RNases RelE of
+
+The PF_ParE family, the largest BECR-fold toxin cluster, was unexpectedly found to split into several subclusters. Among these, one subcluster included ribosome-dependent RNases from
+
+Another unexpected finding was the overlap of the PF_ParE-like cluster with the PF_ParE subcluster containing the ribosome-dependent mRNases (green cluster in
+
+To address the observed incongruities, PF_ParE and PF_ParE-like families were analyzed together through clustering and phylogenetic approaches. PF_ParE was found to consist of at least five subclusters (
+
+Phylogeny of five subclusters of PF_ParE and PF_ParE-like toxins. (
+
+The analysis of DNA gyrase inhibitors (ParEs) across subclusters reveals a striking distribution bias, particularly in archaea. Subcluster #1 (432 toxins) and Subcluster #2 (378 toxins) contain no toxins originating from archaea, while Subcluster #3 (338 toxins) contains only a single archaeal toxin. In sharp contrast, Subcluster #4 includes 138 archaeal toxins out of a total of 734 toxins. The near-absence of DNA gyrase inhibitors in most archaeal subclusters aligns with the well-documented differences in their DNA topology management strategies. Unlike bacteria, which predominantly rely on DNA gyrase for introducing negative supercoils, archaea employ alternative mechanisms. Thermophilic archaea often utilize reverse gyrase, an enzyme unique to thermophiles that introduces positive supercoils to stabilize DNA at high temperatures. Conversely, mesophilic and psychrophilic archaea predominantly depend on topoisomerases. The clustering data reinforce the notion that bacterial-type DNA gyrase and its associated inhibitors, such as ParEs, are largely absent in archaea due to these alternative mechanisms. The presence of ribosome-dependent BECR-fold mRNases in archaea is well documented (
+
+The shared BECR-fold of RelE and ParE toxins (
+
+The Pfam database holds 13 BECR-fold toxin families encoded by operons potentially also encoding an adjacent antitoxin, amounting to approximately 170,000 potential toxins (
+
+The PF_RelE family includes toxins often referred to as HigB in the literature, a naming convention that can lead to confusion. This likely stems from the inverted gene order of
+
+Similar to RelE of
+
+The
+
+The
+
+Three-component Toxin-Antitoxin-Chaperone (TAC) modules encode a SecB-like chaperone (HigC) in addition to toxin and antitoxin. HigC prevents the degradation of their cognate antitoxins (
+
+The
+
+YafQ (Q47149) and YhaV (P64594) inhibit translation by cleaving mRNA at the ribosomal A-site, with YhaV favoring a G downstream of the cleavage site within the A-site codon (
+
+BrnT (Q2YQ91), encoded by the
+
+Toxins in this family, often labeled as RelE or HigB, are ribosome-dependent mRNases (
+
+Little is known about toxins in these families, as they remain undescribed in the literature.
+
+PF_ParE is the largest BECR-fold family and includes both mRNases and DNA gyrase inhibitors. For example, RelE of
+
+To identify BECR-fold toxin domains in multidomain proteins, two complementary approaches were employed: (i) sequence length analysis of the 13 Pfam toxin families includes sequences significantly longer than the average monodomain length (
+
+It should be noted that many multidomain BECR-fold proteins exhibiting sequence similarity to members of the RelE/ParE family were exempted from the analysis presented here, either because an antitoxin gene or domain could not be identified or because there were too few members in a given multidomain protein family to yield a meaningful bioinformatics analysis.
+
+Several examples from the literature show that TA gene fusions can encode functional protein fusions and that some of them function in phage defense (
+
+Antitoxin–toxin and toxin–antitoxin gene fusions discovered
+
+YiaG is a Helix-Turn-Helix (HTH) transcription factor of
+
+Features of mono and bicistronic
+
+Modeling of YiaG from
+
+Monocistronic operons encoding RelE-YiaG fusion proteins were also identified (
+
+A YoeB toxin domain can be fused to an N-terminal YefM domain in a YefM-YoeB configuration (
+
+The two-gene operon
+
+The presence of
+
+The
+
+Schematic of a conserved defense operon encoding a BECR-fold RNase. The figure illustrates 17 homologous operons, here collectively referred to as
+
+The second gene,
+
+Like PtuA, which forms a horseshoe-shaped trimer of dimers (
+
+The third gene,
+
+Structure of PtuZ and comparison with PIN and BECR-fold domain RNases. (
+
+BECR-fold toxins fused to transmembrane (TM) domains represent a unique configuration of type II TA systems. These toxins, here referred to as ToxM (for membrane toxin), exhibit a tripartite structure consisting of (i) an intracellular N-terminal BECR-fold domain; (ii) a central TM domain predicted to span the membrane; and (iii) an extracellular disordered region capped with a well-structured C-terminal domain. This structural organization is exemplified by ToxM from
+
+The
+
+This study provides a comprehensive bioinformatics and structural analysis of BECR-fold toxins within type II toxin–antitoxin (TA) systems, shedding light on their diversity, structural features, and potential functional roles. By systematically analyzing 13 distinct monodomain BECR-fold toxin families and extending the scope to multidomain and transmembrane-associated variants, this work uncovers important evolutionary and functional insights into the RelE/ParE superfamily.
+
+The identification of novel multidomain BECR-fold toxins and the clustering of these proteins into phylogenetically distinct subgroups reinforce the idea that sequence and structural variation are tightly linked to functional specialization. The discovery of
+
+Importantly, the incongruities in the functional annotation of BECR-fold toxins, particularly in the overlapping RelE/ParE classifications, underscore the need for more robust experimental characterization to validate and refine these findings. The phylogenetic and clustering approaches developed in this study offer a practical framework for delineating toxin function and classification, opening the way for the systematic exploration of BECR-fold TA systems in diverse bacterial species. Together, these findings advance the understanding of BECR-fold toxins as critical players in bacterial defense and physiology. Experimental validation of these predictions, combined with exploration of their ecological and physiological roles, will be pivotal in unraveling the broader implications of TA systems in bacterial biology.
+
+To analyze these families, individual Pfam protein families (PFs) were downloaded, and incomplete or multi-domain sequences were excluded. The curated data set was reduced to approximately 9,000 representative sequences (
+
+Sequence alignments were generated by Clustal Omega (
+
+These analyses were accomplished using webFlaGs (
+
+Protein tertiary structures were modeled using AlphaFold2 (

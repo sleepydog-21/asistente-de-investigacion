@@ -1,0 +1,11 @@
+{
+  "id": "36431069",
+  "title": "Analysis of Human Clinical Mutations of Mitochondrial ND1 in a Bacterial Model System for Complex I.",
+  "doi": null,
+  "authors": "Alkhaldi HA, Phan DH, Vik SB",
+  "journal": "Life (Basel, Switzerland)",
+  "year": "2022",
+  "abstract": "The most common causes of mitochondrial dysfunction and disease include mutations in subunits and assembly factors of Complex I. Numerous mutations in the mitochondrial gene ND1 have been identified in humans. Currently, a bacterial model system provides the only method for rapid construction and analysis of mutations in homologs of human ND1. In this report, we have identified nine mutations in human ND1 that are reported to be pathogenic and are located at subunit interfaces. Our hypothesis was that these mutations would disrupt Complex I assembly. Seventeen mutations were constructed in the homologous nuoH gene in an E. coli model system. In addition to the clinical mutations, alanine substitutions were constructed in order to distinguish between a deleterious effect from the introduction of the mutant residue and the loss of the original residue. The mutations were moved to an expression vector containing all thirteen genes of the E. coli nuo operon coding for Complex I. Membrane vesicles were prepared and rates of deamino-NADH oxidase activity and proton translocation were measured. Samples were also tested for assembly by native gel electrophoresis and for expression of NuoH by immunoblotting. A range of outcomes was observed: Mutations at four of the sites allow normal assembly with moderate activity (50−76% of wild type). Mutations at the other sites disrupt assembly and/or activity, and in some cases the outcomes depend upon the amino acid introduced. In general, the outcomes are consistent with the proposed pathogenicity in humans.",
+  "source": "PubMed",
+  "pmcid": "PMC9696053"
+}

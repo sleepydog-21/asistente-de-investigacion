@@ -1,0 +1,59 @@
+Siderophores are low-molecular-weight iron-chelating molecules secreted by microorganisms in response to iron deprivation and responsible for extracellular binding and intracellular uptake of ferric ions [
+
+The need to survive in habitual low iron conditions (lakes, rivers, and oceans present iron in nM concentration [
+
+In virtue of their potential environmental and clinical application, siderophores are recently gaining the interest of the pharmaceutical industry. As environmental tools, siderophores could find immediate application in protecting agricultural and aquaculture from metal pollution [
+
+The different industrial fields interested in siderophores suffer, however, from the low yields of siderophore recovery from in vitro producing microbial cultures. Indeed, most of the times, the yield of siderophore produced in vitro achieves barely analytical quantities. Notwithstanding, yields are greatly improved upon optimization of the microbial growth conditions [
+
+We here propose an alternative experimental pipeline to rapidly identify growth parameters influencing and boosting siderophore production. The rationale of this four-step pipeline relies on the fact that: (i) the enzymes responsible for siderophore biosynthesis are most of the time clustered in a unique operon and are thus under the control of a single promoter, and that (ii) these operons are tightly regulated at the transcriptional levels and controlled in many ways (iron availability, product negative feedback, substrate availability, temperature, pH, media composition, culture crowding). The four-step pipeline includes: (1) identification of the promoter region of the operon of interest in the genome of the microorganism; (2) cloning of the promoter in a recombinant DNA vector, upstream of the cDNA coding for the Green Fluorescent Protein (GFP) followed by its stable transformation in
+
+With the aim to test our platform, we here describe its application in identifying growth parameters and environmental conditions affecting at the transcriptional level the production of siderophores such as schizokinen, synechobactin A by the cyanobacteria
+
+To validate the pipeline, the identified growth parameters are here confirmed in in vitro cultures of
+
+Bactotryptophan (code 91079-40-2); Bacto yeast (code 8013-01-2); Sodium Chloride (code 7647-14-5); Agar (code 9002-18-0); Calcium Chloride (code 10035-04-8); Isopropanol (code 67-63-0); Ethanol (code 64-17-5); SSC Buffer (code 6135-04-3); Hind III (code 81295-22-9); BGL II (code 81295-12-7); Ammonium Citrate Tribasic (code 3458-72-8); Citric Acid (code 77-92-9); Lysine (code 56-87-1); Ferrous Sulphate (code 7720-78-7) were all from Sigma Aldrich. Glycerol (code 56-81-5); Midiprep Kit, (code K0841); Agarose Gel (code 9012-36-6); Propidium Iodide (code 25535-16-4); DNA Digestion Kit (code AM1907); Ligation Buffer (code IVGN2104) were from Thermo Fischer Scientific. Ampicillin (code 69-52-3) and Tris Acetate Buffer (code 135852-26-5) were from Fischer Scientific; Blue-Orange Loading Dye was from Promega; Miniprep Kit was from Euro genomics and Ferric Chloride (code 7705-08-0) was from Merck Millipore.
+
+The genome of
+
+The
+
+Aliquots (50 µL) of
+
+LC-HRMS and molecular networking were performed according to [
+
+Pre-processing of raw files was performed through MZmine 2.53 [
+
+We have previously reported that
+
+While siderophores are usually produced by non-ribosomal peptide synthetase (NRPS), schizokinen, rhizobactin 1021, synechobactin and aerobactin backbones are assembled by a NRPS-independent siderophore synthetase (NIS) [
+
+The first step of our screening pipeline included the identification of NIS operon in the genome of
+
+A DNA fragment corresponding to the 160 bp long operon promoter region (genomic region 3,517,420 to 3,517,580) was synthesized in vitro and ligated into the vector pCDNA3.1(+) E-GFP, between restriction sites for the endonucleases BglII and HindIII, to create an expression vector (from now on, referred to as
+
+The screening of the growth conditions stimulating
+
+In cyanobacteria, the production of siderophore is upregulated under iron limitation. The
+
+Citrate is one of the substrates of
+
+To finally prove the eligibility of our four-step pipeline as a platform to identify the growth condition increasing the yield of siderophores production in
+
+Differently from
+
+Combining this information with those coming from our previous study [
+
+Siderophores, bioactive molecules able to chelate iron, are secreted in the environment by microorganisms for iron intracellular uptake and maintenance of cellular homeostasis. They can be used as a greener and sustainable tool for the bioremediation of contaminated ecosystems, as well as in drug discovery.
+
+Scientific advances in culture media formulation and cultural conditions affecting the production of siderophores have been recently summarized by Soares [
+
+Most of the reports available in the literature describe optimization procedures including indirect identification and quantitation of siderophores either via the Chrome Azurely S (CAS) assay or via growth inhibition of iron-dependent parasites by optimized siderophore conditioned media. Despite the difficulty related to optimization, the increased yield of produced siderophores allows, on the one hand, downstream application of these biomolecules, and also reveals new aspects underpinning microbial control of siderophore intracellular production. Nasr Ghazy and Sahar El-Norway were able to optimize siderophore production in six strains of rhizobacteria, measuring the ability of conditioned media to inhibit the growth of the iron-dependent parasite
+
+While optimization of siderophore production has been achieved in different bacterial strains, scarce information is available on optimization in cyanobacteria. Here, we propose an alternative four-step platform to study and optimize at the transcriptional level growth conditions to increase the production of siderophores in
+
+Our pipeline offers different advantages compared to the traditional OSMAC approach. The first is the time required for identifying factors affecting siderophore production. Considering the growth time (30 days) of the strain and the necessary culture volume required to yield enough biomass of
+
+Furthermore, the use of molecular networking, as a fourth step of the platform, has proved successful in the direct and unambiguous identification of siderophores and their quantification and more rapid than traditional techniques (LC-MS, CAS).
+
+Finally, the pipeline was able to reveal unprecedented aspects of the siderophore transcriptional regulation in

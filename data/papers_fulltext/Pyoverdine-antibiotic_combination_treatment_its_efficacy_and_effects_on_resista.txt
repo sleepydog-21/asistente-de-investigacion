@@ -1,0 +1,93 @@
+Antibiotic-resistant bacteria pose a significant global health problem with estimates predicting 10 million annual deaths attributable to antimicrobial resistance by 2050 (Ventola
+
+Particularly, we found that pyoverdines from environmental
+
+While pyoverdines (or synthesized derivates) could become potential novel antibacterials, one important aspect that needs closer examination is how pyoverdine treatment interacts with antibiotics and how combination treatment affects selection for antibiotic resistance. Combination treatments are well-established in clinical settings and have been proven successful against
+
+Additionally, we asked whether the genetic background of the pathogen influences the selection for resistance. We were particularly interested in whether the carriage of elements conferring resistance to other antibiotics affects resistance evolution against pyoverdine and/or ceftazidime. To address this question, we used three different
+
+We used the
+
+
+
+To determine the inhibitory potential of pyoverdine, ceftazidime, and ampicillin, we subjected the three
+
+To assess the potential cost of carrying antibiotic resistance on plasmids, we evaluated growth of MGp alone or in competition against MG and MGc. Bacteria were cultured overnight in LB and washed as described above. Competitions were initiated with a 1:1 mixture with each competitor at OD
+
+For analysis, we used the software FlowJo (BD Biosciences, Ashland, OR) and followed the same gating strategy for all samples. First, we used forward- and side-scatter height values to separate bacterial cells from background. Within this gate, we excluded any doublings and retained only single cells using the forward- and side-scatter height and area values, respectively. Next, dead cells were excluded based on PI staining. Finally, we distinguished MGp from competitors by dividing cells into GFP-positive and negative populations. The relative fitness of MGp was then calculated using the formula ln(v) = ln{[a
+
+We used the Bliss independence model to calculate the degree of synergy (S) for growth of each
+
+To determine whether pyoverdine–antibiotic combination treatment can reduce selection for resistance, we experimentally evolved the three
+
+We investigated possible resistance evolution after repeated pyoverdine and ceftazidime treatment by comparing the growth of the evolved populations with that of the ancestor. To do so, we prepared overnight cultures of the evolved populations in 96-well plates as described above and then diluted the cultures 1000-fold into fresh treatment. We included six ancestors per strain and treatment, and 18 ancestors in plain medium. Plates were then incubated at 37°C in a plate reader and growth was measured every 15 min for 48 h. For analysis, we first subtracted the blank and background values from the growth data. Next, we calculated the AUC and expressed the values relative to the mean ancestor growth in plain medium. Finally, we calculated the growth difference between the evolved and the ancestors in the same treatment, which allows us to assess the growth gain of the evolved populations compared with the unevolved populations. To determine whether pyoverdine reduced the selection for ceftazidime resistance in the combo treatment, MGp populations that had evolved in the combo treatment were subjected to conditions without pyoverdine, as well as to single treatments of pyoverdine and ceftazidime, and to the combo treatment, following the same procedure described above.
+
+For genomic analyses, we selected the four evolved populations with the highest growth gains observed in our phenotypic screen (Fig.
+
+All statistical analyses were performed in R 4.0.2 (R Core Team
+
+To confirm the efficacy of pyoverdine 3G07 and ceftazidime against
+
+Dose–response curves for
+
+To quantify whether the interaction between pyoverdine 3G07 and ceftazidime is antagonistic, neutral (additive), or synergistic, we used the Bliss model to compare whether the combo treatment is less, equally, or more inhibitory than expected, respectively (Baeder et al.
+
+Interaction (degree of synergy, S) between pyoverdine and ceftazidime treatments based on the Bliss independence model.
+
+S = f(x,0) x f(0, y)—f(x, y); synergistic S > 0, additive (neutral) S = 0 or antagonistic S < 0 interaction.
+
+Next, we investigated whether carrying a plasmid encoding a resistance gene is associated with fitness costs. To this end, we competed the plasmid-carrying strain MGp against the isogenic strain MG and the chromosomally resistant strain MGc both in medium without and with ampicillin, the antibiotic to which
+
+In the absence of ampicillin, the fitness of MGp was significantly reduced compared to MG (one-sample
+
+Relative fitness of plasmid-carrying
+
+We then conducted an experimental evolution to assess whether
+
+We found that evolved MG populations grew significantly better under pyoverdine, ceftazidime, and the combo treatment compared to the control populations that evolved without antibacterials (global analysis: ANOVA, F
+
+Growth gain of evolved
+
+Given the reduced growth gain in evolved
+
+We found that the MGp populations evolved in the combo treatment showed significant differences in growth gain when exposed to single treatments (ANOVA, F
+
+Growth gain of
+
+The above growth screen suggests that
+
+In total, we identified 453 and 1221 mutations across all MG and MGp populations, respectively. Mutation frequencies within populations ranged from 5% (our lower cut-off) to 100%. Across all evolution conditions and strains, mutation frequencies exhibited a bimodal distribution: the majority (1371) of mutations occurred at low frequencies (<30%), while a minority (303) occurred at higher frequencies (>30%; Fig.
+
+Mutational patterns in
+
+Focusing on high-frequency mutations (>30%), we identified single-nucleotide polymorphisms (SNPs) as the most common mutation (135), followed by deletions (97), insertions (50), mobile element insertions (MOB; 20), and amplification (1). Most mutations appeared in intergenic regions (52.5%), followed by coding regions (47.2%) and pseudogenes (0.3%).
+
+Next, we excluded genes with synonymous mutations and genes that mutated in both no-treatment control and antibacterial treatments as they are probably associated with adaptation to the growth medium. After this filtering process, the frequencies of the remaining mutations were similar in the pyoverdine treatment (12 and 15 mutations), the ceftazidime treatment (11 and 12), and the combo treatment (15 and 19 mutations in MG and MGp, respectively), and did not differ between MG and MGp (Fisher’s exact test,
+
+To identify putative key mutations responsible for resistance phenotypes, we compared the number of mutations unique to a particular antibacterial treatment with those shared between treatments. This analysis yielded little overlap in the mutational patterns between treatments (pairwise comparisons) and no mutation occurred in all three treatments (Fig.
+
+For ceftazidime single and combo treatments, mutations in the following genes occurred multiple times at high frequencies (in 17 out of 27 cases the frequency was 100%;
+
+For the pyoverdine 3G07 single treatment, we identified a SNP in the regulatory region between genes encoding the ferric enterobactin outer membrane transporter FepA (Klebba
+
+Additionally, we found that mutations in the genes of the
+
+While our previous work yielded little evidence for resistance evolution against pyoverdine in other pathogens (
+
+To understand whether mutations in the
+
+We first examined whether the lack of a functional Opp-transporter has fitness consequences for
+
+Growth of
+
+Next, we tested whether the lack of specific Opp-proteins alleviates the significant growth reduction that pyoverdine treatment has on the wildtype (
+
+We previously demonstrated the potent inhibitory effects of iron-scavenging pyoverdines from environmental
+
+We found additive (neutral) effects between pyoverdine 3G07 and ceftazidime. Given their independent modes of action—pyoverdine induces iron starvation, while ceftazidime causes cell lysis—neutral interactions between these two classes of antibacterials can be anticipated. Neutral drug interactions are beneficial from a clinical perspective because they reduce the risk that a single mutation can simultaneously confer resistance to both antibacterials (Fischbach
+
+An important question to address is why the phenotypic signature of ceftazidime resistance is lower in the plasmid-carrying
+
+While our previous work yielded little evidence for pyoverdine resistance evolution in several pathogens (
+
+In summary, we show that pyoverdine is a potent antibacterial against

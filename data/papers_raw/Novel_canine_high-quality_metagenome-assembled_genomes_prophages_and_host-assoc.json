@@ -1,0 +1,11 @@
+{
+  "id": "35298370",
+  "title": "Novel canine high-quality metagenome-assembled genomes, prophages and host-associated plasmids provided by long-read metagenomics together with Hi-C proximity ligation.",
+  "doi": null,
+  "authors": "Cuscó A, Pérez D, Viñes J, Fàbregas N, Francino O",
+  "journal": "Microbial genomics",
+  "year": "2022",
+  "abstract": "The human gut microbiome has been extensively studied, yet the canine gut microbiome is still largely unknown. The availability of high-quality genomes is essential in the fields of veterinary medicine and nutrition to unravel the biological role of key microbial members in the canine gut environment. Our aim was to evaluate nanopore long-read metagenomics and Hi-C (high-throughput chromosome conformation capture) proximity ligation to provide high-quality metagenome-assembled genomes (HQ MAGs) of the canine gut environment. By combining nanopore long-read metagenomics and Hi-C proximity ligation, we retrieved 27 HQ MAGs and 7 medium-quality MAGs of a faecal sample of a healthy dog. Canine MAGs (CanMAGs) improved genome contiguity of representatives from the animal and human MAG catalogues - short-read MAGs from public datasets - for the species they represented: they were more contiguous with complete ribosomal operons and at least 18 canonical tRNAs. Both canine-specific bacterial species and gut generalists inhabit the dog's gastrointestinal environment. Most of them belonged to",
+  "source": "PubMed",
+  "pmcid": "PMC9176287"
+}

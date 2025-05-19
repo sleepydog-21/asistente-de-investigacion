@@ -1,0 +1,11 @@
+{
+  "id": "39939291",
+  "title": "Identification and Characterization of a Novel d-Branched-Chain Amino Acids Importer from Lactobacillus fermentum.",
+  "doi": null,
+  "authors": "Aoki K, Mutaguchi Y, Hemmi H, Yoshimura T, Ito T",
+  "journal": "Chembiochem : a European journal of chemical biology",
+  "year": "2025",
+  "abstract": "Various lactic acid bacteria synthesize d-branched-chain amino acids (d-BCAA) during growth, but their physiological function remains largely elusive. The pyridoxal phosphate-dependent enzyme isoleucine 2-epimerase (ILEP) has been identified as the key enzyme responsible for d-BCAA biosynthesis. Comparative genomic analyses revealed that genes encoding ILEP and an uncharacterized amino acid-polyamine-organocation (APC) family transporter are adjacent in several d-BCAA-producing bacteria, suggesting a functional link between these two proteins in d-BCAA metabolism. In this study, we investigated the function of the APC family transporter from Lactobacillus fermentum (LfAAP). Using heterologous expression systems in Escherichia coli and Lactococcus lactis, we demonstrated that LfAAP functions as a non-stereospecific BCAA importer. Mutational analysis revealed that Ala119 and Met331 play critical roles in substrate recognition. Heterologous expression of LfAAP and/or LfILEP in a L. lactis strain, which lacks the ILEP-AAP genes operon, revealed that ILEP functions as both synthetic and catabolic enzyme for d-BCAA. Our findings suggest that the ILEP-AAP system contribute to storage and subsequent utilization of BCAA in a form that is less accessible by other organisms, providing a potential competitive advantage in microbial environments.",
+  "source": "PubMed",
+  "pmcid": "PMC11907396"
+}

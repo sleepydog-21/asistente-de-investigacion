@@ -1,0 +1,11 @@
+{
+  "id": "37192172",
+  "title": "Streptothricin F is a bactericidal antibiotic effective against highly drug-resistant gram-negative bacteria that interacts with the 30S subunit of the 70S ribosome.",
+  "doi": null,
+  "authors": "Morgan CE, Kang YS, Green AB, Smith KP, Dowgiallo MG, Miller BC, Chiaraviglio L, Truelson KA, Zulauf KE, Rodriguez S, Kang AD, Manetsch R, Yu EW, Kirby JE",
+  "journal": "PLoS biology",
+  "year": "2023",
+  "abstract": "The streptothricin natural product mixture (also known as nourseothricin) was discovered in the early 1940s, generating intense initial interest because of excellent gram-negative activity. Here, we establish the activity spectrum of nourseothricin and its main components, streptothricin F (S-F, 1 lysine) and streptothricin D (S-D, 3 lysines), purified to homogeneity, against highly drug-resistant, carbapenem-resistant Enterobacterales (CRE) and Acinetobacter baumannii. For CRE, the MIC50 and MIC90 for S-F and S-D were 2 and 4 μM, and 0.25 and 0.5 μM, respectively. S-F and nourseothricin showed rapid, bactericidal activity. S-F and S-D both showed approximately 40-fold greater selectivity for prokaryotic than eukaryotic ribosomes in in vitro translation assays. In vivo, delayed renal toxicity occurred at >10-fold higher doses of S-F compared with S-D. Substantial treatment effect of S-F in the murine thigh model was observed against the otherwise pandrug-resistant, NDM-1-expressing Klebsiella pneumoniae Nevada strain with minimal or no toxicity. Cryo-EM characterization of S-F bound to the A. baumannii 70S ribosome defines extensive hydrogen bonding of the S-F steptolidine moiety, as a guanine mimetic, to the 16S rRNA C1054 nucleobase (Escherichia coli numbering) in helix 34, and the carbamoylated gulosamine moiety of S-F with A1196, explaining the high-level resistance conferred by corresponding mutations at the residues identified in single rrn operon E. coli. Structural analysis suggests that S-F probes the A-decoding site, which potentially may account for its miscoding activity. Based on unique and promising activity, we suggest that the streptothricin scaffold deserves further preclinical exploration as a potential therapeutic for drug-resistant, gram-negative pathogens.",
+  "source": "PubMed",
+  "pmcid": "PMC10187937"
+}

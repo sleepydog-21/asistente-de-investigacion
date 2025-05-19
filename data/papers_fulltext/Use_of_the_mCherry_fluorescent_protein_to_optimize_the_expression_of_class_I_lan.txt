@@ -1,0 +1,104 @@
+Lanthipeptides are ribosomally synthesized and post-translationally modified to produce lanthionine and methyl lanthionine ring structures. Currently, they are grouped into five classes based on amino acid (AA) sequences of unmodified core peptides and the enzymes involved in modifications [
+
+Nisin is the best-studied and only lantibiotic (lanthipeptide with antimicrobial activity) approved to use as a food preservative [
+
+In this study, we utilized the Duet™ expression vectors to construct an optimized plug-and-play system for the complete biosynthesis and purification of each of the lanthipeptides nisin and clausin, in
+
+Genes encoding precursor lanthipeptides were fused to the gene encoding the red fluorescent protein mCherry. We show that in vivo fluorescence imaging can be successfully used as a tool to estimate the impact of key factors that can affect the production of class I lanthipeptides in
+
+Pre-testing the effect of different promoter arrangements when using the STldh promoter for the expression of mCherry-nisA (MCS1) and NisB (MCS2
+
+Overview of lanthipeptide expression strains constructed in this study.
+
+Overall strategy used to produce, activate and purify class I lanthipeptides in
+
+Based on fluorescence output, decreased levels of expression were detected when the STldh promoter was used to drive expression in both MCS1 and MCS2 (Fig.
+
+Comparison of fluorometric intensity measurements of
+
+mCherry-NisA produced by
+
+Antimicrobial activity of mCherry-NisA at various hNisP cleavage concentrations. Antimicrobial activity of
+
+All antimicrobial activity assays were standardized in terms of fused-peptide and hNisP concentrations and total reaction volumes to account for possible differences in PTM enzyme activities. Cleavage resulted in the liberation of active peptide at all concentrations tested, after 4 or 24 h of cleavage. No antimicrobial activity was detected for uncleaved samples (Fig.
+
+Glucose is easily metabolized by cells and thus an ideal substrate for cell growth in
+
+Fluorometric measurements of strain NisSTldhT7 expressing mCherry-NisA under various culturing and induction conditions. Cultures were grown in terrific broth supplemented without (
+
+Pre-selection of the optimal growth media for NisA expression was accomplished by monitoring fluorescence signals emitted by strain NisSTldhT7 (Fig.
+
+Fluorometric intensity of
+
+Fluorescence output of un-induced (no IPTG or glycerol added)
+
+mCherry-NisA expressed in each of the respective growth mediums (induced and un-induced) were purified by IMAC, desalted, and cleaved with hNisP to determine differences in antimicrobial activity against
+
+Antimicrobial activity and optimization results for mCherry-PreNisA expressed in M9 minimal media, LB, BHI, TBG (TB containing 0.5% glycerol) and TB-G (TB without 0.5% glycerol). Antimicrobial activity of IMAC-purified mCherry-PreNisA produced by cultures that were
+
+A clausin expression system was designed very similar to that of the NisA system described in the preceding sections. The ClausSTldhT7 expression strain (Fig.
+
+Heterologously expressed mCherry-PreClausA and mCherry-PreEpiA were purified and cleaved with hNisP, resulting in the liberation of bioactive core peptides after 20 h of cleavage (Fig.
+
+Antimicrobial activity and cleavage optimization of mCherry-PreLanthipeptides using hNisP.
+
+SDS-PAGE stained gels and mCherry fluorescent images representing cleavage of mCherry-PreClausA and mCherry-PreEpiA at optimal concentrations of hNisP.
+
+ESI–MS results for hNisP cleaved mCherry-PreLanthipeptides produced in this study. Mass spectrum of hNisP cleaved
+
+Predicted massess of epidermin-like lanthipeptides produced in this study, compared to those found in ESI–MS analyses
+
+The charges and the mass error shown as the absolute difference in Daltons are also indicated
+
+Mass (Da) = m/z * 2 − 2 * 1.007276 when carrying 2+ charged ions or Mass (Da) = m/z * 3 − 3 * 1.007276 when carrying 3+ charges
+
+Bacterial lanthipeptides with novel modes of action represent an inexhaustible source of new antibiotics as promising alternatives for existing traditional antimicrobial therapeutics due to their demonstrable high potency and ability to rapidly destroy target cells, including many drug-resistant targets [
+
+The use of mCherry as a fusion partner provides several advantages beneficial for lanthipeptide production and bioprocess engineering [
+
+Promoter selection for dual expression was also crucial for optimized mCherry-NisA production; in this case, the STldh-T7 promoter combination resulted in drastically improved mCherry-NisA fluorescence signals (strain NisSTldhT7) and improved antimicrobial activity of cleaved Pre-NisA in comparison to the ST1dh-STldh promoter combination (strain NisSTldhSTldh). Since both producing strains shared similar growth characteristics, we can only conclude that the STldh (MCS1) and T7 (MCS2) combination favored the expression of functional Pre-NisA. One possible explanation for the observed differences may be due to transcriptional interference (TI) due to the respective promoter arrangements in the mCherry-NisA constructs [
+
+Using the NisSTldhT7 expression system the separate and combined effects of glucose, glycerol and IPTG addition to expression media, or their inclusion in expression media as inducer agents, on the heterologous expression of the mCherry-NisA fusion protein was monitored in vivo and in real-time. Glucose addition to pre-growth media resulted in significantly improved mCherry-NisA expression when cultures are grown to stationary phase. Naturally, the STldh promoter transcriptionally controls the
+
+The effects of growth medium composition at or during the induction phase are critically important when optimizing the heterologous expression of bacteriocins in
+
+Overall, the best-producing conditions for mCherry-NisA using the plasmid system constructed in this study was when cells were cultured in TB-G (TB with glycerol and IPTG as inducers) or TBG (TB supplemented with glycerol, and IPTG as inducer) compared to M9, LB and BHI. In addition to enhancing cell biomass, it has been reported that supplementing growth media with increasing amounts of yeast extract increases un-induced background expression from the T7 lac promoter due the presence of cAMP or other compounds that can enhance transcription [
+
+Having identified and optimized key factors that are important for the stable and efficient expression of NisA in our heterologous expression system, we attempted the expression of two lanthipeptides that belong to a different subclass. The expression system employs a minimal gene cluster by co-expressing four of eleven genes [
+
+This is the first report of clausin heterologous expression using the clausin modification machinery in
+
+We succeeded in developing a plug and play expression system to produce various class 1 lanthipeptides that relies on in vivo fluorescence monitoring of mCherry-fused lanthipeptides to evaluate expression. We developed two novel mCherry-fusion-based heterologous expression systems to produce two different subgroups of class I lanthipeptides. Fully modified Pre-NisA, Pre-ClausA and Pre-EpiA fused to the mCherry fluorescence gene were purified from the Gram-negative host
+
+Bacterial strains and plasmids used in this study are listed in Additional file
+
+Recombinant DNA manipulations and general cloning procedures were performed as described by Sambrook and Russell [
+
+The pRST
+
+The pRSS
+
+To construct the mCherry-NisA fusion vectors, the
+
+To construct the mCherry-NisA lanthipeptide expression strains, the respective pRST
+
+To construct the backbone of the epidermin-like lanthipeptide heterologous expression plasmid, the
+
+Construction of the clausin and epidermin core-peptides fused to the original clausin leader peptide and the ASPR NisP (hNisP) cleavage site was achieved using overlay fusion PCR. The
+
+To construct the epidermin-like lanthipeptide heterologous expression strains, the respective lanthipeptide containing plasmids pRST
+
+In vivo fluorescence of
+
+Culturing and expression media were supplemented with glucose (1.0%, w/v) throughout the experiment. The expression of mCherry-NisA was optimized in LB, BHI, TBG, TB-G and M9 culture media. M9 minimal media was prepared as described by Sambrook and Russel [
+
+Induced cells were harvested (7025×
+
+To remove mCherry from heterologously produced lanthipeptides, samples digested with hNisP (120 ng/µL for 24 h) were subjected to a second His-tag purification step. hNisP digested samples were adjusted to a final imidazole concentration of 10 mM and loaded onto Ni
+
+The antimicrobial activity of nisin, clausin and epidermin was assessed against
+
+mCherry-fused lanthipeptides were cleaved with heterologously produced nisin protease (hNisP) at 37 °C for 4 h and 20 h. hNisP expressed in
+
+For liquid chromatography-electrospray ionization-mass spectrometry (LC–ESI–MS) analysis of cleaved/extracted lanthipeptides, lyophilized extracts were reconstituted in acetonitrile (ACN/H
+

@@ -1,0 +1,11 @@
+{
+  "id": "39667752",
+  "title": "Pavlovian-Type Learning in Environmental Bacteria: Regulation of Herbicide Resistance by Arsenic in Pseudomonas putida.",
+  "doi": null,
+  "authors": "Paez-Espino D, Durante-Rodríguez G, Fernandes EA, Carmona M, de Lorenzo V",
+  "journal": "Environmental microbiology",
+  "year": "2024",
+  "abstract": "The canonical arsRBC genes of the ars1 operon in Pseudomonas putida KT2440, which confer tolerance to arsenate and arsenite, are followed by a series of additional ORFs culminating in phoN1. The phoN1 gene encodes an acetyltransferase that imparts resistance to the glutamine synthetase inhibitor herbicide phosphinothricin (PPT). The co-expression of phoN1 and ars genes in response to environmental arsenic, along with the physiological effects, was analysed through transcriptomics of cells exposed to the oxyanion and phenotypic characterization of P. putida strains deficient in different components of the bifan motif governing arsenic resistance in this bacterium. Genetic separation of arsRBC and phoN1 revealed that their associated phenotypes operate independently, indicating that their natural co-regulation is not functionally required for simultaneous response to the same signal. The data suggest a scenario of associative evolution, akin to Pavlovian conditioning, where two unrelated but frequently co-occurring signals result in one regulating the other's response - even if there is no functional link between the signal and the response. Such surrogate regulatory events may provide an efficient solution to complex regulatory challenges and serve as a genetic patch to address transient gaps in evolving regulatory networks.",
+  "source": "PubMed",
+  "pmcid": "PMC11637737"
+}

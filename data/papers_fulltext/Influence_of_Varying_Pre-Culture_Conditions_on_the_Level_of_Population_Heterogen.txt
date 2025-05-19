@@ -1,0 +1,87 @@
+Industrial bioprocesses should be robust and high-yielding to account as profitable. This implies the application of well-characterised production hosts, because phenomena such as population heterogeneity can lead to a significant alteration of host physiology [
+
+Population heterogeneity in bioprocesses can be studied by applying reporter strains [
+
+To gain a complete picture of population heterogeneity in a bioprocess, the influence of the culture conditions which the cells are exposed to prior to the main culture should also be considered. Earlier studies investigated how the carbon source and the type of medium of the pre-culture, respectively, the size of inoculum, influences cellular growth, morphology and amongst others, the production of antibody fragments or cellulose during subsequent cultivation in shake flasks or bioreactors [
+
+Since this has, to our knowledge, never been evaluated, our goal was to study the influence of pre-culture conditions concerning a medium in the pre-culture, optical density at inoculation of the main culture and harvest time of the pre-culture in exponential growth phase on single-cell physiology and the level of population heterogeneity in batch cultures with an
+
+Lately, chemometric tools are increasingly applied for the classification of bioprocess data and the monitoring of process performance [
+
+A brief overview of the experimental setup used in this study is summarised in
+
+The
+
+Single colonies from minimal medium [
+
+Batch processes were performed in a 1.5 L stirred-tank bioreactor (Labfors 5, Infors AG, Bottmingen, Switzerland) with a working volume of 1.2 L. Cells were cultured in MM [
+
+Biomass determination: For biomass determination, 1 mL cell suspension was centrifuged for 5 min at 16,438×
+
+Flow cytometry analysis: Cell suspension samples were centrifuged for 5 min at 16,438×
+
+HPLC analysis: Concentrations of glucose, succinate, acetate, malate, lactate and formate were quantified by HPLC (Finnigan Surveyor, Thermo Fisher Scientific, Waltham, MA, USA). Detection was performed by refractive index (RID Agilent 1200, Agilent Technologies, CA, USA) with a 300 mm × 7.8 mm Aminex HPX-87H ion exchange column (Bio-Rad, Hercules, Santa Clara, CA, USA). An amount of 20 µL of sample was injected into the mobile phase of 5 mM H
+
+Raw FCS 3.0 files were loaded into MATLAB
+
+For unrevealing the main influence factors of varying pre-culture conditions, principal component analysis was performed with physiology data on population level (concentration of biomass, glucose, acetate and formate as well as offgas data) and single-cell level (mean, CV, width, skew and mode of the fluorescence distributions of the three markers of the reporter strain). First, data were saved in a matrix listing the respective parameters for all process samples. Then, the matrix was pre-processed, averaging and interpolating data. Furthermore, pareto scaling was used with the square root of the standard deviation as scaling factor, to decrease the dominance of large fold changes. Afterwards, single value decomposition was performed using the MATLAB
+
+General trend: The ten performed batch cultivations exhibited typical growth behaviour of
+
+As expected, yield coefficients and carbon balances, which closed between 96 and 106%, showed no significant variations for major metabolites (see
+
+Cluster analysis: The results of the principal component analysis on population-level physiology data are shown as plots of scores and loadings of the first principal component (PC
+
+According to the score plot of the initial lag-phase (
+
+General trend: Generally, mean fluorescence for a growth-dependent expression of
+
+Cluster analysis: Plots of scores and loadings of PC
+
+At the beginning of the process, the measured fluorescence signals at 525/40 nm were rather characterised by a high CV than high mean or mode values. Logically, the growth of the cells did not start at that time so that almost all samples landed on the left side of the score plot (
+
+With the entrance into early exponential growth phase (
+
+In late exponential growth phase, the sample pool continued to move from higher heterogeneity levels (skew and width) towards higher mean and mode values, now with the majority located at the right side of the score plot with positive PC
+
+All the trends described for this phase were applicable for the final stationary phase, likely due to the fact that the cells in all the processes did not further grow at the end (
+
+General trend: Generally, the mean and mode fluorescence of distributions for
+
+Cluster analysis: Plots of scores and loadings of PC
+
+For this marker, a general trend can be anticipated when evaluating the score plot of all samples of the processes. Samples of processes which were inoculated with pre-cultures grown in complex medium were located on the right-hand side (positive PC
+
+When focussing on the single phases of the processes (
+
+In early exponential growth phase, all samples of processes inoculated with pre-cultures grown in complex medium moved to the right side of the plot, thus exhibiting positive PC
+
+Moving forward to the late exponential growth phase, processes inoculated with pre-cultures grown in minimal medium (process 1–2, 5–6 and 9–10) further moved to the right side of the score plot (neutral PC
+
+General trend: Consistent with previous studies, the expression of
+
+Cluster analysis: Plots of scores and loadings of PC
+
+The score plot of all samples showed a few data points scattered on the left side, while a majority of sample points accumulated as a diagonal from neutral PC
+
+The general location of the samples in the score plot only changed marginally in early exponential growth phase. While process 6 (0.005/late/MM) and process 8 (0.005/late/LB) kept their high level of population heterogeneity due to high skew and width, process 1 (0.02/early/MM) began to shift to the left-hand side towards higher mean and mode values (
+
+Upon entering the late exponential growth phase, this left shift applied to samples of other processes as well. While process 1 (0.02/early/MM) and process 6 (0.005/late/MM) showed the highest levels of mean and mode as well as skew and width, process 2 (0.005/earl/MM), process 5 (0.02/late/MM), process 7 (0.02/late/LB) and process 10 (0.0125/mid/MM) had moderate mean and mode values combined with a rather low level of population heterogeneity. Samples of the remaining processes, mainly compromising processes pre-grown in a complex medium, did not change their location in the score plot, indicating only minor oxygen limitation in these processes (
+
+Interestingly, the transition to stationary phase upregulated the expression of the oxygen limitation marker in additional processes. Now, samples of all processes except for process 4 (0.005/early/LB), process 8 (0.005/late/LB) and process 9 (0.0125/mid/LB) were located on the upper-left corner (negative PC
+
+The process design of novel biotechnological production processes strives for providing robust and high-yield bioprocesses to meet the increasing demands of bio-based goods. While high yields are often realised by metabolic engineering and genetic modifications of the production strains [
+
+The evaluation of physiology on population and single-cell level in batch cultures of the
+
+Connecting the pattern found during the analysis of the population level response to the conditions in the pre-culture, as expected, all varied characteristics had an influence. Consequently, when aiming for a high space–time yield of biomass while avoiding by-product formation, the culture should be inoculated with cells from early exponential growth phase and with high optical density using the same medium in pre- and main cultures. These findings are indeed not new, but instead consistent with general practice and validate the reliability of the data analysis framework.
+
+For the growth marker EmGFP expressed, together with the ribosomal promoter
+
+Interestingly, cells derived from minimal medium during pre-cultivation experienced a stronger oxygen limitation and were more sensitive regarding lower dissolved oxygen levels, according to the fluorescence data and the corresponding principal component analysis. This might explain the lower expression of EmGFP. Further correlations between pre-culture conditions and the level of population heterogeneity in stirred-tank bioreactor processes were not found. This might be due to the comparably low expression levels of this marker so that the effects of pre-culture conditions might be dimmed [
+
+Regarding the general stress response of the cells, again, the key factor for differences in population heterogeneity in general stress response levels was the applied pre-culture medium. Therefore, the inoculation of cells derived from a complex medium during the pre-cultivation at a late stage and with high initial optical densities promoted the general stress response in the subsequent batch process the most. In particular, the sudden switch from a nutrient-rich complex medium to the limiting minimal medium could have perturbated the cells directly from the beginning of the batch process, leading to higher expression levels and higher levels of population heterogeneity in comparison to cultures pre-grown in minimal medium. Additionally,
+
+As a summary regarding the ideal process design in terms of tolerance, cells grown in complex medium in pre-cultivation, preferably inoculated with fresh cells at a high optical density, performed slightly better in the subsequent batch process than cells derived from minimal medium, according to the fluorescence data. In terms of reproducibility, lower levels of population heterogeneity are desired [
+
+Generally, the principal component analysis successfully supported a faster comprehension of this larger dataset and revealed trends and correlations, as this tool was also used with great success in other studies [

@@ -1,0 +1,81 @@
+The extensive application of β‐lactam antibiotics has led to substantial bacterial resistance, renewing interest in colistin as a treatment for multidrug‐resistant Gram‐negative infections, particularly those caused by carbapenem‐resistant Enterobacteriaceae (CRE) and Fusobacteriaceae.
+
+Beyond mediating colistin resistance,
+
+Notably, the colistin resistance conferred by
+
+In this study, we constructed a genome‐wide CRISPR interference (CRISPRi) crRNA library to identify genetic regulators of
+
+We engineered a recombinant
+
+Construction of a genome‐wide CRISPRi crRNA library. a) Construction protocol of CRISPRi crRNA library based on CRISPR‐Cas adaptation system. The CRISPR‐Cas adaptation system comprises p15A replicon, four
+
+To elucidate the regulatory mechanisms governing
+
+
+
+To investigate the regulatory influence of
+
+As shown in Figure
+
+
+
+Next, we assessed the impact of
+
+
+
+To better understand the relationship between
+
+Mechanisms of the negative feedback regulation between
+
+Our results show that the production of
+
+Construction of
+
+The emergence of plasmid‐mediated colistin resistance gene
+
+Using this genome‐wide CRISPRi crRNA library approach, we successfully identified a novel regulatory element for
+
+ROS are indeed endogenous agents capable of damaging DNA and inducing the mutagenic SOS response in bacteria.
+
+Importantly, we developed an
+
+In conclusion, we characterize DNA polymerase IV
+
+The bacterial strains and plasmids used or generated in this study are detailed in Tables
+
+The CRISPR‐Cas adaptation‐based CRISPRi library screening method was conducted as previously described.
+
+Due to the low frequency of crRNA adaptation (0.1%), enrichment PCR was performed to increase the density of the adapted crRNA library for Illumina sequencing. A 100 µL reaction mixture was prepared by adding 500 ng of library plasmid as a template, 0.5 µM of forward primer (Lib01), 0.5 µM of reverse primers (an equimolar mixture of Lib02, Lib03, and Lib04), and Rapid Taq Master Mix (Vazyme). The PCR conditions were as follows: 95 °C for 120 s, followed by 30 cycles of 95 °C for 10 s, 53 °C for 10 s, and 72 °C for 20 s, followed by a final extension at 72 °C for 5 min. PCR products were visualized on a 2% agarose gel and purified using the Gel Extraction Kit (OMEGA) according to the manufacturer's instructions. The purified PCR product was sequenced using the Illumina NovaSeq PE150 platform at Suzhou GENEWIZ Inc.
+
+Expression of
+
+Bacteria were cultured in LB broth at 37 °C overnight, then inoculated at a 1:100 dilution in 3 mL of fresh LB medium and incubated with shaking at 200 rpm for ≈4 h at 37 °C until the logarithmic growth phase was reached. Total bacterial RNA was extracted using the Bacterial RNA Extraction Kit (Vazyme) according to the manufacturer's instructions. One microgram of extracted RNA from each sample was used as a template for cDNA synthesis using the HiScript III RT SuperMix (Vazyme). Quantitative real‐time PCR (qRT‐PCR) analysis was performed using 50 ng of cDNA as the template, with 16S rRNA serving as the reference internal control. Targets of ≈150 bp were amplified using the ChamQ SYBR Color qPCR Master Mix Kit (Vazyme) and primers listed in Table
+
+Cultures of MG1655‐pUC19 and MG1655‐
+
+Western blot analysis was performed following established protocols. Briefly, overnight bacterial cultures were diluted 1:100 into 3 mL of fresh LB medium and incubated at 37 °C with shaking at 200 rpm for ≈4 h to reach the logarithmic growth phase. Five hundred microliters of each sample were transferred to a new tube, pelleted by centrifugation at 5000 rpm for 5 min, and resuspended in 20 µL of SDS‐PAGE sample buffer (Thermo Scientific). Samples were lysed by sonication and heated at 95 °C for 5 min, followed by centrifugation at 8000 rpm for 5 min. The supernatant was separated by 10% sodium dodecyl sulfate‐polyacrylamide gel electrophoresis (SDS‐PAGE) for 90 min at 100 V and transferred to a PVDF membrane for 120 min at 200 mV. The membrane was blocked with NcmBlot Blocking Buffer (Ncmbio) for 60 min. Immunoblotting was performed using an anti‐
+
+Overnight bacterial cultures were diluted 1:100 into 3 mL of fresh LB medium and incubated at 37 °C with shaking at 200 rpm for ≈4 h to reach the logarithmic growth phase. The bacteria were then washed twice and diluted 1:5 in saline solution to a final OD
+
+Colistin susceptibility was assessed following the Clinical Laboratory Standards Institute (CLSI) guidelines. Log‐phase cultures of all strains were diluted 1:1000 and plated in colistin with twofold serial dilutions ranging from 0.0078 to 8 mg mL
+
+Overnight cultures were diluted 1:1000 into fresh LB medium and incubated for 4 h at 37 °C with shaking at 200 rpm. The bacteria were then collected and resuspended in MH Broth at 10^7 CFU mL
+
+To explore the fitness impact of
+
+Overnight cultures grown from a single colony were adjusted to an optical density of 0.5 at OD
+
+Macrophage RAW264.7 cells from mice were cultured in DMEM with 10% FBS (Sigma‐Aldrich) in a humidified incubator with 5% CO
+
+This study was performed according to the relevant guidelines of Jiangsu Laboratory Animal Welfare and Ethical of Jiangsu Administrative Committee of Laboratory Animals (SYXK‐2022‐0044). All animal experiments were approved by the Animal Care Committee of Yangzhou University.
+
+Conjugation assays utilized S17‐2 harboring pTK‐
+
+The in vivo
+
+The authors declare no conflict of interest.
+
+H.Z. and X.X. contributed equally to this work as co‐first authors. Y.L. and Z.W. designed and supervised the project; H.Z. performed experiments, analyzed data, and drafted the manuscript; X.X. helped to analyze data; Y.Z., C.W., B.C., X.J., L.G., and J.W. helped to perform experiments; Y.L. and H.Z. wrote and revised the manuscript. All of the authors read and approved the final manuscript.
+
+Supporting Information

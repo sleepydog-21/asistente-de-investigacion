@@ -1,0 +1,99 @@
+Colonization of the gastrointestinal tract is polymicrobial, and
+
+The entire set of genes from all representatives of a bacterial species is known as its pangenome [
+
+ICE
+
+Recently, an isolate of
+
+The whole genome of
+
+Different annotation methods result in distinct annotations, mainly with regards to naming genetic features, but also in identification of the features themselves. To ensure thorough annotation and gene identification, we used pgap [
+
+The Proksee server (
+
+In our comparative genomic analyses, we considered 98 isolates of
+
+The evolutionary tree of
+
+The matrix of genes presence/absence described above was used to identify genes unique to
+
+To better understand the origin of the genomic features of
+
+The closest relative to BL95 is
+
+Due to extensive horizontal gene transfer in bacteria, even the most closely related bacteria may have drastically different phenotypes, if they acquired distinct mobile genetic elements (such as plasmids, ICEs, and transposons). To have a comprehensive view of intraspecies variation, it is thus important to consider the species pangenome, which includes core genome as well as accessory genes.
+
+Genomic rearrangements are another potential source of variation.
+
+The fully assembled genome of BL95 consists of a 4,086,891 bp-long chromosome. No plasmids were found. The chromosome contains 3749 genes, of which 109 are RNA genes and 3640 are coding sequences (CDSs). Among CDSs, 3595 are complete coding genes and 45 are pseudogenes (frameshifted, incomplete, or containing an internal stop). Among RNA genes, 22 are rRNA genes, 83 are tRNAs, and 4 are ncRNAs. The GC content of the complete genome is 39.2%. The GC content of the core genome (2449 protein coding genes for a total length of 2,293,671 bp) is 40.7%. A schematic representation of the
+
+Several genomes of
+
+ICEFinder identified in BL95 an integrative and conjugative element with modules of accessory genes previously unknown in
+
+Over half of the genes unique to BL95 are found within a region identified by ICEFinder as an integrative and conjugative element (nucleotides 3,419,106–3,507,006;
+
+Integration in a tRNA-Phe is a hallmark of ICE
+
+To find out the distribution of ICEs similar to ICE
+
+ICE
+
+Inspection of the distribution of ICE
+
+Identical copies of ICE
+
+Additional evidence that ICE
+
+Embedded in ICE
+
+According to BPROM software [
+
+Even though our results indicate that this operon is found in other bacteria, this is the first report of a phenazine operon in
+
+Phenazines are key contributors to many aspects of the biology of their producers [
+
+Contact-dependent growth inhibition (CDI) system, first described in
+
+Our comparative genomic analysis showed that a cluster of genes that belong to the CDI system is found in the ICE
+
+An alignment between ICE
+
+The genes of the BL95 CDI cluster have numerous correspondences to GenBank sequences, with those most similar ones shown in
+
+Comparison of the BL95 CDI with the
+
+Similarly, the C-terminus of
+
+According to BPROM [
+
+A search of the strain BL95 genome with TXSScan resulted in a list of over 100 genes that belong to secretion systems type I, III, IV, V, and VI (
+
+In addition to the CdiB/CdiA system, the secretion systems of strain BL95 include other two-partner systems (TPS). One TPS of T5bSS in nucleotides position 1,198,117–1,205,409 (loci QCK92_05550–QCK92_05560; ShlB/DUF637, T5bSS) is distantly related to the
+
+An earlier study by one of us [
+
+As a first step in identification of candidate genes encoding this contact-dependent inhibition system with novel functional properties, we sequenced and characterized the genome of strain BL95 and compared it with other
+
+Our phylogeny represents the first attempt to characterize the diversity of
+
+Phenazines exhibit broad antimicrobial properties by generating toxic reactive oxygen species and helping their producers to outcompete other bacteria in their ecological niche [
+
+Our analysis revealed the presence of genes potentially encoding multiple secretion systems. Many of these systems have homologies to the reference strain HI4320 or other
+
+One of the most common ICEs in
+
+Another argument for considering ICE
+
+ICE
+
+One complication for the study of CDI systems is the lack of specialized software or databases for their identification in a genome. Annotating genes encoding contact-dependent inhibition systems is not trivial, because of their similarity to other better-characterized TPS, such as hemolysins and hemagglutinins. As a result,
+
+The
+
+Annotating orphan genes is even more challenging because orphan
+
+Comparison of CDIs in
+
+Previous work established that

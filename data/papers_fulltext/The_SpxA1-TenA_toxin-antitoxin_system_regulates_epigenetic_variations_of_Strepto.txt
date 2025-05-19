@@ -1,0 +1,314 @@
+Pneumococcal phase variation in colony opacity is epigenetically determined by reversible DNA inversions in the three DNA methyltransferase
+
+The toxin-antitoxin (TA) systems consist of stable toxins and labile antitoxins, and widely exist in bacteria [
+
+In this study, we have serendipitously discovered a new type II toxin-antitoxin system in
+
+Our previous study has showed that two-component system TCS06, consisting of the sensing kinase HK06 and response regulator RR06, regulates pneumococcal methylome and the resulting phase switch between opaque (O) and transparent (T) colonies within clonal populations [
+
+Subsequent sequence analysis revealed that the inserted sequence is located in the 209-base pair (bp) intergenic region between two gene clusters
+
+(
+
+To figure out which gene(s) are responsible for the alteration of colony opacity, we
+
+Our previous studies have demonstrated that PsrA-catalyzed inversions of
+
+(
+
+To characterize the impact of TenA on the
+
+To elaborate how TenA modulates the
+
+Because only the
+
+Consistent with the previous findings that three of the six
+
+(
+
+TenA is annotated as a hypothetical protein without any known biological function in the pneumococcal genomes [
+
+(
+
+We further tested the potential toxicity of TenA as a type II TA toxin by inducible ectopic expression of
+
+To figure out the molecular mechanism behind the action of TenA in regulation of pneumococcal epigenetic and colony phases, we performed affinity pull-down assay with His-tagged TenA to identify potential protein(s) that acts as liaison between TenA and the
+
+(
+
+We next focused on ComX because it was the most enriched DNA-associated protein by TenA (
+
+Based on the known function of ComX as a transcriptional regulator, we determined how ComX and TenA are functionally linked to regulate
+
+*Fold change in gene expression as assessed by RNA-seq.
+
+We also verified the functional impact of the riboflavin biosynthesis locus on
+
+The overwhelming enrichment of ribosome-related proteins among the TenA-associated protein hits suggests that TenA physically interacts with the ribosome. We selectively characterized the potential interaction of TenA with RimM, the most enriched ribosomal protein, by bacterial adenylate cyclase-based two-hybrid (BACTH) system. As depicted in
+
+(
+
+To further understand how TenA interacts with RimM, we predicted the structure of the molecular complex using AlphaFold3 [
+
+To understand the biological importance of the 5’-ATAT-3’ insertion that boosts the expression of the type II toxin TenA (
+
+(
+
+We next determined the potential impact of the length of the AT-rich region on the expression of
+
+Taken together, we propose a working model of the SpxA1-TenA toxin-antitoxin system (
+
+Led by a serendipitous observation in our previous work [
+
+A major feature of the type II TA system is its autoregulation at the transcriptional level [
+
+The striking effect of TenA overexpression on pneumococcal colony phase has enabled us to find the functional linkage between TenA and the DNA configurations in the
+
+The TenA-driven epigenomic overhaul dramatically alters various aspects of bacterial biology. This was manifested by overwhelming switch of pneumococcal colony phase from the opaque colony phase in WT strain to the transparent counterpart under multiple genetic settings in which
+
+ComX is known for its essential role in transcriptional activation of the late competence genes for DNA uptake and processing [
+
+The dramatic impact of single
+
+This notion is based on multiple lines of experimental evidence in this work. In particular, the vast majority of the protein hits in the TenA affinity pull-down were associated with protein synthesis. In the context of specific binding between TenA and RimM (see below), this finding suggested that TenA exerts its regulatory role by directly interacting with RimM. Alternatively, TenA may also indirectly interact with other ribosomal proteins via RimM as a molecular bridge. Moreover, our bacterial two-hybrid assay revealed binding interactions between TenA and RimM, which was supported by the highly probable complex of the two proteins predicted by AlphaFold3. Since RimM is crucial for the maturation of the small ribosomal subunit [
+
+The sequence variations in the AT-rich region upstream of the
+
+In the context of the toxin-antitoxin system, intra-population variations in the number of AT repeats define the transcriptional expression level of
+
+All experimental strains used in this study are listed in
+
+Pneumococcal mutagenesis was carried out in streptomycin-resistant strains ST606 (ST556 derivative, serotype 19F), TH6671 (P384 derivative, serotype 6A) and TH6675 (ST877 derivative, serotype 35B) essentially as described [
+
+Observation and quantification of pneumococcal colony opacity were carried out on TSA plates supplemented with catalase as described [
+
+RNA sequencing (RNA-seq) was carried out as described with minor modifications [
+
+Quantitative real-time reverse transcriptase PCR (qRT-PCR) was performed to quantify the relative transcriptional levels of target genes and
+
+For the
+
+The
+
+Pneumococcal methylome analysis was assessed by the single molecule real-time (SMRT) sequencing essentially as described [
+
+To induce the expression of
+
+His-tagged protein affinity pull-down assay was performed using the recombinant TenA with N-terminal 6 × His tag [
+
+Ni-Sepharose resin (GE Healthcare, USA) was used to immobilize the His-tagged TenA to capture the potential proteins (prey) that interact with TenA. Specifically, 300 μg of the recombinant TenA was mixed with 200 μl Ni-Sepharose resin in 400 μl buffer A (20 mM HEPES (PH 8.0), 100 mM NaCl) containing one tablet of EDTA-free protease inhibitor, and incubated at 4°C for 1 hour. For cell lysate preparation, pneumococcal strain ST556 was cultivated in 1 L of THY medium to an OD
+
+Interactions between TenA and its potential interaction targets were determined by bacterial adenylate cyclase-based two-hybrid (BACTH) system as described [
+
+Predicted protein complexes were modeled based on the amino acid sequences using the AlphaFold3 server (
+
+Exact values of significance are indicated in all figures. All analyses were performed by GraphPad Prism 9.0 (CA, USA). All experiments were performed at least twice, except for SMRT sequencing. The colony ratio data were statistically analyzed by two-sided Chi-square test (means); qRT-PCR,
+
+(TIF)
+
+The genes encoding the restriction enzyme (
+
+(TIF)
+
+(TIF)
+
+(TIF)
+
+Each slice lists the numbers of proteins functions based on the assignment to molecular function categories in the Gene Ontology (GO, available at
+
+(TIF)
+
+(TIF)
+
+(TIF)
+
+(DOCX)
+
+(DOCX)
+
+(DOCX)
+
+(XLSX)
+
+(XLSX)
+
+(XLSX)
+
+(DOCX)
+
+(DOCX)
+
+(DOCX)
+
+
+
+PPATHOGENS-D-24-01936The SpxA1-TenA Toxin-Antitoxin System Regulates Epigenetic Variations of Streptococcus pneumoniae by Targeting Protein SynthesisPLOS Pathogens Dear Jing-Ren, Thank you for submitting your manuscript to PLOS Pathogens. After careful consideration, we feel that it has merit but does not fully meet PLOS Pathogens's publication criteria as it currently stands. Therefore, we invite you to submit a revised version of the manuscript that addresses the points raised during the review process. In addition to the comments of reviewers, please consider addressing the following I (JL) noted: In Fig. S4A and B. the ∆spxA2 exhibits increased spxA1 transcription and also a modest but significant decrease in hsdS
+
+Editor-in-Chief
+
+PLOS Pathogens
+
+
+
+Please use this section to discuss strengths/weaknesses of study, novelty/significance, general execution and scholarship.
+
+Reviewer #1: The present study demonstrates that epigenetic traits of the pathogen Streptococcus pnumoniae are controlled by a novel Toxin-Antitoxin system. It is a new and important study in the complex biology of this bacterium, and represents an important step forward to our understanding of bacterial virulence.
+
+Reviewer #2: This a highly significant and novel study with many strengths and only minor grammatical weaknesses. The study is really a tour de force of investigation into how phase variation in pneumococcus is regulated. It could easily have been broken up into two or three smaller papers, but instead, the authors present it as one coherent, rigorous study.
+
+Reviewer #3: Wang and Li et al identified a new T/A system, consisting of SpxAI and TenA, in Streptococcus pneumoniae. Specifically, they found that TenA represses RimM maturation and ComX levels. Additionally, this system controls phases of the epigenome. The findings are rigorous, novel, and explained extremely well which is critical for a journal with a broad audience.
+
+**********
+
+
+
+Please use this section to detail the key new experiments or modifications of existing experiments that should be
+
+Generally, there should be no more than 3 such required experiments or major modifications for a "Major Revision" recommendation. If more than 3 experiments are necessary to validate the study conclusions, then you are encouraged to recommend "Reject".
+
+Reviewer #1: The mansuscript is well presented and, in my opinion, does not need further experiments.
+
+Reviewer #2: None
+
+Reviewer #3: 1. Major comment: In lines 256-258 the authors state their findings confirm that TenA is transcriptionally repressed by SpxA1. How do the authors think this is happening? Is this just because the proteins are on the same transcript? To explore this finding, it would be useful for the authors to show a knock in of spxAI in a neutral locus represses tenA transcription levels (see Fig4B). Regardless of this experiment, Fig4B needs a spXAI complemented control.
+
+**********
+
+
+
+Please use this section for editorial suggestions as well as relatively minor modifications of existing data that would enhance clarity.
+
+Reviewer #1: The paper is very well rittent, the Figures are very clear.
+
+Reviewer #2: 1. Line 469: The journal may not allow “Data not shown”. If you have the data, it should go in supplement. Alternatively, delete this sentence.
+
+2. Line 490: With respect to the sentence “In particular, the vast majority of the protein hits in the TenA affinity pull-down were associated with protein synthesis.”, is it possible that TenA actually only binds RimM, but RimM is bound to these other ribosomal proteins?
+
+3. Table 1. Is a p value of zero a legitimate value to report? I believe it is better to report p < [smallest representable value].
+
+4. Delete “interestingly” here and elsewhere (line 295). That is opinion and is not very scientific.
+
+5. Line 121: Change “insertion sequence” to “inserted sequence”. An insertion sequence is technically a transposable element in bacteria.
+
+6. Line 148: Delete “finally”.
+
+7. Lines 158, 162, 341, 452: Why is “via” italicized? It shouldn’t be.
+
+8. Line 239: I believe you want to delete “as SpxA1” at the end of the sentence. Otherwise, rewrite the sentence to be more precise.
+
+9. Line 256: “have confirmed” is a little too strong. I suggest changing to “suggest” or “indicate”.
+
+10. Line 264: Change “trial” to “experiment”.
+
+11. Line 304: Start sentence with “This”.
+
+12. Line 319: Change “mostly” to “most”.
+
+13. Line 346: Change “persisted robustly” to “abundant”, or something more clear.
+
+14. Line 360: Change “TIRGR4” to “TIGR4”.
+
+15. Line 378: Strain not “stain”.
+
+16. In the RNA isolation and sequencing section in Materials and Methods, we rRNA removed? This wasn’t mentioned. If not, then fine.
+
+17. Line 657: Delete “and vitality”.
+
+Reviewer #3: Minor comments:
+
+a. Fig1A: Is the arrow in the bottom right panel supposed to be blue? The colony looks opaque.
+
+b. What does the red arrow mean in Fig2B.
+
+c. Fig5E lacks a Y axis label
+
+**********
+
+PLOS authors have the option to publish the peer review history of their article (
+
+If you choose “no”, your identity will remain anonymous but your review may still be made public.
+
+Reviewer #1:
+
+Reviewer #2: No
+
+Reviewer #3: No
+
+[NOTE: If reviewer comments were submitted as an attachment file, they will be attached to this email and accessible via the submission site. Please log into your account, locate the manuscript record, and check for the action link "View Attachments". If this link does not appear, there are no attachment files.]
+
+
+
+Submitted filename:
+
+
+
+Dear Jing-Ren,
+
+We are pleased to inform you that your manuscript 'The SpxA1-TenA Toxin-Antitoxin System Regulates Epigenetic Variations of
+
+Before your manuscript can be formally accepted you will need to complete some formatting changes, which you will receive in a follow up email. A member of our team will be in touch with a set of requests.
+
+Please note that your manuscript will not be scheduled for publication until you have made the required changes, so a swift response is appreciated.
+
+IMPORTANT: The editorial review process is now complete. PLOS will only permit corrections to spelling, formatting or significant scientific errors from this point onwards. Requests for major changes, or any which affect the scientific understanding of your work, will cause delays to the publication date of your manuscript.
+
+Should you, your institution's press office or the journal office choose to press release your paper, you will automatically be opted out of early publication. We ask that you notify us now if you or your institution is planning to press release the article. All press must be co-ordinated with PLOS.
+
+Thank you again for supporting Open Access publishing; we are looking forward to publishing your work in PLOS Pathogens.
+
+Best regards,
+
+John M Leong
+
+Academic Editor
+
+PLOS Pathogens
+
+Alice Prince
+
+Section Editor
+
+PLOS Pathogens
+
+Michael Malim
+
+Editor-in-Chief
+
+PLOS Pathogens
+
+
+
+***********************************************************
+
+Reviewer Comments (if any, and for reference):
+
+
+
+Dear Dr. Zhang,
+
+We are delighted to inform you that your manuscript, "The SpxA1-TenA Toxin-Antitoxin System Regulates Epigenetic Variations of
+
+We have now passed your article onto the PLOS Production Department who will complete the rest of the pre-publication process. All authors will receive a confirmation email upon publication.
+
+The corresponding author will soon be receiving a typeset proof for review, to ensure errors have not been introduced during production. Please review the PDF proof of your manuscript carefully, as this is the last chance to correct any scientific or type-setting errors. Please note that major changes, or those which affect the scientific understanding of the work, will likely cause delays to the publication date of your manuscript. Note: Proofs for Front Matter articles (Pearls, Reviews, Opinions, etc...) are generated on a different schedule and may not be made available as quickly.
+
+Soon after your final files are uploaded, the early version of your manuscript, if you opted to have an early version of your article, will be published online. The date of the early version will be your article's publication date. The final article will be published to the same URL, and all versions of the paper will be accessible to readers.
+
+Thank you again for supporting open-access publishing; we are looking forward to publishing your work in PLOS Pathogens.
+
+Best regards,
+
+Sumita Bhaduri-McIntosh
+
+Editor-in-Chief
+
+PLOS Pathogens
+
+
+
+Michael Malim
+
+Editor-in-Chief
+
+PLOS Pathogens
+

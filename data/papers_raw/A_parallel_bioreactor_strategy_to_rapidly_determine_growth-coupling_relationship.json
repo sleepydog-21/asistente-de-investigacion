@@ -1,0 +1,11 @@
+{
+  "id": "39825460",
+  "title": "A parallel bioreactor strategy to rapidly determine growth-coupling relationships for bioproduction: a mevalonate case study.",
+  "doi": null,
+  "authors": "Banner A, Webb J, Scrutton N",
+  "journal": "Biotechnology for biofuels and bioproducts",
+  "year": "2025",
+  "abstract": "The climate crisis and depleting fossil fuel reserves have led to a drive for 'green' alternatives to the way we manufacture chemicals, and the formation of a bioeconomy that reduces our reliance on petrochemical-based feedstocks. Advances in Synthetic biology have provided the opportunity to engineer micro-organisms to produce compounds from renewable feedstocks, which could play a role in replacing traditional, petrochemical based, manufacturing routes. However, there are few examples of bio-manufactured products achieving commercialisation. This may be partially due to a disparity between academic and industrial focus, and a greater emphasis needs to be placed on economic feasibility at an earlier stage. Terpenoids are a class of compounds with diverse use across fuel, materials and pharmaceutical industries and can be manufactured biologically from the key intermediate mevalonate. Here, we report on a method of utilising parallel bioreactors to rapidly map the growth-coupling relationship between the specific product formation rate, specific substrate utilisation rate and specific growth rate. Using mevalonate as an example product, a maximum product yield coefficient of 0.18 g We demonstrated the power of using parallel bioreactors to assess productivity and the growth-coupling relationship between growth rate and product yield coefficient of mevalonate production. Using genetic engineering, our resultant strain demonstrated rapid mevalonate formation without the unwanted byproduct acetate. Mevalonate production is quantified and reported in industrially relevant units, including key parameters like conversion efficiency that are often omitted in early-stage publications reporting only titre in g/L.",
+  "source": "PubMed",
+  "pmcid": "PMC11742524"
+}

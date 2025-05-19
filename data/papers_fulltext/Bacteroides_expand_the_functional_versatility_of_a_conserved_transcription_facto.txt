@@ -1,0 +1,155 @@
+CPS diversity is achieved by regulating both transcription initiation and elongation of CPS biosynthesis operons.
+
+Y
+
+Among the known NusG
+
+The CPS operon leader regions are required for Y-mediated regulation
+
+Specific Y
+
+NET-seq revealed single prominent pause sites in most CPS operon leader regions (Fig.
+
+To test whether the
+
+We next assayed pausing in for six of the eight CPS leader regions (PSA, B, C, E, F, and H). Strikingly, the PSA, B, E, F, and H leader segments encoded prominent pause sites that corresponded exactly to the sites found by NET-seq (Supplementary Figs.
+
+To ask if the CPS leader pauses function as targets for Y
+
+Importantly, the effects of Y
+
+RNAP capture by Y
+
+Importantly, even in the presence of globally acting
+
+We next sought to test whether Y
+
+To understand how Z
+
+We next used PIVoT to test whether Z
+
+Using these insights into Z
+
+To confirm that the upstream PH-encoding region is required for Y
+
+We conclude that
+
+To ask if the variability in
+
+The Class-1 PSA,B PHs have greater potential to extend towards the pause RNA 3′ end (teal highlight) relative to the PSE PH. Extension of PHs past −10 is thought to destabilize PECs at intrinsic terminators
+
+Pro-pausing Class-2 (PSD,F,H) sequences exhibited features that differed from Class-1 (Fig.
+
+PSC,G were outliers whose Y
+
+We conclude that Y
+
+We next sought to assess the function of the putative
+
+asDNAs that disrupt the PSE PH by pairing with the 5′ arm, but not those that pair just upstream, reduced pausing (Fig.
+
+To test the idea that the apparent ED could aid escape of PECs, we measured the effect on capture of antisense RNAs (asRNAs) that disrupt the ED by pairing to the distal bases of 5′ arm of the ops
+
+We next sought to determine how Class-1 Y
+
+To ask if Y
+
+We next investigated the contributions of the upstream sequences in progressively interconverted
+
+We next asked if the NGN alone recognizes
+
+For the Y
+
+Over the full time course, Y
+
+As an additional test of the upstream Y
+
+To understand these contacts in a structural context, we modeled Y
+
+Human gut
+
+We have elucidated the biochemical mechanisms of
+
+We found that
+
+We found that Z
+
+The closer Class-2 start-codon proximity to
+
+We also discovered a regulatory RNA element—the
+
+Our results provide new mechanistic insights into transcriptional regulation by a large class of NusG
+
+Plasmids, oligonucleotides, and strains used in this study are listed in Supplementary Tables
+
+Two different alterations to the PSE 5′ UTR were made in the Δ
+
+Bacterial strains were grown overnight to an apparent OD
+
+To harvest nascent transcripts for the NET-seq workflow, cultures were filtered between two vacuum filtration systems using a 0.45 µm pore nitrocellulose filter (GVS Micron Sep, 1215305). Cells were scraped off each filter using a spatula and plunged immediately into liquid nitrogen (i.e., cells from the same culture were combined into the same 50 mL conical tube containing ~25 mL liquid nitrogen). Collected cells were cryo-lysed using a RETSCH mixer mill (MM 400) as previously described
+
+To isolate nascent transcripts, we performed a modified 3xFLAG-IP protocol with previously described buffers
+
+For nascent transcript library generation, we followed a modification of a previous NET-seq workflow
+
+r
+
+Moving forward, all steps were performed at 4 °C or on ice, and all buffers were filtered through 0.2 µm filters. Pellets were resuspended in 30 mL lysis buffer (50 mM Tris-HCl pH 8.0, 5% glycerol, 100 mM NaCl, 2 mM EDTA, 10 mM BME, 10 mM DTT, 0.1 mg/mL phenylmethylsulfonyl fluoride, with one dissolved tablet of Roche cOmplete
+
+The pellet was dissolved in 35 mL of HisTrap Binding Buffer (20 mM Tris-HCl pH 8.0, 500 mM NaCl, 5 mM imidazole, 5 mM beta-mercaptoethanol (BME), then spun at 27,000 ×
+
+HisTrap elution fractions were pooled then diluted with 100 mM Tris-HCl, pH 8.0, 1 mM EDTA, 10 mM DTT to adjust the salt concentration to 150 mM NaCl. The sample was then applied to a 5 mL Strep-Tactin® XT High Capacity column pre-equilibrated with 2 CV Buffer W (100 mM Tris-HCl, pH 8.0, 150 mM NaCl, 1 mM EDTA, 10 mM DTT) at 2 mL/min. The flow-through was reapplied to the column at 0.037 mL/min. The column was then washed with 5 CV of Buffer W. rBfRNAP was eluted with Buffer BXT (100 mM Tris-HCl, pH 8.0, 150 mM NaCl, 1 mM EDTA, 10 mM DTT, 50 mM D+Biotin (Acros Organics)).
+
+Pooled fractions from the previous step were applied at 1.5 mL/min to a HiTrap HP column pre-equilibrated with TGEDZ + 200 mM NaCl. The column was then washed with TGEDZ + 200 mM NaCl until A280 reached baseline, then r
+
+Pooled fractions from the previous step were dialyzed overnight in RNAP storage buffer (10 mM Tris-HCl, pH 8.0, 25% glycerol, 100 mM NaCl, 100 µM EDTA, 1 mM MgCl
+
+All TFs (NusG, NusA, Y
+
+After plasmid sequence verification, RL1674 (
+
+Pellets were resuspended in 40 mL of Chitin Wash Buffer (CWB; 30 mM Tris-HCl, pH 7.5–8.0 depending on protein pI, 0.5 M NaCl, 1 mM EDTA, 0.05% Tween® 20) plus one dissolved tablet of Roche cOmplete
+
+The subsequent steps were performed at room temperature closely following manufacturer’s instructions. Briefly, 3 mL of a homogenous suspension of NEB Chitin Resin (Catalog S6651L) were loaded into a 25 mL Poly-Prep Gravity Chromatography Column (Biorad), washed with 5 mL of mQH
+
+A direct reconstitution approach was used to assemble elongation complexes (ECs). Briefly, RNA and template DNA oligonucleotides were mixed at a ratio of 1:1.2 (5 µM: 6 µM) in transcription buffer (TB; 20 mM Tris-OAc, pH 7.7, 40 mM KOAc, 5 mM Mg(OAc)
+
+2× ECs were aliquoted and all comparisons made were therefore performed with identically formed ECs. The assay was performed at 37 °C: transcription was restarted by addition of 2× NTPs minus/plus TFs or storage buffer. For Fig.
+
+For the Z-titration assay in Fig.
+
+Preparation of biotinylated-Y
+
+The subsequent steps were performed at room temperature closely following NEB instructions. Briefly, 3 mL of a homogenous suspension of NEB Chitin Resin (Catalog S6651L) were loaded into a 25 mL Poly-Prep Gravity Chromatography Column (Biorad), washed with 5 mL of mQH
+
+For each titration, 1 mL of 0.3 µM biotinylated-Y
+
+A basic kinetics assay was performed using standard acquisition rates at 30 °C on a ForteBio Octet RED96 system. Octet® Streptavidin (SA) Biosensors were pre-equilibrated for 10 min at 30c. Step times: Baseline (Plate 2 Column 1 (P2C1)) = 60 sec; Loading (P2C2 = 320 sec (or until 2 nm loading density reached); Baseline (P2C1) = 60 sec; Association (P2C3) = ≥ 300 sec; Dissociation (P2C1) = ≥ 300 sec.
+
+Data were processed using Octet Data Analysis Software. The reference biosensor curve (bio-Y
+
+Nucleic acid scaffolds used in exonuclease footprinting assays were each comprised of: (i) a
+
+Template DNA oligo (20 μM) was labeled in a T4 PNK reaction with 1 μCi of [γ-
+
+TECs were reconstituted essentially as described in in vitro transcription assays, except that the molar ratio of T:R:Pol:NT was 1:2:3:5 (50 nM
+
+To quantify both transient and stable protection from exonucleolytic cleavage, pseudodensitometry traces were generated for the first timepoint lane. Regions of interest were identified by comparison to a sequencing ladder. Areas under the peaks of these regions were determined by manual integration in Microsoft Excel, then divided by the sum of the areas under all peaks to the right of it. These values were determined in the absence or presence of Y
+
+A model of Y
+
+The
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Reporting Summary
+
+Transparent Peer Review file
+
+
+
+Source Data

@@ -1,0 +1,95 @@
+The search for nutrients is a challenge for pathogens when they try to colonize, proliferate, or just survive within their host. Numerous studies have underlined the link between virulence and metabolite acquisition by pathogens, including for enterococci (Ruiz‐Cruz et al.
+
+Cellobiose and cellodextrins are composed of β‐1,4‐linked glycosyl residues and are produced during degradation of cellulose, a linear form of β‐glucoside polysaccharides present in plants but not found in mammalian tissues. Cellodextrins are composed of a mixture of cellooligosaccharides ranging from 3 to about a dozen of glucose residues, whereas cellobiose is a diholoside. In Streptococci and
+
+Bacteria generally have several PTSs belonging to the same family or being capable of transporting similar sugars. In
+
+In this article, we present results that allowed the identification of this EIIA‐containing PTS as the main transporter of cellobiose in
+
+Originally thought to be the operon involved in the utilization of cellobiose in
+
+Most strongly induced
+
+Growth studies with the
+
+The
+
+Genetic organization of the
+
+The genes from
+
+Finally, the last operonic structure includes 5 genes encoding an entire PTS (i.e., with EIIA, B, and C) a glycosyl hydrolase (CelD) and an acetyltransferase (CelE). The two genes
+
+
+
+CelR has already been characterized as the regulator of cellobiose degradation in
+
+Growth studies with the
+
+To identify sugars transported by these PTSs, in‐frame deletion mutants were constructed to avoid polar effects on other genes. Single and double
+
+Growth studies with the
+
+On cellotriose, single and double mutants showed nearly the same impaired growth, indicating that CelC1 and CelC2 similarly contribute to its uptake, but that at least a third transporter exists (Figure
+
+Similar results were obtained with the Δ
+
+Growth studies with the
+
+Although they both transport β‐glucosides, CelC1 and CelC2 are barely homologous (34% identity and 54% similarities). Sequence alignments revealed the existence of three additional regions for CelC2 compared with CelC1 (Figure
+
+The EIIA CelA1 is required for the uptake of all cellodextrins tested as no growth of the
+
+Growth studies with the
+
+In addition to cellobiose, cellotriose, and cellotetraose,
+
+Downstream from
+
+Growth studies with (A) the
+
+As the EIIC proteins CelC1 and CelC2 have partly different specificities, we wondered whether these two transcriptional units were differently regulated. RT‐qPCR experiments were therefore carried out with RNA extracts prepared from cells grown on cellobiose, cellotriose, or cellotetraose, and expression levels were compared to those obtained with glucose‐grown cells. Genes targeted were
+
+Relative expression of the
+
+Overall scheme of cellodextrin transport in
+
+Our work demonstrates that the metabolism of β‐glucosides in
+
+The transport of cellotetraose and possibly slightly longer cellodextrins by CelC2 requires the presence of CelGHI, three small proteins of hitherto unknown function. Two of them correspond to DUF domain proteins frequently found in
+
+Functionally linked genes are generally grouped within the same transcriptomic structure. In
+
+
+
+
+
+Restriction endonucleases and T4 DNA ligase were obtained from Promega and used according to the manufacturer's instructions. PCR experiments were performed with the thermocycler “Master Cycler Gradient” (Eppendorf) using GoTaq (Promega) or Q5 High‐Fidelity DNA Polymerase (NEB). The primers used for PCR experiments are listed in Table
+
+Total RNA was extracted by using the Direct‐zol RNA MiniPrep Kit (Zymo Research) as previously described (Sauvageot et al.
+
+The insertional mutants were constructed as follows. An internal fragment of genes was amplified by PCR with specific primers (Table
+
+
+
+The Δ
+
+For the Δ
+
+BLAST‐P analysis was carried out with each protein encoded in the
+
+PDB files of the three‐dimensional structure were obtained from the AlphaFold protein database. Structural analyses and alignment of these structures were performed on the DALI server (
+
+For each growth curve, the parameters were calculated during the exponential phase with the following formulas: the growth rate ((Log
+
+Statistical analyses of growth curves were performed on at least triplicates as follows: for conditions where bacteria have grown, OD values from exponential phase were used for the calculations. The growth curves were compared among themselves at the same time points using an ANOVA (if normality and homoscedasticity of the data) or the Kruskal‐Wallis test. For strains exhibiting no significant growth, the endpoint OD was used for the statistical analyses.
+
+
+
+This is not a clinical study, no patients or animals were used in this study.
+
+The authors declare no conflicts of interest.
+
+Figure S1.
+
+Table S1.

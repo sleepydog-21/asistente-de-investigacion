@@ -1,0 +1,11 @@
+{
+  "id": "40258937",
+  "title": "The carRS-ompV-virK operon of Vibrio cholerae senses antimicrobial peptides and activates the expression of multiple resistance systems.",
+  "doi": null,
+  "authors": "Mathieu-Denoncourt A, Whitfield GB, Vincent AT, Berne C, Pauzé-Foixet J, Mahieddine FC, Brun YV, Duperthuy M",
+  "journal": "Scientific reports",
+  "year": "2025",
+  "abstract": "Antimicrobial peptides are small cationic molecules produced by eukaryotic cells to combat infection, as well as by bacteria for niche competition. Polymyxin B (PmB), a cyclic antimicrobial peptide, is used prophylactically in livestock and as a last-resort treatment for multidrug-resistant bacterial infections in humans. In this study, a transcriptomic analysis in Vibrio cholerae showed that expression of the uncharacterized gene ompV is stimulated in response to PmB. We found that ompV is organized in a conserved four-gene operon with the two-component system carRS and virK in V. cholerae. A virK deletion mutant and an ompV deletion mutant were more sensitive to antimicrobials, suggesting that both OmpV and VirK contribute to antimicrobial resistance. Our transcriptomic analysis showed that the efflux pump vexAB, a known effector of PmB resistance, was upregulated in an ompV-dependent manner in the presence of PmB. The predicted structure of OmpV revealed a lateral opening in the β-barrel wall with access to an electronegative pocket in the barrel lumen that can accommodate PmB. Such an interaction could facilitate intracellular signaling through a conformational change in OmpV. This provides the first evidence of a specialized operon governing multiple systems for antimicrobial resistance in V. cholerae.",
+  "source": "PubMed",
+  "pmcid": "PMC12012098"
+}

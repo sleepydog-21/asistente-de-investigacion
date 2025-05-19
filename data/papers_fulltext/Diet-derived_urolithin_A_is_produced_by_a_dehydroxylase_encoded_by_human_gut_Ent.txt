@@ -1,0 +1,199 @@
+The human gut microbiota is a collection of trillions of microorganisms that colonize the gastrointestinal tract and play pivotal roles in host health and disease
+
+Diet is a strong modulator of the composition and function of the gut microbiota
+
+Urolithin A (uroA) is the most common terminal metabolite of ellagitannin metabolism and exerts pharmacological activities both locally (within the gut environment) and systemically following absorption
+
+While urolithin metabolites are prevalent in human populations, few gut bacteria have been reported to metabolize urolithins
+
+Here, we use a multi-omics enzyme identification framework to uncover uroC dehydroxylase (
+
+Members of the
+
+To understand when uroC-metabolizing enzymes were being expressed, we first sought to characterize the kinetics of uroC dehydroxylation in rich media (mABB + H). Therefore, a simultaneous growth and metabolism experiment was designed, whereby uroC (or its vehicle, dimethyl sulfoxide (DMSO)) was spiked into
+
+We next sought to determine whether uroC metabolism is inducible or constitutive. To test for inducibility, both bacteria were treated with DMSO or uroC during exponential growth, then washed and resuspended in PBS, yielding cell suspensions unable to synthesize new proteins. Although minor uroA production (3.0 ± 0.4 μM) was observed in DMSO-induced
+
+RNA sequencing of uroC-induced cultures revealed a distinct gene cluster, which we term uroC dehydroxylase (
+
+We next sought to characterize the
+
+Next, we aimed to determine the substrate scope of the
+
+We wondered whether novel metabolizers of uroC could be discovered based on
+
+We next investigated the genomic context surrounding the
+
+In addition to the three genes in the
+
+Since oxidoreductases utilize a variety of cofactors and coenzymes for catalytic activity, we sought to determine the redox coenzymes and conditions necessary for uroC dehydroxylation. Therefore, we performed metabolism assays using crude lysates from uroC-induced
+
+To confirm that
+
+To validate the function of the
+
+Contrary to what was observed in
+
+To gain an understanding of the structural organization of proteins encoded by the
+
+To further investigate the physiological role of urolithin dehydroxylation in
+
+Dehydroxylation of catechols by gut bacteria has been observed for diverse classes of compounds like neurotransmitters, therapeutic drugs, and diet-derived polyphenols
+
+We next wondered whether uroC-metabolizing
+
+Next, we performed ex vivo metabolism assays to determine whether
+
+We then surmised that the
+
+We identified genes and proteins that are sufficient for the metabolism of urolithins by gut resident
+
+Catechol dehydroxylases are widespread in gut resident
+
+By identifying the genetic basis for uroC metabolism by
+
+Although multiple urolithin-metabolizing gut bacteria have been identified, the physiological role of urolithin dehydroxylation has remained elusive. In this study, uroC, and related catechol and pyrogallol-containing urolithins, delayed the growth of
+
+While uroA is the most common terminal metabolite following ellagitannin consumption in humans, its production varies widely
+
+In conclusion, our studies reveal the genetic and chemical basis for urolithin A production by gut bacteria and broaden our understanding of the molecular mechanisms underlying urolithin metabotypes in human populations. Since diet can modulate gut microbiota function and host health, elucidating the xenobiotic metabolism genes encoded by gut bacteria will be key to developing dietary interventions targeting the gut microbiota.
+
+Bacterial strains and other materials used in this study are listed in Supplementary Table
+
+Human fecal samples were collected under the approval of protocol A04-M27-15B by the McGill Faculty of Medicine Institutional Review Board. Informed written consent was received from the participants for the use of human samples. Participants were compensated with 10 CAD. Eligibility criteria for the healthy participants were as follows: no diagnosed gastrointestinal disease, no ongoing therapeutic treatment, and no antibiotic usage 3 months prior to the start of the study. Subject information was recorded at the time of sampling and is provided in Supplementary Table
+
+For 1 L of modified anaerobe basal broth (mABB), the following components were dissolved in MilliQ water, then autoclaved: 16 g peptone, 7 g yeast extract, 5 g sodium chloride, 1 g starch, 1 g D-glucose monohydrate, 1 g sodium pyruvate, 0.5 g sodium succinate, 1 g sodium thioglycolate, 15 g agar (for plates). The autoclaved solution was allowed to cool, then the following filter-sterilized solutions were added aseptically: 10 mL of 100 mg/mL L-arginine-HCl, 10 mL of 50 mg/mL L-cysteine, 8 mL of 50 mg/mL sodium bicarbonate, 50 μL of 10 mg/mL vitamin K1, 20 mL of 50 mg/mL dithiothreitol, and, for mABB + H, 10 mL of 0.5 mg/mL haemin. The media was then placed in the anaerobic chamber and allowed to reduce for at least 24 h prior to its use in experiments.
+
+The identities of all bacteria in this study were validated by full-length (V1-V9) 16S rRNA sequencing. DNA was first extracted from 0.5–1 mL of overnight culture using the One-4-All Genomic DNA Miniprep Kit (BioBasic) according to the manufacturer’s instructions. The purified genomic DNA (2 μL, ~ 20 ng) was used as a template for PCR reactions (25 μL reaction volume) using the Q5 High-Fidelity polymerase (NEB). PCR tubes were placed in a thermal cycler and targets (~ 1.5 kb) were amplified according to the following cycling conditions: 30 s at 98 °C, 30 cycles (10 s at 98 °C, 20 s at 60 °C, 45 s at 72 °C), 2 min at 72 °C, and hold at 10 °C. 5 μL of the reaction was mixed with 6X loading buffer and loaded onto a 1% agarose gel (made with 1X TAE buffer) containing SafeView Classic (Abm). PCR product sizes were compared to the ExcelBand 100 bp + 3 K DNA Ladder (SMOBIO).
+
+PCR products (~ 1.5 kb) were purified using the Monarch PCR & DNA Cleanup Kit (NEB) according to the manufacturer’s instructions for products < 2 kb. Purified 16S PCR products were eluted in nuclease-free water, quantified using the Qubit dsDNA HS assay kit (Invitrogen), and adjusted to 30 ng/μL. Samples were submitted to Plasmidsaurus for long-read sequencing using Oxford Nanopore Technologies (v14 library preparation chemistry, R10.4.1 flow cells).
+
+Treatments used in this study (urolithin M5, urolithin M6, urolithin M7, urolithin D, urolithin C, urolithin A, isourolithin A, urolithin B, 8,9-di-O-methyl-urolithin C, dopamine, m-tyramine, caffeic acid, m-coumaric acid, entacapone, and 2,2’-bipyridyl) were dissolved in DMSO to a concentration of 10 mM.
+
+Overnight cultures of bacteria were diluted 1/50 into fresh media. Treatments (10 mM stocks solutions, dissolved in DMSO) were added to the diluted bacterial suspension to a final concentration of 100 μM, and samples were incubated for 24 h at 37 °C in an anaerobic chamber.
+
+Overnight cultures of
+
+Overnight cultures of
+
+Frozen (− 70 °C) fecal slurries or bacterial cultures were thawed at room temperature. For quantification of urolithin concentrations, urolithin standards (stock 10 mM in DMSO) were spiked into separate media aliquots immediately before extraction.
+
+This method was used for cultures. Salicylic acid (3 mg/mL in DMSO) was spiked-in as an internal standard at a final concentration of 50 μg/mL. The cultures and standards were then extracted with 3 volumes of ethyl acetate + 1% formic acid (e.g., 600 μL solvent to 200 μL thawed culture). The organic phase (top) was transferred to a new tube and dried in a vacuum concentrator (Heto Lab) connected to a rotary evaporator (Buchi). After solvent removal, samples were redissolved in 0.5 volumes (relative to the starting culture) of 50% MeOH:H
+
+This method was used for cultures and pre-induced cell suspensions. Samples were diluted with an equal volume of MeOH, vortexed briefly, and incubated at room temperature for 10 min. Samples were centrifuged at 20,000 ×
+
+This method was used to extract urolithins from crude bacterial lysates. Lysates were diluted with 3 volumes of MeOH, vortexed briefly, and incubated at room temperature for 10 min. Samples were centrifuged at 20,000 ×
+
+Samples (10 μL) were injected into a 1260 Infinity II Single Quadrupole LC/MS system (Agilent) fitted with a Poroshell 120 EC-C18 4.6 × 50 mm, 2.7 μm column (Agilent) incubated at 30 °C. The mobile phase was composed of MilliQ water + 0.1% formic acid (solvent A) and acetonitrile + 0.1% formic acid (solvent B). The flow rate was set to 0.7 mL/min. The gradient was as follows: 0–8 min: 10-30 %B, 8–10 min: 30-100 %B, 10–13.5 min: 100 %B isocratic, 13.5-13.6 min: 100-10 %B, then 13.6–15.5 min: 10 %B. The multiple wavelength detector was set to monitor absorbance at 305 nm. The mass spectrometer (API-ES) was run in the negative mode in both selected ion monitoring (SIM) and scan (100–1000 m/z) modes to validate peak identities. The capillary voltage was set to 3000 V, drying gas to 10.0 L/min, nebulizer pressure to 30 psig, and drying gas temperature to 350 °C. Peaks were validated based on retention times compared to spike-in standards and mass-to-charge ratios. To quantify urolithins, integrated peak areas (derived from Agilent ChemStation software) for the compounds of interest were compared to spike-in standards of known concentrations. When standards were not available or overlapped with other peaks, the extracted ion chromatogram peak area was used: urolithin M5 ([M-H]
+
+A volume of 1.5 mL of treated (100 μM urolithin C for 2 h)
+
+Total RNA was sent to Génome Québec for library preparation and RNA sequencing. Briefly, total RNA was prepared for Illumina sequencing using the NEBNext rRNA Depletion Kit (Bacteria) (NEB) kit to remove rRNA and using the NEBNext Multiplex Oligos for Illumina (NEB) kit (stranded/directional). Prepared libraries were quality-checked with a Bioanalyzer 2100 (Agilent) prior to sequencing. Sequencing was performed on a NovaSeq 6000 (Illumina) with the following flow cell/settings: S4 flow cell, 100 bp, 25 M reads, paired-end.
+
+Analysis of RNA-seq reads was done using Galaxy bioinformatics cloud computing (
+
+The nucleotide sequence for the
+
+Comparisons between
+
+Trees for
+
+Trees were constructed using the Type (Strain) Genome Server (TYGS,
+
+The NCBI RefSeq accessions for UcdC: WP_002569575.1, UcdF: WP_002569574.1, and UcdO: WP_002569573.1 of
+
+Isolated RNA samples (500 ng) were reverse transcribed using the LunaScript® RT Master Mix Kit (Primer-free) (NEB) in a reaction volume of 10 µL containing the ucdCFO_RT-PCR_r primer (Supplementary Table
+
+Isolated RNA samples (500 ng) were reverse transcribed using the iScript Reverse Transcription Supermix (Bio-Rad) in a reaction volume of 10 μL. The iScript No-RT Control Supermix was used as a no enzyme control for reverse transcription (-RT). The reaction mixtures were incubated in a thermal cycler: 5 min at 25 °C, 20 min at 48 °C, and 1 min at 95 °C. Both cDNA and -RT controls were diluted 1/20 in nuclease-free water before use. qPCR reactions were conducted using the Luna Universal qPCR Master Mix kit (NEB). The Eb_ucdO_qPCR, Eb_ucdF_qPCR, Eb_ucdC_qPCR, and Eb_dnaK_Ref_qPCR primer pairs (Supplementary Table
+
+All steps other than sonication were carried out under anaerobic conditions. To extract proteins, 10 mL of treated (50 μM urolithin C for 4 h)
+
+Protein lysates (described above) were aliquoted (50 μL aliquots) into 1.5 mL tubes, then treated with DMSO or urolithin C (10 mM stock) at a final concentration of 350 μM. Cofactors (NADPH, NADH, NADP, NAD, and FAD), each dissolved to a final concentration of 30 mM in lysis buffer (immediately before the assay was run) were added individually to the lysates at a final concentration of 1 mM. In select samples, sodium formate (HCO
+
+To assess the oxygen sensitivity of crude lysates from uroC-induced
+
+Extracted proteins were submitted for proteomic analysis at the RI-MUHC. For each sample, protein lysates were loaded onto a single stacking gel band to remove lipids, detergents, and salts. The gel band was reduced with DTT, alkylated with iodoacetic acid, and digested with trypsin. Extracted peptides were re-solubilized in 0.1% aqueous formic acid and loaded onto a Thermo Acclaim Pepmap (Thermo, 75 µm ID X 2 cm C18 3 µm beads) precolumn and then onto an Acclaim Pepmap Easyspray (Thermo, 75 µm ID X 15 cm with 2 um C18 beads) analytical column separation using a Dionex Ultimate 3000 uHPLC at 250 nL/min with a gradient of 2–35% organic (0.1% formic acid in acetonitrile) over 3 h. Peptides were analyzed using a Thermo Orbitrap Fusion mass spectrometer operating at 120,000 resolution (FWHM in MS1) with HCD sequencing (15,000 resolution) at top speed for all peptides with a charge of 2 + or greater. The raw data were converted into *.mgf format (Mascot generic format) for searching using the Mascot 2.6.2 search engine (Matrix Science) against
+
+The database search results were loaded into Scaffold Q + Scaffold_5.0.1 (Proteome Sciences) for statistical treatment and data visualization. Scaffold (v5.3.0) was used to validate MS/MS based peptide and protein identifications. Peptide identifications were accepted if they could be established at greater than 95.0% probability by the Peptide Prophet algorithm
+
+The amino acid sequences (single copies) for the
+
+Active site modeling of
+
+Multiple sequence alignments based on protein sequences of
+
+Primers flanking the
+
+PCR was performed using the Q5 High-Fidelity polymerase (NEB) with
+
+Electrocompetent
+
+All growth steps below were performed in selective media (LB + 30 μg/mL chloramphenicol) in aerobic conditions at 30 °C with shaking at 220 RPM. Single colonies of
+
+Immobilized metal chelate affinity columns were freshly prepared by loading 1 mL of nickel-nitrilotriacetic acid (Ni-NTA) agarose (QIAGEN) slurry into Bio-Spin chromatography columns (Bio-Rad). The Ni-NTA agarose bed (0.5 mL) was then washed with 5 mL wash buffer (1X PBS, 1 mM DTT, 15 mM imidazole). Crude lysates described above (
+
+Crude lysates described above (
+
+Overnight cultures of
+
+All 93 metagenomic studies (22,588 samples and their metadata) available in the curatedMetagenomicData R package
+
+For specific genes, the NCBI protein accessions for each gene of the
+
+Frozen (− 70 °C) fecal samples were brought into the anaerobic chamber and allowed to thaw. The samples were suspended in 1 mL mABB medium per 0.1 g feces and homogenized by breaking apart large pieces with a sterile loop and by vortexing. Large particles were pelleted by centrifuging the tubes at 700 ×
+
+A 300 μL fecal slurry aliquot was pelleted (10,000 g for 5 min), and the supernatant was removed for later LC-MS analysis. The pellet (between 50–100 mg wet weight) was then mixed with 750 μL of ZymoBIOMICS lysis solution (Zymo Research) and transferred to a ZR BashingBead lysis tube (Zymo Research). Samples were lysed in a Mini Beadbeater 16 (Biospec) according to the following sequence: 1 min ON, 5 min OFF for a total of 5 min ON. DNA was then purified using the ZymoBIOMICS DNA Miniprep Kit (Zymo Research) according to the manufacturer’s instructions (including the
+
+Long-read 16S PCR reactions were conducted using the Platinum SuperFi II Green PCR Master Mix (Invitrogen). The ONT_16S_27F_GGK and ONT_16S_1492R_GGK primer pairs (Supplementary Table
+
+A 300 μL fecal slurry aliquot (treated with either 100 µM urolithin C or an equivalent volume DMSO for 48 h) was thawed and pelleted (6500 g for 3 min). The pellet (in 200 µL media) was then mixed with 800 µL TRI reagent (Zymo Research). Samples were lysed in a Mini Beadbeater 16 (Biospec) according to the following sequence: 1 min ON, 5 min OFF for a total of 5 min ON. RNA isolation was then performed using the Direct-zol RNA Miniprep Kit (Zymo Research) according to the manufacturer’s instructions (including an on-column DNase digestion). To ensure complete DNA removal, an additional DNA digestion step was performed on the isolated RNA using the Ambion DNA-free DNA Removal Kit (Invitrogen) according to the manufacturer’s instructions. The DNA-free RNA was then cleaned up using the OneStep PCR Inhibitor Removal Kit (Zymo Research). RNA concentration and quality were verified by Qubit RNA BR assay kit (Invitrogen) and 1% agarose gel electrophoresis.
+
+Total RNA was extracted from frozen fecal slurries as previously described (see
+
+Genomic DNA (gDNA) was extracted from frozen fecal slurries as previously described (see
+
+Di-O-methyl-urolithin C (3-Hydroxy-8,9-dimethoxy-6H-dibenzo[b,d]pyran-6-one, CAS 126438-35-5) was synthesized based on previously reported Ullmann-type coupling conditions for urolithin derivatives
+
+Statistical methods were not used to determine sample sizes, experiments were not randomized, and the investigators were not blinded. Data points for in vitro and ex vivo assays were assumed to be normally distributed, though this was not formally tested. Correlation analyses were performed using the non-parametric Spearman rank correlation (
+
+Further information on research design is available in the
+
+
+
+Supplementary Information
+
+Reporting Summary
+
+Transparent Peer Review file
+
+
+
+Source data - Figure 1
+
+Source data - Figure 2
+
+Source data - Figure 3
+
+Source data - Figure 4
+
+Source data - Figure 5
+
+Source data - Figure 6
+
+Source data - Supplementary Fig. 3
+
+Source data - Supplementary Fig. 10
+
+Source data - Supplementary Fig. 11
+
+Source data - Supplementary Fig. 12
+
+Source data - Supplementary Fig. 14
+
+Source data - Supplementary Fig. 15
+
+Source data - Supplementary Fig. 16
+
+Source data - Supplementary Fig. 17
+
+Source data - Supplementary Fig. 18

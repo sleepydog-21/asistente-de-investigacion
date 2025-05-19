@@ -1,0 +1,65 @@
+The
+
+Although the
+
+BglG and BglF comprise a sensory system that dictates the termination and antitermination processes of
+
+In addition to two intra-operon regulators, BglG and BglF, a number of transcription factors are thought to play roles in regulating
+
+In addition to those positive regulators described above, the
+
+H-NS is also involved in regulating physiological adaptation to the environment [
+
+StpA, an H-NS paralog, can form heterodimers with H-NS [
+
+Fis is a small, abundant nucleoid-associated protein primarily expressed in the exponential phase [
+
+In this paper, we examine the transcriptional activities of the
+
+We began our studies on
+
+The above experiments were repeated using a
+
+All other transcription factors examined had only a small effect or were essentially without an effect (
+
+We also determined whether these transcriptional regulators significantly affect
+
+Our studies were extended by examining the consequences of the increased expression of
+
+The above-described measurements were conducted using cells from the exponential growth phase. We next examined
+
+We have shown that the deletion of the
+
+In
+
+The results presented in
+
+To determine if the H-NS derivative, H-NSL30P, still maintained its DNA-binding capacity (despite the loss of its oligomerization property), we measured the promoter activities in cells expressing either
+
+As noted in the introductory section, the expression of the
+
+The reporter gene constructs described above have been used to examine the effects of eight transcription factors (Crp, BglG, BglJ, RcsB, LeuO, H-NS, StpA, and Fis) by comparing the wild type levels of these factors under identical conditions except that each of the encoding genes had been deleted. Thus, under normal physiological conditions, we were able to gain relevant information about the involvement of the different DNA-binding proteins in the expression of P
+
+The results of our studies can be summarized with the following primary conclusions. (1) The cAMP-Crp complex is the primary activator of both P
+
+In this paper, we present preliminary evidence that the mechanism of H-NS repression of
+
+Using a
+
+Another surprising observation concerns the
+
+It is also interesting to note that even in the presence of β-glucosides in the medium during the stationary growth phase, RpoS does not appear to have an appreciable effect on
+
+Further studies will be required to establish the detailed repressive mechanism of this unusual operon, as well as that responsible for the very interesting process by which IS elements activate it. This class of mutations grants wild type
+
+Except for DH5
+
+CGSC strains JW3701-2, JW5955-1, JW2205-2, JW0075-2, JW1225, JW2644-3, and JW3229-1 (
+
+To create the
+
+Recently, we reported the construction of a
+
+H-NS is the primary silencer of the
+
+To measure β-galactosidase activities in

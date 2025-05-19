@@ -1,0 +1,119 @@
+Global plastic production is continuously increasing and reached a new all-time high with ~400 million tons produced in 2022
+
+Such drawbacks could be overcome by combining chemical hydrolysis with biological catalysis, which allows metabolic funnelling of complex hydrolysates and subsequent conversion to value-added products, thereby avoiding costly purification steps
+
+In this study, we used deep metabolic engineering guided by laboratory evolution to enable metabolism of prevalent PA monomers, namely HMDA, Ahx and ε-caprolactam, by a single strain of
+
+Most commercial PAs consist of monomers with a chain length of six carbon atoms (C
+
+Although
+
+However, both ∆PP_2884 and PP_2884
+
+Modifications in the two transcriptional regulators PP_2884 and PP_0409-10 in
+
+In total, 81 and 362 genes were significantly (false discovery rate (FDR)-adjusted
+
+All genes described so far were upregulated in the presence of AA, indicating their constitutive expression, as no C
+
+Overall, this analysis deciphered that the mutated regulators affect the expression of a wide array of genes, both proximally and distally located on the genome. Through a combination of gene disruptions and in vitro enzyme assays, it emerged that both the transamination and the γ-glutamylation pathways contribute to the synthetic C
+
+Transcriptomic analysis revealed that uptake systems for polyamines such as spermidine or spermine are involved in C
+
+The ability of
+
+Although nylon hydrolysates typically only contain linear PA oligomers, considerable amounts of cyclic Ahx oligomers do form during polymer synthesis by head-to-tail condensation. They therefore also display relevant targets for microbial funnelling of nylon synthesis waste streams. To enable their metabolism, the
+
+Overall, ALE and metabolic engineering enabled metabolism of prevalent C
+
+The deep engineering and characterization of
+
+In the present study, we used deep metabolic engineering guided by laboratory evolution to establish the synthetic metabolism of PA-related feedstocks in the microbial host
+
+Currently, the vast majority of PAs are landfilled or incinerated, as traditional recycling methods are not economically viable
+
+Our strategy of combining chemical hydrolysis with microbial upcycling overcomes the drawbacks of traditional recycling, as complex hydrolysates can be funnelled into the central metabolism of our engineered microbial host. Low-cost waste stream feedstocks can be used while avoiding costly separation of monomers. However, further work is needed to make the proof-of-principle conversion of PA6 into PHB economically viable. The main limitation is the fact that the substrate scope of
+
+Recent studies on mixed-fibre PA textiles enabled the upcycling of the viscose fraction to PHB, leaving the PA fraction for mechanical recycling
+
+All chemicals used in this study were obtained from Sigma-Aldrich or Merck unless stated otherwise. All strains used in this study are listed in Supplementary Table
+
+For protein production in
+
+Genomic DNA of
+
+For the integration of codon-optimized nylonase genes from
+
+ALE was performed in 96-well microtiter plates with transparent bottom (Enzyscreen, CR1496dg) in Growth Profiler by iterative inoculation of MSM with 15 mM substrate as indicated. Four different ALE experiments were performed in parallel (A1–A4). Once an OD
+
+Proteins that were selected for the transaminase and γ-glutamylation assays were isolated from
+
+Genomic DNA of selected strains was purified using a Monarch Genomic DNA Purification kit (NEB) from an overnight LB culture. Afterwards, 1 μg of DNA was used for library preparation using the NEBNext Ultra II DNA Library Prep kit for Illumina (NEB). The library was evaluated by qPCR using the KAPA library quantification kit (Peqlab). Afterwards, normalization for pooling was done and paired-end sequencing with a read length of 2 × 150 bases was performed on a MiSeq system (Illumina). The sequencing output (base calls) were received as demultiplexed fastq files. The data (for example, trimming, mapping, coverage extraction) were processed using the CLC Genomic Workbench software (Qiagen Aarhus A/S). Reads were mapped against modified versions of the
+
+Strains of
+
+Samples were taken from liquid cultivations or in vitro assays and filtered through an AcroPrep 96-well filter plate (Pall) to obtain the analytes for HLPC analysis. HPLC analysis was performed using a 1260 Infinity II HPLC equipped with a fluorescence detector (FLD)
+
+PHB quantification was performed using acidic methanolysis and gas chromatography (GC) analysis as previously described
+
+The soluble fraction of PA6 was obtained from PA6 pellets (B4Plastics) by stirring 100 g l
+
+Cells of nylonase-expressing
+
+For protein purification from
+
+The transaminase assays were carried out in 100 mM sodium phosphate buffer (pH 7.5) with 500 µM acceptor substrate (pyruvate or α-ketoglutarate), 1 mM pyridoxal phosphate, 5 mM donor substrate (HMDA or Ahx) and 5 µM purified enzyme. As control, H
+
+One gram of PA6 pellets was incubated in 10 ml of 50% (v/v) H
+
+Promoters for
+
+Further information on research design is available in the
+
+
+
+Reporting Summary
+
+Peer Review File
+
+Estimated growth rates of
+
+Up- and downregulated genes in
+
+Up- and downregulated genes in
+
+Overview of strains used and generated in this study.
+
+Plasmids used and generated in this study.
+
+Oligonucleotides used in this study.
+
+DNA sequences of codon-optimized nylonase-encoding genes for
+
+
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Fig. 1b–d,f–h.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Fig. 2d,f. Numerical values of amino acid concentration as determined by Kit and HPLC-FLD for Fig. 2e.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Fig. 3a–c. Numerical values of concentrations of ε-caprolactam, and Ahx equivalents (Ahxeq) of Ahx and its linear oligomers as determined by HPLC-FLD/DAD for Fig. 3f,g.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Fig. 4a. Numerical values of concentrations of ε-caprolactam, and Ahx equivalents (Ahxeq) of Ahx and its linear oligomers as determined by HPLC-FLD/DAD for Fig. 4b.
+
+Numerical values of concentrations of and Ahx equivalents (Ahxeq) of Ahx and its linear oligomers as determined by HPLC-FLD/DAD for Fig. 5b–e. Numerical values of OD
+
+Numerical values of concentrations of violacein for Fig. 6a, and uncropped pictures of TLC plates after development and staining as shown in Fig. 6a,b.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 2a–c.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 3a–c.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 4a–c.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 5a,b.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 6a,b.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 7b–d.
+
+Numerical values of OD equivalents determined by growth monitoring using Growth Profiler (Enzyscreen) for Extended Data Fig. 8a. Numerical values of concentrations of HMDA and Nylon66 linear oligomers as determined by HPLC-FLD/DAD for Extended Data Fig. 8b,c.

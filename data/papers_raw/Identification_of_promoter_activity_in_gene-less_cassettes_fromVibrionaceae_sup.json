@@ -1,0 +1,11 @@
+{
+  "id": "38214222",
+  "title": "Identification of promoter activity in gene-less cassettes from Vibrionaceae superintegrons.",
+  "doi": null,
+  "authors": "Blanco P, Hipólito A, García-Pastor L, Trigo da Roza F, Toribio-Celestino L, Ortega AC, Vergara E, San Millán Á, Escudero JA",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Integrons are genetic platforms that acquire new genes encoded in integron cassettes (ICs), building arrays of adaptive functions. ICs generally encode promoterless genes, whose expression relies on the platform-associated Pc promoter, with the cassette array functioning as an operon-like structure regulated by the distance to the Pc. This is relevant in large sedentary chromosomal integrons (SCIs) carrying hundreds of ICs, like those in Vibrio species. We selected 29 gene-less cassettes in four Vibrio SCIs, and explored whether their function could be related to the transcription regulation of adjacent ICs. We show that most gene-less cassettes have promoter activity on the sense strand, enhancing the expression of downstream cassettes. Additionally, we identified the transcription start sites of gene-less ICs through 5'-RACE. Accordingly, we found that most of the superintegron in Vibrio cholerae is not silent. These promoter cassettes can trigger the expression of a silent dfrB9 cassette downstream, increasing trimethoprim resistance >512-fold in V. cholerae and Escherichia coli. Furthermore, one cassette with an antisense promoter can reduce trimethoprim resistance when cloned downstream. Our findings highlight the regulatory role of gene-less cassettes in the expression of adjacent cassettes, emphasizing their significance in SCIs and their clinical importance if captured by mobile integrons.",
+  "source": "PubMed",
+  "pmcid": "PMC11014356"
+}

@@ -1,0 +1,145 @@
+Bacterial genetic networks include regulatory scaffolding, fundamental for coordination and maintenance of bacterial physiology and communication with the dynamic environment. The main components of the genetic networks are DNA-binding transcription factors (TFs), which modulate gene expression within operons and regulons. They can quickly adjust gene expression levels as needed. Approximately 300 TFs were detected or predicted in
+
+One of the cryptic prophage unknown TFs is YdaT, whose gene is located in the immunity region of Rac in
+
+Gene organization of three Rac prophage TFs: RacR, YdaS, and YdaT and its analogy to λ bacteriophage with CI, Cro, and CII proteins (not in scale). Upper right: representative
+
+Of note, all three Rac genes (
+
+So far, the exact role of YdaT in
+
+The bacterial strains and plasmids used in this study are listed in
+
+The tested promoters or genes with their native promoter/operator sequences were cloned as fusions to a
+
+Overnight cultures of
+
+For the flow cytometry, a dead cell control was prepared by treating
+
+TEM (transmission electron microscopy) and SEM (scanning electron microscopy) were employed to investigate structural changes in cell morphology and ultrastructure subsequent the
+
+The N-terminally 6× His-tagged YdaT variants were purified as follows. Plasmids carrying
+
+Frozen cells were thawed in NPi10 buffer (50 mM K/PO
+
+For both assays, DNA substrates were polymerase chain reaction (PCR)-amplified using fluorescently Cy5-labeled primer at one end (
+
+For EMSA, reactions containing 20 nM DNA and the indicated purified protein concentrations were prepared in a binding buffer [10 mM Tris–HCl (pH 8.0), 50 mM NaCl, 10 mM MgCl
+
+The spectral shifts (SpS) procedure was performed using Monolith X (NanoTemper Technologies, Germany) [
+
+Protein–DNA binding reactions were performed with 40 nM DNA in 20 μl of the following buffer: 10 mM Tris–HCl (pH 8.0), 10 mM MgCl
+
+
+
+For biofilm assay crystal violet staining was applied. Freshly transformed
+
+For membranes sensitivity assay, the same strain was induced with 0.1% arabinose, serially diluted and spotted on LB agar supplemented with 0.1% SDS (sodium dodecyl sulfate) and 0.8 mM EDTA or on MacConkey medium supplemented with chloramphenicol and glucose/arabinose, as indicated. Plates were incubated 20 h at 37°C.
+
+The assay utilized the natural affinity of streptavidin to biotin and was performed to analyze the interaction between tested DNA and cellular proteins [
+
+Samples for LC-MS/MS (liquid chromatography-mass spectrometry) analysis were prepared according to a standard protocol FASP [
+
+LC-MS/MS spectra were processed using PEAKS Studio version 11 (Bioinformatics Solutions Inc., Waterloo, ON, Canada) with the settings previously described [
+
+The 3D structures of YdaT and its homologs were predicted utilizing a range of tools: AlphaFold3 [
+
+Organization of the
+
+Next, we also noticed that there is a reverse-oriented promoter within the
+
+Next, we used the same approach to test gene expression, but in the native genetic context of the
+
+In order to demonstrate specific binding of YdaT, and to identify its DNA targets, we performed
+
+First, we used PCR-amplified DNA substrate containing the IGR between
+
+Mapping the YdaT binding sites within Rac prophage
+
+To identify YdaT-binding sites within its bound DNA fragment, we next performed DNaseI footprinting analysis, with YdaT WT and its nonbinding variant YdaTmut (H56A R57A). We found a 100 bp long DNA segment, which was protected from DNaseI treatment, unlike the same substrate with YdaTmut protein. The protected DNA was located in the range −60 bp to +40 bp where +1 refers to A of the start codon of the
+
+For the second DNA substrate that had yielded a positive gel shift assay, we also performed DNaseI footprints analysis, in this case close to the start of
+
+Identification of the YdaT binding site and YdaT homologs cross-reactivity. (
+
+Given the similarity of the apparent binding sites, we sought to test whether YdaT of Rac binds the CP-933P prophage substrate and vice versa, and we were not surprised to see that the cross-binding did occur (Fig. 3B and C). We used an
+
+To test the effect of YdaT binding to its three operators, located between
+
+First, we tested the level of
+
+YdaT binding within its operators in the IGR affects
+
+To explore the potential regulatory role of the YdaT binding site (YdaT-box) within
+
+YdaT increases
+
+We wondered if such great stimulation of the reverse promoter could affect nearby convergent promoter driving the
+
+Altogether, we clearly demonstrated the importance of YdaT binding to the YdaT-box for activation of
+
+Expression of
+
+Negative impact of global transcriptional regulator OxyR on
+
+The LC-MS/MS analysis showed >300 proteins bound to both DNA probes. For further analysis, we considered only peptides identified solely in the IGR region (absent in negative control) and present in all three pull-down replicates (Fig.
+
+To determine whether OxyR indeed is involved in negative regulation of
+
+In the previous section, we found that a host TF (OxyR) controls a Rac prophage promoter (P
+
+Rac prophage TF YdaT activates expression of
+
+Next, to reinforce the binding assay results, and to confirm that the change in RcsA expression was due to direct YdaT binding to the
+
+Identification of the YdaT-binding site within
+
+Of note, we determined that YdaT homolog from CP-933P prophage is unable to activate the
+
+Next, we also asked whether YdaT has any significant preferences among its molecular targets. We used the sensitive biophysical method of SpS analysis, for rapid and easy determination of affinity constants (
+
+YdaT is usually annotated in gene and protein databases as a putative bacterial toxin that is neutralized by the putative antitoxin YdaS. We and others have shown previously that both YdaT and YdaS are rather Rac prophage TFs [
+
+A BLAST database search revealed that YdaT is easily identifiable in most
+
+YdaT and CII protein from bacteriophage λ are analogs. (
+
+Interestingly, the mode of action of YdaT resembles that of CII from Lambda phage, another well-studied TF. Structurally, these two proteins also share a similar architecture, with a crucial α-helix (α3 in both YdaT and CII) showing high sequence similarity (Fig.
+
+Our previous work demonstrated first that YdaT protein expression is lethal to
+
+In addition, previous transcriptomic analysis [
+
+Thus, we aimed to explore the toxicity more closely, but in Δrac cells to avoid the effect of other Rac regulators and genes. We employed the LIVE/DEAD™ BacLight™ Bacterial Viability Kit (Thermo Fisher, Invitrogen) to differentiate the viable (green, SYTO 9 staining) and dead cells (red, PI staining) using fluorescence techniques at both population and single cell levels. In this assay, the dead cell ratio is defined as a number of red cells (that have lost the membrane integrity) to the total number of green cells stained with SYTO 9. The
+
+YdaT-mediated toxicity on
+
+We also carried out more single-cell studies on YdaT-induced cells using TEM and SEM, respectively. The TEM images indicate chromatin condensation, revealed as white blobs within cells (Fig.
+
+In addition, we tested also whether the decreased LPS synthesis associated with
+
+It was reported before that RcsA/RcsB heterodimer can efficiently repress expression of the
+
+Motility and biofilm phenotypes of cells expressing
+
+The Rcs phosphorelay is known to negatively impact cell attachment to surfaces, an early stage of biofilm formation, by repressing genes responsible for surface adhesins and inhibiting the expression of the
+
+To date, the exact role of the Rac prophage TF YdaT in
+
+Our major objective in this report was to determine YdaT action as a TF, and to characterize YdaT regulatory properties, both within its prophage
+
+Although Rac prophage is cryptic, and many of its structural genes are disabled, the
+
+Moreover, we showed that RacR and YdaS strongly depress
+
+Many studies have focused on prophage genes that can directly contribute to the repertoire of host genes that affect host physiology or metabolism [
+
+This report is a continuation of our previous studies, showing that a single prophage TF is able to induce a phenotypic changes through regulation of host-encoded genes [
+
+The RcsA, together with RcsB, affects hundreds of genes within its regulon that are related to the exopolysaccharide and colanic acid biosynthesis (cps), cell motility, lipoprotein synthesis, and other gene regulators [
+
+Another TF, the DLP12 prophage protein AppY, was found to interact directly with 11 molecular targets, which collectively increase bacterial survival under low pH conditions, while also boosting biofilm formation and decreasing motility [
+
+Our results are also in accord with other reports showing that some prophage TFs’ actions promote biofilm formation. Biofilms result in direct “cell-to-cell” and “cell-to-surface” interactions,
+
+Taken together, our studies provide molecular insights into a prophage-encoded TF that has been integrated into the

@@ -1,0 +1,99 @@
+The deep sea harbors various types of extreme habitats, which are characterized by high hydrostatic pressure (HHP), high salt concentration, extreme temperatures or pH, and also specialized extracellular electron donors and acceptors in the niches, presenting significant challenges for the inhabiting microorganisms (
+
+The effects of HHP on microbial physiology are primarily based on studies of a few archaea focusing mainly on the order Thermococcales via omics-based techniques (
+
+Cystathionine-β-synthase (CBS) domain, consisting of ∼60 amino acid residues, commonly presents as tandem repeats in numerous cytosolic and membrane-associated proteins that existed throughout all kingdoms of life (
+
+Here, we discovered a pressure-regulated transcriptional activator, HhpR (high hydrostatic pressure regulator), from an archaeon
+
+The strains, plasmids and primers used in the present study are listed in
+
+To eliminate the influence of the native homologue of HhpR, a truncation mutation was attempted on the encoding gene for TK1626 in
+
+A suicide plasmid, pUS1626s, was constructed for the purpose of creating a truncated version of the TK1626 coding gene. The plasmid pUC18 was fused with the upstream fragment TK1626-up (1500 bp), a Sim
+
+Subsequently, pUS1626s was introduced into the
+
+For purification of CBS domain-containing protein HhpR and its homologous protein TK1626, N-terminal 6×His-tag fusions were constructed. DNA fragments that encode proteins HhpR and TK1626 were amplified by PCR from genomic DNA and fused into pET-28a using ClonExpress II One-Step Cloning Kit (Vazyme). Plasmids encoding mutant HhpR proteins were prepared by whole-plasmid PCR mutagenesis. Expression plasmids for truncated versions of HhpR were constructed into the pET-22a by cloning DNA fragments encoding one, two or three tandem repeated CBS domains. The recombinant plasmids were transformed into
+
+Cultures of
+
+To quantify the strength of the promoter under HHP condition, we screened and characterized three β-glycosidases, encoded by
+
+β-Glycosidase activity was measured using
+
+Dynabeads™ M-280 Streptavidin (Invitrogen, 11205D) was used to capture proteins. The detailed method is based on Thermo Fisher Scientific publication (No. MAN0014017,
+
+For electromobility shift DNA-binding assays (EMSAs), the
+
+DNase I footprinting assay was performed as previously described (
+
+A fluorescence polarization (FP) assay was conducted to determine the affinity of HhpR for double-stranded DNA (dsDNA). A 44-bp dsDNA was produced by incubating a FAM-labeled oligonucleotide (5′-CATATAAAAATTGTTGGGCAAATCTGCCCAGAAAAGCTTAAAAG-3′) and its unlabeled complementary counterpart at 95°C for 10 min, followed by gradual cooling to RT. For the HhpR–dsDNA interaction assay, binding reactions such as EMSA (30 μl) were prepared. dsDNA (50 nM) was incubated with 2-fold serially diluted HhpR protein (0.156–40 μM). HhpR was incubated at 85°C for 2 h under 0.1 or 52 MPa and then transferred to 0.1 MPa for the FP experiments. After a 10-min incubation at RT, FP measurements were taken with a Spark multifunctional microplate reader (Tecan). Binding data were subsequently analyzed with a single-site binding model using GraphPad Prism v.9.5.1.
+
+We performed molecule docking to construct the HhpR–DNA complex. The structure of HhpR (UniProt: F8AFU3) was predicted using AlphaFold v2.3.1 (
+
+All the MD simulations were performed using the GROMACS 2022.2 package (
+
+To investigate the evolutionary relationships of HhpR proteins, a phylogenetic tree was constructed based on protein sequences. Initially, the protein sequence of HhpR was used as a query in BLAST to retrieve homologous sequences, collecting the top 50 sequences with high similarity. Sequences lacking comprehensive taxonomic information were excluded from further analysis. Additionally, a methanogenic archaeal protein sequence with four CBS domains was selected as the outgroup to root the tree. Multiple sequence alignment of the collected sequences was performed using MUSCLE without further trimming or filtering steps. Phylogenetic inference was conducted using the maximum likelihood method, implemented with the LG + G substitution model, which was selected based on the optimal Bayesian information criterion score. Bootstrap analysis was conducted with 1000 replicates to assess the robustness of clades. All evolutionary analyses were conducted using the MEGA-X package, and the evolutionary tree was visualized using iTOL.
+
+We used FIMO (version 5.5.7) and blastn to search for the UAS motifs situated within the promoter regions of coding genes across the genomes of five strains in the order Thermococcales, including
+
+Our former study found that an HHP-inducible promoter P
+
+Characterization of the HHP-inducible promoter and identification of the transcriptional activator HhpR. Quantification of the strength of promoter P
+
+We further examined the activity of β-glucosidase under HHP condition in two closely related stains of
+
+We then utilized streptavidin-coupled superparamagnetic beads (Dynabeads M-280, Invitrogen) to capture the proteins interacting with the biotinylated DNA fragments of P
+
+HhpR is exclusively comprised of four CBS domains, as structurally predicted by AlphaFold (Figure
+
+To identify the binding interface between HhpR and P
+
+Core regions for the intermolecular binding of P
+
+Subsequently, we pinpointed the essential CBS domains that mediate the binding between the HhpR and P
+
+Based on the above experimental observations, we endeavored to construct an atomic model of the HhpR–DNA complex using molecular docking strategies. We docked the predicted structure of HhpR to a P
+
+Representative structures of HhpR–DNA complexes under different pressures. (
+
+Thus, to further investigate the structural dynamics of the HhpR–DNA complex, we performed MD simulations for the constructed HhpR–DNA complex at three different pressure conditions (0.1, 20 and 52 MPa). At each condition, we collected 4500 MD snapshots sampled from three parallel 200-ns MD simulations and then projected these MD conformations onto two reaction coordinates:
+
+Further structural inspections revealed more detailed conformational changes of both HhpR and DNA. Compared with low pressure, the DNA conformation at higher pressure is less bent, with average bending angles of 40°, 34° and 26° at 0.1, 20 and 52 MPa (Figure
+
+MD simulations of the protein HhpR and binding core region of P
+
+To pinpoint the specific recognition sites between HhpR and DNA at 52 MPa, we calculated the contact numbers for each HhpR residue with DNA. The contact heatmap shows that HhpR interacts with the specific sequence mainly via the N-terminus of the Arm region (residues 192–201) and one loop motif (residues 67–69) adjacent to the α2 region (Figure
+
+To further evaluate the functional roles of K67, R68 and D69, we designed a single mutant (D69A) and a triple mutant (K67A/R68A/D69A) of HhpR, and conducted
+
+The mutational effects of the HhpR variants under HHP. (
+
+Moreover, as suggested by MD simulations, the Arm region in HhpR might play a critical role in recognizing the target DNA, especially under HHP. To further verify this point, we replaced the Arm region with a short ‘GSSG’ linker connecting CBS3 and CBS4 (see Arm
+
+We further investigated the mutational effects of the above HhpR variants
+
+Moreover, we examined how different HhpR mutants might affect the promoter activity in the absence of TK1626. Consistent with the above
+
+To examine whether the lack of pressure-induced function of TK1626 stems from the difference of the Arm region between TK1626 and HhpR, we substituted the Arm region of HhpR with that of TK1626. Remarkably, this replacement is detrimental to the pressure-regulated function of HhpR (see sKOD1-Arm
+
+Initial modeling of TK1626 showed that TK1626 has four CBS domains similar to HhpR and an Arm region connecting CBS3 and CBS4 (
+
+To make it more reasonable, we further performed additional
+
+Homologous proteins of HhpR are widely distributed within the family Thermococcaceae (
+
+Phylogenetic analysis of HhpR proteins in Thermococcaceae. Phylogenetic trees were constructed using the neighbor-joining method,
+
+The specific interaction between proteins and DNA is a fundamental aspect of biological sensing and the cellular response to environmental stresses (
+
+Notably, homologous sequence of neither the promoter P
+
+TFs target their specific sites by specifically recognizing nucleobases (base readout) and/or DNA shapes (shape readout). Base readout normally occurs in DNA major or minor grooves. For example, TFs with HTH motifs primarily bind to the DNA major groove, thereby forming several specific hydrogen bonding interactions (
+
+Archaea utilize a eukaryote-like transcription machinery to read the genetic information in the genomes organized in bacteria-like style. This transcription system encompasses RNAP subunits, basal transcription initiation factors (i.e. TBP, TFB and TFE) and elongation factors (including TFS, Spt4/5 and Elf1) (
+
+Over the past decades, the effects of HHP on protein structure and function have been extensively studied using various biophysical techniques, including X-ray crystallography (
+
+In summary, our integrated biochemical and computational approaches provided new insights into the pressure adaptation mechanisms for a novel HHP-activated transcriptional regulator HhpR from the piezophilic archaeon

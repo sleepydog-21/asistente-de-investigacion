@@ -1,0 +1,89 @@
+Bacteria can occupy a variety of environments that include the ocean, human body, and soil, and seldom live in isolation. Bacteria have many methods of adapting to environmental changes and interacting with other microbes, including by using various forms of signaling. Quorum sensing (QS) is a type of intercellular communication used by many bacteria to coordinate group behaviors in response to cell density. QS is a feature of many gram-positive and gram-negative bacteria and typically results in transcription factor activation of gene expression (
+
+QS is typically organized into circuits composed of a signal producing enzyme and a signal-responsive transcriptional regulator.
+
+LasR and RhlR are both QS transcription factors that respond to acyl-homoserine lactone (AHL) signals (
+
+The interconnectivity between the QS circuits, or QS architecture, differs between
+
+More recent work has identified how PAO1 can itself develop a LasR-independent QS architecture. The “wildtype” strain PAO1 acquired a loss-of-function mutation in the oxidoreductase gene
+
+We are interested in QS architectures and how they are regulated, with the idea that the arrangement of QS circuits might impact bacterial virulence, social behaviors, or both. To investigate this issue, we explored how MexT regulates QS in the laboratory strain PAO1. We determined the MexT regulon by comparing the transcriptomes of wild-type PAO1 to a
+
+Because inactivating mutations in
+
+We compared RhlR activity in a PAO1
+
+We performed an RNA-sequencing experiment using wild-type PAO1 and a
+
+We observed that a PAO1Δ
+
+Using the OD
+
+To identify MexT effectors that might modulate QS, we filtered for genes that have a high confidence, such as those exhibiting large fold-changes, identification of whole operons, and genes with known QS interactions. Our data validate other studies showing that MexT is a transcriptional regulator of the multidrug RND efflux pump MexEF-OprN (
+
+We explored the role of MexEF-OprN in modulating QS in PAO1. We hypothesized that, like MexT, MexEF-OprN negatively regulates RhlR activity. To test this, we first made a
+
+While RhlR activity is negatively regulated by MexEF-OprN and MexT in wild-type PAO1, RhlR activity eventually occurs during later growth phases, indicating that either the negative regulation is relaxed or a positive regulatory pathway is induced. To determine whether
+
+We also tested whether the delay in RhlR activity in wild-type PAO1 was due to MexEF-OprN modulating production of the RhlR signal C4-HSL. If C4-HSL is a substrate of MexEF-OprN, and MexEF-OprN delayed RhlR QS by exporting C4-HSL signal, then we would expect a higher extracellular C4-HSL concentration in wild-type PAO1 than in a
+
+MexEF-OprN has been shown to delay PQS QS through binding and exporting the PQS precursor HHQ (
+
+We tested whether MexT delays PQS QS through the MexEF-OprN efflux pump. We measured PqsR activity in wild-type PAO1 supplemented with exogenous PQS and compared that to the PAO1Δ
+
+We next determined whether this delay in PQS QS affected RhlR QS. We measured RhlR activity in PAO1Δ
+
+Because we observed a change in RhlR activity with the addition of PQS, we sought to identify the factor mediating this change. PqsE is known to act as a chaperone and activate RhlR. Further, based on our transcriptome data, we observed higher expression of
+
+We further assessed the role of PqsE by creating a
+
+Together, these data enhance prior work on MexT, MexEF-OprN, and RhlR QS (
+
+We wondered about the diversity of quorum sensing architectures and their regulation in other
+
+We started by assessing LasR and RhlR kinetics in three clinical isolates from chronic infections in people with cystic fibrosis (E192, E194, and E195) (
+
+We compared the QS architecture of clinical isolates to that of PAO1 by generating
+
+We next assessed whether the variability of LasR-dependence was due to MexT modulation of QS architecture. To ask this question, we performed whole genome sequencing on each clinical isolate to identify changes in the overall genome compared to PAO1. Each isolate encodes a larger genome than wild-type PAO1, ranging from 50 kbp to 600 kbp larger. E194 and E195 have identical
+
+To investigate MexT activity in the clinical isolates, we transformed each isolate with a MexT reporter that contains the promoter of
+
+We next determined if RhlR activity in the clinical isolates was modulated by MexT (as it is in PAO1) by generating
+
+We asked whether MexT affects the relationship between LasR and RhlR QS. In PAO1, we observed an increase in RhlR QS in PAO1Δ
+
+In this work, we explored QS architectures in laboratory and clinical isolates of
+
+Our study identifies the mechanism of a key regulator of QS in
+
+Our laboratory and others have characterized QS extensively in strain PAO1 (
+
+Our study of MexT-mediated regulation of QS affords us some insight into the formation of QS hierarchies. Some bacteria contain only a single QS circuit, while others have many (
+
+This work also offers insight into the plasticity of the interactions between QS circuits and how key regulators like MexT can alter QS architecture based on selective pressures and promote architectures that might be advantageous in specific environments. Further, by studying and identifying variants in regulators like MexT, we gain insight into how cooperative behaviors may function within and between individuals. It is easy to imagine that regulatory mutants can change QS architectures and cellular behaviors to allow for specialization within a community. For example, a
+
+Altogether, our study defined the regulation of a key modulator of
+
+Strains and plasmids used in this study are listed in
+
+In all experiments with the laboratory strain PAO1, we used strain
+
+Overexpression constructs were created using a pUC18T mini Tn7T integrating plasmid with an arabinose-inducible promoter and Gibson assembly to clone in either
+
+Reporter plasmids pP
+
+To measure LasR activity, we inoculated individual duplicate colonies of strains with the transcriptional reporter P
+
+Strains were transformed with the pP
+
+Wild-type PAO1 and PAO1Δ
+
+rRNA depletion, library generation, and >20 million 150-bp paired-end Illumina HiSeq reads were generated for each sample commercially (Genewiz; Azenta). Trimmomatic with default settings (
+
+RNA was extracted as described above. 200 ng total cDNA was generated by reverse transcription using the qScript cDNA synthesis kit. Quantitative real-time PCR was performed using 2.5 ng total cDNA using the PowerTrack SYBR Green Mix. Primers targeting
+
+Individual colonies of wild-type PAO1 or PAO1Δ
+
+To measure C4-HSL, we used a bioassay strain E. coli DH5α/pEDP61.5 containing

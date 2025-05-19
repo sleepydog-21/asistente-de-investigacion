@@ -1,0 +1,59 @@
+
+
+A few proteins can increase the threshold for QS activation by delaying the expression of QS genes. Among these proteins, QscR is the important anti-activator LuxR homologue that binds to the promoter of PA1897 (Asfahl and Schuster
+
+Recent studies showed that altered metabolic states are associated with the activation of QS genes in
+
+For the operon of PA1895-1897, both genes of PA1895 and PA1897 are predicted to encode cytoplasmic membrane proteins in the Pfam database. PA1895 protein is supposed to act as fatty acid desaturase, and PA1897 protein is supposed to act as fatty acid hydroxylase, respectively (Finn et al.
+
+When reaching the OD
+
+Frozen pellets were ground and the powder was extracted with 70% aqueous methanol solution. The extracts were filtered for high-performance liquid chromatography (HPLC) analysis coupled with a mass spectrometer (Applied Biosystems, Foster City, CA, USA). The accurate precursor spectral ion and product spectral ion values were compared with the standard compounds, and the structure was analysed by referencing to existing databases such as MassBank and METLIN. We used pathway-associated metabolite sets to analyse pathway enrichment. KEGG pathways were further analysed with OmicsBean (GFK Inc., Shanghai, China).
+
+Acyl-homoserine lactones were extracted using ethyl acetate, and 3OC12-HSL and C4-HSL concentrations were measured using reporter strains as previously described (Ding et al.
+
+PA1895-1897-knockout mutant was cultured in 100 mL LB medium supplemented with different doses of palmitoleic acid or acetic acid at 37 °C with 250 rpm shaking. As the minimum inhibitory concentrations (MIC) of 5 mg/mL was obtained for palmitoleic acid, we used concentrations that were at least tenfold lower than MIC, i.e. 0.01 mg/mL, 0.05 mg/mL, 0.5 mg/mL. For acetic acid, the MIC of 0.25% (v/v) was obtained, and concentrations at least tenfold lower than MIC, i.e. 0.001%, 0.005%, 0.025% were used. At these concentrations, we didn’t observe any significant difference in the bacterial growth among different concentration groups (Figure
+
+When reaching the indicated OD
+
+Triclosan was used as the fatty acid biosynthesis inhibitor in the culture of PAO1 with 0.1% arabinose-induced pJN105.PA1895-1897 overexpression vector. The doses of triclosan were determined through a dose-dependent experiment, where 0.5 μg/mL triclosan was used without significant impact on bacterial density. At the timepoints of 4 h, 5 h, 6 h, and 7 h after inoculation, aliquots of cultures were collected for 3OC12-HSL, C4-HSL, and pyocyanin measurements.
+
+For palmitoleic acid detection, culture mixed with chloroform methanol (2:1 v/v) underwent ultrasonication of 30 min. Fatty-acid methyl esterification was achieved by 30 min of 80 °C water bath and later mixed with
+
+Data were analysed by GraphPad Prism (version 9; GraphPad Software, San Diego, CA, USA), and graphs were drawn accordingly. For normally distributed variables,
+
+Differential metabolomic analysis indicated amino acids and fatty acids were the two main classes of metabolites regulated by PA1895-1897 operon (Fig.
+
+Differential metabolomic analysis of PA1895-1897 operon, and correlation analysis between expression of quorum sensing phenotypes and fatty acids in
+
+Simultaneously obtained supernatants showed that QS signaling molecules (3OC12-HSL, C4-HSL) and the virulence factor (pyocyanin) were significantly increased by PA1895-1897 knockout and decreased by PA1895-1897 overexpression (Fig.
+
+As palmitoleic acid and acetic acid were the main fatty acids that were regulated by PA1895-1897 operon, we supplemented different doses of these two fatty acids to PA1895-1897-knockout mutant cultures, respectively, and performed time-course experiments to investigate the impact of fatty acids on QS activation. Subsequently, it was observed that the addition of these fatty acids resulted in a dose-dependent decrease in the concentrations of 3OC12-HSL, C4-HSL, and pyocyanin. (Fig.
+
+Time-course experiments of phenotypes and quorum-sensing gene transcriptions for PA1895-1897-knockout PAO1 mutant cultures supplemented with palmitoleic acid or acetic acid. Concentrations of 3OC12-HSL, C4-HSL, and pyocyanin were significantly decreased by palmitoleic acid (
+
+To investigate whether increased fatty acids biosynthesis contributed to delayed QS activation by PA1895-1897 operon, the fatty acid biosynthesis inhibitor, triclosan, was used in the culture of PAO1 with 0.1% arabinose-induced pJN105.PA1895-1897 overexpression vector. Triclosan targets enoyl-ACP reductase (FabI), an enzyme involved in converting acyl-ACP to fatty acids (Heath et al.
+
+Fatty acid biosynthesis inhibitor promotes QS activation in PA1895-1897-overexpressed PAO1 culture. Triclosan was used to inhibit fatty acid biosynthesis in the culture of PAO1 with 0.1% arabinose-induced pJN105.PA1895-1897 overexpression vector.
+
+An emerging hallmark of bacterial QS activation is the alteration of metabolic states. Intervening in cellular metabolism, which regulates QS activation, emerges as a promising strategy to mitigate the production of QS-controlled virulence factors. In this study, we found fatty acid biosynthesis had the highest fold enrichment among all metabolic pathways regulated by PA1895-1897 operon, the QS anti-activator in
+
+Palmitoleic acid and acetic acid were fatty acids that were significantly enriched by PA1895-1897 operon. Palmitoleic acid, a cis-monounsaturated n-7 fatty acid containing 16 carbon atoms, is classified as an omega-7 fatty acid, whereas acetic acid, comprising two carbon atoms, is categorized as a short-chain fatty acid within the group of volatile fatty acids (Viso and Marty
+
+Fatty acids have shown anti-QS activity in many bacterial species (Kumar et al.
+
+The mechanism of fatty acids delaying QS activation could be related to its suppressive impact on QS gene expression. In
+
+Signaling molecules (3OC12-HSL, C4-HSL) and pyocyanin are some major phenotypes for
+
+Fatty acids may suppress the production of
+
+In the last years, numerous natural and synthetic compounds have been recognized for their effective quorum quenching capabilities (Vadakkan et al.
+
+In conclusion, our work showed that fatty acid synthesis is promoted by PA1895-1897 operon and contributes to the delayed QS activation in
+
+
+
+Supplementary Material 1
+
+Supplementary Material 2

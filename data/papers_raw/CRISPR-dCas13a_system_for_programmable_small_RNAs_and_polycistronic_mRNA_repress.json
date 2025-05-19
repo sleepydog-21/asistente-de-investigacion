@@ -1,0 +1,11 @@
+{
+  "id": "38015471",
+  "title": "CRISPR-dCas13a system for programmable small RNAs and polycistronic mRNA repression in bacteria.",
+  "doi": null,
+  "authors": "Ko SC, Woo HM",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Bacterial small RNAs (sRNAs) function in post-transcriptional regulatory responses to environmental changes. However, the lack of eukaryotic RNA interference-like machinery in bacteria has limited the systematic engineering of RNA repression. Here, we report the development of clustered regularly interspaced short palindromic repeats (CRISPR)-guided dead CRIPSR-associated protein 13a (dCas13a) ribonucleoprotein that utilizes programmable CRISPR RNAs (crRNAs) to repress trans-acting and cis-acting sRNA as the target, altering regulatory mechanisms and stress-related phenotypes. In addition, we implemented a modular loop engineering of the crRNA to promote modular repression of the target gene with 92% knockdown efficiency and a single base-pair mismatch specificity. With the engineered crRNAs, we achieved targetable single-gene repression in the polycistronic operon. For metabolic application, 102 crRNAs were constructed in the biofoundry and used for screening novel knockdown sRNA targets to improve lycopene (colored antioxidant) production in Escherichia coli. The CRISPR-dCas13a system will assist as a valuable systematic tool for the discovery of novel sRNAs and the fine-tuning of bacterial RNA repression in both scientific and industrial applications.",
+  "source": "PubMed",
+  "pmcid": "PMC10783499"
+}

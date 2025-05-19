@@ -1,0 +1,11 @@
+{
+  "id": "39465945",
+  "title": "A new selective force driving metabolic gene clustering.",
+  "doi": null,
+  "authors": "Fondi M, Pini F, Riccardi C, Gemo P, Brilli M",
+  "journal": "mSystems",
+  "year": "2024",
+  "abstract": "The evolution of operons has puzzled evolutionary biologists since their discovery, and many theories exist to explain their emergence, spreading, and evolutionary conservation. In this work, we suggest that DNA replication introduces a selective force for the clustering of functionally related genes on chromosomes, which we interpret as a preliminary and necessary step in operon formation. Our reasoning starts from the observation that DNA replication produces copy number variations of genomic regions, and we propose that such changes perturb metabolism. The formalization of this effect by exploiting concepts from metabolic control analysis suggests that the minimization of such perturbations during evolution could be achieved through the formation of gene clusters and operons. We support our theoretical derivations with simulations based on a realistic metabolic network, and we confirm that present-day genomes have a degree of compaction of functionally related genes, which is significantly correlated to the proposed perturbations introduced by replication. The formation of clusters of functionally related genes in microbial genomes has puzzled microbiologists since their first discovery. Here, we suggest that replication, and the copy number variations due to the replisome passage, might play a role in the process through a perturbation in metabolite homeostasis. We provide theoretical support to this hypothesis, and we found that both simulations and genomic analysis support our hypothesis. The formation of clusters of functionally related genes in microbial genomes has puzzled microbiologists since their discovery. Here, we suggest that replication, and the copy number variations due to the replisome passage, might play a role in the process through a perturbation in metabolite homeostasis. We provide theoretical support to this hypothesis, and we found that both simulations and genomic analysis support our hypothesis.",
+  "source": "PubMed",
+  "pmcid": "PMC11629862"
+}

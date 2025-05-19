@@ -1,0 +1,11 @@
+{
+  "id": "38153127",
+  "title": "Lethal perturbation of an Escherichia coli regulatory network is triggered by a restriction-modification system's regulator and can be mitigated by excision of the cryptic prophage Rac.",
+  "doi": null,
+  "authors": "Gucwa K, Wons E, Wisniewska A, Jakalski M, Dubiak Z, Kozlowski LP, Mruk I",
+  "journal": "Nucleic acids research",
+  "year": "2024",
+  "abstract": "Bacterial gene regulatory networks orchestrate responses to environmental challenges. Horizontal gene transfer can bring in genes with regulatory potential, such as new transcription factors (TFs), and this can disrupt existing networks. Serious regulatory perturbations may even result in cell death. Here, we show the impact on Escherichia coli of importing a promiscuous TF that has adventitious transcriptional effects within the cryptic Rac prophage. A cascade of regulatory network perturbations occurred on a global level. The TF, a C regulatory protein, normally controls a Type II restriction-modification system, but in E. coli K-12 interferes with expression of the RacR repressor gene, resulting in de-repression of the normally-silent Rac ydaT gene. YdaT is a prophage-encoded TF with pleiotropic effects on E. coli physiology. In turn, YdaT alters expression of a variety of bacterial regulons normally controlled by the RcsA TF, resulting in deficient lipopolysaccharide biosynthesis and cell division. At the same time, insufficient RacR repressor results in Rac DNA excision, halting Rac gene expression due to loss of the replication-defective Rac prophage. Overall, Rac induction appears to counteract the lethal toxicity of YdaT. We show here that E. coli rewires its regulatory network, so as to minimize the adverse regulatory effects of the imported C TF. This complex set of interactions may reflect the ability of bacteria to protect themselves by having robust mechanisms to maintain their regulatory networks, and/or suggest that regulatory C proteins from mobile operons are under selection to manipulate their host's regulatory networks for their own benefit.",
+  "source": "PubMed",
+  "pmcid": "PMC11014345"
+}

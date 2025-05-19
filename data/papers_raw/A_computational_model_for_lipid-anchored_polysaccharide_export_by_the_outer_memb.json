@@ -1,0 +1,11 @@
+{
+  "id": "39164969",
+  "title": "A computational model for lipid-anchored polysaccharide export by the outer membrane protein GfcD.",
+  "doi": null,
+  "authors": "Fruet C, Martinez-Goikoetxea M, Merino F, Lupas AN",
+  "journal": "Biophysical journal",
+  "year": "2024",
+  "abstract": "Many bacteria are protected by different types of polysaccharide capsules, structures formed of long repetitive glycan chains that are sometimes free and sometimes anchored to the outer membrane via lipid tails. One type, called group 4 capsule, results from the expression of the gfcABCDE-etp-etk operon in Escherichia coli. Of the proteins encoded in this operon, GfcE is thought to provide the export pore for free polysaccharide chains, but none of the proteins has been implicated in the export of chains carrying a lipid anchor. For this function, GfcD has been a focus of attention as the only outer membrane β-barrel encoded in the operon. AlphaFold predicts two β-barrel domains in GfcD, a canonical N-terminal one of 12 strands and an unusual C-terminal one of 13 strands, which features a large lateral aperture between strands β1 and β13. This immediately suggests a lateral exit gate for hydrophobic molecules into the membrane, analogous to the one proposed for the lipopolysaccharide export pore LptD. Here, we report an unsteered molecular dynamics study of GfcD embedded in the bacterial outer membrane, with the common polysaccharide anchor, lipid A, inserted in the pore of the C-terminal barrel. Our results show that the lateral aperture does not collapse during simulations and membrane lipids nevertheless do not penetrate the barrel but the lipid chains of the lipid A molecule readily exit into the membrane.",
+  "source": "PubMed",
+  "pmcid": "PMC11494523"
+}

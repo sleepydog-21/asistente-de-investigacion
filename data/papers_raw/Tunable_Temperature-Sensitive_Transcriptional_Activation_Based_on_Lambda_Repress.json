@@ -1,0 +1,11 @@
+{
+  "id": "35708251",
+  "title": "Tunable Temperature-Sensitive Transcriptional Activation Based on Lambda Repressor.",
+  "doi": null,
+  "authors": "Xiong LL, Garrett MA, Buss MT, Kornfield JA, Shapiro MG",
+  "journal": "ACS synthetic biology",
+  "year": "2022",
+  "abstract": "Temperature is a versatile input signal for the control of engineered cellular functions. Sharp induction of gene expression with heat has been established using bacteria- and phage-derived temperature-sensitive transcriptional repressors with tunable switching temperatures. However, few temperature-sensitive transcriptional activators have been reported that enable direct gene induction with cooling. Such activators would expand the application space for temperature control. In this technical note, we show that temperature-dependent versions of the Lambda phage repressor CI can serve as tunable cold-actuated transactivators. Natively, CI serves as both a repressor and activator of transcription. Previously, thermolabile mutants of CI, known as the TcI family, were used to repress the cognate promoters PR and PL. We hypothesized that TcI mutants can also serve as temperature-sensitive activators of transcription at CI's natural PRM promoter, creating cold-inducible operons with a tunable response to temperature. Indeed, we demonstrate temperature-responsive activation by two variants of TcI with set points at 35.5 and 38.5 °C in",
+  "source": "PubMed",
+  "pmcid": "PMC9295150"
+}

@@ -1,0 +1,63 @@
+Cell association and invasion phenotypes of
+
+To evaluate the role of type 1 and type 3 fimbriae of KqPF9 in cultured bladder epithelial cell association, we generated strains with targeted deletions of
+
+Because variation in urovirulence phenotypes has been previously reported in
+
+Expression of type 1 and type 3 fimbriae as well as bladder epithelial cell attachment and biofilm formation is elevated in KqPF9 relative to TOP52. (A and B) qRT-PCR analysis of type 1 fimbriae (
+
+We next used previously generated whole-genome sequences of TOP52 and KqPF9 to identify genotypic differences explaining the increased expression of
+
+The FimK C-terminal PDE is truncated in
+
+Before investigating differences in FimK function between KqPF9 and TOP52, we first sought to determine if known regulators of type 3 fimbrial expression, MrkH and MrkJ, functioned similarly in
+
+The role of
+
+To evaluate the role of the C-terminal PDE domain of FimK in the regulation of type 3 fimbriae expression, we generated TOP52
+
+TOP52
+
+Considering that only expression of the
+
+Both type 1 and type 3 fimbriae have been reported to mediate host cell attachment and invasion by
+
+The regulatory mechanisms controlling the expression of type 1 and type 3 fimbriae in
+
+The observed requirement for type 3 fimbriae for
+
+Interestingly, we found that deletion of
+
+It is also possible that additional regulatory differences exist between the two species that may contribute to differences in expression of type 1 and type 3 fimbriae. In addition to local regulators of type 1 and type 3 fimbriae encoded within the
+
+Taken together, the data presented here provide new insight into the regulation of type 3 fimbriae by
+
+Bacterial strains and plasmids used in the study are listed in
+
+Strains and plasmids used in this study
+
+Cell association and invasion assays were performed as previously described (
+
+Type 1 fimbriae knockout, type 3 fimbriae knockout, or both type 1 and type 3 fimbriae knockout mutants of
+
+For the construction of complementation plasmids, genes were amplified from genomic DNA by PCR using Dreamtaq Mastermix (ThermoFisher) or PHUsion polymerase for PCR products >2,000 bp (NEB) with respective primers as provided in Table S2. For all plasmids, NcoI and HindIII restriction sites were used except for plasmids encoding
+
+Transformation of
+
+Total RNA was extracted from respective statically growing
+
+Static biofilm assays were performed as described previously (
+
+Bacterial strains were grown overnight at 37°C in Luria Bertani (LB) media at static conditions. Cultures were normalized to an OD
+
+Red blood cells (RBCs) were isolated via centrifugation of fresh whole human blood (Fisher). Briefly, whole blood was centrifuged at 1,000 ×
+
+Agglutination assays using tannic acid-treated human RBCs were performed as described previously (
+
+The
+
+The
+
+Negative staining and electron microscopy were performed as previously described (
+
+All statistical analysis was performed using GraphPad Prism (9.1.0). For pairwise comparisons, significance was evaluated by paired two-tailed Student’s

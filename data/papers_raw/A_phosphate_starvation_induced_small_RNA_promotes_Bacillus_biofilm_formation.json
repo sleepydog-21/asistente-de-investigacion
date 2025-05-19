@@ -1,0 +1,11 @@
+{
+  "id": "39472585",
+  "title": "A phosphate starvation induced small RNA promotes Bacillus biofilm formation.",
+  "doi": null,
+  "authors": "Li Y, Cao X, Chai Y, Chen R, Zhao Y, Borriss R, Ding X, Wu X, Ye J, Hao D, He J, Wang G, Cao M, Jiang C, Han Z, Fan B",
+  "journal": "NPJ biofilms and microbiomes",
+  "year": "2024",
+  "abstract": "Currently, almost all known regulators involved in bacterial phosphorus metabolism are proteins. In this study, we identified a conserved new small regulatory RNA (sRNA), named PhoS, encoded in the 3' untranslated region (UTR) of the phoPR genes in Bacillus velezensis and B. subtilis. Expression of phoS is strongly induced upon phosphorus scarcity and stimulated by the transcription factor PhoP. Conversely, PhoS positively regulates PhoP translation by binding to the ribosome binding site (RBS) of phoP mRNA. PhoS can promote Bacillus biofilm formation through, at least in part, enhancing the expression of the matrix-related genes, such as the eps genes and the tapA-sipW-tasA operon. The positive regulation of phoP expression by PhoS contributes to the promoting effect of PhoS on biofilm formation. sRNAs regulating biofilm formation have rarely been reported in gram-positive Bacillus species. Here we highlight the significance of sRNAs involved in two important biological processes: phosphate metabolism and biofilm formation.",
+  "source": "PubMed",
+  "pmcid": "PMC11522486"
+}

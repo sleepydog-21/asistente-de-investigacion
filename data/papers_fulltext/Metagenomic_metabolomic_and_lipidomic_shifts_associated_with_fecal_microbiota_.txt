@@ -1,0 +1,119 @@
+Current recommendations for the treatment of CDI are a course of antibiotics, either vancomycin or fidaxomicin, which continue to alter colonization resistance and can result in a re-emergence of CDI (
+
+To date, multiple studies have reported structural changes to the microbiota in rCDI after FMT (
+
+Changes to the lipidome were also observed alongside the microbiota after FMT for rCDI (
+
+In this study, we utilize a multi-omic approach, leveraging metagenomics and multiple metabolomic analyses that range in sensitivity, to identify changes in the microbiome, metabolome, and lipidome after a successful FMT in patients with rCDI and generate new hypotheses from these changes. We observe significant changes in the microbiota structure and lipid metabolism between pre- and post-FMT samples. Successful FMTs were associated with a reduction in acylcarnitines, primary bile acids, along with an increase in secondary bile acids. We also identify microbial genes important for these changes, in particular carnitine metabolism genes encoded by many Enterobacteriaceae pre-FMT. Enterobacteriaceae also encoded many amino acid biosynthesis genes pre-FMT, potentially able to provide
+
+Samples were collected from 15 patients enrolled for FMTs performed between January and December 2017 and processed between February 2017 and February 2018. Stool samples were collected pre-FMT and post-FMT at time points of 2 weeks, 2 months, and 6 months (
+
+FMT significantly alters the structure and function of the gut microbiota. (
+
+Characteristics of patients with rCDI who underwent FMT
+
+BM, bowel movement; FMT, fecal microbiota transplantation; IBD, inflammatory bowel disease; PPI, proton pump inhibitor.
+
+If not all participants had a response recorded, the percentage was calculated from responses only.
+
+Where averages are presented, parentheses contain standard deviations, and medians contain ranges.
+
+Trimethoprim-sulfamethoxazole, nitrofurantoin, doxycycline, amoxicillin, and unknown pneumonia antibiotic.
+
+As expected, significant differences were observed in the microbiome and metabolome between the pre- and post-FMT samples. Notably, shifts in the Bray-Curtis dissimilarity among the microbial species identified from metagenomics (
+
+An untargeted metabolomics platform identified 924 metabolites, of which 182 were significantly different between pre- and post-FMT (q ≤ 0.05 by linear mixed models with Bonferroni correction;
+
+Lipids: acylcarnitines and bile acids are the most predictive metabolites able to distinguish between pre- and post-FMT samples. (
+
+Lipids emerged as a key distinguishing factor between pre- and post-FMT, with 20 of the top 50 metabolites belonging to this super pathway category designated by Metabolon (
+
+To look for associations between the microbiota and the metabolome, while accounting for multiple post-FMT time points for each recipient, we performed repeated measure correlations (rmcorr) between metabolites and the relative abundance of bacterial Families that were significantly different between pre- and post-FMT (
+
+The high importance and shift in abundance of acylcarnitines between pre- and post-FMT warranted further investigation of the microbial metabolic pathways associated with these molecules. Carnitine metabolism emerged as one of these pathways. Coinciding with the decrease in acylcarnitines, there was also a decrease in carnitine metabolism at every time point post-FMT (
+
+Pre-FMT samples are dominated by Enterobacteriaceae, which encode the majority of carnitine metabolism genes. (
+
+Amino acids are essential for
+
+Since
+
+Pre-FMT samples have an increase in genes important for the biosynthesis of
+
+To further characterize the relationship between bile acids, amino acids, and FMT, we performed specific extractions and lipidomic analyses to target bile acids and MCBAs in the stool samples collected pre- and post-FMT (
+
+Microbially conjugated bile acid pool post-FMT favors secondary bile acids. (
+
+Of these 44 important and statistically significant bile acids, 25 decreased post-FMT, whereas the other 19 increased (
+
+Correlating this targeted panel of bile acids with the microbiome, we also discovered a significant association with bacterial families. Isoleucine/leucine, alanine, and histidine conjugated CA decreased in abundance post-FMT and positively correlated with one or more of Rikenellaceae, Veillonellaceae, and Lactobacillaceae (
+
+Significant alterations in the abundance of multiple unconjugated bile acids were also observed between pre- and post-FMT. Specifically, CA, CDCA, HCA, 7-keto DCA, and ωMCA decreased in abundance post-FMT, whereas DCA, LCA, αMCA, HDCA, EDCA, 3-oxoLCA, isoLCA, and 12-oxoLCA increased in abundance post-FMT. Although some exceptions exist, this trend represents a decrease in primary bile acid amidates coupled with an increase in secondary bile acid amidates. Conjugation of glycine, alanine, isoleucine/leucine, phenylalanine, and valine to primary bile acids CA and/or CDCA decreased post-FMT, whereas conjugation to the secondary bile acid DCA increased (
+
+Bile salt hydrolases (BSHs) are enzymes that have recently been shown to catalyze the conjugation of bile acids and are also regarded as gatekeepers of bile acid modifications, as they remove amino acids from the sterol core, allowing further modifications to occur (
+
+Bile salt hydrolases significantly increase post-FMT and are encoded mainly by the Lachnospiraceae family. Genes were identified as BSHs if their UniRef90 protein ID contained “Bile Salt Hydrolase” or “Choloylglycine Hydrolase.” (
+
+To further characterize these BSHs and their impact on the MCBA pool, we correlated each individual BSH with targeted bile acid abundances (
+
+Following BSH-mediated deconjugation, additional bile acid-altering enzymes can further modify the sterol core of bile acids, making secondary bile acids. There were shifts in the abundance of some of these enzymes as well, although many of them did not meet significance requirements (Fig. S6).
+
+In this study, we performed metagenomics, metabolomics, and lipidomics using different platforms on the stool of patients undergoing FMT for rCDI to determine the mechanisms of a successful FMT. Significant increases in alpha and beta diversity have previously been described after FMT for rCDI. Although our study adds additional resolution at the species level. We also noted, alongside other studies (
+
+The pre-FMT stool environment is enriched in acylcarnitines. Acylcarnitines are important for long-chain fatty acid β-oxidation by the host (
+
+The Enterobacteriaceae in pre-FMT stool also encoded many genes important for the biosynthesis of
+
+A major focus of this study was to look at the contribution of not only amino acids but also bile acids, specifically newly defined MCBAs and the BSHs that drive them. A majority of BSHs in post-FMT stool were encoded by members of the Lachnospiraceae, a family normally highlighted for its role in secondary bile acid production via the
+
+This study used a comprehensive suite of omics techniques to define a successful FMT for rCDI; however, there were some limitations to the study. First, we used shallow shotgun sequencing samples with a wide range of alpha diversity. We expect that samples that were >50% of a single species had more sequencing depth for that species relative to other more diverse samples and therefore may have had more complete metabolic pathways identified. With a relatively small sample size of 15, these results may not be generalizable to all FMTs, and may result in erroneous correlations. Due to the conflicts between databases in Humann 3 and Metaphlan 4, some genes may have been classified as belonging to a different organism previously grouped in within the same pangenome. Since the FMT induced large shifts in both the microbiome and metabolome, we acknowledge some correlations may reflect these changes more so than specific associations between microbes and metabolites. Additionally, in our lipidomic analyses even with the advanced LC-IMS-MS platform, some of the MCBA isomers still exhibit overlap. For example, the similarity in retention time and collision cross section (CCS) for Leu-BA and Ile-BA in our synthetic library poses challenges for their definitive assignments (
+
+The relationship between high acylcarnitines pre-FMT and
+
+We enrolled all consenting patients undergoing FMT for multiple rCDI at the University of North Carolina from January to December 2017 in a prospective registry. Multiply rCDI was defined as at least the third episode of
+
+Samples were processed and sequenced at CoreBiome (now Diversigen).
+
+Libraries were prepared with a procedure adapted from the Nextera Library Prep kit (Illumina). Libraries were sequenced using single-end 1 × 150 reads with a NextSeq 500/550 High Output v2 kit (Illumina).
+
+Samples were extracted with the MO Bio PowerFecal kit (Qiagen) automated for high throughput on QiaCube (Qiagen). The manufacturer’s instructions were followed with bead beating in 0.1 mm glass bead plates.
+
+Samples were quantified with Qiant-iT Picogreen dsDNA Assay (Invitrogen). Shallow shotgun sequencing of fecal DNA on the Illumina Nextseq platform was performed by CoreBiome, now Diversigen. Raw reads were filtered for quality, and reads that map to a human genome were removed using KneadData v0.12.0. The relative abundances of each bacterial phylum and species member of pre-FMT and post-FMT fecal samples were determined using Metaphlan version 4.0.6 (
+
+Alpha and beta diversities were examined using the R package vegan v2.6–4 (
+
+Metabolomic profiling analysis was performed by Metabolon (Durham, NC) in the following way.
+
+Following receipt, samples were inventoried and immediately stored at −80°C. Each sample received was accessioned into the Metabolon LIMS system and was assigned by the LIMS a unique identifier that was associated with the original source identifier only. This identifier was used to track all sample handling, tasks, results, etc. The samples (and all derived aliquots) were tracked by the LIMS system. All portions of any sample were automatically assigned their own unique identifiers by the LIMS when a new task was created; the relationship of these samples was also tracked. All samples were maintained at −80°C until processed.
+
+Samples were prepared using the automated MicroLab STAR system from Hamilton Company. Several recovery standards were added prior to the first step in the extraction process for QC purposes. To remove protein, dissociate small molecules bound to protein or trapped in the precipitated protein matrix, and to recover chemically diverse metabolites, proteins were precipitated with methanol under vigorous shaking for 2 min (Glen Mills GenoGrinder 2000) followed by centrifugation. The resulting extract was divided into five fractions: two for analysis by two separate reverse phase (RP)/UPLC-MS/MS methods with positive ion mode electrospray ionization (ESI), one for analysis by RP/UPLC-MS/MS with negative ion mode ESI, one for analysis by HILIC/UPLC-MS/MS with negative ion mode ESI, and one sample was reserved for backup. Samples were placed briefly on a TurboVap (Zymark) to remove the organic solvent. The sample extracts were stored overnight under nitrogen before preparation for analysis.
+
+Several types of controls were analyzed in concert with the experimental samples: a pooled matrix sample generated by taking a small volume of each experimental sample (or alternatively, use of a pool of well-characterized human plasma) served as a technical replicate throughout the data set; extracted water samples served as process blanks; and a cocktail of QC standards that were carefully chosen not to interfere with the measurement of endogenous compounds were spiked into every analyzed sample, allowed instrument performance monitoring, and aided chromatographic alignment. Instrument variability was determined by calculating the median relative standard deviation (RSD) for the standards that were added to each sample prior to injection into the mass spectrometers. Overall process variability was determined by calculating the median RSD for all endogenous metabolites (i.e., non-instrument standards) present in 100% of the pooled matrix samples. Experimental samples were randomized across the platform run with QC samples spaced evenly among the injections.
+
+All methods utilized a Waters ACQUITY ultra-performance liquid chromatography (UPLC) and a Thermo Scientific Q-Exactive high resolution/accurate mass spectrometer interfaced with a heated electrospray ionization (HESI-II) source and Orbitrap mass analyzer operated at 35,000 mass resolution. The sample extract was dried and then reconstituted in solvents compatible with each of the four methods. Each reconstitution solvent contained a series of standards at fixed concentrations to ensure injection and chromatographic consistency. One aliquot was analyzed using acidic positive ion conditions, chromatographically optimized for more hydrophilic compounds. In this method, the extract was gradient eluted from a C18 column (Waters UPLC BEH C18−2.1 × 100 mm, 1.7 µm) using water and methanol, containing 0.05% perfluoropentanoic acid (PFPA) and 0.1% formic acid (FA). Another aliquot was also analyzed using acidic positive ion conditions; however, it was chromatographically optimized for more hydrophobic compounds. In this method, the extract was gradient eluted from the same aforementioned C18 column using methanol, acetonitrile, water, 0.05% PFPA, and 0.01% FA and was operated at an overall higher organic content. Another aliquot was analyzed using basic negative ion optimized conditions using a separate dedicated C18 column. The basic extracts were gradient-eluted from the column using methanol and water, however with 6.5 mM Ammonium Bicarbonate at pH 8. The fourth aliquot was analyzed via negative ionization following elution from a HILIC column (Waters UPLC BEH Amide 2.1 × 150 mm, 1.7 µm) using a gradient consisting of water and acetonitrile with 10 mM Ammonium Formate, pH 10.8. The MS analysis alternated between MS and data-dependent MS
+
+Raw data were extracted, peak-identified and QC processed using Metabolon’s hardware and software. These systems are built on a web service platform utilizing Microsoft’s .NET technologies, which run on high-performance application servers and fiber-channel storage arrays in clusters to provide active failover and load-balancing. Compounds were identified by comparison to library entries of purified standards or recurrent unknown entities. Metabolon maintains a library based on authenticated standards that contains the retention time/index (RI), mass-to-charge ratio (
+
+A variety of curation procedures were carried out to ensure that a high-quality data set was made available for statistical analysis and data interpretation. The QC and curation processes were designed to ensure accurate and consistent identification of true chemical entities and remove those representing system artifacts, misassignments, and background noise. Metabolon data analysts use proprietary visualization and interpretation software to confirm the consistency of peak identification among the various samples. Library matches for each compound were checked for each sample and corrected if necessary.
+
+Peaks were quantified using area under the curve. For studies spanning multiple days, a data normalization step was performed to correct variation resulting from instrument inter-day tuning differences. Essentially, each compound was corrected in run-day blocks by registering the medians to equal one (1.00) and normalizing each data point proportionately (termed the “block correction”). For studies that did not require more than one day of analysis, no normalization is necessary, other than for purposes of data visualization. In certain instances, biochemical data may have been normalized to an additional factor (e.g., cell counts, total protein as determined by Bradford assay, osmolality, etc.) to account for differences in metabolite levels due to differences in the amount of material present in each sample.
+
+To extract the bile acids (BAs) from the 45 fecal samples, approximately 100 mg of each fecal sample was aliquoted into a 2 mL Omni International microtubes containing 2.38 mm metal beads (Kennesaw, Georgia, catalog number 19–620). The slight variations in fecal mass were normalized to a 1 mg:8 µL ratio by adding eight times the mass (mg) of a pre-extraction buffer (μL) consisting of 1:1 methanol (MeOH):acetonitrile (ACN) with 3 mM phosphate. For example, for 100.1 mg of fecal sample, 800.8 µL of extraction buffer was added. For the extraction buffer, Optima LC/MS grade methanol (catalog number 67–56-1) and acetonitrile (catalog number 75–05-8) were purchased from Fisher Chemical (Pittsburgh, PA), and the phosphate was potassium phosphate monobasic from Supelco (Bellefonte, PA, catalog number 57618).
+
+A C13 heavy labeled BA internal standard mix was also prepared for the study by combining two BA mixes purchased from Cambridge Isotope Laboratories (CIL, Tewksbury, MA), a labeled conjugated BA mix (MSK-BA1-US-1) and a labeled unconjugated BA mix (MSK-BA1-US-2). Each mix vial was resuspended in 250 µL of a 1:1 mixture of MeOH:H
+
+Blanks and calibration samples were also utilized for the study, with the calibration samples also serving to assess extraction efficiency. An unlabeled BA standard mix was prepared for the calibration samples. This unlabeled BA mix consisted of 16 unlabeled BAs purchased from Cambridge Isotope Laboratories (CIL, Tewksbury, MA) including conjugated BAs in vial 1 (catalog number MSK-BA1) and unconjugated BAs in vial 2 (catalog number MSK-BA2). To prepare the standard BA mix, each vial was resuspended in 500 µL of a 1:1 mixture of MeOH:H
+
+Simultaneous liquid chromatography, ion mobility spectrometry, and mass spectrometry (LC-IMS-MS) analyses were performed utilizing an Agilent 1290 Infinity UPLC (Santa Clara, CA) system coupled with an Agilent 6560 IM-QTOF MS instrument (Santa Clara, CA) (
+
+The LC separation was slightly modified from our previously described methods to achieve a higher resolution of the conjugated BA (
+
+The LC-IMS-CID-MS platform had been characterized in previous studies (
+
+The LC-IMS-MS .d files were demultiplexed with the PNNL-Preprocessor 4.0 at a moving average of 3, minimum pulse coverage of 100%, and signal intensity threshold of 20 counts, resulting in (.DeMP.d) files (
+
+Important metabolites were defined as having an MDA >0 as determined using random forest analysis via the R package randomForest v4.7–1.1 (
+
+Repeated measures correlation (rmcorr) between microbiome and metabolome were performed using the R package rmcorr v0.6.0 (
+
+Significant correlations were determined by linear model with Benjamini and Hochberg correction on the correlation values using the R package rmcorr v0.6.0 and stats v4.2.2 (

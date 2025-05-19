@@ -1,0 +1,131 @@
+Mutations that lead to changes in the protein’s amino acid sequence are often expected to alter the protein structure, stability, and/or activity and are referred to as missense mutations. Unlike missense mutations, synonymous mutations alter only the DNA (and mRNA) sequence without affecting the amino acid sequence because of the degeneracy of the genetic code (
+
+Most deep mutational scanning (DMS) studies involving parallel high-throughput investigation of phenotypic fitness in large number of single-site mutants of proteins have revealed synonymous mutations to be largely neutral (
+
+Mutational effects on protein function have been studied extensively in mono-cistronic proteins or in isolated, heterologous expression systems. Studies of bacterial genomes however reveal a high occurrence of operonic systems comprising of functionally related protein coding genes proximally spaced on a DNA stretch, under a shared promoter (
+
+Bacterial type II toxin–antitoxin (TA) systems, where the antitoxin and the toxin proteins are expressed as part of a single operon, serve as an attractive model to study co-regulation of gene expression as well as transcriptional and translational coupling (
+
+We find that the labile antitoxin CcdA in the operonic context shows considerably higher mutational sensitivity than most proteins studied to date (
+
+In the
+
+High mutational sensitivity of
+
+Relative fitness of mutants of microbial genes is routinely estimated from their competitive growth rates (
+
+The deep sequencing was performed in three biological replicates, which showed a high correlation (Pearson correlation coefficient = 0.98 approximately;
+
+CcdA Mutant Phenotypes Inferred From Deep Sequencing and Individual Transformation.
+
+Mutants are labeled as WT amino acid identity_ residue position_mutated amino acid identity in case of nonsynonymous variants and as WT amino acid identity_ residue position in case of synonymous variants.
+
+Mutant phenotype is assigned based on the deep sequencing derived ES
+
+Highest dilution showing growth is obtained from experiments involving individual transformation of the mutant plasmids and plating of serial dilutions to validate deep sequencing results. Spotting of serial dilutions of culture correlated well with plating results. WT
+
+The majority of the
+
+Inactive phenotype of synonymous mutants and codon specificity effects for nonsynonymous mutants are nonuniformly distributed across the length of
+
+Mutational Sensitivities of all Available Synonymous Mutant Codons at Each Residue Position of CcdA Library in Operonic Context.
+
+The codons (synonymous with respect to WT sequence of CcdA) have been colored based on the deep sequencing phenotypic activity (ES
+
+The mutational effects observed in case of synonymous mutations led us to investigate codon specific effects amongst nonsynonymous CcdA mutants. We found several nonsynonymous mutations at multiple positions having distinct phenotypes for different codons that code for the same mutant amino acid. Since NNK codons were used for mutagenesis and preparation of the SSM library, we could only investigate phenotypes of mutated codons having G/T at the 3rd nucleotide position. Therefore, the phenotypic differences between codons could be investigated for a subset of mutated amino acid residues that are encoded by more than one codon, namely Alanine, Glycine, Leucine, Arginine, Proline, Threonine, Serine, and Valine. We also found that phenotypic differences amongst codons in nonsynonymous mutants were heightened in the N- and C- terminal positions of CcdA, while all mutations in the CcdA central stretch were inactive irrespective of the identity of the mutated codons as well as amino acids (
+
+The growth defects caused by
+
+Observed growth defects in CcdA mutants are typically not caused by loss of CcdB binding activity. (
+
+Binding Affinities of CcdA Mutants and WT Calculated Using Titration of Yeast Surface Displayed CcdA Molecules With Purified CcdB.
+
+The dissociation constants (
+
+We also studied the distribution of mutational phenotypes (for nonsynonymous mutations) at different classes of functionally important residues in the N-terminal domain of CcdA, identified based on the available NMR structure of the DNA bound dimeric CcdA N terminal domain (
+
+The frequency of different degenerate codons (for any amino acid) in the genome of an organism varies significantly. We investigated the relationship between the phenotypes of mutants and relative codon usage (RCU) (in the
+
+Relation between DNA sequence features and growth phenotypes of CcdA mutants. All available mutants in the CcdA library (
+
+We also studied the distribution of these DNA sequence features among the active and inactive variants for the subsets of synonymous mutations, nonsynonymous, as well as for the nonsynonymous substitutions which showed codon specific effects. Inactive mutations show significantly lower RCU values than active mutants in all subsets consistently (
+
+Codon adaptation index (CAI) is a commonly used parameter that describes the degree of codon bias for a whole gene or sequence and helps to infer the relative adaptiveness of the sequence (
+
+A primary sequence element that is known to be a strong determinant of the efficiency of translational coupling is the Shine Dalgarno (SD) sequence. Early studies by Das and Yanofsky in the Trp operon showed that translation initiation at any start site, located near a functional stop codon of the upstream gene may be influenced by the strength sequence and location of the SD region and its spacing from the start codon (
+
+An analysis of all available codon substitutions at residues 70 and 71 of CcdA from the deep sequencing data indicated that the predicted strength of the RBS for CcdB expression was a significant contributor to the phenotype of these mutants (
+
+Decreased CcdA:CcdB protein ratio leads to loss of function phenotype for inactive synonymous CcdA mutants and also increases
+
+Codons for inactive CcdA mutants have significantly lower RCU in comparison to active mutants, suggesting that the observed mutational phenotypes might result from alterations in translational rate of the CcdA or CcdB gene products. To further probe protein levels in mutants, we carried out a proteomics study. The extremely low levels of CcdA and CcdB proteins
+
+The five inactive and one hyperactive mutants of CcdA tested in the proteomic study have relatively reduced and elevated levels of CcdA proteins relative to WT respectively. The
+
+To study the possible effects of CcdA sequence changes resulting from single codon mutations on gene expression, we quantified
+
+An analysis of bacterial genomes has suggested that SD like sequences within the coding region of genes could be potential ribosomal pause sites and is therefore under negative selection (
+
+To test if other TA modules are also sensitive to synonymous mutations, the RelBE system was used as a test case. Unlike the plasmidic
+
+To study mutational effects,
+
+Phenotypic effects of select single synonymous substitutions in
+
+In type II TA systems, the toxin and antitoxin can form higher order TA complexes which bind to the TA promoter repressing its transcription. Conditional co-operativity (T:A protein ratio dependent co-operative interaction of TA complex with the operator DNA) is known to be a dominant mechanism in regulating the transcription of most TA systems (
+
+The
+
+The present studies reveal that most single codon substitutions, including synonymous mutations along the length of
+
+The prevalence of large phenotypic variations amongst CcdA mutants exclusively at the N-terminal (first 20 residues) and C-terminal residues (56–72) might also be a result of mutational effects on translation initiation of
+
+Earlier studies which observe a strong influence of codon rarity and codon pair bias on protein level (
+
+Previous studies on prokaryotic translation also suggest mRNA structure and accessibility near the translation start site play important roles in translation initiation, a rate limiting step of translation (
+
+A 986 bp region comprising of the complete
+
+The plasmid library purified from the resistant Top10 gyr strain was considered as the initial unselected library. This was then transformed into the sensitive Top10 strain for selection. We used high efficiency electro-competent cells of Top10 and Top10 gyr strains, having equal efficiencies of 10
+
+We used ×200 theoretical coverage for each mutant for deep sequencing and have achieved high average read counts of each mutant in the unselected library (mean = 263 and median = 101). The average quality score for this final dataset is 36.76 and majority reads have Q score > 35. Assuming a Q score of 35, the probability of a sequencing error is 1/3,162. Assuming that all four bases are equally likely to be assigned an error at a given position, the probability of erroneously observing a specific base substitution at a specific position in a read is 1/12,649. For a given error probability and total number of reads, the probability of getting at least the observed number of reads for a specific mutant codon can be calculated assuming a binomial distribution. This binomial cumulative distribution function can be approximated by a Poisson cumulative distribution function. For 100,000 total reads and a probability
+
+Read numbers for mutants at all 71 positions (2–72) in CcdA were analyzed. Mutants with <20 reads in the resistant strain were not considered for analysis. The total number of reads in different conditions was calculated. Read numbers for each mutant at a given condition were normalized to the total number of reads in that condition. Mutational enrichment was defined as the ratio of the normalized reads after selection to the normalized reads before selection, for a given mutant. We further normalized the mutant scores with respect to the WT fitness score to obtain the ES.
+
+Survival score of a mutant
+
+ES of a mutant
+
+For each residue in the CcdA protein, reads for all 32 possible mutant codons (NNK codons) were analyzed in the sensitive versus resistant strain, and phenotypes were assigned in terms of the ES
+
+Fitness was calculated as previously described (
+
+Selected single-site synonymous mutants of CcdA (in pUC57-
+
+The relative levels of CcdA and CcdB proteins
+
+For RNA isolation and quantification, 3 mL of culture was grown for each of the mutants of
+
+Threshold cycle of amplification in PCR reaction was analyzed and automatically provided by the Bio-Rad iQ5 Optical System Software Version 2.1. All reactions were carried out in triplicates. The negative control experiments had Ct values in the range of 29–31.
+
+The initial 150 bp of the
+
+The CUF of
+
+The tRNA abundance raw data (
+
+The relative GC content for mutations was calculated by dividing the fractional GC content of mutant codon by that of WT codon. The number of base changes is the number of positions in a 3 bp codon where the mutant codon varies from the WT codon.
+
+To investigate if there is any significant difference in the distribution of these sequence parameters across the inactive and active classes of mutants, we chose to use the nonparametric Mann–Whitney test since our data is ordinal and does not follow a normal distribution.
+
+The difference in the interaction energy between single synonymous mutants in
+
+The binding energies for different mutants at the RBS of CcdB in the
+
+The CcdA libraries, individually recovered both from the resistant and the sensitive strains, were amplified from the pUC57-
+
+The WT sequence for the RelBE operon from
+
+Due to absence of a strain that is resistant to toxin action, we employed a toxin deletion strain (
+
+Click here for additional data file.

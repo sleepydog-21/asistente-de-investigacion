@@ -1,0 +1,89 @@
+The progress across recent decades in developing methodologies for
+
+The need for payload DNA to be joined with an antibiotic resistance marker can be circumvented by counterselection against non-recombinant cells instead of positive selection of recombinants. For example, I-SceI-mediated chromosome breakage combined with expression of λRed functions has been shown to provide markerless integration of heterologous DNA. In this case, a payload must still be delivered into the cell as part of a plasmid vector (
+
+Although CRISPR-based technologies have been vigorously developed during the past decade, the conventional approach of genome engineering using λRed recombineering retains unexploited potential. Recombineering implies manipulation of the chromosome using a linear dual selectable cassette, which comprises an antibiotic resistance marker and coupled counterselectable marker (
+
+To facilitate the introduction of large DNA fragments encoding heterologous metabolic pathways and genetic networks into the host cell genome, we aimed to develop a counterselection strategy by harnessing an artificial genetic circuit including the P
+
+Bacteria were routinely grown in LB broth (10 g/l tryptone, 5 g/l yeast extract, 10 g/l sodium chloride) at 37°C, with shaking at 220 rpm. Solid LB medium was prepared by adding 20 g/l agar to LB broth. The medium was supplemented with ampicillin (200 mg/l), kanamycin (100 mg/l), gentamycin (20 mg/l), streptomycin (20 mg/l), or chloramphenicol (25 mg/l) as needed. The chloramphenicol concentration was increased to 200 mg/l in
+
+The oligos used for PCR and for recombineering were purchased from Evrogen Joint Stock Company (Moscow, Russia) as listed in
+
+All bacterial strains used in this study, including information on their genotype and phenotype, are presented in
+
+The plasmids used in this study, their complete sequence, and relevant characteristics are listed in
+
+Plasmids pRedCm, pRedCmOcr or the chromosomally integrated
+
+The
+
+Markerless cassettes were introduced by
+
+The protocols for both recombineering and
+
+In all experiments, at least seven colonies exhibiting the recombinant phenotype were re-purified and tested using colony PCR for the desired mutation in a targeted genomic locus. The test was performed similar to that for verifying insertions of dual selectable cassettes.
+
+A pivotal constituent element of our approach for delivering heterologous DNA into the
+
+The
+
+General outline of the
+
+We anticipated that adjacent chromosomal promoters can cause transcriptional readthrough and unintended derepression of
+
+The scope of the
+
+Evaluation of the efficiency of
+
+To accurately estimate the efficiency of the
+
+As shown by Luria and Delbruck, owing to the stochastic nature of mutation events in a bacterial population, the frequency of mutants may vary by orders of magnitude in each independent culture when the inoculum is initially small enough and does not contain mutants (
+
+We verified that the P
+
+To probe the applicability of
+
+We introduced these antirestriction genes into pRedCm upstream of
+
+Stimulation of λRed recombineering by suppression of EcoKI endonuclease activity. (
+
+Having enhanced the integration efficiency of long PCR-generated cassettes, we examined whether it is possible to further improve the efficiency of
+
+Finally, we combined the chromosomal helper module with the Δ
+
+We probed the performance of the established counterselection strategy and λRed recombineering for markerless delivery of high-capacity constructs into the genome. Specifically, we examined the replacement efficiency of
+
+Markerless integration of linear constructs via
+
+Using the pRedCmOcr helper and the chromosomal
+
+One can assume that the estimated efficiency of integration might be distorted because of the long outgrowth of electroporated cells in the liquid medium required for CI exhaustion and
+
+Next, we examined whether unmarked genomic loci can be transferred between strains via
+
+We demonstrated the applicability of
+
+To improve the biosynthetic capacity of the
+
+Finally, we explored whether the proposed genome engineering strategy can be employed to engineer bacteria other than
+
+
+
+Since the year 1998, establishment of recombineering (
+
+An ideal counterselectable marker needs to be exceedingly refractory against inactivating mutations to enable facile discrimination of recombinants among spontaneous mutants. For this, we exploited the ability of CI repressor from λ phage to serve as a counterselection marker when used in conjunction with the P
+
+Recently, CRISPR/Cas9-based methods have been sought to develop markerless integration into the genome. To achieve reasonable efficiency, most approaches require providing a donor DNA within a plasmid vector (
+
+Upon implementation of the
+
+In this work, we demonstrated the applicability of the
+
+Despite the key advantages of our integration strategy, two main drawbacks should be considered. First, because of the stochastic nature of mutations and the resulting fluctuation in the frequency of mutants in a culture, some particular experiments may show an unusually high number of spontaneous mutants, thereby complicating the identification of desired recombinants. This problem could be solved by performing two parallel experiments starting with independent colonies. The second drawback is more complex. Successful selection of recombinants upon replacement of the
+
+In conclusion, we present a novel genome-engineering strategy combining highly restrictive counterselection and advanced recombineering, which together turn the bacterial chromosome into a general-purpose cloning vehicle and enable facile markerless cloning of large linear cassettes. This approach has substantial advantages over existing methods and can be used to expand the repertoire of tools in synthetic biology and metabolic engineering.
+
+The template plasmids of pTmp series (# 176227–176233), helper pRedCm (# 176225), and pRedCmOcr (# 176226) plasmids are available through AddGene. Strains with the chromosomally integrated
+
+Click here for additional data file.

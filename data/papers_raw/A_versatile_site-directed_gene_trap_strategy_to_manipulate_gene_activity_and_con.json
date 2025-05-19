@@ -1,0 +1,11 @@
+{
+  "id": "39841730",
+  "title": "A versatile site-directed gene trap strategy to manipulate gene activity and control gene expression in Caenorhabditis elegans.",
+  "doi": null,
+  "authors": "Khan H, Huang X, Raj V, Wang H",
+  "journal": "PLoS genetics",
+  "year": "2025",
+  "abstract": "The ability to manipulate gene activity and control transgene expression is essential to study gene function. While several genetic tools for modifying genes or controlling expression separately are available for Caenorhabditis elegans, there are no genetic approaches to generate mutations that simultaneously disrupt gene function and provide genetic access to the cells expressing the disrupted gene. To achieve this, we developed a versatile gene trap strategy based on cGAL, a GAL4-UAS bipartite expression system for C. elegans. We designed a cGAL gene trap cassette and used CRISPR/Cas9 to insert it into the target gene, creating a bicistronic operon that simultaneously expresses a truncated endogenous protein and the cGAL driver in the cells expressing the target gene. We demonstrate that our cGAL gene trap strategy robustly generated loss-of-function alleles. Combining the cGAL gene trap lines with different UAS effector strains allowed us to rescue the loss-of-function phenotype, observe the gene expression pattern, and manipulate cell activity spatiotemporally. We show that, by recombinase-mediated cassette exchange (RMCE) via microinjection or genetic crossing, the cGAL gene trap lines can be further engineered in vivo to easily swap cGAL with other bipartite expression systems' drivers, including QF/QF2, Tet-On/Tet-Off, and LexA, to generate new gene trap lines with different drivers at the same genomic locus. These drivers can be combined with their corresponding effectors for orthogonal transgenic control. Thus, our cGAL-based gene trap is versatile and represents a powerful genetic tool for gene function analysis in C. elegans, which will ultimately provide new insights into how genes in the genome control the biology of an organism.",
+  "source": "PubMed",
+  "pmcid": "PMC11753634"
+}

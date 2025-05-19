@@ -1,0 +1,11 @@
+{
+  "id": "37763294",
+  "title": "Open Questions about the Roles of DnaA, Related Proteins, and Hyperstructure Dynamics in the Cell Cycle.",
+  "doi": null,
+  "authors": "Kohiyama M, Herrick J, Norris V",
+  "journal": "Life (Basel, Switzerland)",
+  "year": "2023",
+  "abstract": "The DnaA protein has long been considered to play the key role in the initiation of chromosome replication in modern bacteria. Many questions about this role, however, remain unanswered. Here, we raise these questions within a framework based on the dynamics of hyperstructures, alias large assemblies of molecules and macromolecules that perform a function. In these dynamics, hyperstructures can (1) emit and receive signals or (2) fuse and separate from one another. We ask whether the DnaA-based initiation hyperstructure acts as a logic gate receiving information from the membrane, the chromosome, and metabolism to trigger replication; we try to phrase some of these questions in terms of DNA supercoiling, strand opening, glycolytic enzymes, SeqA, ribonucleotide reductase, the macromolecular synthesis operon, post-translational modifications, and metabolic pools. Finally, we ask whether, underpinning the regulation of the cell cycle, there is a physico-chemical clock inherited from the first",
+  "source": "PubMed",
+  "pmcid": "PMC10532879"
+}

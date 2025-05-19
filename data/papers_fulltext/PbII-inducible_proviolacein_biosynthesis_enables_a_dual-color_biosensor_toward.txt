@@ -1,0 +1,71 @@
+Heavy metal pollution has become a global environmental problem that seriously endangers human health and ecological safety (
+
+Implementation of rational control policies and continuous environmental monitoring are prerequisites for avoiding increased Pb pollution (
+
+Bioaccessible Pb(II) is critical to the transcription initiation of Pb resistance genes, mediated by the metalloregulator PbrR (
+
+Bioluminescent and fluorescent reporters as primary actuators depend highly on expensive instruments to determine biosensing signals (
+
+Pigments with striking colors could be used to develop visual bacterial biosensors toward pollutants. Several studies have clarified that the branched violacein biosynthetic pathway can produce four-color metabolites, including violacein (V), deoxyviolacein (DV), proviolacein (PV), and prodeoxyviolacein (PDV) (
+
+The biosensing construct pPb-vioABDE with a
+
+Overnight cultures of TOP10/pPb-vioABDE were inoculated into 10 mL fresh LB medium at a 1:100 dilution and induced with 1 μM Pb(II) at 37°C for 5 h. Intracellular accumulated PV aggregates were extracted with n-butanol. After vortex extraction using 4 mL n-butanol, the n-butanol phase was separated after centrifugation and divided into the average non-oxidation and oxidation treatment groups. The difference was that 30% H
+
+Overnight cultures of TOP10/pPb-vioABDE were inoculated into 2 mL LB medium at a ratio of 1:100 in 15 mL tubes, then exposed to Pb(II) at final concentrations of 0, 0.15, and 1.5 μM. The induced cultures were incubated at 37°C with shaking at 250 rpm for 8 h and sampled at 1-h intervals. All samples were divided into oxidation and non-oxidation treatment groups on average and stored at 4°C until detection. Aliquots of 100 μL culture were first determined at 600 nm for the bacterial density (OD
+
+Overnight cultures of TOP10/pPb-vioABDE were diluted at 1:100 in fresh LB medium. A 2-fold dilution method (
+
+To investigate the response selectivity, the overnight cultures of TOP10/pPb-vioABDE were diluted at 1:100 in fresh LB medium and exposed to 1.5 μM various metal ions, including Pb(II), Cr(III), Hg(II), Zn(II), Mg(II), Ni(II), Mn(II), Ca(II), Fe(II), Cd(II), and Cu(II). To assess the influence of various metal ions on the response of TOP10/pPb-vioABDE toward Pb(II), target Pb(II) was mixed with various interference metal ions at 1.5 μM and exposed to biosensor cells. After incubation at 37°C for 5 h, the bacterial cell density and dual-color signals were measured at 600 nm and 652 nm, respectively.
+
+Lead salt was spiked into four environmental water samples: pure water, tap water, lake water, and soil extracts. The response of PV-based biosensors toward bioaccessible Pb(II) in the environmental matrices was investigated. Environmental surface water and surface (0–20 cm) lateritic soil samples were collected from a local park (Luohu District, Shenzhen, China). Air-dried soil samples (10 g) were fully suspended using 200 mL of pure water and vortexed for 1 h. After being placed at 26°C for 5 h, the supernatant was filtered through a 0.22 μM filter. The LB medium was freshly prepared by mixing 90% v/v filtered purified water, tap water from our laboratory, ambient surface water, and soil extract with 10% v/v 10 × LB broths. Overnight cultures of TOP10/pPb-vioABDE were diluted at 1:100 in four media. A double dilution method was used to obtain 3,000, 1,500, 750, 375, 187.5, 93.8, 46.9, 23.4, 11.7, 5.86, 2.93, and 0 nM Pb(II) exposure groups for non-oxidation treatment, and 6,000, 3,000, 1,500, 750, 375, 187.5, 93.8, 46.9, 23.4, 11.7, 5.86, 2.93, 1.46, 0.732, 0.366, 0.183, 0.0915 and 0 nM Pb(II) exposure groups for oxidation treatment. After incubation at 37°C for 5 h, bacterial density and dual-color signals were determined at 600 nm and 652 nm, respectively.
+
+Pb(II) sensory element originating from the natural lead-resistant bacterium
+
+Pb(II) triggers the biosynthesis of proviolacein, which can be converted into two colored substances under non-oxidizing and oxidizing conditions.
+
+As an intermediate of the branched violacein biosynthetic pathway, the unstable PV in the organic phase was rapidly converted into a grayish-brown substance upon exposure to air (
+
+Engineered TOP10/pPb-vioABDE was exposed to Pb(II) at concentrations of 0, 0.15, and 1.5 μM, bacterial density increased within 7 h, and the A
+
+The time-dose–response relationship of PV-based biosensors exposed to Pb(II). Cultures of TOP10/pPb-vioABDE were induced with three concentrations of Pb(II) at 37°C and sampled at 1-h intervals. The n-butanol extracts were separated and transferred into a 96-well plate. The time-dose–response curves using A
+
+Engineered TOP10/pPb-vioABDE was exposed to increased concentrations of Pb(II). Pb(II) concentrations below 12,000 nM did not adversely affect bacterial growth (
+
+Dose–response performance of PV-based biosensor toward Pb(II) under laboratory conditions. Comparison of response sensitivity of TOP10/pPb-vioABDE toward Pb(II) between the non-oxidation treatment group
+
+Engineered TOP10/pPb-vioABDE was exposed to Pb(II) and ten other metal ions at 1.5 μM. Supplement of various metal ions at 1.5 μM exerted no apparent cytotoxicity on bacterial cells (
+
+Differential responses of PV-based biosensors in response to various metal ions. Various metal ions induced TOP10/pPb-vioABDE at a concentration of 1.5 μM. The brown signal
+
+Dose–response performance of PV-based biosensor in detecting Pb(II) in environmental samples.
+
+In order to validate the capability of engineered biosensors in monitoring bioavailable Pb(II) in different matrices, environmental water samples artificially contaminated with Pb(II) were mixed into the culture systems. The overall procedure for the Pb(II) field testing is shown in
+
+Brown signal fluctuations caused by environmental matrix effects (
+
+Microorganisms are inexpensive weapons for defending against heavy metal pollution, as they can adapt to high concentrations of heavy metal exposure through metal ions sequestration, transport, and export (
+
+Recent studies showed that natural pigment biosynthesis based on metabolic engineering made designed bacteria become colorimetric biosensors toward pollutants (
+
+Due to the stable green signal, the PV-based biosensor had a low LOD of 0.183 nM after an extra oxidation treatment (
+
+The biosensing selectivity largely depends on the metal sensory element. Previous studies showed that group 12 metals exerted some influence on the response of biosensors employing metalloregulator PbrR as a Pb(II) sensory component (
+
+Soluble inorganic and organic components in natural aquatic systems can change metal morphology, resulting in its differential bioavailability and ecotoxicity (
+
+Interestingly, a significantly decreased relative standard deviation was observed in the oxidation treatment group compared to the non-oxidation treatment group (
+
+Novel visible pigment-based bacterial biosensors share the same advantages over luminescent and fluorescent bacterial biosensors (
+
+In conclusion, this study transformed an intermediate of the branched violacein biosynthetic pathway into a dual-color biosensing reporter. The PV-derived dual-color signals had excellent biosensing properties and showed great potential in developing whole-cell biosensors toward pollutants such as toxic Pb(II). Colored signals read directly by the naked eye enabled a PV-based biosensor, a potential on-site detection method. The sensitivity and selectivity of bacterial biosensors are expected to be improved by optimization of genetic circuits and molecular evolution of metalloregulator PbrR in future studies.
+
+The original contributions presented in the study are included in the article/
+
+C-yH, N-xZ, and HL designed the experimental protocol. D-lZ and C-yH drafted the manuscript. D-lZ, YG, B-cM, M-qL, C-xG, Y-qL, and H-jW carried out most of the study. D-lZ, YG, and B-cM analyzed the data. All authors contributed to the article and approved the submitted version.
+
+This work was supported by the National Natural Science Foundation of China (82073517), the Natural Science Foundation of Guangdong Province (2021A1515012472 and 2023A1515011184), the Science and Technology Program of Shenzhen (KCXFZ20201221173602007), Shenzhen Key Medical Discipline Construction Fund (SZXK068), and Shenzhen Fund for Guangdong Provincial High-level Clinical Key Specialties (SZGSP015).
+
+The authors declare that the research was conducted in the absence of any commercial or financial relationships that could be construed as a potential conflict of interest.
+
+All claims expressed in this article are solely those of the authors and do not necessarily represent those of their affiliated organizations, or those of the publisher, the editors and the reviewers. Any product that may be evaluated in this article, or claim that may be made by its manufacturer, is not guaranteed or endorsed by the publisher.

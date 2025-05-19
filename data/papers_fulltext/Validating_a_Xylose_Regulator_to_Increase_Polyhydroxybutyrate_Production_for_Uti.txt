@@ -1,0 +1,45 @@
+As a bio-based, bio-degradable polymer, polyhydroxybutyrate (PHB) is a promising alternative to petrochemical-based plastics [
+
+As the xylose operon in bacteria has
+
+The bacteria and plasmids used in this study are listed in
+
+For comparing the transcription level of genes related to xylose metabolism,
+
+PHB production was determined using gas chromatography and other methods as described in previous studies, with slight modifications [
+
+The lignocellulosic biomass hydrolysate used in this study is a saccharomate® derived from
+
+For analysis of glucose and xylose, culture samples were centrifuged at 10,000 ×
+
+High-performance liquid chromatography on a PerkinElmer system equipped with a refractive index detector (Waltham, USA) and an Aminex HPX-87H column (300 × 7.8 mm internal diameter) was used to analyze the concentration of various carbon sources. A mobile phase of 0.008 N H
+
+To compare XylR amounts between various
+
+To prefix the cell specimens, 1 ml of each culture sample was collected, centrifuged, and mixed with Karnovsky's fixative solution containing 2% formaldehyde. The samples were then fixed with 1% osmium tetroxide in 0.05 M sodium cacodylate buffer and dehydrated in ethanol gradually (v/v) (30, 50, 70, 80, 90, and 100%). The transition step was performed using propylene. The samples were settled in different ratios of propylene oxide and Spurr's resin (v/v) (1:1 and 1:2); 100% Spurr's resin at 70°C in a dry oven was used to solidify the samples for ultramicrotome sectioning. The specimens were placed on a grid and observed under a transmission electron microscopy (TEM), with an accelerating voltage of 80 kV. TEM images of the cells and PHB granules were obtained at ×15k, ×25k, and ×40k magnification.
+
+As
+
+In contrast, the highest PHB accumulation (1.14 ± 0.09 g/l) was achieved for HJ020 when incubated in a 1:1 mixture of glucose and xylose, with a DCW of 2.11 ± 0.11 g/l. The higher the ratio of xylose at 1% of the total carbon source concentration, the lower the cell growth and PHB accumulation in both control strain and HJ020, suggesting that
+
+First, DCW and PHB accumulation of HJ020 were confirmed at concentrations of 1–6% of glucose and xylose mixture (1:1). At 1% sugar mixture, the DCW of HJ020 was 1.82 g/l, and PHB yield (1.33 g/l) of 73.22% of the total cell weight was obtained. There was no marked change in cell growth and PHB production even though the concentration of carbon sources increased (2~6%). As shown in the
+
+For optimization of the nitrogen source concentration, the cell growth and PHB production of
+
+IPTG concentration was optimized at 1% sugar mixture and 0.1% yeast extract to control the optimal expression of
+
+Under optimized conditions, time-dependent cell growth, PHB accumulation, and sugar mixture consumption of
+
+To confirm the effect of
+
+To evaluate the transcription level of
+
+To verify if the overexpression of
+
+As expected, BL21 (DE3) showed increased PHB production by overexpression of
+
+We found that
+
+To verify the universality of
+
+Supplementary data for this paper are available on-line only at

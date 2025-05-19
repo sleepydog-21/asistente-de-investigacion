@@ -1,0 +1,71 @@
+Proteases produced by bacteria exhibit toxicity by degrading host proteins at the site of infection and by disrupting the host signaling system (Miyoshi and Shinoda
+
+
+
+The potential virulence factor termed as VvsA, a serine protease, has been reported in
+
+In recent times, cell-free protein synthesis systems have emerged as a powerful technology platform for the rapid, efficient, and cost-effective analyses of actions of proteins (Schwarz et al.
+
+This study aims to investigate the role of VvsB in regulating the functionality and activity of VvsA, a 45 kDa chymotrypsin-like alkaline serine protease, in
+
+
+
+The rapid translation system (RTS100
+
+Primers used in this study.
+
+Underlined: Overlapping region
+
+Bold: The restriction enyme site on the vector multiple-cloning site (MCS)
+
+Next, PCR amplified
+
+The synthesis of serine protease was done using circular DNA (0.5 µg) expressed in
+
+For purification of the RTS product, Capturem His-tagged Purification Mini prep Kit (TaKaRa, Japan) was used. 200 µl of the reaction mixture was purified according to the manufacture's protocol.
+
+Azocasein at a concentration of 5 mg/ml served as the substrate for assessing protease activity. The protease activities of RTS products were evaluated using the procedure outlined by Miyoshi et al. (
+
+The
+
+Each RTS products or His-tag purified protein solution (15 µl) were suspended in SDS sample buffer (10% SDS, 70% glycerol, 0.05% bromophenol blue, 0.5 M Tris-HCl, 5% 2-mercaptoethanol) and the sample was heated at 100ºC for 5 min. 20 µl of this sample was then subjected to electrophoresis. After SDS-PAGE, the proteins were stained with Coomassie brilliant blue R-250.
+
+The proteins separated by SDS-PAGE were transferred to a PVDF membrane (BIO-RAD, USA) and stained with Amido Black T. N-terminal amino acid sequence was determined using an Applied Biosystem Precise Sequencer (Applied Biosystem, Foster City, CA, U.S.A.)
+
+The protein synthesis was performed using circular
+
+Functional elements of cloning map. It shown the
+
+SDS-PAGE followed by Coomassie brilliant blue staining of the gel. The protein produced by RTS system at 25°C, 6hr using the pIVEX2.4d vector and the hybrid (
+
+We employed the traditional approach of protein expression within the bacterial system to investigate the function of VvsB. In Fig.
+
+Subsequently, protein fractions were extracted from these recombinants, followed by the measurement of proteolytic activity. While the periplasmic protein fraction exhibited no activity (data not shown), the cytoplasmic fraction displayed proteolytic activity (Fig.
+
+The proteolytic activity of proteins produced from
+
+We found that the recombinants including O/P and SD derive from
+
+Next, we tried to measure the protease activity of protein produced from
+
+The effect of VvsB on the proteolytic activity of proteins produced from
+
+Next, we investigated the impact of purified VvsB on the proteolytic activity of VvsA-containing culture supernatant from
+
+The effect of the proteolytic activity in culture supernatant added VvsB. Azocasein (5 mg/ml) was used as a substrate for the measurement of protease activity. One protease unit (PU) was defined as the amount of enzyme hydrolyzing 1 µg of azocasein in 1 min. The culture supernatant was collected at early stationary phase at 30°C. The
+
+The
+
+In general, a chaperone is a protein that aids in the proper folding of an immature protein to become functionally active. Once the correct folding is achieved, the chaperone protein dissociates from the mature protein (Eder et al.
+
+Since VvsA and VvsB have signal peptides, it is likely that these two proteins associate in the periplasm. However, the direct interaction between VvsA and VvsB in periplasm has not been analyzed yet. In contrast to general notion, we speculate that the interaction between VvsB and mature VvsA results into suppression in the activity of VvsA. In support of this speculation, it was found that VvsB can bind to the active form of VvsA and suppress its activity (Fig.
+
+In Fig.
+
+VvsA is a bacterial serine protease believed to primarily degrade host-derived proteins surrounding the bacteria into an ingestible form for nutrient acquisition (Lee et al.
+
+Based on our findings, we propose that VvsA may undergo secretion into the extracellular environment in an intermediate state, retaining its C-terminal region. This intermediate form is then likely activated into its functional, active state with the assistance of VvsB. However, further research is necessary to thoroughly understand the precise mechanisms governing this process.
+
+Based on the results obtained, the role of VvsB in the activation of VvsA can be elucidated by the following hypothesis (Fig.
+
+Schematic representation for the process of formation of active VvsA and action of VvsB in the process

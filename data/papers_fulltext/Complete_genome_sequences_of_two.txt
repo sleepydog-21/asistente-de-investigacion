@@ -1,0 +1,61 @@
+Colistin is one of the last-resort antibiotics used in the treatment of infections caused by multidrug or carbapenem resistant Gram-negative bacteria. In 2016, the first mobile colistin resistance gene (
+
+Little is yet known about the genomic characteristics of
+
+The two
+
+Primers used in this study for PCR screening of mobile colistin resistance (
+
+The broth microdilution assay (BMD) was performed to determine the minimum inhibitory concentration (MIC) of various antimicrobials (
+
+Minimum inhibitory concentrations (MICs) for
+
+A mating-out assay was completed at 37°C using the two
+
+Plasmid analysis of the wild strains and transconjugants was performed by alkaline lysis method and PCR-based replicon typing (PBRT) (
+
+The Qiagen Genomic-tip 20/G kit (Qiagen) was used to extract the total genomic DNA following the manufacturer’s recommendations. For Illumina sequencing by MiniSeq, a Nextera XT Library Prep Kit and a Nextera XT Index Kit was used to prepare the DNA library (Illumina, San Diego, CA, United States) according to the manufacturer’s instructions. For Nanopore sequencing by GridION, construction of the library was performed by the SQK-RBK004 Rapid Barcoding Kit (Oxford Nanopore Technologies, Oxford, United Kingdom). The library was loaded onto a FLO-MIN106 R9.4.1 flow cell and sequenced with the GridION device (Oxford Nanopore Technologies, Oxford, United Kingdom). A hybrid assembly of MiniSeq short reads and Nanopore long reads was achieved by Unicycler (
+
+Raw Fastq files of the sequenced two
+
+The complete genome sequence of
+
+Two polymyxin resistant
+
+Features of chromosome and the plasmids of
+
+gad, glutamate decarboxylase; lpfA, long polar fimbriae; iroN, enterobactin siderophore receptor protein; iss, increased serum survival; QRDR, quinolone resistance-determining region; ND, not determined; cba, colicin B; cma, colicin M; cvaC, microcin C; etsC, putative type I secretion outer membrane protein; hlyF, hemolysin F; iha, adherence protein; iroN, Enterobactin siderophore receptor protein; iss, increased serum survival; iucC, aerobactin synthetase; iutA, ferric aerobactin receptor; mchB, microcin H47 part of colicin H; mchC, MchC protein; mchF, ABC transporter protein MchF; ompT, outer membrane protease (protein protease 7); sitA, ron transport protein; terC, tellurium ion resistance protein; traT, outer membrane protein complement resistance; tsh, temperature-sensitive hemagglutinin; air, enteroaggregative immunoglobulin repeat protein; chuA, outer membrane hemin receptor; eilA, Salmonella HilA homolog; ire, siderophore receptor; papA_F20, major pilin subunit F20; papC, outer membrane usher P fimbriae.
+
+We obtained high-quality assemblies by combining the Illumina MiniSeq short reads and the Oxford Nanopore long reads adequately for completing the genomes and the plasmids contained in both isolates (
+
+The
+
+Schematic representation of IncP plasmids carrying
+
+pAMS-73-MCR1 was 33,304 bp IncX4 type (
+
+Schematic representation of IncX4 plasmids carrying
+
+Regarding the genetic environment of
+
+Linear comparison of the genetic environment of
+
+Numerous virulence factors (VFs) have been detected chromosomally or on different plasmids contained within the two isolates, explaining its pathogenicity and virulence (
+
+Two different multireplicon virulence plasmids (∼117 kb IncFII: IncFIB pAMS-51-Vr and ∼226 kb IncFIA: IncFIB: IncFIC: IncFII(K) pAMS-73-Vr) carrying several virulence genes were identified from the two isolates. Both the plasmids carried the
+
+Schematic representation of the multireplicon virulence plasmids identified from the genome sequences of
+
+Phylogenetic analysis was performed by comparing the genomes of our isolates
+
+Phylogenetic analysis of ST1011
+
+Phylogenetic analysis of ST744
+
+A recent study illustrated that the
+
+To the best of our knowledge, this study presented the first complete genomic sequence of
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/
+
+AS and TaS designed and directed the study. AS performed identification of bacteria, screening and identifying of resistance genes, conjugation, plasmid analysis and typing, analyzed the WGS data, and drafted the manuscript. HR contributed to the genome analysis, data curation, and participated to the writing of the manuscript. SE carried out the collection of samples and bacterial isolation. HN, CJ, and RE-D conceived of the study, made the data analysis, and revised the manuscript. ToS made the data analysis. TaS participated in the discussion on the study design and finalized the manuscript. LY and JH participated in genomic DNA extraction, short-read library preparation, and sequencing. LY carried out long-read library preparation and sequencing, performed hybrid assembly of MiniSeq short reads and Nanopore long reads, and contributed to the genome analysis and performed DDBJ nucleotide sequence submission. MS and LY participated in the discussion on the study and revised the manuscript. All authors read and approved the final manuscript.

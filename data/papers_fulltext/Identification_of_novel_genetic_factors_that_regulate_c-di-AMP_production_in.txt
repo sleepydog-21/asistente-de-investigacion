@@ -1,0 +1,75 @@
+Secondary messengers are key elements required for an efficient adaptation of bacteria to various environmental conditions, such as soil, plant, animal, or human host environments (
+
+Given the importance of c-di-AMP for viability, growth, and survival under different growth conditions, it is vital for bacteria to tightly regulate the cellular concentration of c-di-AMP. The two main factors that regulate c-di-AMP levels in
+
+Besides GdpP and DacA, not many other factors are known to control c-di-AMP levels in
+
+To identify novel factors regulating cellular c-di-AMP levels, a rapid real-time method for the detection of cellular c-di-AMP levels is required. Currently used methods for the quantification of c-di-AMP in
+
+Here, we constructed and characterized a riboswitch-based c-di-AMP biosensor for
+
+To establish a rapid method for the detection of cellular c-di-AMP levels in live
+
+Characterization of the c-di-AMP biosensor plasmids pCN38-
+
+To further characterize the
+
+To identify novel factors regulating cellular c-di-AMP levels in
+
+Several
+
+Transposon insertion site information of 32
+
+To assess if the decrease in fluorescence using the biosensor is indeed due to an increase in c-di-AMP production, cellular c-di-AMP levels were measured for the WT TM283 strain, the
+
+Increased c-di-AMP amounts are detected in the culture supernatant of several
+
+Since a clear increase in c-di-AMP levels in the supernatant fraction was observed for these five strains following growth in the CDM, additional ELISAs were performed to re-evaluate the cellular c-di-AMP levels using cell extracts prepared from logarithmic as well as stationary phase cultures following growth in CDM. All five strains showed statistically significant and a greater than twofold increase in cellular c-di-AMP levels, either in the log phase (strain
+
+Increased c-di-AMP amounts are detected in cell extracts of several
+
+After
+
+Growth and oxacillin resistance comparison between WT LAC* and the LAC*
+
+In the previous work, it has been shown that
+
+To investigate how the Tn insertion upstream of the
+
+The transposon insertion in LAC*
+
+We then aim to investigate the mechanism of c-di-AMP production regulation by RNR. The conversion of ribonucleotides to deoxyribonucleotides by RNR enzymes impacts many cellular and metabolic processes in bacteria. Notably, in
+
+Comparison of GdpP, DacA, YbbR, and PstA protein levels between WT and Tn::
+
+One of the factors that regulate the activity of c-di-AMP-metabolizing enzyme is the stringent response molecule (p)ppGpp, which inhibits GdpP activity at least
+
+The increase in c-di-AMP in the
+
+Here, we show that a
+
+To conclude, in this study, an efficient high-throughput method for screening for factors that regulate c-di-AMP production in
+
+The strains and plasmids used in the study are listed in Table S1.
+
+The primers used in this study for plasmid or strain construction are listed in Table S2. Plasmid pCN34e (strain ANG4060) was produced by replacing the
+
+The fluorescence of
+
+For FACS analysis, 5-mL cultures of the indicated WT,
+
+For microscopy analysis, overnight cultures of the
+
+To identify
+
+A competitive ELISA was used to determine the c-di-AMP levels for Tn mutant strains that gave relative normalized fluorescence values of below 75% compared to the WT TM283 pCN38-
+
+For measuring extracellular c-di-AMP levels, single colonies of the indicated bacterial strains were used to inoculate 5-mL CDM or CDM lacking NH
+
+Competitive ELISAs to determine c-di-AMP levels in the cell extracts or supernatant fraction samples were performed as described previously (
+
+The transposon insertion sites were mapped by arbitrary PCR (
+
+RNA was isolated from
+
+Western blot analysis was performed to compare DacA, YbbR, GdpP, and DacA protein levels and to control the L6 ribosomal protein levels in WT LAC* and the LAC* Tn:

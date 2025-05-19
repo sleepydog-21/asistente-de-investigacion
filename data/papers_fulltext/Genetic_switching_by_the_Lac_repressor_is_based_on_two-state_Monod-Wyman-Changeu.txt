@@ -1,0 +1,87 @@
+Cellular signaling and metabolic response are often under control of allosteric regulation, in which a ligand binding event on one site causes effects on a different location in a protein to influence function and/or a secondary ligand binding event. Two classical models are frequently used to explain the mode-of-action of allosteric proteins: the Monod–Wyman–Changeux (MWC) model (
+
+An early example of an allosteric regulatory protein is the Lactose (Lac) repressor, which controls the lac operon. Even though the Lac repressor has been studied extensively, experiments to distinguish between the various allosteric models have remained inconclusive (
+
+Essentially, Lac repressor regulates the switch between consumption of lactose or other sugars in
+
+Several decades of extensive biochemical and structural studies yielded considerable insight into the architecture and various conformations of the tetrameric Lac repressor (reviewed in refs.
+
+When the Lac repressor or the isolated dimeric HP binds with its HTH motif to the major groove of operator DNA, the hinge region between the headpiece and the core folds into an alpha helix. The hinge helix protrudes into the minor groove and introduces a kink in the operator as the Leu56 sidechain intercalates between the central C:G base pair step of the operator (
+
+For the allostery of the Lac repressor, there are at least four relevant states: i) free, ii) inducer-bound, iii) operator-bound, and iv) ternary complex. For two of them (inducer- and operator-bound), detailed structural information is available from crystallography; the other two have so far resisted detailed structural analysis. Coordinates are available for the free core of the Lac repressor, but without its DNA binding domain, and for the key-regulatory ternary complex, in which the Lac repressor is bound to operator DNA as well as inducer, detailed structural information is fully lacking even though the existence of such ternary complex was established by kinetic experiments (
+
+In addition, results from various studies on the free form of the Lac repressor are inconclusive. For instance, optical and chemical modification studies have demonstrated substantial conformational changes that occur in the core region upon IPTG binding (
+
+Advances in methodology and new labeling techniques have considerably extended the size limit of NMR spectroscopy over the years (
+
+The NMR spectra of the core domain without DNA-binding domain and that of the intact dimeric Lac repressor show that both proteins are well structured. To monitor the behavior of their backbone amides,
+
+NMR analysis of the apo form of the Lac repressor dimer. (
+
+In isolated Lac headpiece, the hinge region is fully unstructured (
+
+Remarkably, chemical shift differences between the isolated core domain and the intact dimer containing the headpiece are also seen for residues Asp278, Ser279, and Cys281 in the C-subdomain of the dimerization interface. This implies that long-range (over 40 Å) interactions exist between the C-subdomain and the N-terminal end of the N-subdomain where the headpiece is attached, reflecting an internal link between remote parts of the Lac repressor.
+
+To monitor structural changes and conformational rearrangements associated with specific DNA binding, we compared the NMR spectra of the free Lac repressor dimer free and when bound to its 22-base-pair symmetrical operator (SymL). As expected, the largest effects are observed in the HP region (
+
+DNA binding to the Lac repressor dimer. (
+
+A closer look reveals that the spectral changes induced by operator binding to the headpiece propagate all the way through the dimer to residues Ala75 and Asp274 in the inducer binding site using several residues located at the dimerization interface that have been implicated in allosteric signaling before, i.e. Asp88, Ser93, Val96 and Met98 (
+
+For NMR titrations with the inducer IPTG and the anti-inducer ONPF, we used the dimer core instead of the intact Lac repressor because of the instability of free Lac repressor (even of the K84M mutant), which would lead to partial degradation during extended measurements. In particular, the hinge helix is prone to cleavage (
+
+Lac repressor core dimer binding to inducer IPTG or anti-inducer ONPF. (
+
+Anti-inducers that inhibit induction, such as orthonitrophenyl-β-D-fucoside (ONPF), compete with IPTG in binding to the Lac monomer inducer binding site (
+
+The formation of a ternary complex by addition of IPTG to the dimeric Lac repressor–SymL complex is associated with a significant structural perturbation as reflected in large chemical shift changes (
+
+Ternary complex of the Lac repressor dimer. (
+
+Quite to our surprise, we found no substantial spectral changes in the HTH domain upon IPTG addition to the protein–DNA complex. The absence of these for all residues between Thr5 and Tyr47 indicates that the HTH domain stays bound to operator DNA similarly as in the Lac repressor–DNA complex at NMR concentrations (0.1 mM), which is consistent with the binding constant of the Lac repressor for the operator in the presence of IPTG (K
+
+Finally, we compared the chemical shifts of the free Lac repressor, Lac repressor bound to its operator and the Lac repressor in the ternary complex for all residues that we could assign. A striking pattern was observed for the amide
+
+Comparison of three conformations of the Lac repressor dimer and proposed model for allosteric regulation of the Lac repressor. (
+
+In this study, major functional states of the Lac repressor could be characterized under comparable conditions using NMR. By monitoring the chemical shift behavior upon inducer binding to either the core dimer domain or to the Lac repressor–operator complex, residues that are critical for inducer signal transfer in the system were identified (
+
+With current NMR data, we managed to resolve a persistent discrepancy about the nature of the ligand-free form of the Lac repressor. The free Lac repressor shows to be a highly dynamic molecule, able to adopt a multitude of conformations. This is not only the case for the headpiece, which we show to be positionally disordered vs. the dimeric core and where a flexible hinge region has some alpha-helical propensity, but notably also for the core N-subdomain domain, that—even in the free state—exists in an equilibrium between DNA-bound and inducer-bound conformations. Whereas early T-jump experiments showed already that a rapid conformational transition between two states takes place in the Lac repressor in the absence of any inducers (
+
+Recently, a quite different model describing the Lac repressor allostery has been proposed (
+
+Even though expression repression and activation steps are relatively well understood, there is still no consensus on how the signal from inducer binding is transferred from the core to the headpiece in the Lac repressor to cause a decrease in DNA binding affinity. Early on, it has been argued that physical pulling of the hinge helix from the minor groove of the operator as a result of the reorientation of the N-subdomains reduces the affinity of the repressor for the operator (
+
+Even though our data agree well with a two-state MWC model, in a large multidomain protein binding multiple ligands, additional structural states may also contribute to its allosteric regulation (
+
+Recently Changeux summarized the characteristics of a MWC model for allostery (
+
+the protein is an oligomer of symmetrically organized subunits,
+
+the oligomers exist in a limited number of conformations in thermal equilibrium without added ligands,
+
+binding of the ligands (DNA or inducer for Lac) would shift the equilibrium by binding the conformation for which they have highest affinity, and
+
+the conformational transitions take place in an all-or-nothing concerted fashion for all subunits and with conservation of symmetry.
+
+This is precisely what we observe for the Lac repressor dimer, for which at least three processes in its allosteric mechanism can be distinguished, namely the homotropic cooperative binding of IPTG, the heterotropic coupling of the operator and IPTG binding and the cooperative folding of the hinge helices. The NMR spectra of the different Lac repressor states reveal clear allosteric effects: the twofold symmetry of the dimers in different states, the existence of two distinct conformations (operator bound and inducer bound), and the maintenance of symmetry of the constituent monomers in allosteric transitions. In the free state, Lac repressor shows a fast equilibrium between the two conformational states, and binding either operator or inducer shifts the equilibrium to one or the other state. This all fits the MWC model.
+
+Plasmids expressing the K84M mutant Lac repressor dimer lac333K84M (residues 1 to 333) or Lac core dimer lac60-333K84M (residues 60 to 333), both including an N-terminal hexahistidine tag, were created as before (
+
+IPTG-free Lac repressor dimer was obtained by growing host cells without induction, whereas expression of [
+
+HPLC purified palindromic 22 bp (5′-GAATTGTGAGCGCTCACAATTC-3′)
+
+DNA bending assays were performed essentially as described in Spronk et al. (
+
+The NMR sample used for resonance assignments of the free core dimer contained ~0.6 mM [
+
+All NMR spectra were acquired on a Bruker AVANCE 900 MHz spectrometer equipped with a TCI HCN cryoprobe. For the backbone assignment of the [
+
+All NMR data were processed using NMRPipe (
+
+For the backbone amides of the DNA-binding domain in the Lac dimer,
+
+Appendix 01 (PDF)
+
+Click here for additional data file.

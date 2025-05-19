@@ -1,0 +1,79 @@
+Despite the essential role polysaccharide capsules play in the resilience of bacteria to hostile environments, many aspects of their biogenesis are still poorly understood. One aspect concerns the export of capsular polysaccharides carrying a lipid anchor, for which even the proteins mediating the process are unknown. Here, we propose that one of the most widespread families of β-barrel proteins in the bacterial outer membrane is a key agent of this process and show, by biophysical simulation, that it allows the exit of lipid anchors into the membrane through a lateral opening. More generally, our model illuminates the lateral exit mechanisms proposed for the export of hydrophobic macromolecules into the bacterial outer membrane.
+
+The bacterial capsule is a cellular structure that sheathes many bacteria, both gram positive and gram negative (
+
+In
+
+Two of the four proteins encoded in this part of the operon, GfcB and GfcC, are of known structure but unknown activity, while the remaining two, GfcA and GfcD, are entirely uncharacterized at this point. During a recent study, we described a new class of outer membrane β-barrels composed of more than one barrel domain and, surprisingly, came across GfcD and its homologs, which formed the largest cluster of proteins in our dataset (
+
+Our study was published shortly before the AlphaFold protein structure prediction method became available, so one of the first proteins we submitted to the new server was GfcD. As anticipated by us, GfcD was predicted as a multibarrel, with an N-terminal 12-stranded domain and a C-terminal 13-stranded one, connected by a periplasmic middle domain. The structure of the C-terminal barrel caught our attention because it showed a 14-stranded topology missing the last strand, resulting in a lateral aperture between the first (β1) and last (β13) strands. This aperture immediately called to mind other proteins of the outer membrane, for example LptD, PagP, and FadL, which have been proposed to release hydrophobic molecules into the membrane through a lateral gate (
+
+These observations led us to consider that GfcD might be the pore responsible for the export of lipid-anchored exopolysaccharides in group 4 capsules. To explore the plausibility of this inference, we used molecular dynamics simulations, in analogy to the studies on LptD. Specifically, we simulated the full, mature GfcD protein embedded in an
+
+No experimental structures of GfcD have been determined, so we employed the model from the AlphaFold2.0 protein structure database (
+
+All simulations were performed in GROMACS 2020.6 (
+
+We ran three simulations for the uncomplexed form of GfcD and four independent simulations for the complexed form, one of these without the C-terminal plug. In each case, we performed 30.375 ns of equilibration divided into six consecutive steps, where the system was brought to temperature and atomic restraints were gradually released (summarized in
+
+Calculation of angles, root-mean-square deviation (RMSD), and fluctuations were performed with GROMACS. The lipid rotation angle was monitored with a vector connecting the two phosphorus atoms in the lipid A head (PA, PB) in relation to the
+
+We estimated the insertion of lipid A into the membrane with VMD (
+
+Other analysis scripts were written in Python using MDAnalysis (
+
+Molecular graphics have been produced in Pymol, Protein Imager (
+
+We performed sequence analyses in the MPI Bioinformatics Toolkit (
+
+In the absence of experimental GfcD structures, we used an AlphaFold model for biophysical simulations of the protein. This model is composed of two membrane-embedded β-barrels, separated by a periplasmic domain, in close agreement with a previous computational study based on sequence comparisons and coevolution analysis (
+
+View of GfcD, showing its three domains: GfcD-N (
+
+To test the stability of the predicted GfcD structure, we inserted the full, mature protein into a model outer membrane and performed three 1-
+
+The lateral aperture of GfcD is stable in the uncomplexed form. (
+
+To explore whether the lateral gate can allow the exit of lipid-anchored exopolysaccharides into the outer membrane, we introduced lipid A into the channel of GfcD-C and performed a new set of 1-
+
+The lateral aperture of GfcD is stable in the simulations with lipid A in the GfcD-C channel. (
+
+Despite its large size, lipid A can be fully accommodated in the GfcD-C barrel even with the C-terminal extension present in the channel, suggesting that if this acts as a plug, it does not obstruct the access of lipid A. To test this, we removed the extension (residues ASP674–GLN698) and ran a further 1-
+
+To further characterize the behavior of lipid A in the protein channel, we monitored the tilting angle of the molecule by tracking the orientation of its headgroup throughout the simulation time, the lipid tails being too flexible to be used as indicators. We considered the tilting angle to be relevant for the export process because the gate in GfcD-C is angled relative to the channel, with an inclination set by the shear number of the β-strands in the barrel. While the orientation adopted by lipid A is different in each independent simulation, with values between 112.5° and 180° (
+
+Lipid A spontaneously tilts inside the GfcD-C channel at an angle between 112.5° and 180°. (
+
+Although we simulated lipid A without any biasing force, all our simulations show at least partial egress of its lipid tails toward the membrane (
+
+Lipid A exits the GfcD-C channel in all our simulations. The top left image shows the time evolution of the proportion to which the aliphatic tails of lipid A penetrate the membrane. The other four images show snapshots of the initial and final configurations of GfcD, with lipid A highlighted in green to visualize the egress of its lipid tails. The initial snapshot is framed in black, and the three final snapshots are framed in the color of their corresponding time evolution graph.
+
+
+
+
+
+
+
+In order to establish whether any parts of the channel were required to guide lipid A toward the gate in addition to the residues lining the gate itself, we performed a contact-based analysis of the interactions between lipid A and GfcD residues. We monitored these contacts for each trajectory frame of all three replicas and could thus identify specific residues interacting consistently with lipid A (
+
+The contacts between GfcD and lipid A characterize the parts of GfcD-C that are directly involved in lipid A export. (
+
+In this study, we explored one of the mechanisms by which lipid-anchored CPSs might be exported in bacteria with an outer membrane. We found that the GfcD family of proteins provides an attractive candidate for performing this function. GfcD homologs form the largest group of proteins with more than one barrel domain in the outer membrane of gram-negative bacteria and are present widely in species of this group, tracking the widespread occurrence of exopolysaccharide capsules (
+
+In our analyses, the lateral gate in the C-terminal barrel of GfcD (GfcD-C) proved to be consistently predicted across the full range of homologs, from nearly identical ones to ones that had diverged into the “midnight zone” of homology below 20% sequence identity (
+
+The middle domain of GfcD, GfcD-M, which is located at the periplasmic entrance of GfcD-C, could be considered a regulator of this exit process. The C-terminal plug of GfcD-C could also be part of a gating mechanism, acting synergistically with GfcD-M to regulate access to the GfcD-C lumen, but we found that this plug does not impede the positioning of the lipid anchor inside the GfcD-C channel and that its removal does not lead to significant changes in the lateral exit of the lipid tails. Its possible role in regulating exopolysaccharide exit thus remains to be elucidated.
+
+We used lipid A in our simulations because it is the most frequent membrane anchor of surface polysaccharides and a proven anchor of group 4 exopolysaccharides, but our model does not exclude other lipid-derived molecules as anchors. Rather, as we observe, lipid A makes no specific contacts to the GfcD-C channel (
+
+Concerning the molecular mechanism underlying the export process, we hypothesize that the saccharide moieties of the exopolysaccharides traverse the channel first, and the entropy gain resulting from their hydration provides a strong pulling force that drags the whole molecule toward the environment. Once the exopolysaccharide has gone through the channel and lipid A is inserted in GfcD-C, it spontaneously tilts, allowing its hydrophobic tails to exit the channel through the lateral gate into the membrane, in a process similar to that envisaged for LPS export through LptD (
+
+Overall, our study provides a viable hypothesis for the biological role of GfcD homologs in the export of lipid-anchored exopolysaccharides, with potentially broader implications for the lateral-exit model of hydrophobic macromolecule export into the bacterial outer membrane through lateral gates in outer membrane β-barrels. This study provides a functional annotation for one of the most widespread protein families of the bacterial outer membrane.
+
+This work was supported by institutional funds from the
+
+C.F. acknowledges Martin Oettel, Raffaello Potestio, and Thomas Tarenzi for helpful and insightful discussions. C.F. is grateful to the Universities of Trento and Tübingen for the scholarship awarded for participation in the double degree program between the two universities.
+
+C.F. set up and performed all molecular dynamics simulations, analyzed data, generated the figures, and co-wrote the article; M.M.-G. performed the bioinformatics analyses, advised the data analysis, and co-wrote the article; F.M. advised the molecular dynamics simulations and data analysis and co-wrote the article; and A.N.L. conceptualized the project, guided the bioinformatic analyses, provided the funds for the project, and co-wrote the article. All authors participated in generating the final form of the article.
+
+The authors declare no competing interests.

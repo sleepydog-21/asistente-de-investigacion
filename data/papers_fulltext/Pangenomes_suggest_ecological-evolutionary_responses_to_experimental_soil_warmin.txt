@@ -1,0 +1,99 @@
+Humanity faces an existential threat of accelerating soil loss due to habitat degradation and climate change (
+
+Rising soil temperatures due to climate change are altering microbial global nutrient cycles in complex ways (
+
+Long-term field warming experiments allow us to gain insights into what soils could look like in a warming world. For over three decades, temperate forest soils at the Harvard Forest Long-Term Ecological Research (LTER) site have been continuously heated
+
+Both ecological and evolutionary mechanisms shape how environmental microbes respond to climate change, but lineage-specific evolutionary responses are often overshadowed by community-level ecological responses. Ecological filtering predominantly shapes community assembly across different habitats (
+
+Based on our previous works, ecological filtering in heated plots likely selects for microbes able to degrade more recalcitrant carbon substrates (
+
+We hypothesize that Harvard Forest microbial lineages have evolved adaptive traits related to carbon substrate metabolism and growth efficiency across generations of chronic soil warming. To maximize our ability to identify genomic signatures of adaptation, we used comparative pangenome approaches on collections of closely related bacterial taxa across multiple independent lineages spanning Actinobacteria, Alphaproteobacteria, and Betaproteobacteria. We explored genomic attributes, patterns of functional gene content presence and absence, and codon usage between heated and control genomes to identify putative adaptive traits that have emerged in this system since the onset of the long-term warming experiment.
+
+We isolated bacteria from the Harvard Forest long-term soil warming experiment plots between 2013 and 2020 using a range of enrichment conditions (
+
+We inoculated colonies into 10 mL 10% tryptic soy broth, grew them to stationary phase at 28°C with shaking, and pelleted the cells by centrifugation. We extracted high molecular weight gDNA from cell pellets using either the DNeasy Blood & Tissue Kit (Qiagen, Germantown, MD, USA) or a modified CTAB-lysozyme extraction protocol (
+
+A subset of genomes was sequenced and assembled at the DOE Joint Genome Institute (JGI) (Berkeley, CA, USA) using either PacBio RS (Pacific Biosciences, Menlo Park, CA, USA) or NovaSeq S4 (Illumina, San Diego, CA, USA) (
+
+We prepared ONT MinION sequencing libraries using the Ligation Sequencing Kit SQK-LSK-109 (ONT, Oxford, UK). We multiplexed six to eight genomes per sequencing run using the Native Barcoding Expansion Kit EXP-NBD104 (ONT, Oxford, UK). We skipped the Covaris g-TUBE shearing step to target long fragment DNA. Starting with 1 µg of DNA, we prepped samples with the NEBNext FFPE DNA Repair Mix and NEBNext Ultra II End Repair/dA-Tailing kits (New England Biolabs, Ipswich, MA, USA) and performed DNA cleanup with Ampure XP beads (Beckman Coulter, Pasadena, CA, USA). We pooled approximately 150 ng of each barcoded sample for a final library of 700–1,000 ng, and adapters were ligated to the sample with Blunt/TA ligase (New England Biolabs, Ipswich, MA, USA). The long fragment buffer was used in an extended 10-min incubation at 37°C to enrich for high molecular weight DNA. We primed the flow cell using the Flow Cell Priming Kit (ONT, Oxford, UK), mixed, and loaded approximately 15 fmols of the pooled library, sequencing buffer, and loading beads. Sequencing runs were completed after 72 h, and we ran high-accuracy base calling on the raw fast5 data with the ONT software Guppy v4.5.4 or v6.1.1 (Oxford Nanopore Technologies, 2021).
+
+For all genomes sequenced using ONT MinION, we performed either
+
+We conducted genomic analyses within the anvi’o v8 software ecosystem (
+
+We constructed pangenomes for each clade with the program anvi-pan-genome. Protein comparisons were computed with DIAMOND (
+
+Pangenome characteristics for the given phyla and clades
+
+Phylogenetic relationships were reconstructed from conserved genes. 16S ribosomal RNA (rRNA) genes and single-copy ribosomal protein genes were identified with HMM searches using the command anvi-run-hmms with anvi’o databases Ribosomal_RNA_16S and Bacteria_71. Nucleotide sequences for 16S rRNA genes and 39 concatenated ribosomal protein genes were extracted with the program anvi-get-sequences-for-hmm-hits and aligned with MUSCLE (
+
+We used the program anvi-compute-functional-enrichment-in-pan and anvi-compute-metabolic-enrichment to identify individual GCs, functional annotations, and full metabolic pathway modules differently enriched in heated and control treatment groups (
+
+We used the R package coRdon (
+
+We conducted comparative pangenomic analyses on bacteria isolated from a long-term warming field experiment to test our hypothesis that microbes adapt to local environmental change stressors. All bacterial isolates originated from a multi-decade climate manipulation experiment (
+
+The final data set contained 91 genomes belonging to five clades spanning three phyla, including Actinobacteria
+
+Ribosomal protein gene phylogeny. Tree shows the phylogenetic relationships between all 91 isolates (
+
+Actinobacteria, Alphaproteobacteria, and Betaproteobacteria are all globally dominant soil phyla (
+
+The objective of our study was to identify genomic signatures at the organismal level that may link functional potential to adaptation. We generated high-quality draft genomes according to community standards (
+
+Phylogenetic reconstruction of concatenated single-copy ribosomal protein genes showed five monophyletic clades with varying levels of intra-group relatedness (
+
+To identify adaptive genomic traits associated with long-term soil warming that are shared among the clades, we first determined if broad genome attributes varied by warming treatment. While all genome traits differed significantly between clades, they did not vary by treatment within any of the clades (Kruskal-Wallis rank-sum test on the interaction between clade and treatment followed by
+
+We used comparative pangenomics to determine if genomes from heated treatments harbored different patterns of functional gene content compared to control treatments and whether these differences were consistent between clades. Pangenome structure and composition varied across phyla and between clades, ranging from more open to more closed pangenomes (
+
+Pangenome composition and structure across clades. For each pangenome plot, concentric circles show gene cluster (GC) presence/absence across all genomes. The internal dendrogram orders genomes by gene cluster frequencies. For visualization, singletons were removed before plotting, and core GCs were labeled on each pangenome. Pangenomes are colored by clade, and genomes are colored by warming experiment treatment as shown in the legend. Bar graphs show the number of singleton GCs present in each genome. Finally, donut plots in the upper right panel illustrate pangenome structure or the portion of GCs belonging to the core, accessory, and singleton gene pools for each pangenome. See
+
+Patterns of gene variation across lineages evolve through various mechanisms that depend on both population parameters and ecological interactions (
+
+We did not observe individual GCs strongly associating with heated or control treatments (
+
+We found a few examples of functional annotations with strong support for differential associations between heated and control genomes.
+
+Following correction for multiple comparisons, nearly all of the functional annotations associated with heated or control genomes lack robust statistical support and may represent false positives (
+
+GCs with functional orthologs related to carbon, nitrogen, DNA metabolism, gene regulation, and defense and stress mechanisms were differentially associated with heated and control genomes (uncorrected
+
+Pathways associated with natural product biosynthesis and competition varied across warming treatments for the Proteobacteria clades.
+
+Given that differences in available carbon are the major environmental determinant driving ecological differentiation between heated and control soils, next we identified genes functionally annotated as carbohydrate-active enzymes (
+
+While warming treatment did not explain variation in the total number or composition of CAZyme annotations across genomes, we observed individual CAZyme classes with different associations across heated and control genomes (uncorrected
+
+CUB is an estimate of the degree to which an organism demonstrates non-random, or preferential, use of synonymous codons in genes. Codon bias relates to microbial growth and physiology through mechanisms involving protein translation accuracy and/or efficiency (
+
+Different measurements of CUB offer various insights into codon usage across genes and gene expression levels across genomes (
+
+ENC calculates the frequencies of different codons in a gene sequence and ranges from 20 (extreme bias, only a single codon is used for each amino acid) to 61 (no bias, all synonymous codons are equally used). Genome-wide gene-level ENC distributions differed between heated and control genomes for all clades (Wilcox rank sum test,
+
+MILC calculates codon usage of a sequence as the distance against the expected distribution of a reference gene set. When determined against a set of highly expressed genes, like ribosomal proteins, higher values indicate more dissimilar patterns of codon usage. Genome-wide gene-level MILC distributions differed between heated and control genomes for all clades (Wilcox rank sum test,
+
+While gene-level CUB metrics show genome-wide distribution patterns, we also calculated Cliff’s delta (a non-parametric effect size estimate) to illustrate the magnitude of differences between heated and control genomes and across gene pools (
+
+CUB effect size between heated and control. Plots illustrate Cliff’s delta, or the effect size, of global codon bias measurements between heated and control genomes for each pangenome clade and across all genes (All), core genes (Core), and accessory genes (Accessory). Cliff’s delta ranges from −1 to +1, with zero (dashed line) indicating full overlap between heated and control distributions. Positive values mean heated genomes have larger CUB distributions compared to control, and negative values mean control genomes have larger CUB distributions compared to heated. Circles show the Cliff’s delta estimate, and error bars indicate 95% confidence intervals. Core genes belong to gene clusters that are present in all genomes within a pangenome clade. Accessory genes belong to gene clusters that are shared by at least two, but not all genomes within a pangenome clade. Panel A shows Cliff’s delta for ENC (
+
+Codon usage summarized for each genome facilitates comparing between treatment and gene pools. Median ENC and MILC varied significantly across gene pools for all clades (ANOVA,
+
+Genomic traits like ribosomal operon copy number often serve as proxies for traits that are more challenging to measure, like growth rate or carbon use efficiency. We asked if there was a relationship between global codon bias and 16S rRNA gene copy number, since both traits are ultimately connected to growth and physiology. It is well documented that small subunit ribosomal (SSU) rRNA copy number reflects microbial growth traits and ecological strategies (
+
+In general, genomes with more 16S rRNA gene copies have stronger CUB (ENC) (
+
+CUB versus 16S rRNA gene copy number. Plot illustrates the relationships between global codon usage bias (
+
+Growing evidence suggests environmental drivers of microbial community-level codon usage. For instance, a recent cross-biome metagenomic study demonstrated the direct impact of microbial habitat on codon bias and amino acid usage after controlling for other non-environmental variables (
+
+We examined genomes of bacteria exposed to decades of climate warming to understand whether microbes evolve and adapt to warmer soils. Over three decades, heated soils have lost 34% of soil organic matter (
+
+Microbial populations tend to adapt to local environmental conditions (
+
+In laboratory settings, microbes adapt to increasing temperatures rapidly (
+
+Microbial culture collections are invaluable resources for linking organism-level responses to climate change and ecosystem function. However, building and maintaining culture collections are labor-intensive and costly. In this study, we observed compelling trends in genomic traits related to growth resource acquisition (i.e., functional gene content) and life history strategies (i.e., CUB), but we admittedly lack strong statistical support. Soil systems are inherently complex. Disentangling ecological and evolutionary processes shaping soil microbial dynamics and identifying adaptive traits requires either a very strong signal or many representative genomes. Yet ecologically explicit culture collections offer unique opportunities to bridge sequence data with function (
+
+The pangenomes of five clades (

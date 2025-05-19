@@ -1,0 +1,99 @@
+Accurate taxonomic classification is crucial for reliable outcomes in microbial genomics research. As analysis increasingly shifts toward species-level identification beyond the genus level, enhancing the resolution of microbial identification becomes critical for discerning specific species (
+
+Next-generation sequencing technologies have revolutionized microbial genomics, enabling rapid and cost-effective sequencing of whole genomes and amplicons (
+
+16S rRNA gene sequencing is a widely used method for microbial identification and community profiling (
+
+The emergence of third-generation sequencing technologies has enabled the analysis of larger genomic regions, paving the way for whole rRNA operon sequencing as a prominent approach (
+
+This study utilizes public data to compare the accuracy of species classification within the same genus using the entire rRNA operon sequence, the 16S, 23S, and 5S rRNA gene sequences, and the V3 and V4 regions of the 16S rRNA. Additionally, we create simulated microbiome community data to compare how accurately each region determines the proportion of each species. The aim is to provide guidelines for selecting marker regions for bacterial species classification and species-level microbiome studies.
+
+Both BLAST and k-mer matching methods demonstrated significantly higher accuracy, precision, and sensitivity when utilizing the entire rRNA operon compared to the 16S rRNA alone (
+
+A boxplot of species classification accuracy, precision, and sensitivity across genera using the rRNA operon versus the 16S rRNA gene, 23S rRNA gene, 5S rRNA gene, and the V3-V4 regions of 16S rRNA gene. The left panel demonstrates the results from the BLAST method, and the right panel presents outcomes from the k-mer matching method.
+
+k-mer matching yielded comparable results. The average accuracy using the rRNA operon was 0.999, exceeding the 0.919 observed for 16S rRNA and 0.706 for the V3-V4 regions. For 23S rRNA, the average accuracy was 0.975, and for 5S rRNA, it was 0.468. Thus, the accuracy ranked as follows: rRNA operon, 23S rRNA, 16S rRNA, 16S V3-V4 regions, and 5S rRNA. The rRNA operon also displayed the lowest standard deviation (0.006), compared to 0.063 for 23S rRNA, 0.124 for 16S rRNA, 0.293 for the V3-V4 regions, and 0.318 for 5S rRNA.
+
+Precision and sensitivity trends mirrored those of accuracy. Using the rRNA operon, BLAST and k-mer matching achieved the highest average precision values, at 0.999 and 0.998, respectively. However, precision decreased for both methods when using the 16S rRNA (0.933 for BLAST and 0.895 for k-mer matching), and further dropped for the 16S rRNA V3-V4 regions (0.702 and 0.686 for BLAST and k-mer matching, respectively). For 23S rRNA, the average precision using BLAST was 0.986 with a standard deviation of 0.034, while for k-mer matching, it was 0.969 with a standard deviation of 0.634. The 5S rRNA showed the lowest precision, with an average of 0.459 and a standard deviation of 0.291 for BLAST, and an average of 0.385 and a standard deviation of 0.268 for k-mer matching. Similarly, while both methods maintained high sensitivity with the rRNA operon, above 0.998, sensitivity dropped for 16S rRNA, at 0.938 for BLAST and 0.910 for k-mer matching. For 23S rRNA, the average sensitivity was 0.989 for BLAST and 0.975 k-mer matching. The 5S rRNA again showed the lowest sensitivity, with an average of 0.503 for BLAST and an average of 0.433 for k-mer matching.
+
+Across both methods, the
+
+On average, the rRNA operon resulted in 0.062 and 0.080 higher classification accuracy compared to 16S rRNA using BLAST and k-mer matching, respectively. Conversely, using 23S rRNA resulted in an average accuracy of 0.014 lower with BLAST and 0.023 lower with k-mer matching compared to the rRNA operon. The most significant difference in accuracy between the rRNA operon and 16S rRNA was observed in
+
+Using the rRNA operon, the BLAST method achieved perfect species classification accuracy (1.0) in 92.8% (64) of genera, and the k-mer match method did so in 88.4% (61) of genera. In contrast, with the 16S rRNA, the BLAST method had less than 0.9 accuracy in 18.8% (13) of genera, and the k-mer matching method in 24.6% (17) of genera. This indicates that using the rRNA operon enables more precise species classification than the 16S rRNA. When using the 23S rRNA, 73.9% of the cases in BLAST and 59.4% in k-mer matching achieved an accuracy of 1. Additionally, there were three cases in BLAST and five cases in k-mer matching where the accuracy was below 0.9.
+
+The standard deviation of accuracy was significantly higher with 16S rRNA compared to the rRNA operon. Specifically, it was 21.9 times higher with BLAST and 21.5 times higher with k-mer matching. Similarly, the standard deviation for 23S rRNA was also substantially higher than the rRNA operon, at 9.28 times higher with BLAST and 11.0 times higher with k-mer matching. In terms of minimum accuracy observed, the rRNA operon consistently outperformed both 16S rRNA and 23S rRNA. While the minimum accuracy for the rRNA operon always exceeded 0.95, the 16S rRNA gene could dip below 0.5 in some cases, and the 23S rRNA gene could sometimes fall below 0.7.
+
+We conducted simulations to evaluate the effectiveness of different regions for predicting the species compositions (
+
+The relative abundance of the top 12 abundant species in the True data, where True represents the actual proportions. rRNA operon, 16S rRNA, 23S rRNA, 5S rRNA, and 16S V3-V4 show the proportions of species predicted based on the accuracy of species classification within those genomic regions. Each color represents the same species across different predictions, with the
+
+To numerically verify these observed trends, we calculated the Pearson correlation coefficient between the actual and predicted proportions (
+
+Pearson correlations between actual species proportions and predicted species proportions using the rRNA operon, 16S rRNA, and 16S rRNA V3-V4 regions, by the number of reads used for the simulation
+
+To quantify the similarity between the actual and predicted microbial community compositions, we employed the Aitchison distance metric. A smaller Aitchison distance signifies greater similarity between the two datasets (
+
+Aitchison distances between true and predicted microbial community compositions. (
+
+A principal coordinate analysis plot using Aitchison distance further visualized these findings (
+
+To statistically validate these observations, we conducted an analysis of similarities test using the Aitchison distance. This non-parametric method evaluates the probability of observed differences in similarity between groups arising by chance. The results confirmed these findings. Predictions made with the rRNA operon yielded a
+
+We evaluated the performance using the rRNA operon, 23S rRNA, 16S rRNA, 5S rRNA, and 16S rRNA V3-V4 regions for microbial community composition prediction using real human gut microbiome data (
+
+The relative abundance of the top 10 gut microbiome species in (
+
+We further assessed the methods by conducting differential abundance analyses based on both the reference compositions and those predicted by each classification method. We compared species identified as significantly different in each case (
+
+Venn diagrams of the significant species identified through differential abundance analysis based on proportions derived from the reference and rRNA operon, reference and 16S rRNA, reference and 23S rRNA, reference and 5S rRNA, and reference and16S rRNA V3-V4 regions. Overlapping sections of the diagram represent the number of species significantly identified across both methods. The area exclusive to the Reference (left side) shows the number of species that were false negatives. Areas unique to each method (right side) indicate false positives. Complete overlap between the Reference and a method implies identical species significance findings.
+
+The coefficients from differential abundance analyses using the proportions obtained from reference, rRNA operon, 16S rRNA, and 23S rRNA. We only showed species that have discrepancies in the reference and 16S rRNA results or in the reference and 23S rRNA; species identified as significant in one analysis but not the other and species with differing direction of coefficient. A positive coefficient (depicted in pink) indicates a species is more abundant in patients, while a negative coefficient (shown in sky blue) suggests it is less abundant. The magnitude of the coefficient signifies the degree of abundance difference.
+
+The rRNA operon demonstrably outperformed the 16S rRNA gene in terms of species classification accuracy. Statistical tests confirmed this observation. Paired Wilcoxon rank sum tests revealed highly significant differences (
+
+Additionally, both the 23S rRNA and 16S rRNA showed lower performance in species classification using k-mer matching compared to the BLAST method. A possible reason for this difference is that BLAST classifies species based on the overall similarity of sequences, while k-mer matching classifies species based on the exact match count of 31-mers. This could make k-mer matching less effective in identifying species when the sequences have high variability or when partial matches are important for classification.
+
+Simulations revealed a clear advantage for the rRNA operon in predicting species compositions within microbial communities. The correlation between actual and predicted proportions using the rRNA operon consistently outperformed both the 16S rRNA and the 23S rRNA. Notably, the correlation with the 16S rRNA V3-V4 regions was significantly lower, rendering it unreliable for capturing meaningful relationships with the actual data. When using the rRNA operon versus the 16S rRNA, the difference in correlation between actual and predicted compositions in the data was greater than the difference in accuracy of individual species predictions. While the performance using 23S rRNA surpassed 16S rRNA, it remained inferior to the rRNA operon. This suggests that analyzing the entire rRNA operon offers a more effective approach compared to solely using the 23S rRNA gene.
+
+The Aitchison distance metric further reinforces the superiority of the rRNA operon. Notably, only proportions predicted using the rRNA operon exhibited no statistically significant difference from the actual proportions in the distance analysis. In contrast, all other methods showed significant discrepancies between the actual and predicted proportions. These findings collectively suggest that the rRNA operon provides a more accurate reflection of the true microbial community structure compared to 16S rRNA or 23S rRNA alone.
+
+Simulations replicating the composition of actual human gut microbiomes yielded consistent results. Notably, this lower accuracy in predicting microbial compositions using 16S rRNA, 23S rRNA, and the V3-V4 regions of 16S rRNA was particularly problematic for the patient group. In the patient group, the average correlation between predicted and reference compositions for the rRNA operon remained at 1.00, both the 16S rRNA and 23S rRNA showed lower correlations. Specifically, the 16S rRNA achieved an average correlation of 0.859, with 4 out of 47 patient samples showing a correlation below 0.8. Similarly, the 23S rRNA had two patient samples with a correlation below 0.8. In the 16S rRNA V3-V4 regions, the correlation in the patient group dropped to as low as 0.433.
+
+The observed difference in accuracy for community composition predictions also impacted the results of differential abundance analyses. When utilizing proportions derived from the rRNA operon, the analysis identified the same 20 significant species as those identified using the reference proportions, indicating perfect agreement. In contrast, the analysis based on other markers yielded discrepancies, further solidifying the limitations of these methods for accurate prediction.
+
+Using the rRNA operon as a marker provided higher accuracy in individual species classification than using the 16S rRNA or its V3-V4 regions, leading to more accurate community composition predictions and more reliable results in differential abundance analyses. This is due to the rRNA operon being longer and containing more information than the 16S rRNA or its V3-V4 regions. In our study, the average length of the rRNA operon was 5,127.13 bp, the 16S rRNA averaged 1,535.72 bp, and the V3-V4 regions averaged 399.45 bp. The 23S rRNA, with a length of 2,914.39 bp, was longer than the 16S rRNA but shorter than the rRNA operon, resulting in intermediate accuracy. The 5S rRNA, being the shortest at 108.29 bp, showed the lowest accuracy. This suggests that the length of the marker region is proportional to the accuracy of species classification and community composition prediction. However, sequencing costs may increase with the breadth of the region being read (
+
+The accuracy of microbial community composition prediction using the 23S rRNA, 16S rRNA, or 16S rRNA V3-V4 regions improves when using more number of reads, which means sequencing more data. However, this also raises data production costs and should be carefully weighed. Given the same budget, producing less data with the rRNA operon may be more efficient than generating more data with other rRNA genes.
+
+Not only accuracy but also feasibility should be considered when choosing a marker for microbial community analysis. For sequencing, the existence of a universal sequencing primer is necessary. Additionally, from an analytical standpoint, a well-established database and pipeline are crucial for deriving species abundance from sequencing data. The 16S rRNA gene and its variable regions have long been established as well-defined markers, with readily available primers and comprehensive databases (
+
+Employing the rRNA operon as a marker demonstrably enhances individual species classification accuracy compared to other rRNA genes. This translates to more precise predictions of microbial community compositions and more reliable differential abundance analysis results. The 16S rRNA V3-V4 regions exhibited even lower accuracy across all scenarios compared to the full 16S rRNA, highlighting a significant decline in precision. Therefore, for research requiring accurate species classification, employing the rRNA operon as a marker appears to be the most appropriate choice. In microbial community studies aiming for precise species-level analysis, utilizing the rRNA operon is advisable as using the 16S rRNA has its limitations, and relying solely on its V3-V4 regions may make it challenging to achieve meaningful results. However, as our results are based on simulations, it would be beneficial to conduct actual sequencing experiments to confirm our findings.
+
+We collected complete bacterial genomes available in the NCBI database as of 29 November 2023 (
+
+We utilized riboSeed with its default settings to extract rRNA operon sequences (
+
+We employed EMBOSS’s primer search tool to identify the V3-V4 regions within the previously extracted 16S rRNA sequences (
+
+To simulate real-world applications of using 16S rRNA and rRNA operon sequencing for species classification, we introduced random sequencing errors into the extracted sequences. Error rates were determined by referencing a 2022 study comparing the accuracy of Illumina and ONT technologies (
+
+Error rates applied to simulate sequencing inaccuracies in rRNA operon and 16S rRNA sequences for species classification simulations
+
+The table outlines the mismatch, insertion, and deletion rates for the rRNA operon sequenced with Nanopore technology and the 16S rRNA (including its V3-V4 regions) sequenced with Illumina.
+
+For each position, a random number between 0 and 1 was generated. If this number was lower than the error rate, an error was introduced. Mismatches involved replacing the original nucleotide with a random one. Implementation was carried out using BioPython SeqIO (
+
+Two distinct methods were employed to classify species within the same genus: BLAST alignment score (
+
+The BLAST-based approach used the sequences of the rRNA operon or 16S rRNA (including random errors) as the query, while the original sequences of the extracted regions served as the reference. Nucleotide BLAST was run with default options. Each sequence was classified into the species with the highest bitscore. In cases of ties, one species was randomly chosen for classification.
+
+The k-mer matching method benchmarked the approach commonly used in microbiome data classification by Kraken (
+
+In both methods, when multiple copies of the rRNA operon or 16S rRNA were present, we classified based on the copy with the highest score or the greatest number of matches. To determine the accuracy of species classification within each genus, we computed the proportion of correctly identified species among the samples, grouped by genus. Specifically, accuracy was calculated by comparing the actual species with the species identified through our classification methodology across different regions. For each genus, the accuracy rate was derived by dividing the number of correct species identifications by the total number of samples within that genus. The accuracy of each genus is assessed independently.
+
+To evaluate the accuracy of species classification in community data, a simulation was run on community composition data. First, we used a Dirichlet distribution to randomly set proportions for the species in our study and made a mock proportion data. The alpha parameter of the Dirichlet distribution was itself derived from a geometric distribution with a probability of 0.01. Reads were initially distributed to match these true species proportions. Based on the likelihood of their classification through k-mer matching from the previous analysis, reads were then assigned to species. For example, if species A was correctly classified 90% of the time and misclassified as species B 10% of the time, a read intended for species A would have a 90% chance of being assigned to A and a 10% chance to B.
+
+This process was applied to all reads. We conducted simulations for library sizes of 5,000, 10,000, 50,000, 100,000, 500,000, and 1,000,000 reads.
+
+To further validate our findings using real-world gut microbiome data, we performed simulations with publicly available metagenomic data. We collected fecal metagenome sequencing data from healthy individuals and Crohn’s disease patients to profile the gut microbiota. We downloaded the data from the SRA under project ID PRJEB15371 (

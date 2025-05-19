@@ -1,0 +1,67 @@
+This study brings a new insight into the genome evolution of the opportunistic pathogen
+
+The newly sequenced genomes are listed in Table S4; these genomes are available in GenBank (National Center for Biotechnology Information) and their BioProject number is PRJNA1100485. The publicly available genomes of bacteria from human and animal origin used in this study are listed in Table S5. All the supplementary tables are available in the Supplementary Material.
+
+This bacterium has no particular tropism, causing mainly pulmonary infections, but is also capable of skin, blood, bone and urinary tract infections (UTIs) [
+
+Several within-host studies of
+
+In the following case study, a pet infection emerged from a subcutaneous ureteral bypass placement which was particularly described as a risk factor for the development of
+
+Metabolic assays were conducted using Biolog Gen III Microplates (Hayward, CA) following the manufacturer’s instructions. In brief, the strains were streaked on LB agar and incubated overnight at 30 °C. For each strain, a single colony was resuspended in inoculating fluid A (IFA, Biolog) using a cotton-tipped Inoculatorz swab (Biolog) to reach a cell density of 90–98%. Each well of the Gen III MicroPlate, containing either a specific carbon source or a chemical sensitivity testing agent, was filled with 100 µl of the bacterial suspensions and incubated at 33 °C for 48 h in the OmniLog incubator/reader measuring the reduction of tetrazolium redox dye (forming a purple colour) due to bacterial growth.
+
+Bacteria were grown in a liquid LB medium, and DNA was purified using a Wizard Genomic DNA kit (Promega). DNA quantifications were performed using Qubit™ dsDNA HS Assay Kit (Thermo Fisher Scientific). For each isolate, Oxford Nanopore and Illumina DNA sequencings were both performed. Nanopore sequencing was performed using MinIon flow cells (FLO-MIN106) using the SQK-RBK004 barcoding kit. Nanopore sequencing data were then basecalled using ONT Guppy base-calling software (2.22-r1101), which automatically removed reads with a quality score Q below 10. Median read quality and read length N50 were analysed with NanoPlot (1.42.0) [
+
+All the oligonucleotides used in this study for genetic modification are listed in Table S1. Gene disruptions were performed using a scarless genome editing strategy described previously [
+
+All chromosomes were aligned to the F14-11 chromosome, set as a reference, using the Gubbins script generate_ska_alignment.py, which creates an alignment using split
+
+Given the close genetic relationships among the study strains, only the first isolated one, F14-11, was used for the selection of closely related strains from other studies.
+
+The topgenome (-t) feature of WhatsGNU was used to identify the ten closest strains from a database comprising 4325 genomes of
+
+To expand the diversity of the strains set, we also added the closest genomes of each of the ‘top-ten strains’ as well as four additional ST25 strains (OIFC143, CI79, Naval18 and 107m) bringing a total of 24 strains. To prevent erroneous conclusions regarding geographic proximity, only one strain per study was included. Incomplete sequenced genomes were excluded. All the genomes were mapped to the F14-11 chromosome set as a reference using the Gubbins script generate_ska_alignment.py, which creates an alignment using SKA2 (version 0.3.7). The resulting alignment measured 4 061 760 bp with 1511 variable positions. The output was then analysed by the Gubbins algorithm relying on RAxML using the GTRGAMMA model (version 8.2.12) for constructing the phylogeny in each iteration to generate an unbiased phylogeny. The reproducibility of the node positions in the tree topology was assessed using bootstrap analysis with 10
+
+Primary Illumina sequence reads (fastq) of monophyletic isolates were aligned to the earliest (F14-11), using the tool Snippy using default parameters (Galaxy version 4.6.0, [
+
+All statistical analyses were performed using RStudio 4.1.2 (
+
+Susceptibility of the strains to a panel of antibiotics was evaluated by disc diffusion on Mueller–Hinton agar (Biorad, France) following the CA-SFM 2013 recommendations (
+
+Biofilm-forming capacities of the isolates were evaluated using the crystal violet staining method, with slight modifications to the protocol previously described [
+
+A retrospective study was performed on
+
+Whole-genome sequencing and hybrid assembly of the 17 study strains revealed clonally related strains belonging to sequence type (ST) 25 clone, ST associated with UTI in humans and animals [
+
+To further investigate within-host strain diversity, we a performed whole-genome comparison of the 16 study strains to the early one F14-11, set as a reference (Fig. S1 and Table S4). This analysis revealed a low number of SNPs scattered throughout the genome in comparison to F14-11, with a mean of 31 SNPs per genome ranging from 3 SNPs for the closest genomes to 78 SNPs for the most distant one (Table S4).
+
+Phylogenetic analysis suggests an absence of correlation between isolation date and phylogenetic relationships (
+
+IS recombination led to chromosome deletions. The most striking evidence of this phenomenon is the deletion of a 36.6 kb region, fixed in a subclade of eight strains within clade II, which is flanked by two identical IS
+
+Over 82% of SNPs (497 SNPs) and microindels of the strains studied are in coding sequences, with 80% being non-synonymous SNPs. Several of these genes are involved in adhesion and biofilm formation – genes that are also affected by insertion and deletion events (
+
+Hence, during the infection, strains may coexist with varying adhesion and biofilm abilities. To bring experimental evidence to this hypothesis, the biofilm-forming capacities of the study strains were measured and compared with those of the environmental DSM30011 strain described as a strong biofilm producer (
+
+Surprisingly, the F16-05 isolate is a strong biofilm producer despite a frameshift in the
+
+Bacterial metabolism versatility is a crucial factor for the successful colonization of a new environment. Similarly to humans, a cat’s urine composition is highly variable and complex with thousands of unique compounds [
+
+However, only two metabolic entities appear recurrently affected in the isolated strains: the
+
+We further explored the metabolism capacities of study strains using Biolog metabolic phenotypic microarray (
+
+The first isolate F14-11 is resistant to penicillins, cephalosporins (but ceftazidime), fluoroquinolones, aminoglycosides (but amikacin) and carbapenems. Following colistin treatments, colistin resistance was developed in 2015 isolates (
+
+In contrast to colistin resistance, several antibiotic resistances were lost in the clade II in comparison to F14-11. Most susceptibilities emerged due to plasmid loss. Early isolate plasmid pF14-11 harbours genes conferring resistance to tetracycline (
+
+Chromosomal resistance located in MGEs was also subjected to curing. F14-11 strain carries two copies of Tn
+
+The high versatility of certain clones of
+
+Genetic variations are mainly observed in genes associated with biofilm formation and metabolism. Strikingly, we found that two of three type I
+
+Furthermore, our data suggest a coexistence of strong and poor biofilm producers rather than a homogeneous population. This coexistence was also described in aother urinary pathogen during a long-term human urinary infection with
+
+Our results also unveiled a hidden phenotypic and genetic diversity within a clinical sample. Rather than restricting the conclusion to a single isolate with defined characteristics, the advent of new sequencing technology such as single-cell sequencing should enable a comprehensive understanding of pathogen genomic dynamics during infection [

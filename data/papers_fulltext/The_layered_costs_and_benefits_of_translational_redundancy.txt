@@ -1,0 +1,275 @@
+In the early 1960s, the degeneracy of the genetic code was revealed in the context of multiple synonymous codons encoding a given amino acid. A large body of work since then has uncovered an astonishing degree of redundancy in the translation apparatus. The redundancy is often qualitative, whereby some components can functionally compensate for others. This includes the pool of tRNA molecules that read mRNA codons and deliver the appropriate amino acid during translation. tRNAs with different anticodons may read distinct synonymous codons but carry the same amino acid (tRNA isoacceptors) and are thus functionally degenerate. In addition, tRNA modifying enzymes (MEs) post-transcriptionally alter specific tRNAs (‘target’ tRNAs, i.e. targets of modification), allowing them to read codons that are otherwise decoded by ‘non-target’ tRNAs that are not modified by MEs (
+
+In bacteria, selection for rapid growth (often facilitated by nutrient availability) is thought to be an important force that shapes the evolution of many translation components. The maximum possible growth rate is determined by translation efficiency, which in turn depends on the concentrations of ribosomes and tRNAs (
+
+In contrast, the growth rate-dependent impacts of redundancy in tRNA GCN remain largely unexplored, with the exception of initiator tRNA genes in
+
+While the fitness costs and benefits of redundancy should ultimately be shaped by nutrient availability, redundancy may itself arise via different mechanisms for different translation components, and hence selection may shape the components in distinct ways. For instance, with rRNAs, the loss of GCN redundancy is buffered by strong compensatory upregulation of ‘backup’ gene copies. An
+
+The patterns noted above suggest a hierarchical organization, whereby redundancy in some components and genes is more important than others (e.g. rRNAs vs. tRNAs, and major vs. minor tRNA isotypes). However, as discussed above we have very limited empirical evidence for the fitness consequences of redundancy in different translation components, particularly in the case of tRNA pools. We addressed these gaps by analyzing the nutrient-dependent impact of changing redundancy in multiple translational components, alone as well as in combination. Specifically, we tested the following predictions: (1) redundancy in tRNA and rRNA GCN, on the whole, should be important to maintain rapid growth, and the benefits of increased redundancy should be proportional to the achievable growth rate (2) broadly, a reduction in rRNA GCN should have stronger fitness impacts than tRNA GCN (3) across tRNAs, the loss of redundancy should be most impactful for major tRNA isotypes, and for non-target tRNAs when combined with the loss of a relevant ME (4) the fitness impact of reduced redundancy should increase with the severity of the loss, e.g., due to the deletion of multiple gene copies or multiple translational components. We worked with
+
+Prior work demonstrates the functional redundancy of some bacterial translation components with respect to translation rate or accuracy. However, it remains unknown whether and under what conditions this functional redundancy has fitness consequences. The genome of
+
+Target transfer RNAs (tRNAs): tRNA isotypes that are targets of modifying enzymes (MEs) (i.e. are post-transcriptionally modified by a tRNA modifying enzyme), expanding the repertoire of codons they can read. Non-target tRNAs: tRNA isotypes that are not acted upon by MEs. The codons recognized by these tRNAs can also be read by modified target tRNAs, rendering the non-target tRNAs redundant. Symbols represent qualitative differences across sets rather than the exact number or diversity of redundant components. Further details of strains in each set are given in
+
+Of our strains, 15 represented the deletion of single tRNA genes. All genes except one (
+
+(
+
+
+
+Raw growth curves are shown for one strain from each mutant set (see
+
+Impact of transfer RNA (tRNA) deletion on growth parameters (y-axis) for all strains from set I, II and III (on x-axis; see
+
+In our dataset, we had three cases where deleting copies of the same gene (four copies of Asn-tRNA
+
+Impact of tRNA gene deletion on the length of lag phase (
+
+Impact of tRNA gene deletion on growth yield (
+
+Relative growth rate of two tRNA deletion mutants transformed with a plasmid (pUC19) carrying the respective tRNA gene. EV = Empty vector control. Cells were grown in the presence of 100 µg/ml Ampicillin (to ensure plasmid retention) and 0.5 mM IPTG to induce tRNA gene expression from the plasmid. The relative growth rate was measured as described in the methods section, in LB (left panel) and GA (Glucose Cas amino acid) (right panel). Supplementation of tRNA from a plasmid increases the growth rate of both mutants (N=4, Mann-Whitney U test). Horizontal bars indicate the median and quartiles.
+
+Plots show Spearman’s rank correlation between the growth rate impact of each gene deletion across different media (R
+
+As predicted, a more severe reduction in redundancy via deletion of multiple tRNA gene copies (leaving only one backup copy of many, set III,
+
+Next, we tested the fitness of tRNA deletion strains in more permissive rich media with easy-to-use sources of carbon (glucose) and amino acids (casamino acids) (‘GA’), where the WT growth rate is similar to that in complex rich media. Here, tRNA gene loss was uniformly deleterious, with 18 of 20 strains showing significantly slower growth (GA 1.6, sets I and II, mean R
+
+Finally, we measured fitness in poor media where nutrients should severely limit translation, and maintaining tRNA redundancy may be costly. When using lactose (which reduces WT growth rate to ~50% of LB), the loss of redundancy had a weak and variable impact, with only 5 of 23 strains (across sets I–III) showing a significant difference from WT (
+
+Finally, we found that the low growth rate of two of the tRNA deletion strains (ΔglyU and ΔthrW) was rescued by plasmid-borne tRNA copies, confirming that the observed fitness effects were indeed explained by tRNA loss (
+
+The results above showed that the fitness impacts of tRNA gene loss depend qualitatively on the growth medium. To test whether these patterns are quantitatively explained by growth limits set by nutrient availability, for each engineered strain we estimated the relationship between the relative impact of a loss of redundancy (R
+
+This pattern was further supported by experiments performed during nutrient shifts, where cultures in the exponential growth phase were transferred from rich to poor media and vice versa. Note that this setup differs from the previous growth measurements (
+
+Relative growth rate of mutants (sets I to IV,
+
+
+
+Recall that when tRNA redundancy was lowered to an extreme (set III,
+
+To test these hypotheses, we focused on four strains from sets II and III where we observed strong fitness effects. We measured the relative contribution of each tRNA isotype to the mature tRNA pool in WT and the tRNA deletion strains, in a rich (LB) and a poor medium (M9 galactose). In the WT, 26 of 42 (~62%) tRNA isotypes did not show a significant difference in relative levels across media (
+
+The proportional contribution of all 42 tRNA isotypes in the mature tRNA pool was measured for wild type (WT) and four tRNA deletion mutants in a poor medium (M9 +0.05% galactose) and a rich medium (LB) (n=3 biological replicates per medium per strain) using YAMAT-seq (see
+
+
+
+Bar plots show the proportions of 42 tRNA isotypes measured in the mature tRNA pool of
+
+Proportional abundance of tRNA isotypes (mean log
+
+Next, we compared the composition of tRNA pools between WT and tRNA deletion strains. We expected that tRNA gene deletion would reduce the proportional contribution of the respective tRNA isotype to the total pool unless the deletion was compensated by expression from the remaining gene copies. In all four gene deletion mutants, the contribution of the focal (deleted) tRNA isotype to the total tRNA pool was lower than in the WT tRNA pool, in both rich and poor medium (
+
+Interestingly, in the tRNA gene deletion strains, in addition to the focal isotype, the fractional contribution of many other tRNA species also differed from the WT (
+
+We showed above that the WT over-produces many tRNA isotypes in poor media, potentially explaining its low fitness relative to the tRNA gene deletion strains. We suspected that although in rich media such ‘surplus’ tRNAs contribute to translation, this may not happen in poor media where growth is limited by nutrient availability rather than translation efficiency, and levels of charged amino acids drop (
+
+The heat map shows the translation capacity of tRNA gene deletion mutants in rich (LB), permissive (M9 +0.8% GA) and poor medium (M9 +0.6% glycerol), measured as the relative protein elongation rate (ER, increase in the length of ß-galactosidase protein per unit time after induction; ER
+
+
+
+Translation capacity of selected tRNA deletion strains in permissive medium (GA0.8), measured as GFP readout per unit time after induction, relative to WT (n=2–3 per strain; GFP
+
+Recall that tRNA gene deletion strains with severely reduced redundancy (set III, with only 1 gene copy remaining) showed stronger fitness effects than strains in set I and II. Furthermore, strains in set II had similar fitness as those in set I, potentially because the fitness impact of the tRNA deletion (which also reduced the levels of the deleted tRNA isotype) was masked by the presence of MEs. Thus, the fitness impact of redundancy generally increases with the magnitude of the loss, as predicted by comparative evidence across genomes; but this has not been explicitly demonstrated. To do so, we further lowered translational redundancy by simultaneously deleting multiple translation components.
+
+Loss of the modifying enzyme-coding genes
+
+Impact of transfer RNA (tRNA), rRNA and modifying enzyme (ME) gene deletion on growth rate in different media, as described in
+
+
+
+Next, we tested the combined effect of altering redundancy in rRNA and tRNA genes. As noted earlier, deleting rRNA operons simultaneously removes some tRNA genes located in the operon, so that even a single rRNA operon deletion is effectively a co-deletion. However, all the tRNA genes deleted in this manner had multiple genomic backup copies (
+
+Further loss of redundancy – via simultaneous deletion of four rRNA operons (including seven tRNA genes) and extra-operonic tRNA genes (set VII,
+
+Together, our results lead to the following conclusions. First, we find that the simultaneous deletion of multiple copies of tRNA genes or rRNA genes has more severe fitness consequences than the loss of single gene copies. Second, increasing the severity of reduction in translational redundancy via co-deletion of MEs and tRNA genes amplifies the fitness consequences of losing redundancy. Lastly, when nutrients are in plenty, rRNA becomes limiting and the loss of tRNA genes has little additional impact on fitness; but when nutrients are limiting, shedding different translation components (rRNA and tRNA) additively increases fitness.
+
+The process of protein synthesis is central to life and is especially important to understand bacterial evolution given the direct link between translation, growth rate, and fitness. Translation rate is affected by several genomic components (e.g. tRNAs, rRNAs, tRNA modifying and charging enzymes) and environmental factors (e.g. nutrient availability). Comparative analyses show that the genomic components have different degrees of redundancy across taxa, and suggest that this redundancy (in the fitness context) should be shaped by the strength of ecological selection for rapid growth (
+
+Here, we provide such evidence, showing that broadly speaking, several components of the
+
+While these observations suggest that nutrient availability can guide the evolutionary optimization of the cost-to-benefit ratio of the bacterial translation machinery, interactions (and potential hierarchies) amongst different components suggest multiple routes of optimization (
+
+Proposed highway model for the layered, hierarchical organisation of translation components showing multiple potential routes for optimizing translational output, based on the current study and previous work. The width of the routes is constrained primarily by available nutrients, which sets an upper limit to translational output; and the redundancy of various components evolves under this constraint. Within the confines of what is achievable under given nutrient conditions, different components may adapt in different order, and to different degrees. Important components that serve as bottlenecks are shown in yellow, from left to right in the proposed order of importance. rRNA should adapt first (via gene expression change in the short term and gene copy number, GCN, over long term), contributing to ribosome synthesis. Next, transfer RNA (tRNAs) may adapt via two possible parallel routes: by modulating the copy number or expression of target tRNAs, or non-target tRNA +MEs (see Introduction). Elongation factors (EF) can adapt by similar routes. Simultaneously, a stronger match between the tRNA pools and codon usage (CU) of highly expressed genes will enhance translational output. Components that are not directly tested or discussed extensively here but are likely to adapt via the general principles derived here are shown in the white spaces: tRNA synthetases and ribosomal and tRNA disassembly/degradation. Together, all these factors determine translation output, growth, and fitness.
+
+Together with prior work, our results also suggest that fast-growing organisms such as
+
+We hope that future work will test this model and enrich it by considering additional translational components and factors that may drive their evolution. For instance, genome GC content is strongly associated with tRNA GCN and diversity across the bacterial phylogeny (
+
+In summary, our experiments demonstrate that several components of the translation machinery are redundant in
+
+We made all gene deletions in
+
+To combine ME and rRNA deletions with tRNA deletions, we used P1 transduction (
+
+We removed the kanamycin cassette that replaced the deleted gene using plasmid pCP20 (
+
+For all experiments, we used independently grown colonies or cultures to serve as biological replicates. Hence, unless mentioned otherwise, reported sample sizes refer to biological replicates.
+
+We inoculated strains in LB (Lysogeny Broth, Difco) from individual colonies grown from freezer stocks, and incubated cultures at 37 °C with shaking at 180 rpm for 14–16 hr (preculture). For growth rate measurement, we sub-cultured 1% v/v in 48 well microplates (Corning) in the appropriate growth medium: LB, TB (Terrific Broth, Sigma) or M9 minimal medium (M9 salts, 1 mM CaCl2, 2.5 mM MgSO4) supplemented with specific carbon and nitrogen sources (‘GA’: glucose and cas amino acids, either 1.6% w/v or 0.8% w/v each as specified in the results and figures; or carbon sources alone: lactose 0.05% w/v, galactose 0.05%, pyruvate 0.3% w/v, succinate 0.3% w/v, or glycerol 0.6% w/v). We measured growth rate (
+
+To measure the growth rate under nutrient shifts, we initiated precultures and sub-cultured them as above in a rich medium (TB). From late log phase culture in the rich medium (after 6 hr of growth), we again sub-cultured as above into poor medium (either M9 glycerol or M9 galactose, representing a nutrient downshift). When these cultures reached late log phase in the poor medium (12–16 hr), we again sub-cultured them back into the rich medium (TB, representing a nutrient upshift). After each transfer (downshift or upshift), we measured the growth rate as described above.
+
+For a subset of our tRNA gene deletion strains and WT, we measured the relative abundance of each tRNA isotype and compared this proportion across strains as described previously (
+
+We sorted raw reads for each sample using exact matches to each unique, 6 bp long Illumina barcode, obtaining a minimum of 707,429 reads per sample of which >99.99% were the expected length (80–151 bp) (
+
+We measured the translation elongation rate for a subset of our strains, using the native β-galactosidase protein as a reporter as described earlier (
+
+The above assay informs us about the elongation rate, assuming that all other steps are equal between WT and mutant. Since, we only deleted genes encoding elongator tRNAs to create our mutant strains, this assumption likely holds. We also note that our WT strain contains an
+
+We grew WT and mutants transformed with plasmid pKEN::GFP2 overnight in LB medium with ampicillin for 14–16 hr. We subcultured 1% v/v into M9 with 0.8% glucose and amino acids (with 100 μg/ml ampicillin) and incubated for around 4–5 hr (mid-log phase) before inducing with 0.5 mM IPTG. After induction, we measured GFP and OD
+
+We used GraphPad Prism (9.0.0) for all statistical analysis (except for YAMAT-seq) and to generate heatmaps, and DEseq2 (
+
+The authors investigate the cost and benefits of maintaining seemingly redundant multiple copies of the translation machinery components. The authors demonstrate that while redundant multiple copies are beneficial in a nutrient-rich environment, maintaining these extra copies is costly and deleterious in a nutrient-poor environment. This explains why copy numbers of translation machinery genes are under selection according to the environmental niche an organism occupies. The work is very important and the findings exciting and supported by compelling evidence, in particular, the fitness gain upon deletion of translation genes in poor conditions is an insightful observation.
+
+Our editorial process produces two outputs: (i)
+
+
+
+Thank you for submitting your article "The layered costs and benefits of translational redundancy" for consideration by
+
+The reviewers have discussed their reviews with one another, and the Reviewing Editor has drafted this to help you prepare a revised submission. Each of the reviewers has comments for you to address (see below).
+
+
+
+1) The induction lag method used to measure the "elongation rate" in Figure 5 quantifies the sum of the time to transcribe lacZ and the time to translate lacZ mRNA. To call it "elongation rate", the authors should stress the underlying assumption that all steps in b-galactosidase synthesis except elongation are equal in WT and mutant. Of note, MG16555 has an rph frameshift mutation that leads to pyrimidine starvation due to low pyrE expression levels (DOI: 10.1128/jb.175.11.3401-3407.1993). Thus, transcription is likely substantially faster in LB (contains pyrimidines) than in the M9 media.
+
+2) The concentration of galactose used for poor quality growth medium is not mentioned in the methods.
+
+3) Line 82: the reason rRNA concentration is more limiting for translation than tRNA is probably not that it is more abundant, but that rRNA concentration affects the concentration of ribozymes/catalysts for translation, while tRNA concentration affects the concentration of tertiary complex (the "substrate").
+
+4) Line 317: "so that both rRNA and tRNA would be limiting" is a problematic statement. The levels of both would presumably be reduced, but not likely to both be limiting at the same time.
+
+5) Line 336: presumably, the proM deletion mutant is growing OK because proL can read the same codon, not because the codon is rare.
+
+6) Line 339: perhaps more likely than assigning different functionality to identical RNAs, the different deletions result in different concentrations of the tRNA due to e.g. polarity effects in transcription.
+
+7) Line 464: what is meant by "reduced expression of the deleted tRNA"?
+
+8) A compelling case that differences in tRNA levels and tRNA/rRNA ratios at different growth rates are largely determined by the location of the respective genes relative to the origin of replication was made recently for
+
+Regarding tRNA measurements by YAMAT-seq:
+
+The authors should express more clearly in which sense the measurements are "relative", as it is not the relative expression level but the relative fractional contribution of each tRNA to the respective tRNA pool that is reported (e.g. line 254 is incorrect : DEseq2 was used to measure tRNA expression level differences between pairs of strains"; line 922 is incorrect: "Expression level of all 42 WT tRNA isotypes in poor medium relative to rich medium", and others, including much of the wording in section "Gene regulation cannot compensate for the loss of tRNA gene copies").
+
+A final note is that the reason YAMAT-seq does not report on levels of tRNAs is because a fixed amount of total RNA was used for the procedure (10 ug from each sample). Fast-growing cells have more RNA than slow-growing cells (both more RNA per cell, more RNA per OD, more RNA per ug protein, etc), so 10 ug represents RNA from more cells in the slow-growing cultures than it does in the fast-growing cultures.
+
+Line 42: it is not completely clear to this reviewer what is meant by "target" and "non-target" tRNAs. Further explanation in the Introduction would be beneficial for some readers (like myself).
+
+Line 282: was a pBAD plasmid really induced with IPTG, or is it a typo? I am only familiar with the arabinose-induction of pBAD plasmids.
+
+Figure 2 - Figure Supplement 1 1: Growth curves on a linear scale cannot be used to evaluate growth rates by eye. Showing the curves on semi-log graphs would be much more informative to the reader.
+
+
+
+1. Please be clear and consistent in referencing the figure.
+
+2. Please address or better explain your methodology, especially how Rrel can be negative.
+
+3. Please change figure 3 to mark significant and non-significant data points and discuss them in the text.
+
+4. Please tone down your arguments in places where they sound general when, in effect, they are specific to a condition (e.g., figure 3).
+
+5. I am missing controls. Please express deleted tRNAs from a plasmid in at least some deletion strains. If the author's hypothesis is true, it will rescue the negative fitness observed in deletion strains in rich media. These controls are needed at least in Figures 2 and 3. Notably, I would like to stress again that it should be done on a subset of the strains, probably the ones that display the strongest effect.
+
+
+
+1. I think that in the discussion part the authors can discuss the possible cost/benefit effects of deleting one of the two copies of the translation elongation factor EF-Tu (Zuurmond et al. 1999, doi: 10.1007/s004380050934). As this is another example of seeming redundancy of the translation machinery in
+
+2. In the discussion the authors suggest a model that explains their results (line 636). I think this suggested model will be clearer and easier to understand if it is described also through a graphical illustration.
+
+3. In Figure 2D, I think the figure will be easier to understand with a clearer example of the relevant correlation using real data points. I would replace the bottom right example with one of the panels from Figure 2 —figure supplement 5.
+
+4. In Figure 3 both panels have the same axes labels (Glycerol to TB / TB to glycerol), according to the figure legend one of them should be switched to (Galactose to TB / TB to galactose).
+
+Reviewer #1 (Recommendations for the authors):
+
+1) The induction lag method used to measure the "elongation rate" in Figure 5 quantifies the sum of the time to transcribe lacZ and the time to translate lacZ mRNA. To call it "elongation rate", the authors should stress the underlying assumption that all steps in b-galactosidase synthesis except elongation are equal in WT and mutant. Of note, MG16555 has an rph frameshift mutation that leads to pyrimidine starvation due to low pyrE expression levels (DOI: 10.1128/jb.175.11.3401-3407.1993). Thus, transcription is likely substantially faster in LB (contains pyrimidines) than in the M9 media.
+
+Thank you for pointing this out. We have now mentioned both points in the methods section “Measuring translation elongation”
+
+2) The concentration of galactose used for poor quality growth medium is not mentioned in the methods.
+
+We have now added this in the methods section "Measuring growth parameters”.
+
+3) Line 82: the reason rRNA concentration is more limiting for translation than tRNA is probably not that it is more abundant, but that rRNA concentration affects the concentration of ribozymes/catalysts for translation, while tRNA concentration affects the concentration of tertiary complex (the "substrate").
+
+Agreed, we have now incorporated this (line 83-84).
+
+4) Line 317: "so that both rRNA and tRNA would be limiting" is a problematic statement. The levels of both would presumably be reduced, but not likely to both be limiting at the same time.
+
+We have modified the sentence to just say that they will both be reduced (line 338-39).
+
+5) Line 336: presumably, the proM deletion mutant is growing OK because proL can read the same codon, not because the codon is rare.
+
+The deletion mutant mentioned here is proL (not proM). The proL tRNA is a single-copy tRNA with no tRNA (or ME) backup. Hence, we speculate that its loss has negligible effects because the cognate codon is only used rarely.
+
+6) Line 339: perhaps more likely than assigning different functionality to identical RNAs, the different deletions result in different concentrations of the tRNA due to e.g. polarity effects in transcription.
+
+By functional differences we meant that at the level of contribution to translation the two tRNAs are different, e.g. due to polarity effects as mentioned in the comment. We did not mean to say the tRNAs have completely distinct functions (outside the context of translation). We have now edited the sentence to avoid confusion (lines 361-362).
+
+7) Line 464: what is meant by "reduced expression of the deleted tRNA"?
+
+Here, we refer to the deletion of single-copy tRNA genes, which should lead to a complete loss of the relevant tRNA isotypes. In YAMAT-seq data, this will show up as a large drop in the relative contribution of these tRNA isotypes to the tRNA pool (compared to WT). We have now rephrased the text here to avoid confusion (lines 488-489). We have also ensured that throughout the manuscript we have clarified whether we are referring to tRNA genes or tRNA isotypes.
+
+8) A compelling case that differences in tRNA levels and tRNA/rRNA ratios at different growth rates are largely determined by the location of the respective genes relative to the origin of replication was made recently for
+
+Thank you for this suggestion. The paper mentioned above also led us to other useful references, which we now cite in the manuscript.
+
+Distance from the replication origin does not explain differences in the fitness impacts of copies of the same tRNA isotype (e.g. Asn-GUU). We have now included this in the text (lines 362-367) and in a new supplemental figure (Figure 2 supplement 3).
+
+Regarding tRNA measurements by YAMAT-seq:
+
+The authors should express more clearly in which sense the measurements are "relative", as it is not the relative expression level but the relative fractional contribution of each tRNA to the respective tRNA pool that is reported (e.g. line 254 is incorrect : DEseq2 was used to measure tRNA expression level differences between pairs of strains"; line 922 is incorrect: "Expression level of all 42 WT tRNA isotypes in poor medium relative to rich medium", and others, including much of the wording in section "Gene regulation cannot compensate for the loss of tRNA gene copies").
+
+A final note is that the reason YAMAT-seq does not report on levels of tRNAs is because a fixed amount of total RNA was used for the procedure (10 ug from each sample). Fast-growing cells have more RNA than slow-growing cells (both more RNA per cell, more RNA per OD, more RNA per ug protein, etc), so 10 ug represents RNA from more cells in the slow-growing cultures than it does in the fast-growing cultures.
+
+Thank you very much for these thoughtful comments. We agree that the phrasing was incorrect and confusing. We have now clarified in the methods section that YAMAT-seq is like RNA-seq, and only measures the contribution of a given tRNA isotype to the total tRNA pool (lines 221-225). We have also rephrased the text in the entire results section about YAMAT-seq as well as figure legends, to clearly convey the comparisons being made.
+
+Line 42: it is not completely clear to this reviewer what is meant by "target" and "non-target" tRNAs. Further explanation in the Introduction would be beneficial for some readers (like myself).
+
+This was described with an example in the Introduction (lines 45-52). We have now edited the text there to explain why we call them “target” tRNAs, which is hopefully helpful; and we have now added more explanation in the legend for figure 1.
+
+Line 282: was a pBAD plasmid really induced with IPTG, or is it a typo? I am only familiar with the arabinose-induction of pBAD plasmids.
+
+This was a mistake, thank you for pointing it out. It was a pKEN plasmid, not pBAD; we have now corrected this.
+
+Figure 2 - Figure Supplement 1 1: Growth curves on a linear scale cannot be used to evaluate growth rates by eye. Showing the curves on semi-log graphs would be much more informative to the reader.
+
+We have now added growth curves on a log scale to this supplementary figure.
+
+Reviewer #2 (Recommendations for the authors):
+
+1. Please be clear and consistent in referencing the figure.
+
+2. Please address or better explain your methodology, especially how Rrel can be negative.
+
+3. Please change figure 3 to mark significant and non-significant data points and discuss them in the text.
+
+4. Please tone down your arguments in places where they sound general when, in effect, they are specific to a condition (e.g., figure 3).
+
+5. I am missing controls. Please express deleted tRNAs from a plasmid in at least some deletion strains. If the author's hypothesis is true, it will rescue the negative fitness observed in deletion strains in rich media. These controls are needed at least in Figures 2 and 3. Notably, I would like to stress again that it should be done on a subset of the strains, probably the ones that display the strongest effect.
+
+Thank you for these points, which we have addressed as detailed above.
+
+Reviewer #3 (Recommendations for the authors):
+
+1. I think that in the discussion part the authors can discuss the possible cost/benefit effects of deleting one of the two copies of the translation elongation factor EF-Tu (Zuurmond et al. 1999, doi: 10.1007/s004380050934). As this is another example of seeming redundancy of the translation machinery in
+
+Thank you for this suggestion, we have now discussed this work (lines 693-696).
+
+2. In the discussion the authors suggest a model that explains their results (line 636). I think this suggested model will be clearer and easier to understand if it is described also through a graphical illustration.
+
+Thank you for this suggestion. We have now added a graphical representation as (new) Figure 7.
+
+3. In Figure 2D, I think the figure will be easier to understand with a clearer example of the relevant correlation using real data points. I would replace the bottom right example with one of the panels from Figure 2 —figure supplement 5.
+
+Here, we wanted to show the possible relationships and various implications, which would be difficult if we used actual data. Also, given the large variation across panels in the supplemental figure, we worry that choosing one would be misleading. Hence, we have retained the schematic.
+
+4. In Figure 3 both panels have the same axes labels (Glycerol to TB / TB to glycerol), according to the figure legend one of them should be switched to (Galactose to TB / TB to galactose).
+
+Corrected, thank you.

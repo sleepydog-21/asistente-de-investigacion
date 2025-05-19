@@ -1,0 +1,95 @@
+The iron-containing porphyrin heme serves as prosthetic group in essential proteins and plays a central role in many important cellular processes, like respiration and electron transfer. Additionally, heme serves as iron resource in iron-depleted environments [
+
+The main route for heme export in
+
+The goal of this study was to identify mutations that lead to increased
+
+Bacterial strains used within this study are listed in Table
+
+For cloning purposes,
+
+
+
+Bacterial strains used in this study
+
+730delG in
+
+frameshift at Ala245, pseudokinase variant
+
+Standard molecular methods were performed as previously described [
+
+Deletion of genes in the genome of
+
+
+
+Plasmids used in this study
+
+Pre-cultures of
+
+In triplicates, pre-cultures of
+
+Whole genome sequencing (WGS) of isolated
+
+Measurement of heme contents in the cells was performed using the Hemin Assay Kit (Sigma-Aldrich, St. Louis, United States), with the following preparations and adjustments: A pre-culture was inoculated in 1 mL BHI from a fresh agar plate from either WT or Δ
+
+A prerequisite for facilitating selection of clones featuring enhanced
+
+
+
+Characteristics of growth-coupled heme biosensor strains
+
+Having successfully demonstrated evolutionary pressure towards enhanced
+
+Based on the findings by Stella et al. [
+
+
+
+Selection on plates using growth-coupled biosensor strains. Growth and fluorescence of different growth-coupled biosensor strains of
+
+For both constructs, > 25 colonies of different sizes and fluorescent intensities were picked for further analysis. Bigger colonies which did not show a fluorescent signal were classified as cheater strains and therefore not selected.
+
+As depicted by [
+
+Samples of the last three batches were streaked on agar plates to enable isolation of single clones. Three clones from each of these three populations underwent Sanger sequencing tests to exclude cheater mutations in the biosensor region. Notably, from in total nine analyzed clones only one represented a classical cheater strain.
+
+
+
+Automated fluorescence ALE of
+
+In total, 19 clones were selected from plate screening and 4 clones from repetitive batch ALE for further analysis. Specific fluorescence of clones was quantified as a read-out for
+
+
+
+Screening of selected::
+
+WGS of the selected clones led to the revelation of several mutations, with the key mutations depicted in Table
+
+
+
+Potential key mutations identified in the sensor strains
+
+A recent structural analysis of CydDC presents comprehensive evidence that CydDC acts as a heme exporter necessary for proper maturation of cytochrome
+
+
+
+Analysis of a
+
+Heme biosynthesis regulation and homeostasis is highly complex and multilayered, as recently reviewed for Gram-positive bacteria [
+
+The gene predominantly selected through this plate-based approach and fALE was
+
+We further found mutations in
+
+Finally, both
+
+Beyond classical heme regulatory TCS circuits, the growth-coupled biosensor selection yielded a mutant of
+
+More than 30 years ago, it was already speculated that
+
+Taken together, this study demonstrates the potential of a P
+
+Below is the link to the electronic supplementary material.
+
+
+
+Supplementary Material 1

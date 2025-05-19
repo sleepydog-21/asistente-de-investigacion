@@ -1,0 +1,11 @@
+{
+  "id": "36100979",
+  "title": "Unsaturated fatty acid synthesis in Enterococcus faecalis requires a specific enoyl-ACP reductase.",
+  "doi": null,
+  "authors": "Dong H, Cronan JE",
+  "journal": "Molecular microbiology",
+  "year": "2022",
+  "abstract": "The Enterococcus faecalis genome contains two enoyl-ACP reductases genes, fabK and fabI, which encode proteins having very different structures. Enoyl-ACP reductase catalyzes the last step of the elongation cycle of type II fatty acid synthesis pathway. The fabK gene is located within the large fatty acid synthesis operon whereas fabI is located together with two genes fabN and fabO required for unsaturated fatty acid synthesis. Prior work showed that FabK is weakly expressed due to poor translational initiation and hence virtually all the cellular enoyl ACP reductase activity is that encoded by fabI. Since FabK is a fully functional enzyme, the question is why FabI is an essential enzyme. Why not increase FabK activity? We report that overproduction of FabK is lethal whereas FabI overproduction only slows the growth and is not lethal. In both cases, normal growth is restored by the addition of oleic acid, an unsaturated fatty acid, to the medium indicating that enoyl ACP reductase overproduction disrupts unsaturated fatty acid synthesis. We report that this is due to competition with FabO, a putative 3-ketoacyl-ACP synthase I via FabN, a dehydratase/isomerase providing evidence that the enoyl-ACP reductase must be matched to the unsaturated fatty acid synthetic genes. FabO has been ascribed the same activity as E. coli FabB and we report in vitro evidence that this is the case, whereas FabN is a dehydratase/isomerase, having the activity of E. coli FabA. However, FabN is much larger than FabA, it is a hexamer rather than a dimer like FabA.",
+  "source": "PubMed",
+  "pmcid": "PMC9671860"
+}

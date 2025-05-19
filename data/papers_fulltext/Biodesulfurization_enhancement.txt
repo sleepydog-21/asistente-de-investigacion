@@ -1,0 +1,91 @@
+The environmentally friendly process of biodesulfurization (BDS) is brought to the fore as the need for ultra-low sulfur content in diesel and other transportation fuels intensifies. Recalcitrant organosulfur compounds present in crude and diesel oil such as dibenzothiophene (DBT) and its derivatives, can be selectively cleaved for the removal of sulfur without degrading the carbon ring and therefore without sacrificing the heating efficiency of the fuel [
+
+Genomic and enzymatic background of the 4S desulfurization pathway in
+
+The BDS process is greatly affected by a number of factors, including but not limited to the intrinsic properties of the
+
+In addition, several genetic engineering strategies have been employed to address the challenge related to the availability of reducing power during BDS, through the development of recombinant strains harboring synthetic desulfurization cassettes, that comprise rhodococcal
+
+Another important issue is the low viability of the Gram-negative recombinant strains in petroleum or biphasic systems, which necessitates the deployment of more robust bacteria, such as
+
+Despite the advantages of plasmid-based modifications, another critical issue that should be considered when novel microbial biocatalysts are designed is the degree of genetic stability of the recombinants. In this context, genome-based modifications are considered more appropriate for the construction of genetically improved strains, so as to eliminate the risk of plasmid loss and to abolish the need for antibiotic addition during industrial-scale applications [
+
+Recently, several efforts started to pave the way for developing a more viable desulfurization process, as well as elucidating the understudied regulatory mechanisms governing biodesulfurization [
+
+Furthermore, recent metabolomics and proteomics analyses in
+
+In this study, we report the targeted genome editing of
+
+All bacterial strains and plasmids used herein are listed in
+
+List of strains and plasmids used.
+
+Chemicals were purchased from Sigma-Aldrich (Kappa Lab SA, Greece) and AppliChem (Bioline Scientific SA, Greece). All restriction enzymes were obtained from TaKaRa Bio (Lab Supplies Scientific SA, Greece). PCR reactions were performed using Kapa HiFi polymerase (Kapa Biosystems, Lab Supplies Scientific SA). Oligonucleotides were purchased from Eurofins Genomics (Vienna, Austria) and are listed in
+
+List of oligonucleotides used.
+
+Genomic DNA isolation from
+
+For resting cell biodesulfurization assays, cells were grown in Medium C in the presence of different carbon and sulfur source types and concentrations (described in the respective figure legends). Inoculum was prepared by harvesting cells from LBP agar plates in a S-free Ringer's solution (pH 7.0) and washing twice with the same buffer. For each condition, an initial biomass concentration of 0.05 ± 0.005 g/L was applied. The calculation of biomass concentration, expressed as Dry Cell Weight (DCW), was performed by measuring the optical density at 600 nm (OD
+
+Briefly, cells from two to four identical well cultures were collected by centrifugation, washed with a S-free Ringer's buffer (pH 7.0), and resuspended in 450 μL of 50 mM HEPES buffer (pH 8.0). Suspensions were split into three aliquots of 150 μL each, and an equal volume of the same buffer containing 2 mM DBT (prepared from a 100 mM EtOH stock) was subsequently added. The biodesulfurization assay was performed using resting cells for 30 min at 30 °C in a thermostated shaker (1200 rpm) (Thermo Shaker TS-100; BOECO, Germany) and terminated with the addition of an equal volume of acetonitrile (300 μL) and vigorous vortexing. The suspensions were centrifuged (14,000 ×
+
+For cultures supplemented with DBT as the sole source of sulfur, cells were grown in glass culture tubes with 5 mL working volume, at 30 °C and under shaking (180 rpm), while three cultures were inoculated for each strain. Samples of 150 μL were harvested from the growing DBT cultures in Eppendorf tubes at regular intervals, and an equal volume of acetonitrile (150 μL) was added. Cell suspensions were vortexed, centrifuged (14,000 ×
+
+For the quantification of 2-HBP levels, the HPLC analysis was performed on an Agilent HPLC 1220 Infinity LC System equipped with a fluorescence detector (FLD), according to Martzoukou et al. [
+
+A 7500 real-time PCR system (Applied Biosystems, Carlsbad, CA) was employed for the qRT-PCR assays, utilizing the SYBR green I dye. The transcript levels of
+
+All reported values represent mean ± standard error of mean (SEM). A one-sample
+
+In the present work, for the construction of recombinant biocatalysts, we performed precise (to a single base pair of DNA), unmarked (without leaving any antibiotic resistance cassette), scarless (no “scar” sequence is retained), targeted (eliminating risks of off-target recombination) genetic modifications through a two-step homologous recombination process [
+
+A
+
+Organization of wild-type (wt) and engineered
+
+The type of carbon source is known to have an important effect on the growth and catalytic activity of the wt or other recombinant
+
+Effect of different carbon sources on strain growth (Biomass, g/L) and desulfurization activity (Units 2-HBP/mg Dry Cell Weight [DCW]) for the wt (A),
+
+Maximum specific biodesulfurization activities (U/mg DCW) of strains grown on different carbon and sulfur source combinations.
+
+Maximum Units of 2-HBP/mg
+
+To determine the effect of sulfur source type on the growth and desulfurization capability of the recombinant biocatalysts, a series of studies was performed with the supplementation of DMSO and sulfate, two S-containing compounds that do not repress the biodesulfurization activity in the presence of Medium C [
+
+Growth (Biomass, g/L) and desulfurization activity (Units 2-HBP/mg
+
+Sulfate was also supplemented as the sole sulfur source at 1 and 2 mM, to the wt and recombinant strains (
+
+Growth (Biomass, g/L) and desulfurization activity (Units 2-HBP/mg
+
+Comparison of the two different sulfur sources reveals that the documented biodesulfurization maximum when DMSO was used as the sole sulfur source for strain
+
+The superior biodesulfurization performance of strain
+
+The supplementation of DBT in the culture medium results in the accumulation of the end-product 2-HBP, the levels of which are measurable with high-performance liquid chromatography (HPLC), in samples collected from the growing cultures at regular intervals. Here, the wt and recombinant strains were grown in Medium C supplemented with 0.1 mM DBT as the sole sulfur source, in the presence of ethanol (165 mM) as the sole carbon source. Growth expressed as biomass (g/L), as well as 2-HBP levels (μM) were measured in the culture supernatant every 24 h for a period of seven days. Importantly, the recombinant
+
+Growth (Biomass, g/L) and desulfurization activity (Concentration of 2-HBP in μM) of strains wt,
+
+To determine whether the observed enhanced biodesulfurization activity of strain
+
+Transcript level comparison within
+
+In the present study, the genetic modifications were integrated in the chromosome of
+
+Investigation of the effect of carbon source validated the superiority of ethanol, compared to glycerol, in the presence of Medium C for all tested strains. This result agrees with previous reports wherein a different Chemically Defined Medium (CDM) was combined with ethanol as the sole carbon source, for growth of
+
+Importantly, when compared to both control strains in the presence of all DMSO concentrations and 1 mM sulfate, the recombinant strain harboring the extra
+
+An enhanced catalytic efficiency of strain
+
+Quantification of
+
+While this study focuses on the biodesulfurization performance of the
+
+In conclusion, the present study demonstrated the successful construction of a novel genetically engineered
+
+The data supporting the findings of this study are available within the article and in Supplementary data.
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.

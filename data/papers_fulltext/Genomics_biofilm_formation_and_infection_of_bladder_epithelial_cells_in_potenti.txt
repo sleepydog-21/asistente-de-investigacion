@@ -1,0 +1,93 @@
+Urinary tract infections (UTIs) are one of the most recurrent and widespread infectious diseases in humans, accounting for around 150 million cases annually, representing an important public health problem with high economic impact on the health-care system [
+
+A wide range of pathogens are implicated in UTI, including Gram-positive and Gram-negative bacteria as well as fungi, however, the most common agent is
+
+Previous studies have claimed that food-producing animals act as a source of human ExPEC isolates, potentially transmitted to humans
+
+To gain knowledge on the uropathogenicity of food/animal isolates, we aimed here the comparison of a representative
+
+Thirty-one
+
+The UPEC status based on specific genes (
+
+WGS and genome assembly was performed as previously described [
+
+The ability of the isolates to infect human epithelial J82 cells, derived from a bladder carcinoma (ATCC HTB-1), was tested following the previously described protocol [
+
+Before the screening of the complete collection,
+
+For the 96-well microtiter plates method, 20 μL of the cell suspension were inoculated into 180 μL of LB in a 96-well microtitre plate (BRAND®, Merck, Spain) and incubated at 37 °C for 24 h. Next, the medium was removed, wells were washed with 200 μL of LB to remove non-attached bacteria, and biofilms were allowed to dry. Then, 200 μL of 0.04% crystal violet solution (Panreac, Spain) was added to all wells and plates were incubated for 20 min at room temperature. The excess dye was removed by washing twice with distilled water, bound crystal violet was released by adding 200 μL of 33% acetic acid (Scharlab, Spain), and the sample absorbance was measured at OD
+
+Following the Stepanovic et al. [
+
+Statistical analyses were performed using Prism 8 (GraphPad, San Diego, CA, USA), and significant differences were determined at
+
+UPEC is part of the extraintestinal pathogenic
+
+The selection criteria of the
+
+Isolate and genome (LREC) identification.
+
+O and H antigen prediction with SerotypeFinder 2.0.
+
+Sequence types (ST#1 and ST#2) based on two different MLST schemes were applied:
+
+Core genome ST obtained with cgMLSTFinder1.1. software run against the Enterobase database.
+
+Clonotypes,
+
+Resistome: Acquired resistance genes:
+
+Virulence determinants:
+
+The increasing emergence of UPEC extended-spectrum-betalactamase (ESBL)-producing isolates currently challenges the therapeutic management of UTI worldwide [
+
+In detail, flagellar genes of operons
+
+Bacterial adherence constitutes the key step to develop a UTI. UPEC express several fimbrial adhesins that promote the attachment to bladder epithelial cell layer, of which type 1 and P fimbriae are the best characterized and most relevant virulence factors for infection [
+
+Genomic traits associated with UPEC found within the studied
+
+Other highly prevalent virulence genes (≥ 20 isolates) found here, were those encoding: siderophores (
+
+UPEC isolates can form biofilm-like intracellular bacterial communities, a relevant pathogenetic mechanism that provides protection against neutrophils, antibiotics, and stresses [
+
+Cell culture assays have been widely used to determine the mechanisms and effects of UPEC interactions with host cells [
+
+Percentage and standard deviation (SD) for
+
+Vertical dashed lines separate the isolates according to their origin. Horizontal broken lines indicate the low, moderate, and strong association or invasion established for classification of the isolates. The data represent means and SD of at least 3 replicates. *Statistical significance (P < 0.05) using one-way ANOVA followed by Dunnett's in comparison with K12.
+
+Regarding origin, the poultry
+
+Within the human UTI isolates, a relevant finding was the difference found regarding invasion pattern and type of infection. Thus, 100% of the uUTI isolates showed low invasive capability, while 75% of the cUTI
+
+Biofilm formation is an important pathogenic determinant in UPEC [
+
+Under the selected condition, all isolates but one (LREC-287, cUTI) formed measurable biofilm. The LREC-287 isolate was classified as non-biofilm producer despite the carriage of
+
+Biofilm formation of
+
+Comparing results across different studies may be difficult, as the biofilm production greatly depends on the culture medium and assayed conditions [
+
+No correlation was observed here between cell infection capacity and origin or ST. Moreover, our results suggest similar
+
+Comparisons between the ability to associate and/or invade bladder cells and the biofilm production revealed only a positive correlation between cell association and biofilm formation for isolates belonging to phylogroup F (Spearman
+
+Most of the human isolates analysed here belong to the pandemic ExPEC lineages CC131 and ST1193 [
+
+The MDR determined in 17 isolates (55%), including 14 fluoroquinolone-resistant (FQR) and 12 ESBL-producers, did not correlated with a higher biofilm production. Thus, 71% and 93% of MDR and non-MDR isolates, respectively, exhibited strong or moderate biofilm formation (
+
+Poultry meat as UPEC reservoir has been extensively described, however, pork and beef meat have not been analysed in-depth so far. Here, 1 pork (O119:H4-G-ST117) and 1 beef meat (O8:H10-B2-ST1257) isolates showed low and moderate ability to infect bladder cells, together with hyper and strong biofilm-production, respectively. This finding would indicate that other food-producing animals different from poultry can carry potentially UPEC high-risk clones, which deserves further surveillance.
+
+Our results suggest similar
+
+Bladder-cell infection assays, together with genomics, might be of utility to predict the infection severity of human
+
+The nucleotide sequences of the isolates were deposited in the European Nucleotide Archive (ENA) and are part of BioProject IDs PRJNA558228, PRJEB49681, PRJEB55215 and PRJEB55220.
+
+This study was supported by the projects and funds PID2019-104439RB-C21/AEI/10.13039/501100011033 from the
+
+Not required.
+
+All authors declare no conflicts of interest.

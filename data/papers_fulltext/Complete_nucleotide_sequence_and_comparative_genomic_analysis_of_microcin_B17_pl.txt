@@ -1,0 +1,59 @@
+Microcin B17 (MccB17), is a small (3093 Da), ribosomally synthesized and posttranslationally modified peptide (RiPP) that is produced by
+
+Conjugative plasmid pMccB17, previously known as pRYC17, was originally found in
+
+Here we report the complete sequence of pMccB17, with some comparative genomic analysis. This sequence provides an insight into the biology of a prototypical microcin plasmid and a definitive sequence for the
+
+The
+
+Bacterial genomic DNA was isolated from strain ZK0005 as part of the initial DNA sequencing process as follows (this was carried out by microbesNG, details below). Cells were lysed in TE buffer containing lysozyme (final concentration 0.1 mg/mL) and RNase A (0.1 mg/mL) with incubation for 25 min at 37°C. Proteinase K (0.1 mg/mL) and sodium dodecyl sulfate (final concentration 0.5% v/v) were then added and this mixture was incubated for 5 min at 65°C. Genomic DNA was purified using an equal volume of solid‐phase reversible immobilization beads and resuspended in elution buffer (EB;10 mM Tris‐HCl, pH 8.5).
+
+Plasmid DNA (pMccB17) was isolated from strain ZK0005 by alkaline lysis followed by anion‐exchange chromatography (Plasmid Midi kit, Qiagen) according to the manufacturer's recommendations for “very low‐copy” plasmids. DNA was eluted in EB buffer as above.
+
+Plasmid DNA (pPY113) was isolated by alkaline lysis followed by chromatography using a silica matrix (Monarch Plasmid Miniprep Kit, New England Biolabs. DNA was eluted in DNA elution buffer (10 mM Tris‐HCl, 0.1 mM EDTA, pH 8.5).
+
+Plasmid pMccB17 was sequenced twice using an Illumina short‐read next‐generation method by microbesNG (
+
+Plasmid pPY113 was sequenced using a nanopore platform (PromethION with v14 chemistry and R10.4.1. flow cells; Oxford Nanopore Technologies). Sequencing and annotation were performed by Plasmidsaurus.
+
+Sanger DNA sequencing of PCR amplicons, for plasmid genome finishing/gap resolution, was carried out by DBS Genomics (Durham University, UK).
+
+PCR Primers were designed to amplify across gaps in the draft sequence, and the corresponding oligonucleotides were synthesized by Integrated DNA Technologies (Appendix Table
+
+The draft genome sequence was annotated automatically by MicrobesNG using Prokka 1.11 (Seemann,
+
+Replicon typing was carried out using the IncF RST (replicon sequence typing) scheme, as implemented by pubMLST (
+
+The phylogenetic tree of ParB‐fusion (Pbf) protein homologs was built using a maximum‐likelihood method as implemented by MEGA X (Kumar et al.,
+
+Identification of resistance genes was performed by submitting the complete plasmid nucleotide sequence to the ResFinder web server (
+
+Draft genomes were obtained using a short‐read, high coverage (Illumina) approach as described in Methods. Plasmid contigs from the draft genome were scaffolded as follows. Two contigs, 1.27 and 1.52, from the first draft sequence (of plasmid and chromosomal DNA), were discovered to have standard plasmid‐related features by manually examining the genome sequence. Contig 1.27 (60,265 bp) had 71 genes including the MccB17 operon, conjugative transfer system, replicon system, and some plasmid maintenance genes (
+
+Finally, 114 nucleotides missing from contig 2.1 were added manually using Artemis, resulting in a complete circular genome sequence for pMccB17. This sequence was submitted to GenBank (accession number ON989342).
+
+The replicon sequence type was assigned using the IncF RST scheme as implemented by pubMLST and pMLST, indicating a FAB type of F2:A‐:B‐; so pMccB17 has an FII replicon (allele 2) without additional FIA or FIB replicons (Villa et al.,
+
+pMccB17 is a circular IncFII plasmid (69,190 bp) with an average GC content of 51% and 83 CDS (Figure
+
+Circular Map of pMccB17. The outer ring shows the size of the plasmid, each tick representing 4 kb. The microcin operon is shown in brown, plasmid maintenance systems are shown in yellow, the replicon is shown in pink the conjugative transfer system is represented in blue, hypothetical proteins are shown in turquoise, origins of replication are in green and the 149 bp direct repeats are shown in red. Analysis based on the complete sequence as submitted to Genbank (ON989342). Diagram generated using DNAplotter (Carver et al.,
+
+The
+
+Comparison of the proteins encoded in the
+
+We do not believe that the RYC1000 [pMccB17]) strain sequenced here has been passaged extensively since it was derived from the original capture of pMccB17 by conjugation into BM21 (Baquero et al.,
+
+In the process of aligning contigs 1.27 and 1.52 with contig 2.1, to ascertain the complete plasmid sequence, we discovered a 149 bp direct repeat in contig 2.1 (Appendix Figure
+
+Searches using BLASTn against the nucleotide collection (nr/nt) database at NCBI revealed that the repeated sequence is present in IncF plasmids of Gammaproteobacteria, mainly from the Enterobacterales, In 20 plasmids examined, having query coverage and identity of 100%, copy number ranged from 1 to 3 and all were members of the IncF family. The exact function of these repeated sequences is unknown, but several genes are commonly flanked by these repeats, including
+
+Upstream of
+
+Plasmid pMccB17 seems a typical member of the IncFII family, apart from its carriage of the MccB17 biosynthetic gene cluster
+
+
+
+The authors declare no conflict of interest.
+
+None required.

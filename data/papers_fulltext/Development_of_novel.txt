@@ -1,0 +1,73 @@
+Manganese is a trace element essential for living organisms, and its deficiency can cause numerous biochemical and structural abnormalities (
+
+Similar to other heavy metals, Mn can be quantified and analyzed using instrument-based analytical techniques, such as inductively coupled plasma (ICP)–atomic emission spectroscopy (AES) and ICP–mass spectroscopy. Although such techniques have advantages of high precision and accuracy, they are time-consuming and expensive. Accordingly, several different sensors, such as electrochemical, nanomaterial, chemical, and bacterial cell-based biosensors, have been developed based on novel techniques to detect heavy metal(loid)s (
+
+Previous studies have identified genes associated with Mn(II) homeostasis, and reported that MntR acts as a regulatory protein at the Mn(II) level in
+
+In this study, we developed Mn(II)-sensing biosensors based on
+
+The promoter regions of
+
+The lists of
+
+The endogenous genes,
+
+To investigate the applicability of
+
+R 4.1.0 and DescTools package were used for the statistical analysis of the data when the minimum difference between the control and treatment means was statistically significant (
+
+The promoter regions of
+
+DNA sequence of promoter regions and the diagram of Mn(II)-sensing
+
+Fluorescence signals of
+
+Because the biosensor based on pMntS-eGFP responded to Mn(II) concentration, it was employed for further investigation to characterize the properties of Mn(II)-sensing biosensors. However, optimizing the experimental conditions was necessary to achieve optimum biosensor performance.
+
+Responses of
+
+To verify the effects of MntR,
+
+Role of MntR in Mn(II)-sensing
+
+An increase in intracellular Mn(II) induces the expression of MntP, a Mn(II) exporter, to keep manganese concentration constant (
+
+Effects of MntP on Mn(II) sensitivity of
+
+As transcription under P
+
+Metal(loid) selectivity of biosensors harboring pMntS-eGFP and pCDF-MntR based on host strains. The fluorescence signals of biosensors based on
+
+As described previously, the biosensor with pMntS-eGFP showed specific responses toward Mn(II), and the sensitivity toward Mn(II) was enhanced using
+
+In the case of water samples, the Mn(II)-specific biosensors were subjected to 1.2, 1.4, 1.6, and 1.8 μM Mn(II)-spiked samples, and the amount of Mn(II) was calculated from a standard curve obtained using 0–5 μM Mn(II). On comparing the Mn(II) concentrations determined by the biosensors with the original spiked concentrations (
+
+The quantification of Mn(II) in artificially contaminated water samples.
+
+The quantification of Mn(II) in mancozeb spiked water samples.
+
+As mancozeb is widely used in agricultural industries, Mn(II) released from mancozeb accumulates in terrestrial environments. Thus, measuring the potential of the biosensors to quantify Mn(II) in soil is essential. Accordingly, residual Mn(II) was determined from the mancozeb-amended soil samples, which were prepared by spiking 5.0, 10.0, and 100.0 mg of mancozeb into 1 g of loam soil. Subsequently, Mn(II) was extracted with 10 mL of distilled water. The residual Mn(II) in the soil leachates was analyzed using
+
+The amount of Mn(II) originated from mancozeb amended soil samples determined by
+
+Heavy metal(loid)s, which are used in several industries, are released into environmental systems and threaten human health (
+
+Although bacterial cell-based biosensors can target diverse chemicals, antibiotics, and heavy metals, their basic working mechanisms are similar. Typically, the genetic systems that respond to stress have been employed as sensing domains that initiate the transcription of reporter domains (
+
+In this study, we developed Mn(II)-sensing bacterial cell-based biosensors using a genetic system related to Mn(II) homeostasis and a strategy to enhance selectivity and sensitivity by molecular engineering. The
+
+As shown in
+
+As the Mn(II)-sensing biosensors were developed based on the
+
+Our previous studies indicated that the sensitivity of biosensors was enhanced by deleting genes related to target exportation, such as
+
+Although
+
+As the newly generated biosensors showed Mn(II) specificity and sensitivity, the application of biosensors to environmental systems was examined. Accordingly, water and soil samples amended with Mn(II) and mancozeb were prepared, and the residual Mn(II) amount was quantified. The biosensors were directly subjected to the prepared water samples, and the fluorescence intensities were subsequently measured; moreover, the soil samples were applied as soil extracts. Mn(II) concentration in the Mn(II)-spiked water samples was determined using a standard curve, and the resultant accuracy of the biosensor assay was >90% (
+
+In conclusion, new Mn(II)-specific biosensors were developed and their applicability to environmental systems was verified. Because Mn is relatively less toxic than other toxic heavy metals, Mn has not been monitored extensively in environmental systems. This poses a serious problem because the industrial application of Mn has rapidly increased. Further, Mn-conjugated fungicides have been widely used in agricultural industries, and their toxic effects have been reported. Thus, the Mn(II)-specific
+
+The datasets presented in this study can be found in online repositories. The names of the repository/repositories and accession number(s) can be found in the article/
+
+YJ: conceptualization, investigation, and data analysis. YL: investigation and data analysis. YK and CP: investigation. HC and GJ: conceptualization and writing. YY: supervision, data analysis, and writing. All authors contributed to the article and approved the submitted version.

@@ -1,0 +1,77 @@
+Sjögren’s Syndrome (SjS) is a chronic, progressive autoimmune disease characterized by inflammatory cell infiltration of the salivary and lacrimal glands, resulting in acinar epithelial cell atrophy, cell death, and loss of exocrine function (reviewed in
+
+The development of therapeutics for SjS poses significant challenges, in part because of the heterogeneity of clinical disease. Few studies have addressed the critical issue of identifying interventions to stop or reverse the destructive autoimmune process. Currently, no therapeutics address the cause of SjS, but instead treatments consist of replacement therapies such as artificial saliva and eye lubricants or immunosuppressive agents
+
+Originally conceived as a diarrheal vaccine for humans
+
+The use of
+
+To advance clinical translation, an
+
+LL 301 was generated to have a
+
+Oral treatments with
+
+In evaluating LL 301’s efficacy relevant to LL-CFA/I to mitigate salivary flow loss in C57BL/6.NOD-
+
+The mitigation of SFR loss would be expected to result from inflammatory cell arrest. The study was terminated at week 29, and the levels of IFN-γ- and IL-17-producing CD4
+
+Oral treatments with LL 301 reduce inflammatory cells and augments anti-inflammatory CD4
+
+Additional cytokine analysis was performed on anti-CD3 plus anti-CD28 mAb treatments to measure if head and neck lymph nodes (HNLNs), mesenteric LNs (MLNs) and splenic T cells exhibit anti-inflammatory cytokine capacity. All of the HNLN and MLN treatment groups showed significant reduction in IFN-γ production compared to PBS-dosed SjS mice (Fig.
+
+Given the positive outcome of the previous findings using LL 301, the study was repeated using a medium (5 × 10
+
+Oral treatments with LL 301 protect against the development of SjS retaining SFR and reducing gland inflammation. The (
+
+Additional analysis was conducted to determine if LL 301 was capable of eliciting regulatory T cells (Tregs). No significant differences in splenic Foxp3
+
+LL 301 treatments enhances TGF-β
+
+To discern LL 301’s therapeutic potential (Fig.
+
+Oral treatments with LL 301 restore salivary flow in diseased SjS mice. (
+
+Tfh cells aid B cells by supporting the formation of germinal centers for maturation of antibody responses, and patients with primary SjS exhibit increased circulating Tfh cells
+
+Long-term oral treatment with LL 301 reduces the number of follicular Th (Tfh) cells in the HNLNs and proinflammatory cytokines with concomitant increases in anti-inflammatory cytokines. Groups of 6-week-old SjS (7–8 mice/group) females were orally dosed with 5 × 10
+
+SMGs from LL 301- and PBS-treated SjS females were also evaluated for the presence of Tfh cells and Tregs. SMG lymphocytes were gated on TCRβ
+
+Long-term oral treatment with LL 301 reduces the number of Tfh cells in the SMGs and proinflammatory cytokines. SMGs were isolated from the same mice used in Fig.
+
+SjS remains problematic with no current therapies addressing the deficits in regulatory cells to defend against autoimmune attack. The development of oral therapeutics that stimulate Tregs and other regulatory cells to treat autoimmune diseases has the potential to reverse disease. Past studies using CFA/I fimbriae as an oral therapeutic have demonstrated the capabilities of such protein to limit inflammatory T cells in a number of autoimmune disease settings
+
+The production of CFA/I protein by the LL 301 strain is similar to that of LL-CFA/I. As a result, LL 301 should be as effective as LL-CFA/I, which has previously been shown to protect against collagen-induced arthritis
+
+Foxp3 expression varied with times of detection subsequent treatment with LL 301. Our evidence also showed that Tregs did not always express Foxp3, although increases in TGF-β
+
+An important finding from the current studies is that LL 301 can intervene with ongoing SjS. Two doses of LL 301 proved sufficient in restoring salivary flow. Although it was less able to impact SMG pathology due to the damage already caused by disease, LL 301 did prove effective in reducing proinflammatory IFN-γ
+
+Tfh cells have also been implicated in contributing to SjS disease exacerbation in their role to expand autoimmune B cells in salivary glands
+
+In summary, LL 301 proved effective in reducing inflammatory cell infiltration into the SMGs via the stimulation of Tregs and their action by the production of TGF-β and IL-10. Importantly, LL 301 can act therapeutically by reducing inflammatory cell infiltration into the SMGs and restore salivary flow. This study reveals the presence of Tfh cells in diseased C57BL/6.NOD-
+
+The CFA/I expression cassette was integrated in
+
+The generation of
+
+Using a genetic model for SjS
+
+Individual mice were weighed and given an intraperitoneal (IP) injection of 100 μl of a mixture containing isoproterenol (Sigma-Aldrich) (0.2 mg/1 ml of PBS) and pilocarpine hydrochloride (Sigma-Aldrich) (0.05 mg/1 ml in PBS). To measure stimulated flow rates, saliva was collected for 10 min from the oral cavity of each mouse using a micropipette as previously described
+
+To assess the degree of inflammation of salivary glands, tissues were fixed in 10% phosphate-buffered formalin (Leica Biosystems, Richmond, IL) for 24 h, and then these were embedded in paraffin and sectioned at 50–100 μm deep at a thickness of 5 μm. Paraffin-embedded sections were deparaffinized by immersing in xylene, followed by dehydration in ethanol, and tissue sections were stained with hematoxylin and eosin (H&E) dye (UF College of Veterinary Medicine Histology Tech Services, Gainesville, FL). To measure the extent of leukocyte infiltration into the salivary glands, a single histological section per gland per mouse was scanned using an Aperio ScanScope (Aperio, San Diego, CA) slide digitizer at 20× magnification as previously described
+
+To measure the presence of ANA levels, individual serum from mice treated with PBS or LL 301 was examined using the HEp-2 ANA kit (Inova Diagnostics, Inc., San Diego, CA, USA) by following manufacturer’s instructions
+
+Head and neck lymph node (HNLNs), mesenteric LNs (MLNs), and spleens were aseptically removed, and single cell suspensions were prepared as previously described
+
+For flow cytometry analysis, restimulated lymphocytes were treated with 5 µg/mL brefeldin A (Biovision, San Francisco, CA, USA) for 3–4 h to block cytokine release. Splenic and LN lymphocytes were subjected to a viability stain using a LIVE/DEAD Fixable Blue Dead Cell Stain Kit, for UV excitation (ThermoFisher). Cells were then washed with Dulbecco’s PBS (Gibco, ThermoFisher
+
+At termination of the studies, harvested HNLN, MLN, and splenic lymphocytes were restimulated and cultured as described above. Cytokine capture ELISAs were used to quantify levels of IFN-γ, GM-CSF, IL-6, IL-10, IL-17, and TGF-β present in culture supernatants. Identical mAb pairs and methods were used as previously described
+
+A power analysis was conducted, and found that 5 mice per group were needed to show a significant difference for at least a 20% change in SFR. All presented data are the mean ± standard error of the mean (SEM). Statistical significance was tested using GraphPad Prism 8 (Prism, Irvine, CA). One-way ANOVA with Tukey’s multiple comparisons test were used to compare FACS data, cell counts, cytokine production, and salivary flow rates. All results are discerned to the 95% confidence interval.
+
+
+
+Supplementary Figure 1.

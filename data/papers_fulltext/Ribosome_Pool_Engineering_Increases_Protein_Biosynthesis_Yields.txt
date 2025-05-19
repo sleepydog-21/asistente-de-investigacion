@@ -1,0 +1,263 @@
+Ribosomes are macromolecular machines
+that play a central role
+in the synthesis of proteins by catalyzing peptide bond formation
+between amino acids in a sequence defined manner. They are composed
+of small and large subunits (SSU and LSU) that contain both ribosomal
+RNA (rRNA) and ribosomal proteins (r-proteins). In
+
+The seven unique rRNA operons in
+
+Unfortunately, studying if and how native rRNA sequences
+affect
+protein translation is limited by our inability to isolate and test
+ribosomes from specific operons, as well as difficulties in controlling
+for the effects of operon promoter architecture and position in the
+genome. Previous work has explored inactivating rRNA operons in the
+genome to assess how cells performed with fewer ribosomal operons
+and found that having fewer instances of rRNA in the genome results
+in slower doubling times, but these findings were not controlled for
+the differences in genome position and promoter architecture.
+
+Here, we set out to use the iSAT method
+to explore whether heterogeneity
+of native rRNA sequences affects the activity of resulting ribosomes
+and whether this can be used to optimize protein biosynthesis. We
+use
+
+The goal of our work was to characterize the sequence
+effect of natively occurring rRNA operons on recombinant protein production.
+As a model, we focused on the seven distinct genomically encoded rRNA
+operons from
+
+Genomic rRNA operons produce ribosomes
+that vary in iSAT activity.
+(A) rrn operons in the genome have different architectures and sequences.
+Residues that differ from the reference operon B sequence are highlighted
+in black; white boxes indicate tRNA genes; domains and nucleotide
+scale are indicated in gray below. (B) iSAT reaction set up allows
+for expression, assembly, and testing of individual rRNA sequences
+in a ribosome-free lysate. (C) Single operon rRNA encoding plasmids
+show a wide range of activities in iSAT. Gene expression curves of
+sfGFP synthesis in iSAT, mean of
+
+We used the iSAT platform
+
+iSAT reactions were incubated at 37
+°C where the transcribed
+rRNA is assembled into a ribosome and tested for the ability to synthesize
+sfGFP. We found the seven naturally occurring rRNA operons in
+
+We next investigated
+whether the functional variation of ribosomal
+operons is also observed in living
+
+Expression
+and assembly of single-operon ribosomes
+
+Operons A, B, C, E, and G were successfully transformed
+and selected,
+having similar growth phenotypes when grown in LB medium (
+
+We then compared the translational activity of ribosomes derived
+from each operon to a wild-type heterogeneous pool of ribosomes. 70S
+ribosomes were purified from the single-operon strains A, B, C, E,
+and G, as well as from the parent strain MG1655, which natively expresses
+all seven rRNA operons. Reactions were prepared
+
+Of note, we see differences between
+growth trends (
+
+As expected, we also observed
+that the activity trends for purified
+homogeneous ribosome pools (
+
+To investigate why
+
+To build operon combinations, we made constructs that used
+16S and 23S rRNA genes individually from each operon with counterparts
+from operon B to test in iSAT. All constructs carry the 5S rRNA sequence
+from the model B operon. As some of the 16S and 23S rRNA sequences
+are the same between different operons, this resulted in only 10 unique
+sequences, including that of the B operon (e.g., the 23S rRNA sequence
+of the B operon matches that of the G operon). When the unique combination
+constructs were tested for sfGFP production in iSAT, we found that
+6 of 9 pairs yielded ribosomes that produced at least 20% as much
+sfGFP as the control from operon B (
+
+Engineered
+ribosomal operons highlight that some natively occurring
+rRNA sequences are low performing or inactive. (A) iSAT activities
+of the combination operons. End point of sfGFP expression, normalized
+to iSAT activity of reference BBB, mean of
+
+Considering the structure of the rRNA and where
+these polymorphisms
+fall in 3D space, we can infer how sequence differences between operons
+may affect activity (
+
+The 23S rRNA sequences from both operons C and D carry
+polymorphisms
+in the PTC that differentiate them from consensus operon B (
+
+To test whether these specific polymorphisms are the source
+of
+decreased ribosome activity, we synthesized individual plasmids containing
+rrnC and rrnD with single motifs of interest mutated to match the
+consensus sequence of operon B and tested them in iSAT (
+
+We next sought to use sequence-optimized ribosomes
+to increase the protein biosynthesis yields. As a model, we explored
+this strategy in the context of cell-free protein synthesis (CFPS).
+CFPS is an attractive approach to produce proteins
+
+Homogeneous ribosome pools increase protein biosynthesis yields
+relative to heterogeneous ribosome pools. (A) Standard S12 lysates
+for CFPS contain a heterogeneous ribosome pool. (B) S12 lysates for
+CFPS made from single-operon strains yield lysate expressing a homogeneous
+ribosome pool. (C) Homogeneous ribosome pool lysates show a wide range
+of sfGFP production, and some outperform standard S12 lysate from
+a mixed ribosome pool (MG1655). Operon sequence notation shown as
+16S:23S:5S. Error bars indicate standard deviations of
+
+We made cell-free lysates derived from source strains
+with homogeneous
+ribosome pools (i.e., expressing single rRNA operons) (
+
+We then
+took the highest performing lysate (AAA) and used it to
+express a panel of five proteins that differ in size, function, and
+structure (
+
+We next assayed
+two of the proteins for activity. We used an amplified
+luminescent proximity homogeneous assay (AlphaLISA)
+
+We set out to investigate the impact of
+sequence differences in
+rRNA operons found in nature on protein biosynthesis. While past works
+have indicated that ribosomal operons in
+
+Our finding that ribosomes derived from the rrnD and rrnH operons
+were nonfunctional was surprising and suggests that the native
+
+In summary, this work demonstrates new
+basic science knowledge
+that functional activity variation exists across ribosomes derived
+from the seven rRNA operons in natively expressed ribosome pools in
+
+Ribosomal operon sequences
+and annotations
+were acquired from the
+
+Plasmids for expression of rRNA
+
+DNA constructs for the
+expression of the proteins in CFPS were
+made using the pJL1 backbone plasmid as previously described
+
+S150 lysate was prepared as
+previously reported.
+
+After thawing on ice for 20 min, S30 buffer was added
+at a ratio of 5 mL per 1 g of cell mass, and then the cells were resuspended
+by vortexing until fully in solution. 100 μL of HALT Protease
+Inhibitor Cocktail was added per 10 mL of cell suspension, and 75
+μL of Takara Recombinant RNase inhibitor was added per 4 g of
+dry cell mass. Cell lysis was achieved using a C3 Avestin Homogenizer
+at a pressure of approximately 25,000 psig. Following lysis, a second
+aliquot of the Takara Recombinant RNase inhibitor was added. The resulting
+mixture was centrifuged at 12,000
+
+The
+samples were then spun in an ultracentrifuge at 90,000
+
+Electrocompetent
+
+50 ng of purified mutant pAM552 plasmid transformed into the SQ171fg
+electrocompetent cells. The cell/plasmid mixture was then incubated
+in 850 μL of SOC in a 1.5 mL microcentrifuge tube at 37 °C
+while being shaken at 250 rpm for 1 h. After the incubation, 270 μL
+of the cell recovery was transferred to 2 mL of Super Optimal broth
+with Catabolite repression (SOC) supplemented with 50 μg/Ll
+Cb (Cb
+
+Constructs that did not yield colonies on LB-Suc
+
+To confirm that the cells relied solely on the mutated ribosomes,
+overnight cultures of the successfully transformed SQ171fg strains
+were grown in 5 mL volumes, and total RNA was extracted using the
+QiagenTM RNeasy Mini kit. RT-PCRs were conducted using the Invitrogen
+SuperScript IV One-Step RT-PCR system to amplify regions of rRNA that
+contained mutations in the operons. The amplified products were then
+Sanger sequenced.
+
+Overnight cultures
+of SQ171fg solely
+expressing the desired rRNA operon were diluted and normalized to
+OD600 of 0.01, in antibiotic-free LB medium. Seven replicates of 180
+μL each were plated on Corning 96-well flat bottom plates, with
+MG1655 (SQ171fg parent strain) and BL21 Star (DE3) (common protein
+production strain) serving as positive controls and noninoculated
+LB as blank. Plates were incubated in an Agilent BioTek Synergy Neo2Microplate
+Reader at 37 °C for 25 h while measuring cell density (OD600)
+every 20 min. Readings from the blank wells were averaged and subtracted
+from all of the data points before analysis. Wells containing OD600
+values that fell more than two standard deviations away from the median
+were categorized as outliers and excluded from the analysis. Lag time
+for each well was output as a calculation from the Neo2 software.
+
+500 mL of LB-Miller
+was induced with an overnight culture of strain containing desired
+ribosomes, targeting an OD of 0.05. Cells were grown at 37 °C
+at 250 rpm until they reached an OD of 0.6–0.8. The cells were
+then pelleted via centrifugation for 10 min at 8,000
+
+The cell pellet was resuspended in 1
+mL of Buffer A per gram of cell pellet and lysed by sonication (50%
+Amplitude, 45 s ON, 59 s OFF, 950 J per mL of suspension). The sonicated
+cell suspension was then diluted to a total volume of 13 mL in Buffer
+A and centrifuged for 10 min at 12,000
+
+Cell growth
+for extract preparation
+was carried out as previously described.
+
+The pellet was thawed on ice and resuspended
+with 1 mL of S30 Buffer per gram of pellet in a 1.5 mL Eppendorf tube.
+The cells were then lysed via sonication (50% amplitude, 45 s ON,
+59 s OFF, 950 J per mL of suspension) and centrifuged for 10 min at
+12,000
+
+CFPS reactions for the
+expression of pJL1-AdhE2 were set up with S12 lysates AAA and MG1655
+as described in the
+
+The overnight reactions were
+then mixed with 10 mM butyraldehyde, 10 mM Mg(Glu)
+
+SQ171fg strains containing the
+single operon ribosomes were grown overnight in 3 mL cultures, with
+Cb
+
+Total CFPS
+yields were quantified by incorporation of
+
+The AlphaLISA assay leverages the use
+of proprietary donor and acceptor beads that enable detection of protein–protein
+interactions based on bead proximity.
+
+iSAT reactions were assembled with four
+5-μL replicates per rRNA construct being tested based on previous
+work.
+
+The Echo 525 Acoustic Liquid Handler was used to
+assemble reaction components (separated into a master mix and individual
+rRNA plasmids to be tested) into 384-well nunc_267461 plates from
+a 384-well Polypropylene 2.0 Plus source microplate (Labcyte, PPL-0200).
+The nunc_267461 plate was then spun down, and reactions were run in
+a plate reader at 37 °C, measuring sfGFP fluorescence (excitation:
+485 nm, emission: 528 nm) every 15 min and with constant shaking for
+15 h.
+
+CFPS reactions were set up as previously
+published

@@ -1,0 +1,129 @@
+Prokaryotic genomes are highly plastic and can exploit horizontal gene transfer, point mutations, and gene rearrangements to adapt to environmental changes and other challenges. Being tolerant of constant gene influx is selected for, in order to preserve fitness in the absence of obligate sexual recombination (
+
+Another aspect of gene flux dynamics is associated with integration of bacteriophages into bacterial genomes, which then co-evolve with their hosts as prophages (
+
+In recent reports, we monitored the transfer of an operon into a new host, in real time to understand the fate of horizontally transferred DNA fragments. As a model, we used the Csp231I Type II restriction-modification (R-M) system (
+
+During our studies, we noticed that this R-M system's C protein (C.Csp231I) also has some unpredicted side-effects, which initially were observed as inducing a toxic effect reflected in a cell morphology phenotype. We studied this phenomenon in detail using a combination of genetics, biochemistry and transcriptomics, and found that the C regulator C.Csp231I changed global
+
+Adventitious transcriptional cross-talk occurs between two transcription factors: C protein regulating the Csp231I restriction-modification system that might be acquired by horizontal gene transfer, and RacR repressor controlling Rac prophage genes. Under physiological conditions, the RacR repressor binds within the Rac intergenic region, blocking the possible common promoter/operator region for
+
+This observation brought our attention to the
+
+Our main objective here was to generate
+
+The bacterial strains, phages and plasmids used in this study are listed in
+
+The plasmid pRL27 (
+
+The selected Tn
+
+Integration sites for Tn
+
+(*) indicates position relative to the
+
+(#) indicates intensity of PCR product: weak (+), strong (+++), or no product (–).
+
+To confirm that the obtained defect in cell morphology is due to C protein/YdaT expression and it is blocked by inactivation of certain genes selected from Tn
+
+The knockout strains were constructed using the lambda-red recombination method with a pSIM5 plasmid carrying the recombineering proteins, Gam, Exo and Beta (
+
+Three types of MG1655
+
+
+
+The prophage excision triggered by C protein expression was quantified by PCR (qPCR). Two sets of primers were selected. One pair (ttcAqPCR, intRqPCR;
+
+One ml of exponentially grown
+
+Genomic DNA was extracted from cells using Genomic Midi AX (A&A Biotechnology) according to the manufacturer's instructions. DNA was ethanol-precipitated and resuspended in TE buffer. DNA was separated in agarose gel to assess its high quality (no observed degradation). Samples were diluted to achieve
+
+For whole-genome sequencing, paired-end whole-genome next-generation sequencing (NGS) was performed on Illumina Sequencing PE150 (Novagene, UK), with read lengths of 150 bp. The raw reads were subjected to quality control with FastQC and due to overall good quality were not processed further. Next, reads were aligned to the reference genome
+
+An RNA-seq library was prepared according to the TruSeq RNA Sample Preparation, version 2 Guide (Illumina, San Diego, CA, USA) and sequencing of the libraries was performed using an Illumina HiSeq2500 platform at Macrogen. The results have been published (
+
+An overnight culture of
+
+For the C-terminally-6His-tagged RacR overproduction and purification were performed as reported in
+
+To determine the efficiency of phage lytic productivity, virulent bacteriophage samples (P1
+
+The 3D structures of RacR was predicted utilizing a range of tools: AlphaFold2 (
+
+The files related to the bioinformatics protein modelling are accessible at RePOD repository:
+
+Unless otherwise indicated, we performed statistical analysis and presented plot data as the averages and standard deviations. For column plots, data were analyzed using GraphPad Prism 8. Student's
+
+In order to identify the
+
+The representative
+
+Screening the Tn
+
+Next, the locations of Tn
+
+Genomic map of
+
+To confirm that the filamentous and colony phenotypes of cells depends on C protein expression in our system, and to rule out polar effects, we performed complementation assays. Introducing the respective intact gene
+
+We next tested whether the revealed mutants are C protein responsive. Hence, we made a directed gene knock-out for two genes:
+
+In addition, we knew that induction of C protein directly affects the Rac genes based on our transcriptomic data analyzed previously (
+
+To further verify the role of Rac prophage genes, and especially of the
+
+Rac prophage excision from the
+
+Our previous whole-transcriptome study (
+
+In light of our studies here with the Tn
+
+Kinetics of Rac prophage excision from
+
+The implied excision and loss of Rac DNA during C protein expression prompted us to investigate this process in a more sensitive manner, using qPCR analysis. We used cells with C protein (CWT), or as a negative control its mutated inactive variant (Cmut = A33G; R34E; Q37A, which is unable to bind its specific DNA; pBADCmut (
+
+The initial difference of Rac copies compared to genome copies is not clear, as the attachment site and Rac DNA circle have been characterized before. Still, this observation was consistent and repeatable, using different pairs of primers within Rac. We tried also to monitor the Rac induced DNA circles by PCR, but with no success (
+
+To study further the direct effect of RacR as a master regulator of Rac induction, we analyzed the mRNA levels of two crucial proteins responsible for prophage excision: Rac excisionase (YdaQ = XisR) and integrase (IntR) (
+
+The RacR repressor depresses expression of the Rac prophage
+
+Previously, we hypothesized that RacR repressor may function in analogous manner as CI repressor of λ phage. We had determined RacR recognition sites within the
+
+The RacR repressor exhibits two distinct domains and forms an octamer in its active state. (
+
+The Rac excision results obtained using
+
+YdaT, but not YdaS exerts cell toxicity. Only YdaS affects Rac excision. (
+
+We also wanted to confirm that induction of
+
+To find an effector gene for YdaT outside the
+
+We repeated the complementation assay for
+
+The RcsA transcription factor complements the toxic YdaT phenotype, suggesting their possible common interaction within the pathway leading to lipopolysaccharide biosynthesis. (
+
+To determine whether YdaT affects
+
+Our initial objective in this report was to find a function for YdaT protein, and assign the possible mechanism of its toxicity. However, our experimental approach led us to consider the broader phenomenon of Rac prophage maintenance versus excision. The Rac immunity region is located between
+
+In a similar way, we also tested the proposal that YdaT acts as a λCII functional analog (
+
+The RacR regulon has not yet been characterized in detail, and there are several genes without determined functions, such as the
+
+Our transcriptomic data revealed that, under decreased RacR expression, expression of certain Rac genes increases substantially (
+
+Overall, we propose that the Rac excision acts as a countermeasure to cell lethality due to YdaT action. Cells can apparently survive the relatively short ‘toxic’ period, until they are cured of Rac prophage. We previously observed that the filamentation process is reversible with long-term culturing (
+
+We confirmed that foreign TF entry into a cell (C.Csp231I in this case) may perturb existing regulatory networks in a chain reaction. We showed previously that C protein directly inhibits RacR repression of its regulon (
+
+Hypothetical model for a regulatory TF’s cascade triggered by C protein and resulting in YdaT-dependent deficient lipopolysaccharide biosynthesis and cell division. C protein (yellow hexagon) is accepted as a foreign TF, which affects a Rac locus TFs (red blocks): RacR, YdaS, YdaT. In turn, YdaT affects a genomic TF, an RcsA TF, which together with RcsB (green blocs) modulate exopolysaccharide biosynthesis. Thick lines indicate the experimentally verified pathway explained in this work, normal lines pathways known from the literature data and dashed lines pathways to be clarified in the future. Description explained in Discussion.
+
+We noticed in our C protein – responsive Tn
+
+We also hypothesize that YdaT may indirectly inhibit the expression of transcription elongation factor
+
+In parallel, RcsAB may modulate cell division by directly activating the
+
+Our schematic model of the cross-talking TF cascade in

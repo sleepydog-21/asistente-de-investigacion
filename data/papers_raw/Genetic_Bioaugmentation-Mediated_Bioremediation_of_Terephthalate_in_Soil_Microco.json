@@ -1,0 +1,11 @@
+{
+  "id": "39801293",
+  "title": "Genetic Bioaugmentation-Mediated Bioremediation of Terephthalate in Soil Microcosms Using an Engineered Environmental Plasmid.",
+  "doi": null,
+  "authors": "Marquiegui-Alvaro A, Kottara A, Chacón M, Cliffe L, Brockhurst M, Dixon N",
+  "journal": "Microbial biotechnology",
+  "year": "2025",
+  "abstract": "Harnessing in situ microbial communities to clean-up polluted natural environments is a potentially efficient means of bioremediation, but often the necessary genes to breakdown pollutants are missing. Genetic bioaugmentation, whereby the required genes are delivered to resident bacteria via horizontal gene transfer, offers a promising solution to this problem. Here, we engineered a conjugative plasmid previously isolated from soil, pQBR57, to carry a synthetic set of genes allowing bacteria to consume terephthalate, a chemical component of plastics commonly released during their manufacture and breakdown. Our engineered plasmid caused a low fitness cost and was stably maintained in terephthalate-contaminated soil by the bacterium P. putida. Plasmid carriers efficiently bioremediated contaminated soil in model soil microcosms, achieving complete breakdown of 3.2 mg/g of terephthalate within 8 days. The engineered plasmid horizontally transferred the synthetic operon to P. fluorescens in situ, and the resulting transconjugants degraded 10 mM terephthalate during a 180-h incubation. Our findings show that environmental plasmids carrying synthetic catabolic operons can be useful tools for in situ engineering of microbial communities to perform clean-up even of complex environments like soil.",
+  "source": "PubMed",
+  "pmcid": "PMC11725763"
+}

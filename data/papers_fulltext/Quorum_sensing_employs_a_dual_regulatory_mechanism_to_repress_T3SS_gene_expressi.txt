@@ -1,0 +1,85 @@
+A major mechanism of virulence in gram-negative pathogens is the type III secretion system (T3SS) machinery, a specialized secretion apparatus which plays an essential role in secretion of extracellular protein toxins. It is a syringe-like membrane-embedded apparatus also called the “injectisome,” which contacts the eukaryotic host cell membrane and injects effector proteins or exotoxins across the membrane and into the host cell (
+
+Previous studies identified a functional T3SS in
+
+Bacterial pathogens regulate the expression of their virulence traits—such as T3SS—in response to external signals to initiate colonization of target tissues, avoid host immune system mechanisms, and persist. In
+
+Schematic models of the Exs regulatory cascade and the organization of the
+
+Previous studies of QS regulation showed that LuxR inhibits T3SS gene expression at high cell density through the direct binding of LuxR to the
+
+To formally assess the predicted role of the T3SS regulatory network in our hands, we designed a reporter system to enable rapid quantification of T3SS gene expression. We constructed a reporter with a promoter-less
+
+T3SS gene expression can be measured using a P
+
+We next tested the expression of the
+
+We next used the reporter assay to test the role of the Exs regulatory cascade comprising ExsA, ExsD, ExsC, and ExsE proteins in the regulation of T3SS in
+
+In
+
+LuxR and ExsA bind and regulate
+
+To test our hypothesis that LuxR binds to the T3SS structural promoters I–IV to regulate transcription, we performed bioinformatic analysis of LuxR binding sites on the BB120 genome (
+
+The ExsA-binding site is highly conserved across gram-negative species including
+
+We proceeded to test the impact of ExsA binding to its site in the
+
+In
+
+Deletion of
+
+We believe the partial complementation attained for
+
+We sought to investigate the molecular mechanism by which LuxR represses the
+
+LuxR and ExsA bind the
+
+Because we observed that LuxR and ExsA both bound at the
+
+LuxR and ExsA co-bind at the
+
+Based on our above results, we next hypothesized that LuxR binding disrupted a different aspect of
+
+LuxR represses
+
+We also performed a similar experiment testing different lengths of the
+
+Our genetic epistasis and biochemical assays have uncovered a new regulatory role of the master QS transcriptional regulator LuxR in controlling T3SS expression: LuxR represses transcription of the gene encoding the anti-anti activator ExsC (
+
+Models of the dual mechanism of T3SS regulation by LuxR. (
+
+Our promoter–reporter truncation experiments also strongly indicate the presence of at least one additional activator required for the maximal transcription of
+
+There is apparent homology in the sequence and function of
+
+During our examination of the divergent
+
+The ExsA-binding site has two important features, an A-rich region and the −35 site downstream of it with a 13 bp gap in between (
+
+The results of our studies here and combined with those of previous studies show that the QS system in
+
+The
+
+Endpoint GFP reporter assays were performed. Bacterial cultures were inoculated in 3 mL LM and 15 mM MgSO4, and grown shaking at 30°C and 275 RPM overnight. About 1 mL of each culture was centrifuged for 3 minutes at 13,000 rpm to pellet down cells. The cell pellets were resuspended in 1 mL 1X saline PBS. The optical density was measured at 600 nm wavelength using either the Biotek Cytation3 plate reader or the Synergy H1 plate reader. The GFP signal was read at 485 nm excitation wavelength and 528 nm emission wavelength. Autogain function was performed for automatic adjustment of the GFP signal per strain per plate assay. The GFP signal obtained was normalized to growth by dividing GFP reads by OD
+
+Bacterial cultures were inoculated in 3 mL LM and grown shaking at 30°C and 275 RPM overnight. Each culture was diluted 1:1,000 in 1 mL LM and 15 mM MgSO
+
+PCR was performed using Phusion HF polymerase (New England Biolabs) and Iproof HF polymerase (BioRad). All oligonucleotides were ordered from Integrated DNA Technologies (IDT). PCR products and plasmids were sequenced using Eurofins Genomics. Cloning procedures are available upon request. DNA samples were resolved using 1% agarose (1 × TBE). Unless otherwise noted, data are plotted for triplicate independent experiments. Symbols on graphs represent the mean values, and error bars are standard deviations. Statistical analyses were performed with GraphPad Prism version 10.2.0. Additional information about statistical analyses is included in the figure legends. CRISPRi knockdown constructs were generated as described (
+
+All
+
+LuxR, His-LuxR, and FLAG-LuxR were purified as previously described (
+
+ExsA was purified by overexpressing N terminal 6X His-tagged ExsA (pPP43 vector ordered from BioTwist) in
+
+Primers to amplify over 200 bp of the promoter regions of exsB and exsC were ordered from IDT, where the 5’ end of one primer among the pair was labeled with IRD800CWN. PCR amplification was used to produce promoter substrates. The labeled and amplified DNA probe was incubated for 30 minutes in a 15 mL reaction mixture containing either 20X stock ExsA binding buffer (20 mM Tris [pH 7.5], 100 mM KCl, 2 mM dithiothreitol [DTT], 2 mM EDTA, 5% glycerol), or 10X stock LuxR binding buffer (10 mM HEPES [pH 7.5], 100 mM KCl, 2 mM dithiothreitol (DTT), 200 mM EDTA), 10 ng/mL poly(dI-dC), 0.1 mg/mL bovine serum albumin (BSA), and the desired protein diluted in either ExsA dilution buffer (1X stock ExsA binding buffer), or LuxR dilution buffer (20 mM imidazole [pH 7.5], 3000 mM NaCl, 0.5 mM EDTA, 1 mM DTT, and 5% glycerol). The reaction mixtures were separated on 6% TGE (25 mM Tris, 0.25 M glycine, 1 mM EDTA)-polyacrylamide native gels. Binding reactions were performed using either 20 nM labeled DNA or 20 nM unlabeled, bringing the final concentration of the DNA probe to 2 nM in the reaction. Poly(dI-dC) (10 ng/mL, Sigma) was used as nonspecific competitor DNA in all cases. For competitive binding experiments, reactions were supplemented with the secondary protein in binding buffer and incubated at room temperature for an additional 30 minutes.
+
+Strains were inoculated in 5 mL LM and grown overnight shaking at 30°C at 275 RPM. Each strain was back-diluted 1:1,000 in LM and 15 mM MgSO
+
+For dRNA-seq, cells were collected as described above but without MgSO
+
+The promoter region for transcription activation of the
+
+Multiple sequence alignment data for the ExsA-binding site sequences were extracted from the previously published ExsA-dependent promoter sequences and putative T3SS promoter sequences from

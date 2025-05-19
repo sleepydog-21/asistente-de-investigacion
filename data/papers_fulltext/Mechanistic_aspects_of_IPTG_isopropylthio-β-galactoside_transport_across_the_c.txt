@@ -1,0 +1,121 @@
+Many different microorganisms and animal cell cultures are used as heterologous hosts to produce recombinant proteins for use as biopharmaceuticals. The first expression systems were derived from
+
+Studies of the
+
+To regulate operon expression, the inducer must first be transported from the extracellular space to the periplasm and then to the cytoplasm, with transport from the periplasm to the cytoplasm being the rate limiting step (Nichols,
+
+An unforeseen and unfortunate ramification was that expression of recombinant proteins increased the metabolic burden in this engineered
+
+This was quantitatively attained by simulating simple diffusion and carrier mediated active transport processes, and then modeling the main variables affecting the uptake rate of IPTG by each process. We foresee that the model will provide valuable insights into the dynamics of IPTG uptake, enabling a more precise estimation of intracellular IPTG concentration. This concentration directly correlates with the allosteric regulation of the lac repressor, and subsequently, with transcription and translation processes.
+
+The transport of IPTG across the cytoplasmic membrane of
+
+There is one rate limiting step for transport into cells—One idiosyncrasy of transport across a series of membranes is that a composite permeability coefficient may be calculated from the coefficients of each membrane as resistances in parallel, according to Equation (
+
+Small molecules may cross the cytoplasmic membrane by diffusion—The transport of small molecules across a membrane, such as a lipidic bilayer, may occur via simple diffusion since the membrane is classified as a fluid. The permeant size is considerably smaller than the membrane thickness, and the driving force for transport is the permeant concentration gradient across the membrane (Nichols,
+
+Constant cell volume and preserved aspect-ratio of
+
+In any given cultivation, not all cells have the same cell volume, but it is expected that the volumes of the cells follow the same distribution. This has been experimentally demonstrated that the size of cells in each distinct growth condition followed a normal distribution, as depicted in Fig.
+
+Transport via a permease is unidirectional in the absence of facilitated transport—The uptake of small molecules via permeases may happen via active or passive transport. Widdas (
+
+Constant number of transport proteins per area—The quantity of protein molecules in a cell is known to be subject to significant variations and is dependent on various factors such as cultivation conditions, cellular physiological state and the heterogeneous nature of the culture (Taniguchi et al.,
+
+Low cell concentration—So as to maintain a consistent extracellular inducer concentration throughout the simulations, a low cell concentration of 0.01 g/L was considered.
+
+Constant number of cells—Exclusion of cell division in the experimental design was intentional, as this would have introduced a dilution factor that might complicate visual and analytical interpretation of the results.
+
+Constant temperature—Temperature is recognized to have a positive influence on diverse physiological parameters, such as diffusion coefficient, membrane composition, transport rate, cell size, and cell growth rate. Nevertheless, for the sake of model simplification and facilitating comparisons with existing literature data, we treated temperature as a constant factor.
+
+Distribution of newly generated cells growing in distinct cultivation media. The histogram was constructed from the original raw data from Taheri-Araghi et al. (
+
+The model was designed to evaluate IPTG concentration in a culture of non-dividing
+
+Simple diffusion and active transport are independent processes and the individual contribution of each to the total transport rate are additive (Maloney & Hastings Wilson,
+
+An expression for the rate of simple diffusion per cell (
+
+Active transport of IPTG across the cytoplasmic cell membrane of
+
+A list of all variables used in the model is presented in Table
+
+List of variables used in the model for simple and facilitated diffusion
+
+Diffusion time (
+
+The model was implemented and solved in Matlab R2021a
+
+The lactose permease of
+
+Resume of kinetic parameters for lactose permease mediated transport across the
+
+To evaluate the model, simple diffusion and active transport were analyzed separately, first by the one-variable-at-a-time (OVAT) strategy followed by a sensitivity analysis. Lastly, the combined effects of simple diffusion and active transport were considered. For all simulations, the initial extracellular and intracellular concentrations of IPTG were 1.0 mM and 0.0 mM, respectively.
+
+The effect of two variables—cell volume and diffusion coefficient—on
+
+Effect of diffusion coefficient and average cell volume on simple diffusion of IPTG. Analysis using an OVAT strategy to evaluate the effect of (A) Diffusion coefficient = 1 · 10
+
+The impact of cell volume on diffusion time was less pronounced compared to the effect of the diffusion coefficient. Despite a wide range of cell volumes being selected based upon the experimental data from Taheri-Araghi et al. (
+
+A sensitivity analysis was next conducted to evaluate the relative impact of variation in diffusion coefficients and cell volumes on diffusion time. The analysis was performed
+
+Sensitivity analysis of active transport of IPTG considering the combined effect of diffusion coefficient and cell volume. The model was evaluated for 100 samples, with the (A) diffusion coefficient evaluated in the range of 1 · 10
+
+The uptake rate of IPTG due to active transport was calculated using Equations (
+
+OVAT modeling of IPTG uptake by an active transport mechanisms (A) effect of
+
+Sensitivity analysis of active transport of IPTG when the combined effects of
+
+In all cases presented in Fig.
+
+A sensitivity analysis was conducted to determine the combined effect of the four variables,
+
+A simulation was performed to evaluate the relative contribution of simple diffusion and active transport on the rate of IPTG uptake. The parameters were estimated based upon a review of the literature and prior simulations, as follows:
+
+Simulation of combined simple diffusion and active transport of IPTG across the
+
+Another important aspect was to consider the contribution of simple diffusion on the rate of IPTG uptake. As the rate of active transport is highly dependent on the number of enzymes (as discussed earlier), it was useful to plot the contribution of simple diffusion to the total IPTG uptake rate as function of
+
+Effect of the number of transporters per area (
+
+The contribution of simple diffusion was further investigated in subsequent simulations (Figs.
+
+Kinetic profiles of intracellular IPTG concentrations for different numbers of carriers. (A) Active transport without simple diffusion, (B) combination of active transport and simple diffusion, and (C) experimental data from Maloney & Hastings Wilson, (
+
+Kinetic profile of intracellular IPTG concentration for initial extracellular IPTG concentration ranging from 0 to 100 μM. Simulation parameters:
+
+Models describing the active transport of inducer by lactose permease have been extensively explored since the identification of this permease. The consensus within the field is that the rate of inducer uptake via active transport adheres to a Michaelis–Menten equation, with the rate being a function of the extracellular inducer concentration (Rickenberg et al.,
+
+Maloney & Hastings Wilson (
+
+In contrast, Tran et al. (
+
+Our model builds upon the mentioned earlier approaches and comprises both active transport and diffusion. Specifically, we incorporate bidirectional simple diffusion, adhering to Fick's law, with the driving force being the difference in IPTG concentration between the extracellular and intracellular compartments. This diffusion rate is quantified as a function of biophysical parameters, such as the diffusion coefficient of the inducer in the cytoplasmic membrane and cellular dimensions. Further elaboration on the quantitative data generated by our model, along with a comprehensive comparison to literature data, will be provided in the subsequent sections.
+
+When a cell volume of 1.044 μm
+
+The diffusion of a small molecule in a diluted aqueous solution may be considered the upper limit for the diffusion coefficient. To get a better estimation for IPTG uptake by
+
+Despite the widespread use of IPTG as an inducer in heterologous protein expression in
+
+The
+
+Initial OVAT based simulations were performed to evaluate the individual contributions the main variables
+
+The
+
+The effect of
+
+Results presented herein indicated that the greatest influence upon the rate of IPTG uptake was, not surprisingly, the number of lacY proteins per cell (Figs.
+
+The combined effect of simple diffusion and active transport of IPTG across the cytoplasmic membrane was first evaluated for a single condition (Fig.
+
+To provide a broader analysis of the
+
+While the simplicity of the model described herein limits evaluation of variables such as cell or protein number, or cell volume; these simplifications do facilitate easier interpretation of results and, allow these results to be directly compared to data from existing literature. The model does allow for confounding factors to be eliminated, such as the effect of dilution (e.g. substrate feed or cell growth) on inducer concentration. This approach provides fundamental questions to be explored, including the extent of simple diffusion and influence of cell volume on the control of inducer uptake, and thereby, protein expression. As demonstrated in this research, the model has proven useful in estimating the diffusion coefficient of IPTG across the
+
+An
+
+Click here for additional data file.

@@ -1,0 +1,101 @@
+All steps in gene expression, including transcription, RNA processing, translation, and protein turnover, determine a cell's fate and are dedicatedly regulated. The classic view regarded bacterial gene expression as a relatively simple process. However, thanks to technological advances, especially the emergence of RNA sequencing (RNA-seq), mounting evidence has demonstrated the complexity of this process (
+
+Long-read sequencing, in particular Nanopore Direct RNA Sequencing (DRS), also revolutionized the detection of RNA modifications (
+
+Taken together, bacterial gene expression is a dedicatedly regulated process and warrants more in-depth understanding. In this regard, approaches that can rapidly and comprehensively analyze the RNA biology of a bacterium of interest are vital. Applying Nanopore DRS to bacterial RNA promises to unveil the complex features of bacterial transcriptomes and epitranscriptomes simultaneously. Nonetheless, previous Nanopore research in the bacteria context focused on obtaining antibiotic resistance gene information in
+
+Here, Nanopore DRS was applied to representative gram-negative bacterium
+
+
+
+IVT RNAs resembling the endogenous transcriptomes were prepared based on previously published protocols (
+
+RNA samples, including total RNA, rRNA-depleted RNA, size-selected and rRNA-depleted RNA, modification-free IVT RNA, and m6A-modified IVT RNA, were subjected to poly(A) tailing before DRS library preparation. The libraries were constructed following the manufacturer's instructions using the SQK-RNA002 Kit (ONT, Oxford, UK). The optional RT step was performed. Sequencing was conducted on the MinION platform using the R9.4.1 Flow Cell (ONT). The resulting FAST5 files were basecalled using the Guppy workflow (v5.0.16) with the configuration of rna_R9.4.1_70bps_hac.cfg or using the Dorado workflow (v0.3.4) with the configuration of rna002_70bps_hac@v3. The basecalling results were stored as FASTQ files and were statistically analyzed with SeqKit v2.3.0 (
+
+First, reads reversely mapped to an annotated region were discarded. The remaining reads were further filtered based on the length (greater than 100 bp) or proportion (exceeding 50%) of overlap with the target gene sequences. This process might assign multiple alignment features to a single read, and the combination of adjacent genes within one read was considered a unique transcript type. The number of different transcript types a gene appeared in was defined as transcriptional context.
+
+Gene expression correlations between Nanopore DRS and NGS RNA-seq datasets were subsequently calculated based on the mapping results. For DRS data, reads were filtered, followed by counting the read numbers aligned to individual genes. Two RNA-seq datasets were referenced from (
+
+where
+
+Several single-mode computational tools have been designed to exclusively detect eukaryotic m6A modifications in the DRACH/RRACH motifs (
+
+Modification-free IVT RNAs were processed in parallel as rRNA-depleted RNA samples for systematic calibration (
+
+Raw data from MeRIP-Seq was trimmed to remove adapters using Trimmomatic v0.39 (
+
+Unlike eukaryotic mRNAs, bacterial mRNAs lack a poly(A) tail, which is required to capture the mRNA populations and is an essential prerequisite for conducting DRS. Therefore, rRNAs, which account for more than 85% of prokaryotic cellular RNA contents, are usually depleted before library preparation to increase the proportion of sequenced mRNAs (
+
+Here, total RNAs were isolated from the prokaryotic model organism
+
+Raw read features and analysis of mapped reads based on Dorado basecalling results. (
+
+Raw read features and mapping statistics based on Dorado basecalling outputs
+
+
+
+
+
+
+
+Generation of transcriptome-wide modification-free and m6A-modified IVT RNAs. (
+
+Unfiltered Dorado-basecalled reads were aligned to the
+
+As Nanopore DRS eliminates the need to convert RNA to cDNA, it reduces biases introduced during library preparation. Moreover, it enables the detection of full-length RNA molecules, thereby providing a favorable alternative to studying the complex bacterial transcriptomes (
+
+Owing to the high coverage depth and long sequencing length (Figure
+
+The same sequencing strategy, size selection combined with rRNA depletion and polyadenylation before DRS, was applied to the
+
+In the ss&rd_RNA samples, many non-coding RNAs (ncRNAs) should have been lost due to the size selection step (
+
+Multiple computational tools have been developed to detect RNA modifications based on Nanopore DRS. Some specifically detect m6A sites within the DRACH/RRACH motif and do not require a control sample (
+
+In the present study, to enable the application of comparative computational tools, transcriptome-wide modification-free RNAs (IVT_neg) were synthesized via
+
+Comparison of mRNA-mapping read features between native and
+
+Read metrics of each dataset were further evaluated based on either Dorado or Guppy basecalling outputs. It is generally accepted that the presence of m6A can cause electric current variability, leading to the enrichment of basecalling errors in the modified reads compared with their unmodified equivalent (
+
+Additionally, regardless of using Dorado or Guppy for basecalling, the
+
+The Nanopore DRS data of native ss&rd_RNA and modification-free IVT_neg samples were analyzed using comparative computational tools to identify potential modification sites in the
+
+Bacterial epitranscriptome analysis using computational methods based on ONT DRS data. (
+
+In the
+
+The contents of predicted modification sites greatly varied between
+
+It is feasible to infer the presence of eukaryotic m6A modifications by comparing native and unmodified IVT RNAs using Nanopore computational tools since m6A modifications in eukaryotic mRNAs are largely restrained to the DRACH/RRACH motifs (
+
+Profiling of m6A sites in bacterial transcriptomes with the assistance of Methylated RNA Immunoprecipitation Sequencing (MeRIP-Seq). (
+
+In
+
+The detected mRNA m6A modifications were located on 21 genes (Table
+
+High-confidence m6A sites on the
+
+In addition, numerous m6A candidates were assigned to fourteen 16S and 23S rRNA paralogs. Unlike mRNA molecules,
+
+An m6A-modified IVT RNA sample (IVT_pos), where adenosines were replaced entirely with m6A, was prepared as a positive control for mapping m6A in native RNAs. Sequencing of this sample yielded very few reads and bases (Figure
+
+Analysis of m6A-modified transcriptome-wide IVT RNA library. (
+
+Due to the limited sequencing throughput and low-quality alignment, very few positions in the IVT_pos sample were communally detected by different computational methods (
+
+It has come to an awareness that bacterial gene expression is a complex process involving extensive regulatory mechanisms. Much relevant knowledge is acquired from the model organism
+
+To exert the full potential of Nanopore DRS in characterizing bacterial transcriptomes and epitranscriptomes, an RNA preprocessing procedure was introduced in the present study for improved sequencing and mapping quality. Gram-negative
+
+In addition to transcriptome analysis, Nanopore DRS data allows the detection of RNA modifications existing on various RNA molecules. The general understanding of bacterial RNA modifications is primarily based on investigations on rRNAs and tRNAs (
+
+The modification sites predicted by different computational methods varied (Figure
+
+Further Homer motif analysis indicated that the leading consensus sequence of
+
+In addition to 85 putative m6A candidates, numerous other modification sites (
+
+Collectively, this study demonstrated the potential of applying Nanopore DRS to quickly and systematically characterize bacterial transcriptomes and epitranscriptomes. The size selection step exerted before rRNA depletion and polyadenylation dramatically increased sequencing and mapping qualities, significantly facilitating downstream analyses. Intricate bacterial transcriptome signatures can be easily obtained with a high resolution. By comparing with a modification-free sample, putative modification sites were predicted by computational tools. MeRIP-Seq further assisted in identifying high-confidence m6A positions at a single-nucleotide resolution. These works are transferrable to other bacterial species, especially those understudied, which can advance the knowledge of complex bacterial gene expression regulatory networks. Nevertheless, a few limitations remain in the present study. In particular, different Nanopore-based modification-calling computational tools showed limited consistency with each other, raising concerns about their reliability. Moreover, the proposed size selection step removed small-sized RNA molecules, which is detrimental to the quantitative study of small regulatory RNAs. The new Nanopore DRS kit (SQK-RNA004) is being released and promises higher accuracy and efficiency. Its improvement may help address these problems and attract more interest in utilizing Nanopore DRS to investigate bacterial transcriptomes and epitranscriptomes conveniently.

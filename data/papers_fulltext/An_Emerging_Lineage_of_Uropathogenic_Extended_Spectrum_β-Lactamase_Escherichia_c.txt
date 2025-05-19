@@ -1,0 +1,87 @@
+Our understanding of UPEC infections has greatly improved due to the abilities of whole-genome sequencing (WGS) analyses to trace the sources and transmission routes of infections as well as to identify genes involved in virulence and antibiotic resistance for the implementation of improved infection control practices (
+
+4 out of the 12 sequenced
+
+Antibiotic susceptibility profiles of
+
+The short reads of four of the
+
+ST127 core maximum likelihood phylogenetic tree and virulence gene heat map. (A) Phylogenetic tree and virulence gene heat map. (B) Correlation matrix of virulent genes and their associations to different sources and clusters. The red circle in the phylogenetic tree represents the Armenian isolates.
+
+Isolation source, country, and BAP cluster of
+
+A maximum clade credibility (MCC) time-calibrated phylogeny tree of 171
+
+MCC time-calibrated phylogenetic tree of ST127
+
+Overall, we identified 153 virulence genes in the
+
+All four of the isolates in this study and a phylogenetically closely related French isolate DABGLY01 (<25 SNP difference between the Armenian isolates and the French isolate within the core genomes) harbored the hemolysin E gene (
+
+To further determine whether any of the genes were unique to the Armenian isolates or to the French isolate obtained from the ENA archive, we conducted a pangenome analysis of all of the
+
+Hierarchy cluster heat map of the accessory genome of ST127
+
+Using Scoary, we identified 16 genes that were unique to all of the
+
+Unique genes (with known functions) detected in ARM64, ARM66, ARM75, ARM88, and DABGLY01
+
+To determine the origin of the horizontal gene transfer of these unique genes found in the Armenian isolates, we looked for insertion via transposable elements, such as integrated and conjugated plasmids within the chromosome and phage insertions. Using the MOB-suite software package to reconstruct plasmids from WGS data, we determined that all of these genes were chromosomal and were not plasmid-borne. Further, using ICEfinder, we determined that these unique genes did not belong to integrative and conjugative elements (ICEs). Using Prophage hunter, we identified that the
+
+Genome loci of unique genes found within the Armenian isolates ARM64, ARM66, ARM75, ARM88, and the French isolate DABGLY01. (A)
+
+The
+
+Mauve output of genome loci comparison of the
+
+To determine whether the unique genes and genomic regions detected in the Armenian (ARM64, ARM66, ARM75, and ARM88) and French (DABGLY01) isolates were also present in other
+
+The antimicrobial resistance genes and mutations of all of the Armenian
+
+Hierarchy cluster heat map of ST127
+
+All four of the isolates that were recovered in this study possessed various degrees of antibiotic resistance genes/mutations, including 1 isolate (ARM64) possessing 59 antibiotic resistance genes/mutations, 1 isolate (ARM88) possessing 57 antibiotic resistance genes/mutations, and 2 isolates (ARM66 and ARM75) possessing 56 antibiotic resistance genes mutations. These numbers are greater than the average number of antibiotic resistance genes, compared to the
+
+60 out of the 172 (34.88%) ST127 isolates, and all 4 of the Armenian isolates that were recovered in this study, possessed genes that encode ESBL, including but not limited to: CTX (
+
+A plasmid replicon was identified in 72% (124/172) of the
+
+Hierarchy cluster heat map of ST127
+
+Studies investigating the potential of the DNA sequencing of pathogens that cause infectious diseases are seriously lacking in Armenia, hampering global efforts to track, trace, and contain infectious disease outbreaks. In this study, we report for the first-time a whole-genome analysis of ESBL UPEC ST127 isolates recovered from hospitalized patients in Armenia, compare them with other
+
+The most notable gene found in the Armenian and French ESBL
+
+The further analysis of other unique gene regions found in the Armenian and French cluster isolates identified one of the unique genes as a prophage gene (considered to be unique if they exhibited less than <90% protein homology) and other unique genes as being adjacent to prophage genes in the bacterial chromosome. For example, we identified another gene that had homology to an Inovirus Gp2 family protein that was unique to our isolates as well as the IS3 family transposase IS2 near the TonB-dependent siderophore receptor gene
+
+Furthermore, the Armenian and French isolates cluster had a genomic region that contained 11 unique genes that were adjacent to the prophage integrase gene
+
+Although we were not able to find a complete arsenal of prophage gene integration within all of these genomic regions, we hypothesize that the most likely mode of horizontal transfer for these genomic regions was through a prophage and that the prophage genes have decayed over time due to point mutations and deletions to remove unwanted and toxic genomic features, leaving behind remnants of prophage genes (
+
+Although we did not find antibiotic resistance gene mutations and plasmid replicons that were ubiquitous and unique to the Armenian isolates, we did identify that the quinolone resistance protein gene
+
+The main limitation of this study is its small sample size; however, this is the first genomic analysis of ESBL UPEC ST127 isolates recovered from patients in Armenia. These isolates were recovered from different hospitals in different regions of Armenia but belonged to the same genetic lineage and share a recent common ancestor. In addition, all of the isolates shared virulence and metabolic genes that were acquired via horizontal transfer and were not found in other
+
+12
+
+All 12 isolates were tested for their antibiotic susceptibility to a panel of 11 antibiotics, including ampicillin (10 mg), piperacillin-tazobactam (30/6 mg), amoxicillin and clavulanic acid (20/10 mg), ceftazidime (10 mg), cefepime (30 mg), norfloxacin (10 mg), levofloxacin (5 mg), amikacin (30 mg), imipenem (10 mg), meropenem (10 mg), and chloramphenicol (30 mg) (Mast Group, Merseyside, UK), using a disk diffusion method, according to the European Committee on Antimicrobial Susceptibility Testing protocol (
+
+All of the
+
+The quality of the short-reads was analyzed using fastQC, and low quality reads were trimmed using the Trimmomatic software package (
+
+To conduct a comparative genomic analysis of the
+
+To construct a core SNP maximum-likelihood (ML) phylogenetic tree of the
+
+A Bayesian dated maximum clade credibility (MCC) tree was reconstructed using BEAST v1.10.4 (
+
+The genomes of the
+
+The pangenome combining both the Armenian and ENA
+
+The MOB-suite was used to reconstruct plasmid sequences from draft genomes to determine whether unique genes were plasmid-borne (
+
+The grouping of isolates into subclusters within the SNP core whole-genome alignment was conducted using the hierarchical clustering R package “RhierBAPS” (
+
+The short-read data were deposited in the ENA under the study

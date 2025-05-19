@@ -1,0 +1,11 @@
+{
+  "id": "39651212",
+  "title": "Structural and biochemical characterization of a widespread enterobacterial peroxidase encapsulin.",
+  "doi": null,
+  "authors": "Ubilla-Rodriguez NC, Andreas MP, Giessen TW",
+  "journal": "bioRxiv : the preprint server for biology",
+  "year": "2024",
+  "abstract": "Encapsulins are self-assembling protein compartments found in prokaryotes and specifically encapsulate dedicated cargo enzymes. The most abundant encapsulin cargo class are Dye-decolorizing Peroxidases (DyPs). It has been previously suggested that DyP encapsulins are involved in oxidative stress resistance and bacterial pathogenicity due to DyPs' inherent ability to reduce and detoxify hydrogen peroxide while oxidizing a broad range of organic co-substrates. Here, we report the structural and biochemical analysis of a DyP encapsulin widely found across enterobacteria. Using bioinformatic approaches, we show that this DyP encapsulin is encoded by a conserved transposon-associated operon, enriched in enterobacterial pathogens. Through low pH and peroxide exposure experiments, we highlight the stability of this DyP encapsulin under harsh conditions and show that DyP catalytic activity is highest at low pH. We determine the structure of the DyP-loaded shell and free DyP via cryo-electron microscopy, revealing the structural basis for DyP cargo loading and peroxide preference. Our work lays the foundation to further explore the substrate range and physiological functions of enterobacterial DyP encapsulins.",
+  "source": "PubMed",
+  "pmcid": "PMC11623594"
+}

@@ -1,0 +1,107 @@
+Enterotoxigenic
+
+Over 30 types of antigenically distinct CFs have been identified in ETEC. Major CFs include CFA/I and coli surface (CS) antigens CS1-CS6 and are most prevalently associated with isolates causing moderate-to-severe diarrhea (MSD) (
+
+CS14 is encoded by a five-gene operon that uniquely encodes two nearly identical major subunits and is assembled by the chaperone-usher pathway (
+
+Sequence analysis of the CS14 operon in GEMS clinical ETEC isolates. (
+
+The high level of homology among heterologous CFs in the class 5a fimbrial family led to investigation of the potential cross-reactivity of antibodies induced against a single CF. Cross-reactivity of IgG and IgA antibodies against CFA/I and CS14 has been observed
+
+There is no licensed ETEC vaccine, and most vaccine development strategies do not include antigens targeting minor CFs, such as CS14. Despite the growing epidemiological evidence for the importance of CS14 in ETEC-mediated diarrheal disease, there are limited studies that investigate its role in adherence to intestinal cells and the possibility of functional cross-reactive immune responses among CS14, CFA/I, and CS4 (
+
+Enteroids are derived from Lgr5+ stem cells, isolated from small intestinal crypts of healthy human donors, which can be differentiated to include multiple intestinal cell types, including goblet, Paneth, enteroendocrine, and epithelial cells (
+
+ETEC clinical isolates and mutant strains are described in
+
+Bacterial strains used in this study
+
+
+
+Primers used in this study
+
+CS14 fimbriae were purified from the strain
+
+The CS14 operon from the GEMS strains 100576, 200023, 300316, 400599, 503826, 602782, and 700434 was amplified in two parts using E01-F and E01-R for the first half (3458 bp) and E02-F and E02-R for the second half (3906 bp). The PCR products were purified for sequencing using gel extraction. Primers were used to sequence the CS14 operon using Sanger sequencing (Genewiz) (
+
+The amino acid sequence of CsuD from the seven GEMS strains was also determined using the Open Reading Frame Finder (ORFfinder) tool from NCBI (RRID:SCR_016643), and predicted protein sequences were aligned using clustal format alignment by MAFFT v. 2.1 (Fig. S2).
+
+Differences in gene content, specifically genes encoding ETEC colonization factors, regulators, and virulence factors, between ETEC WS3294A and the seven ETEC CS14+ strains from the GEMS were identified using BLASTN large-scale BLAST score ratio (LS-BSR) analysis as previously described (
+
+Specific
+
+Whole cell bacterial lysates were prepared for Western blot analysis as follows. Bacteria were harvested from overnight growth on CFA agar with or without 200 µM DFOM in PBS, and the OD
+
+Transmission electron microscopy (TEM) was used for visualization of colonization factors. Bacteria grown on CFA agar with or without 200 µM DFOM were resuspended in buffer (1% bovine serum albumin [BSA] and 1% Tween 20 in PBS) and stained with 0.5% uranyl acetate (Electron Microscopy Sciences) on Formvar carbon-coated copper grids 400 mesh (Electron Microscopy Sciences) before examination using Tecnai T12 TEM. Immunogold labeling of CS14 was performed using Formvar carbon-coated nickel grids 400 mesh (Electron Microscopy Sciences). The representative CS14-expressing ETEC strain 200023 was incubated in rabbit anti-CS14 primary antibodies (Rockland Immunochemicals) for 1 h. The secondary antibody consisted of 10-nm gold particles conjugated to Goat α-Rabbit antibody (Sigma). The 0.5% uranyl acetate-negative stain was added to grids for 1 min before visualization using TEM.
+
+Human HT-29 (ATCC HTB-38) monolayers were cultured in Dulbecco’s Modified Eagle Medium (DMEM) supplemented with 10% Fetalplex and 2% HEPES in 150-cm
+
+Human enteroid cultures from ileum were established from biopsy specimens obtained after endoscopic or surgical procedures by utilizing methods developed by the laboratory of Hans Clevers (
+
+Adherence assays were performed using differentiated enteroid monolayers. Bacterial inocula were prepared in DMEM by resuspending a loopful of bacteria from CFA agar with or without 200 µM DFOM. The bacterial suspension was diluted to the desired bacterial concentration (1  ×  10
+
+Statistical significance was determined using two-tailed, unpaired Student’s
+
+The sequence conservation of the CS14 operon across global ETEC isolates has not been investigated. Given the impact of sequence variability on antigen design for vaccine development, we sequenced the CS14 operons from seven geographically diverse CS14+ ETEC strains from the GEMS (
+
+Percent nucleotide identity of the CS14 operon (
+
+Italicized percentages indicate the lowest level of identity. Bolded percentages indicate the highest level of identity.
+
+Specific nucleotide polymorphisms (SNPs) in four locations or “hot spots” were observed exclusively in the gene encoding the fimbrial tip adhesin CsuD (
+
+SNP patterns identified in the “hot spots” of the
+
+The analysis of
+
+The upstream sequences (322 bp) of the CS14 operons were also analyzed and compared using the alignment tool MAFFT. The three previously described binding sites for the CF regulator Rns (
+
+Further genomic analysis was performed to query the presence of genes encoding regulators and other known ETEC virulence factors. Using a large-scale blast ratio (LSBSR) analysis that was further confirmed by endpoint PCR for a subset of the genes investigated, all seven GEMS isolates were observed to share other non-CF virulence genes, including
+
+Expression of individual CFs is known to be regulated by a series of complex differential CF-specific mechanisms. Previous studies have demonstrated similar expression regulation of CFA/I and CS14 by the CF regulator Rns (
+
+Induced expression of CS14 by GEMS clinical ETEC isolates grown in iron-limiting conditions. ETEC strains were grown on CFA agar with or without the iron chelator deferoxamine mesylate (DFOM 200 µM). Whole cell bacterial lysates were probed with anti-CS14 or anti-DnaK antibodies. (A) Ladder (
+
+TEM was used to visualize surface expression of CS14 using negative staining and immunogold labeling. Strains were grown on CFA agar with DFOM (200 µM), and CF-specific expression was detected using anti-CS14 antibodies. In agreement with Western blot findings, CS14 fimbriae were observed on all ETEC clinical isolates (
+
+Surface expression of CS14 by GEMS clinical ETEC strains using negative staining and TEM. ETEC strains grown on CFA agar with DFOM (200 µM) were stained with uranyl acetate and visualized using TEM. Strains are as follows: 100576 (
+
+Surface expression of CS14 by ETEC strain 200023 using immunogold electron microscopy. ETEC strain 200023 was grown on CFA agar with DFOM (200 µM). The bacteria and CFs were visualized by TEM following immunogold staining with CS14-specific antibodies. Scale bar size indicated in micromolars (μM).
+
+The contribution of CS14 to adherence was assessed using HT29 colonic cell monolayers. The clinical strains were grown on CFA agar with or without DFOM (200 µM) to control expression of CS14 (
+
+CS14 mediates adherence of ETEC to human intestinal cell monolayers. Human HT-29 cell monolayers were infected with wild-type ETEC strains grown on CFA agar with (+) or without (−) DFOM (200 µM) or with the control strain
+
+In order to confirm CS14-specific adherence by these ETEC isolates, we quantified the adherence-blocking ability of CS14-specific antibodies against ETEC clinical isolates expressing CS14. Strains grown on CFA agar with DFOM (200 µM) were incubated with anti-CS14 antibody and used to infect HT29 cell monolayers for 2 h. Anti-CS14 antibody inhibited adherence of ETEC strains 200023, 300316, and 400599 by 92.9%, 82.1%, and 61.6%, respectively (
+
+Previous studies have reported the cross-reactivity of antibodies specific to class 5a fimbriae through antigen recognition using ELISA or ELISpot (
+
+Antibodies to CS4, but not CFA/I, inhibit adherence by CS14-expressing ETEC to human intestinal cell monolayers. Human HT-29 cell monolayers were infected with wild-type ETEC strains 200023, 300316, and 400599 grown on CFA agar with DFOM (200 µM) for 2 h with or without pre-incubation with anti-CFA/I antibodies (
+
+In contrast, anti-CS4 antibody inhibited adherence of ETEC 200023, 300316, and 400599 by 81.8%, 57.1%, and 48.6%, respectively (
+
+The human enteroid serves as the most relevant model to measure the effect of CS14 expression on adherence. Using the ileal enteroid line 46I, we first measured CS14-specific adherence of one representative CS14-expressing ETEC strain 200023 to enteroid monolayers. Strain 200023 was grown on CFA agar alone or CFA agar with DFOM (200 µM) for differential expression of CS14 (
+
+CS14 mediates adherence to human ileal enteroid monolayers. Differentiated ileal enteroid monolayers (46I) were infected with ETEC strain 200023 grown on CFA agar with (+) or without (−) DFOM (200 µM) for 4 h (
+
+CS14-specific adherence to enteroid monolayers by ETEC strain 200023 was also tested by quantifying the adherence-blocking ability of CS14-specific antibodies. Strain 200023 was grown on CFA agar with DFOM (200 µM), incubated with anti-CS14 antibody, and used to infect enteroid monolayers for 4 h. Anti-CS14 antibody inhibited adherence of ETEC 200023 by 78.3% to 46I monolayers (
+
+This study emphasizes the importance and functional role of the minor CF CS14 in ETEC pathogenesis across global ETEC isolates and supports CS14 as a target antigen for inclusion in future ETEC vaccine strategies. CS14 was first identified as PCFO166, a unique 7nm fimbriae expressed by ST-only ETEC clinical isolates with the serotype O166 that could also hemagglutinate erythrocytes (
+
+Using the HT29 intestinal cell line and the human enteroid model, we demonstrated that CS14 expression resulted in increased adherence by a collection of recent global isolates. The one exception, ETEC strain 700434, is most likely due to differential regulation of CS14 or expression of other virulence factors. Our results are in agreement with earlier reports of adherence by CS14+ ETEC strains E7476A and WS3294A to Caco-2 cells or human enterocytes (
+
+Previous studies investigated the expression of CS14 and the highly homologous CFA/I in different growth media. Lower levels of CS14 expression were observed following growth in SP1 media compared to that of CFA/I (
+
+The effects of iron on CFA/I and CS14 expression suggest similar regulation, possibly through Rns and IscR. Rns-directed expression of CFA/I is mediated through two Rns binding sites in the upstream promoter region (
+
+Data supporting the importance of CS14 in ETEC clinical isolates underscore its consideration for inclusion in a broadly protective ETEC vaccine. Our data demonstrate that the sequences of the CS14-encoding operons are highly conserved among the seven geographically diverse ETEC isolates from the GEMS (>99.93%). This high level of operon sequence identity suggests that optimal antigen development would lead to efficient coverage by ETEC vaccines for CS14. Given the identification of four “hot spots” for SNPs in the tip gene
+
+Clinical trial data have shown that blocking ETEC adherence with anti-CF or anti-tip adhesin antibodies prevents diarrheal disease (
+
+Another possibility for the lack of inhibition of four GEMS strains by anti-CS14 antibodies is the sequence variation observed in the tip adhesin gene
+
+Previous studies have shown cross-reactive antigen recognition of CS14 by CFA/I- and CS4-specific antibodies that were either monoclonal derived or antibodies isolated from humans, including vaccinated children and adults or those after natural infection (
+
+These antibody inhibition experiments were performed using polyclonal bivalent agglutinating anti-CF antibodies. Many studies have employed this approach to study adherence mediated by other CFs, including CS2 (
+
+Adherence inhibition of CS14+ ETEC clinical isolates by anti-CS4 antibodies, but not anti-CFA/I antibodies, raises important consideration for inclusion of CF antigens in ETEC vaccine development. Some vaccine strategies include a CS4 antigen, while others do not (

@@ -1,0 +1,90 @@
+From
+
+While the first intermediate,
+
+In this study, we proposed an innovative hybrid strategy to achieve a high yield of
+
+Major metabolic pathways associated with
+
+In the native
+
+Strains and plasmids used in this study
+
+Strain N1 could not grow in the minimal medium containing glucose owing to the disruption of natural
+
+Effects of gene
+
+Blocking the degrading and competing pathway is a useful strategy in metabolic engineering to achieve a higher accumulation of target metabolites. In
+
+In order to increase the conversion of
+
+Effects of removing the
+
+Effects of enhancing the carbamoyl phosphate supply on
+
+In addition, in both cases the only significant byproduct observed was acetate, which was produced at a titer of 2.6 g/L, 2.3 g/L, 3 g/L, 2.8 g/L, and 2.5 g/L, respectively, suggesting that glucose, in addition to supporting growth, partially overflowed toward acetate during the
+
+Strain engineering efforts to improve
+
+We next attempted to promote
+
+These above results indicated that the engineered strain can synthesize
+
+Pulling external
+
+Production of
+
+The performance of strain N11 was evaluated in shake flask fermentation with 5 g/L
+
+Shake flask fermentations of strain N11 with different concentrations of yeast extract
+
+N11: BW25113
+
+Data are indicated as means ± SD
+
+We speculated that the lower conversion of
+
+With the increasing
+
+In addition, we noticed that, with 2 g/L yeast extract added, the Y
+
+After successfully reinforcing the metabolic flux of the
+
+To achieve the goal of co-production of
+
+Comparison of
+
+In this study, we established a novel approach for the high-yield production of
+
+The
+
+Gene deletion was performed using P1 transduction and P1 phages of
+
+To assess the essentiality of
+
+Primers (Table
+
+Primers used in this study
+
+pZE-
+
+Genes
+
+pZE-
+
+Genes
+
+pZE-
+
+Gene cluster
+
+pZA-
+
+Genes
+
+Unless otherwise specified, all the strains were incubated in the fermentation medium (10 mL M9 minimal media supplemented with 5 g/L yeast extract, 40 g/L glucose, 5 mM coenzyme B12, 5 g/L
+
+Fermentation samples were collected at 24-h intervals. For measurement of the optical density at 600 nm (OD
+
+The
+

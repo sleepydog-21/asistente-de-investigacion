@@ -1,0 +1,113 @@
+The rise of carbapenem resistance in gram-negative bacteria like
+
+The study was conducted using seven clinical isolates of
+
+
+
+Description of bacterial strains used in the study
+
+Two isolates harboring
+
+Plasmid was extracted from isolates harboring
+
+PCR based replicon typing was done to characterize the plasmid encoding
+
+The transcriptional responses of
+
+
+
+Different inducing conditions under which native type, plasmid-cured type, transformant, and
+
+
+
+(native type)
+
+
+
+(transformant)
+
+And
+
+
+
+Oligonucleotide primers designed in the study
+
+lsrB (F)
+
+lsrB (R)
+
+GTCAGGTTGAAGTCTCGCCA
+
+GAATATCACGCGCTCCGGTA
+
+lsrR (F)
+
+lsrR (R)
+
+GCCTAAAATGTCGCCAACCG
+
+ACAGGACGATGCGACAATCA
+
+lsrK (F)
+
+lsrK (R)
+
+CGCACGTTCATTTCTGGGTC
+
+GTTCTTGGCGGCACATTCTG
+
+A carbapenem resistant clinical isolate of
+
+A two-way ANOVA was conducted using SPSS software to analyze the effects of different inducing conditions and strain types on the expression (RQ) of the
+
+The seven carbapenem non-susceptible clinical isolates of
+
+The plasmid (carrying
+
+Colony PCR confirmed successful transformation of plasmid into recipient strain
+
+The transcriptional response of
+
+Compared to the transcriptional response of
+
+The
+
+When the plasmid-cured type was allowed to grow under various inducing conditions, the transcriptional response of the
+
+In comparison to the transcriptional response observed in the plasmid-cured type under untreated growth conditions, the transcriptional response of the
+
+The transcriptional response of the
+
+In the transformant, the transcriptional response of the
+
+In
+
+
+
+Fig 1:
+
+lsrR gene expression in response to inducing growth conditions in native type, plasmid-cured type, transformant, and E. coli DHα5. The means of the relative expression of genes are plotted in the Y-axis against different inducing conditions plotted on X-axis. The error bars represent standard deviation (P value, <0.001)
+
+
+
+lsrK gene expression in response to inducing growth conditions in native type, plasmid-cured type, transformant, and E. coli DH5α. The means of the relative expression of genes are plotted in the Y-axis against different inducing conditions plotted on X-axis. The error bars represent standard deviation (P value, <0.001)
+
+
+
+lsrB, lsrR, and lsrK gene expression in co-cultures of P. aeruginosa andE. coli (native type, plasmid-cured type, transformant). The means of the relative expression of genes are plotted in Y-axis against untreated and treated (1 g/m1) conditions plotted on X-axis.. The means of the relative expression of genes are plotted in the Y-axis against different inducing conditions plotted on X-axis. The error bars represent standard deviation (P value, <0.001). NT= native type, PCT=plasmid-cured type, T=transformant
+
+Native type, plasmid-cured type, and transformant were respectively co-cultured with a carbapenem resistant
+
+Two-way ANOVA analysis revealed that there was a statistically significant interaction between the effects of different inducing conditions and strain type (p = < 0.001) on RQ values of
+
+Quorum sensing is an important communication process that coordinates the cooperative behavior of bacteria in response to cell density [
+
+In the native type
+
+In the plasmid-cured type, the
+
+In
+
+In the transformant, however, the transcriptional response of the
+
+In conclusion, the findings of this study demonstrated that imipenem and AHL have distinct effects on the transcriptional responses of the
